@@ -27,31 +27,72 @@ const scrapeCnnArticle = async (url) => {
         const subHeadline =
           $("p.cnnTransSubHead").text().trim() || "No sub-headline found";
 
-        const bodyText = $("p.cnnBodyText")
+        const bodyElements = $("p.cnnBodyText");
+        const bodyText = bodyElements
           .map((i, el) => {
-            // Use .html() to preserve inline structure and replace <br> with \n
             const htmlContent = $(el).html();
             return htmlContent
-              ? htmlContent.replace(/<br\s*\/?>/gi, "\n").trim() // Replace <br> tags with \n
-              : $(el).text().trim(); // Fallback to plain text
+              ? htmlContent
+                  .replace(/<br\s*\/?>(?!(\[\d{2}:\d{2}:\d{2}\]))/gi, "\n")
+                  .trim() // Replace <br> tags except those before timestamps
+              : $(el).text().trim();
           })
           .get()
-          .join("\n"); // Join paragraphs with newline characters
+          .join("\n");
+
+        // Extract speaker utterances
+        const utterances = [];
+        let currentSpeaker = null;
+        let currentTimestamp = null;
+        let currentSentences = "";
+
+        bodyElements.each((i, el) => {
+          const text = $(el).html();
+          const parts = text
+            .split(/<br>/)
+            .map((item) => item.trim())
+            .filter((item) => item !== "");
+          for (const str of parts) {
+            if (/^\[\d{2}:\d{2}:\d{2}\]$/.test(str)) {
+              currentTimestamp = str.slice(1, -1); // Remove brackets
+              currentSpeaker = null;
+              currentSentences = "";
+            } else {
+              if (/^[A-Z ,]+:/.test(str)) {
+                // Push the last utterance
+                if (currentSpeaker && currentSentences) {
+                  utterances.push({
+                    timeStamp: currentTimestamp,
+                    speaker: currentSpeaker,
+                    sentences: currentSentences.trim(),
+                  });
+                  currentSentences = "";
+                }
+                const textSplitted = str.split(":");
+                currentSpeaker = textSplitted[0].trim();
+                currentSentences = textSplitted[1].trim();
+              } else {
+                currentSentences += str + " ";
+              }
+            }
+          }
+        });
 
         return {
           headline,
           subHeadline,
           bodyText: bodyText || "No body text found",
+          utterances,
         };
       } else {
         console.log(
           `Attempt ${attempt + 1} failed with status code: ${response.status}`
         );
-        await new Promise((r) => setTimeout(r, 2000)); // Wait before retrying
+        await new Promise((r) => setTimeout(r, 2000));
       }
     } catch (error) {
       console.log(`Attempt ${attempt + 1} failed with error: ${error.message}`);
-      await new Promise((r) => setTimeout(r, 2000)); // Wait before retrying
+      await new Promise((r) => setTimeout(r, 2000));
     }
   }
   return { error: "Failed to retrieve the article after multiple attempts" };
@@ -60,8 +101,10 @@ const scrapeCnnArticle = async (url) => {
 // Directories for saving files
 const transcriptFolder = "cnn_transcripts_text";
 const htmlFolder = "cnn_transcripts_html";
+const utterancesFolder = "cnn_transcripts_utterances";
 fs.mkdirSync(transcriptFolder, { recursive: true });
 fs.mkdirSync(htmlFolder, { recursive: true });
+fs.mkdirSync(utterancesFolder, { recursive: true });
 
 // Fixed start date
 let currentDate = new Date("2021-06-30");
@@ -96,6 +139,8 @@ console.log("Started scraping CNN transcripts from 2021-06-30 backward");
               sanitizeFilename(`${dateStr} - ${headline}`) + ".txt";
             const htmlFilename =
               sanitizeFilename(`${dateStr} - ${headline}`) + ".html";
+            const utterancesFilename =
+              sanitizeFilename(`${dateStr} - ${headline}`) + ".json";
 
             const articleData = await scrapeCnnArticle(articleUrl);
 
@@ -109,7 +154,7 @@ console.log("Started scraping CNN transcripts from 2021-06-30 backward");
                   <body>
                     <h1>${articleData.headline}</h1>
                     <h2>${articleData.subHeadline}</h2>
-                    <pre>${articleData.bodyText}</pre> <!-- Preserves newlines -->
+                    <pre>${articleData.bodyText}</pre>
                   </body>
                 </html>
               `;
@@ -126,6 +171,23 @@ console.log("Started scraping CNN transcripts from 2021-06-30 backward");
               const textFilePath = path.join(transcriptFolder, filename);
               fs.writeFileSync(textFilePath, articleText, "utf8");
               console.log(`Saved text transcript to: ${textFilePath}`);
+
+              // Save utterances to JSON file
+              const utterancesFilePath = path.join(
+                utterancesFolder,
+                utterancesFilename
+              );
+              const jsonTranscript = {
+                headline: articleData.headline,
+                subHeadline: articleData.subHeadline,
+                utterances: articleData.utterances,
+              };
+              fs.writeFileSync(
+                utterancesFilePath,
+                JSON.stringify(jsonTranscript, null, 2),
+                "utf8"
+              );
+              console.log(`Saved utterances to: ${utterancesFilePath}`);
             }
 
             // Be polite with requests
