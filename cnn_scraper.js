@@ -65,6 +65,7 @@ const scrapeCnnArticle = async (url) => {
                     timeStamp: currentTimestamp,
                     speaker: currentSpeaker,
                     sentences: currentSentences.trim(),
+                    isLastSentenceInterrupted: false,
                   });
                   currentSentences = "";
                 }
