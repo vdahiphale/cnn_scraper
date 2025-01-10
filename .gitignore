@@ -63,3 +63,7 @@ coverage/
 
 # Ignore package-lock.json if needed (not always recommended)
 package-lock.json
+
+cnn_transcripts_html
+cnn_transcripts_text
+cnn_transcripts_utterances

@@ -108,7 +108,7 @@ fs.mkdirSync(htmlFolder, { recursive: true });
 fs.mkdirSync(utterancesFolder, { recursive: true });
 
 // Fixed start date
-let currentDate = new Date("2021-06-30");
+let currentDate = new Date("2025-01-09");
 
 console.log("Started scraping CNN transcripts from 2021-06-30 backward");
 
@@ -179,6 +179,7 @@ console.log("Started scraping CNN transcripts from 2021-06-30 backward");
                 utterancesFilename
               );
               const jsonTranscript = {
+                date: dateStr,
                 headline: articleData.headline,
                 subHeadline: articleData.subHeadline,
                 utterances: articleData.utterances,
