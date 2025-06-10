@@ -1,0 +1,463 @@
+{
+  "date": "2023-03-09",
+  "headline": "CNN This Morning",
+  "subHeadline": "Sen. Debbie Stabenow (D-MI) On Biden's Release Of Budget; 6- Year-Old Boy Who Shot Teacher Will Not Face Charges; Russia Launches Biggest Missile Attack Across Ukraine In Weeks. Aired 7:30-8a ET",
+  "utterances": [
+    {
+      "timeStamp": "07:30:00",
+      "speaker": "DON LEMON, CNN ANCHOR",
+      "sentences": "You have a lot on your plate, Senator. The Biden administration -- let's talk the budget now. The Biden administration --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:30:00",
+      "speaker": "STABENOW",
+      "sentences": "Sure.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:30:00",
+      "speaker": "LEMON",
+      "sentences": "-- is going to release its budget proposal today in light of what has happened in East Palestine.Would you want to see more funding in transportation and rail safety?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:30:00",
+      "speaker": "STABENOW",
+      "sentences": "Well, certainly. I mean, what we did in the infrastructure bill -- I know that the president is certainly leaning in heavily around safety. Not just rail safety -- other kinds of safety for people and for communities.The great thing about this budget -- I'm really excited, Don, about this budget because this is a president who is saying we're going to strengthen the great American success stories of Medicare and Social Security of the -- you know, to 2050s. The Republicans say they want to raise the age of Social Security, raise the age of Medicare to 70 -- both of them to 70 -- and privatize them. Let Wall Street manage Social Security. Let's see how that would work. And the president is saying no, we're going to strengthen it. We're going to take the money from negotiating prescription drugs -- the savings -- and put it back into Medicare and strengthen Medicare. And we're going to say to the folks at the very top hey, you can contribute a little bit more to something that is beneficial to everyone. So this is a vision about people investing in communities, investing in people, as opposed to the other side whose radical -- seriously, radical proposals would once again say those at the top do well and we're going to pay for it on the backs of seniors, and veterans, and kids, and everybody else.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:30:00",
+      "speaker": "LEMON",
+      "sentences": "Well, before I let you go I have to ask you about the minority leader Mitch McConnell suffering a fall last night. Any word on how he's doing?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:30:00",
+      "speaker": "STABENOW",
+      "sentences": "I don't know. I certainly send him very, very best wishes. Hopefully, this is not something serious and we'll see him back soon.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:30:00",
+      "speaker": "LEMON",
+      "sentences": "Senator Debbie Stabenow of Michigan, we'll be watching the hearing today. Thank you very much. We appreciate you joining us here on CNN THIS MORNING.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:30:00",
+      "speaker": "STABENOW",
+      "sentences": "All right, Don.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:30:00",
+      "speaker": "KAITLAN COLLINS, CNN ANCHOR",
+      "sentences": "A very important hearing to watch.Also today, we are tracking these pictures coming in from Tel Aviv. Thousands of protesters are demonstrating right now against Prime Minister Benjamin Netanyahu and his plan to weaken Israel's judicial system in what is being called a day of disruption. You can see it here. Protesters even blocking the road to one of the main airport terminals. This is having real impacts, real effects. The Defense Sec. Lloyd Austin landed in Israel just a short time ago. He has meetings with Netanyahu and the defense minister in Israel. He was actually originally due to arrive yesterday but they had to change his schedule. His trip was delayed because of concerns about these protests.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:30:00",
+      "speaker": "AI GENERATED VOICE OF POPPY HARLOW, CNN ANCHOR",
+      "sentences": "Deep fake technology has brought us lifelike versions of celebrities or fictional characters in new ways we couldn't imagine a decade ago. But how easy is it to use AI to fake someone else's voice?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:37:17",
+      "speaker": "HARLOW",
+      "sentences": "So can your ear pick up the difference between an AI- generated voice and the real thing? Listen.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:37:17",
+      "speaker": "AI GENERATED VOICE OF POPPY HARLOW, CNN ANCHOR",
+      "sentences": "It's actually a lot harder than it sounds. Yes, this is an AI version of my voice. Again, I did not record this. This is entirely fake.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:37:17",
+      "speaker": "HARLOW",
+      "sentences": "Right? Totally fake. It only took a couple of minutes from recording about a minute of my voice for AI to make what you just heard. And it may seem like a fun way to prank your friends and maybe your parents but there are serious concerns about this -- concerns that U.S. intelligence agencies warn could be a threat to national security.Donie O'Sullivan is here with a fascinating, frightening look. DONIE O'SULLIVAN, CNN CORRESPONDENT:  Yes. You might think my parents have suffered enough. Look, this is a very serious issue, but we did want to take a look to show you how it all works and we tested it out on my parents. Have a look. (BEGIN VIDEOTAPE) NOREEN O'SULLIVAN, DONIE'S MOTHER:  Hello? AI DONIE O'SULLIVAN:  Hi, mom. N. O'SULLIVAN:  Hi, Donie. How are you? AI DONIE O'SULLIVAN:  Does my voice sound different to you? N. O'SULLIVAN:  Yes, I just said that to Sinead. I said Donie sounds so American. AI DONIE O'SULLIVAN:  This is not actually me. This is a voice made by computer. N. O'SULLIVAN:  Oh my God. Are you serious? DONIE O'SULLIVAN (on camera):  Yes, mom -- sorry. There has been an explosion in fake audio and voices being generated through artificial intelligence technology. AI-GENERATED VOICE:  This is an AI-cloned version of Walter White's voice. This is an AI-cloned version of Leonardo DiCaprio's voice. DONIE O'SULLIVAN (on camera):  All you need is a couple of minutes recording of anyone's voice and you can make it seem like they have said just about anything -- even -- AI-GENERATED VOICE, ANDERSON COOPER, CNN ANCHOR:  Anderson Cooper. We've come here to U.C. Berkley today to talk to Hany Farid, a digital forensic expert about just how easy it is to put words into other people's mouths. DONIE O'SULLIVAN (on camera):  It's a lot of fun.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:37:17",
+      "speaker": "HANY FARID, PROFESSOR, UC BERKLEY SCHOOL OF INFORMATION, DIGITAL FORENSIC EXPERT",
+      "sentences": "Sure.DONIE O'SULLIVAN (on camera):  But it's also really scary.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:37:17",
+      "speaker": "FARID",
+      "sentences": "I think once you put aside that gee-whiz factor I don't think it takes a long time to look at the risks.AI-GENERATED VOICE, WOLF BLITZER, CNN ANCHOR:  This is Wolf Blitzer. Hany Farid, you are in the Situation Room. DONIE O'SULLIVAN (on camera):  That's something.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:37:17",
+      "speaker": "FARID",
+      "sentences": "That's good.DONIE O'SULLIVAN (on camera):  Yes, that sounds pretty good. DONIE O'SULLIVAN (voice-over):  By uploading just a few minutes of me and some of my colleague's voices to an AI audio service I was able to create some convincing fakes, including this one of Anderson Cooper. AI-GENERATED VOICE, ANDERSON COOPER, CNN ANCHOR:  Donie O'Sullivan is a real piece of (bleep).",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:37:17",
+      "speaker": "FARID",
+      "sentences": "(Laughing).DONIE O'SULLIVAN (on camera):  That's AI.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:37:17",
+      "speaker": "FARID",
+      "sentences": "Is it really?DONIE O'SULLIVAN (on camera):  That's AI.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:37:17",
+      "speaker": "FARID",
+      "sentences": "That's good.DONIE O'SULLIVAN (on camera):  Yes. Anderson's is really good --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:37:17",
+      "speaker": "FARID",
+      "sentences": "Man.DONIE O'SULLIVAN (on camera):  -- because Anderson doesn't have a stupid Irish accent. DONIE O'SULLIVAN (voice-over):  The technology did struggle with my Irish accent but we decided to put it to the ultimate test with my parents. DONIE O'SULLIVAN (on camera):  I am about to try to call my mom back in Ireland and see if I can trick her with this voice.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:37:17",
+      "speaker": "FARID",
+      "sentences": "Yes.DONIE O'SULLIVAN (on camera):  Do you think I'm going to be successful?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:00",
+      "speaker": "FARID",
+      "sentences": "Is this not classic? The mom's like something is wrong with my son. The dad's like everything's fine.(LAUGHTER) AI-GENERATED VOICE, JOE BIDEN, PRESIDENT OF THE UNITED STATES:  I'd like to close out today's ceremony with a question. If you were given a choice, would you choose to have unlimited bacon but no more video games, or would you rather -- DONIE O'SULLIVAN (voice-over):  With fake Biden and Trump recordings going viral online, Farid says this could be something to be wary of going into the 2024 election.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:00",
+      "speaker": "FARID",
+      "sentences": "When we enter this world where anything can be fake -- any image, any audio, any video, any piece of text -- nothing has to be real. We have what's called The Liar's Dividend, which is anybody can deny reality.DONIE O'SULLIVAN (voice-over):  With a flood of new AI tools releasing online he says companies developing this powerful technology need to think of its potential negative effects.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:00",
+      "speaker": "FARID",
+      "sentences": "There is no online and offline world. There's one world and it's fully integrated. When things happen on the internet they have real implications for individuals, for communities, for societies, for democracies. And I don't think we as a field have fully come to grips with our responsibility here.DONIE O'SULLIVAN (voice-over):  In the meantime, I'll continue annoying my colleagues. DONIE O'SULLIVAN (on camera):  Hear this to Anderson said. (END VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:00",
+      "speaker": "LEMON",
+      "sentences": "Oh, interesting.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:00",
+      "speaker": "HARLOW",
+      "sentences": "What happened?DONIE O'SULLIVAN:  You cut off the best thing.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:00",
+      "speaker": "LEMON",
+      "sentences": "We cut off the best part.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:00",
+      "speaker": "HARLOW",
+      "sentences": "What does he say?DONIE O'SULLIVAN:  It's Anderson Cooper saying I'm the best that he's ever worked with.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:00",
+      "speaker": "COLLINS",
+      "sentences": "Oh.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:00",
+      "speaker": "HARLOW",
+      "sentences": "And that's true.DONIE O'SULLIVAN:  Well, I -- LEMON:  There is a reason. Donie, I'm going to let my AI ask the question. DONIE O'SULLIVAN:  OK. AI-GENERATED VOICE OF DON LEMON:  This seems like a fun, entertaining look into this new technology but there could be some really frightening implications for this, right?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:00",
+      "speaker": "LEMON",
+      "sentences": "Who was that?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:00",
+      "speaker": "COLLINS",
+      "sentences": "It doesn't sound like --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:00",
+      "speaker": "HARLOW",
+      "sentences": "That's Don.DONIE O'SULLIVAN:  I kind of think that sounds like you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:00",
+      "speaker": "LEMON",
+      "sentences": "Is that me?DONIE O'SULLIVAN:  That is you -- yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:00",
+      "speaker": "LEMON",
+      "sentences": "Do I sound like that?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:00",
+      "speaker": "HARLOW",
+      "sentences": "No.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:00",
+      "speaker": "LEMON",
+      "sentences": "That's not a way to -- can you play that again, please?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:00",
+      "speaker": "COLLINS",
+      "sentences": "Don wants a new AI.DONIE O'SULLIVAN:  All (INAUDIBLE). AI-GENERATED VOICE OF DON LEMON:  This seems like a fun, entertaining look into this new technology but there could be some really frightening implications for this, right?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:00",
+      "speaker": "LEMON",
+      "sentences": "It sounds like Willie Geist.(LAUGHTER)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:00",
+      "speaker": "COLLINS",
+      "sentences": "Like you and Willie Geist merged your voices.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:00",
+      "speaker": "LEMON",
+      "sentences": "We're in the wrong show.DONIE O'SULLIVAN:  But I think -- to me, that kind of -- like, you know, if you're just hearing that on the go on your phone or something on the fly, people could mistake that for you. To answer your AI question, Don Lemon --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:00",
+      "speaker": "LEMON",
+      "sentences": "Would you think that's me if I called -- if you got that?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:00",
+      "speaker": "COLLINS",
+      "sentences": "No.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:00",
+      "speaker": "LEMON",
+      "sentences": "OK.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:00",
+      "speaker": "COLLINS",
+      "sentences": "It's actually comforting for me to know that AI can be --DONIE O'SULLIVAN:  Well, you guys sit next to each other for three hours every day. You really know what each other sound like. To answer your question -- your AI question, which was what are the possible dangers of this technology -- look, we obviously had some fun right there and we're having fun right here. But it's not easy -- it's not hard to see how this could all go very badly very quickly --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:00",
+      "speaker": "LEMON",
+      "sentences": "Right.DONIE O'SULLIVAN:  -- particularly as we go into next year's 2024 election. Think about the role of tapes -- of played audiotapes played in previous campaigns.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:00",
+      "speaker": "LEMON",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:00",
+      "speaker": "COLLINS",
+      "sentences": "OK, I want to hear mine. Let's see what it sounds like.AI-GENERATED VOICE OF KAITLAN COLLINS:  What exactly could this be used for? What industries could it revolutionize?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:00",
+      "speaker": "HARLOW",
+      "sentences": "A little better.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:00",
+      "speaker": "LEMON",
+      "sentences": "A little bit.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:00",
+      "speaker": "COLLINS",
+      "sentences": "Computer me.DONIE O'SULLIVAN:  Yes, I -- you know, that one -- so it has a tough time with accents -- the Irish accent.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:00",
+      "speaker": "COLLINS",
+      "sentences": "It doesn't say y'all?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:00",
+      "speaker": "LEMON",
+      "sentences": "And the southern accent.DONIE O'SULLIVAN:  My oh my. But --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:00",
+      "speaker": "HARLOW",
+      "sentences": "I feel like it did Minnesota pretty well.DONIE O'SULLIVAN:  It did, yes. I will say that what is scary about this technology, though -- right -- to generate those -- even to generate that really realistic one of Anderson, it only takes about a minute or two of audio. You pop it into these systems and you can immediately start doing that. A few years ago, as Hany Farid who was in that piece there -- he would have told us you would have needed hours and hours and hours of audio to recreate this, which you can now do with a minute and do it in a few seconds.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:00",
+      "speaker": "HARLOW",
+      "sentences": "Love it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:00",
+      "speaker": "COLLINS",
+      "sentences": "Scary.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:00",
+      "speaker": "LEMON",
+      "sentences": "Donie, pretty awesome.DONIE O'SULLIVAN:  All right. We'll see you guys soon.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:00",
+      "speaker": "HARLOW",
+      "sentences": "The best we've ever worked with.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:00",
+      "speaker": "LEMON",
+      "sentences": "I sound like Willie Geist. I like that.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:00",
+      "speaker": "COLLINS",
+      "sentences": "Next time you call me who knows who it will be?DONIE O'SULLIVAN:  You blocked my number. (LAUGHTER)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:09",
+      "speaker": "LEMON",
+      "sentences": "And the 6-year-old who allegedly shot his teacher back in January will not face charges. What we're hearing from a prosecutor this morning.(COMMERCIAL)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:03",
+      "speaker": "OMAR JIMENEZ, CNN CORRESPONDENT",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:03",
+      "speaker": "COLLINS",
+      "sentences": "-- with a 6-year-old child. What does the prosecutor say?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:03",
+      "speaker": "JIMENEZ",
+      "sentences": "And a sensitive one. You know, the prosecutor says that they've researched it thoroughly and at this point, they don't believe the law supports prosecuting or potentially even convicting this 6- year-old. Now, as you mentioned before coming to me that the parents though -- we still don't fully know if they are off the hook. Take a listen.(BEGIN VIDEO CLIP) HOWARD GWYNN, COMMONWEALTH'S ATTORNEY, NEWPORT NEWS, VIRGINIA:  After researching this issue thoroughly, we do not believe the law supports charging and convicting a 6-year-old with aggravated assault. REPORTER:  Are you able to say that the prosecutorial efforts are focusing on the parents?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:03",
+      "speaker": "GWYNN",
+      "sentences": "Well, I can say the prosecutorial efforts are focused on determining what the facts are, applying those facts to the law, and determining whether we can charge anyone with a crime that we can prove beyond a reasonable doubt.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:03",
+      "speaker": "JIMENEZ",
+      "sentences": "Now, the attorney representing the kid's parents say this gun was kept on the top shelf of the mom's bedroom closet, secured by a trigger lock but it's unclear how he actually got the weapon back in January. Police -- the police chief said it was certainly possible that the mother could face charges but obviously, we haven't seen anything here yet.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:03",
+      "speaker": "LEMON",
+      "sentences": "What do we know about the teacher? Still in recovery?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:03",
+      "speaker": "JIMENEZ",
+      "sentences": "Well, the teacher was able to make a relatively quick recovery. She was out after about a week after being shot in the chest.But her main question now -- or this other part of recovery is figuring out how this happened. Her attorney alleges that school officials knew that there was a gun on campus that day. Now, the previous principal -- the principal at the time -- has denied this. But the teacher's attorney wants to know how this all unfolded, especially since the attorney says that this kid had a history of behavioral issues and had just been suspended for breaking this teacher's cellphone. And it was the day, according to this attorney, that the student got back that this shooting happened. So obviously, still a lot to sort of here even if the 6-year-old isn't going to be charged.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:03",
+      "speaker": "LEMON",
+      "sentences": "And you will continue to follow it. Thank you, Omar.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:56:29",
+      "speaker": "COLLINS",
+      "sentences": "Russia has unleashed a wave of massive -- a massive wave of missiles all across Ukraine overnight. This is actually what it looks like in Kyiv right now. They've struck several major cities. You can see the immense amount of damage here. They knocked out power. Civilians have been killed hundreds of miles away from the front lines -- nowhere even close.Ukraine's military says that Russia has fired all sorts of different missiles overnight, including hypersonic ballistic missiles that cannot be shot down by Ukraine's air defenses. (BEGIN VIDEO CLIP) YURII IHNAT, SPOKESMAN, UKRAINE'S AIR FORCE (through translator):  As you can see, the attack is really large-scale and for the first time using such different types of missiles. This is an attack like I don't remember seeing before. Different types of aircraft were used -- strategic, long-range, MiG-31. There were 81 missile launches. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:56:29",
+      "speaker": "COLLINS",
+      "sentences": "President Zelenskyy says the Russians are, quote, \"Returning to their miserable tactics of terrorizing civilians.\"Last night, he spoke with Wolf Blitzer in an exclusive interview talking about how he believes his air force still needs those F-16 fighter jets. (BEGIN VIDEO CLIP) VOLODYMYR ZELENSKYY, PRESIDENT OF UKRAINE (through translator):  We don't have the fighter jets to deal with it and we -- to counteract the Russian hits. And we really need this and really appeal to the president they could start training Ukrainian pilots. And President Biden told me that it would be worked upon. And I believe that the United States will give us the opportunity to defend our skies. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:56:29",
+      "speaker": "COLLINS",
+      "sentences": "Joining us now from the White House lawn is John Kirby, the White House's National Security Council spokesman.John, we see fighting in Ukraine every day. We see attacks every day. But this seems to be different. What more can you tell us?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:56:29",
+      "speaker": "JOHN KIRBY, NATIONAL SECURITY COUNCIL COORDINATOR FOR STRATEGIC COMMUNICATIONS",
+      "sentences": "This was a sizable set of airstrikes with a mix of platforms, whether it's drones, cruise missiles, and we've seen the reports of hypersonics. The Ukrainians are reporting more than 80 missiles. We certainly can't confirm that specific number but we certainly wouldn't refute it.This was a sizable set of airstrikes and it wasn't just in terms of the targets -- civilian infrastructure for sure, knocking out the power and trying to turn off the heat. Certainly, they affected places like Kyiv but also -- and Odesa -- but also just widespread across the country, Kaitlan. All the way -- hitting all the way as far west as Lviv. So this was a significant night for the Ukrainians and sadly, some Ukrainians died as a result of this -- of this -- just these brutal tactics.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:56:29",
+      "speaker": "COLLINS",
+      "sentences": "Are they using new missiles, John, because we're hearing about these Kinzhal missiles that Russia is apparently included in this wave of attacks?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:56:29",
+      "speaker": "KIRBY",
+      "sentences": "The Kinzhals, yes. I mean, so I think there's a -- there is various reporting here on what they're using. We certainly believe that they used cruise missiles. We certainly think that they used drones -- most likely drones that they got from Iran.And we've seen these reports of hypersonics. This would not be the first time that the Ukrainians used hypersonics. They've done this in the past. It's difficult to understand why you would need a hypersonic missile to hit a fixed building so far away when you have other means at your disposal.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:56:29",
+      "speaker": "COLLINS",
+      "sentences": "Does Ukraine have anything right now that can knock these Kinzhal missiles -- these hypersonic missiles out of the sky?",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

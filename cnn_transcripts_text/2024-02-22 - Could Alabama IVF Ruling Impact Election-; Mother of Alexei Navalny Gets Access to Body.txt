@@ -1,0 +1,267 @@
+Headline: CNN News Central
+Sub-headline: Could Alabama IVF Ruling Impact Election?; Mother of Alexei Navalny Gets Access to Body; Massive Mobile Phone Service Outage; Interview With Former Cybersecurity and Infrastructure Security Agency Director Christopher Krebs. Aired 11-11:30a ET
+
+Aired February 22, 2024 - 11:00 &nbsp; ET
+THIS IS A RUSH TRANSCRIPT. THIS COPY MAY NOT BE IN ITS FINAL FORM AND MAY BE UPDATED.
+<br>[11:00:00]
+ 
+KATE BOLDUAN, CNN HOST:  So that's a helpful tip and a Band-Aid for the moment, right? 
+ 
+But there -- there are also reports that 911 services were impacted by the outage. What are you hearing about this? 
+ 
+BRIAN FUNG, CNN TECHNOLOGY REPORTER:  Yes, we have seen social media posts from many, many emergency services around the country saying, hey, AT&amp;T customers may have trouble making calls to 911. 
+ 
+A lot of them are recommending that, again, if you are having trouble getting in touch with first responders, use an alternative method, such as a landline or a cell phone that use another network service, like Verizon or T-Mobile. 
+ 
+They have even recommended in some situations using social media to try to get in touch with police or fire departments. And in some situations, we have also seen tweets from fire departments saying, make sure, if your fire alarm goes off, that fire alarm may not necessarily be able to connect with or contact the fire department automatically through its own dedicated telecommunications service. 
+ 
+So, make sure, if your fire alarm goes off, make a call to 911 just to be sure. Now, on the other hand, we have also seen reports that people have been making test calls to 911 trying to make sure that they can get through if need be. 
+ 
+And the Massachusetts State Police has been warning people that, hey, our 911 call centers have been flooded by these so-called test calls. And please do not do that. Do not call 911 just to make sure that you can get through, because that bandwidth, that capacity is really needed for real emergencies. 
+ 
+So, if you are concerned about your ability to access 911, just place a call to another individual, someone you know, a family member or a loved one. And if your service is working, if that call goes through, that means you will be able to call 911 if you need to. But please do not call 911 directly from your phone. 
+ 
+That's according to the Massachusetts State Police. So, all in all, this issue is causing widespread disruption, Kate. And it's particularly concerning because it's affecting public safety and emergency services whose network AT&amp;T actually does manage and is responsible for. 
+ 
+So I imagine there will be probably many questions going forward, not only about how this happened, but what AT&amp;T will do to be held accountable -- Kate. 
+ 
+BOLDUAN:  Brian, thank you so much for tracking it for us all throughout the morning. And it's not over yet -- John. 
+ 
+JOHN BERMAN, CNN HOST:  All right, with us now is former DHS senior official Chris Krebs. He currently serves as the chief public policy officer at SentinelOne. 
+ 
+Chris, thank you so much for being with us. 
+ 
+It's 11:02 a.m. AT&amp;T is still given no specific cause for this. And it's been going on a long time, five, six, seven, eight hours. What questions do you have this morning? 
+ 
+CHRISTOPHER KREBS, FORMER DIRECTOR, CYBERSECURITY AND INFRASTRUCTURE SECURITY AGENCY:  Well, good morning. 
+ 
+And based on my conversations with government officials and industry experts, they're still trying to figure out root cause of what happened here, as I think you just discussed in the opening segment. 
+ 
+Effectively, what we're looking at, as I understand it, is more than likely just a technical issue. You heard about peering. It is very likely not a cyberattack. And, unfortunately, we tend to rush to judgment these days, particularly with some of the threats that we're hearing and the awareness that's coming out of the federal government. 
+ 
+So I would be looking to understand, what was the technical issue? They do happen, ruling out any sort of malicious actor, and then looking to see what the kind of go-forward plan is by AT&amp;T. 
+ 
+BERMAN:  Why does it take so long to get a specific answer about what's going on or what went wrong? 
+ 
+KREBS:  Well, it is a very large network and they're very complex systems. And they do want to have accuracy. 
+ 
+And, sometimes, it does take time to kind of sort through the fog of the incident or the crisis to understand what happened. And, more importantly, you want to make sure that, when you communicate what's going on, that you have a plan and what you're doing to address it to ensure that you can reassure everyone that -- going forward, that the issue will be addressed, taken care of. 
+ 
+BERMAN:  Now, I know you said that there is a rush to judgment, but I am curious, given all you know and how much you have studied this and written about it, and I have heard you talk about this before. I mean, what goes through your mind when you wake up, grab your cell phone and you see at the top SOS? KREBS:  Yes, unfortunately, we do in this day because there is plenty
+ 
+ of bad actor activity, from criminal activity. 
+ 
+We just heard earlier this week that the U.S. government and other allies disrupted about a 23 percent player in the cybercrime ecosystem, LockBit. And that's a great thing. We also have heard over the last couple of weeks that we have -- or really the last year, frankly, that the Chinese are targeting -- Chinese Communist Party and their security services are targeting us critical infrastructure, including communication systems. 
+ 
+So -- and I unfortunately had a nickname in my time at DHS of Catastrophic Krebs. And I do tend to jump to the worst, at least to rule it out first. So you do want to understand what the potential worst-case outcome here is and work back from there. 
+ <br>[11:05:14]
+ 
+But it, of course, immediately jumps to mind, hey, these are the sorts of things that China and Russia and others are trying to do in their broader infrastructure disruption campaign and activities. But it is good to know that there are competent response teams at AT&amp;T and elsewhere working hard on this crisis. 
+ 
+And I'm fairly confident they will get a result quickly and let us know what happened. 
+ 
+BERMAN:  Well, let me ask you this, Catastrophic Krebs. 
+ 
+(LAUGHTER)
+ 
+BERMAN:  We as consumers, what is it that we can do to prepare for this? Because Brian Fung was saying one of the things that people are being told is, you use a landline to call 911. 
+ 
+And I know there are a lot of people out there saying, what's a landline? We got rid of our landline a long time ago. How do people need to prepare for a moment when the cell phone network does go down for many hours? 
+ 
+KREBS:  Well, there are a series of -- or a number of different redundancies built in. 
+ 
+For one, you mentioned Wi-Fi calling. Wi-Fi calling is a great option, also ensuring that you have in your community or in your neighborhood, nearby other folks you can talk to. Not everyone is on AT&amp;T. And there are a number of different providers that are operational right now. 
+ 
+So it's always a good time just to reach out and check in with other folks. And then I think, coming down the road, you will also have other options, like satellite uplinks on some of the more modern devices like iPhones that allow you to make emergency calls if you do not have a normal cellular signal. 
+ 
+BERMAN:  Yes, I do think it's safe to say cyberattack or not, it's not a matter of if there will be a major outage even longer than this one, but maybe a when. It will happen. 
+ 
+KREBS:  This is a -- so, this is a great point.
+ 
+I think, more than anything right now, what we're seeing is that we are increasingly dependent in every aspect of our life, whether it's work, in our homes and in our communities -- we are increasingly digitally connected. And the things that we're connecting to the Internet do rely on a strong, consistent, reliable signal.
+ 
+And it is pretty unnerving when that signal is broken or severed. So I think we really do more broadly need to look at, what are the failovers, what are the redundancies that allow us to continue operating in times of crisis or stress? 
+ 
+BERMAN:  Yes. And when it comes to cell phones, canned goods not the answer, right? Sometimes, when you're preparing for things, you think canned goods is what you can do. No, much more than that involved here. 
+ 
+Chris Krebs, thank you so much for being with us. Thank you for telling us what is now the best nickname I have heard in a long, long time -- Kate. 
+ 
+BOLDUAN:  This also just in. The Biden campaign is now using the Alabama Supreme Court ruling to go after Republicans far beyond that state, saying that decision was only possible because of Donald Trump, this coming from the Biden campaign, and also calling the ruling a -- quote -- "blueprint for the extreme MAGA reproductive agenda."
+ 
+This as we have also just learned a second clinic, a second health system, if you will, in Alabama is now pausing IVF treatments. Alabama Fertility announced this morning it is pausing embryo transfers. Yesterday, the state's largest hospital system announced that it is pausing IVF procedures.
+ 
+Earlier this morning, I spoke with a woman's health advocate in Alabama about this big question of what comes next. 
+ 
+(BEGIN VIDEO CLIP)
+ 
+ROBIN MARTY, EXECUTIVE DIRECTOR, WEST ALABAMA WOMEN'S CENTER: University system will have to look at what their insurance is going to look like. Are doctor malpractice insurance going to go through the roof, which is likely because now they're open to a whole new batch of lawsuits?
+ 
+This is financially going to put infertility treatment out of reach for most people in Alabama, frankly, even if it does become something that they can somehow modify to make something safer under the guise of the new rules from the Supreme Court. 
+ 
+(END VIDEO CLIP)
+ 
+BOLDUAN:  It impacts families, friends, people across the country.
+ 
+Hundreds of thousands of Americans rely on IVF and -- IVF and other fertility treatments every year. A Pew survey -- John highlighted this in earlier hours, and it's worth reiterating. A Pew survey last year found that 42 percent of adults have used fertility treatments or know someone who has. 
+ 
+You can see the reach here. The issue is clearly becoming another major political issue on the campaign trail. 
+ 
+Let's talk about both sides of this. 
+ 
+CNN's Kylie Atwood following the Nikki Haley campaign in Charleston, South Carolina. CNN's Arlette Saenz is at the White House. 
+ 
+Kylie, let me begin with you. 
+ 
+Talk to me about Nikki Haley, her response to this ruling, what the conversation has been since. Is this becoming an issue for her? 
+ 
+KYLIE ATWOOD, CNN NATIONAL SECURITY CORRESPONDENT:  Well, we have seen her response sort of evolve over the last 24 hours or so. 
+ 
+She was initially asked yesterday by NBC News if she agreed with the Alabama Supreme Court ruling, and she seemed to indicate that she did when she answered the question by saying that she believes that embryos are babies. 
+ <br>[11:10:04]
+ 
+She didn't weigh in on the part of the ruling, however, that says that those who destroy those embryos could be held liable of wrongful death. And then, in a conversation last night on CNN's "KING CHARLES," she sought to clarify her position. Listen to what she said. 
+ 
+(BEGIN VIDEO CLIP)
+ 
+NIKKI HALEY (R), PRESIDENTIAL CANDIDATE:  I didn't say that I agreed with the Alabama ruling. 
+ 
+What -- the question that I was asked is, do I believe an embryo is a baby? I do think that, if you look in the definition, an embryo is considered an unborn baby. And so, yes, I believe from my stance that that is.
+ 
+(END VIDEO CLIP)
+ 
+ATWOOD:  Now, Nikki Haley is clearly threading the needle very carefully here, something that she has done on this delicate issue of childbearing, pregnancy, abortion throughout the entire course of her presidential candidacy here. 
+ 
+She has called for a national consensus on abortion. She said that she wouldn't back a national ban on abortion, but leaving the door open to questions about if she's concerned with regard to the potential fallout from this ruling, given especially that she notes that she herself relied on IVF to conceive one of her children. 
+ 
+BOLDUAN:  Stand by for me, Kylie. Let's bring in Arlette on this.
+ 
+Arlette, I mentioned a little bit of the what the Biden campaign -- oh, we might not have -- Arlette might not be able to hear me.
+ 
+Arlette, can you hear us?
+ 
+I don't think Arlette can hear us. 
+ 
+So, let me reiterate. We were going to talk -- I was going to talk to Arlette. Maybe we will get her back. Please let me know. 
+ 
+I was to talk to Arlette about what more the Biden campaign is saying as they put out this statement. But I have some of it here, so I can read it for you. The campaign is really using this to blast Republicans far beyond Alabama and trying now to make this connection. 
+ 
+This is from the legal fallout to now to the political fallout, what they're trying to do, and saying that this is only possible -- quote -- "is only possible because Donald Trump's Supreme Court justices overturned Roe v. Wade" and calling the ruling a -- quote, unquote -- "blueprint for Republicans' extreme MAGA reproductive agenda."
+ 
+So you can see that this -- reproductive rights has already been a major issue for the Biden campaign. They're trying to make it a major issue. They want to keep it on the forefront. Kamala Harris has even had a fight for reproductive freedoms tour that she's been on as part of the reelection campaign, and you see this feeds right into that -- John. 
+ 
+BERMAN:  All right, with us now, CNN political commentator and former South Carolina State Representative Bakari Sellers and CNN senior political commentator Scott Jennings, this as Kate meanders over to stand beside me on this. 
+ 
+BOLDUAN:  Meander is a very nice way of saying how I walk these days. 
+ 
+BERMAN:  Stomps? Walks, stomps? You're here. That's the important thing. 
+ 
+(LAUGHTER)
+ 
+BERMAN:  Look, I want to read to you -- I was reading Politico this morning and it had a quote from Kellyanne Conway on the issue of IVF here. 
+ 
+It says: "Former top Trump adviser and longtime ally Kellyanne Conway has warned Republicans away from bans or limits on IVF and in fact advised them to forcefully support such treatments during a Capitol Hill briefing in December. Conway shared polling that found that an overwhelming number of voters, 86 percent, support IVF, even those who consider themselves pro-life and evangelical."
+ 
+So, again, I know this is an issue that's emotional and very real for a lot of people trying to have children. There's also the politics of it. Bakari, first to you. What do you make of Kellyanne's comments and
+ 
+ where things stand? 
+ 
+BAKARI SELLERS, CNN POLITICAL COMMENTATOR:  Well, mark this on the calendar. I agree with Kellyanne Conway. 
+ 
+This isn't about politics or emotion. This is about real life for so many people. I mean, for me, this is about Sadie and Stokely. It was very difficult for us to get pregnant -- well, my wife to be pregnant. And Ellen and I, we went through IVF, we went through the shots, we went through not one set of treatment, but two, very, very difficult process, the emotional ups and downs, and hoping that your embryos don't get destroyed or make it throughout the process. 
+ 
+And this is -- this for many people is more than just some exercise in politics. This is a very, very personal, intimate decision that's made. It's a very expensive decision that's made. And at the end of the day, I have two 5-year-old twins who are breathing and kicking and keeping us up late at night all because we had the opportunity to go through IVF. 
+ 
+The difficulty is, when you have a bunch of old white men like on the Alabama Supreme Court making decisions for Bakari and Ellen, Sadie and Stokely may not be here. And I think that that is the assault on reproductive rights that is infuriating many people. 
+ 
+And this isn't a Democrat or Republican issue. This isn't a black or white issue. This isn't a Yankee versus Southern issue. This is just an issue of good moral decency and what makes good common sense. And the fact is, they would rather be in my bedroom than make good decisions about the sanctity of life and what that should look like. 
+ <br>[11:15:09]
+ 
+And Nikki Haley twisting herself in pretzels, this is when she gives those half-assed statements, which is why she won't be president of the United States. I want more people to stand on the side of life, but that meaning getting out of the way of reproductive rights for women like my wife.
+ 
+That also means taking care of them when they get here. And Republicans just can't seem to do that. They can't fathom allowing me and my wife to make our own decisions. 
+ 
+BOLDUAN:  Scott, I don't think -- I think I'm misusing the dog caught the car kind of connection to this. It's a little bit different than that. 
+ 
+But do -- basically, my point is, is this a problem for Republicans? Take what Kellyanne Conway said. And Bakari is a perfect example of IVF and fertility treatments in general impact everyone's lives, basically, at this point. 
+ 
+SCOTT JENNINGS, CNN SENIOR POLITICAL COMMENTATOR:  Yes, look, I know a lot of Republicans, know a lot of conservatives, know a lot of pro- lifers, consider myself to be a strong pro-lifer. I don't really know anybody who wants to restrict fertility
+ 
+ treatments. In fact, we're a pro-family party. I mean, we want people to have babies and have families and be happy with that. And so I don't know the legal ins and outs of this particular case, but, as a political and policymaking matter, I don't hear Republicans and I don't hear conservatives out there crusading around saying we have to end all fertility treatments in the United States. 
+ 
+I think Kellyanne's assessment is correct. I'm sure the polling she cited is absolutely right. So, as a policy matter, I think the Republican Party ought to continue to embrace the idea of people having families, starting families, and using the medical technology that's available to us. It's a miracle that it's available to us today to get that done.
+ 
+As Bakari talked about with his own family, these are miracles from God that we're even able to have this technology that allows people who have trouble to do it. So, as a policy and political matter, I think the Republican Party is probably going to continue to embrace the idea of making families and having strong nuclear families. 
+ 
+BOLDUAN:  But I think there's a kind of a -- may end up being a distinction here between policy and the politics of it. 
+ 
+BERMAN:  Look, part of the issue now is, this decision happened in Alabama saying that embryos are babies and cannot be destroyed. The destruction of embryos is something that happens in IVF treatment over time, because a lot more are made and fertilized over the process that are actually used and implanted. 
+ 
+And so now you have these hospitals saying, we can't operate in this legal situation, so we're just stopping the IVF treatments. And so, as a political matter, Scott, first to you, has Dobbs, which is a decision that I know a lot of Republicans have celebrated, has it opened up the possibility that you create these situations in different states around the country? 
+ 
+JENNINGS:  Well, it's opened up the possibility that each state needs to identify issues with its own laws and make sure that you don't have situations that are unforeseen like this. 
+ 
+So it's every state's responsibility. If you're a federalist and you believe in states having autonomy over policymaking -- that was the whole issue behind the abortion ruling -- then the next part of that is that the policymakers in those states have to say, what makes sense? What's good common sense here? Can we be pro-life and can we also support fertility treatments?
+ 
+Of course, the answer is yes. Anybody with half-a-brain would say the answer is yes. Anybody with any common sense would say the answer is yes. So my encouragement to the policymakers in Alabama would be to say, OK, OK, this is not what we want here. We want to protect life. We are strongly pro-life and we are strongly pro-family and none of these things are in opposition with each other. 
+ 
+BERMAN:  Scott Jennings, Bakari Sellers, a couple of great dads and great parents. Glad that you're both...
+ 
+BOLDUAN:  That is not in dispute. 
+ 
+BERMAN:  No.
+ 
+BOLDUAN:  That is not in dispute. 
+ 
+BERMAN:  I'm so glad you are both in this game. Appreciate it. 
+ 
+BOLDUAN:  Thanks, guys. 
+ 
+We have some breaking news just coming in. Alexei Navalny's mother has just seen his body. We are just getting this in right now. We're going to have a live report from Moscow on this next. 
+ 
+Plus, we're also tracking, will President Biden -- will he be taking matters into his own hands at the border? The executive action that is being considered, what it could mean, we have got that coming up. 
+ 
+And a gunman opened fire on a highway near the West Bank. What we're learning about that deadly situation. 
+ 
+(COMMERCIAL BREAK) 
+ <br>[11:24:13]
+ 
+BERMAN:  All right, this just in, a major development out of Russia. 
+ 
+Alexei Navalny's family says that his mother has finally seen his body. That is six days after his death. Now she says investigators are trying to blackmail her into setting burial conditions for her son. 
+ 
+CNN's Matthew Chance live in Moscow with the latest on this.
+ 
+Matthew, what can you tell us? 
+ 
+MATTHEW CHANCE, CNN CHIEF GLOBAL AFFAIRS CORRESPONDENT:  Yes, well, this is coming from Salekhard, which is that remote town in the far north of Russia near to the penal colony in the Russian Arctic where Navalny died last Friday. 
+ 
+His mother, Lyudmila, is there. It's nearly 2,000 miles away from Moscow. And she's been trying for the past five or six days to try and get access to the remains of her son, so that she could give a funeral -- give the body a funeral humanely. 
+ <br>[11:25:06]
+ 
+And she's even started a legal case to try and get access to it, because there's been some confusion about where it is. She says she's been misled. Well, now, within the past few moments, Lyudmila Navalnaya says that she has actually seen the body of her son, Alexei Navalny, presumably at the morgue in that small Arctic town. 
+ 
+But she says that the Russian authorities there -- and these are her words -- are attempting to blackmail her to decide when, how and where the remains should be laid to rest. She's saying that they want the burial to take place secretly without the ability of her family to say goodbye. 
+ 
+I mean, that's all we have got at the moment, but, clearly, this is an incredibly emotional time for the family of Alexei Navalny. But it's also an intensely political one as well because I think what the authorities are most concerned about is that a funeral for this leading opposition figure, a man who in life could bring tens of thousands of people onto the streets in protest against the Kremlin, may now turn into another rallying point against the government of Vladimir Putin. 
+ 
+And just weeks before a presidential election here, that's something the Russian authorities desperately want to avoid, John. 
+ 
+BERMAN:  Matthew Chance, I know you're juggling a lot of things, and we appreciate you running to the camera with this information that we're just getting in. 
+ 
+On another front, I do understand that Vladimir Putin is responding to President Biden, who at an event overnight called him a crazy SOB. 
+ 
+CHANCE:  Well, look, I mean, there's been a couple of responses. 
+ 
+The one that I'm most familiar with is the one that came earlier today from Vladimir Putin's spokesperson, Dmitry Peskov, the Kremlin's spokesperson. He basically said that was a rude comment, and he said it was shameful to the United States. I'm slightly paraphrasing what he said. 
+ 
+He also said that Biden was trying to act like a Hollywood cowboy, and trying and failing was the implication. And so it's sort of incredible that the relationship between these two biggest nuclear powers in the world has descended into a war of words. 
+ 
+It's almost like a school playground. And this, of course, as another U.S. citizen, this time a joint U.S.-Russian citizen, has been taken into custody here in Russia, accused of treason, facing a possible lengthy prison sentence. There are several Americans now, including Paul Whelan, the former Marine, Evan Gershkovich, the "Wall Street Journal" reporter, who are now in Russian custody. 
+ 
+And there's some concern and some analysts sort of making the point that these people could be being gathered in preparation for some kind of negotiation and to use as leverage in negotiations with the United States in the future. 
+ 
+BERMAN:  Matthew Chance, we do appreciate your reporting under difficult circumstances. Thank you so much for the work you're doing there -- Kate.
+ 
+BOLDUAN:  So, a black Texas student suspended for months over his hair. Now, this fight is now going to trial, and it's getting under way. 
+ 
+We will take you there. (COMMERCIAL BREAK)

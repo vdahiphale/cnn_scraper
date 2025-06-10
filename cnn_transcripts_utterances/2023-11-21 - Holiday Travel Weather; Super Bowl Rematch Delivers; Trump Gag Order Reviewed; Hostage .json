@@ -1,0 +1,403 @@
+{
+  "date": "2023-11-21",
+  "headline": "CNN This Morning",
+  "subHeadline": "Holiday Travel Weather; Super Bowl Rematch Delivers; Trump Gag Order Reviewed; Hostage Deal Could be Announced Today. Aired 6:30-7a ET",
+  "utterances": [
+    {
+      "timeStamp": "06:30:00",
+      "speaker": "ALLISON CHINCHAR, CNN METEOROLOGIST",
+      "sentences": "To the south. Rain spreading into Birmingham, Charlotte, an then some stronger thunder storms down there along Mobile, Alabama.Now, today, the best potential for the strongest, severe thunder storms exists from the coastal region of Mississippi, all the way over towards Virginia Beach. The main concerns today will be damaging winds and the potential for an isolated tornado. Then from there these systems continue to slide off to the east, taking with it the rain and the snow and the subsequent travel delays likely. You'll start to see it spread into the mid-Atlantic and the northeast by tonight. So, if you have some travel plans for cities like New York and D.C., make sure you check to see if any of your connections may have been delayed.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:30:00",
+      "speaker": "POPPY HARLOW, CNN ANCHOR",
+      "sentences": "OK, Allison, thanks very much.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:30:00",
+      "speaker": "ERICA HILL, CNN ANCHOR",
+      "sentences": "Plenty of excitement for last night's game between the Philadelphia Eagles and the Kansas City Chiefs. The Super Bowl rematch. Of course, the brothers playing each other.Here's what didn't happen. Taylor Swift and Travis Kelce's parents did not end up getting the chance to meet each other for the first time. I know you were waiting for it. There was still football to watch, though. And that game, apparently, lived up to the hype. Coy Wire, if I - you know, I had to go to bed so I was relying on my kids for the recap this morning, they didn't leave me any information.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:30:00",
+      "speaker": "COY WIRE, CNN SPORTS ANCHOR",
+      "sentences": "I needed to go to bed, but I stayed up. I was looking forward to this. Taylor Swift had to do this makeup concert in Brazil, so mom and dad decided against the NFL versions of meet the parents, Erica. We still had a Kelce/Swift sighting, though. Travis' brother, Jason, and his running back, D'Andre Swift.Little brother Travis did score in this game. Second quarter, Kansas City was up 10 at the half, but Kelce had just 44 yards as Philly came out on fire in the second half. Travis Kelce fumbling by Bradley Roby's punch out there. And then Philly would made them pay. Jalen Hurts hitting DeVonta Smith for 41 yards, setting up the go ahead score in a bit of deja vu from the Super Bowl. Mahomes getting a chance to win this one. Final drive, Marquez Valdes- Scantling drops it, though. Chiefs lead the league in drops. Mahomes can't believe it. K.C. would not win this time. The Super Bowl rematch and perhaps a preview of this next one lived up to the hype. Brotherly love on display. The Eagles win, 21-17, avenging their Super Bowl loss. They're now 9-1 for a second straight season. But Erica and Poppy, this bizarre trend continues. Taylor Swift has missed five of Travis Kelce's game. He's averaging just 41 yards. And the Chiefs have two losses in those. But in the four games she's been there, Kelce has over 100 yards. K.C. is undefeated. So, I think Travis is probably wondering, when is she going to be coming back to my game. And maybe all of Chiefs fandom as well.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:30:00",
+      "speaker": "HARLOW",
+      "sentences": "Why is this surprising? Do we not all remember, you know, trying to like show off for our crush in high school?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:30:00",
+      "speaker": "HILL",
+      "sentences": "I - I - is that what he's doing?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:30:00",
+      "speaker": "HARLOW",
+      "sentences": "No, I'm just saying, you do better when the person's there, right?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:30:00",
+      "speaker": "HILL",
+      "sentences": "See, I feel like it would stress me out -",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:30:00",
+      "speaker": "HARLOW",
+      "sentences": "No.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:30:00",
+      "speaker": "HILL",
+      "sentences": "It would stress me out more and I would screw up. I would be terrible.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:30:00",
+      "speaker": "HARLOW",
+      "sentences": "No.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:30:00",
+      "speaker": "WIRE",
+      "sentences": "I try to show off.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:30:00",
+      "speaker": "HARLOW",
+      "sentences": "She does have a day job.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:30:00",
+      "speaker": "WIRE",
+      "sentences": "I still do a good job for my wife (ph).",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:30:00",
+      "speaker": "HILL",
+      "sentences": "She does have a day job. And let's not forget that, you know, she does sort of - things she touch turns to gold.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:30:00",
+      "speaker": "HARLOW",
+      "sentences": "Amen.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:30:00",
+      "speaker": "HILL",
+      "sentences": "So, I think, you know, maybe you have a point.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:30:00",
+      "speaker": "HARLOW",
+      "sentences": "Amen. I'm here for this conversation.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:30:00",
+      "speaker": "HILL",
+      "sentences": "Coy wire.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:30:00",
+      "speaker": "HARLOW",
+      "sentences": "Thanks, Coy.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:30:00",
+      "speaker": "HILL",
+      "sentences": "Thanks, Coy.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:30:00",
+      "speaker": "WIRE",
+      "sentences": "You got it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:30:00",
+      "speaker": "HARLOW",
+      "sentences": "Mar-a-Lago welcomed a high-ranking visitor last night, the new speaker of the House, Mike Johnson. We have new details on his meeting with former President Trump.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:37:23",
+      "speaker": "HARLOW",
+      "sentences": "We are waiting for a federal appeals court to decide if it will restore a gag order against Donald Trump. This is in the federal election subversion case. It appears the three-judge panel is leaning toward significantly narrowing that gag order. As one judge on the panel put it, the court would need to use a careful scalpel.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:37:23",
+      "speaker": "HILL",
+      "sentences": "The panel heard arguments during a tense hearing in D.C. yesterday. Trump's attorneys arguing that any gag order would violate his free speech rights.(BEGIN VIDEO CLIP) D. JOHN SAUER, TRUMP ATTORNEY: The order is unprecedented, and it sets a terrible precedent for future restrictions on core political speech. JUDGE PATRICIA MILLET, D.C. CIRCUIT COURT: This is only affecting the speech temporarily during a criminal trial process by someone who has been indicted as a felon. No one here is threatening the First Amendment broadly. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:37:23",
+      "speaker": "HILL",
+      "sentences": "Josh Barro is back with us. Also joining us here at the table is CNN's senior legal analyst Elie Honig.Elie, what is your takeaway based on what we heard in terms of the questioning yesterday and then the answers as well, specifically from Trump's attorneys.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:04",
+      "speaker": "HARLOW",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:04",
+      "speaker": "BARRO",
+      "sentences": "So, I think it's, you know, I think it's fairly likely that we'll see a little bit more adjust from the that.But it -- you know, any version of this leaves Trump with a fair amount of leeway to talk about the prosecution broadly, the idea that it is a politically motivated prosecution. And so I think, you know, as a political matter, I think the things that he will be able to say are actually not that different in terms of their effect on our politics depending on how this comes down. But, obviously, the judge has some concerns about the specifics and how that affects running the trial.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:04",
+      "speaker": "HILL",
+      "sentences": "And to your point, it's sort of a win for him, right in terms of, he can continue with the narrative that he has used for years, that he is being silenced, that people are coming after him. There's still a way to say that, and that wouldn't necessarily be impacted. How would something be enforced?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:04",
+      "speaker": "HONIG",
+      "sentences": "Yes, so, well, if the gag order remains in place and Trump violates it, then the judge really has two options. One is fines. And we've seen fines in the New York civil case, $5,000 and then $10,000. But judges can fine more than that.The other option, which is not realistically going to be used here, is imprisonment. I don't think it's useful to talk about that. To the point we were talking about, about how some of this plays into Trump's hands. I think DOJ comes in for some criticism here because their original proposal to the judge, I'm sure I said it on this show when it was made, was ridiculous. It was way overbroad. It was way overly sensitive. They said, he can't say anything about anybody. That was never going to stand. Give Judge Chutkan credit. She looked at that and said, no way. She substantially narrowed it down. Now it's probably going to be narrowed down a little more. One other thing that I feel obliged to point out, the federal court of appeals yesterday gave us a live audio stream of the proceedings so we could go on our computer and listen to it. Note to the district court, the sky did not fall. We got to see this. We all benefitted from it. Let the cameras in. At least give us an audio feed.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:04",
+      "speaker": "HARLOW",
+      "sentences": "Look, the Supreme Court, I would grant they should put cameras in, but they give us audio, live audio, as well.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:04",
+      "speaker": "HONIG",
+      "sentences": "They do too. Right. Exactly.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:04",
+      "speaker": "HARLOW",
+      "sentences": "So, why shouldn't it be at all levels.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:04",
+      "speaker": "HONIG",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:04",
+      "speaker": "HARLOW",
+      "sentences": "Mike Johnson is now the highest ranking Republican in Congress to officially endorse Trump. Went down to Mar-a-Lago. Let's listen to what he said. This was on CNBC a couple days ago and then talk about this here.(BEGIN VIDEO CLIP) REP. MIKE JOHNSON (R-LA): I have endorsed him wholeheartedly. Look, I was one of the closest allies that President Trump had in Congress. He had a phenomenal first term. Those first two years, as you all know, we brought about the greatest economic numbers in the history of the world, not just the country, because his policies worked. And I'm - I'm all in for President Trump.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:04",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "OK, good. All right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:04",
+      "speaker": "JOHNSON",
+      "sentences": "I think - I know - I expect he'll be our nominee -",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:04",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Then he -",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:04",
+      "speaker": "JOHNSON",
+      "sentences": "Yes, and he's going to win it and we have to make Biden a one-term president. We have to do that.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:04",
+      "speaker": "HARLOW",
+      "sentences": "He has always stood by Trump. He was on his impeachment team, et cetera. But the significance of this. Does Trump need it or just a nice to have?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:04",
+      "speaker": "BARRO",
+      "sentences": "It was always a little bit weird that Kevin McCarthy hadn't endorsed him.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:04",
+      "speaker": "HARLOW",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:04",
+      "speaker": "BARRO",
+      "sentences": "I didn't fully understand why. There was some reporting about that Kevin McCarthy felt that there were some donors to House Republicans who didn't like Trump and they could actually raise more money for House Republicans if he didn't endorse him. It's - you know, the -- the party and the whole broad apparatus is obviously in for Trump. So, it might as well be out there on the table.I mean you note his -- his history of support. I mean he's also one of the people who was really pushing these ideas in the lead-up to January 6th about the idea that, you know, that you, in fact, could have an effort in Congress to overturn the outcome of the election.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:04",
+      "speaker": "HARLOW",
+      "sentences": "He was one of the leads on the Texas lawsuit trying to do that.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:04",
+      "speaker": "BARRO",
+      "sentences": "Yes. Yes. Yes, so -",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:04",
+      "speaker": "HARLOW",
+      "sentences": "Representing all these states.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:04",
+      "speaker": "BARRO",
+      "sentences": "So, as, you know, as -- the spectrum of people in Congress and how in they are for whatever nonsense Donald Trump wants to pull, he's been, you know, fairly far down that spectrum.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:04",
+      "speaker": "HARLOW",
+      "sentences": "OK, thank you, Josh, Elie. Good to have you both.The head of Microsoft, Satya Nadella, now leaving the door open for Sam Altman, the former CEO of OpenAI to come back to the company maybe after the board fires him days ago. The latest on this rapidly developing story.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:48:11",
+      "speaker": "ANNOUNCER",
+      "sentences": "This is CNN breaking news.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:48:11",
+      "speaker": "HARLOW",
+      "sentences": "And we do have this breaking news just into CNN regarding a potential hostage deal between Hamas and Israel.Let's go straight to our MJ Lee. She joins us at the White House. What can you tell us?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:02",
+      "speaker": "HILL",
+      "sentences": "Could come as early as today. This potential pause, four to five days. Again, if folk are just joining us, 50 women and children hostages, a three for one deal when it comes to three Palestinians for one hostage.I was really struck too by this agreement potentially that could be announced of this pause in drone surveillance of six hours each day. That was something that was really being pushed for. There was some push back. Important to note that that could be announced.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:02",
+      "speaker": "LEE",
+      "sentences": "Yes. And you can easily imagine why that would have been an incredibly contentious point for everyone involved. The idea that the drones overhead surveilling Gaza, that that activity would be stopped for even a significant portion of time, we're talking again of at least six hours a day. That, at least as far as the Israelis are concerned, would be windows in time when Hamas could regroup, where they could basically go about doing their business without having eyes over them.Now, the idea that this was agreed to probably means that Hamas initially had asked for an even longer pause, that they could have asked for that pause of surveillance drones to be longer in time. And where we ended up, again, we are told is at least six hours a day over northern Gaza. But you're very right, that that would have been a very contentious point of discussion between the negotiators that are involved.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:02",
+      "speaker": "HARLOW",
+      "sentences": "MJ, you said that the three year old, Abigail Edan, is also believed to be included in this. You see her there on the left of your screen. And we had her aunt on with us last week just talking about the efforts to try to get her out. She has, in many ways, been one of the key faces of all of this. What else can you tell us about her and the other children that are being held?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:02",
+      "speaker": "LEE",
+      "sentences": "Yes. The hope and expectation again is that this three-year-old toddler, she's the youngest known American hostage, will be among the 50 hostages that are released. Obviously, nothing is guaranteed right now. I just have to stress that this is the hope and the expectation.But we did notice, of course, starting a couple of days ago, the president himself talking about this three-year-old in particular. And as you - as you put it, this is somebody who has almost become a face to represent some of the American hostages that are being held by Hamas in Gaza. But the truth of it, Poppy, is that we just have so little information right now about the identity of the hostages, including the Americans that are in the mix, their condition, their whereabouts. So, it has been incredibly difficult for really any of the officials that are involved in the negotiations to talk in specifics about the hostages. The fact that we have heard U.S. officials in recent days specifically refer to this three-year-old has had a lot of people hoping that this means that there is a good amount of hope and understanding that she is, in fact, alive and that she will be returned as this initial -- as a part of this initial group of hostages that is released. Again, this is the hope right now. And, of course, what we don't know right now is whether there are going to be other Americans that are in the mix of this initial group of 50 hostages that are released.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:02",
+      "speaker": "HARLOW",
+      "sentences": "And that had been one of the key questions that Jon Finer was asked on CNN this weekend, would any agreement happen without all Americans included hostages. And we just don't know, as you said.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:02",
+      "speaker": "HILL",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:02",
+      "speaker": "HARLOW",
+      "sentences": "MJ --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:02",
+      "speaker": "LEE",
+      "sentences": "Well -",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:02",
+      "speaker": "HARLOW",
+      "sentences": "Go ahead. Go ahead.  Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:55:01",
+      "speaker": "HILL",
+      "sentences": "Yes, absolutely.MJ, stay with us. I also want to bring in Oren Liebermann. He is in Tel Aviv this morning. Natasha Bertrand also joining us from Washington. Oren, we were talking just earlier this morning about the anger and the frustration that we had seen from so many of these hostages just yesterday in Israel speaking with officials there. What is the reaction this morning? What more are you hearing in Israel this morning, Oren?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:55:01",
+      "speaker": "OREN LIEBERMANN, CNN CORRESPONDENT",
+      "sentences": "Well, what's interesting is one of the key questions, of course, that we had for the families of the hostages who met with the war cabinet was, did you get any information that a deal was imminent, that this was about to take place? Certainly you have to believe that Prime Minister Benjamin Netanyahu would have known it was this close to happening. But from speaking to several of the families who were in that meeting, they gave us no indication that they were told some sort of deal for the evacuation or the release of 50 hostages was about to happen. So, that will certainly add to the frustration they're already feeling. They say they got no new information in the meeting with the war cabinet.And although they were happy that the meeting took place, they also got the sense that the priority, the number one priority for the war cabinet was not the release of the hostages, that it was on the same footing as the ongoing campaign to defeat Hamas. And that was another point of anger where, again, one of those who was in the meeting said many of those became very angry with the war cabinet because they got the sense that the release of the hostages wasn't their absolute number one priority. The crucial point here is, as we asked them, did you get any new information about when there might be the release of some hostages, they say, no, there was nothing new on that front. So, we're going to circle back with them and see what they're hearing now. One of the issues that had come up was, who gets to determine the names of the 50 hostages released, is that up to Hamas, is that up to Israel, or is there some sort of back and forth? That would, of course, be a key questions for the families of the hostages to find out are - is - are there loved ones on that first list? Are the families being held together? We know there are multiple members of the same family being held hostages in Gaza by Hamas. Do they come out as one group? Are they going to be split up? Are they even all being held as families together by Hamas or does Hamas have to reach out to other factions that have prisoners and hostages.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:55:01",
+      "speaker": "HARLOW",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:55:01",
+      "speaker": "LIEBERMANN",
+      "sentences": "These are all questions that need to be answered and questions that the families are eagerly awaiting answers to from the war cabinet and from the government.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:55:01",
+      "speaker": "HARLOW",
+      "sentences": "Oren, stay with us.MJ, stay with us as well. Natasha, joining us from the Pentagon. Qatar, again, the central role, right? Our reporting is that Qatar would be making this announcement. There has also been some reporting that some of Hamas' top leadership may not know where some of the hostages are being held now, which would speak to why they may need days to try to gather the rest of the hostages. Can you speak to the role of Qatar here?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:55:01",
+      "speaker": "NATASHA BERTRAND, CNN NATIONAL SECURITY REPORTER",
+      "sentences": "Qatar has been a really key intermediary throughout all of this because, as you know, the U.S. does not communicate with Hamas directly. And so they have been passing messages to Hamas through Qatar, through Egypt as well.And we have seen this be somewhat successful in the past. We saw that Qatar, in communications with Hamas, they did successfully secure the release of four hostages last month, including two Americans. And so we have seen this process bear fruit. But something as big as this, 50 hostages over a matter of days, that, of course, is a lot more complicated. And part of the issue, even though Hamas has been communicating with the Qataris because, of course, Hamas political leadership has a presence in Qatar, they have a relationship there, is that over various points throughout this process, Hamas has gone dark, including over the last several days.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:55:01",
+      "speaker": "HARLOW",
+      "sentences": "Right.",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

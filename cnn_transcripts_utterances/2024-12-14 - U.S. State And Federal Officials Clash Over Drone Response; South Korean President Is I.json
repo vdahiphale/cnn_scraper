@@ -1,0 +1,835 @@
+{
+  "date": "2024-12-14",
+  "headline": "CNN This Morning",
+  "subHeadline": "U.S. State And Federal Officials Clash Over Drone Response; South Korean President Is Impeached Over Martial Law Declaration; Federal Appeals Court Declines To Temporarily Block Ban On TikTok; Millions Under Winter Weather Advisories Across Seven States. Trump Promises to Pardon January 6 Rioters; FDA Reviewing Polio Vaccine Petition from RFK Jr.'s Lawyer; Trump Backing Efforts to Eliminate Daylight Saving Time. Aired 6-7a ET",
+  "utterances": [
+    {
+      "timeStamp": null,
+      "speaker": "VICTOR BLACKWELL, CNN ANCHOR",
+      "sentences": "Good morning. Welcome to CNN This Morning. It is Saturday, December 14th. I'm Victor Blackwell. The 14th --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": null,
+      "speaker": "AMARA WALKER, CNN ANCHOR",
+      "sentences": "December.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": null,
+      "speaker": "BLACKWELL",
+      "sentences": "Mid-December -- the 12 days of Christmas. Do they start?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": null,
+      "speaker": "WALKER",
+      "sentences": "Don't make me feel.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": null,
+      "speaker": "BLACKWELL",
+      "sentences": "Is Christmas Day the 12th day or the first day?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": null,
+      "speaker": "WALKER",
+      "sentences": "Don't ask me. I can't even keep track of when you're supposed to put the elves back out. I literally just started doing that two nights ago. And then I'm looking at, oh, it's December 14th. That's 11 days.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": null,
+      "speaker": "BLACKWELL",
+      "sentences": "Oh, yeah.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": null,
+      "speaker": "WALKER",
+      "sentences": "Any Christmas shopping?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": null,
+      "speaker": "BLACKWELL",
+      "sentences": "Your elves should be out.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": null,
+      "speaker": "WALKER",
+      "sentences": "They just came out. Yes, I know they've been busy in the North Pole of Canada. I don't know. Well, good to have you on board, everyone. I'm Amara Walker and here is what we are working on for you this morning.(BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": null,
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "New Jersey can't become the wild west of drone activity. No state can become the wild west of drone activity.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": null,
+      "speaker": "WALKER",
+      "sentences": "A deepening drone mystery high in the skies over New Jersey and other nearby states. The new demands for answers and action from top government officials straight ahead.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": null,
+      "speaker": "BLACKWELL",
+      "sentences": "Freezing rain and ice are making it a messy morning across parts of the Midwest. Meteorologist Allison Chinchar is tracking the ice storm warnings for 1.5 million people and the winter weather advisories blanketing seven states.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": null,
+      "speaker": "WALKER",
+      "sentences": "And the man accused of gunning down a healthcare CEO on the streets of New York hires a high profile defense attorney as police reveal new details about the evidence.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": null,
+      "speaker": "BLACKWELL",
+      "sentences": "Breaking news out of South Korea. The National Assembly there just impeached the president. We're live with what we know and what this means, coming up.We're started this morning, though, with the search for answers as reports of drone sightings grow across the eastern US. We're learning of reports of suspected drone sightings in parts of New York. And officials in Connecticut say they've deployed a drone detection system to investigate reports of sightings in their state. Now, despite the increase in sightings, the White House says they pose no security threat. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": null,
+      "speaker": "ALEJANDRO MAYORKAS, HOMELAND SECURITY SECRETARY",
+      "sentences": "We believe that there are cases of mistaken identity where drones are actually small aircraft and people are misidentifying them. They're very well, maybe drones in the sky, of course, but those are commercially available. One can go into a convenience store and buy a small drone. There are also commercial drones as well.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": null,
+      "speaker": "WALKER",
+      "sentences": "New Jersey residents have reported seeing drones the size of small cars flying around, usually at night. Sometimes in clusters. New Jersey Governor Phil Murphy has escalated those concerns, formally requesting additional resources from the Biden administration. CNN's Omar Jimenez has more.(BEGIN VIDEOTAPE) REP. JOSH GOTTHEIMER (D-NJ): There has to be some explanation to the public for all this increased activity, and they must do so now.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": null,
+      "speaker": "OMAR JIMENEZ, CNN CORRESPONDENT",
+      "sentences": "And yet there hasn't been. Even as the federal government says, there's no evidence of any national security or public safety threats. And there have been growing calls for answers as drone sightings continue in New Jersey and now also the New York metropolitan area.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": null,
+      "speaker": "GOTTHEIMER",
+      "sentences": "They must immediately disclose more information to the public. It's totally and completely unacceptable. New Jersey can't become the Wild West of drone activity. No state can become the Wild West of drone activity.JIMENEZ (voice-over): It's now been a month since some of the first drones were reported near a military installation in northern New Jersey. Since then, there have been dozens of reported sightings. As some federal officials throw cold water on some of those reports.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": null,
+      "speaker": "JOHN KIRBY, WHITE HOUSE NATIONAL SECURITY COMMUNICATIONS ADVISER",
+      "sentences": "We have not been able to, and neither have state or local law enforcement authorities corroborate any of the reported visual sightings. It appears that many of the reported sightings are actually manned aircraft that are being operated lawfully.JIMENEZ (voice-over): And in a joint statement, the Department of Homeland Security and the FBI said in part, they're working to confirm whether the reported drone flights are actually drones or are instead manned aircraft or otherwise inaccurate sightings. Despite attempts by officials to calm concerns, videos of reported drones in the skies are still popping up all over social media.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": null,
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "Wow. They just passed the truck.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:00",
+      "speaker": "JIMENEZ",
+      "sentences": "Which is what we've heard from the Department of Homeland Security and the FBI as well. But of course, these reported sightings have now expanded to more states at this point. And we have seen some airspace restrictions at some military installations in New Jersey as well.But to give some perspective on the market, overall, there are almost 800,000 drones registered with the FAA, about an even split between commercial and recreational. But I bring that up because it could make the investigative efforts here to find a through line that much more difficult. And as I've talked about, these sightings have been going on for a month now. And as more people continue to report, some more accurately than others, that still, that question still remains. Why is this happening? Victor, Emma. (END VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:00",
+      "speaker": "BLACKWELL",
+      "sentences": "Omar, thank you very much. Let's bring in now CNN senior White House reporter Betsy Klein. So the White House is trying to downplay the sightings, but as we heard in Omar's report, that's not going over well with lawmakers.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:00",
+      "speaker": "BETSY KLEIN, CNN SENIOR WHITE HOUSE REPORTER",
+      "sentences": "That's right, Victor. And it's been about a month since reports of these mysterious drone sightings began. And there are still so many more questions than answers as the White House seeks to tamp down some of that anxiety. They are saying that the Department of Homeland Security and FBI are investigating and there are no -- there's no national security threat. They say there is no threat to public safety.And importantly, they also say that there is no known nexus at this time to any foreign government or foreign entity. That is very notable. Let's see if we had the sound from Homeland Security Secretary Alejandro Mayorkas to our own Wolf Blitzer last night. OK, we don't have that sound, but Mayorkas said we have not seen anything unusual. We know of no threat or nefarious activity. He also says that the Department of Homeland Security has sent its own state of the art technology to New Jersey and the tri-State area that has not confirmed any drone sightings. But still so many questions about where these drones come from, who is responsible? And as one lawmaker said in the year 2024, with the technology we have, how is it possible that we don't the answers to those questions? We've also heard from lawmakers on both sides of the aisle that have raised a lot of concerns like that New Jersey Governor Phil Murphy letter to President Biden. He says in part that it is apparent more resources are needed to understand what is going on. And he expresses a lot of concern about in the vacuum of information and details, the conspiracy theories that are cropping up on social media. We've also heard now from President-Elect Donald Trump, who we should note has started receiving those national security briefings as of last month. And Trump said in a social media post overnight, can this really be happening without our government's knowledge? I don't think so. Let the public know and now otherwise shoot them down. Now, I should note that Mayorkas told CNN that the U.S. government has been asking the Congress to give them more authority to counter drone activity. But as of now, the U.S. government can't just shoot down a drone. Victor.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:00",
+      "speaker": "WALKER",
+      "sentences": "Betsy Klein, I'll take it. Thank you so much. So many questions like you say, Betsy. Joining me now is Tom Adams. He's a former FBI supervisory special agent who helped Pioneer the FBI's counter drone program. And he's now the public safety director for DroneShield, which provides solutions for military, governments and law enforcements around law enforcement around the world. Tom, good morning. Thank you so much for joining us this morning.As we are still just have so many questions about these drone sightings. I just want to get your take on the federal government, the White House's attempts to reassure the public. You know, John Kirby this week also said, you know, these drone sightings oppose no national security or public safety threat. How can the government say that if we don't know the intent of these apparent drones, their origins? I mean, do you trust these statements?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:10:06",
+      "speaker": "WALKER",
+      "sentences": "OK, if you say potentially some of these sightings could be crewed aircraft, then I mean, I think the reason why people are so concerned is that, you know, these sightings have not been normal in terms of the number of sightings that people have been seeing, usually at night.And also the behavior that we've been hearing from, you know, local mayors around New Jersey and such, saying that, you know, whenever helicopters or police helicopters approach. This is from the Bellevue -- Belleville Township mayor. He said that these drones will turn off the lights and evade these police helicopters. A lot of these things in the air seem to be flying in a coordinated pattern for many hours. I mean, what do you make of this bizarre patterns and her behavior?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:10:06",
+      "speaker": "ADAMS",
+      "sentences": "Yes, I will tell you, it's an interesting. It's a very difficult mission. I think one of the things that was brought up in the, some of the commentary before I came on, it's really very true that the drone detection type technologies are not widely deployed around the United States in general.There are a lot of federal laws and regulations that limit the types of technologies that can be deployed by owners and operators of critical infrastructure as well as public safety. And we have had no new counter UAS related laws passed since 2018 and the DOJ and DHS's original authorities, which provided them legislative relief from a lot of different federal laws that would generally prohibit the use of some of these technologies. It actually expired two years ago and it's been reauthorized through a series of legislative actions.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:10:06",
+      "speaker": "WALKER",
+      "sentences": "Then what's being done then to, you know, figure out what these objects are? What can be done then with these limitations, as you say?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:10:06",
+      "speaker": "ADAMS",
+      "sentences": "Yes, well, the big thing is to be able to allow owners and operators to use a wide variety of drone detection technologies and in some cases, drone defeat technologies out there. But right now, there is a lot of -- there isn't a lot of deployment of these types of technologies due to patients that exist.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:10:06",
+      "speaker": "WALKER",
+      "sentences": "You know, Betsy Klein also showed there the President-Elect Trump posting on X to shoot some of these drones down, especially if you don't know what they are. But there's also limitations to that, right? I mean, does the military have the authority to just blatantly shoot down these drones?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:10:06",
+      "speaker": "ADAMS",
+      "sentences": "Well, I think something mine is that, you know, I think it's important to understand that we have a growing drone industry and as been mentioned, we don't know what the intent is of these drones. And so I think we have to be careful not to have a shoot now, ask questions later type of mentality, because use of some of these technologies can impact the safety of the national airspace. It can impact the communication spectrum, and there also may be downwind or downside effects to the critical infrastructure and the people that we're trying to protect.So we have to be careful in how we use these types of technologies because they do have some effects that we may not want.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:10:06",
+      "speaker": "WALKER",
+      "sentences": "How do we know that it's not a foreign adversary who is deploying these potential drones? China, Russia, Iran. Especially when you had the Department of Defense in a news release last week saying that drones do present a significant threat to the U.S. homeland. Do you have suspicions that potentially there could be a foreign adversary behind this?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:15:05",
+      "speaker": "WALKER",
+      "sentences": "Well, it just underscores too, like you said, that Congress needs to do more to update its laws when it comes to drone detection and reacting to them. Tom Adams, thank you so much.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:15:05",
+      "speaker": "BLACKWELL",
+      "sentences": "Breaking news this morning. South Korea's Prime Minister Han Duck-soo has taken over as interim president. Lawmakers in South Korea impeached President Yoon Suk Yeol. This was parliament's second attempt. They failed a week ago after Yoon briefly imposed martial law. CNN senior international correspondent Ivan Watson is live in Hong Kong. Ivan, get us up to speed here and what happens now.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:15:05",
+      "speaker": "IVAN WATSON, CNN SENIOR INTERNATIONAL CORRESPONDENT",
+      "sentences": "Good morning, Victor. The South Korean parliament made history. They succeeded in impeaching their president. More than two-thirds of the lawmakers voted in favor of this. You and I were speaking this time last week when they failed at a previous attempt to impeach the president because the president's political party abstained from voting. This time they joined in and a number of them voted also for impeachment.When that news came out, a huge crowd demonstrating outside the grounds of the National Assembly exploded into a giant dancing K-pop party in freezing temperatures of real scenes of jubilation. Take a listen to one of the lawmakers who voted for impeachment. (BEGIN VIDEO CLIP) KIM JOON-HYUNG, REBUILDING KOREA PARTY LAWMAKER: Yes, it is. It is a victory of Korean democracy. You know, world is has been watching this, but we finally won even if it's the beginning. But it's good beginning. So we will go through this with people. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:15:05",
+      "speaker": "WATSON",
+      "sentences": "And let's remind you why this happened in the first place. It's only a week and a half ago that the same president suddenly imposed emergency martial law on the country and then sent troops on helicopters, soldiers and police to that same National Assembly to try to stop lawmakers from gathering there who ultimately succeeded in pushing past and voting to overrule the president.And now there are real calls to investigate him, to put him on trial for insurrection and for treason. And a number of his top aides are already facing prosecution. Right now he's former defense minister behind bars. He tried to commit suicide earlier this week and failed. The president, Yoon, has put out a statement already. He has said, quote, I will stop temporarily for now, but the journey to the future that I've walked with the people for the past years, two years should not stop. He says he will not give up. But the fact is he's been stripped of his powers. The prime minister will now play up as acting president and the ball is now in the court, literally of the Constitutional Court to make a decision in the next 180 days on whether or not to support this impeachment. And then that sets the country up for elections some 60 days after that. But one final note to leave you with. Just eight years ago, the National Assembly impeached another South Korean president who was pushed out office. She ended up behind bars. That could be in the future for President Yoon.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:15:05",
+      "speaker": "BLACKWELL",
+      "sentences": "And of course, the implications spread beyond South Korea's borders, an important ally for the U.S. and other countries there in the region. Ivan Watson for us. Thanks so much.Still to come, former House Speaker Nancy Pelosi is in the hospital. She fell during a congressional trip in Luxembourg. We have an update on her condition ahead.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:15:05",
+      "speaker": "WALKER",
+      "sentences": "Plus, promises of pardons from President-Elect Donald Trump on his first day in office. What we know about the plan to give hundreds of convicted rioters a get out of jail free card.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:25:06",
+      "speaker": "WALKER",
+      "sentences": "Right now, more than a million people are under ice storm advisories across the Midwest. The affected areas include Minnesota, Missouri, Illinois and all of Iowa. Winter storm alerts also extend to the Sierra Nevada, Washington, Cascades and Rocky Mountains. CNN's Allison Chinchar tracking the storms from our weather center. It is cold out there. What's going on?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:25:06",
+      "speaker": "ALLISON CHINCHAR, CNN METEOROLOGIST",
+      "sentences": "It is. And very dangerous.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:25:06",
+      "speaker": "WALKER",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:25:06",
+      "speaker": "CHINCHAR",
+      "sentences": "You know, when you take care of the roads, you can handle when they're wet from rain, you can handle a little bit of snow. But ice is an entirely different situation. And you have ice covering some of these roads, including Interstate 80 across portions of Iowa. Here you can see the map again. Yes, we've got that system into the West Coast. But the biggest system of concern is the one right here impacting portions of the Midwest.You have those winter weather advisories impacting nearly 15 million people, several states. And that's the combination of rain, snow and ice, but especially right here in this deep purple color. That's where the ice storm warning is in effect. And it's in effect for several more hours until 3:00 p.m. Central Time today to kind of show you how long this system is going to last in terms of dumping that precipitation over these areas. You can already see you've got the rain down to the south side, the white indicating the snow. That pink is that freezing rain that is sticking to the roadways. It's sticking to power lines, trees. And that's what's causing some of the biggest concern. You can see a lot of these temperatures are either right at that freezer freezing mark or just a degree or two below. And that's where you're getting a lot of that freezing rain. And the ice that's sticking to a lot of those roadways again, including Interstate 80 that runs from Des Moines to Davenport, looking at up to a quarter of an inch possible for some of these areas. Then it continues to make its way to the east, bringing that wintery mix to Chicago by late this afternoon and then continues to make its way to the Northeast by Sunday.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:30:00",
+      "speaker": "WALKER",
+      "sentences": "As President-elect Donald Trump prepares for his second term, he is facing mounting questions from some of his biggest supporters. He has promised to pardon January 6th rioters and told \"Time Magazine\" he would look at their cases individually.  BLACKWELLtheir approach to those pardons. CNN's Katelyn Polantz breaks down who could get a pass from the incoming President. KATELYN POLANTZ, CNN CRIME &amp; JUSTICE CORRESPONDENT:  Victor and Amara, Donald Trump keeps promising that he's going to be pardoning these January 6th rioters in the first few minutes that he takes office in January. But whenever you dig into this, our sources are telling us that the Trump transition, the people who are incoming into the Trump administration, they just haven't figured out how this will work. It is possible that Donald Trump issued some sort of blanket pardon for January 6th rioters, but there are lots of questions that people have about this, defense attorneys, the rioters themselves, even people around the transition, they don't know what the plan is yet. Will there be specific ways Capitol rioters are applying to Trump and his team to get one of these pardons or commutations? And the other question is, does this mean everybody is going to be pardoned? Or if Trump says he only wants to pardon non-violent offenders, which is one of the things he said in a recent interview with \"Time Magazine\". Does that mean non-violent offenders who are not charged with certain things and other things, or does that mean there is a group of rioters that is charged with serious crimes, even potentially seditious conspiracy, like the leaders of the Oath Keepers and the Proud Boys, who would be pardoned, while others who are convicted of, say, assaults on police, those people would not. So, a lot of questions to see how the January 6th pardon promise from Donald Trump plays out once he takes office here. There are still people that are anticipating this and relatively unhappy with it too. Judges on the D.C. district court, even a Reagan appointee, a Trump appointee himself who are speaking from the bench to Capitol riot defendants, reminding people how violent this Capitol riot was, that the people there were committing federal crimes have been convicted, hundreds of them. And one Judge, Carl Nichols says \"blanket pardons for all January 6th defendants or anything close would be beyond frustrating and disappointing. But that's not my call.\" That's what the judge said. Back to you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:30:00",
+      "speaker": "BLACKWELL",
+      "sentences": "All right, Katelyn, thanks so much. Joining us now, Luke Broadwater; \"New York Times\" congressional reporter. Luke, good morning to you. Let's talk about some other potential pardons here. Before he was picked to potentially lead the FBI, Kash Patel warned that they're going after, quote, \"people who actually told the truth about the 2020 stolen election lie.\"I want you to listen here to former chair of the January 6th Committee, Congressman Bennie Thompson on a potential Biden pardon. Watch. (BEGIN VIDEO CLIP) REP. BENNIE THOMPSON (D-MS):  If he offers it to me or other members of the committee, I think it -- I would accept it. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:00",
+      "speaker": "LUKE BROADWATER, NEW YORK TIMES CONGRESSIONAL REPORTER",
+      "sentences": "I would say it's varied. As you heard there from former January 6th Committee Chairman Bennie Thompson, he clearly seems to want a pardon. Others of the committee, such as Adam Schiff, who is now a senator from California have said, basically, we don't want a pardon. Don't give us anything, that makes it look like we did something wrong. We did nothing wrong.So, you're hearing sort of mixed reactions, there's a concern that Donald Trump would misuse the Justice Department to go after his political enemies. He has said that he wants to do that in certain cases. He has said members of the January 6th Committee should be imprisoned. He has yet to define what crime he believes they've committed or what potential offenses have been committed. So, again, this is a pledge to sort of go after political rivals without any real basis in law.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:00",
+      "speaker": "BLACKWELL",
+      "sentences": "Trump's pick to head Health and Human Services, vaccine skeptic RFK Jr. will be on Capitol Hill next week, and the head of those meetings with senators, Senator Mitch McConnell released a statement, and let me read part of it here. \"The polio vaccine has saved millions of lives and held out the promise of eradicating a terrible disease.Efforts to undermine public confidence and proven cures are not just uninformed, they're dangerous. Anyone seeking the Senate's consent to serve in the incoming administration would do well to steer clear of even the appearance of association with such efforts.\" Is RFK's nomination in trouble here?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:00",
+      "speaker": "BROADWATER",
+      "sentences": "Well, that's a pretty clear shot from the Senate, the Senate's top Republican, the current top Republican, Mitch McConnell. And remember, all you need to hold up a nomination or to kill a nomination is for Republican senators to oppose it. And I think that if Mitch McConnell, Lisa Murkowski, Susan Collins and incoming Senator John Curtis all band together, as they sort of did to oppose Matt Gaetz's nomination as attorney general, you could see RFK Jr's nomination in serious trouble.Now, he's going to be on the Hill next week, he's going to be meeting with senators. I know he has a meeting with Senator Murkowski, but that message from Mitch McConnell seems like a clear warning. Don't threaten vaccines that could save lives or your nomination could be in trouble.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:00",
+      "speaker": "BLACKWELL",
+      "sentences": "Yes, and as we've learned that RFK Jr's attorney has filed a petition to revoke approval for the polio vaccine. So, let's talk about Daylight Saving Time, because President-elect Trump posted on Truth Social overnight, \"the Republican Party will use its best efforts to eliminate Daylight Saving Time.\"Five years ago, he tweeted, quote, \"making Daylight Saving Time permanent is OK with me.\" Now, I don't know -- I don't know what he's -- if he's confused or what is going on there. But why is this a priority?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:00",
+      "speaker": "BROADWATER",
+      "sentences": "Yes, look, I actually think this is one of the things that Donald Trump could get done. Two years ago in 2022, the Senate came in, they were upset and groggy after the clocks had been changed, and they voted unanimously to eliminate Daylight Saving. And the sponsor of that bill was Marco Rubio, who is going to be the Secretary of State, likely under Donald Trump.That bill was held up in the House under Democratic leadership. Now, the House will be in Republican hands, I suspect that they will listen to Donald Trump if he tells them to eliminate Daylight Saving. And so, I think this is one of the things that could actually happen. It does seem like there's will on the Senate side at least, and perhaps on the House to change this. And if Donald Trump sticks with it, then we could see a big change in how Americans handle their clocks.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:00",
+      "speaker": "BLACKWELL",
+      "sentences": "We -- but we have to figure out which one he wants to do, eliminate it or make it permanent.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:00",
+      "speaker": "BROADWATER",
+      "sentences": "I'm sure.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:00",
+      "speaker": "BLACKWELL",
+      "sentences": "J.D. Vance has invited Daniel Penny, the man who was just acquitted -- we can put the tweet up, I'm not going to read the whole thing. Just acquitted in the chokehold killing of Jordan Neely in New York. I invited him to sit with him and the President-elect and the governor of Florida at the Army-Navy game. Who's the audience for this invitation?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:00",
+      "speaker": "BLACKWELL",
+      "sentences": "All right, Luke Broadwater, a congressional reporter with the \"New York Times\", thanks so much.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:45:00",
+      "speaker": "WALKER",
+      "sentences": "Rapper Jay-z is doubling-down on his denial of a new claim alleging he raped a teenage girl alongside Sean \"Diddy\" Combs. He told CNN, the inconsistencies in the accuser's story prove that her claim is not credible, and that she quote, \"filed a false complaint against me in the pursuit of money and fame.\" Earlier this week, the anonymous woman filed an amended complaint against Combs and Jay-z.She said they raped her 24 years ago at an MTV Video Music Awards after-party in New York, when she was just 13 years old.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:45:00",
+      "speaker": "BLACKWELL",
+      "sentences": "Now, Jay-z, whose real name is Shawn Carter has repeatedly denied those claims. And in a new interview with \"NBC News\", his accuser admitted to some inconsistencies in her account, but stood by her accusations. She said this, \"I made some mistakes, honestly. What is the clearest is what happened to me.\"Two of the inconsistencies include key corroborating witnesses. The accuser at -- first said that her father picked her up from the party, but \"NBC News\" now says that he doesn't remember that. She also claimed to have spoken with a celebrity that night she was raped. But that celebrity says they were not in New York that night. Her lawyer told \"NBC News\" that he's still vetting his client's claims, but stands by her accusations. Sean Combs is in custody in New York awaiting his criminal trial on sex trafficking and racketeering charges. He has pleaded not guilty. Also, we have new reporting that the suspect in the shooting of the health care CEO, Brian Thompson, may choose to waive extradition, meaning he could be back in New York as early as next week.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:45:00",
+      "speaker": "WALKER",
+      "sentences": "We are also learning how a tip from a San Francisco police officer helped the FBI in New York identify the gunman as Luigi Mangione. CNN's Brynn Gingras has more.(BEGIN VIDEOTAPE) BRYNN GINGRAS, CNN CORRESPONDENT (on camera):  Yes, Amara and Victor, we are learning that it's possible the earliest we could see Mangione come back to New York is next week. And we're learning this from the Manhattan District Attorney Alvin Bragg. He told the public that he is hearing it's possible he might consider waiving his extradition. Of course, that would speed up this entire process. Bragg saying that then the earliest -- his understanding is that Mangione could get in front of a Pennsylvania judge would be on Tuesday. So, we'll keep an eye out for that. In the meantime, Bragg says that he's continuing the process on his end, which, of course, is securing an indictment. And we have reported that he has started presenting evidence to a grand jury. In regards to this, San Francisco PD tip that was eventually sent to the NYPD, we have learned, according to the FBI, that, that did happen. They did receive a tip from the San Francisco Police Department about four days before Mangione was actually arrested. The \"San Francisco Chronicle\" reporting that it was actually a Special Victims unit police officer who was assigned to the missing person's case. If you remember, Mangione's mother filed a missing person's report on November 18th, that officer actually recognized that infamous photo of the suspect bringing his mask down and showing his entire face and said, hey, I actually know that person and sent that name along. And our understanding is the FBI here in New York forwarded that to the NYPD. Now, it's unclear where that landed on the NYPD's desk. We know that they were investigating hundreds of tips. I know from sources alone that there was a number of names that they were running down, trying to see if it was their main suspect. But it does appear that they did have that name in their possession, maybe four days prior to Mangione actually being arrested. Brynn Gingras, CNN, New York. (END VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:00",
+      "speaker": "BLACKWELL",
+      "sentences": "So, if you were with us last Saturday, we had this conversation about, you know, getting into the spirit of the season. And I learned that Amber has never tasted eggnog.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:00",
+      "speaker": "WALKER",
+      "sentences": "You were shaming me for it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:00",
+      "speaker": "BLACKWELL",
+      "sentences": "And --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:00",
+      "speaker": "WALKER",
+      "sentences": "She sounds like so docile about it, no --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:00",
+      "speaker": "BLACKWELL",
+      "sentences": "I can't believe she'd never ever tasted eggnog --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:00",
+      "speaker": "WALKER",
+      "sentences": "I haven't --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:00",
+      "speaker": "BLACKWELL",
+      "sentences": "She's also never heard before last week --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:00",
+      "speaker": "WALKER",
+      "sentences": "Well, you --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:00",
+      "speaker": "BLACKWELL",
+      "sentences": "Heard of sweet potato pie --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:00",
+      "speaker": "WALKER",
+      "sentences": "Stop it -- all right, we'll talk about eggnog right now --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:00",
+      "speaker": "BLACKWELL",
+      "sentences": "Well, so, I brought in some eggnog for Amara to try and Allison to be a good sport and try, if she didn't love it --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:00",
+      "speaker": "WALKER",
+      "sentences": "Can you just tell us what is an eggnog because I don't even know what -- I mean, egg?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:00",
+      "speaker": "BLACKWELL",
+      "sentences": "The best of America is an eggnog. So, let here -- take up the S, this is one --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:00",
+      "speaker": "WALKER",
+      "sentences": "OK --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:00",
+      "speaker": "BLACKWELL",
+      "sentences": "You don't need to drink a lot of it because it's a lot of calories, just take a swig --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:00",
+      "speaker": "WALKER",
+      "sentences": "I kind of want to open the lid first, OK, I smell cinnamon --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:00",
+      "speaker": "BLACKWELL",
+      "sentences": "Of course, OK --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:00",
+      "speaker": "ALLISON CHINCHAR, METEOROLOGIST",
+      "sentences": "Why don't I just drink it like it's coffee.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:00",
+      "speaker": "BLACKWELL",
+      "sentences": "Catch Allison's face. She --(LAUGHTER)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:00",
+      "speaker": "CHINCHAR",
+      "sentences": "I like it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:00",
+      "speaker": "BLACKWELL",
+      "sentences": "And I love it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:00",
+      "speaker": "CHINCHAR",
+      "sentences": "It tastes like dessert. It tastes like all the other eggnog I've ever had.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:00",
+      "speaker": "WALKER",
+      "sentences": "It's like Panna cotta and cinnamon and --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:00",
+      "speaker": "BLACKWELL",
+      "sentences": "It's kind of like a little melted ice cream --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:00",
+      "speaker": "WALKER",
+      "sentences": "Some milk, all mixed together, yes --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:00",
+      "speaker": "BLACKWELL",
+      "sentences": "OK --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:00",
+      "speaker": "WALKER",
+      "sentences": "It's really good --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:00",
+      "speaker": "BLACKWELL",
+      "sentences": "Let's try next one --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:00",
+      "speaker": "WALKER",
+      "sentences": "I actually like this. I don't want another calorie-count on this, so --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:00",
+      "speaker": "BLACKWELL",
+      "sentences": "Oh, yes, it's heavy.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:00",
+      "speaker": "WALKER",
+      "sentences": "It's 6",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:00",
+      "speaker": "CHINCHAR",
+      "sentences": "Oh, that one is less disturbing.(LAUGHTER)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:00",
+      "speaker": "WALKER",
+      "sentences": "Along --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:00",
+      "speaker": "BLACKWELL",
+      "sentences": "You see this?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:00",
+      "speaker": "WALKER",
+      "sentences": "You know why? It's laced with --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:00",
+      "speaker": "BLACKWELL",
+      "sentences": "This is the other one, OK, slow it down, we got an hour --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:00",
+      "speaker": "CHINCHAR",
+      "sentences": "Maybe because it tones down the eggnog --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:00",
+      "speaker": "WALKER",
+      "sentences": "Oh, this is actually really good too.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:00",
+      "speaker": "BLACKWELL",
+      "sentences": "See --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:00",
+      "speaker": "WALKER",
+      "sentences": "You know, it makes it less the alcohol, makes it much less sweet.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:00",
+      "speaker": "BLACKWELL",
+      "sentences": "I wasn't going to use that word --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:00",
+      "speaker": "WALKER",
+      "sentences": "I think it's a little too sweet --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:00",
+      "speaker": "BLACKWELL",
+      "sentences": "OK --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:00",
+      "speaker": "WALKER",
+      "sentences": "Oh --(LAUGHTER)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:00",
+      "speaker": "WALKER",
+      "sentences": "This is a different version of eggnog --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:00",
+      "speaker": "BLACKWELL",
+      "sentences": "Yes, that's the other one --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:00",
+      "speaker": "WALKER",
+      "sentences": "It's much better.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:00",
+      "speaker": "BLACKWELL",
+      "sentences": "That's the really good one with the five special additional ingredients. It's delicious.(LAUGHTER)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:00",
+      "speaker": "WALKER",
+      "sentences": "OK, I like it very much --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:00",
+      "speaker": "BLACKWELL",
+      "sentences": "You like it?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:00",
+      "speaker": "WALKER",
+      "sentences": "I do like it although I don't see myself drinking a glass of just eggnog --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:00",
+      "speaker": "BLACKWELL",
+      "sentences": "Oh, no --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:00",
+      "speaker": "WALKER",
+      "sentences": "I mean, how do you have it over ice and water it down because it's super thick.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:00",
+      "speaker": "BLACKWELL",
+      "sentences": "You have just a little, maybe with a --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:00",
+      "speaker": "WALKER",
+      "sentences": "OK --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:55:00",
+      "speaker": "WALKER",
+      "sentences": "With a cookie?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:55:00",
+      "speaker": "BLACKWELL",
+      "sentences": "Yes --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:55:00",
+      "speaker": "WALKER",
+      "sentences": "A sweet eggnog with another sweet --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:55:00",
+      "speaker": "BLACKWELL",
+      "sentences": "It's the holiday season. WALKER",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:55:00",
+      "speaker": "BLACKWELL",
+      "sentences": "What are you --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:55:00",
+      "speaker": "WALKER",
+      "sentences": "But I can't --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:55:00",
+      "speaker": "BLACKWELL",
+      "sentences": "Yes, you can --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:55:00",
+      "speaker": "WALKER",
+      "sentences": "Overdose on sugar?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:55:00",
+      "speaker": "BLACKWELL",
+      "sentences": "And you're not a fan even after --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:55:00",
+      "speaker": "WALKER",
+      "sentences": "You don't like that. It tastes like dessert.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:55:00",
+      "speaker": "CHINCHAR",
+      "sentences": "If I were forced to drink it, that second one would be the only option I would go with --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:55:00",
+      "speaker": "BLACKWELL",
+      "sentences": "Only one you can get down.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:55:00",
+      "speaker": "WALKER",
+      "sentences": "I get that --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:55:00",
+      "speaker": "BLACKWELL",
+      "sentences": "All right, well, now, we have shared this first with you and everyone.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:55:00",
+      "speaker": "WALKER",
+      "sentences": "Next is going to be sweet potato pie.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:55:00",
+      "speaker": "BLACKWELL",
+      "sentences": "Yes, I plan to bring one in, and I looked for them in a store, I certainly wasn't going to bake one, you know.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:55:00",
+      "speaker": "WALKER",
+      "sentences": "Yes --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:55:00",
+      "speaker": "BLACKWELL",
+      "sentences": "I want you to have this experience, but I wasn't going to bake a pie. But they're only around Thanksgiving, I couldn't find one.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:55:00",
+      "speaker": "WALKER",
+      "sentences": "Well, next Thanksgiving, I want you to have my experience, and I'm going to bring in --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:55:00",
+      "speaker": "BLACKWELL",
+      "sentences": "Kimchi --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:55:00",
+      "speaker": "WALKER",
+      "sentences": "Kimchi leftovers with turkey and we'll be eating that on the air if you bring in your sweet potato pie --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:55:00",
+      "speaker": "BLACKWELL",
+      "sentences": "I don't feel like that's a one-to-one --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:55:00",
+      "speaker": "WALKER",
+      "sentences": "We'll do an exchange --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:55:00",
+      "speaker": "BLACKWELL",
+      "sentences": "Kimchi and sweet potato pie --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:55:00",
+      "speaker": "WALKER",
+      "sentences": "How is that not a one-to-one?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:55:00",
+      "speaker": "BLACKWELL",
+      "sentences": "Fine, I'm in, fine. We'll do it. All right --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:55:00",
+      "speaker": "WALKER",
+      "sentences": "You heard that, right? All right, kimchi on the air with Victor.",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

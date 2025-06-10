@@ -1,0 +1,901 @@
+{
+  "date": "2022-11-03",
+  "headline": "CNN This Morning",
+  "subHeadline": "Midterm Countdown Focuses on Economy, Abortion and Crime; State of the Job Market; Health Benefits of Synthetic Magic Mushroom. Aired 6:30-7a ET",
+  "utterances": [
+    {
+      "timeStamp": "06:32:00",
+      "speaker": "KAITLAN COLLINS, CNN ANCHOR",
+      "sentences": "With only days to go before the midterm elections, President Biden delivered a warning about the threat to democracy as part of his final campaign push. This as vulnerable Democrats are instead spending their ad dollars on the economy and abortion.(BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:32:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Who is Doug Mastriano? He wants to outlaw and criminalize all abortions.DOUG MASTRIANO (R), PENNSYLVANIA CANDIDATE FOR GOVERNOR: My body my choice is ridiculous nonsense.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:32:00",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "Do you take Tudor Dixon at her word when it comes to outlawing abortion? She's told us exactly who she is.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:32:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Are you for the exceptions for rape and incest?TUDOR DIXON (R), MICHIGAN CANDIDATE FOR GOVERNOR: I am not.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:32:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "No exceptions for rape and incest, or what about health of the mother?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:32:00",
+      "speaker": "DIXON",
+      "sentences": "No exceptions.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:32:00",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "Tudor Dixon, that's not acceptable for Michigan.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:32:00",
+      "speaker": "COLLINS",
+      "sentences": "In the meantime, Republican candidates and conservative outlets are, instead, putting their ads dedicated to crime and the economy.(BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:32:00",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "Think crime is bad now? Mandela Barnes would make it worse. Mandela Barnes, wrong on crime, dangerous for Wisconsin. MEHMET OZ (R), PENNSYLVANIA CANDIDATE FOR SENATEanyone can look at what's happened in Philadelphia and not feel like we're giving up the lives of hundreds of thousands of people. I came to Kensington today because the biggest - biggest problem I hear in Philadelphia is lawlessness. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:32:00",
+      "speaker": "COLLINS",
+      "sentences": "But as we are in these final days before the midterms, polls show the economy is clearly the biggest issue by a landslide that Americans are saying they are going to vote on. So, we will talk about what's behind the messaging of both parties.With us now is CNN's senior political analyst John Avlon and CNN political commentator Alyssa Faraj Griffin. Thank you both for being here.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:32:00",
+      "speaker": "JOHN AVLON, CNN SENIOR POLITICAL ANALYST",
+      "sentences": "Good morning, guys.(CROSS TALK)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:32:00",
+      "speaker": "COLLINS",
+      "sentences": "Good morning.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:32:00",
+      "speaker": "DON LEMON, CNN ANCHOR",
+      "sentences": "John Avlon is here.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:32:00",
+      "speaker": "AVLON",
+      "sentences": "In the house.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:32:00",
+      "speaker": "COLLINS",
+      "sentences": "It's - it's -",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:32:00",
+      "speaker": "LEMON",
+      "sentences": "Alyssa Farah Griffin is here.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:32:00",
+      "speaker": "COLLINS",
+      "sentences": "It's always the same music and the same voice in those. I aways think -",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:32:00",
+      "speaker": "LEMON",
+      "sentences": "We are back (ph).",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:32:00",
+      "speaker": "POPPY HARLOW, CNN ANCHOR",
+      "sentences": "How can we terrify America.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:32:00",
+      "speaker": "AVLON",
+      "sentences": "Halloween is over, man.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:32:00",
+      "speaker": "COLLINS",
+      "sentences": "But I always think that the closing ads are so revealing before an election because despite what you see over the summer, what we saw in August, it's what you see right now that really shows you where everyone is pouring their money into.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:32:00",
+      "speaker": "AVLON",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:01",
+      "speaker": "LEMON",
+      "sentences": "Why isn't he the best messenger?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:01",
+      "speaker": "GRIFFIN",
+      "sentences": "I - I -- OK, so, I said this yesterday. I think he needed to call out Democrats putting money behind election deniers.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:01",
+      "speaker": "LEMON",
+      "sentences": "Where (ph).",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:01",
+      "speaker": "GRIFFIN",
+      "sentences": "I get that then -- we just played Doug Mastriano. $50 million was put behind election deniers who Democrats thought would be easier to beat in a general election. That does undermine the message. And Joe Biden is someone who I think could credibly call that out. I would like to see him do that.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:01",
+      "speaker": "HARLOW",
+      "sentences": "Jake called it out last night on his show. Look what happened to Peter Meijer (ph).",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:01",
+      "speaker": "LEMON",
+      "sentences": "Do you think, though, that that resonates with - do you think voters are saying, oh, the Democrats, they're backing, you know, election deniers. It's a -- do you think that even registers with the voters?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:01",
+      "speaker": "AVLON",
+      "sentences": "Look, I think it's hypocrisy.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:01",
+      "speaker": "LEMON",
+      "sentences": "It is, yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:01",
+      "speaker": "AVLON",
+      "sentences": "I find it infuriating what Democrats did to Peter Meijer, who stood up to Donald Trump -",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:01",
+      "speaker": "HARLOW",
+      "sentences": "Right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:01",
+      "speaker": "AVLON",
+      "sentences": "Is - is, you know, is - is unforgivable.That said, you know, you just said, look, you know, it's not urgent, it's existential. You know. And I think -",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:01",
+      "speaker": "GRIFFIN",
+      "sentences": "I - I  understand the absurdity.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:01",
+      "speaker": "AVLON",
+      "sentences": "Yes, yes, exactly. And I think what Democrats are trying to do, what Biden is, look, it's - the economy, stupid, is always going to be the number one issue, particularly when people are feeling the pain of inflation.The ads right now that you're seeing from the two campaigns, how do you understand that, abortion and crime, they're playing to their base, right? They're trying to actually rise - rise - you know, play to the base to make sure they've got adequate turn out.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:01",
+      "speaker": "LEMON",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:01",
+      "speaker": "AVLON",
+      "sentences": "But what Biden (INAUDIBLE), particularly in the wake of Paul Pelosi, saying, look, the danger is not in taking the threats to democracy too seriously, it's taking it too lightly because it is existential.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:01",
+      "speaker": "LEMON",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:01",
+      "speaker": "AVLON",
+      "sentences": "And, look, I think as citizens of a self-governing republic, we've got to wake up to that fact.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:01",
+      "speaker": "HARLOW",
+      "sentences": "OK. So we're going to have Tim Ryan on, running for Senate in Ohio, next hour. We had Elissa -",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:01",
+      "speaker": "AVLON",
+      "sentences": "Youngstown.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:01",
+      "speaker": "HARLOW",
+      "sentences": "We had - yes, Bruce Springsteen, love that song.We had Elissa Slotkin on earlier this week. Both of them think their party's gotten it totally wrong on the economy in terms of talking about it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:01",
+      "speaker": "AVLON",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:01",
+      "speaker": "HARLOW",
+      "sentences": "I bet you -- we'll ask him if he thinks Biden made a mistake with not leading with the economy last night.You think Tim Ryan is an incredibly effective messenger on this.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:01",
+      "speaker": "AVLON",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:01",
+      "speaker": "HARLOW",
+      "sentences": "What's the -- why and what's the rest of the party missing?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:01",
+      "speaker": "AVLON",
+      "sentences": "Tim Ryan is the single best communicator on economic issues in the Democratic Party right now. Here's why. He's focused --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:01",
+      "speaker": "LEMON",
+      "sentences": "It's the prototypical candidate, Democrat or Republican, willing to stand up to his opponents, to the opposition media.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:01",
+      "speaker": "AVLON",
+      "sentences": "That's right. He's saying, look, I'm - I'm - I'm - he's running party over - he's running country over party.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:01",
+      "speaker": "LEMON",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:01",
+      "speaker": "AVLON",
+      "sentences": "He's running on pro-worker, anti-China, and he's focused like a laser beam consistently on middle class and working class issues, which resonates particularly in northeast Ohio. And he can do it with credibility.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:01",
+      "speaker": "HARLOW",
+      "sentences": "But he's voted with Biden 100 percent of the time.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:01",
+      "speaker": "AVLON",
+      "sentences": "Yes. You know, I think it's actually about your positioning within - with voters. And actually the fact he has not been supported by the Democratic Party, which I - with -- financially, which I think is malpractice down the stretch. I think actually it does give him a degree of freedom. I - he is not going to be a lock step lefty. He's not. He's a centrist. You know, he's a - he's sort of a blue collar centrist guy and I think that's exactly the kind that Democrats need to have in the midterms - in the Midwest.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:01",
+      "speaker": "COLLINS",
+      "sentences": "But, of course, he has to run in that way. He has no other option but to run without mentioning that he's a democrat.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:01",
+      "speaker": "AVLON",
+      "sentences": "Well -",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:01",
+      "speaker": "COLLINS",
+      "sentences": "And so with Biden's closing speech, this is something he really, truly believes is an issue, that he fundamentally thinks that there is this threat to democracy, that this election is a referendum essentially on that. He's been carrying around Jon Meacham's new book on Lincoln and the reckoning there, President Biden has. He helped -- Jon Meacham helped with the speech last night.I think the question though is, you know, I was talking to someone last night about, is that really the closing message that people like Tim Ryan want to see the president delivering, and they just said ugg.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:01",
+      "speaker": "GRIFFIN",
+      "sentences": "Well, and that's exactly the point. And even cynical Republicans are going to say this is Democrats trying to change the narrative to being about threats to democracy rather than that they're losing on the economy, on inflation, on crime. I'm not saying that, but expect to see that messaging.It's an important message, but what the party needs right now is what Barack Obama was doing this weekend, what Bernie Sanders has been trying to shout from the roof tops for weeks and weeks, which is, do not make abortion your entire identity. You need to focus on other issues.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:01",
+      "speaker": "LEMON",
+      "sentences": "Well, OK, I'm glad you're saying that because I was asking someone to bring in - I didn't -- I left the - this polling, the CNN polling, and we put it up in the beginning. Look at the - if you look at it, 51 percent of people say it is the economy.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:01",
+      "speaker": "AVLON",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:01",
+      "speaker": "LEMON",
+      "sentences": "And then you look at abortion, it's 15 percent. And then further down, though, with the Republican messaging, 3 percent crime, but you wouldn't know from the ads.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:01",
+      "speaker": "AVLON",
+      "sentences": "No. No.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:01",
+      "speaker": "LEMON",
+      "sentences": "Because everything is scary.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:01",
+      "speaker": "AVLON",
+      "sentences": "Mandela Barnes is scary.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:01",
+      "speaker": "COLLINS",
+      "sentences": "I think crime -",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:01",
+      "speaker": "LEMON",
+      "sentences": "I mean it does resonate but it is not at the top of the list for -",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:01",
+      "speaker": "COLLINS",
+      "sentences": "But I think crime is a bigger issue than the poll let's on -",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:01",
+      "speaker": "LEMON",
+      "sentences": "It is a big issue. I'm -",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:01",
+      "speaker": "COLLINS",
+      "sentences": "Because if you talk to voters, it really is something that you hear from a lot of people.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:01",
+      "speaker": "HARLOW",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:01",
+      "speaker": "LEMON",
+      "sentences": "It is - it's, listen, it's a big deal. People should feel safe.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:01",
+      "speaker": "HARLOW",
+      "sentences": "I think about it a lot as a parent.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:01",
+      "speaker": "GRIFFIN",
+      "sentences": "And I think it's motivating with women. I think about crime (INAUDIBLE).",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:01",
+      "speaker": "LEMON",
+      "sentences": "The actual stats just do not reflect the -- where we all think crime is. It's a bigger issue in our minds than it is -- obviously people are affected by it, don't get me wrong, than the actual evidence shows. Those are the facts.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:01",
+      "speaker": "HARLOW",
+      "sentences": "Well, I -- go ahead, John.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:01",
+      "speaker": "AVLON",
+      "sentences": "So - but, look, I think that poll is also a ranking of issues. So, folks in this poll are saying the economy is the most important issue for me.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:01",
+      "speaker": "LEMON",
+      "sentences": "The most important. I care about this. Right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:01",
+      "speaker": "AVLON",
+      "sentences": "that doesn't mean other stuff is unimportant.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:01",
+      "speaker": "LEMON",
+      "sentences": "Right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:01",
+      "speaker": "AVLON",
+      "sentences": "And, look, crime is a real issue. I think -",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:01",
+      "speaker": "LEMON",
+      "sentences": "Right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:01",
+      "speaker": "AVLON",
+      "sentences": "In - both in inflation and crime, Americans got a little bit lazy. They haven't experienced inflation, you know, in 40 years. Haven't experienced rising crime, you know, for decades. And so a lot of those gains were taken for granted. Now they're hit them in the face because they're urgent issues.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:01",
+      "speaker": "LEMON",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:01",
+      "speaker": "AVLON",
+      "sentences": "The question is, how do you balance the urgent and the important.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:01",
+      "speaker": "HARLOW",
+      "sentences": "They're about your family.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:01",
+      "speaker": "AVLON",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:01",
+      "speaker": "COLLINS",
+      "sentences": "We'll find out.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:02",
+      "speaker": "AVLON",
+      "sentences": "That's right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:02",
+      "speaker": "HARLOW",
+      "sentences": "And feeding them, protecting them, and putting a roof over their heads.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:02",
+      "speaker": "COLLINS",
+      "sentences": "Yes. We'll find out on Tuesday what voters think is the most important.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:02",
+      "speaker": "HARLOW",
+      "sentences": "Come back, guys.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:02",
+      "speaker": "AVLON",
+      "sentences": "They will.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:02",
+      "speaker": "COLLINS",
+      "sentences": "Alyssa, John, thank you both for being here.And be sure to tune in next Tuesday, CNN will have special coverage of the election, all of these issues. We'll see what the voters decide. That starts at 4:00 p.m. Eastern. And it comes, of course, as we talk about the economy, Americans still struggling with the job hunt. Many positions are available, though. We have a report on why people are having trouble finding work in this environment, next.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:02",
+      "speaker": "LEMON",
+      "sentences": "Plus, we are going to check in on this story, the House speaker, Nancy Pelosi's family, seeing the footage from the attack on her husband. New details straight ahead here on CNN this morning.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:02",
+      "speaker": "HARLOW",
+      "sentences": "Guys, thank you so much.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:02",
+      "speaker": "COLLINS",
+      "sentences": "My question, though, with the speech is - is that, compared to the Philadelphia speech, since they were so similar.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:02",
+      "speaker": "HARLOW",
+      "sentences": "Oh, yes.(COMMERCIAL BREAK)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:45:02",
+      "speaker": "HARLOW",
+      "sentences": "Good morning.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:45:02",
+      "speaker": "VANESSA YURKEVICH, CNN BUSINESS AND POLITICS CORRESPONDENT",
+      "sentences": "Good morning, guys.So, on the surface the labor market is looking really strong. But when you start to dig below, you're finding some cracks. And that's actually exactly what the Federal Reserve wants to see. That's why they're raising interest rates. That's why they raised interest rates just yesterday. But for the job seeker, that's not exactly what they want to see. We spoke to some who are finding it hard to find a job in this labor market. (BEGIN VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:45:02",
+      "speaker": "KARLY PAVLINAC, JOB SEEKER",
+      "sentences": "I'm open to all options.YURKEVICH (voice over): Karly Pavlinac is on stage in a high-stakes competition. The potential prize, a new job.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:45:02",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "How do you make sure you're working with the right talent, you're finding the right connection.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:45:02",
+      "speaker": "PAVLINAC",
+      "sentences": "The biggest thing is just being able to communicate the idea.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:45:02",
+      "speaker": "YURKEVICH",
+      "sentences": "This is not the first time Pavlinac has done something unconventional to land an interview since losing her marketing job in September. After she didn't hear back for a position at Nike, she sent them a cake with her resume on it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:45:02",
+      "speaker": "PAVLINAC",
+      "sentences": "I've been applying. Obviously, that hasn't worked yet. So, let me throw something new in the mix to see if that, you know, works.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:45:02",
+      "speaker": "YURKEVICH",
+      "sentences": "Her resume cake making headlines.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:45:02",
+      "speaker": "PAVLINAC",
+      "sentences": "I've since talked to a bunch of people at Nike, but still no job.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:45:02",
+      "speaker": "YURKEVICH",
+      "sentences": "But the economic data tells a different story. The jobs market is strong. There are 10.7 million open positions, labor shortages and hundreds of thousands of jobs being added each month. Yet some job seekers, even with a viral cake moment, can't seem to land on.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:45:02",
+      "speaker": "LIZ ANN SONDERS, CHIEF INVESTMENT STRATEGIST, CHARLES SCHWAB",
+      "sentences": "On the surface it's still a fairly strong labor market. But if you go a couple of layers under, you are starting to see more significant cracks in the surface that suggest we should eventually see it in those more popular headline type labor market readings.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:45:02",
+      "speaker": "YURKEVICH",
+      "sentences": "Cracks, like a slowdown in hiring, as seen in this week's job opening survey. Hires dropping to 6.1 million, the lowest since February 2021. And the tech industry is shedding jobs, 86 percent more than last year. PAVLINACout there and it was going to be easy to find a job. And that actually hasn't been the case.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:45:02",
+      "speaker": "YURKEVICH",
+      "sentences": "Another crack, of the 10.7 million open jobs, some companies might be advertising positions they aren't actively trying to fill.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:45:02",
+      "speaker": "PAVLINAC",
+      "sentences": "I have applied to many jobs that they're still sitting there. That's been a giant question in my head.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:45:02",
+      "speaker": "YURKEVICH",
+      "sentences": "It's called pipelining talent. Companies post jobs to develop a pool of candidates.Recruiter Laura Mazzullo says she sees companies do it all the time.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:45:02",
+      "speaker": "LAURA MAZZULLO, FOUNDER, EAST SIDE STAFFING",
+      "sentences": "Candidates don't know that's what's happening. So they're being pipelined when actually they think they're applying for an active job. And this is where we're seeing a bit of a disconnect.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:45:02",
+      "speaker": "YURKEVICH",
+      "sentences": "That may mean, as the labor market weakens, job seekers can't be as picky.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:45:02",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Our goal is potentially to give away two jobs tonight.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:45:02",
+      "speaker": "PAVLINAC",
+      "sentences": "I have been picky in that sense of where I want to work. But I know what I want. I'm still searching, still talking to people. I've come to terms that it is taking longer than I thought.(END VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:45:02",
+      "speaker": "HARLOW",
+      "sentences": "I'm so glad you did this because we just often talk about the headline numbers and are like, oh, there's millions of jobs and you should just get one.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:45:02",
+      "speaker": "YURKEVICH",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:45:02",
+      "speaker": "HARLOW",
+      "sentences": "And what you found is like, that's not exactly the case. And you found some interesting disparity within the job market too in terms of who.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:45:02",
+      "speaker": "YURKEVICH",
+      "sentences": "Yes. We looked at the job market numbers, sort of the labor numbers that we get, the big job numbers that we get every Friday. We looked at last month's report. And we found that the jobs that are being added are sort of in the lower wage market sector. So these are retail jobs. These are jobs in food and hospitality. And we saw the decrease in jobs being added was in finance and insurance. These are the higher paying jobs. So, there may be some disparity there but we may see a continued increase in lower wage jobs as we go into the holidays.Of course this is something that we're going to keep an eye on as we look to tomorrow's jobs report. Economists are anticipating an add of 200,000 jobs. That's less than last month. But one thing I've learned in this pandemic and post-pandemic economy, you really can't go by the numbers. You kind of have to wait and see. It's so complicated right now as we looked at in our piece. But what the Federal Reserve wants to see is this slowing of hiring. And that's the anticipation for this big jobs report tomorrow.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:45:02",
+      "speaker": "LEMON",
+      "sentences": "Thank you, Vanessa Yurkevich. We appreciate that. Thanks so much.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:45:02",
+      "speaker": "YURKEVICH",
+      "sentences": "Thanks, guys.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:45:02",
+      "speaker": "HARLOW",
+      "sentences": "Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:45:02",
+      "speaker": "LEMON",
+      "sentences": "Up next, a synthetic version of magic mushroom showing a lot of promise as a treatment for depression. Our very own Dr. Sanjay Gupta is here with the details on that.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:45:02",
+      "speaker": "HARLOW",
+      "sentences": "Also some news on actress Sharon Stone. She is speaking out this morning. She's saying she was misdiagnosed. The medical mistake error that she believes could be deadly.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:45:02",
+      "speaker": "LEMON",
+      "sentences": "I still believe that we don't have the right metrics to measure the economy accurately (ph).",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:53:33",
+      "speaker": "HARLOW",
+      "sentences": "Magic mushrooms, famous for their association with psychedelic counterculture, may also offer some serious mental health benefits. Even if you're not a hippy. That's what's written there. But, look, this is serious. A new study finds a lab made version of the chemical found in magic mushrooms can help treat depression.Here to talk about this is our chief medical correspondent Dr. Sanjay Gupta. So, some of my friends have had a lot of success like talking about things like this. And I've been fascinated by it and skeptical. So, make me not a skeptic. DR. SANJAY GUPTA, CNN CHIEF MEDICAL CORRESPONDENT: Well, look, there's this psychedelic renaissance that is happening. I mean, you know, there was a time in this country where psychedelics were prescribed to treat all sorts of things. It's gone through decades of stigmatization and now -",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:53:33",
+      "speaker": "LEMON",
+      "sentences": "LSD was originally (INAUDIBLE).",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:53:33",
+      "speaker": "GUPTA",
+      "sentences": "LSD to treat addiction, things like that.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:53:33",
+      "speaker": "LEMON",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:55:04",
+      "speaker": "HARLOW",
+      "sentences": "Let's talk about where we go from here and also I'm wondering about side effects because so many people who need help from different treatments just the side effects are too much, or they make them feel not like themselves. Is the same true here or not?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:55:04",
+      "speaker": "GUPTA",
+      "sentences": "Well, so, first of all, it's a phase two study. So, in terms of where we go from here, there's still work to be done. They've got to - they've got to sort of broaden this out. They've got to do larger studies.Side effects were concerning in that they had headache, they had nausea, they had fatigue, higher percentages. Five percent of people had suicidal ideation, meaning that it actually made them more suicidal. What was interesting, though, about these drugs was that typically with anti-depressants you start taking them. It takes weeks to sort of build up a concentration of blood (ph) to get a benefit. Here, the greatest benefit was the day after you got the treatment. So, it's a different sort of what we call pharmaco (ph) dynamic here in the body. It's working really fast and then tapers off. Whereas with antidepressants it takes a while. They've got to see with suicidal ideations and other things how much of a factor that plays long term.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:55:04",
+      "speaker": "COLLINS",
+      "sentences": "Right, because that could ultimately derail this potentially.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:55:04",
+      "speaker": "GUPTA",
+      "sentences": "Yes. I mean that's - we're not there yet, you know, clearly. But I think when you talk about treatment resistant depression, these are patients who really don't -- they don't have any other options. And so they - they oftentimes might be suicidal without it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:55:04",
+      "speaker": "COLLINS",
+      "sentences": "But they have a different approach because they have fewer options, is that what -",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:55:04",
+      "speaker": "GUPTA",
+      "sentences": "Yes, I mean this is the - this is the option for them at this point. This is what they're trying to do. What can we do for patients with don't have anywhere else to turn?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:55:04",
+      "speaker": "COLLINS",
+      "sentences": "Yes, it's a real issue.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:55:04",
+      "speaker": "GUPTA",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:55:04",
+      "speaker": "COLLINS",
+      "sentences": "Sanjay, as always, we love having you join us here in the mornings.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:55:04",
+      "speaker": "GUPTA",
+      "sentences": "I'll be back. Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:55:04",
+      "speaker": "HARLOW",
+      "sentences": "Thank you so much. I can't wait for what we're talking -",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:55:04",
+      "speaker": "LEMON",
+      "sentences": "(INAUDIBLE). Big announcements.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:55:04",
+      "speaker": "HARLOW",
+      "sentences": "To you about next hour.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:55:04",
+      "speaker": "LEMON",
+      "sentences": "(INAUDIBLE).",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:55:04",
+      "speaker": "COLLINS",
+      "sentences": "You look great.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:55:04",
+      "speaker": "GUPTA",
+      "sentences": "Thanks.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:55:04",
+      "speaker": "HARLOW",
+      "sentences": "Now -- we need to move on, people.It is now the final stretch before the midterm elections. We're going to go live to Atlanta where everyone is watching the critical Georgia Senate race.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:55:04",
+      "speaker": "LEMON",
+      "sentences": "Hot-lanta.Dr. Sanjay Gupta, hot-lanta, that's your home.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:55:04",
+      "speaker": "COLLINS",
+      "sentences": "You know Atlanta very well.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:55:04",
+      "speaker": "LEMON",
+      "sentences": "So, Dr. Gupta -(COMMERCIAL BREAK) (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

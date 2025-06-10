@@ -1,0 +1,769 @@
+{
+  "date": "2023-09-28",
+  "headline": "CNN This Morning",
+  "subHeadline": "GOP Candidates Hold Contentious 2nd Debate; American Soldier Who Crossed into North Korea Now Back in U.S.. Aired 6-6:30a ET",
+  "utterances": [
+    {
+      "timeStamp": "06:00:08",
+      "speaker": "KASIE HUNT, CNN ANCHOR",
+      "sentences": "I can't wait. Andy Scholes, thanks very much for that.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:08",
+      "speaker": "SCHOLES",
+      "sentences": "All right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:08",
+      "speaker": "HUNT",
+      "sentences": "It's always great to see you.And thank you all for joining us this morning. I am Kasie Hunt. Don't go anywhere. CNN THIS MORNING starts right now.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:08",
+      "speaker": "POPPY HARLOW, CNN ANCHOR",
+      "sentences": "Good morning. After a very late night and a raucous debate. Right?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:08",
+      "speaker": "PHIL MATTINGLY, CNN ANCHOR",
+      "sentences": "Raucous.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:08",
+      "speaker": "HARLOW",
+      "sentences": "Raucous. Chaotic.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:08",
+      "speaker": "MATTINGLY",
+      "sentences": "Good lines.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:08",
+      "speaker": "HARLOW",
+      "sentences": "Some good lines. Some punches that didn't land.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:08",
+      "speaker": "MATTINGLY",
+      "sentences": "That's also true.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:08",
+      "speaker": "HARLOW",
+      "sentences": "This is true. We've got that to get to and a lot more this morning. Let's start with \"Five Things to Know\" for this Thursday, September 28.As we just said, pretty chaotic two-hour debate appears to have left little change in the Republican primary this morning, though. The candidates sharpening their attacks against each other and the front- runner, Donald Trump, who, again, wasn't there.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:08",
+      "speaker": "MATTINGLY",
+      "sentences": "And President Biden will also take on former President Trump today, calling on him -- calling him an ongoing threat to democracy, ahead of that potential 2024 match-up.Also happening this morning, House Republicans hold their first public hearing in the impeachment inquiry of President Biden. The clock, though, ticking down to a government shutdown. It's now just two days away.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:08",
+      "speaker": "HARLOW",
+      "sentences": "Also breaking this morning, the American soldier who crossed into North Korea on purpose is now back on U.S. soil, landing near San Antonio.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:08",
+      "speaker": "MATTINGLY",
+      "sentences": "An important FYI for senators, your dress code is now officially business attire if you're on the Senate floor. The rule comes after Senator John Fetterman's hoody and shorts look became a bit of a flashpoint in the upper chamber.CNN THIS MORNING starts right now.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:08",
+      "speaker": "HARLOW",
+      "sentences": "We'll get to the debate in a moment. But what is business attire these days? I haven't seen my husband wear a suit to the office in many years now.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:08",
+      "speaker": "MATTINGLY",
+      "sentences": "It is -- it is quite literally outlined in the legislation.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:08",
+      "speaker": "HARLOW",
+      "sentences": "OK. Of course, you read it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:08",
+      "speaker": "MATTINGLY",
+      "sentences": "It was outlined, passed unanimously.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:08",
+      "speaker": "HARLOW",
+      "sentences": "What does it say?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:08",
+      "speaker": "MATTINGLY",
+      "sentences": "I don't want to misquote it. Senator Manchin would be very upset, because I know this is a big issue for him. But I think it's a jacket, a tie and slacks.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:08",
+      "speaker": "HARLOW",
+      "sentences": "No hoodies?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:08",
+      "speaker": "MATTINGLY",
+      "sentences": "And in a very Senate manner, since no one uses the word \"slacks\" anymore. I'm pretty sure that was the explicit ask.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:08",
+      "speaker": "HARLOW",
+      "sentences": "Except you, Mattingly.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:08",
+      "speaker": "MATTINGLY",
+      "sentences": "Slacks.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:08",
+      "speaker": "HARLOW",
+      "sentences": "We'll talk more about that later.Donald Trump's rivals battling each other for a break-out moment last night in a chaotic debate on the stage. Watch. (BEGIN VIDEO CLIP) VIVEK RAMASWAMY (R), PRESIDENTIAL CANDIDATE: And if I may -- SEN. TIM SCOTT (R-SC), PRESIDENTIAL CANDIDATE: It's not your turn. You can't be a champion on both sides.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:08",
+      "speaker": "RAMASWAMY",
+      "sentences": "I believe in these people.(CROSSTALK)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:08",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "Senator Scott, it's not a question for you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:08",
+      "speaker": "RAMASWAMY",
+      "sentences": "These are good people on the stage.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:08",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "Governor DeSantis, I'm going straight --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:08",
+      "speaker": "RAMASWAMY",
+      "sentences": "There's one person on this stage that has a career in technology.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:08",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "Sir, wait. We'll have to cut your mic, and I don't want to do that. I don't.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:08",
+      "speaker": "HARLOW",
+      "sentences": "Yet again, the Republican front-runner, a no-show. It got rowdy, with the candidates repeatedly talking over one another, interrupting each other. Vivek Ramaswamy and Governor Ron DeSantis ended up having the most speaking time.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:08",
+      "speaker": "MATTINGLY",
+      "sentences": "Border security and government spending were the most talked-about issues of the night. Several candidates attacked Trump's record and slammed him for skipping the debate. But overall, they didn't really spend that much time talking about it.Instead of debating, Trump was in Michigan, trying to upstage President Biden's historic visit to join the auto workers' picket line. Trump joked that his primary opponents don't stand a chance. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:08",
+      "speaker": "DONALD TRUMP, FORMER PRESIDENT OF THE UNITED STATES",
+      "sentences": "You know, they're all job candidates. They want to be in the -- they want to not do anything. Secretary of something. They even say VP. I don't know. Has anybody seen any VP in the group? I don't think so.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:08",
+      "speaker": "MATTINGLY",
+      "sentences": "Kyung Lah is live for us at the Ronald Reagan Presidential Library after last night's debate. Early morning, Kyung, after a late night.These candidates are still fighting to close a huge gap with Trump, but seemed more like they were fighting one another last night.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:08",
+      "speaker": "KYUNG LAH, CNN CORRESPONDENT",
+      "sentences": "Yes. You know, Phil, it doesn't seem they didn't quite accomplished that goal of chipping away at Donald Trump's lead. This was a debate that was, as you just heard, it was messy. It was loud. And at times, you couldn't understand what anyone was saying on that stage.(BEGIN VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:08",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "To answer --LAH (voice-over): A chaotic second GOP presidential debate. (CROSSTALK) UNIDENTIFIED MALE: We want to get -- LAH (voice-over): With seven candidates all vying for second place behind Donald Trump, criticizing the front-runner for not showing up. CHRIS CHRISTIE (R), PRESIDENTIAL CANDIDATE: You're not here tonight, because you're afraid of being on this stage and defending your record. You're ducking these things. And let me tell you what's going to happen. You keep doing that, no one up here's going to call you Donald Trump anymore. We're going to call you Donald Duck. LAH (voice-over): The candidates invoked Trump's name more this time around, zeroing in on the economy and possible government shutdown. GOV. RON DESANTIS (R-FL), PRESIDENTIAL CANDIDATE: The people in Washington are shutting down the American dream with their reckless behavior. They borrowed; they printed; they spent. And now you're paying more for everything. They are the reason for that. And where's Joe Biden? He's completely missing in action from leadership. And you know who else is missing in action? Donald Trump is missing in action. He should be on this stage tonight. He owes it to you to defend his record. LAH (voice-over): Pence took direct aim at the president's Bidenomics agenda. MIKE PENCE (R), FORMER VICE PRESIDENT OF THE UNITED STATES: Joe Biden doesn't belong on a picket line. He belongs on the unemployment line. Bidenomics has failed. Wages are not keeping up with inflation. Auto workers and all American workers are feeling it. LAH (voice-over): On the auto workers' strike, a range of views and blame.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:08",
+      "speaker": "SCOTT",
+      "sentences": "They want four-day French work weeks, but more money. They want more benefits, working fewer hours. That is simply not going to stand.GOV. DOUG BURGUM (R-ND), PRESIDENTIAL CANDIDATE: The reason why people are striking in Detroit is because Joe Biden's interference with capital markets and with free markets. LAH (voice-over): The debate hit on many red-meat issues for the Republican Party, including immigration and border security.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:08",
+      "speaker": "CHRISTIE",
+      "sentences": "Our laws are being broken every day at the Southern border. Every day. And Joe Biden and his crew is [SIC] doing nothing about enforcing that law.NIKKI HALEY (R), PRESIDENTIAL CANDIDATE: Defund sanctuary cities. You see what's happening in Philadelphia right now. It's got to stop. We need to make sure we put 25,000 more Border Patrol and ICE agents on the ground and let them do their job. RAMASWAMY: Well, if the kid of a Mexican diplomat doesn't enjoy birthright citizenship, then neither does the kid of an illegal migrant who broke the law to come here. LAH (voice-over): Vivek Ramaswamy, who faced direct attacks during the first debate, was forced to defend his business record in China and his use of TikTok.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:08",
+      "speaker": "RAMASWAMY",
+      "sentences": "I have a radical idea for the Republican Party. We need to win elections. And part of how we win elections is reaching the next generation of young Americans where they are.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:08",
+      "speaker": "HALEY",
+      "sentences": "This is infuriating, because TikTok is one of the most dangerous social media apps that we could have. And what you've got, honestly, every time I hear you, I feel a little bit dumber for what you say.LAH (voice-over): And the two candidates from South Carolina sparred over gas taxes in their home state and -- curtains.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:08",
+      "speaker": "SCOTT",
+      "sentences": "Nikki offered a 10 percent -- 10-cent tax gas increase in South Carolina. As the U.N. ambassador, you literally --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:08",
+      "speaker": "HALEY",
+      "sentences": "Bring it, Tim.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:08",
+      "speaker": "SCOTT",
+      "sentences": "-- put $50,000 on curtains at a $15 million subsidized location.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:08",
+      "speaker": "HALEY",
+      "sentences": "You got bad information. First of all, I fought the gas tax in South Carolina multiple times.Secondly, on the curtains, do your homework, because Obama bought those curtains.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:08",
+      "speaker": "SCOTT",
+      "sentences": "Did you send them back?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:08",
+      "speaker": "HALEY",
+      "sentences": "It's in the press.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:08",
+      "speaker": "SCOTT",
+      "sentences": "Did you send them back?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:08",
+      "speaker": "HALEY",
+      "sentences": "It's the State Department.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:08",
+      "speaker": "SCOTT",
+      "sentences": "Did you send them back?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:08",
+      "speaker": "HALEY",
+      "sentences": "Did you send them back? You're the one that works in Congress.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:08",
+      "speaker": "SCOTT",
+      "sentences": "No. I'm -- You hung them on -- your curtains.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:08",
+      "speaker": "HALEY",
+      "sentences": "They were there before I ever showed up at the residence. You are scrapping.(END VIDEOTAPE) LAH (ON CAMERA): So after all that yelling at the debate, what you did not hear, though, is anyone saying that they were going to take the foot off the gas. You didn't hear anyone say that they were going to step off the campaign trail. In fact, many of them will be heading South of where I'm standing right now, into Orange County. Ramaswamy, Scott, and DeSantis are all going to show up in Orange County for the California Republican Party convention. The biggest name, though, that is going to show up for that event, Phil and Poppy: Donald Trump.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:08",
+      "speaker": "HARLOW",
+      "sentences": "Hmm. Kyung, thank you for the reporting. Quite a night.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:08",
+      "speaker": "MATTINGLY",
+      "sentences": "Quite a night. I have so many thoughts.Let's bring in writer of \"A Very Serious Newsletter\" and the host of \"Very Serious Podcast,\" Josh Barro; CNN political -- You laughed. You set this up intentionally so that we always say Josh Barro is very serious. Commentators Van Jones and Margaret Hoover; and CNN anchor and senior political analyst John Avlon. Welcome, guys. Appreciate you waking up after a late night. Look, there are a lot of things I want to get into, especially Nikki Haley's seeming          reference to a \"Billy Madison\" quote, which I love more than anything in the world. But I want to start with, I think, the most important element here, which is when you're down by 30 or 40 in the polls, you need to figure out a way to chip away at it. We heard some of it. Take a listen. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:08",
+      "speaker": "DESANTIS",
+      "sentences": "You know who else is missing in action? Donald Trump is missing in action. He should be on this stage tonight.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:08",
+      "speaker": "PENCE",
+      "sentences": "My former running mate, Donald Trump, actually has plan to start to consolidate more power in Washington, D.C. Consolidate more power in the executive branch.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:08",
+      "speaker": "HALEY",
+      "sentences": "This is where President Trump went wrong. He focused on trade with China. He didn't focus on the fact they were buying up our farmland. He didn't focus on the fact that they were killing Americans.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:08",
+      "speaker": "CHRISTIE",
+      "sentences": "You're ducking these things. And let me tell you what's going to happen. You keep doing that, no one up here's going to call you Donald Trump anymore. We're going to call you Donald Duck.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:10:10",
+      "speaker": "HARLOW",
+      "sentences": "Does it get done, Van? If they didn't do it last night, why would they do it in the future?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:10:10",
+      "speaker": "VAN JONES, CNN POLITICAL COMMENTATOR",
+      "sentences": "I see it differently. I don't think --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:10:10",
+      "speaker": "HARLOW",
+      "sentences": "Yes, what do you see?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:10:10",
+      "speaker": "JONES",
+      "sentences": "I don't think, if you're a Republican, jumping up and down about the indictments is going to help you at all.It's just -- they're in mirror world, and in that -- in that world, it's kind of like with O.J. Simpson. You know, the black community kind of knew O.J. Simpson was not the best person in the world, but they hated the LAPD worse. And so that's kind of how, it's sort of -- it's that. It's like you have these Republican voters. And you know Trump is a scoundrel, but they just think the Democratic establishment and the deep state is worse. For me what I saw was, you know, these debates, it's not just about who gets to be the nominee. It's about the country. It's about what happens to the party along the way. They were mainstreaming, attacking, the babies of immigrants, saying you don't belong here. You shouldn't be a citizen here. That's terrible. They were mainstreams denying care to transgender folks. They were mainstreaming abandoning Ukraine. So in addition to not saying more mean things about Donald Trump, which I would like but I don't think would move the needle, there's something happening to that party, something happening to this country. I thought that was very disturbing.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:10:10",
+      "speaker": "MATTINGLY",
+      "sentences": "They were also pushing to repeal the Green New Deal, which is amazing, because it hasn't been passed into law yet. So congrats to Joe Biden and Alexandria Ocasio-Cortez for your legislative victory we didn't know about.I think this is actually a really interesting point. Because you watch these debates, particularly if no one's going to make a huge move at the front-runner, kind of what John's saying, what Margaret's saying. And to Van's point. What has become kind of the base line, key points for the party. Do you think Van's right? This is -- this is it now? You can listen to the Romneys. You can listen to the McConnells. You can listen to other people who come from kind of the old guard of Republicanism, but this is it. JOSH BARRO, WRITER, \"VERY SERIOUS\" NEWS: I mean, the main way that these candidates are trying to differentiate themselves from Donald Trump is by trying to get to his right: getting to his right on entitlements; getting to his right on abortion. And I think -- you know, I think Van's right. That the -- the argument that John there, that's a general election argument. And it's a perfectly good general election argument that will help Democrats, but it won't -- it won't help you in a Republican primary, where people, where the typical voter thinks that everything Donald Trump did through that process at the 2020 election was fine and justified. There is a subtler argument that you could make, about, you know, even if -- even if you're OK with all the stuff Donald Trump did, why this is bad for the Republican Party and conservatives. That he can't run for a second term. That he's going to be spending all of his time and money during the general election on defending himself in these -- in these legal matters that he has, regardless of their merits, rather than trying to win elections for Republicans. And you saw Ron DeSantis get at that a little bit, talking about, you know, we need a president who can serve two terms. The problem is, I don't think that that many voters think about this in those terms. You know, like, they don't think about it like if they were a party operative trying to implement the party agenda. And that's what -- that's what's so difficult for these candidates in this race. That yes, you know, you have to attack Donald Trump to be relevant. But if you attack Donald Trump from the left, which is effectively what you're doing is you say, you know, it's so terrible he tried to steal the election, then that's not going to get you anywhere in the primary. If that was useful, Chris Christie would be leading the primary.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:10:10",
+      "speaker": "AVLON",
+      "sentences": "I think the problem is considering that overturning the election is an issue that appeals to the left. The argument I'm making is that electability matters. That's why political parties exist.We all get there's a cult of personality going on. But what's going to ultimately deflate that is confronting facts with strength. Right? This is the old, you know, strength matters, if you're trying to be a leader. And tiptoeing around and finding small differences, I don't think cuts it. Republicans still like to think of themselves as a party of law and order, that defends the Constitution, that's patriotic, defends democracy. And if you take those facts to the woodshed, I think you can start to carve out your own niche.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:10:10",
+      "speaker": "BARRO",
+      "sentences": "Isn't that what Chris Christie has been doing?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:15:05",
+      "speaker": "JONES",
+      "sentences": "So your deal is that -- the national polls are one thing, but where it matters, in New Hampshire, it's working?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:15:05",
+      "speaker": "HOOVER",
+      "sentences": "Chris Christie's strategy is working right now in New Hampshire, because you can see he's climbing up in the polls, and he's beat DeSantis in some cases. They are all still lagging to Donald Trump.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:15:05",
+      "speaker": "MATTINGLY",
+      "sentences": "Hang on. You guys are all coming back. This is a teaser. And I love the enthusiasm.We're also talking to Chris Christie in the 8 a.m. hour. So stay tuned for that. You guys stick around. We have a lot more to talk to. That was the appetizer.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:15:05",
+      "speaker": "HARLOW",
+      "sentences": "Great. And can't wait for the main course.This happening overnight, the suspect in the murder of a Baltimore tech CEO has been arrested. We'll tell you those details.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:15:05",
+      "speaker": "MATTINGLY",
+      "sentences": "And just a short time ago, the American soldier who ran into North Korea has arrived back on U.S. soil. What officials are saying about the negotiations that brought him home. Stay with us.(COMMERCIAL BREAK) (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:15:05",
+      "speaker": "HALEY",
+      "sentences": "He voted for the spending.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:15:05",
+      "speaker": "SCOTT",
+      "sentences": "You voted for -- you actually asked for a gas tax increase in South Carolina --(CROSSTALK)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:15:05",
+      "speaker": "HALEY",
+      "sentences": "Twelve years. Where have you been? Where have you been, Tim?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:15:05",
+      "speaker": "SCOTT",
+      "sentences": "Ten cents on the gallon in South Carolina. As the U.N. ambassador, you literally --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:15:05",
+      "speaker": "HALEY",
+      "sentences": "Bring it, Tim.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:15:05",
+      "speaker": "SCOTT",
+      "sentences": "-- put $50,000 on curtains at a $15 million subsidized location.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:15:05",
+      "speaker": "HALEY",
+      "sentences": "On the curtains --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:15:05",
+      "speaker": "SCOTT",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:15:05",
+      "speaker": "HALEY",
+      "sentences": "-- do your homework, Tim, because Obama bought those curtains.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:15:05",
+      "speaker": "SCOTT",
+      "sentences": "Did you send them back?(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:25:05",
+      "speaker": "HOOVER",
+      "sentences": "Maybe not so friendly.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:25:05",
+      "speaker": "HARLOW",
+      "sentences": "I guess, but was that -- was that useful to either of their causes?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:25:05",
+      "speaker": "HOOVER",
+      "sentences": "It actually -- Nikki Haley turned out just fine. It shows -- I mean, there's some of the headlines of, used the word \"swagger.\" I mean, she can pivot. She's very adept at handling attacks and also going on the attack, but she didn't ask for that. As soon as she saw he was going there, she was ready. And so what -- what you see --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:25:05",
+      "speaker": "AVLON",
+      "sentences": "\"Bring it, Tim.\"",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:25:05",
+      "speaker": "HOOVER",
+      "sentences": "Here's what Nikki Haley did, though. And let's be clear. That story was silly. OK, that was a story that was printed by \"The New York Times\" when it first came out. \"The New York Times\" issued a correction.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:25:05",
+      "speaker": "AVLON",
+      "sentences": "The curtains. Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:25:05",
+      "speaker": "HOOVER",
+      "sentences": "The curtains story. I mean, and it was just silly and below the belt. Why was he doing that? Just trying to distinguish himself from her and from the crowd.They all should be distinguishing themselves from Donald Trump. I thought it -- it didn't play well with Republican voters, at least the ones that were in the room.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:25:05",
+      "speaker": "AVLON",
+      "sentences": "Pretty obscure, too.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:25:05",
+      "speaker": "HOOVER",
+      "sentences": "Van, you're frustrated.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:25:05",
+      "speaker": "JONES",
+      "sentences": "That's not what happened.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:25:05",
+      "speaker": "HOOVER",
+      "sentences": "What do you mean? That's not how it happened? What do you mean?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:25:05",
+      "speaker": "JONES",
+      "sentences": "They asked -- they tried to pit them against each other, the moderators. They tried to pit them against each other. And Tim Scott turned to her and didn't attack her. And he actually made substantive points. Then --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:25:05",
+      "speaker": "HOOVER",
+      "sentences": "On the curtains?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:25:05",
+      "speaker": "AVLON",
+      "sentences": "No, no. There was -- that was the second question.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:25:05",
+      "speaker": "JONES",
+      "sentences": "Going somewhere. He didn't attack her. That was the most important moment of the debate. Tim Scott was asked to attack her and didn't do it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:25:05",
+      "speaker": "HOOVER",
+      "sentences": "And then he did?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:25:05",
+      "speaker": "JONES",
+      "sentences": "Then when she had the opportunity to talk, she attacked him. Then he tried to -- then he came with the silly nonsense. Not being Tim Scott. Tim Scott's not an attacker. HOOVER",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:25:05",
+      "speaker": "JONES",
+      "sentences": "Tim Scott tried to show character. He tried to show class. He tried to show integrity. He didn't fall for it. And Nikki Haley attacked him anyway, and she's benefitting from it.Of course, it looks like a full attack now, because that wasn't what he went out there to do. And so here's the thing. There are things that are happening on the stage that are very disturbing. I was so proud that Tim Scott didn't attack her, given the opportunity, and I was sad that she chose to attack him. Now we're talking about the same thing that happened, but the main point got missed.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:25:05",
+      "speaker": "BARRO",
+      "sentences": "But this just shows how irrelevant this debate was.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:25:05",
+      "speaker": "HOOVER",
+      "sentences": "Correct.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:25:05",
+      "speaker": "BARRO",
+      "sentences": "I mean, the curtain thing is silly, but even the rest of that exchange about, you know, the -- you tried to raise the gasoline tax.No, I was trying to do a deal with the income tax and the gasoline tax in the state of South Carolina. It's just -- it's small issues between two candidates who are not going to come close to receiving this nomination. That doesn't tell us very much about the future of this country. I mean, it's the -- when you put seven candidates on the stage who are not going to be the Republican nominee for president and have them argue for each other like they're pretending, that the contest is among these people. The question is, is Tim Scott or Nikki Haley going to be the Republican nominee, of course, another pointless exchange, because the exercise is pointless.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:25:05",
+      "speaker": "AVLON",
+      "sentences": "Hold on. Phil, I don't know if you -- surrogate -- surrogate argument here, but the election --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:25:05",
+      "speaker": "MATTINGLY",
+      "sentences": "You literally have no allies right now.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:25:05",
+      "speaker": "AVLON",
+      "sentences": "-- is not definitively over.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:25:05",
+      "speaker": "HARLOW",
+      "sentences": "We're back to the bets?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:25:05",
+      "speaker": "AVLON",
+      "sentences": "This is the perennial --(CROSSTALK)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:25:05",
+      "speaker": "HOOVER",
+      "sentences": "-- the argument.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:25:05",
+      "speaker": "AVLON",
+      "sentences": "This is the perennial -- yes, John v. Phil debate about whether the election is over.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:25:05",
+      "speaker": "HARLOW",
+      "sentences": "I heard, by the way, the winner is a steak dinner. Winner, winner, steak dinner. AVLON",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:25:05",
+      "speaker": "HARLOW",
+      "sentences": "Till the --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:25:05",
+      "speaker": "AVLON",
+      "sentences": "I was going to do, you know, sort of Graeter's ice cream for you. Anyway, we'll figure that out later. An Ohio thing.So look, here's the real issue, I think. When the field starts thinning out, one of these candidates will be a credible alternative to Donald Trump. It might very well be Nikki Haley. To dismiss that out of hand might be -- I would have said Tim Scott before the first debate was a possibility. So the issue is that -- what I thought really makes an important point about what you've got to pay attention to is the water level of the policy conversation that's becoming acceptable. Right? There seems to be a new consensus, for example, that the U.S. military should directly attack drug -- drug cartels in Mexico.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:25:05",
+      "speaker": "JONES",
+      "sentences": "Right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:25:05",
+      "speaker": "AVLON",
+      "sentences": "That's a significant shift of policy, dramatically to the right. That's worth notable. Right?This silly oppo about curtains and all that, you're right, candidates always do best when they stay true to their core. But it's actually paying attention and tracking. And also the fact that, look, you know, when -- when Mike Pence was asked about Obamacare, he immediately pivoted to he's concerned about school shootings and solutions, expedite --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:25:05",
+      "speaker": "HARLOW",
+      "sentences": "And then Dana Perino was like, Obamacare? Do you care to answer again?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:25:05",
+      "speaker": "AVLON",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:25:05",
+      "speaker": "HARLOW",
+      "sentences": "She gave him another chance. And he didn't.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:25:05",
+      "speaker": "AVLON",
+      "sentences": "No. So that, I think, you know -- let's focus on the substance, because then you can actually have a -- A lot of this stylistic stuff is just -- is distraction, is distraction bait.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:25:05",
+      "speaker": "HOOVER",
+      "sentences": "But the problem also is that Donald Trump has watered down the rhetoric and the discourse so much that policy isn't what his voters are going to the polls for. They're going to the polls for the feeling they get by supporting him. These cultural-base issues.And it -- I mean, this just -- the contrast with Reagan was so stark.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:25:05",
+      "speaker": "AVLON",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:25:05",
+      "speaker": "HOOVER",
+      "sentences": "Because the arguments when Reagan was running -- was running  for president were substantive, and they were policy-based, and theywere nuanced. And Republicans would have that kind of debate. And that was the major contrast between the kind of debates we used to have, versus what Donald Trump has done to the party.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:25:02",
+      "speaker": "MATTINGLY",
+      "sentences": "New overnight, the suspect in the murder of a 26-year-old tech chief executive in Baltimore is now in police custody. Pava LePere was found dead on Monday, having suffered blunt-force trauma.Police then launched a manhunt for Jason Billingsley, calling him, quote, \"extremely dangerous.\" The did not immediately release details about his capture, but more information will be announced in an 11 a.m. news conference. LaPere's friends and family and community gathered for an emotional vigil last night. Her father, choking back tears as he discussed how proud he was of his daughter's hard work and ambition. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:25:02",
+      "speaker": "FRANK LEPERE, FATHER OF PAVA LAPERE",
+      "sentences": "She's always, always, been a leader. Always been driven and creative. Always attended -- intended to be a high achiever. Even didn't mention it or say it or anything, but you could just tell that she knew what she wanted to accomplish, and there was nothing that would get in her way of accomplishing that.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:25:02",
+      "speaker": "MATTINGLY",
+      "sentences": "Well, LaPere's father also said she was the definition of daddy's little girl.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:25:02",
+      "speaker": "HARLOW",
+      "sentences": "Also new this morning, U.S. Army Private Travis King back on U.S. soil after being expelled from North Korea. He flew in on a military flight that landed at Joint Base San Antonio.If you remember, he is the soldier who crossed into North Korea during a tour of the Demilitarized Zone in July. Just before that, King was released from a South Korean detention facility after an alleged assault at a Seoul night club. Oren Liebermann following all of this from the Pentagon. I mean, there so many questions. This broke during the show yesterday, but we still don't have answers, do we, from U.S. officials as to why North Korea just let him go? I mean, the U.S. says no conditions, no concessions?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:25:02",
+      "speaker": "OREN LIEBERMANN, CNN PENTAGON CORRESPONDENT",
+      "sentences": "And none that North Korea have mentioned, either. Only saying they expelled him after their concluded their investigation into him.But what that investigation was based on, what they were looking into, or what they found, doesn't seem that North Korea has answered that as well. So the question of what was North Korea's motivation in all of this is one that is very much open. Several hours ago, as you pointed out, Private Travis King landed at Joint Base San Antonio. He's on his way to Brooke Army Medical Center. That's where he'll get a medical evaluation and perhaps also likely a psychiatric evaluation after some 70 days in North Korea. Worth noting: that's where Brittney Griner and Trevor Reed were taken after they were released from Russia, because that's where the Army deals with those who have been in detention and need to get back to life, or reacclimate into life. His journey out of North Korea, almost as bizarre as his journey in, when on July 18, he left the airport and ran across the DMZ into North Korea, following a private tour of the DMZ. Here, on his way out, it involved the Swedes. It involved the Chinese. It was Sweden that acted as a sort of interlocutor between the U.S. and North Korea. It was a Swedish convoy that brought Private Travis King to the Friendship bridge on the border between North Korea and China. At that point, he was picked up by the U.S. defense attache to China, and he became once again in U.S. military custody. He caught a flight from there to South Korea to Osan Air Base there. And then a military fight back to the -- back to the United States. We were actually able to track those flights on flight-tracking websites as he made his way back to the U.S. for the first time in some two months. He'd been able to speak with his family, Poppy. And he is now back in the U.S., where he will sort of reacclimate to life outside of North Korea here.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:25:02",
+      "speaker": "HARLOW",
+      "sentences": "Yes. And so many of those questions that -- that need to be answered. We'll get updates as they come. Thanks, Oren, for the reporting at the Pentagon.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:25:02",
+      "speaker": "MATTINGLY",
+      "sentences": "Well former President Trump missing from last night's debate stage. Instead, he was in Michigan, vying for the union vote. We'll tell you which GOP rival he attacked directly after the debate.",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

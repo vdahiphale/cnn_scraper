@@ -1,0 +1,169 @@
+{
+  "date": "2024-04-04",
+  "headline": "CNN News Central",
+  "subHeadline": "Record Hurricane Season Predicted; Parents of Ethan Crumbley Face Sentencing; Judge Upholds Trump Georgia Indictment; Biden Speaks With Netanyahu. Aired 1-1:30p ET",
+  "utterances": [
+    {
+      "timeStamp": "13:00:26",
+      "speaker": "ANNOUNCER",
+      "sentences": "This is CNN breaking news.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:00:26",
+      "speaker": "BORIS SANCHEZ, CNN HOST",
+      "sentences": "Thanks for joining us on CNN NEWS CENTRAL this afternoon.We begin with breaking news. A judge has upheld the criminal indictment against former President Donald Trump in Georgia,the judge there rejecting the argument that Trump's efforts to overturn the 2020 election were protected under the First Amendment. CNN's Zachary Cohen is part of the team that broke this story. Zach, walk us through this decision by Judge Scott McAfee.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:00:26",
+      "speaker": "ZACHARY COHEN, CNN NATIONAL SECURITY REPORTER",
+      "sentences": "Yes, Boris, you will remember that we heard and we watched a hearing in Fulton County, Georgia, just about a week ago.And Trump's lawyers argued strenuously that this entire case should be thrown out, because, in his argument, that the political speech and that the claims about voter fraud that Trump was pushing after the 2020 election are protected by the First Amendment. Now, the judge today roundly rejecting that argument, as we have seen him do multiple other times in this case for other defendants in Georgia, saying, look -- quote -- \"The defense has not presented, nor is the court able to find any authority that the speech and conduct alleged is protected political speech.\" He goes on to say that this argument is one that should be heard by a jury, not one that should be decided during pretrial motions. That was the argument that prosecutors in Georgia made about a week ago in court before Judge McAfee. So, this is just an example of this case in Georgia inching towards a potential trial. We know that the DA there has asked for a trial to start on August 5. But Judge McAfee has not put a start date on the calendar yet. That really is the big thing we're looking for, but, again, the judge continuing to work through these pretrial motions in Georgia, continuing to work toward and address these issues that have to be addressed before a trial can take place. SANCHEZ:  And, Zach, Judge McAfee is not the first judge to make a ruling like this related to Trump's efforts to overturn the 2020 election being related to the First Amendment. Judge Tanya Chutkan also rejected that argument from Trump's attorneys in the federal case against him for election subversion. I'm wondering, have you heard anything from Trump's Georgia attorneys about this decision, how they plan to proceed?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:00:26",
+      "speaker": "COHEN",
+      "sentences": "Trump -- Trump's lead attorney IN Georgia, Steve Sadow, has immediately declined to comment on this ruling. I'm sure we will hear from him eventually, because he did push and he was the main person, the main defense attorney arguing this in court when we saw this hearing take place just about a week ago.And, look, Steve Sadow has filed several similar motions to try to get this case thrown out before a trial even happens. Obviously, Trump is fighting multiple front -- legal fronts. As you mentioned, he tried the same argument in his federal case with Judge Tanya Chutkan, who similarly rejected the First Amendment arguments. And when we saw the hearing take place in Georgia, prosecutors referenced Chutkan's ruling on this First Amendment issue too. And like I mentioned earlier, this is a similar argument that some of Trump's co-defendants in Georgia have also tried to make and was also rejected by Scott McAfee. So we're going to have to see. There's other attempts and unaddressed attempts and motions on the table still to try to get this case dismissed. But, for now, the case and the indictment against Trump in Georgia remains intact.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:00:26",
+      "speaker": "SANCHEZ",
+      "sentences": "Zach Cohen, thank you so much for the update -- Brianna.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:05:30",
+      "speaker": "JOHN KIRBY, NSC COORDINATOR FOR STRATEGIC COMMUNICATIONS",
+      "sentences": "While we make no bones about the fact that we have certain issues about some of the way things are being done, we also make no bones about the fact that Israel is going to continue to have American support for the fight that they're in to eliminate the threat from Hamas.(END AUDIO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:05:30",
+      "speaker": "LEE",
+      "sentences": "But sticking to the status quo is certainly being increasingly criticized and at the very least being questioned, including by Senator Chris Coons.He, of course, is a big ally of the president's. He happens to also be a co-chair of the Biden campaign. Here's what he said this morning on our air about the idea of conditioning aid to Israel. (BEGIN VIDEO CLIP) SEN. CHRIS COONS (D-DE):  I think we're at the point where President Biden has said and I have said and others have said, if Benjamin Netanyahu, prime minister, were to order the IDF into Rafah at scale, they were to drop 1,000-pound bombs and send in a battalion to go after Hamas, and make no provision for civilians or for humanitarian aid, that I would vote to condition aid to Israel. I have never said that before. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:05:30",
+      "speaker": "LEE",
+      "sentences": "And the weapons that the U.S. has sent and continues to send to Israel is going to be increasingly controversial, and I think it's very much worth noting that the White House has said that it does not know whether U.S. resources or U.S. weaponry was involved in these strikes on Monday that ended up killing those seven aid workers -- Brianna.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:05:30",
+      "speaker": "KEILAR",
+      "sentences": "All right, M.J. Lee live for us at the White House.Now to Israel with CNN's Jeremy Diamond. And, Jeremy, both of these leaders -- this isn't just about strategic military considerations. Both of these leaders have serious political considerations. What is at stake for Netanyahu with this call?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:10:09",
+      "speaker": "KEILAR",
+      "sentences": "And, Jeremy, just real quickly, can you also talk about what we're learning about the controversial role of A.I. in the IDF's targeting, or, maybe more specifically, how reliant they have been on it without human checks and balances?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:10:09",
+      "speaker": "DIAMOND",
+      "sentences": "Yes, a really remarkable report by an Israeli magazine, \"+972,\" which revealed this artificial intelligence program known as Lavender, which used -- identifies targets in the Gaza Strip, effectively compiling a kill list of potential targets, suspected militants, for the Israeli military to then drop bombs, drop missiles in the Gaza Strip.And this report revealed that the military relied on this, systematically using this system to identify targets, and then rapidly authorizing strikes on those targets, including on some of these suspected militants, low-level militants in some cases, at nighttime while they were home in their families, resulting in significant civilian casualties, as we have watched over the course of the last several months of this war. The Israeli military, for its part, said that these systems are merely tools for analysts to use, that it is used in conjunction with human personnel, who verify the information that this A.I. system is giving. But one source told \"+972\" that military personnel effectively served as a rubber stamp and that this system actually had a 10 percent error rate, so very significant and very troubling information revealed by this magazine.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:10:09",
+      "speaker": "KEILAR",
+      "sentences": "Yes, indeed.Jeremy Diamond, thank you so much for that -- Boris.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:10:09",
+      "speaker": "SANCHEZ",
+      "sentences": "Let's expand the conversation now with former State Department Middle East negotiator Aaron David Miller.Aaron, thank you so much for being with us. Are you expecting anything on the ground in Gaza to change from today's call between President Biden and Prime Minister Netanyahu?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:10:09",
+      "speaker": "AARON DAVID MILLER, FORMER STATE DEPARTMENT MIDDLE EAST NEGOTIATOR",
+      "sentences": "I mean, one call is not going to make or break this relationship between the two countries.And I think, Boris, the overall point, six months into this war, almost six months into this war, is that the administration has been pursuing what I call a passive-aggressive policy toward the Israelis, tremendous anger, tremendous frustration, tremendous desire to change Israeli practices on the ground and minimize the exponential rise of Palestinian deaths and the humanitarian catastrophe, but unwilling, it seems to me, still to impose a single cost or consequence that you and I would consider significant on Israel. And I think the reasons are clear. The president, alone among his predecessors, has this unique emotional bond with the people of Israel, the security of Israel, the idea of Israel, obviously not so much with the most extreme right-wing government in the history of the state. And, second, if Biden wants to change the pictures in Gaza, de- escalate free hostages, surge humanitarian assistance, avoid a disaster in Rafah, I think he really has no choice. And I think this is the way they're reasoning it out, but to cooperate not just with Netanyahu, but to read the mood of the Israeli public and also Benny Gantz, Boris, who sits in that war cabinet, endorsing the Rafah operation. So it can't be Netanyahu against Biden. It would be -- it ended up, would be Biden against most of -- most of the Israeli public, and I don't think the administration wants to put itself in that position.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:10:09",
+      "speaker": "SANCHEZ",
+      "sentences": "That's a fair point. I would say that it's almost poetic, in a sense, because, for Biden, it could have electoral consequences.He wants this conflict to end sooner, rather than later, because obviously, it could cost him in November. Critics would say that Netanyahu wants the conflict to go on because he's trying to avoid elections. It doesn't seem to you like their motivations are contradictory?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:10:09",
+      "speaker": "MILLER",
+      "sentences": "Yes, well, absolutely.Two clocks. The president wants this thing over, or at least de- escalated to the point where Palestinian lives are protected and humanitarian assistance can be surged into Gaza, rather than dribbled in. And, yes, I think, on trial for bribery, fraud and breach of trust in a Jerusalem district court, three judges for three years now, the longer the war continues, the greater the chances, I'm sure Mr. Netanyahu believes, that something good will happen, they will rescue hostages, they will kill the senior leadership, and, to some degree, he will be able to get credit to offset the debacle of October 7.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:15:10",
+      "speaker": "MILLER",
+      "sentences": "Hard to say.Three levers, the administration could have pulled all of them or none of them since October 7. One, as you pointed out, condition, restrict or end munitions deliveries to Israel. Not going to do that, seems to me. Number two, introduce their own U.N. Security Council resolution or abstain or vote for someone else's that is highly critical of Israel. Seems to me not going to do that. And then the third issue is, forget the Israeli-Hamas negotiations and join the international community in calling for an immediate cessation of hostilities, and we will deal with hostages later. And, frankly, Israel's not at war with Switzerland. I think the president understands that. Israel's fighting a vicious terror organization which holds and abuses hostages. I don't think that president's going to do that. So I think Biden's in a box, Boris. That's the real problem here. He's in an investment trap. And it's really difficult for me to see how he fundamentally changes course.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:15:10",
+      "speaker": "SANCHEZ",
+      "sentences": "You did mention in a recent interview that you believe that Biden doesn't share the same depth of feeling and empathy for Palestinians that he does for Israelis.I think the White House would refute that. Help us understand your perspective.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:15:10",
+      "speaker": "MILLER",
+      "sentences": "I mean, this is a good, kind man, Joe Biden.And if you watched his speech on October 10, it was quite clear three days after the Hamas terror surge, that he -- he's -- and to some degree feels the emotion and the pain of Israelis and the loss. He referred to the -- quote -- \"black hole of loss\" -- unquote. And he may even conflate it with the own -- with the personal tragedies in his own life, genuine emotional man. The way it's conveyed, however, I think, is different. And I have gotten a lot of pushback for that comment, but I think it's true. It's not that Joe Biden doesn't care about the deaths of Palestinian innocents and the exponential rise of casualties, deaths, humanitarian catastrophe that exists in Gaza. It just seems to me that, when he conveys it, he does not convey it with the same power of emotion and feeling and resonance. And I think that's something that could easily be corrected, because it's genuine. This is a caring, feeling human.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:15:10",
+      "speaker": "SANCHEZ",
+      "sentences": "Right. I do want to -- I do... MILLER",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:15:10",
+      "speaker": "SANCHEZ",
+      "sentences": "Yes.I do want to ask you one more thing quickly. The point about electoral consequences, \"The Wall Street Journal\" had a poll recently that showed that those asked prefer former President Donald Trump to Joe Biden on a theoretical handling of the war in Gaza by 14 percentage points. Just based on his first term, how do you think the U.S. position on the war would be different if Donald Trump were in the White House?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:15:10",
+      "speaker": "MILLER",
+      "sentences": "Oh, I think it would be fundamentally different.There's aid getting into Gaza because of administration pressure, not enough, but because of administration pressure. There's freedom for hostages in large part because of U.S. intercession. There was the intercession in the second or third day of the war to prevent a preemptive Israeli strike against Hezbollah, which could have morphed into a regional war. I think, with Donald Trump, you're going to get a hands-off, \"What's in it for me?\" policy. And I think that would be a fundamental disaster. And those uncommitted who somehow believe that not voting for Joe Biden because of their anger, understandable, in the wake of Palestinian deaths, are courting catastrophe, it seems to me, not just in the Middle East, but for this republic of ours, by not turning out. I have voted Republicans and Democrats. I have worked for Republicans and Democrats. It's a matter of the national interest at this point, Boris. And I think most reasonable, rational humans know what the better outcome will be on November 5.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:15:10",
+      "speaker": "SANCHEZ",
+      "sentences": "Aaron David Miller, appreciate the perspective, as always. Thanks for being with us.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:15:10",
+      "speaker": "MILLER",
+      "sentences": "Thanks for having me.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:24:04",
+      "speaker": "KEILAR",
+      "sentences": "As a Michigan couple faces sentencing next week for their roles in the Oxford school shooting carried out by their son, prosecutors are laying out what they call a -- quote -- \"chilling lack of remorse from the pair.\"That was from a sentencing memorandum for James and Jennifer Crumbley. They were convicted of involuntary manslaughter for what juries saw as their roles in their son's deadly rampage in 2021. He killed four students in that massacre. CNN's Jean Casarez has the details for us. Jean, what are you learning?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:25:02",
+      "speaker": "KEILAR",
+      "sentences": "It's very interesting.Well, we will stay tuned to see what happens here. Jean Casarez, thank you for the latest -- Boris.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:25:02",
+      "speaker": "SANCHEZ",
+      "sentences": "A gloomy prognostication we got today.A first-of-its-kind forecast has just been issued for this year's Atlantic hurricane season. It's predicting more hurricanes than ever before in a preseason forecast. Scientists at Colorado State University say there could be as many as 11 hurricanes when the season starts in June. The previous high for the outlook was nine. CNN meteorologist Chad Myers is here with the details. Chad, I think a lot of people are wondering, is this related to climate change because the water is warmer?",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

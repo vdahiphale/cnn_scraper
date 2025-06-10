@@ -1,0 +1,913 @@
+{
+  "date": "2023-04-18",
+  "headline": "CNN This Morning",
+  "subHeadline": "Last Day to File Taxes; Judy Greer is Interviewed about \"White House Plumbers\";  Santos Announces Re-Election. Aired 8:30-9a ET",
+  "utterances": [
+    {
+      "timeStamp": "08:30:01",
+      "speaker": "POPPY HARLOW, CNN ANCHOR",
+      "sentences": "Senator Menendez, before we go, I do want to give you a chance to respond to some new developments. And this is regarding reports of federal prosecutors looking into whether or not you used your role as chairman of the Senate Foreign Relations Committee, which oversees aid to Egypt, to help a meat company in your state in New Jersey secure a contract with the government of Egypt. You've denied wrongdoing, but you recently set up a defense fund for this. And in 2015, you were indicted on bribery charges, mistrial declared. You were later acquitted. But to any New Jersey voters watching right now who may have concerns that again you're facing scrutiny over corruption, what is your response to them?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:30:01",
+      "speaker": "MENENDEZ",
+      "sentences": "The response to that is simply that, number one, this inquiry will end up, I believe, in absolutely nothing. Number two, you know, the history you just recited. Not only did the jurors not believe the government's case at the time, but the judge kicked out the most significant elements of their charges, saying there was no there there. And that's unfortunate that our system of justice worked in a way that ended in nothing. But nonetheless, that's what it was.And if anyone looks at my history on Egypt, they would know that by both denying aid to Egypt, denying arms sales to Egypt, criticizing its human rights record, I'm not in a position to be helpful to anyone as it relates to Egypt.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:30:01",
+      "speaker": "HARLOW",
+      "sentences": "Senator Menendez, we appreciate that. And please come back as you continue these conversations with the White House. This is a critical issue for many, many voters in both parties.Thank you, Senator.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:30:01",
+      "speaker": "MENENDEZ",
+      "sentences": "Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:30:01",
+      "speaker": "HARLOW",
+      "sentences": "Don.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:36:28",
+      "speaker": "LEMON",
+      "sentences": "8A white homeowner is now facing charges after shooting a black teenager who rang his doorbell in Kansas City.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:36:28",
+      "speaker": "HARLOW",
+      "sentences": "In upstate New York, a different homeowner has been charged with murder after he allegedly shot a young woman who just pulled into his driveway by mistake.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:36:28",
+      "speaker": "LEMON",
+      "sentences": "The Fox News defamation trial is about to kick off. If the network loses the case against Dominion, it could be one of the biggest defeats ever for a U.S. media outlet.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:36:28",
+      "speaker": "HARLOW",
+      "sentences": "And a short time ago, a Russian judge rejected an appeal for house arrest from the American \"Wall Street Journal\" reporter who is being held there on espionage charges, which he and the U.S. government deny.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:36:28",
+      "speaker": "LEMON",
+      "sentences": "The FBI says China was running a secret police station in New York City to crackdown on dissidents. Two alleged operatives have been arrested.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:36:28",
+      "speaker": "HARLOW",
+      "sentences": "The \"5 Things\" to know for this morning. More on these stories all day right here on CNN and on cnn.com. Don't forget to download the \"5 Things\" podcast every morning.Well -",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:36:28",
+      "speaker": "LEMON",
+      "sentences": "No.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:36:28",
+      "speaker": "HARLOW",
+      "sentences": "Did you do them?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:36:28",
+      "speaker": "LEMON",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:36:28",
+      "speaker": "HARLOW",
+      "sentences": "It's Tax Day.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:36:28",
+      "speaker": "LEMON",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:36:28",
+      "speaker": "HARLOW",
+      "sentences": "I think mine are done. Honey? I think they are.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:36:28",
+      "speaker": "LEMON",
+      "sentences": "Yes. Wait, you're talking to me or Sinisa.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:36:28",
+      "speaker": "HARLOW",
+      "sentences": "You are my other honey. I'm talking to Sinisa.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:36:28",
+      "speaker": "LEMON",
+      "sentences": "Work hubs.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:36:28",
+      "speaker": "HARLOW",
+      "sentences": "Christine Romans, our chief business correspondent, is here.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:36:28",
+      "speaker": "LEMON",
+      "sentences": "(INAUDIBLE).",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:36:28",
+      "speaker": "CHRISTINE ROMANS, CNN CHIEF BUSINESS CORRESPONDENT",
+      "sentences": "Why is everybody so afraid of paying taxes?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:36:28",
+      "speaker": "LEMON",
+      "sentences": "No one wants to fork out any money.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:36:28",
+      "speaker": "ROMANS",
+      "sentences": "I know, but it's what paves our roads, help us build our military.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:36:28",
+      "speaker": "LEMON",
+      "sentences": "I know.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:36:28",
+      "speaker": "HARLOW",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:36:28",
+      "speaker": "ROMANS",
+      "sentences": "This is your civic duty. We pay. Sometimes we get some back because we paid too much during the year. And this year the average tax refund, you guys, is $2,900. And it's about 10 percent less than it was last year. Here's why. A lot of those complicated but very lucrative tax breaks during Covid have expired. So, you're going to get a little bit less here.But what might be the good news today is that it's not as hard to talk to the actual IRS. This has been a real problem. The IRS has been underfunded for more than a decade. Now they have 5,000 new workers already working on this tax season. They've received more than two million -- 6.5 million calls. That's two million more than last year. Actually talking to a human person, something I haven't been able to do with the IRS in a few years. And the wait time is under two minutes here. So, you're seeing some of your hard taxpayer dollars at work, folks, trying to make the tax season a little bit better. If you live in one of these areas that's had a disaster declaration, your deadlines have been moved forward for your tax deadlines. So, that gives you some more time to figure out your finances here. And if you need to request a six-month extension, if you're not ready today to finally get it done, you could use the IRS Free File. It's form 4868. And then you can just punt this until -- until October 16th. If you have to pay a lot, if you've gone through, you know, the software and you have to pay a lot, you might want to think about having more money deducted every paycheck so that you don't get stuck with a big bill next year.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:36:28",
+      "speaker": "HARLOW",
+      "sentences": "That's what I do.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:36:28",
+      "speaker": "ROMANS",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:36:28",
+      "speaker": "HARLOW",
+      "sentences": "I like -- I like it that way.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:36:28",
+      "speaker": "ROMANS",
+      "sentences": "Yes.And you know what happens this tax season will depend -- will determine the debt ceiling, when the debt ceiling thing happens, because the money coming in from taxpayers -",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:36:28",
+      "speaker": "HARLOW",
+      "sentences": "Sure.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:36:28",
+      "speaker": "ROMANS",
+      "sentences": "Is what we're using to pay the bills, right?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:36:28",
+      "speaker": "HARLOW",
+      "sentences": "Please pay your taxes, folks.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:36:28",
+      "speaker": "ROMANS",
+      "sentences": "Because we're - because we're not -- we're not borrowing, you know, in the markets, the public markets. We're moving the money around. And so this money coming in is critical for running the government until they raise, please, the debt ceiling and get that all figured out, however they get it figured out.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:36:28",
+      "speaker": "LEMON",
+      "sentences": "You tried. You tried to put a happy face on Tax Day. You did a good job.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:36:28",
+      "speaker": "ROMANS",
+      "sentences": "Taxes are better than death. Death and taxes are the only certainties in life. I'll take taxes any day.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:36:28",
+      "speaker": "LEMON",
+      "sentences": "Thanks, Christine.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:36:28",
+      "speaker": "HARLOW",
+      "sentences": "Oh, you always make me smile.A new HBO miniseries tells the story of a burglary that brought down a president. Yes, Watergate. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:36:28",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "How was work?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:36:28",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "There's a chance I'll be going to prison.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:36:28",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "Wait, what?(END VIDEO CLIP) [08:40:01]",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:36:28",
+      "speaker": "HARLOW",
+      "sentences": "So good.One of the stars of the \"White House Plumbers,\" Judy Greer is here in studio with a preview.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:36:28",
+      "speaker": "LEMON",
+      "sentences": "I love Judy Greer.Hey, Judy. (COMMERCIAL BREAK)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:36:28",
+      "speaker": "HARLOW",
+      "sentences": "It is the stranger than fiction tale of the men behind the burglary that brought down a president. HBO's upcoming miniseries \"White House Plumbers\" takes a satirical look at how the true story of E. Howard Hunt and G. Gordon Liddy went from investigating the Pentagon papers in the Nixon White House, the Watergate break-in, ultimately toppling the presidency. They were so desperate to protect. It stars Woody Harrelson, Justin Theroux, Lena Headey and Judy Greer.Watch this. (BEGIN VIDEO CLIP) UNIDENTIFIED FEMALE: It's just been Howard this and Howard that. If Howard wasn't a man, I'd be jealous.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:36:28",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Oh, well, maybe you should be.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:36:28",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Oh, stop.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:36:28",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "So, where did you two meet?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:36:28",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "Actually, we met in China.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:36:28",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Oh.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:36:28",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "At work.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:36:28",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "So, you're also (INAUDIBLE).",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:36:28",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "I was. During the war I was involved in the recovery of art stolen by the Nazi's.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:36:28",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "Wow.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:36:28",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Fascinating. Just fascinating. I'm a history nut myself.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Yes. Well, actually, I might have a little artifact that you might find very interesting -",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:00",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "Oh.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Given your line of work.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "You know, when I met Dot, she was formidable. Carried a gun. Spoke multiple languages. She was a veritable Bond girl.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:00",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "Now I'm just a suburban house bro (ph).",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Nothing wrong with that.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:00",
+      "speaker": "HARLOW",
+      "sentences": "Actress Judy Greer joins us now. She plays Fran Liddy.OK, I've seen one episode. JUDY GREER, ACTRESS, HBO \"WHITE HOUSE PLUMBERS\": Oh, good.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:00",
+      "speaker": "HARLOW",
+      "sentences": "We've seen it. We got the sneak peek. Phenomenal.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:00",
+      "speaker": "GREER",
+      "sentences": "It's good, right?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:00",
+      "speaker": "HARLOW",
+      "sentences": "It's great.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:00",
+      "speaker": "GREER",
+      "sentences": "And not what you expect from a Watergate story. It's very new, fresh take, if you can believe it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:00",
+      "speaker": "LEMON",
+      "sentences": "I love a good period piece. I really do. I -- this series takes place, what, in the early 1970s.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:00",
+      "speaker": "GREER",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:00",
+      "speaker": "LEMON",
+      "sentences": "So, I -- lets -- you said it's a different take on it because it's just funny and humor. I remember actually the Watergate. I was a wee bit - a wee little lad.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:00",
+      "speaker": "GREER",
+      "sentences": "Hilarious, right?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:00",
+      "speaker": "LEMON",
+      "sentences": "It wasn't quite so hilarious then. So why -- why different? Why this contemporary piece?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:00",
+      "speaker": "GREER",
+      "sentences": "Well, it's funny, we screened it last night at the 92nd Street Y, and I heard Dave Mandel, our director, who directed all five episodes, say that this is a drama with funny moments. And I was like, oh, crap, because I laughed through the whole thing.I think it's funny. I think it's a fresh take, because what we're really looking at is the four break-in attempts that happened before the final one. So, they tried four times before the Watergate that we know about, like, that we've all been taught about.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:00",
+      "speaker": "HARLOW",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:00",
+      "speaker": "GREER",
+      "sentences": "So, this is kind of like the behind the scenes, like leading up to. And so many of our Watergate stories -",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:00",
+      "speaker": "HARLOW",
+      "sentences": "Like the door locks.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:00",
+      "speaker": "GREER",
+      "sentences": "Oh, my gosh, they messed everything up every single time. It was a - it's a really -- it's a -- it's a very strange and disturbing and hilarious story. Like, what led up to the Watergate break-in that then we learned about for the last however many years.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:00",
+      "speaker": "HARLOW",
+      "sentences": "I love what your dear friend Jennifer Garner says about you. She says, it just feels like the rest of the world is finally catching up, but she's always been the main character.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:00",
+      "speaker": "GREER",
+      "sentences": "That's so nice. That makes me tear up a little bit. That's really nice.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:00",
+      "speaker": "HARLOW",
+      "sentences": "Because you've said about yourself, like, because you've had all these lived life experiences and, in your words, flying under the radar for years -",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:00",
+      "speaker": "GREER",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:00",
+      "speaker": "HARLOW",
+      "sentences": "That's helped you in being an actor.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:00",
+      "speaker": "GREER",
+      "sentences": "Yes. I - I really feel like what -- what serves me is being out and about and meeting people and talking to people and it - I steal from people. And if you're, you know, if you're shut up in an apartment or a house and you're not waiting in line at the DMV, like, how are you learning what people are like and how can you -- what do you bring to your role? I don't know. I feel really strongly about that. But that's not always available to some people, you know?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:00",
+      "speaker": "LEMON",
+      "sentences": "I was just looking at all of the things that you've done.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:00",
+      "speaker": "HARLOW",
+      "sentences": "For (ph) you (ph).",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:00",
+      "speaker": "GREER",
+      "sentences": "Oh.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:00",
+      "speaker": "LEMON",
+      "sentences": "It's - I mean, \"Arrested Development.\"",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:00",
+      "speaker": "GREER",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:00",
+      "speaker": "LEMON",
+      "sentences": "It's just hilarity abounds.But I want to ask you about -- because clearly you're not old enough to have -- to remember Watergate or even be alive in that era, but -",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:00",
+      "speaker": "GREER",
+      "sentences": "OK, I was not alive.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:00",
+      "speaker": "LEMON",
+      "sentences": "Yes. But what did you learn about that era and filming - in filming the series?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:00",
+      "speaker": "GREER",
+      "sentences": "Well, I -- you know, I think I know -- knew going into it the basics of Watergate. And then because I was playing a character who is like happily unaware of what her husband is doing, I used that as an excuse to do no research for my role and enjoy my summer in upstate New York where we shot it. But then after the fact I went and I started like reading the books and watching the documentaries and the movies and \"All the President's Men\" and everything and like that was when I started to get really into it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:00",
+      "speaker": "HARLOW",
+      "sentences": "After?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:00",
+      "speaker": "GREER",
+      "sentences": "After.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:00",
+      "speaker": "HARLOW",
+      "sentences": "Oh, that's so great.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:00",
+      "speaker": "GREER",
+      "sentences": "I know. Well, a lot of times I get cast kind of late in the process. Sometimes when you're a supporting role they're like worrying about their stars, and then they're like, oh, crap, we start shooting in a week. And so we've got to -- anyway, I had a little bit more time than that, but sometimes you get to set and you have to really like hurry. So - so, I definitely dug in more after the fact.And, you know, I think that this story is, unfortunately, very timely, even though it happened 50 years ago.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:00",
+      "speaker": "LEMON",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:00",
+      "speaker": "GREER",
+      "sentences": "Like we have so much political scandal happening every hour that we - we still -",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:00",
+      "speaker": "HARLOW",
+      "sentences": "Really, we - we never noticed (INAUDIBLE) in here (ph).",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:00",
+      "speaker": "GREER",
+      "sentences": "I know. Well, you guys don't really deal with that here at CNN. So -- you should get on Instagram. The things you'll learn.I - yes, so I think that these stories, you know, that's why we have to keep making them.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:00",
+      "speaker": "LEMON",
+      "sentences": "I hope you kept some of the clothes because they're back. I had the boots that Justin Theroux had on.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:00",
+      "speaker": "GREER",
+      "sentences": "Oh, my God, so good.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:00",
+      "speaker": "LEMON",
+      "sentences": "And loved the '70s stash. The bellbottoms.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:00",
+      "speaker": "GREER",
+      "sentences": "That was him. He grew that. That was all him.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:00",
+      "speaker": "LEMON",
+      "sentences": "All back now.Judy Greer, thank you. What a pleasure.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:00",
+      "speaker": "HARLOW",
+      "sentences": "Congratulations.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:00",
+      "speaker": "GREER",
+      "sentences": "It's (INAUDIBLE). Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:00",
+      "speaker": "LEMON",
+      "sentences": "Appreciate it.\"White House Plumbers\" premieres May 1st, 9:00 p.m. on HBO, or should we just say Max? On HBO. On HBO Max.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:00",
+      "speaker": "GREER",
+      "sentences": "I know. Is it? Do we have to say Max?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:00",
+      "speaker": "HARLOW",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:00",
+      "speaker": "LEMON",
+      "sentences": "What? Say it again?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:00",
+      "speaker": "GREER",
+      "sentences": "Do we have to say Max?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:00",
+      "speaker": "HARLOW",
+      "sentences": "We do.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:00",
+      "speaker": "GREER",
+      "sentences": "Oh.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:00",
+      "speaker": "HARLOW",
+      "sentences": "It's great whatever you call it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:00",
+      "speaker": "LEMON",
+      "sentences": "It's great.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:00",
+      "speaker": "GREER",
+      "sentences": "Did I ruin the segment?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:00",
+      "speaker": "HARLOW",
+      "sentences": "And this -- honestly, cannot wait to watch the rest this weekend.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:00",
+      "speaker": "GREER",
+      "sentences": "It's really funny, you guys.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:00",
+      "speaker": "LEMON",
+      "sentences": "All right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:00",
+      "speaker": "GREER",
+      "sentences": "I've seen all five episodes. You're going to love it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:00",
+      "speaker": "HARLOW",
+      "sentences": "Congrats.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:00",
+      "speaker": "GREER",
+      "sentences": "Thanks, guys.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:00",
+      "speaker": "LEMON",
+      "sentences": "Thank you. Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:00",
+      "speaker": "HARLOW",
+      "sentences": "Congrats. Congrats.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:00",
+      "speaker": "GREER",
+      "sentences": "It was so nice to be here.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:00",
+      "speaker": "HARLOW",
+      "sentences": "Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:50:03",
+      "speaker": "LEMON",
+      "sentences": "So, here we go. There he is. Embattled Republican Congressman George Santos says that he will seek re-election in 2024. He is best known for his trouble with the truth. He has lied about things ranging from his ancestry, to his resume, to his athletic exploits. Some Republicans on The Hill and even in his district have called on him to step aside in light of his many scandals.CNN's senior data reporter Harry Enten is here with this morning's number. So basically, you've got George Santos' number.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:50:03",
+      "speaker": "HARRY ENTEN, CNN SENIOR DATA REPORTER",
+      "sentences": "Yes, that's exactly right.So, this morning's number is $5,333. Why?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:50:03",
+      "speaker": "LEMON",
+      "sentences": "Six hundred minutes. Sorry.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:50:03",
+      "speaker": "ENTEN",
+      "sentences": "Very nice.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:50:03",
+      "speaker": "HARLOW",
+      "sentences": "(INAUDIBLE).",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:50:03",
+      "speaker": "ENTEN",
+      "sentences": "I do enjoy a little bit -",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:50:03",
+      "speaker": "HARLOW",
+      "sentences": "(INAUDIBLE). I don't think -- do you remember \"Rent\"?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:50:03",
+      "speaker": "ENTEN",
+      "sentences": "\"Rent.\" I know my \"Rent.\"Why is this the number? Because it's the number -- it's the money that was contributed to George Santos' campaign in the quarter one of this year. But here's the funny thing, that's less than the $8,353 that he refunded. He managed to actually refund more money than he took in. [08:55:02] Not exactly the sign of someone who is particularly strong. Some people might have asked for their contributions back. I wonder why.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:50:03",
+      "speaker": "LEMON",
+      "sentences": "(INAUDIBLE).",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:50:03",
+      "speaker": "ENTEN",
+      "sentences": "Here's another sort of thing that gets at it. Very low favorable and approval rating. The good news for George Santos is I found somebody -- found some politicians who had the equivalent to his 7 percent. The bad news is, they were people who either were or became convicted criminals. So, Rod Blagojevich at 8 percent, 7 percent for Bob Taft. So, look, similar numbers but, again, not exactly history that you want to be a part of.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:50:03",
+      "speaker": "HARLOW",
+      "sentences": "What do the numbers tell us about if he'll make it to general election? I mean if he's - we're in the primary again there.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:50:03",
+      "speaker": "ENTEN",
+      "sentences": "Yes. So, look at this, his favorite rating among the GOP in New York Three, again, it's equal to Joe Biden at 11 percent, but Joe Biden's a Democrat. He's a Republican. When you have a favorable rating that is equal to a Democratic president, that's not exactly -",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:50:03",
+      "speaker": "HARLOW",
+      "sentences": "Among Republicans in his district.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:50:03",
+      "speaker": "ENTEN",
+      "sentences": "Among - among Republicans in his district.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:50:03",
+      "speaker": "HARLOW",
+      "sentences": "OK.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:50:03",
+      "speaker": "ENTEN",
+      "sentences": "When you look at either the general election or the primary, the numbers, not good for George Santos.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:50:03",
+      "speaker": "HARLOW",
+      "sentences": "Thank you, Harry.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:50:03",
+      "speaker": "ENTEN",
+      "sentences": "Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:50:03",
+      "speaker": "HARLOW",
+      "sentences": "Thank you. Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:50:03",
+      "speaker": "LEMON",
+      "sentences": "Thanks, Harry.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:50:03",
+      "speaker": "HARLOW",
+      "sentences": "We're going to just keep singing \"Rent.\"",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:50:03",
+      "speaker": "LEMON",
+      "sentences": "Five hundred, twenty-one thousand.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:50:03",
+      "speaker": "HARLOW",
+      "sentences": "And you can watch CNN NEWS CENTRAL right after this. See you tomorrow.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:50:03",
+      "speaker": "LEMON",
+      "sentences": "Right after this break.",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

@@ -1,0 +1,493 @@
+{
+  "date": "2023-06-30",
+  "headline": "The Situation Room",
+  "subHeadline": "Supreme Court Blocks Biden Student Debt Forgiveness, Limits LGBTQ Protections In Consequential Decisions; Sotomayor Warns LGBTQ Decision Could Lead To Other Kinds Of Discrimination; Supreme Court Ruling Impacts 40 Plus Million People In U.S. With Student Loan Debt. Aired 5-6p ET",
+  "utterances": [
+    {
+      "timeStamp": "17:00:00",
+      "speaker": "ABBY PHILLIP, CNN HOST",
+      "sentences": "And coming up on Sunday on State of the Union, Transportation Secretary Pete Buttigieg, Democratic Congresswoman Alexandria Ocasio-Cortez and Republican presidential candidates Chris Christie and Will Hurd all talk to Dana Bash. That's at 09And thank you for joining us today. I'm Abby Phillip in for Jake Tapper. Wolf Blitzer is over in the \"Situation Room.\" Have a great day.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "17:00:00",
+      "speaker": "WOLF BLITZER, CNN HOST",
+      "sentences": "Happening now, President Biden just announced new actions aimed at easing student debt after the U.S. Supreme Court blocked his loan forgiveness program. He's slamming the ruling as wrong and accusing Republicans of hypocrisy.We're also following the fallout from the high court's other major decision today putting limits on LGBTQ protections. The dissenters warn the ruling may open the door to discrimination against all sorts of protected minority groups. And growing questions right now about the fate of the Russia mutiny leader Yevgeny Prigozhin. Are Kremlin spies plotting to kill him, as Ukraine's intelligence chief claims? I'll ask top White House official John Kirby about that and much more. Welcome to our viewers here in the United States and around the world. I'm Wolf Blitzer. You're in the Situation Room. We begin with today's one two punch by the U.S. Supreme Court, decisions limiting LGBTQ protections and blocking President Biden's student loan forgiveness plan. We heard the President fire back at the court just a short while ago. Let's bring in our White House Correspondent Jeremy Diamond, along with CNN Supreme Court Senior Analyst Joan Biskupic. Joan, you were inside the courtroom today when these decisions were handed down. It was very tense, very dramatic. Another important day -- JOAN BISKUPIC, CNN SENIOR SUPREME COURT ANALYST: Right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "17:00:00",
+      "speaker": "BLITZER",
+      "sentences": "-- at the U.S. Supreme Court.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "17:00:00",
+      "speaker": "BISKUPIC",
+      "sentences": "It was. This is the culmination of the entire term. The court today invalidated the Biden administration student loan forgiveness program. It said that the Secretary of Education had gone beyond the terms of the statute, said that the Biden administration had engaged in a bit of a sleight of hand in justifying it, something that had actually stretched the 2003 law that was at issue here, and it had allowed for waivers in terms of emergencies.The chief justice said, John Roberts reading from the bench, the question here is not whether something should be done, it is who has the authority to do it. And he said it was Congress's to do, not the executive branch. Justice Elena Kagan, speaking for the three dissenters, said the court was taking power for itself in robbing the executive of doing this and says, it makes itself the decision maker on, of all things federal student loan policy.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "17:00:00",
+      "speaker": "BLITZER",
+      "sentences": "Important developments indeed. I want to go to Jeremy over at the White House. For the second straight day, Jeremy, President Biden is forcefully speaking out about major Supreme Court decisions.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "17:00:00",
+      "speaker": "JEREMY DIAMOND, CNN WHITE HOUSE CORRESPONDENT",
+      "sentences": "Yes, that's right, Wolf. And, you know, coming up to this decision, there were questions about whether the President would continue to pursue student loan forgiveness if the Supreme Court struck down this way of doing it. And today, the President making very clear that the Supreme Court closed one path, now we're going to pursue another. The President saying that he is going to pursue student loan forgiveness through another means, through the Higher Education Act of 1965. This is a pathway that progressives have been calling for the President to pursue should the Supreme Court invalidate this.And the President also laying out other steps in response to this ruling, including a 12-month repayment off ramp -- on ramp rather that will -- where interest will continue to accrue on student loans, but borrowers will face no impact on their credit or face default if they miss payments during those 12 months. And finally, today, the Department of Education also finalizing this income based student repayment program which will lower that repayment from 10 percent of income to 5 percent of income for individuals who apply. Now, the President's advisors say that it's too early to say whether this new student loan repayment pathway will impact as many Americans, up to 40 million Americans that could have seen their loans forgiven under this new plan. But the President making clear, even as he had previously expressed doubts about his own authority to forgive student loans, today he's saying the Supreme Court got it wrong and he insisted that he didn't give Americans false hope. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "17:05:06",
+      "speaker": "DIAMOND",
+      "sentences": "And the President repeatedly going after Republicans today. He started by talking about the anger and disappointment that so many Americans might be feeling today after the Supreme Court ruling. And he sought to harness that anger and disappointment and redirect it at Republicans, saying that it was Republicans who stepped in and snatched from the hand of Americans these billions of dollars of potential relief. And he also slammed Republican hypocrisy, talking about Republicans who supported the PPP loan forgiveness program in Congress, but opposed this student debt relief program. And that ultimately is going to be the way forward.Beyond this student loan repayment pathway that the President's going to pursue, he made clear that's going to take a long time. And so in the meantime, this is going to become a political battle and something that the President is going to use as a rallying cry in particular to try and motivate young voters ahead of the 2024 election. Wolf.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "17:05:06",
+      "speaker": "BLITZER",
+      "sentences": "Sure he will. Jeremy, stand by.You know, Joan, let me get back to this other case, the other case out of Colorado.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "17:05:06",
+      "speaker": "BISKUPIC",
+      "sentences": "Right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "17:05:06",
+      "speaker": "BLITZER",
+      "sentences": "Also a six to three decision. What was the majority's rationale for what is clearly a rollback of LGBTQ rights?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "17:05:06",
+      "speaker": "BISKUPIC",
+      "sentences": "That's right, Wolf. The majority ruled for a wedding website designer who does not want to serve same sex couples and cast the entire dispute as a pure free speech one. But it arose against the backdrop of Colorado's public accommodations law that says that businesses cannot discriminate against someone on the basis of sexual orientation. But in Neil Gorsuch writing for the majority, again, six to three, as you said, the First Amendment envisions the United States as a rich and complex place where all persons are free to think and speak as they wish, not as the government demands. He likened this case to cases such as schoolchildren being forced to say the Pledge of the Allegiance or salute the flag.The dissenter said this is a case more about discriminating against someone, not because of the message, expression, but because of their status. And said for the first time in history, the court was allowing businesses to refuse to grant people services based on their identity.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "17:05:06",
+      "speaker": "BLITZER",
+      "sentences": "Important information indeed.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "17:05:06",
+      "speaker": "BISKUPIC",
+      "sentences": "Right. BLITZERJustice Gorsuch, Ariane, as you know, he wrote the majority opinion in the case limiting these LGBTQ protections. But just three years ago, we checked, he wrote an opinion protecting LGBTQ rights from workplace discrimination. So what does that say to you? What's going on?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "17:05:06",
+      "speaker": "ARIANE DE VOGUE, CNN SUPREME COURT REPORTER",
+      "sentences": "So interesting, because just three years ago, he was the hero to the LGBTQ community. He broke with his usual conservative side, and he did rule in favor of LGBTQ workers. But here he didn't mention anything really about LGBTQ community. And that's because he was talking only about free speech. And he said basically that he saw this as you can't force someone to create a custom product with a message that they disagree in.So in his mind, that opinion may have been about LGBT rights, this one was about the First Amendment and that's why he ruled the way he did.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "17:05:06",
+      "speaker": "BLITZER",
+      "sentences": "That's why he did this.Shan Wu is with us as well. I want you to get your reaction to Sonya Sotomayor's dissent. And I'll read a quote from her descent. \"The decision threatens to Balkanize the market and to allow the exclusion of other groups from many services.\" And she added, \"A website designer could equally refuse to create a wedding website for an interracial couple, for example.\" Do you agree with that analysis?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "17:05:06",
+      "speaker": "SHAN WU, DEFENSE ATTORNEY",
+      "sentences": "I do. I think there's a lot of seeds here for mischief in the future, and it really goes to the heart of the subjectivity of decisions like this. This idea of being able to distinguish between speech versus conduct is a very squishy kind of area. And I think one can well imagine that to someone like Gorsuch, it seems more of expression to do something like designing a website versus someone's being discriminated against in a traditional sense in school or work. That seems like a no brainer to him, but this is fuzzy.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "17:05:06",
+      "speaker": "BLITZER",
+      "sentences": "I understand you were inside of the Supreme Court where these opinions and decisions were being read. It was very, very tense inside, right?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "17:05:06",
+      "speaker": "BISKUPIC",
+      "sentences": "It was. I have to say it all played out over an hour time. First, the Chief Justice sitting in the center of this mahogany elevated bench, you know, explained exactly why the Biden administration could no longer even try this program of loan forgiveness. And, you know, it was just a rich moment to see the two divisions on sharp display here. And this is a set of divisions that I think will continue, Wolf.People like Chief Justice John Roberts and Neil Gorsuch, who spoke for the majority, are likely to continue speaking for the majority. The dissenters, there are only three liberals left, Justices Sotomayor, Kagan, and Jackson. They are likely to remain in dissent for many, many more years. [17:10:06] And I want to remind everyone of who controls this court, it's anchored by the three new Trump appointees, all of whom are very young, Justices Gorsuch, who Ariane just referred to, Brett Kavanaugh and Amy Coney Barrett, former President Trump's last appointee, are all in their 50s. So I think we can expect these kinds of divisions going forward. And one thing Justice Kagan warned about when she was the last justice to read from her dissent today was essentially that about this Court, this supermajority trying to amass power from the other branches.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "17:05:06",
+      "speaker": "BLITZER",
+      "sentences": "Good point. Elections obviously have consequences. They do matter, indeed, the Democratic Congressman Richie Torres of New York. He slammed the court's decision today. Listen to this, Shan.(BEGIN VIDEO CLIP) REP. RITCHIE TORRES (D-NY): The decision is a dark day, not only for the LGBTQ community, but for democracy. And I cannot help but feel that the most consequential policy decisions are being decided not by elected officials, but by the unelected judges of the Supreme Court, particularly a right wing supermajority. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "17:05:06",
+      "speaker": "BLITZER",
+      "sentences": "There's no doubt that in public opinion polls, the image of the Supreme Court has been going down.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "17:05:06",
+      "speaker": "WU",
+      "sentences": "Yes, absolutely. I mean, between their ethics scandals that are going on, as well as the sense that the Congressman is putting forth that Chief Justice Roberts might want to change his name to Chief Social Engineer. I mean, there's a feeling that the court is imposing its notions of how Americans should live under what to common people feels like a bit of a facade of these legal doctrines. And that's very dangerous for the court's position.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "17:05:06",
+      "speaker": "BLITZER",
+      "sentences": "Very dangerous indeed.You know, Ariane, the Chief Justice, John Roberts, he said this, and I want to read a quote and get your reaction. \"It has become a disturbing feature of some recent opinions to criticize the decisions with which they disagree as going beyond the proper role of the judiciary. Any such misperception would be harmful to this institution and our country.\"",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "17:05:06",
+      "speaker": "DE VOGUE",
+      "sentences": "So odd that he tucked that in an opinion. Why was that in an opinion? And I'll tell you, because at first he may have been maybe reacting to the fact that the dissent was so strong, but it was really a wider message and it was aimed to the country as a whole. He is heard this entire year how many people believe the court because of the three nominees is shifting, it is becoming more political, and he wants to push back. And he said, it's fine to disagree, but don't disparage this institution. Just odd that he would put it in an opinion. BISKUPIC",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "17:05:06",
+      "speaker": "DE VOGUE",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "17:05:06",
+      "speaker": "BISKUPIC",
+      "sentences": "We don't want the public thinking that we don't like each other, we don't appreciate each other. But it's the opposite --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "17:05:06",
+      "speaker": "DE VOGUE",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "17:05:06",
+      "speaker": "BISKUPIC",
+      "sentences": "-- of what actually happened. And just as Elena Kagan, her dissent was dripping with ridicule --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "17:05:06",
+      "speaker": "DE VOGUE",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "17:05:06",
+      "speaker": "BISKUPIC",
+      "sentences": "-- for what the majority had done. So, he's trying to sugarcoat something. He's trying to enforce a message that is flat contradicts what is playing out before all of us and played out right there in that room, which cameras aren't allowed in, but fortunately, we were there.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "17:05:06",
+      "speaker": "DE VOGUE",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "17:17:40",
+      "speaker": "BLITZER",
+      "sentences": "Tonight, President Biden says he's going to try a different way to ease student debt for millions and millions of Americans after the U.S. Supreme Court blocked his loan forgiveness plan. We're back with our Supreme Court and legal experts.And Joan, let me play a clip of what we just heard the President of the United States say just a few minutes ago about the Supreme Court's decision to overturn his student debt relief program. Listen to this. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "17:17:40",
+      "speaker": "BIDEN",
+      "sentences": "And I know there are millions of Americans, millions of Americans in this country who feel disappointed and discouraged or even a little bit angry about the court's decision today on student debt. And I must admit, I do, too. I think the court misinterpreted the Constitution.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "17:17:40",
+      "speaker": "BLITZER",
+      "sentences": "All right, so he says he's angry, and he says the court got it wrong. What do you make of that?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "17:17:40",
+      "speaker": "BISKUPIC",
+      "sentences": "Well, he lost, so that's why he said that. But arguably, the court did get it wrong, first of all, on two things, it was very unusual that the court even allowed this challenge. As you know, the threshold question was, do these Republican led states have legal standing? Have they suffered any injury here to be able to even take their case to court? And there were very strong arguments to say that the states themselves had no injury.And what the Chief Justice did was sort of extend the possibility of legal standing to a loan entity group in the state of Missouri and said this group, you know, which charges fees for its loans, it was essentially hurt, even though the group hadn't wanted to be part of the case. So, there was an argument that the court over read the opportunity for Republican states to even challenge this. And then on the merits, this was a law, this 2003 law passed in the wake of 9/11 that was supposed to offer emergency help, it was, you know, in those kinds of situations. And what the dissenters said in the case that the Biden administration had tried to make was that if COVID wasn't a true emergency, what was?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "17:17:40",
+      "speaker": "DE VOGUE",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "17:17:40",
+      "speaker": "BISKUPIC",
+      "sentences": "And the Secretary of Education had validly read this waiver provision to allow this kind of forgiveness. And if it couldn't have been allowed in that situation, which is an emergency situation, when could it have been allowed?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "17:20:07",
+      "speaker": "WU",
+      "sentences": "Yes, I think he's right to reject that. I mean, there was very sound legal reasoning. The Justice Department actually even did a memorandum analyzing whether it was OK to green light these ideas or not for the forgiveness. And I think just because you lose in the courts doesn't mean you're trying to give people false hope. I mean, you know, it was pretty carefully thought out idea.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "17:20:07",
+      "speaker": "BLITZER",
+      "sentences": "You know, it's interesting, Ariane, in her dissent, Justice Kagan, and I thought this was significant raised the possibility that this could be wielded potentially down the road against programs like Medicare. But how realistic is that?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "17:20:07",
+      "speaker": "DE VOGUE",
+      "sentences": "Well, what's happening and what she's calling the court out is they are waging a war on the so called administrative state. The conservatives on this court think that the administrative independent agencies have too much power. Gorsuch and Kavanaugh were chosen for this court based on that position. So now she's reacting to that. Last term she wrote a major dissent when they stripped authority in an environmental case. Here again, that in that case the majority is basically saying there is no authority to act, Congress has to step in. So she's putting that out there that they are trying to curb away agency power here. And the liberals are very nervous and they are really on the losing side of that one.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "17:20:07",
+      "speaker": "BLITZER",
+      "sentences": "There's keeps, Joan, six three decisions keep happening. And having six conservatives, three of whom were named, were appointed to the Supreme Court by Trump, three liberals who remain on the Court right now, how realistic is it to believe that what Justice Kagan was suggesting, that the six to three liberal, conservative liberal break in the U.S. Supreme Court could further erode what they call the administrative state, the critics?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "17:20:07",
+      "speaker": "BISKUPIC",
+      "sentences": "Well, you know, last year at this time, the dissenters said something that I think just rings true. No one should think that this majority is done with its work. And they didn't repeat it. But I was thinking of it when I sat in the courtroom today because that was essentially the message that was on display from the dissenters.I cannot tell you the difference between a five four conservative majority and a six three conservative majority. It is more than the power of a single vote. They feel so empowered here. And if one justice falls off, like the chief last year in abortion rights, they can still get it done. If one justice pulls back on things like the power of the EPA or other administrative agencies, they still have an extra cushion. And also, you know, there's power in numbers. I think they feel emboldened. And as I'll say again, in terms of court years, three justices in their 50s on that side, all very young, all would be here, Wolf, in your lifetime, your children's lifetime and maybe grandchildren's lifetime.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "17:20:07",
+      "speaker": "BLITZER",
+      "sentences": "Yes, these are lifetime --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "17:20:07",
+      "speaker": "BISKUPIC",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "17:20:07",
+      "speaker": "BLITZER",
+      "sentences": "-- appointments in the Supreme Court.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "17:20:07",
+      "speaker": "BISKUPIC",
+      "sentences": "Yes, yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "17:20:07",
+      "speaker": "BLITZER",
+      "sentences": "Give me your thought.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "17:20:07",
+      "speaker": "WU",
+      "sentences": "I think the danger here is, again, substituting their judgment for agencies that have expertise. We've seen that with the CDC on the vaccine requirements, we've seen it with the EPA, and that's what the danger is here because it becomes so subjective. And I think that's what I'm worried about.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "17:28:03",
+      "speaker": "BLITZER",
+      "sentences": "The Biden administration is strongly considering right now a contentious arms transfer to boost Ukraine's war effort. Sources tell CNN stocks of U.S. cluster munitions could soon play a key role in the Ukrainian counter offensive against the Russians. CNN's Natasha Bertrand is joining us from the Pentagon right now. She's got an update.Natasha, how close is the U.S. to a decision on these cluster munitions? And tell our viewers why these weapons are so controversial.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "17:28:03",
+      "speaker": "NATASHA BERTRAND, CNN NATIONAL SECURITY REPORTER",
+      "sentences": "Yes, Wolf, so we are told that this right now is pending approval really at the highest levels of the White House and that this could happen and be included in a military aid package to Ukraine as soon as next month. So this could move fairly quickly here. And these are very controversial because essentially what cluster munitions are, they are munitions that when they explode on impact, they scatter a large number of bomblets. And those bomblets can actually fail to explode when they hit the ground, some of them can be duds. And so, the concern there obviously is the risk that it could pose to civilians over the long term, very similar to landmines.And this is why the Biden administration had been reluctant for several months to fulfill the Ukrainian's request for these cluster munitions because they could pose that risk to civilians. And importantly, these cluster munitions are also banned by over 100 countries worldwide, including key U.S. allies. Now, the U.S. says that because of conditions on the battlefield in Ukraine over the last several weeks, including the fact that Ukraine's counter offensive is not moving forward as anticipated, they do believe that now is a moment, especially when Ukraine is using so much ammunition, that they could use these cluster munitions that are in U.S. stockpiles, Wolf.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "17:28:03",
+      "speaker": "BLITZER",
+      "sentences": "Natasha, what are top military officials in the U.S. and Ukraine right now saying about the Ukrainian counter offensive against the Russians?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "17:30:00",
+      "speaker": "BERTRAND",
+      "sentences": "Now, Ukraine's top general, General Valerii Zaluzhnyi, he actually expressed some frustration with these comments by officials around the world that the counter offensive is not going as anticipated, saying that, look, Ukraine does not have the equipment that it needs right now to make steady progress or fast progress on the battlefield, namely those F-16 fighter jets. He says that it is hypocritical of the west to say that Ukraine should be making more progress when the West likely would not launch such a major counter offensive like this without the air power necessary to support us.So he's making that call right now for those F-16 jets. But as we have heard from U.S. officials recently, Wolf, those are not likely to arrive in Ukraine until later this year at the earliest. Wolf?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "17:30:00",
+      "speaker": "WOLF BLITZER, CNN HOST",
+      "sentences": "Natasha Bertrand is at the Pentagon for us. Natasha, thank you very much.Joining us now from the White House, the National Security Council Coordinator for Strategic Communications, John Kirby. John, thanks for joining us. We certainly have a lot to discuss today. But first, on these cluster munitions that potentially could be offered to the Ukrainians to use out there on the battlefield, what about the impact? Does the impact outweigh the risk of unintentionally potentially killing civilians?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "17:30:00",
+      "speaker": "JOHN KIRBY, NATIONAL SECURITY COUNCIL COORDINATOR FOR STRATEGIC COMMUNICATIONS",
+      "sentences": "Well, look, Wolf, I don't want to get ahead of a decision that we haven't made or announced. So I would just tell you that we're constantly talking to the Ukrainians about the kind of capabilities they need in this counter offensive in the weeks and months ahead, and we're adapting to those capabilities as the war demands. And that's where we are right now.It's important we believe that we arm the Ukrainians for everything they need to be successful. And, you know, by and large, we've done exactly that, Wolf. I mean, pretty much everything they've asked for to get ready for this counter offensive. We or our allies and partners have provided. And we continue to do that. I mean, just a few days ago, the President signed $500 million more out for Ukraine. And if you just look at the list of things in that package, it's all about helping them with this counter offensive.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "17:30:00",
+      "speaker": "BLITZER",
+      "sentences": "But as you heard, Ukraine's top commander told \"The Washington Post,\" it angers him to hear Western observers say this Ukrainian counter offensive is falling short of expectations. And he says Ukraine is being asked to fight without the needed air support. How do you respond to that? KIRBYSo the Ukrainians have a tougher task ahead of them, which is why we're continuing to talk to them about the capabilities that we know they're going to need and we'll provide them. There'll be more coming, no doubt about it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "17:30:00",
+      "speaker": "BLITZER",
+      "sentences": "What's the timeline, John, for Ukraine getting F-16 fighter jets?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "17:30:00",
+      "speaker": "KIRBY",
+      "sentences": "Well, I think Natasha covered it well in her report to you there's a little bit ago. The Defense Department is trying to work as fast as they can. It won't be till the end of this year, probably before the first jets show up. But I know that the Pentagon and our allies and partners are working on sort of what a training program would look like. You got to have trained pilots before you can have jets to fly. So we're working on that just as hard as we can. And we think that in the near future, some of that training will be able to begin.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "17:30:00",
+      "speaker": "BLITZER",
+      "sentences": "How do you assess the claim, John, from Ukraine's military intelligence chief, that Russia is actually planning to assassinate the head of the Wagner group? Does Prigozhin have a target on his back?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "17:30:00",
+      "speaker": "KIRBY",
+      "sentences": "I don't really know the answer to that, Wolf. I mean we don't have perfect visibility into the thinking over there and what Mr. Putin might or might not do. And frankly, we're not going to focus on that. We've got to stay focused on the task ahead. And that really is not so much Mr. Prigozhin's future, but Ukraine's future, and making sure that we're really dedicated, heads down, making sure that they're getting all the support that they need.And that was one of the messages, quite frankly, that President Biden delivered to allies and partners on Saturday when all this unfolded with Mr. Prigozhin. He got on the phone and he talked to our allies and partners, and he said, we've got to stay focused on Ukraine. That has to be where our heads are.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "17:30:00",
+      "speaker": "BLITZER",
+      "sentences": "President Zelenskyy is ordering the Ukrainian military to strengthen its northern defenses right now. How do you read that, John?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "17:30:00",
+      "speaker": "KIRBY",
+      "sentences": "Well, I mean, I think there's speculation about whether Wagner is going to go into Belarus and whether from Belarus they're going to be able to conduct attacks and operate inside Ukraine. We certainly respect President Zelenskyy as commander-in-chief and his ability to make decisions with his force posture as he sees fit. I just don't know what's going to happen to Wagner or what they're going to be capable of doing going forward. [17I will tell you, and we talked about this a little earlier today, Wagner still is very active in Africa. And we downgraded some information today about what they've been doing in Mali, for instance, and we're still putting sanctions on this group. We are not taking it for granted that they're somehow just going to dissolve and go away and not present a threat.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "17:30:00",
+      "speaker": "BLITZER",
+      "sentences": "Before I let you go, final question on the State Department's report today, the State Department saying that in this report they said that it was a chaotic Afghanistan withdrawal, saying there was insufficient consideration of what it described as the worst case scenarios. Did that failure to plan for the worst case cost lives?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "17:30:00",
+      "speaker": "KIRBY",
+      "sentences": "What I'll tell you, Wolf, and I talked about this back in April when we laid out a review or a summary of some of these after action reports, which were classified and delivered to the Hill with full transparency that the President wanted his team from the very early going to be planning for exactly worst case scenarios. And in fact, that was built into the planning process way back in the spring of 2021.And he regularly sought and received updates from his national security team about how that planning was going. But it was low probability, high risk, worst case scenarios that he wanted the team to be ready for.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "17:30:00",
+      "speaker": "BLITZER",
+      "sentences": "Well, clearly there were a lot of blunders, a lot of mistakes that were made, and it's all outlined in this new State Department report. John Kirby, as usual, thanks so much for joining us.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "17:30:00",
+      "speaker": "KIRBY",
+      "sentences": "Yes, you bet.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "17:40:56",
+      "speaker": "BLITZER",
+      "sentences": "President Biden says millions of Americans are disappointed and angry tonight because of the U.S. Supreme Court decision blocking his student loan forgiveness plan. Brian Todd is joining us right now. Brian, what are you hearing about the impact of the ruling on individuals and on the broader economy?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "17:40:56",
+      "speaker": "BRIAN TODD, CNN CORRESPONDENT",
+      "sentences": "It's going to be a tough slog for a lot of people, Wolf. Millions of Americans who've not had to make any kind of a student loan payment for more than three years now need to figure out how to resume those payments.(BEGIN VIDEOTAPE) TODD (voice-over): Cody Hounanian runs a crisis center helping people with student loan debt. He himself has about $30,000 in outstanding debt from his student loan. His reaction to the Supreme Court's ruling blocking the Biden administration's student loan forgiveness plan.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "17:40:56",
+      "speaker": "CODY HOUNANIAN, EXECUTIVE DIRECTOR, STUDENT DEBT CRISIS CENTER",
+      "sentences": "I'm absolutely devastated the way that many others, millions of people across the country are.TODD (voice-over): There are nearly 44 million student loan borrowers in the U.S. Who, according to Wells Fargo, will soon have to start making payments averaging $210 to $314 a month. Under President Biden's plan, millions of eligible borrowers of federal loans could have gotten up to $20,000 of their debt wiped out. But the President's plan never actually went into effect. It was caught up in the courts. Now that it won't go into effect, borrowers will be affected by another separate plan that had been in effect, but which is now ending. That's the pause in required student loan repayments that had been in effect since March of 2020 to help people financially strapped by the COVID pandemic.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "17:40:56",
+      "speaker": "CATHERINE RAMPELL, CNN ECONOMICS AND POLITICAL COMMENTATOR",
+      "sentences": "There are a lot of people who would have had to start repaying their student debt no matter what. Now on top of that, you have people who thought that their balances had been completely wiped out and they'd never have to pay another interest payment again. Well actually maybe be surprised to find that this fall they too owe payments.TODD (voice-over): For federal loan borrowers who had those payments paused during the pandemic. They'll be due again starting in October. Today, President Biden, in the wake of the Supreme Court ruling, announced steps he'll take to try to bring relief to borrowers.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "17:40:56",
+      "speaker": "JOE BIDEN, PRESIDENT OF THE UNITED STATES",
+      "sentences": "To compromise, waive or release loans under certain circumstances. We're creating a temporary 12 month what we're calling on ramp repayment program. And now so that is same as a student loan pause. If you miss payments, this on ramp will temporarily remove the threat of default or having your credit harm.TODD (voice-over): But CNN analyst Catherine Rampell says borrowers should not expect those ideas to be a great plan B.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "17:40:56",
+      "speaker": "RAMPELL",
+      "sentences": "If those were on a strong legal foundation, I think he probably would have done them already.TODD (voice-over): Analysts say the economy could well take a hit now that millions of people will have to start paying down their student loans again. It'll mean less spending on cars, vacations, appliances. And for many, the burdens on their longer term plans could return.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "17:40:56",
+      "speaker": "MICHELLE SINGLETARY, PERSONAL FINANCE COLUMNIST, THE WASHINGTON POST",
+      "sentences": "When you have student loan debt that you can't cover, it often results in people delaying getting married, delaying having children, delaying buying a home, delaying being able to save for retirement.(END VIDEOTAPE) TODD: The advice financial analysts have now for student loan borrowers save your money, contact your loan servicer to figure out the best way to start your repayments again and see if you qualify for other programs to lessen that debt, like the public service loan forgiveness program. That's for people like teachers, police officers and social workers and income driven repayment plans. Wolf, there are alternatives, but you've got to seek them out.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "17:45:16",
+      "speaker": "BLITZER",
+      "sentences": "I want to turn to the Court's other significant decision today that a Christian website designer can, in fact, refuse to work on same sex weddings. As an openly gay member of Congressman, what went through your mind hearing that ruling today?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "17:45:16",
+      "speaker": "GARCIA",
+      "sentences": "I mean I was devastated. I mean, it's not a surprise, but you have to have some hope that the Court's going to do the right thing. This is a huge step backwards for our community, for the LGBTQ plus community. We are already under attack in state legislatures by members of Congress, by Republicans running for President every day on these issues. And so to have the Court essentially look at us as second class citizens in this country is shameful and is very, very hurtful. This is a very dangerous time for gay people, for LGBTQ plus people in this country. We have to push forward. And why I think a lot of us are just really hurt and devastated today. We got to push. We got to stand up. We got to pass the Equality Act and do what we can to move our rights forward. It's just -- a lot of people in our community feel for the first time, that we're moving backwards. And the Court today, again, showed that they are an extremist group, and we need Court reform in this country.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "17:45:16",
+      "speaker": "BLITZER",
+      "sentences": "In the majority opinion, Justice Gorsuch dismissed the idea that this ruling could lead to discrimination against the LGBTQ community. How do you respond to that?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "17:45:16",
+      "speaker": "GARCIA",
+      "sentences": "I mean that's just BS. That is absolutely not true. You are essentially saying that private businesses can choose to not provide a service to a group of people, to LGBTQ plus people. That is an awful place to put our community in. The judges have it absolutely wrong. And this idea that right now, this is an additional massive attack and a step backwards for our community is real. We are seeing the empowerment of extreme fringe voices on the far right now coming into the mainstream.And I'm very worried for our community in the future. And so a lot of folks across the country are reeling. A lot of people are feeling more unsafe. And this idea that an American business can discriminate against our community is wrong.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "17:45:16",
+      "speaker": "BLITZER",
+      "sentences": "Justice Clarence Thomas actually previously suggested he wants to revisit the court's ruling on same sex marriage. Are you concerned, Congressman, that this Supreme Court, the current Supreme Court could in fact be heading in that direction?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "17:45:16",
+      "speaker": "GARCIA",
+      "sentences": "I mean, absolutely concerned. I mean he was very clear in the statements that he made that he is interested in rolling back marriage rights for gay people across the country. This is the same Court that rolled back health protections and abortion access for women. It's the same court as we just discussed, that is turning back the ability for student borrowers to have some relief.What we now have today is an extremist far right court that, quite frankly, has major ethical issues that is not speaking to the American public. And I worry about what the future is going to look like over these next few years and decades with conservative court in power. And so I think for a lot of us, we have to think about court reform. We have to think about ways of pushing these issues forward and taking to the streets and protesting this against this court that's making these really terrible decisions for all of us in the country.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "17:45:16",
+      "speaker": "BLITZER",
+      "sentences": "Congressman Robert Garcia of California. Thanks for joining us.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "17:49:01",
+      "speaker": "BLITZER",
+      "sentences": "Just ahead, will the sweltering heat and smoky skies ease up before your July 4th celebration? Our holiday weekend forecast is coming up right after a quick break.(COMMERCIAL BREAK)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "17:49:01",
+      "speaker": "BLITZER",
+      "sentences": "Americans suffering from dangerous air quality and smoky skies can expect some relief this holiday weekend as thunderstorms finally clear the air for much of the Midwest and East Coast. Our meteorologist Chad Myers has the latest forecast from the CNN Weather center. Chad, update our viewers.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "17:55:08",
+      "speaker": "BLITZER",
+      "sentences": "Clear the air a bit as well. All right, Chad. Thank you very much. Chad Myers reporting for us.Coming up, more in our top story, two major decisions from the U.S. Supreme Court today, one on student loans, the other on LGBTQ rights will break them down. Our legal and political experts are all standing by. (COMMERCIAL BREAK)",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

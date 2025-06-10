@@ -1,0 +1,217 @@
+{
+  "date": "2023-07-06",
+  "headline": "First Move with Julia Chatterley",
+  "subHeadline": "AI for Good Global Summit Underway in Geneva; World Food Programme Training Connects Young People to the Global Digital Economy; Meta Rolls Out New Service to Take on Twitter; How to \"Green Up\" Entire City Blocks of Buildings; June was Hottest on Record by a Huge Margin. Aired 9-10a ET",
+  "utterances": [
+    {
+      "timeStamp": "09:15:00",
+      "speaker": "JULIA CHATTERLEY, CNN HOST, FIRST MOVE",
+      "sentences": "Well, welcome to \"First Move\". This Thursday and a reminder of today's top stories including what you were justhearing the Minsk mystery the President of Belarus telling CNN, the Wagner Chief Yevgeny Prigozhin is in Russia, not Belarus, raising all sorts of questions about the Wagner Group's future and the deal that ended Prigozhin's rebellion. And a Russian -- was Prigozhin ever in Minsk at all, Russia also allegedly raiding Prigozhin's home and allegedly finding wings, weapons and more. And that's include China's challenge U.S. Treasury Secretary Janet Yellen arriving in Beijing for talks, paving the way I think everyone hopes for a future President Xi President Biden's Summit. But serious trade issues divide the economic superpowers and expectations once again for the trip a relatively low. And a Thread to mega day for Meta has Mark Zuckerberg's Twitter like challenger debuts some 10 million users have apparently already signed up Thread's butting heads with Elon Musk, but is it a social media platform contender or a pretender we'll be discussing. And from Threads to reds, oh dear U.S. Futures falling and European markets losing more than 1.5 percent across the board there for the majors. As you can see, after a major U.S. jobs jolt, employers added almost half a million jobs last month. That's according to ADP that should be great news. It was more than double expectations but of course, the numbers now fueling fears of a further rate hike by the Federal Reserve later this month. And tied to that we also saw an immediate jump in bond yields benchmark U.S. 10 year yields shooting about 4 percent for the first time since March. The big question now is will Friday's U.S. jobs report confirm this apparent strength. Though the Federal Reserve has a big challenge, it's still on their hands. OK, let's move on now to a world where artificial intelligence can help us tackle some of the most pressing humanitarian challenges. That's the vision behind the AI for Good Global Summit currently being held in Geneva. It brings together AI experts and 40 agencies from the United Nations including the World Food Programme, to showcase just how technologies like AI can help and already are? Already in use is SKAI a tool that assesses damaged needs and resources after a disaster and can coordinate a swift response. And the mission for the World Food Programme is clear and critical with 345 million people facing high levels of food insecurity this year. Just to give you a sense, that's more than twice as many as back in 2020. Now joining us to discuss is Bernhard Kowatsch. He's Head of the Innovation Accelerator at the World Food Programme. Great to have you on the show Bernard! Let's just start by discussing what the innovation accelerator is and does?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:15:00",
+      "speaker": "BERNHARD KOWATSCH, HEAD OF INNOVATION ACCELERATOR, WFP",
+      "sentences": "So the innovation accelerator of the World Food Programme, identify supports and scales,innovations and technologies such as startups that can help us either make emergency response more effective and efficient, or sustainably end hunger. And as you're saying, like 345 million people marching towards starvation, like the need has never been higher. And we need innovations to make a step change towards like reaching all of them and also reach a world without hunger.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:15:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "I mean, you have all sorts of hubs, I notice in Kenya, Latin America, Colombia, Jordan and Tanzania. So you've got operations going onelsewhere, I think I assume to identify need. How do you pick projects? Let's talk about that because there's a whole host that we'll get into more detail on but how do you choose? How do you pilot them and then go in for perhaps scalability and push money towards them to see what you can do to improve things?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:20:00",
+      "speaker": "KOWATSCH",
+      "sentences": "But then again, the best teams, they go into scaling. And so some of those innovations and startups, they already reach millions of peopleand improve people's lives.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:20:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "OK, I've got so many questions. Where does the money come from? First and foremost, is it part of the donations that come in to the WorldFood Program, you just take a chunk out and say, Look, we're going to put this towards innovation.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:20:00",
+      "speaker": "KOWATSCH",
+      "sentences": "Now, so all of the World Food Program is voluntarily funded. So like, when you're donating to the World Food Program, or also, like througha fundraising app, share the meal, which is like, you know, you can actually go to the app, and like, for 80 cents, you can feed a child for a full day. Like, you can actually choose where your money goes, you can say, like, I want to support, like, providing emergency aid in Ukraine, or like, support women's empowerment in some way like, so there's different things you can do. As Innovation Accelerator, we also raise our own funds. So like, we are relying on governments, with the German government, the U.S. government, but also like large corporates like Google, or the Bill and Melinda Gates Foundation that support us, including individuals that, you know, they say we believe that innovation is the way to help people in need, and like using this private sector investment logic to also then move to the next level of impact.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:20:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "Yes, it's fantastic. I mean, we've talked about the World Food Programs efforts around the world on many occasions on this show, but I'dnever actually heard of the Innovation Accelerator. And I love the fact that you not only try and improve the situation in wherever you are in the world. But there are also jobs involved, and we'll get to it. You mentioned Google. So let's talk about the SKAI project and the partnership between Google research and what you're doing there and how that's utilizing artificial intelligence to create better solutions for people and identify problems.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:20:00",
+      "speaker": "KOWATSCH",
+      "sentences": "No, SKAI is really exciting for us where the basic problem that we're tackling with that is that in an emergency response, and we actuallyuse this in the emergency, like you will remember the earthquake in Syria and Turkey that was devastating earlier in the year. What SKAI does, it uses satellite images and AI to detect buildings and damage assessments. And we can do this within 48 hours now instead of previously this would have taken two to three weeks of people manually looking at satellite images. Now, imagine the impact that this could have that, you know, now we have with much greater precision. Like two weeks earlier, we have data that informs us, you know, where do we need to bring the food? Where will we find more people who are actually suffering from hunger in immediate needs? And like, so this is something that I'm really, really excited about? Because it just shows the power of artificial intelligence, not only because, yes, it's faster. But you know, it can improve our operation and improve people's lives as well, you know, because we can reach them a lot earlier.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:20:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "Yes, it just makes you far more efficient. Can you also use this to look at farming areas as well, that are either damaged or the cropsare perhaps not growing the way you'd like them to just to give you some sense of an indication of forward prediction about challenges that you might have in crop yields as well, which is going to limit the amount of resources that you have, it's clearly been a problem that we've seen in Ukraine.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:20:00",
+      "speaker": "KOWATSCH",
+      "sentences": "Absolutely. And it's one of the areas we have another tool that's called \"HungerMapLIVE\" it's actually online, hungermap.wfp.org. Everybodycan look at that. Where we also use ground data like surveys we are doing as well food Pro, but overlay this with artificial intelligence. And the team is actually working on now forecasting food security, including other indicators that we're seeing, like in terms of drought and other things. But you know, even in our portfolio for the Innovation Accelerator, we have a startup called ignition, they are actually offering the same precision agriculture information that large scale farms in the U.S. might have to smallholder farmers in developing countries. And they already have 2.6 million customers, smaller farmers in developing countries that now can improve the yield up to 20 percent purely because of AI satellite images in making the knowledge more accessible and democratize the access to this kind of knowledge.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:20:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "Yes, the power of technology. One of the other projects that you've worked on is impact and it's about connecting young people in foodinsecure regions and providing them with skills, digitization skills, data analytic training. Talk to me about that, because it caught my attention because we talk a lot about labeling data, and analyzing data to train artificial intelligence models. And these are the kinds of skills that you're providing with these people. Talk to me about those roles and to what extent they go on to get jobs as a result?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:25:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "Yes, and we were just showing statistics of how many people this is actually achieved. And actually, the majority, and it's a minormajority, but it caught my attention, female students, so empowering women in particular.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:25:00",
+      "speaker": "KOWATSCH",
+      "sentences": "You know, this is one of the areas like that we are choosing to do in all of our programs, when we're selecting startups, or innovations,we always also cross checking, not only for female leadership on those themes, but also like whether those innovations are fostering gender equality. And I think as per design, like some of these innovations, like impact, lend themselves to, yes, we also on purpose, wanted to train up young women to actually become part of the digital workflows and provide for themselves into families.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:25:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "Yes, it's important for all, but it's great to hear women getting involved in this too, because I do think in certain parts of theworld, certainly, they're getting left behind and it's frightening. Regulation, you're at an event that's doing a great job, I think of promoting the beneficial uses of technologies like artificial intelligence. But certainly when we start to talk about generative, artificial intelligence, this fear, big industry players are warning about things like AI Armageddon, what's your view on that? As someone who's saying, look, OK, we can perhaps talk about the risks, but we also need to understand the beneficial aspects of this technology, and we're utilizing it today.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:25:00",
+      "speaker": "KOWATSCH",
+      "sentences": "It's definitely an area where I think you do need to have a solid look into like, the ethics of AI, but also like the equality of access tothat like, including, like not just having access in like, Silicon Valley, and like different parts of, you know, countries that are happened to be developed. But also like, how do you actually bring in community groups, governments, like people who are currently not having access, or maybe not even having access to internet right now, or electricity, or running water? I think this is an element of when you're starting to look into this, how to leave no one behind in that. And like, actually having an informed choice of doing things, I think there's an aspect that is really important. But then again, it's one of those aspects of like, just calling for everybody to actually join forces in the full responsible development of technology where we want to develop a better future. A future where technology is improving people's lives in there, it will be important to actually develop and also like standards and coming together on some of these innovations where you don't want to put people at risk, but you want to improve their lives. So this is going to be the big goal.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:25:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "Yes, the balance that has to be found. And very quickly, for those that may be thinking about donating and just give us the numbersagain, of the people that the Innovation Accelerator has directly helped, how many lives you've touched?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:25:00",
+      "speaker": "KOWATSCH",
+      "sentences": "So as Innovation Accelerator, we support innovations in startups in across the globe. And like, this is where last year, those innovationshave impacted the lives of 37 million people already. So since we started every single year, the number of people that they have reached has doubled. And what's also to show like, you think, maybe it's the pilot, maybe it's a small startup that will first supporting. Those startups once they're essentially also through the acceleration phase. They've totally raised a total of $200 million of grant funding already. Just going to show like, you know, you can start small, but you can have big impact.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:30:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "Welcome back to \"First Move\", U.S. stocks losing ground in early traded this Thursday. Tech stocks seeing the biggest pullback stockslower strong U.S. private sector jobs data fuels fears of more fed tightening we saw that, of course tech stocks very sensitive to interest rate rises. And we saw the bond markets moving immediately before today's report. Those futures we're already pointing to an 85 percent chance of another rate hike later this month anyway. And we're going to get a further read on the strength of the jobs market Friday when that all important U.S. jobs report for June will be released but right now as you can see off some 1 percent across the board in early trade. Now, Meta today unspooling, a new social media app that Ed hopes can take on Twitter. Threads, already turning heads with some 10 million people signing up for the service in just the first few hours. But hey, that's still a far cry from Twitter's audience of around 300 million active users. Can Threads, thread the needle and one day match Musk? Here to have a go at answering that Sara Fischer joins me now. I'm great and I can't wait to hear your insight on this. The key difference between them is that we know Instagram already has what 2 billion active users and they've made it very easy to transfer between one and the other. What do you make of this Sara, is it a contender?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:35:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "Yes, it's ripe for some real disruption to your point. And there are so many similarities, I think in the use of it probablypurposefully to allow people to switch but I guess one of the questions I would ask is, the audiences are different. Those that use Instagram is different I think, from those that use Twitter and the kind of information that you get from Twitter. And Elon Musk have hinted at that on social media, when he tweeted out about the Threads launch and suggested that you know, he'd rather have, I think I've got it here. He said it's infinitely preferable to be attacked by strangers on Twitter, than indulging false happiness of hide the pain on Instagram. He has a point it's sort of a point about moderation, perhaps, and the differences there, but also the kind of use of this platform. Sara, what do you think?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:35:00",
+      "speaker": "FISCHER",
+      "sentences": "I don't think you can compare a tech space app to a video and sharing app. And so I actually think Threads is very similar to Twitter.And I don't think that the user experience deals at all like Instagram, there are two key differences, though. One is that when you converted your profile over from Instagram over into Threads, if you are already verified, you become verified, again on Threads. Now the difference is that with Twitter, the people who were commonly verified or people like journalists, public officials, people in government, municipalities on Instagram, the people who are verified are like artists, creators, and etcetera. And so they might have to tinker a little bit with that. But one huge advantage here, I'd say, Julia, is that when I imported my Threads account from Instagram, all of my privacy settings, all of my safety settings automatically switched over. Right now with Twitter, it's so hard to even be able to tell what are the rules, right, like, what's good to see what's not? What are the limits for what I can tweet, what's not because they're changing all day under Elon Musk, at least with this new app Threads? For the first time in a platform like that, I actually felt like I had some consistency. And that's what users have been craving under the Elon Musk regime, but they're just not getting it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:35:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "Yes, I mean, part of that is the monetization problem at Twitter, cutting a huge chunk of the workforce to try and save money, theverification system that's now paid for or charged by Twitter. How do you think and what do you think Mark Zuckerberg feels about monetizing this deep product? Admittedly, its early days, but the real challenges for Twitter have come in actually trying to balance the books.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:35:00",
+      "speaker": "FISCHER",
+      "sentences": "Every time Meta launches some sort of new product, whether it was a long time ago, their Cryptocurrency product DM, or it was this latestbout with the Metaverse. The consistent thing has always been we're going to capture your attention and sell ads around it, that's always been the business model. And so that's going to be the business model for Threads, we're going to get a lot of user engagement, we're going to put ads in around it and Meta is very good at that copy paste strategy. When they imported stories from Snapchat years ago, they were very quick to input vertical video ads that you saw on Snapchat into Instagram and Facebook. And by the way, they did it so well that they were the ones that got ad agencies to really adopt the format, not Snapchat, which had invented it. And so I think that you're going to see a large advertising push out of Meta around this product. The only question, Julia, is can it get enough mass user adoption for Meta data think it's worth it and not sunset it. If you go to axios.com, this morning, I have a huge long chart of every single feature that they've ever created, whether it was a clone of the Cameo app or the neighbor's next door app. and a lot of times after like 20 months, they sunset the app because it doesn't have a user engagement. I will say when it comes to Threads. Mark Zuckerberg said yesterday that they had over 2 million people that have registered in fact, if you take a look at the conversions on the app, it looks like it's probably over 3 million right now. A lot of the apps that I highlighted that were sunsetted (ph), Julia. They only had a few 100,000. So already, I don't think that you're going to be putting Threads in the bucket of the graveyard apps that have died under Meta.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:40:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "Welcome back to \"First Move\", up on the rooftops of buildings all around the world. A quiet revolution is taking place. Solar panels andother forms of renewable energy replacing fossil fueled reliant, devices but it's clearly not happening fast enough. Our next guest is dedicated to bringing smart green technologies to all communities, especially the underserved. BlocPower uses its own software to analyze finance and upgrade buildings block by block. The company says it can reduce energy costs by up to 50 percent. And greenhouse gas emissions by up to 70 percent. Donnel Baird is the CEO and co-Founder of BlocPower, and he joins us now. Welcome to the show. It's great to have you on. I saw that you got the time dreamer of the year award in 2022. So congratulations on that. Give me the BlocPower dream. What's your ambition?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:40:00",
+      "speaker": "DONNEL BAIRD, CEO AND FOUNDER OF BLOCPOWER",
+      "sentences": "Thank you so much. I'm so excited to be here with you and your audience. BlocPower is focused onelectrifying buildings, removing fossil fuel equipment for heating and air conditioning, and hot water heating, taking all of that fossil fuel equipment out of buildings in the same way that electric vehicle manufacturers. Take fossil fuel engines out of vehicles, you replace those fossil fuel engines with all electric engines. We replace fossil fuel equipment and buildings with all electric equipment for heating, cooling and hot water, because we can electrify one building. That means we can do a whole city block, because we can do a whole city block, it means we can actually electrify a whole city filled with buildings. And that will reduce greenhouse gas emissions in America by 20 to 30 percent.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:45:00",
+      "speaker": "BAIRD",
+      "sentences": "Well, great question though, one of the first things we do is we have to educate each and every building owner on the possibilities forelectrifying and reducing greenhouse gas emissions from their particular building. But it's not just greenhouse gas emissions we're also removing the source of air pollution. A study from Stanford came out last week that says that the gas ovens and gas hot water heating systems and gas heating and air conditioning systems in American homes produce nitrogen dioxide, they produce methane, they produce benzene, they produce so much benzene that that cooking with this equipment in your home is actually worse than breathing in secondhand cigarette smoke. And so we educate customers and building owners about not only the impact for the planet, and the impact for saving money on their high fossil fuel, oil and gas bill costs that we pay on a monthly basis for energy. But we also educate families on the threat that burning fossil fuels in your home poses to the health and well-being of your children. These devices, these fossil fuel equipment, they leak benzene and nitrogen dioxide even when they're not on. And so when our children are sleeping, the Stanford studies are showing us that we're all breathing in this toxic pollution from burning fossil fuels in our home. So we explain all of that to our customers who own and operate buildings. Second, we've worked with Jeff Bezos and his philanthropy to build a digital model of 125 million buildings across America. The U.S. Department of Energy under President Biden and Jeff Bezos has funded our work to build a digital twin or a digital model of every building in America. And so we can use machine learning and statistics to analyze and understand the electrification and sustainability possibilities in each and every building across America. And so we share all of that information with our building owners and with our customers. And hopefully, they'll make the right decision for them and their family.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:45:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "Wow, there was a lot of information in there again. I haven't read the study, and I can't challenge the science, nor do I want to becauseI don't want to get distracted in the sense. But it has to be a conversation. Talk to me about how it's financed. So even if you have the owner of a building on board, and they've got loads of tenants, it's a logistical nightmare to make a lot of these changes. How much time does it take to convert a building and who finances it? Is it just a case of saying, look, this is going to pay dividends in 5 years, in 10 years, you just have to suck up the cost because at this point in time, particularly for building owners in big cities, spending any kind of money is a tough choice, even if it's for the good of your tenants.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:50:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "Yes. The question is how quickly, I've run out of time. And I have a million other questions for you. But it's fascinating to your work.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:50:00",
+      "speaker": "BAIRD",
+      "sentences": "I have to come back.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:50:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "I know. I'm already I'm locking you in, you're coming back to talk about it. Thank you. Because there's, there's good innovation in thisthe financing of this is key. And you have some great partners too. And I want to talk about the bigger ambitions because mapping 125 million buildings across America you have a challenge on your hands, great to have you on.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:50:00",
+      "speaker": "BAIRD",
+      "sentences": "We have no choice, but I'm so -- here with you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:50:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:50:00",
+      "speaker": "BAIRD",
+      "sentences": "Happy to talk.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:50:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "We have to act, the CEO and Founder of BlocPower. We should reconvene, sir, thank you. OK, still to come. This week, the planet saw itshottest day on record. We know it's partly a human made problem, but this year, nature, also playing a part too, details after this. (COMMERCIAL BREAK)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:50:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "Welcome back to \"First Move\", this week saw the hottest global temperature ever recorded. That's according to two climate trackingagencies. On Tuesday, the average world temperature climbed above 17 degrees Celsius. And experts are warning the record could be broken several more times this year. Joining us now is CNN's Chief Climate Correspondent Bill Weir. Bill, it's the same old but this is a triple whammy. We're approaching summer in the northern hemisphere we have the impact of El Nino and global warming all tied in and we're not even at peak summer yet.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:55:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "Wow, I've only got about 30 seconds left. Do we have any predictions based on not hitting those Paris climate targets of how manyHiroshima is we're talking about in the near future? That's a phenomenon -- WEIR Yes, I mean, it just seems like we are we're destined to go past it. Stopping it around too, would be, key to saving as much coral as much life on Earth as we can or still agency to avoid the absolute worst. But here we are. It's the age of broken record breaking.",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

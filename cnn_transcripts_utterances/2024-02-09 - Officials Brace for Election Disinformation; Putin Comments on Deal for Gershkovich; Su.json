@@ -1,0 +1,817 @@
+{
+  "date": "2024-02-09",
+  "headline": "CNN This Morning",
+  "subHeadline": "Officials Brace for Election Disinformation; Putin Comments on Deal for Gershkovich; Super Bowl Ads Cater to Women; Puppy Bowl Celebrates 20 Years. Aired 8:30-9a ET",
+  "utterances": [
+    {
+      "timeStamp": "08:30:00",
+      "speaker": "SEAN LYNGAAS, CNN CYBERSECURITY REPORTER",
+      "sentences": "To the Chinese. How do you alert the public? When do you tell them without causing panic? A lot of really fraught discussions. No clear answers. However, sources tell CNN that the senior officials mostly opted to defer to state and local election officials in taking the lead on public messaging for a of couple reasons. The public trusts those officials more in their local communities. They run elections. And the feds are also balancing this need to warn the public about a national security threat, but if they can't determine that it's a foreign actor, they're wary of infringing on free speech, especially around an election. So, it's a very difficult conversation that we got a first-hand look at through sources briefed.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:30:00",
+      "speaker": "PHIL MATTINGLY, CNN ANCHOR",
+      "sentences": "Sean, that last point was what I wanted to ask you about. It is a very fine line that a lot of people wonder, if you can define it, it's certainly gotten more difficult to do so in the wake of 2020 and everything we've seen since. How are national security officials weighing how to respond to disinformation?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:30:00",
+      "speaker": "LYNGAAS",
+      "sentences": "Well, it's -- again, look, the foreign actor attribution would really help because then you're not - you know, it's a clear threat. And just to be clear, even if they do determine that Russia or China is behind something post-2016, post-2020, everything - ever disclosure is scrutinized, every disclosure of intelligence is at risk of being called a political move of some point. So, there are national security threats that they're very clear on, but then how do you make sure that it's not blending into what -- if there's domestic voices involved in that. So, it's a very fine line, and this is the first such drill that's occurred with these senior officials. And it's something that they're going to continue to try to work out the kinks because there are a lot of kinks to work out, Phil.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:30:00",
+      "speaker": "POPPY HARLOW, CNN ANCHOR",
+      "sentences": "For sure.Important, exclusive reporting. Sean, thanks very much. Election interference did not come up in Tucker Carlson's interview with Russian President Vladimir Putin, but Putin did reveal that he has not spoken to President Biden since Russia invaded Ukraine almost two years ago. Putin also told the former Fox News host that he believes an agreement could be reached to release \"Wall Street Journal\" journalist and reporter Evan Gershkovich. \"The Wall Street Journal\" reporter was arrested on espionage charges that are completely unfounded. He has being held in prison in Russia. Listen. (BEGIN VIDEO CLIP) PRES. VLADIMIR PUTIN, RUSSIA (through translator): We are willing to solve it. But there are certain terms being discussed by special services channels. I believe an agreement can be reached. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:30:00",
+      "speaker": "MATTINGLY",
+      "sentences": "Well, \"The Wall Street Journal\" has released a statement in response to the interview, saying, quote, \"Evan is a journalist, and journalism is not a crime. Any portrayal to the contrary is total fiction. We're encouraged to see Russia's desire for a deal that brings Evan homes, and we hope that will lead to his rapid release and return to his family and our newsroom.\"Joining us now, \"New Yorker\" staff writer Susan Glasser and former CIA counterterrorism official Phil Mudd. Phil, I want to start with you because President Putin, in different parts of the interview, seemed to allude to the individual that we've known through sourcing was somebody he wanted was putting on the table for a potential swap here in Vadim Krasikov. Can you walk through how U.S. officials are trying to figure out how to make that work?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:30:00",
+      "speaker": "PHIL MUDD, FORMER CIA COUNTERTERRORISM OFFICIAL",
+      "sentences": "Yes, I think there are a couple things going on here. There's a parallel between what he said about - about \"The Wall Street Journal\" and what he's saying about Ukraine. In both circumstances, this is a great opportunity for propaganda for Putin. That is, in both circumstances he's saying, look, it's not just on me. It's not my fault. We were not the aggressor in Ukraine. We're not totally at fault with \"The Wall Street Journal.\" This is a spy in terms of \"The Wall Street Journal,\" and the Ukrainians are the aggressor. We're willing to make a deal only if you guys are reasonable.So, I think the propaganda piece here, both to the west and to a domestic audience in Russia is, Putin's ready to make a deal and he's not the only player at the table. He can't control everything. It's up to the Americans too. I think it's brilliant.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:30:00",
+      "speaker": "HARLOW",
+      "sentences": "Susan, this part of the interview that Putin told Tucker Carlson, talking about the situation in Ukraine and where it goes and potentially how it ends.Listen to this. (BEGIN VIDEO CLIP) PRES. VLADIMIR PUTIN, RUSSIA (through translator): This endless mobilization in Ukraine, the hysteria, the domestic problems. Sooner or later, it will result in agreement. You know, this probably sounds strange given the current situation. But the relations between the two peoples will be rebuilt anyway. It will take a lot of time, but they will heal. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:35:01",
+      "speaker": "MATTINGLY",
+      "sentences": "Yes, Phil, that was actually what I was going to ask you. This is, you know, around two hours. The history lesson that Susan was just talking about, I think, ran about 38, 39 minutes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:35:01",
+      "speaker": "HARLOW",
+      "sentences": "You summarized it well in a minute.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:35:01",
+      "speaker": "MATTINGLY",
+      "sentences": "Yes, that was actually, yes, a lot quicker. Clear and concise. That's a good writer for you.I'm interested if there was anything you heard in this that you thought either was newsworthy or that, as in your former life, would have - would have given you some indication of something you wanted to pursue.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:35:01",
+      "speaker": "MUDD",
+      "sentences": "Yes, there is one piece that struck me, and that is timing. Why would you do this now? I'll probably read too much into it, but I'm a CIA analyst. That's what we do.The short version is, you're looking, obviously, at divisions in the American Congress that might widen over time between those who want to support Ukraine and those who don't. There's obviously divisions between parties and presidential candidates going into an intense American election. There are divisions between potentially the Americans and NATO. And there are problems in Ukraine. You saw in the past week, the Ukrainians changing out generals. So, if you look at timing, you could read into this, if you're an analyst, and that's what I do for a living, that Putin sees blood in the water. He sees an opportunity to drive a wedge going into an election, and his driving of that wedge over time is only going to intensify. He sees a chance.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:35:01",
+      "speaker": "HARLOW",
+      "sentences": "Phil Mudd, thank you.Susan Glasser, we appreciate you this morning. So, coming up for us, changing gears in a major way, we've talked a lot about Taylor Swift and the Super Bowl, but there are a lot of really impressive women playing a big role in the big game. We're going to talk about them, next.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:41:40",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "Why do you think everyone's so fascinating with you two?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:41:40",
+      "speaker": "TRAVIS KELCE, KANSAS CITY CHIEFS TIGHT END",
+      "sentences": "I think the values that we stand for and just, you know, who we are as people. We - we love to shine light on other, shine light around the people that help and support us. And on top of that, we just -- I feel like we both have a - just a love for life.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:41:40",
+      "speaker": "MATTINGLY",
+      "sentences": "That was Kansas City Chiefs star Travis Kelce, as if I need to tell you at this point, weighing in on his relationship with pop star Taylor Swift. It is something that has, obviously, captivated America. Some of us as well. Swift is planning to rush back from her concert in Tokyo to make it to the big game between the Chiefs and the San Francisco 49ers on Sunday. The Taylor Swift effect is helping fuel a surge in female viewership for the NFL.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:41:40",
+      "speaker": "HARLOW",
+      "sentences": "It league is noticing. Brands are noticing. The cosmetic company NYX will air its first Super Bowl commercial starring Cardi B. Dove will air its first Super Bowl ad in almost 20 years starring Kylie Kelce, the wife of Jason Kelce, and tennis icon Venus Williams. The ad aims to boost self-esteem in young women and encourage them to play sports.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:41:40",
+      "speaker": "MATTINGLY",
+      "sentences": "Joining us now from Las Vegas is CNN contributor and host of the \"Cari Champion Show,\" our favorite person, Cari Champion is joining us.Cari, can I ask you, like, I love watching, like, businesses trail where the people are going. And where the people are going are making very clear there is a surge in viewership because of Taylor Swift. It is a different type of viewer. And also it's elevating women without any question in a sport that's traditionally dominated by men.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:41:40",
+      "speaker": "CARI CHAMPION, CNN CONTRIBUTOR",
+      "sentences": "You know, I think it's a beautiful thing. I know of the Taylor Swift effect, and I think I have cracked the code here. I had a chance to talk with someone who is a celebrity expert, if you will, in that culture. And they said this about Taylor Swift, which I find very interesting. She is something and someone that we all can talk about. She relates with young girls who are eight years old, right? And then you have women who are, you know, upwards of I say eight to 80 just to say that she covers every single genre, if you will, if you want, age gap, every generation. Whatever you want to say. Taylor is someone that everyone can talk about. And we're watching this - this real pop culture moment in real time.And I think it's great for women's sports. It's coming at a perfect time. And I would say - I would even argue that it's been happening since last year, if I'm honest with you guys. Women's sports have been taking off.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:41:40",
+      "speaker": "MATTINGLY",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:41:40",
+      "speaker": "HARLOW",
+      "sentences": "Yes, they have. And, Cari, as you were talking, we were just playing part of that Dove ad. And if people couldn't read it, it talked about like knocks don't keep girls out of sports, low body confidence does. We together can help them. And I love this message targeted toward women. I just wonder how important you think this is going forward for all the little girls who are going to be watching on Sunday night.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:01",
+      "speaker": "MATTINGLY",
+      "sentences": "I was literally - I was like, holy cow, that's a great headline right there.Hey, I've got to ask you, Cari, before --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:01",
+      "speaker": "CHAMPION",
+      "sentences": "I - I was - I was like seriously (ph). Yes. No, go ahead. Sorry.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:01",
+      "speaker": "MATTINGLY",
+      "sentences": "I have to ask you because it was the album that defined my years in high school, one of the greatest albums of all time, it's called \"Confessions.\" The guy who made that album is the halftime show. Talk to me about Usher.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:01",
+      "speaker": "CHAMPION",
+      "sentences": "OK. So, Phil and Poppy, I know you guys have been working really hard and you don't have time to follow my Instagram, but here's a quick story. Last night, in the midst of doing all the different work that I had to do, and different events that you have to show up here, because there's so many things going on, a friend of mine says, hey, Usher is having a listening party, would you like to go? And I was like (INAUDIBLE). And so we had an opportunity to sit and talk to Usher last night.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:01",
+      "speaker": "MATTINGLY",
+      "sentences": "Stop it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:01",
+      "speaker": "HARLOW",
+      "sentences": "What?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:01",
+      "speaker": "CHAMPION",
+      "sentences": "We are so excited. We don't know what to do.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:01",
+      "speaker": "MATTINGLY",
+      "sentences": "I'm so mad at you right now.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:01",
+      "speaker": "HARLOW",
+      "sentences": "Phil is seething.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:01",
+      "speaker": "CHAMPION",
+      "sentences": "(INAUDIBLE) Usher. Are you jealous? Are you jealous? Are you jealous?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:01",
+      "speaker": "MATTINGLY",
+      "sentences": "Yes. Yes. Yes. Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:01",
+      "speaker": "HARLOW",
+      "sentences": "Can't wait.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:01",
+      "speaker": "MATTINGLY",
+      "sentences": "Oh, Cari, you're the absolute best. Thank you so much for waking up early for us, even if I'm really mad that you hung out with Usher and I didn't.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:01",
+      "speaker": "CHAMPION",
+      "sentences": "Of course.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:01",
+      "speaker": "MATTINGLY",
+      "sentences": "Cari Champion, always a pleasure.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:01",
+      "speaker": "CHAMPION",
+      "sentences": "Just one thing.Bye, you guys.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:01",
+      "speaker": "MATTINGLY",
+      "sentences": "Bye.All right, well, of course, this - HARLOW: You've got to say it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:51:23",
+      "speaker": "HARLOW",
+      "sentences": "Hello.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:51:23",
+      "speaker": "MATTINGLY",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:51:23",
+      "speaker": "HARLOW",
+      "sentences": "This is Thea (ph).",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:51:23",
+      "speaker": "MATTINGLY",
+      "sentences": "This is Marcie (ph).",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:51:23",
+      "speaker": "HARLOW",
+      "sentences": "And this is the best segment of the week.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:51:23",
+      "speaker": "MATTINGLY",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:51:23",
+      "speaker": "HARLOW",
+      "sentences": "The Super Bowl is not the only major sporting event happening -- don't get anywhere, Thea - this week.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:51:23",
+      "speaker": "MATTINGLY",
+      "sentences": "You're not going to win this battle, my friend.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:51:23",
+      "speaker": "HARLOW",
+      "sentences": "Watch this.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:51:23",
+      "speaker": "MATTINGLY",
+      "sentences": "Come here, pup.(BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:51:23",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "We have two-time champs Team Fluff, led by offensive genius coach Kyle Shanahound (ph). And a hungry Team Ruff, commandeered by long-time coach Nick Fuyani (ph). The stakes could not be higher as these two teams prepare to go head to head for the world championship, and an opportunity to walk away with the most celebrated award in all of puppy sports. The legendary Wayfair Lombarkie Trophy (ph).(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:51:23",
+      "speaker": "HARLOW",
+      "sentences": "Puppy Bowl is celebrating 20 years of finding dogs their forever home with its largest call to adoption event yet. See him whimpering. He wants to go home with you. More than 100 four-legged friends will battle it out on the field on Sunday.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:51:23",
+      "speaker": "MATTINGLY",
+      "sentences": "And, with us now is Puppy Bowl referee Dan Schachner, and three players -- three representatives of a game that will be played tomorrow. Denny, Marcie - Denny's right there, Marcie, I'm probably going to steal, and Thea.Let's start with what this game is actually all about. Yes, I'm going to get your betting odds and all that type stuff, but what should people be thinking if they watch the game.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:51:23",
+      "speaker": "DAN SCHACHNER, REFEREE, PUPPY BOWL XX",
+      "sentences": "Save the best for last.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:51:23",
+      "speaker": "MATTINGLY",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:51:23",
+      "speaker": "SCHACHNER",
+      "sentences": "Yes, so the Puppy Bowl is a miniaturized football game played on Super Bowl Sunday. We're on at 2",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:51:23",
+      "speaker": "HARLOW",
+      "sentences": "Good-bye, Thea.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:51:23",
+      "speaker": "SCHACHNER",
+      "sentences": "Every single one of the pups is up for adoption. It's 131 total pups this year. They compete. They play football. They coach. They run the cameras. We have puppy cheerleaders. I have a puppy assistant ref. We have puppies taking pictures as the puparazzi. They're everywhere and the puns are endless.And, by the way, you guys are getting a taste of what life is like when for me when we do Puppy Bowl.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:51:23",
+      "speaker": "MATTINGLY",
+      "sentences": "Yes, this is -",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:51:23",
+      "speaker": "HARLOW",
+      "sentences": "I'm going to rescue Thea.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:51:23",
+      "speaker": "SCHACHNER",
+      "sentences": "And by the end of the Puppy Bowl, every single one is adopted. And that's the best part.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:51:23",
+      "speaker": "MATTINGLY",
+      "sentences": "Who came up with the idea? We were talking about it beforehand. Like, who came up with this idea?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:51:23",
+      "speaker": "HARLOW",
+      "sentences": "I lost my dog.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:51:23",
+      "speaker": "MATTINGLY",
+      "sentences": "Because this is always the kind of thing my kids are - want to watch every Super Bowl.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:51:23",
+      "speaker": "SCHACHNER",
+      "sentences": "Yes. Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:51:23",
+      "speaker": "MATTINGLY",
+      "sentences": "What's the genesis of it?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:51:23",
+      "speaker": "SCHACHNER",
+      "sentences": "Yes. As we have an escape artist over here.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:51:23",
+      "speaker": "HARLOW",
+      "sentences": "I'm going to get her.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:51:23",
+      "speaker": "MATTINGLY",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:51:23",
+      "speaker": "SCHACHNER",
+      "sentences": "But that's OK.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:51:23",
+      "speaker": "HARLOW",
+      "sentences": "I'm going to get Thea.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:51:23",
+      "speaker": "SCHACHNER",
+      "sentences": "Twenty years ago, this came up as I think the original counterprogramming. Animal Planet knew that, you know, you can't compete with human football, but why not just put a camera on a bunch of puppies and see what happens. It actually became a surprise hit and 20 years later we have millions of people tuning in every year. Last year we had over 10 million watching.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:51:23",
+      "speaker": "HARLOW",
+      "sentences": "That's amazing. OK, but also a big goal is, these are about three month old pups from -",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:51:23",
+      "speaker": "SCHACHNER",
+      "sentences": "Yes, from Best Friends here in New York City.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:51:23",
+      "speaker": "HARLOW",
+      "sentences": "So, talk - oh, she wants - wants to play.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:51:23",
+      "speaker": "SCHACHNER",
+      "sentences": "And - and - well, they're playing. What you're watching here is what happens on Puppy Bowl. This is called dog collar tackle.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:51:23",
+      "speaker": "MATTINGLY",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:51:23",
+      "speaker": "HARLOW",
+      "sentences": "Can Denny play?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:51:23",
+      "speaker": "SCHACHNER",
+      "sentences": "Yes, of course, Denny can play. Denny might pancake these guys. But let's see what happens.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:51:23",
+      "speaker": "HARLOW",
+      "sentences": "OK. All right. Let's see.Can - how - how can people adopt them?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:51:23",
+      "speaker": "SCHACHNER",
+      "sentences": "It's so easy. Just go to puppybowl.com and it will connect you directly with a shelter. We have 73 shelters participating this year across 36 states. One of them, of course, is Best Friends.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:51:23",
+      "speaker": "HARLOW",
+      "sentences": "I love that.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:51:23",
+      "speaker": "MATTINGLY",
+      "sentences": "Can you tell us about these three specifically?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:51:23",
+      "speaker": "SCHACHNER",
+      "sentences": "Yes, we have Denny, Marcie, and Thea. They're from Best Friends here in New York. They're about three months of age. And they're up for adoption. You can go to their website to find out more information.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:51:23",
+      "speaker": "MATTINGLY",
+      "sentences": "So, do people like bet on this? Are there odds on this?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:51:23",
+      "speaker": "SCHACHNER",
+      "sentences": "As a referee, I'm really not allowed.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:51:23",
+      "speaker": "MATTINGLY",
+      "sentences": "You can't, obviously, and I never would. Ethical concerns.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:51:23",
+      "speaker": "SCHACHNER",
+      "sentences": "Yes. But I'll tell you, for those at home -",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:51:23",
+      "speaker": "MATTINGLY",
+      "sentences": "But for those who will be watching this game -",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:51:23",
+      "speaker": "SCHACHNER",
+      "sentences": "Right, those at home.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:51:23",
+      "speaker": "MATTINGLY",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:51:23",
+      "speaker": "SCHACHNER",
+      "sentences": "We only started keeping score ten years ago.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:51:23",
+      "speaker": "MATTINGLY",
+      "sentences": "Right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:51:23",
+      "speaker": "SCHACHNER",
+      "sentences": "Prior to that, it was every pup for him or herself. We divided them into Team Ruff and Team Fluff. So, for those that are watching, last year, up until last year, Team Ruff and Fluff had each won four championships.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:51:23",
+      "speaker": "MATTINGLY",
+      "sentences": "OK. SCHACHNER",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:51:23",
+      "speaker": "MATTINGLY",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:51:23",
+      "speaker": "HARLOW",
+      "sentences": "So good.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:51:23",
+      "speaker": "SCHACHNER",
+      "sentences": "And Team Fluff came out with the victory. So, right now, Ruff is coming in as the underdog.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:51:23",
+      "speaker": "MATTINGLY",
+      "sentences": "Right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:51:23",
+      "speaker": "HARLOW",
+      "sentences": "OK.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:55:03",
+      "speaker": "HARLOW",
+      "sentences": "How on earth do you decide who's on what team?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:55:03",
+      "speaker": "SCHACHNER",
+      "sentences": "It's a very strict vetting process.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:55:03",
+      "speaker": "HARLOW",
+      "sentences": "Drop them on this side. Drop them on that side.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:55:03",
+      "speaker": "MATTINGLY",
+      "sentences": "Yes, it's a - it's a draft. It's a combine. It's kind of the whole process through.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:55:03",
+      "speaker": "SCHACHNER",
+      "sentences": "Yes, combine. We do it all. Skills test.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:55:03",
+      "speaker": "MATTINGLY",
+      "sentences": "What do the run the 40 in.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:55:03",
+      "speaker": "SCHACHNER",
+      "sentences": "Yes, yes, (INAUDIBLE).",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:55:03",
+      "speaker": "HARLOW",
+      "sentences": "You've been doing this for 13 years.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:55:03",
+      "speaker": "SCHACHNER",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:55:03",
+      "speaker": "HARLOW",
+      "sentences": "How did that start?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:55:03",
+      "speaker": "SCHACHNER",
+      "sentences": "Which is an eternity in the dog world, right?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:55:03",
+      "speaker": "HARLOW",
+      "sentences": "Yes. Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:55:03",
+      "speaker": "SCHACHNER",
+      "sentences": "Like, that's - I'm ancient. But, no, it's 13 years of joy and love. The game keeps getting bigger and bigger every single year, and I get to watch it.When I first started, we only had 59 dogs participating. We, of course, doubled it. And we continue to grow every year.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:55:03",
+      "speaker": "HARLOW",
+      "sentences": "I'm just - I'm concerned, did we lose a dog?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:55:03",
+      "speaker": "MATTINGLY",
+      "sentences": "No. HARLOW",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:55:03",
+      "speaker": "MATTINGLY",
+      "sentences": "There is -- right behind you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:55:03",
+      "speaker": "HARLOW",
+      "sentences": "OK.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:55:03",
+      "speaker": "SCHACHNER",
+      "sentences": "He's making friends.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:55:03",
+      "speaker": "MATTINGLY",
+      "sentences": "Now, now she's gone -",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:55:03",
+      "speaker": "HARLOW",
+      "sentences": "Now she's actually gone.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:55:03",
+      "speaker": "SCHACHNER",
+      "sentences": "Probably in the control room.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:55:03",
+      "speaker": "MATTINGLY",
+      "sentences": "Talk about the importance of adoption.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:55:03",
+      "speaker": "HARLOW",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:55:03",
+      "speaker": "SCHACHNER",
+      "sentences": "Absolutely.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:55:03",
+      "speaker": "MATTINGLY",
+      "sentences": "For people who are - who are -- want a dog and are trying to decide whether or not -",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:55:03",
+      "speaker": "SCHACHNER",
+      "sentences": "Yes, here it is. We're on national TV. The Puppy Bowl is on national TV. It's not hard to get those puppies adopted, right?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:55:03",
+      "speaker": "MATTINGLY",
+      "sentences": "Sure.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:55:03",
+      "speaker": "SCHACHNER",
+      "sentences": "But every single one of those come from a litter. They've got parents that are hanging out in the shelters. We also feature special needs dogs as well every single year. So, you'll see dogs that maybe were born without limbs, dogs that are hearing impaired. We're just trying to shine the light on the idea that dogs, these guys will get adopted. Their siblings are still in the shelters, right?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:55:03",
+      "speaker": "HARLOW",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:55:03",
+      "speaker": "SCHACHNER",
+      "sentences": "And the shelters are overcrowded now more than ever. We all maybe don't know this, but during Covid there was a huge uptick in adoption.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:55:03",
+      "speaker": "HARLOW",
+      "sentences": "And then it went down.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:55:03",
+      "speaker": "SCHACHNER",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:55:03",
+      "speaker": "HARLOW",
+      "sentences": "As a mom of an adopted dog, Olly (ph), we - and we got him when we had really little kids, when some parents are, you know, worried about bringing in. Best thing we ever did.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:55:03",
+      "speaker": "SCHACHNER",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:55:03",
+      "speaker": "HARLOW",
+      "sentences": "I encourage everyone.Thank you. Cannot wait to watch.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:55:03",
+      "speaker": "MATTINGLY",
+      "sentences": "And, best part of our week. Can't wait to watch. SCHACHNER",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:55:03",
+      "speaker": "MATTINGLY",
+      "sentences": "You can watch Puppy Bowl XX this Sunday, February 11th, at 2",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:55:03",
+      "speaker": "HARLOW",
+      "sentences": "Everywhere.",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

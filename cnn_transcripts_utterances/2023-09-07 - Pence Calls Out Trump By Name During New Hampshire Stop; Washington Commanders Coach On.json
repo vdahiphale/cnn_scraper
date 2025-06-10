@@ -1,0 +1,793 @@
+{
+  "date": "2023-09-07",
+  "headline": "CNN This Morning",
+  "subHeadline": "Pence Calls Out Trump By Name During New Hampshire Stop; Washington Commanders Coach On Football, Leadership, And Family; New Musk Biography Offers New Details About His Ukraine Dilemma. Aired 7:30-8a ET",
+  "utterances": [
+    {
+      "timeStamp": "07:30:00",
+      "speaker": "POPPY HARLOW, CNN ANCHOR",
+      "sentences": "Vice President Mike Pence campaigning in New Hampshire after going after -- and going after his former boss, I should say. He did call him out by name. Watch this.(BEGIN VIDEO CLIP) MIKE PENCE, (R) PRESIDENTIAL CANDIDATE:  When Donald Trump ran for president in 2016 he promised to govern as a conservative, and together we did. But it's important for Republicans to know that he and his imitators in this Republican primary made no such promise today. I mean, the truth is Donald Trump, along with his imitators, often sound like an echo of the progressives they seek to replace. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:30:00",
+      "speaker": "HARLOW",
+      "sentences": "Joining us now, CNN political analyst, Natasha Alford; and CNN anchor and senior political analyst, John Avlon. It is great to have you guys.JOHN AVLON, CNN ANCHOR AND SENIOR POLITICAL ANALYST, AUTHOR, \"LINCOLN AND THE FIGHT FOR PEACE\":  Good morning.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:30:00",
+      "speaker": "HARLOW",
+      "sentences": "You're looking particularly stunning in your pink this morning, I should say.NATASHA ALFORD, CNN POLITICAL ANALYST, HOST, \"THEGRIO WEEKLY\":  Thank you. Good morning. I'm channeling Barbie.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:30:00",
+      "speaker": "PHIL MATTINGLY, CNN ANCHOR",
+      "sentences": "(INAUDIBLE).",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:30:00",
+      "speaker": "HARLOW",
+      "sentences": "You, too, John.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:30:00",
+      "speaker": "AVLON",
+      "sentences": "Oh.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:30:00",
+      "speaker": "HARLOW",
+      "sentences": "This was interesting because the populism of Trump was the populism of the Pence-Trump White House.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:30:00",
+      "speaker": "ALFORD",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:30:00",
+      "speaker": "HARLOW",
+      "sentences": "And now he's pivoting on it, and it was just notable. ALFORDBut the question is -- again, the folks that supported him really actually do believe in that populism. They eat that up. So --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:30:00",
+      "speaker": "HARLOW",
+      "sentences": "And that's interesting, too.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:30:00",
+      "speaker": "ALFORD",
+      "sentences": "-- how do you get support after that?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:30:00",
+      "speaker": "MATTINGLY",
+      "sentences": "The idea that there's an inflection point and people need to decide, I just don't see where the decision hasn't already been made in the Republican Party right now if you look at the polling, including our most recent polling, which on issue after issue after issue people trust Trump in the Republican Party more than anybody else. Hasn't the decision been made on this conservatism versus populism?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:30:00",
+      "speaker": "AVLON",
+      "sentences": "I disagree with you on that.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:30:00",
+      "speaker": "MATTINGLY",
+      "sentences": "Really?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:30:00",
+      "speaker": "AVLON",
+      "sentences": "I think it -- I think it -- there's still wet cement. I mean, are there -- are there macro trends that are favoring Donald Trump within sort of a hermetically sealed Republican Party that's polarized beyond where it's got the balance of a lot of Independent and moderate voters? Yes. But we're still a long way from the first votes being cast and there's a lot of time for people to make their case. And a lot of folks haven't tuned in yet.We're seeing some of it with Nikki Haley, for example, in the wake of the first debate that I think indicates the room to grow. For Pence to do this is tough because he was part of the administration. But it's a necessary voice because Trump's populism was always the opposite of conservatism.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:30:00",
+      "speaker": "MATTINGLY",
+      "sentences": "Independent voters --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:30:00",
+      "speaker": "AVLON",
+      "sentences": "Yeah.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:30:00",
+      "speaker": "MATTINGLY",
+      "sentences": "You have keyed -- you know, we've been talking about President Biden -- the poll numbers. What people are digging out and the cross tabs obviously a topic throughout --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:30:00",
+      "speaker": "AVLON",
+      "sentences": "Me, too. Fellow nerd.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:30:00",
+      "speaker": "MATTINGLY",
+      "sentences": "-- in these mornings. And you and our colleague Andrew have been focused on this as well, as you know quite well. Why? What stood out to you in the Independent voter?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:30:00",
+      "speaker": "AVLON",
+      "sentences": "I always look for the cross tabs on Independent voters because these are the folks who decide elections. And this is what was so fascinating to me.First of all, Biden is in trouble with Independents. He is underwater with Independents. But it's important to put this in context. First of all, this poll had a lot of bad news on health and vigor. Look at just Biden inspires confidence, for example, and the Democrats are down 53 percent. That's bad. Independents, 25 percent. That's anemic. But then look at his overall favorability. Biden's at 31 percent among Independents. That's really bad. Donald Trump, though, is at 26 percent. That's even worse. And when you ask Independent voters in this poll which comes closer to your view among Independents, any Democrat better than Trump, 47 percent. Trump better than any Democrat, 27 percent. So I'm not -- there -- you know, this is the old Reagan line -- \"There must be a pony in there somewhere\" for the Biden team. That there's the silver lining somewhere. But pay attention to the Independent numbers and they'll show you a more accurate sense of where things are going on the ground.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:30:00",
+      "speaker": "HARLOW",
+      "sentences": "We have been -- Phil and I have been trying to figure out -- keep trying to figure out every day and I think the White House is trying to figure out why, Natasha, Biden is doing so poorly when all of the legislative accomplishments, the economy -- most of the numbers are doing well despite some of the inflation points that are really important.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:30:00",
+      "speaker": "ALFORD",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:30:00",
+      "speaker": "HARLOW",
+      "sentences": "This divide. And we were talking about it a few minutes ago.But listen to New York City Mayor Eric Adams talk about -- Democrat -- talk about what's going on in New York City right now on immigration. And then I want to talk about some of the bigger challenges ahead. Here he is. (BEGIN VIDEO CLIP) MAYOR ERIC ADAMS, (D) NEW YORK CITY:  Never in my life have I had a problem that I did not see an ending to. I don't see an ending to this. I don't see an ending to this. This issue will destroy New York City -- destroy New York City. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:30:00",
+      "speaker": "HARLOW",
+      "sentences": "Bret Stephens, in his column -- we've been talking about -- points out it's not just a border crisis, it's a national crisis.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:30:00",
+      "speaker": "ALFORD",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:04",
+      "speaker": "HARLOW",
+      "sentences": "It's not just the narrative. Mayor Adams has called on the Biden -- sorry to interrupt, but called on the Biden White House over and over again for more action and more funding, and more things to do.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:04",
+      "speaker": "ALFORD",
+      "sentences": "Right. And I'm saying that this is about not reacting to crisis --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:04",
+      "speaker": "HARLOW",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:04",
+      "speaker": "ALFORD",
+      "sentences": "-- but coming out and saying this is how we own this problem, right? This is what our policy proposals are. And Donald Trump, as simple as he can be -- his simple build a wall, right? That resonated with people because it was some sort of solution. If you were to ask the average American voter how do Democrats approach immigration, I'm not sure they could tell you how Democrats approach a different --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:04",
+      "speaker": "AVLON",
+      "sentences": "And that's a failure of policy, not just communications. But this is an area where Democrats do need to lead and offer up an alternative vision.Now, we all know the real answer is comprehensive immigration reform --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:04",
+      "speaker": "HARLOW",
+      "sentences": "Of course.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:04",
+      "speaker": "AVLON",
+      "sentences": "-- right, which Biden has supported and which the Republicans supported in the past and then ran away from it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:04",
+      "speaker": "MATTINGLY",
+      "sentences": "The first day in office I think he had a bill.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:04",
+      "speaker": "AVLON",
+      "sentences": "Right, exactly.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:04",
+      "speaker": "MATTINGLY",
+      "sentences": "There are --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:04",
+      "speaker": "HARLOW",
+      "sentences": "Right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:04",
+      "speaker": "MATTINGLY",
+      "sentences": "-- interparty issues but he had a bill.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:04",
+      "speaker": "AVLON",
+      "sentences": "But let's talk about what can be done because this is Adams saying the Biden administration is leaving him high and dry -- $12 billion annual deficit being put on this. Really, a disproportionate burden being put on one city and one state.So how could you solve it absent congressional action? Well, there are two ideas that I think the Biden administration can and should do. One, there's a -- there's a thing called temporary -- TPS, Temporary Protected Status.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:04",
+      "speaker": "MATTINGLY",
+      "sentences": "Protected status.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:04",
+      "speaker": "AVLON",
+      "sentences": "And that is something that can be applied to Venezuelans who are the first wave of these immigration -- immigrants that would reduce some of the pressure.The second thing is start enforcing asylum laws on the books. Not everyone is a legitimate asylum seeker. You shouldn't just take them at their word. Some folks are coming here for a better life. That's a great American story. But it's not reflective of the reason asylum seeker laws are in place. So those need to be enforced more strictly. And then you should look at some of the work requirements, which are currently 180 days. Those things can be done without congressional approval. The Biden administration should be taking the lead and listening to Adams on this.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:04",
+      "speaker": "HARLOW",
+      "sentences": "And by the way, that's what a number of business leaders --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:04",
+      "speaker": "AVLON",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:04",
+      "speaker": "HARLOW",
+      "sentences": "-- from New York City and elsewhere are asking for on the work visas. So you've got that push, as well as saying we need this. It would help our --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:04",
+      "speaker": "AVLON",
+      "sentences": "That's right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:04",
+      "speaker": "HARLOW",
+      "sentences": "-- business and our economy.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:04",
+      "speaker": "AVLON",
+      "sentences": "There you go.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:04",
+      "speaker": "HARLOW",
+      "sentences": "Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:04",
+      "speaker": "AVLON",
+      "sentences": "Policies.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:04",
+      "speaker": "HARLOW",
+      "sentences": "Thank you very much.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:04",
+      "speaker": "MATTINGLY",
+      "sentences": "Appreciate it.Well, one woman spent more than a decade convincing California to build the world's largest overpass for wildlife over a freeway in Los Angeles. Her inspiration, one lonely mountain lion that came to symbolize an ecosystem at risk. Here is more in today's Impact Your World. (BEGIN VIDEOTAPE) BETH PRATT, REGIONAL EXECUTIVE DIRECTOR, CALIFORNIA REGIONA CENTER: P-22 was the love of my life. He is the Brad Pitt of the cougar world. He was a Hollywood A-lister tracked by paparazzi and fans alike, but he's a mountain lion. I think what P-22 did -- he showed us that wildness had not been banished even in a place like L.A. When I met with the National Parks biologist he told me these mountain lions were going to go extinct. I just remember thinking not on my watch. They are literally inbreeding themselves out of existence here. Picture if you were on Tinder and you're swiping and all you're getting is family members. That's what mountain lions south of the 101 here are getting. They are trapped by this freeway. It's an environmental problem that there's actually an easy solution for. You don't want the animals to get hit. You build the crossing, they use it, done. But nobody has ever been crazy enough to try to put it in one of the most densely populated urban areas in the world, and over one of the busiest freeways on the globe. But we did it and these mountain lions and wildlife all around here now have a future. In a time where it's hard to know how to make a difference, we did. (END VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:04",
+      "speaker": "HARLOW",
+      "sentences": "Love that.Well, football starts tonight. I'm very excited about this --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:04",
+      "speaker": "MATTINGLY",
+      "sentences": "I can tell.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:04",
+      "speaker": "HARLOW",
+      "sentences": "-- and so is Phil Mattingly.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:04",
+      "speaker": "MATTINGLY",
+      "sentences": "I'm culpable (PH).",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:04",
+      "speaker": "HARLOW",
+      "sentences": "And Washington Commanders head coach Ron Rivera and his team face their first test of the NFL season this weekend. But Rivera has already overcome his biggest personal battle and that is cancer. How his on-the-field career impacted his off-the-field fight ahead.(BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:04",
+      "speaker": "RON RIVERA, HEAD COACH, WASHINGTON COMMANDERS",
+      "sentences": "Talking with my doctors, they both just said it's good to work. It's good for the body. It's good for the mind and soul. You've got to push yourself through. Well, I took that as I have to. I've got to. I must. I didn't realize --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:04",
+      "speaker": "HARLOW",
+      "sentences": "It sounds like an NFL coach to me.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:42:39",
+      "speaker": "HARLOW",
+      "sentences": "All right. So the NFL season kicks off tonight. Patrick Mahomes and the Kansas City Chiefs will be raising a Super Bowl banner before hosting the Detroit Lions. And as the Chiefs look to repeat, the Washington Commanders are looking to reset.NBA legend Magic Johnson met with players and the coaches yesterday for the first time since becoming a part of the new ownership team. Johnson, his partners, and the Washington head coach Ron Rivera are looking to turn things around for the Commanders after years of turmoil at the organization. But before becoming a coach, Rivera was a player, winning a Super Bowl ring with the Chicago Bears back in 1985 -- one of the greatest teams in NFL history. More recently, he won a bigger battle off the field, beating cancer all while becoming only the third-ever Latino head NFL coach. So I went there to Washington and sat down with him to talk about all of that and what he has learned about leadership not just on the field but in life. (BEGIN VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:42:39",
+      "speaker": "HARLOW",
+      "sentences": "So let's go to 2020. So you get this head coaching job.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:42:39",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Coach Ron Rivera.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:42:39",
+      "speaker": "HARLOW",
+      "sentences": "You have a big task not only to win but to change the culture of this organization. No small feat. Then we get hit by a global pandemic and you get diagnosed with cancer.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:42:39",
+      "speaker": "RIVERA",
+      "sentences": "Yep. I found a lump in my throat -- my neck, actually, when I was shaving one day and sure enough, I had throat cancer.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:42:39",
+      "speaker": "HARLOW",
+      "sentences": "So this is where you told your team --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:42:39",
+      "speaker": "RIVERA",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:42:39",
+      "speaker": "HARLOW",
+      "sentences": "-- you had cancer. Right here.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:42:39",
+      "speaker": "RIVERA",
+      "sentences": "Um-hum. We circled up over there and I just said guys, I want to share something with you. And I, you know, told them I was diagnosed with cancer.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:42:39",
+      "speaker": "HARLOW",
+      "sentences": "Were you scared telling them?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:42:39",
+      "speaker": "RIVERA",
+      "sentences": "Yeah, I was. Before I told the players I told my mom and dad and then my brothers. And then we came for a walk-through and throughout the whole time during the walk-through I'm trying to figure out well, what am I going to say? How do I say it?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:42:39",
+      "speaker": "HARLOW",
+      "sentences": "And you're a brand new coach.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:42:39",
+      "speaker": "RIVERA",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:42:39",
+      "speaker": "HARLOW",
+      "sentences": "How'd they react? What'd they say?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:42:39",
+      "speaker": "RIVERA",
+      "sentences": "One of my coaches, Randy Jordan, stepped up and led -- basically, led a prayer for me.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:42:39",
+      "speaker": "HARLOW",
+      "sentences": "Oh, wow.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:42:39",
+      "speaker": "RIVERA",
+      "sentences": "Yeah. It was very powerful. And then a lot of the guys came up and shook my hand or gave me a hug and just told me, coach, we're here if you need anything. Just let us know.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:42:39",
+      "speaker": "HARLOW",
+      "sentences": "Why not stay home? Why come to every game and be here every day? Get IV treatments --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:42:39",
+      "speaker": "RIVERA",
+      "sentences": "Because it's good for the mind.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:42:39",
+      "speaker": "HARLOW",
+      "sentences": "-- during halftime. Because it's good for the mind?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:08",
+      "speaker": "HARLOW",
+      "sentences": "It sounds like an NFL coach to me.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:08",
+      "speaker": "RIVERA",
+      "sentences": "Yeah.I didn't realize that if I'd gone into the hospital I'd have been fine. I didn't look at it that way. So I would just keep pushing. I kept pushing myself through.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:08",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Take your time, man.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:08",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "I'm with you, coach. My mom --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:08",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "(INAUDIBLE).",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:08",
+      "speaker": "RIVERA",
+      "sentences": "My mother would have been proud.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:08",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Yes, sir.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:08",
+      "speaker": "HARLOW",
+      "sentences": "One thing you've described your mom as doing, which is being this ultimate protector of your family. You said her duty was her family, her kids, and protecting us. She meant so much to you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:08",
+      "speaker": "RIVERA",
+      "sentences": "She did. When we won the Super Bowl and each player gets -- you know, you get your ring and you get a pendant that you can give, and I gave the pendant to my wife. But I also bought one for my mother.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:08",
+      "speaker": "HARLOW",
+      "sentences": "And where is it now? RIVERA",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:08",
+      "speaker": "HARLOW",
+      "sentences": "Despite the majority of NFL players being Black, the league has faced scrutiny over the years for its record on diversity, equity, and inclusion. Entering this season, Ron Rivera is one of only six minority head coaches.And you became the third Latino head coach in NFL history -- that's it. One, two, three. There are very few coaches of color in this league. Why?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:08",
+      "speaker": "RIVERA",
+      "sentences": "Not a lot of guys that look like me have played. And so, now you're starting to see more of it. I think more Hispanics playing the game, more Hispanics will be coaching the game. That will create that.But then you could say well, what about the Black players?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:08",
+      "speaker": "HARLOW",
+      "sentences": "I was just going to say aren't the majority of NFL players Black?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:08",
+      "speaker": "RIVERA",
+      "sentences": "Black -- yes, they are. And so, what I've done is I've consciously been out there and I look at all the candidates. I open up the candidates to everybody for whatever position it is and try to be very thorough. It's really opened my eyes in terms of getting to know who they are before I make my decision.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:08",
+      "speaker": "HARLOW",
+      "sentences": "Could the league do better?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:08",
+      "speaker": "RIVERA",
+      "sentences": "Yes, I think we can, and a big part of it is helping everybody by creating an opportunity for them to come together so now people get to know who they are.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:08",
+      "speaker": "HARLOW",
+      "sentences": "During what I'll call the NFL's kneeling flag controversy you went and reread the Constitution and the Bill of Rights in the middle of all of that.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:08",
+      "speaker": "RIVERA",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:08",
+      "speaker": "HARLOW",
+      "sentences": "Why?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:08",
+      "speaker": "RIVERA",
+      "sentences": "So, we were going to sign Eric Reid and he was one of the guys in San Franciso -- he knelt with Colin Kaepernick.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:08",
+      "speaker": "HARLOW",
+      "sentences": "Yeah.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:08",
+      "speaker": "RIVERA",
+      "sentences": "And the more I read and the more I looked at things the more I began to realize that this was not about flags. They're not denigrating the flag for the military. They were trying to bring attention to bad policing -- unfair policing.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:08",
+      "speaker": "HARLOW",
+      "sentences": "Injustice.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:08",
+      "speaker": "RIVERA",
+      "sentences": "Injustice, exactly.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:08",
+      "speaker": "HARLOW",
+      "sentences": "Did it help you understand your players better?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:08",
+      "speaker": "RIVERA",
+      "sentences": "Yes. If we really are going to be a free society then we have to truly understand it. I mean, I have no issues with the Second Amendment because of the right to own guns. It is an American right. But I think the concern and thinking is let's make sure we have gun education, gun safety.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:08",
+      "speaker": "HARLOW",
+      "sentences": "Do you think we have failed our children when it comes to gun violence in this country? I mean, you're a dad.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:08",
+      "speaker": "RIVERA",
+      "sentences": "Oh, yeah. I think we have failed our community, period.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:08",
+      "speaker": "HARLOW",
+      "sentences": "We're in Washington.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:08",
+      "speaker": "RIVERA",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:08",
+      "speaker": "HARLOW",
+      "sentences": "We're not very far from the Capitol. Do you have a message to Congress?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:08",
+      "speaker": "RIVERA",
+      "sentences": "I think a lot of it has to do with not being able to work together. We have political parties that need to work together and be able to reach across the aisle and come together and make good legislation -- good deals that can benefit everybody. They have to understand they are setting the tone and temperature for all of us.Team -- all say one, two, three.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:08",
+      "speaker": "HARLOW",
+      "sentences": "I wonder what real leadership means to you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:08",
+      "speaker": "RIVERA",
+      "sentences": "There are so many great examples out there of it from people like Nelson Mandela. I mean, just listening and reading some of the things that he has said and wrote. Being the leader that you would follow.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:08",
+      "speaker": "HARLOW",
+      "sentences": "What did Nelson Mandela teach you?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:08",
+      "speaker": "RIVERA",
+      "sentences": "Moreso than anything else is that you have to set the example. You have to. And then you've got to be committed and you've got to be willing to sacrifice. I mean, he went to prison because he believed in something.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:08",
+      "speaker": "HARLOW",
+      "sentences": "That's right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:08",
+      "speaker": "RIVERA",
+      "sentences": "If you don't believe in something so much that you're willing to go to prison, then maybe you're not a great leader.There's a great saying that says leadership is not about you but it will start with you. I think great leaders start with themselves. First and foremost, they're the ones that will stand up and say hey, that's on me. I've got to be better at it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:08",
+      "speaker": "HARLOW",
+      "sentences": "What's your biggest mistake?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:09",
+      "speaker": "HARLOW",
+      "sentences": "Well, you have a second chance now.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:09",
+      "speaker": "RIVERA",
+      "sentences": "I do.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:09",
+      "speaker": "HARLOW",
+      "sentences": "It sounds like you're making the most of it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:09",
+      "speaker": "RIVERA",
+      "sentences": "I'm trying to.(END VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:09",
+      "speaker": "MATTINGLY",
+      "sentences": "That's a good final point. We've talked a lot about this over the last couple of months -- just you and me in terms of the genesis of it and how you're thinking through it.What was the most important takeaway on leadership you got from sitting down?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:09",
+      "speaker": "HARLOW",
+      "sentences": "That when your life flashes before your eyes and you get a second chance you have to grasp it. I mean, that's what he did.I want to show everyone what he does before every game. His wife, Stephanie, who had a huge career. She was a college basketball coach, then a coach in the WNBA -- put her career to the side so that he could pursue this. And he makes sure to kiss her and acknowledge her before every single game knowing it's the people behind you that make what you do on television -- for him, you know -- so possible that we all see. But just a remarkable leader. And hearing what he said about Nelson Mandela, too --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:09",
+      "speaker": "MATTINGLY",
+      "sentences": "Yeah.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:09",
+      "speaker": "HARLOW",
+      "sentences": "-- and where leadership starts was -- it was really -- it was really inspiring for me. The idea came from our interview a few months ago with Coach K.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:09",
+      "speaker": "MATTINGLY",
+      "sentences": "Yeah.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:09",
+      "speaker": "HARLOW",
+      "sentences": "So more ahead.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:09",
+      "speaker": "MATTINGLY",
+      "sentences": "I can't wait to watch it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:09",
+      "speaker": "HARLOW",
+      "sentences": "Thank you.So this.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "NATASHA BERTRAND, CNN NATIONAL SECURITY REPORTER",
+      "sentences": "Yeah, Phil. So this is an excerpt of a biography written by Walter Isaacson that was obtained by my colleague Sean Lyngaas and it really provides a new window into Elon Musk's thinking about Starlink's role in the war in Ukraine.Now, as you said, according to this biography, Musk did, in fact, order his engineers to turn off Starlink's satellite communications for the Ukrainians when they were trying and planning to launch a sneak attack on Russia's naval fleet around Crimea. According to the biography, that was because he had spoken to Russian officials and he believed that doing so could prompt a response by Russia that was akin to a quote, \"mini Pearl Harbor\" and that Russia might actually respond by using nuclear weapons. And it also kind of delves into his ambivalence about using Starlink in a war setting writ large. He said, quote, \"How am I in this war? Starlink was not meant to be involved in wars. It was so people can watch Netflix and chill and get online for school and do good peaceful things, not drone strikes.\" Now, according to his excerpt, Ukrainian officials begged him to turn the satellites back on and he actually had a conversation with National Security Adviser Jake Sullivan, as well as the chairman of the Joint Chief of Staff Mark Milley about the anxieties that Washington had about Starlink's power and, of course, how he was kind of turning it off and on. But really, this just underscores how powerful Starlink is and how important Elon Musk and his services are to the U.S. government and the Ukrainian government, Phil.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "MATTINGLY",
+      "sentences": "Yeah, no question about it.Natasha Bertrand, great reporting. Thank you. HARLOW:  This morning, Goldman Sachs with a pretty stark warning that could affect your gas prices. Oil prices could triple -- hit triple digits by next year. This comes in the wake of Russia and Saudi Arabia announcing that they are extending their production cuts through the end of this year. If those cuts continue, Goldman Sachs predicts that Brent crude oil prices could catapult to $107 a barrel by December of 2024. Oil prices already hit new highs for the year, meaning gas prices will likely be next. Prices at the pump just hit the second-highest record for Labor Day weekend and typically, they fall at the end of the summer -- but they didn't this year.",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

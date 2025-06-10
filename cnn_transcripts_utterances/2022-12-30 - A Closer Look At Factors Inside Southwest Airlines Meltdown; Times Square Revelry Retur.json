@@ -1,0 +1,415 @@
+{
+  "date": "2022-12-30",
+  "headline": "CNN This Morning",
+  "subHeadline": "A Closer Look At Factors Inside Southwest Airlines Meltdown; Times Square Revelry Returning To Full Capacity Since COVID Restrictions; Tributes Pour In As Pele Remembered As Brazil's \"King Of Soccer.\" Aired 7:30-8a ET",
+  "utterances": [
+    {
+      "timeStamp": "07:32:15",
+      "speaker": "POPPY HARLOW, CNN ANCHOR",
+      "sentences": "All right. After a holiday travel meltdown, Southwest Airlines says it expects to return to normal today. It would be a welcomed respite from a chaotic week that saw thousands of flights canceled, hours-long delays, stranded passengers, a sea of orphaned baggage.Just yesterday, Southwest canceled more than half of its scheduled flights for the day. But this morning, the CEO Bob Jordan just spoke about what happened and how they're going to fix things. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:32:15",
+      "speaker": "BOB JORDAN, CEO, SOUTHWEST AIRLINES",
+      "sentences": "Let me just be straightforward here. The storm had an impact, but we had impacts beyond the storm that obviously impacted Southwest very differently. It really was the scope of the problems attempting to be solved just to move crews around, keep the airline moving.We have great tools. We have regular operations and those tools and processes serve us well. But this is something that we have really never seen in our 51 years. And we're making investments in our operational areas, like always. There will be lessons learned from this and we'll continue to make more investments. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:32:15",
+      "speaker": "HARLOW",
+      "sentences": "The federal government and Congress are going to look into how this happened.But what do we know so far? Why did this go so wrong? Southwest employees' union leaders blame the airline's reliance on antiquated booking and staffing technology. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:32:15",
+      "speaker": "MIKE SANTORO, VICE PRESIDENT, SOUTHWEST AIRLINES PILOTS ASSOCIATION",
+      "sentences": "And our software -- you can't keep track of it. So they don't know where we are. They don't know where our airplanes are. And it's just -- it's frustrating for the pilots, the flight attendants, and especially our passengers. And we're tired of apologizing for Southwest -- the pilots of the airline -- and our hearts go out to all of our passengers. It really does.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:32:15",
+      "speaker": "HARLOW",
+      "sentences": "So, we've learned this week Southwest has made some software improvements, right? CNN's reporting is that last year, the airline connected its reservation system with major booking software. That reservation system was overhauled in 2017. And in recent years, Southwest also introduced bar codes and scanners to replace pen and paper methods for counting checked bags.But according to these union officials and Southwest's own employees, other tools remain rooted in 1990's technology, and that was a key driver of this meltdown that took a very human toll. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:32:15",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "It's very frustrating. This was something I was looking forward to. I feel like they don't have a remedy for it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:32:15",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "I am beyond frustrated, and hurt because I can't see my dad. So, yes, it's very disappointing.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:32:15",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "I've been a longtime Southwest fan -- 20 years -- companion passholder. I travel a lot. This year has been a bad one. They have really disappointed me.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:32:15",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Do you have a message to the CEO if he's watching? What do you say to him?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:01",
+      "speaker": "HARLOW",
+      "sentences": "Experts also point to Southwest's point-to-point flying model. That has the advantage of offering direct flights between smaller cities with no layovers. At the same time, it can make it really hard to contain disruptions in particular regions.The other big carriers use what's called hub-and-spoke. You've heard that a lot this week, right? Well, that means more layovers, yes, but bigger hubs with more planes there, more crew, more pilots to jump in if needed. As Southwest faces the possibility of enormous fines from the federal government, there are real questions this morning about how the airline chose to spend its money in recent years. This morning, The Washington Post editorial board writes this. Quote, \"What's particularly egregious is the fact that Southwest had the money to upgrade systems but chose to hand it to shareholders instead. The airline recently announced it would pay a dividend again that amounts to $428 million a year.\" Southwest did get more than $7 billion from the U.S. federal government to help shore up its operations during the pandemic. It paid a quarter divided for years before the COVID crisis, signaling to Wall Street that the airline had cash to spare. \"In other words, given a choice, Southwest puts its investors ahead of its customers and crew.\" And we took a look at the 2019 annual shareholder letter in which Southwest wrote this. Quote, \"During 2019, the company continued to return value to its shareholders. The company returned $2.4 billion to shareholders through $372 million in dividend payments and $2 billion through four separate accelerated share repurchase programs.\" Those are the facts. Let's bring in Claire Taitte. She's a former manager at Southwest Airlines. She worked for years directing and planning scheduling of crews. Also, she was in charge of updating the technology that handled some of these scheduling systems. I do want to note she was bound by an NDA while a manager at the airlines, so she can't get into all the deep specifics. But she does have a lot of knowledge about this. So, Claire, thank you very much for joining us this morning. CLAIRE TAITTE, FORMER MANAGER, SOUTHWEST AIRLINES, AVIATION CONSULTANT (via Webex by Cisco):  Thank you, Poppy. Thank you for having me.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:01",
+      "speaker": "HARLOW",
+      "sentences": "I'd like to get to that question this morning that The Washington Post raises, and it's a question that's been on my mind when I looked at the shareholder letter a few years ago about how the airline chose to spend its money.They did a lot of dividend payments and they're continuing to do it. They did big share repurchases. And the technology, it appears, was not upgraded the way that it could have been. What do you make of that? You were there.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:01",
+      "speaker": "TAITTE",
+      "sentences": "I mean, I'm certainly not an investor relations expert. My expertise is in crew planning and crew scheduling. And for those who aren't familiar with those terms, crew planning makes the schedules kind of in advance. Crew scheduling handles the 24/7 operation of those schedules.And I saw huge technology investments during my career there. I spent 20 years in that area of the airline before I left in late 2020. And a lot of the technology upgrades and investments were things that customers and even crews don't see. For example -- and this is something that's publicly available -- Southwest made a huge investment to move the crew systems to the cloud with AWS in the more recent years. And that's sort of a foundational thing that has to be done before other capabilities can be developed.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:01",
+      "speaker": "HARLOW",
+      "sentences": "AWS being Amazon Web Services -- a big cloud -- a big cloud provider.So, you -- I mean, you make an important point. You were in there. You saw money going into technology for these systems that melted down during this crisis. Bob Jordan -- you just heard the current CEO say we're going to invest more. Is there an investment fix -- a money fix to this?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:01",
+      "speaker": "TAITTE",
+      "sentences": "I think it's not just a money fix. It's developing the capabilities, developing the technology. Airline scheduling and planning is more complex, in my opinion, thanany other part of the airline. It's a huge mathematical problem to solve. There are operations research groups studying this. And I'm not aware of technology that solves for an airline of Southwest's scope the crews, the customers, and the airplanes altogether in the daily operation. And that's what's really needed --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:01",
+      "speaker": "HARLOW",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:01",
+      "speaker": "TAITTE",
+      "sentences": "-- to get past something like this quickly.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:01",
+      "speaker": "HARLOW",
+      "sentences": "Yes, and you make a good point. You said that to The Washington Post as well, which is what I read and wanted to have you on.So, yesterday, we asked Lyn Montgomery, who is the head of the Flight Attendants Union. I should note your husband is a Southwest flight attendant. I asked her about --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:01",
+      "speaker": "TAITTE",
+      "sentences": "Yes, he is.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:01",
+      "speaker": "HARLOW",
+      "sentences": "I asked her about that and here's what she said -- listen.(BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:13",
+      "speaker": "HARLOW",
+      "sentences": "It sounds like she's saying Southwest may need to actually rethink how it operates. Maybe it doesn't have as many flights. Maybe the point-to-point system changes more to hub-and-spoke. I don't know.What do you think?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:13",
+      "speaker": "TAITTE",
+      "sentences": "Yes. I mean, that's a great question.I think what's really needed -- and this is not just an industry -- or not just a Southwest thing. I think it's an overall industry problem. Crew scheduling is a really complex job that takes about a year to learn to do the hardest parts, and it's kind of still an entry-level job -- and this is worldwide. I lead a -- I co-lead a LinkedIn group of airline crew and professionals called the Airline Crewing Enigma. And we call it the Enigma because no one really knows outside of those who do the job how it works. I think it's something that airlines really need to invest in the technology to do. Southwest, I agree, is a more difficult problem to solve being point-to-point. So, an airline who has more of a hub-and-spoke operation -- for example, one of our Southwest competitors -- if they cancel DFW to LaGuardia and back, that's a pretty easy crew problem to solve. But if a crew is scheduled to go from Oakland to Boise, to Denver, to Albuquerque on day one, and then fly to other cities on days two and three, that makes it really hard when flight two cancels, and then you have all these leftover pieces. So I think it's technology, it's training, and it's really having those operational plans.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:13",
+      "speaker": "HARLOW",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:13",
+      "speaker": "TAITTE",
+      "sentences": "I know that they instituted a plan this week to have extra hands on deck and taking phone calls, et cetera, and I think that helped them catch up. But I think one of the -- one of the things that happened -- and again, I don't know about flight volume. I'm sure there will be many analyses done on this.And I agree it's unacceptable. Southwest needs to do better. I think every Southwest employee would agree with that. But it's not an easy fix and I'm not sure that scaling back the airline or changing what makes it unique is the answer.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:13",
+      "speaker": "HARLOW",
+      "sentences": "Yes. And look, what makes it unique makes it more affordable for folks and makes it go small city to small city, and that's helpful. So no easy answers.Claire, you have made me understand this so much better, and I think our viewers, too. Thanks a lot.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:13",
+      "speaker": "TAITTE",
+      "sentences": "Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:13",
+      "speaker": "HARLOW",
+      "sentences": "Kaitlan.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:47:19",
+      "speaker": "COLLINS",
+      "sentences": "For the first time since 2020, crowds are expected to gather at full capacity in Times Square on New Year's Eve to bring in 2023. So, now let us bring in, live from Times Square, the president of the Times Square Alliance, Tom Harris.Tom, I know this is exciting news -- this idea of having everyone back there as it normally is. How has that affected your preparations for tomorrow night?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:47:19",
+      "speaker": "TOM HARRIS, PRESIDENT, TIMES SQUARE ALLIANCE",
+      "sentences": "So, first, thanks for having me.We're very excited to welcome everyone back to Times Square. We have been working for the last 364 days with the city of New York, with our production team, with our partners at Countdown Entertainment for this moment when we can welcome everyone back to Times Square.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:47:19",
+      "speaker": "HARLOW",
+      "sentences": "I have been there. I'm not going to be there this year. I've been there so many years pre-COVID. And it's just so incredible to be with the crowd. To talk to people from all over the world. And folks don't know, Tom, but they stand there for like 10 hours, before it even gets dark, just to get their spot.What are you most excited for?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:47:19",
+      "speaker": "HARRIS",
+      "sentences": "We're most excited to welcome people back. We're most excited that we are returning to a new normal. We're most excited that the whole world, at midnight, is going to -- going to turn to Times Square to see that ball drop so that we can look forward to 2023. We want to celebrate the present and then look forward to a fantastic 2023.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:47:19",
+      "speaker": "COLLINS",
+      "sentences": "Yes. I think a lot of people agree with that. We know you have a lot of work to do and you've done a lot of prepping. So, Tom, thank you for taking a few moments to join us this morning.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:47:19",
+      "speaker": "HARRIS",
+      "sentences": "Oh, thank you very much for having me. Happy New Year.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:47:19",
+      "speaker": "COLLINS",
+      "sentences": "Happy New Year.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:47:19",
+      "speaker": "HARLOW",
+      "sentences": "In just a few hours, House Democrats are set to release former President Trump's federal income tax returns. What we could learn from them ahead.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:04",
+      "speaker": "HARLOW",
+      "sentences": "Someone knighted by Queen Elizabeth --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:04",
+      "speaker": "LEY",
+      "sentences": "Yes --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:04",
+      "speaker": "HARLOW",
+      "sentences": "And when --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:04",
+      "speaker": "LEY",
+      "sentences": "-- exactly.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:04",
+      "speaker": "HARLOW",
+      "sentences": "And when Reagan -- I was so struck by reading about him that when President Reagan met him and stuck his hand out to him, he said my name is Ronald Reagan. I'm the President of the United States. You don't need to introduce yourself because everyone knows who Pele is.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:04",
+      "speaker": "LEY",
+      "sentences": "When you look at what -- for example, what Jordan did for basketball, what Gretzky did for hockey, what Babe Ruth meant to baseball, and you roll it all up together, you begin to approximate what this man did for soccer. It was said during the 1970s that three people could walk into any village on this planet and be recognized immediately, and that was Muhammad Ali, the Pope, and Pele.And even years after he played on the pitch -- I mean, a magnetic personality. And I remember I was seated about five or six feet from him at the World Cup in 1998. It was a thrill for us to be calling a game in France between Denmark and Brazil, and senor was right there. And we weren't alone. Everybody on press row was gaga. And he had been retired at that point for a quarter-century. He was electric. I had season tickets to the Cosmos and saw him play in person. And to have 80,000 sets of eyes on you -- and he knew it and he responded to it. And the poetry of his passing just 11 days after Lionel Messi -- we all rushed to knight him as the greatest of all time. But Pele had that it factor -- that magnetic smile -- that personality. And as good a player -- as great a player, as transcendent a player as Messi is. Pele, with that whole packaging -- you'd have to say, in reflection, was even greater.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:04",
+      "speaker": "COLLINS",
+      "sentences": "Yes. I mean, you had the poetry of that.Andy Warhol has this great quote. He said that he was the only person who contradicted --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:04",
+      "speaker": "LEY",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:04",
+      "speaker": "COLLINS",
+      "sentences": "-- his theory about the 15 minutes of fame because he said he's going to have 15 centuries of fame with the way he's remembered.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:04",
+      "speaker": "LEY",
+      "sentences": "It's the truth because wherever you would go in this world, he would -- he was a legend. It may not be true. In fact, he, I think, tried to dissuade people from believing it, but during the Nigerian civil war back in the '70s that his presence caused a truce for a -- for a match to be played. If it's not true, it's too good to not -- you know, to --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:04",
+      "speaker": "HARLOW",
+      "sentences": "No, it's true.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:04",
+      "speaker": "LEY",
+      "sentences": "-- tell as a story.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:04",
+      "speaker": "HARLOW",
+      "sentences": "They -- I read it. It was --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:04",
+      "speaker": "LEY",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:04",
+      "speaker": "HARLOW",
+      "sentences": "-- true yesterday.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:04",
+      "speaker": "LEY",
+      "sentences": "If it's on the internet it must be true.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:04",
+      "speaker": "HARLOW",
+      "sentences": "There you go.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:04",
+      "speaker": "LEY",
+      "sentences": "So we're all embracing these stories because of his personality and because -- yes, the -- you know, a lot of the numbers associated with him in the early years in Brazil -- the domestic numbers of goals -- they might be suspect because of the recordkeeping. But he was so important.I mean, back when he was a teenager, Brazil declared him a national resource so that European clubs could not swoop in and buy him. And so, he stayed with Santos. Santos, the city where Neymar grew up. And so, they share that link in that heritage.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:04",
+      "speaker": "COLLINS",
+      "sentences": "Such a special moment and who better to talk about it with than you, Bob. So thank you for joining us --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:04",
+      "speaker": "LEY",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:04",
+      "speaker": "COLLINS",
+      "sentences": "-- to talk about his legacy.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:04",
+      "speaker": "LEY",
+      "sentences": "Well, a pleasure. We celebrate him. And Happy New Year.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:04",
+      "speaker": "COLLINS",
+      "sentences": "Happy New Year to you.And CNN THIS MORNING is going to continue right now.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:04",
+      "speaker": "HARLOW",
+      "sentences": "We are so glad you're with the last hour of the -- for us --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:04",
+      "speaker": "COLLINS",
+      "sentences": "Oh!",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:04",
+      "speaker": "HARLOW",
+      "sentences": "-- of 2022.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:04",
+      "speaker": "COLLINS",
+      "sentences": "And at the end of the hour we're going to talk about our New Year's resolutions.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:04",
+      "speaker": "HARLOW",
+      "sentences": "Apparently, I have 60 minutes to make one. Kaitlan wore a sparkly -- no one can even see your great sparkly silver skirt --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:04",
+      "speaker": "COLLINS",
+      "sentences": "I know. I know.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:04",
+      "speaker": "HARLOW",
+      "sentences": "-- for New Year's.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:04",
+      "speaker": "COLLINS",
+      "sentences": "I'm ready for the new year. It's going to be great.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:04",
+      "speaker": "HARLOW",
+      "sentences": "We are glad you're with us. We have a lot of news this morning to get to. It is Friday, December 30. Welcome to CNN THIS MORNING.House Democrats set to release six years of Donald Trump's tax returns this morning, ushering in a new era of presidential oversight. The move just days before Republicans take control of the House and potentially begin a series of promised investigations into President Biden and his son, Hunter.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:04",
+      "speaker": "COLLINS",
+      "sentences": "Also on Capitol Hill, the House January 6 Committee is releasing more and more transcripts of all of those people that they interviewed, including one with Donald Trump Jr. What he said about why he went to the chief of staff instead of directly to his dad that day.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:04",
+      "speaker": "HARLOW",
+      "sentences": "And the CEO of Southwest Airlines speaking out this morning as the airlines takes steps to resume regular services today after thousands of canceled flights and week of travel headaches. That is putting it mildly. Travel crises across the U.S.(BEGIN VIDEO CLIP) DONALD TRUMP, THEN-CANDIDATE FOR PRESIDENT OF THE UNITED STATES:  I'm under a routine audit and it'll be released. And as soon as the audit's finished, it'll be released. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

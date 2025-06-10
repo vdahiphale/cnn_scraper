@@ -1,0 +1,451 @@
+{
+  "date": "2023-03-08",
+  "headline": "CNN Newsroom",
+  "subHeadline": "DOJ: Louisville Police Dept. Violates Constitution, Civil Rights Act; Sources: House Republicans Plot New Jan 6 Probes; Rep. Nicole Malliotakis (R-NY) Discusses About President's Budget Proposal, Deficit Cut and Increased Taxes on Wealthy and Corporations. Aired 3- 3:30p ET",
+  "utterances": [
+    {
+      "timeStamp": "15:00:18",
+      "speaker": "VICTOR BLACKWELL, CNN HOST",
+      "sentences": "Top of a new hour here on CNN NEWSROOM. I'm Victor Blackwell.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:00:18",
+      "speaker": "BIANNA GOLODRYGA, CNN HOST",
+      "sentences": "And I'm Bianna Golodryga.A police department compromised by routine discrimination and an affront to the people they have sworn to serve and protect. Those are the direct quotes from the Department of Justice's two-year investigation into the Louisville Police Department.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:00:18",
+      "speaker": "BLACKWELL",
+      "sentences": "Attorney General Merrick Garland announced these systemic problems his team found just days before the three year anniversary of the case that prompted the review, the death of Breonna Taylor, a black woman who was shot and killed during a no-knock raid on her apartment.(BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:00:18",
+      "speaker": "MERRICK GARLAND, ATTORNEY GENERAL",
+      "sentences": "The report finds that LMPD uses excessive force, including unjustified neck restraints and the unreasonable use of police dogs and tasers; conduct searches based on invalid warrants; unlawfully executes warrants without knocking and announcing; unlawfully stops, searches, detains and arrest people; unlawfully discriminates against black people and enforcement activities; violates the rights of people engaged in protected speech, critical of policing and along with Louisville Metro discriminates against people with behavioral health disabilities when responding to them in crisis.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:00:18",
+      "speaker": "GOLODRYGA",
+      "sentences": "CNN Senior Justice Correspondent, Jessica Schneider, joins us now.So Jessica, it's a really troubling and disturbing details from Attorney General Garland today. What happens next?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:00:18",
+      "speaker": "JESSICA SCHNEIDER, CNN JUSTICE CORRESPONDENT",
+      "sentences": "Yes, you heard that long list of problems listed out by the Attorney General. So what comes next here?Well, we've already heard from some Louisville officials, including the Mayor, they're vowing to make these changes, some of which they've already implemented. And on top of that, the City of Louisville has signed this agreement to work with DOJ on further changes, so that's all in the works here. But as for this 90-page report, it is really scathing and it documents these persistent problems and abuses that have gone on for years within the Louisville Police Department. So the report it's laying out in part this way. It says, \"For years, LMPD has practiced an aggressive style of policing that it deploys selectively, especially against black people, but also against vulnerable people throughout the city. LMPD cites people for minor offenses like wide turns and broken taillights, while serious crimes like sexual assault and homicide go unsolved.\" So as we saw Attorney General Merrick Garland, he was in Louisville today, he listed through that litany of problems with the department that includes the use of excessive force, unlawful arrests, invalid warrants and then he even gave examples of the blatant racism that some officers exhibit. Take a listen. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:00:18",
+      "speaker": "GARLAND",
+      "sentences": "Some officers have demonstrated disrespect for the people they are sworn to protect. Some have videotaped themselves throwing drinks at pedestrians from their cars, insulted people with disabilities and called black people monkeys, animal and boy. This conduct is unacceptable. It's heartbreaking.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:00:18",
+      "speaker": "SCHNEIDER",
+      "sentences": "And this investigation was announced two years ago. It was all in the wake of the death of Breonna Taylor during that botched police raid. The officials actually involved in that are currently facing federal charges and this report just adds to the finding of the DOJ.Today it was Breonna Taylor's mother and attorney Ben Crump who released statements about this and they said that these findings in their view is really an indicator that Breonna's death was not in vain because of all the work that they've done in locating these problems within the police department and that Breonna Taylor's family, they say, will keep fighting to protect community members from what they call the department's racist tactics and behavior. But the Attorney General did point out that a number of changes have already been made. No-knock warrants are no longer allowed in Louisville. Training has been revamped and now more mental health professionals are actually accompanying police on 911 call. So Bianna and Victor, changes in the works here, but a lot more to be done, guys.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:00:18",
+      "speaker": "GOLODRYGA",
+      "sentences": "Yes. We should note next week marks the three-year anniversary of Breonna Taylor's death as well.Jessica Schneider, thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:00:18",
+      "speaker": "BLACKWELL",
+      "sentences": "Well, today the Department of Justice also announced a new investigation into the Memphis Police Department. This one is rooted in the January beating death of Tyre Nichols.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:05:12",
+      "speaker": "BLACKWELL",
+      "sentences": "Mm-hm.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:05:12",
+      "speaker": "PROKUPECZ",
+      "sentences": "So the community calling for these changes and they're starting to see some of these changes. And all of this, of course, is happening as we were supposed to get video today.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:05:12",
+      "speaker": "BLACKWELL",
+      "sentences": "Yes, what happen to that?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:05:12",
+      "speaker": "PROKUPECZ",
+      "sentences": "Yes. So we were supposed to get video and then all of a sudden - we're supposed to get some 20 hours of video - and all of a sudden at the last minute, a defense attorney for one of the officers filed a motion asking the judge to preclude it from coming out.And so the judge agreed and now we're waiting. We just got a statement from the attorney for Desmond Mills, Blake Ballin, who released the statement after filing this order. And he essentially explains that he did this, because he wants to protect his client - the jury - and he says that police departments often uncover evidence that is irrelevant, prejudicial, misleading or inadmissible. The order issued today will allow all parties to review the information that the Memphis Police Department wants to release. And then he also says, look, he doesn't want stuff coming out that shouldn't come out. But ultimately, that's shouldn't be up to him.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:05:12",
+      "speaker": "BLACKWELL",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:05:12",
+      "speaker": "PROKUPECZ",
+      "sentences": "Right. That should be up to the Memphis Police Department and city officials there. So it's going to be interesting to see how this plays out in court, but he's trying to protect his client. He says, there's information that can come out that's not relevant.Well, what's being said in the public and what is going to be said eventually in court if this goes to trial, it'll be two different things, so we'll see how this plays out. But we're still expecting to see this video, the DA's office says they want to release this video. So it's going to come out at some point, they just need to figure some things out and work it out.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:05:12",
+      "speaker": "BLACKWELL",
+      "sentences": "How many hours again?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:05:12",
+      "speaker": "PROKUPECZ",
+      "sentences": "It was 20 hours.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:05:12",
+      "speaker": "BLACKWELL",
+      "sentences": "Twenty hours.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:05:12",
+      "speaker": "GOLODRYGA",
+      "sentences": "Well ...",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:05:12",
+      "speaker": "PROKUPECZ",
+      "sentences": "It's a lot of - and you know Victor one point, as you pointed out earlier, like ...",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:05:12",
+      "speaker": "BLACKWELL",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:05:12",
+      "speaker": "PROKUPECZ",
+      "sentences": "... he didn't object - this defense attorney didn't object to the other video coming out, why now all of the sudden. But I think he was looking for when he got a win here ...",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:05:12",
+      "speaker": "BLACKWELL",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:05:12",
+      "speaker": "PROKUPECZ",
+      "sentences": "All right, (inaudible) ...",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:05:12",
+      "speaker": "GOLODRYGA",
+      "sentences": "Temporarily.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:05:12",
+      "speaker": "PROKUPECZ",
+      "sentences": "Temporarily, correct.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:05:12",
+      "speaker": "BLACKWELL",
+      "sentences": "All right. Thank you, Shimon.Charles McClelland is the former Police Chief of Houston and Tammy Hawkins is a member of the Louisville City Council. Councilwoman, let's start with you and your reaction to what you heard from the Attorney General today the findings of their investigation.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:05:12",
+      "speaker": "TAMMY HAWKINS, LOUISVILLE CITY COUNCIL MEMBER",
+      "sentences": "Very disheartening. The information that was received today was very upsetting, unsettling. However, it just really confirmed the things that we have known or suspected for quite some time. GOLODRYGA",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:10:07",
+      "speaker": "BLACKWELL",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:10:07",
+      "speaker": "MCCLELLAND",
+      "sentences": "A pretextual stop intervene ...",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:10:07",
+      "speaker": "BLACKWELL",
+      "sentences": "Well, Council ...",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:10:07",
+      "speaker": "MCCLELLAND",
+      "sentences": "... and this is how things (inaudible) ...",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:10:07",
+      "speaker": "BLACKWELL",
+      "sentences": "Councilwoman, it's only been, what, a few hours since we've heard from Attorney General Garland, the findings of this investigation, but as you look forward on what needs to be done, and hearing what you did there from the former chief, is this an investment in training that's necessary? Do you see a need for a change in leadership to change the culture? Has the framework of a plan begun yet?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:10:07",
+      "speaker": "HAWKINS",
+      "sentences": "Well, my recommendation - well, first, let me say I support Chief Villaroel, I support the mayor and the administration. They adopted and inherited this and immediately as soon as they came in, they knew that something was coming down the pipeline ...",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:10:07",
+      "speaker": "BLACKWELL",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:10:07",
+      "speaker": "HAWKINS",
+      "sentences": "... they just didn't know exactly what everything was looking like, but they've already kind of been proactive. I really feel bad for Chief Villaroel and I'm going to work really hard with the community to help her bridge that gap.This was kind of thrown in her lap. I feel like that LMPD needs to follow the six key pillar of the 21st century policing that Obama put in place. I think that that would be a great addition, at this point. I feel like that the west end, which is my district, was a target for the VIPER Unit. And that was a great question that you asked, how do LMPD, how do the city recover from this. But my question is, how do my constituents ...",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:10:07",
+      "speaker": "BLACKWELL",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:10:07",
+      "speaker": "HAWKINS",
+      "sentences": "... recover from this.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:10:07",
+      "speaker": "BLACKWELL",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:10:07",
+      "speaker": "GOLODRYGA",
+      "sentences": "So Charles, to - Chief, to that point, you talked about developing trust with the community. I went back in when you were police chief back in Houston, in 2012, you met with community activists about alleged police brutality, you met with them for a little over an hour. And after the meeting, they had told a local news station that you 'listen to a list of suggestions during the meeting, you agreed to send a memo to patrol officers addressing the public's right to film officer's actions and you also agreed to make announced and unannounced visits to officers on night patrol'. How meaningful were meetings like those and should we see more of them amongst police chiefs and community members?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:15:04",
+      "speaker": "GOLODRYGA",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:15:04",
+      "speaker": "MCCLELLAND",
+      "sentences": "... for police chiefs across the country. You need to take heed, hire the right people, train them the right way, manage them the right way, make sure that you break down these systemic negative cultures and look at your specialized units.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:15:04",
+      "speaker": "GOLODRYGA",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:15:04",
+      "speaker": "MCCLELLAND",
+      "sentences": "I will ...",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:15:04",
+      "speaker": "GOLODRYGA",
+      "sentences": "I think ...",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:15:04",
+      "speaker": "MCCLELLAND",
+      "sentences": "... I will say this, that during the Obama administration, when Eric Holder was the attorney general, there was quite a bit of oversight over police departments across the country. When attorney Jeff Sessions came into office, there were little or no oversight. So I don't know if we'll bring it back toward that way under Attorney General Merrick Garland, but there are some systemic problems in law enforcement.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:15:04",
+      "speaker": "GOLODRYGA",
+      "sentences": "Well, you call it a wakeup call. I think we've had way too many wakeup calls (inaudible) ...0",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:15:04",
+      "speaker": "BLACKWELL",
+      "sentences": "Every six months, we're getting a wakeup call.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:15:04",
+      "speaker": "GOLODRYGA",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:15:04",
+      "speaker": "HAWKINS",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:15:04",
+      "speaker": "BLACKWELL",
+      "sentences": "Whether it's one of these reports or we're seeing another video of someone being killed on camera, there's been many wakeup calls.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:15:04",
+      "speaker": "GOLODRYGA",
+      "sentences": "Yes. We're all awake and aware.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:15:04",
+      "speaker": "BLACKWELL",
+      "sentences": "It's time to wake up.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:15:04",
+      "speaker": "GOLODRYGA",
+      "sentences": "Time to act on it.Charles McClelland ...",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:15:04",
+      "speaker": "MCCLELLAND",
+      "sentences": "Yes, but ...",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:15:04",
+      "speaker": "GOLODRYGA",
+      "sentences": "... and - I'm sorry, we're tight on time. We'll have you back for sure. And Councilwoman, Tammy Hawkins, thank you for your time. We appreciate it. It's an important conversation.Well, House Republicans are getting ready to launch multiple investigations into January 6th. One of their main points of focus how Democratic-led select committee investigating the attack in the first place. More on that ahead.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:20:48",
+      "speaker": "BLACKWELL",
+      "sentences": "The GOP is moving ahead in its mission to re-examine the January 6th insurrection. Sources tell CNN that House Republicans are starting to plan several investigations into the attack. Now, the potential areas of scrutiny include security failures, the Select Committee's actions and the treatment of January 6th defendants.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:20:48",
+      "speaker": "GOLODRYGA",
+      "sentences": "CNN's Manu Raju is on Capitol Hill with new reporting.So what are you learning, Manu?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:20:48",
+      "speaker": "MANU RAJU, CNN CHIEF CONGRESSIONAL CORRESPONDENT",
+      "sentences": "Yes. There are two separate committees that are going to be part of what's looking into January 6th and the aftermath different than how the Democrats looked into it in the Congress - in the last Congress.One, the House Oversight Committee looking to how January 6th defendants have been treated in the D.C. jail, that's been - there have been some concerns from - some far-right members have raised the concern, the chairman of that committee told me it's not going to be investigation per se, but he says he's going to create - allow for a tour of their facility to see how they have been treated. The judges who have looked into this have rejected the notion they have been treated unfairly and poorly. But nevertheless, they're going to look into that. And then there's going to be the actions of the Democratic-led committee itself. The Republicans on the House Administration Committee plan to look into how that select committee in the last Congress investigated. They say that there are shortcomings and they say they're going through all of the documents that they have obtained from this - from the Democratic-led investigation to see what holes, if any, there are and they plan to pursue that going forward. That's what Congressman Barry Loudermilk, who's going to help spearhead this probe going forward, told me earlier today. (BEGIN VIDEO CLIP) REP. BARRY LOUDERMILK (R-GA): January 6 Committee dropped the ball on what actually happened here in the Capitol. Where was the security failure?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:20:48",
+      "speaker": "RAJU",
+      "sentences": "Will you look into Trump's role in any of this?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:20:48",
+      "speaker": "LOUDERMILK",
+      "sentences": "We're not re-litigating 2020. We're not - we're looking at how the people got into the Capitol.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:20:48",
+      "speaker": "RAJU",
+      "sentences": "But all this exposing a divide within the Republican Party, particularly among a lot of House Republicans and Senate Republicans. One senator, Republican Mitt Romney told me today that he is concerned about this effort to sort of change the narrative about January 6, about the deadly violence that occurred that day, the hands of Trump supporters and he pushed back into any efforts to rewrite history.(BEGIN VIDEO CLIP) SEN. MITT ROMNEY (R-UT): A lot of people were injured, our building was severely damaged and efforts to try and pretend that it was something other than that are despicable and frankly dangerous, because it makes it more likely that people will think things like this are acceptable and they might try and do them in the future. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:20:48",
+      "speaker": "RAJU",
+      "sentences": "And, of course, this all comes as Speaker McCarthy had given access to FOX News' host Tucker Carlson of all this internal security footage from January 6th of that day. Carlson then went on air to downplay the events, causing a lot of concerns among Senate Republicans, some House Republicans as well. McCarthy, though, defiant in saying he does not regret doing just that claiming it's in the name of transparency, guys.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:20:48",
+      "speaker": "BLACKWELL",
+      "sentences": "Manu Raju for us on Capitol Hill. Manu, thank you.President Biden is set to deliver a major speech on his budget proposal tomorrow. But today, the White House is announcing a key focus. The President will propose cutting federal deficits by close to $3 trillion over the next decade, and says those cuts will be offset by tax increases on the wealthy and large corporations. (BEGIN VIDEO CLIP) JEAN-PIERRE: It proposes tax reforms to ensure the wealthy and large corporations pay their fair share while cutting wasteful spending on special interest interests like Big Oil and Big Pharma. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:25:06",
+      "speaker": "BLACKWELL",
+      "sentences": "So let's talk about potential savings. The New York Times is reporting that House Republicans are relying on a framework built by former President Trump's budget director, it includes a 45 percent cut in foreign aid. You served on House Foreign Affairs in last Congress, could you back a 45 percent cut in foreign aid spending, which of the overall budget is about 1 percent?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:25:06",
+      "speaker": "MALLIOTAKIS",
+      "sentences": "Yes. So I'd say that there are certainly savings. I was actually the ranking member on international organizations committee where he did oversee all that foreign aid and quite frankly there's a lot of money that's going overseas, where we don't know where it's actually going. There are no metrics in place.And that was one of the things that I constantly brought up in our hearings. If you look at Afghanistan, for example, there were billions of dollars that were spent in Afghanistan, whether it be through the Department of State or whether it'd be by the Department of Defense that went into areas where - they went to pay for ghost armies, for example, people that actually didn't exist. They built buildings that were never used. These are the types of concerns that we have with foreign aid.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:25:06",
+      "speaker": "BLACKWELL",
+      "sentences": "Sure, but on the 45 percent but, would you back a 45 percent cut to foreign aid?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:25:06",
+      "speaker": "MALLIOTAKIS",
+      "sentences": "I'm not - I can't commit to a specific number right now. I don't think it's about just a - throwing a number out there. I think it's got to be specific. What - where's the money going, why is it going there and is it fulfilling its purpose.But the truth is there are countries that do not support us, whether it'd be the United Nations, there are countries that do not like us and yet they still receive foreign aid and I think that has to be examined. My whole thing is to make sure that money is going towards its intended purpose and it's fulfilling its specific goal. And that is why I feel these inspectors general's reports is where we should be starting because they point out the waste, they point out the fraud, they point out the abuse ...",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:25:06",
+      "speaker": "BLACKWELL",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:25:06",
+      "speaker": "MALLIOTAKIS",
+      "sentences": "... and there is some cost savings to be had. But again, particularly with foreign aid, it needs to have a strategic purpose and a goal. And if we're not fulfilling that goal, then it should be looked to be cut.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:25:06",
+      "speaker": "BLACKWELL",
+      "sentences": "Let's talk about this first hearing today of this COVID subcommittee. You had the former CDC director there. There has been this claim by Republicans that there is some cover up of what the administration's - current administration knows about the origins of COVID-19. What did you learn today?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:25:06",
+      "speaker": "MALLIOTAKIS",
+      "sentences": "Well, look, Dr. Fauci who served in both the previous and the current administration said quite clearly that he didn't believe that the lab leak theory exam was accurate. In fact, he commissioned scientist to prove otherwise. And it seems that he had put his - wrapped his head around this narrative of the national - natural origin and did everything he could to debunk the lab leave theory, but now it's coming to light.Republicans have been saying this for quite some time that the lab leak theory is accurate and is most likely and even we're seeing agencies within this administration confirming that, whether it'd be the FBI, whether it'd be the Department of Energy. And so what we're finding out here is that Dr. Fauci seem to not want Americans to know that this was part of a lab leak. And quite frankly, it was a lab leak that came from the Wuhan lab, which by the way American tax dollars made their way there through the EcoHealth Alliance. And so what - one of the witnesses who was the former director, Mr. Red - Dr. Redfield of the CDC told us ...",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:25:06",
+      "speaker": "BLACKWELL",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

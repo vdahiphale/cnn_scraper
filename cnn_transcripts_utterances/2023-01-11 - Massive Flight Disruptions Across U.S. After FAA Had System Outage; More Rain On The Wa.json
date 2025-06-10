@@ -1,0 +1,415 @@
+{
+  "date": "2023-01-11",
+  "headline": "CNN Newsroom",
+  "subHeadline": "Massive Flight Disruptions Across U.S. After FAA Had System Outage; More Rain On The Way To California Reels From Massive Flooding; Senate Intel Calls For Briefing On Classified Documents Found In Biden Office. Aired 2-2:30p ET",
+  "utterances": [
+    {
+      "timeStamp": "14:00:00",
+      "speaker": "VICTOR BLACKWELL, CNN ANCHOR",
+      "sentences": "Hey there, I'm Victor Blackwell. Welcome to CNN NEWSROOM.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:00:00",
+      "speaker": "ALISYN CAMEROTA, CNN ANCHOR",
+      "sentences": "And I'm Alisyn Camerota.Airline passengers, again, frustrated after yet another episode of travel chaos. This one impacted virtually every airline at every airport in the country. The FAA grounded all outgoing flights in the U.S. for about 90 minutes this morning because of an outage of what's called the NOTAM system, that's a system that sends critical safety messages to pilots. The grounding set off a domino effect of disruptions.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:00:00",
+      "speaker": "BLACKWELL",
+      "sentences": "There are now more than 1200 cancellations, 7900 flight delays. It's been less than two weeks since Southwest's meltdown. And flights have been gradually taking off again, yes, but at this hour, it's still not known what exactly caused the system's failure. That's according to Transportation Secretary Pete Buttigieg. He said there's no sign it was terror-related.(BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:00:00",
+      "speaker": "PETE BUTTIGIEG, SECRETARY, DEPARTMENT OF TRANSPORTATION",
+      "sentences": "Somewhere overnight, there was an issue with irregularities in the messages that were going out. Now, we have to understand how this could have happened in the first place. Why the usual redundancies that would stop it from being that disruptive, did not stop it from being disrupted this time, and what the original source of the errors or the corrupted files would have been? When there's an issue in the FAA that needs to get looked at, we're going to own it, same as we ask airlines to own their companies and their operations.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:00:00",
+      "speaker": "CAMEROTA",
+      "sentences": "CNN's Amara Walker is at the world's largest airport. That's Atlanta's Hartsfield Jackson International. So, what's the situation at this hour Amara?AMARA WALKER, CNN ANCHOR &amp; CORRESPONDENT: Well, so flight operations have resumed as normal for the most part. But as you'd imagine, the airlines now have to play catch up because there's been a huge domino effect from the FAA ground stop earlier this morning. In fact, we are still seeing airlines delaying and canceled flight. The number keeps ticking up. I've been keeping track on flightaware.com. And in just the last two hours, the deglaze, the number of delays across the country in and out of U.S. airports went from 7000 to nearly 8000, and the number of cancellations now stands at 1200. So, look, it's causing a huge headache for so many passengers missing connections, missing flights home. One guy told me he missed a funeral that was supposed to be held today because of a delay when he was trying to get to New York. I don't have to remind you it was just two to three weeks ago that we saw a snowstorm basically send -- create a massive wave of chaos at airports and with airlines. We also saw that Southwest Airlines' meltdown. What we're seeing today, not as bad, but again, major problems after the FAA had a system outage. Here are some passengers. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:00:00",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "Well, my original flight was supposed to take off at 9",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:00:00",
+      "speaker": "THERESA CORNEJO, SOUTHWEST PASSENGER WHOSE FLIGHT WAS DELAYED",
+      "sentences": "So, I kind of thought it was a Southwest issue again. Luckily, I noticed it was red. It was the FAA issue, so it's everyone's affected not just us.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:00:00",
+      "speaker": "WALKER",
+      "sentences": "Yes, it was a nationwide issue to be clear. Now, even though the FAA lifted that ground stop hours ago, it is still important that all passengers before heading out to catch a flight to check with their airlines before doing so because a lot of flight experts are saying look, it may take much of the day for things flight operations scheduling to get back to normal, guys.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:00:00",
+      "speaker": "BLACKWELL",
+      "sentences": "Amara Walker for us there at the busiest airport in the world, Hartsfield Jackson, thanks so much.Joining us now is CNN aviation analyst Miles O'Brien and CNN business editor at large Richard Quest. Richard, let me start with you because when I heard this this morning, the first thing I thought was, was this a cyber-attack? The administration says no direct evidence of that. Is it too soon to rule it out?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:00:00",
+      "speaker": "RICHARD QUEST, CNN EDITOR AT LARGE",
+      "sentences": "Oh, yes. I mean, the secretary said no direct evidence, but they won't be happy until they can also say no indirect evidence and no evidence whatsoever. So, no, you can't take it off the table just yet.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:00:00",
+      "speaker": "BLACKWELL",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:05:06",
+      "speaker": "CAMEROTA",
+      "sentences": "Miles, do you have any thoughts on that? Because if it's not foul play, it's not a cyber-attack, what was the glitch that brought everything to a standstill?MILES O'BRIEN, CNN AVIATION ANALYST: I'm willing to bet this glitch has something to do with the fact that the FAA has been slow to modernize. We're talking about a system that was built in the 1950s and has been patched together with baling wire and duct tape ever since. The FAA has modernized fitfully and in starts over the years, in many cases for lack of funding. And so, what we have is a system that is held together by virtue of the amazing performance of the air traffic control personnel, against all odds. And it's important in aviation that there is redundancy. That's what gives us safety. And it's worth pointing out in this case that this is not necessarily a safety-of-flight issue. The remedy for no NOTAMS, no notice to air missions, is you stay on the ground, which is what happened, the flights in the air landed safely and that was that. Having said that, NOTAMS are a part of the greater picture of redundancy of safety. And they too should have redundancy. So, the FAA needs to look at this and look holistically at that technology that is still emerging into the satellite world after all these years.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:05:06",
+      "speaker": "BLACKWELL",
+      "sentences": "Richard, we heard from one of the women that Amara spoke with, that she thought it was Southwest and another described her previous delays. This may not be the same cause but it feels the same when you're sitting at the airport as an airport issue. What does this mean for passengers who have had a hell of a couple of years?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:05:06",
+      "speaker": "QUEST",
+      "sentences": "What do it means? Do you want the honest truth?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:05:06",
+      "speaker": "BLACKWELL",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:05:06",
+      "speaker": "QUEST",
+      "sentences": "What it means is it's going to cost money. You have to think of the aviation infrastructure as the backbone of the economy -- the modern economy, like railroads, like tracks, like roads, and if you don't -- as Miles is right, he says if you don't spend the money -- and yes, they've put billions into next-gen, and they've made it safer, then, they can make it more efficient, you've got to get more planes into the same airspace, you've got to update the systems but the truth is, you need to spend money. And that means overhauling this entire system.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:05:06",
+      "speaker": "CAMEROTA",
+      "sentences": "That sounds like a bit --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:05:06",
+      "speaker": "BLACKWELL",
+      "sentences": "Yes, expensive.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:05:06",
+      "speaker": "CAMEROTA",
+      "sentences": "It sounds expensive. And so -- I mean, Miles, back to what Victor was just referring to, we heard with Southwest, it was because they hadn't updated their technology. And so, if you're saying this is a glitch because, since the 50s, they haven't updated their technology, what are we looking at? I mean, this seems like it would be item number one on Congress's to-do list.O'BRIEN: You would think. But I would -- I would submit to you that the United States collectively doesn't do infrastructure very well. This is no different than crumbling bridges or potholes on the interstate or you pick your public works project that is in disrepair. We don't invest the way we should to keep our systems up to snuff. We had systems postwar, which were the envy of the world. And we're kind of riding on vapors in many cases. And in this case, the FAA is a system which could use some more attention to enter the space age as it were. It's still the 1950s age, we're still waiting for radars to spin around in places that look for airplanes when we have satellite technology that can do it instantaneously. So, it's moving in that direction, but not quickly enough. And this NOTAM problem is part of that whole big picture. If you want to have the safest system in the world, which we do, you need to continue investing in it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:05:06",
+      "speaker": "CAMEROTA",
+      "sentences": "Yes. Miles, Richard, great talking to you. Thank you for all the expertise. I'm not sure I feel any better, but I think we understand better what's going on. Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:05:06",
+      "speaker": "BLACKWELL",
+      "sentences": "More heavy rain and potential flooding are threatening parts of California as another wave of powerful storms pushes in. Right now, about 5 million people across the state are under flood alerts, at least 17 people have been killed and rainfall is 600 percent above average.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:05:06",
+      "speaker": "CAMEROTA",
+      "sentences": "Crews are busy clearing flooded neighborhoods after yesterday's downpours. Near Los Angeles, four people were stuck 15 feet underground. Take a look at your screen. This was a sinkhole that swallowed their cars. Some homes and cars in Monterey County remain underwater.CNN's Veronica Miracle is in San Francisco for us. So, it seems like there is no relief in sight based on your video.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:10:05",
+      "speaker": "BLACKWELL",
+      "sentences": "Yes. And it's impossible to start to clean up and recover because there's more coming in. That's been a problem for some time now. Veronica, thank you for the reporting.House Republicans are wasting no time with a new power and putting the pressure on the Biden family, particularly their finances. Also, President Biden says that he's surprised at the discovery of classified documents in its former private office. We're live on Capitol Hill with the latest.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:16:25",
+      "speaker": "BLACKWELL",
+      "sentences": "As new fallout in Congress over those classified documents found in President Biden's private office last fall, the Republican- led House Oversight Committee has launched an investigation accusing the president of compromising sources and methods with his handling of the documents.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:16:25",
+      "speaker": "CAMEROTA",
+      "sentences": "And now, bipartisan leaders of the Senate Intelligence Committee are requesting access to the documents as well as a damage assessment. President Biden says he was surprised to learn the documents from his days as vice president were still in his office. CNN's Jessica Dean is on Capitol Hill. So, Jessica, what are lawmakers saying?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:16:25",
+      "speaker": "JESSICA DEAN, CNN CONGRESSIONAL CORRESPONDENT",
+      "sentences": "Well, today, Victor and Alisyn, we're hearing from the Senate Intelligence Committee, the two top-ranking members on there, Democrat and Republican, Mark Warner and Marco Rubio, they are calling for the DNI to give them more information on these documents. They also want kind of a damage assessment on what it means that they were out there. This is very similar to what they did -- in fact, it's exactly the same as what they did after the Mar-a-Lago documents were found for former President Donald Trump.We're also hearing, of course, from Republicans, they're eager to pounce on this. House Speaker Kevin McCarthy is saying that Republicans -- or the Democrats have to eat their words, is what he said, on this issue. And then, of course, hearing from House Democrats as well, who say these are two very different issues that the Biden and his team handled this very differently than Trump, that these should be looked at in very different ways. So, that's kind of what we're hearing on the Hill today. And, of course, more to come. The Senate, of course, is out right now. We'll hear more from them when they get back in.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:16:25",
+      "speaker": "BLACKWELL",
+      "sentences": "So, let's turn now to Republican Congressman George Santos's, what did they call him, truth challenged?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:16:25",
+      "speaker": "CAMEROTA",
+      "sentences": "I think. And our truth avoidant.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:16:25",
+      "speaker": "BLACKWELL",
+      "sentences": "I --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:16:25",
+      "speaker": "CAMEROTA",
+      "sentences": "Wouldn't take your pick.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:16:25",
+      "speaker": "BLACKWELL",
+      "sentences": "OK, they work. So, Nassau County Republicans, the leaders there, they're calling for him to resign, Jessica. They want him to leave because of the lies about his resume, his personal life. Let's listen.(BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:16:25",
+      "speaker": "JENNIFER DESENA, NASSAU COUNTY REPUBLICAN COMMITTEE",
+      "sentences": "He's betrayed the public's trust and given insincere, glib, and insulting answers when asked legitimate questions about his finances and his background. By all accounts, he seems incapable and unwilling to take full responsibility for his lies and fabrications. Mr. Santos, haven't you done enough harm? I call on Mr. Santos to immediately resign.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:16:25",
+      "speaker": "BLACKWELL",
+      "sentences": "So, you caught up with Congressman Santos, what did he say? And what are his GOP colleagues saying on Capitol Hill?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:16:25",
+      "speaker": "DEAN",
+      "sentences": "Well, I don't think it's going to surprise either of you. He didn't say much. We really tried to get to him. He came out of his office right about the time that the Nassau County GOP was calling on him to resign. I'll let you see how that went.(BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:16:25",
+      "speaker": "DEAN",
+      "sentences": "Would you resign?REP. GEORGE SANTOS, (R-NY): I will not. (CROSSTALK)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:16:25",
+      "speaker": "SANTOS",
+      "sentences": "I'm going to need a little bit -- you know a little bit of space.(CROSSTALK)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:16:25",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "New York Republicans are calling you a disgrace. You will not resign?(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:20:05",
+      "speaker": "CAMEROTA",
+      "sentences": "That is really interesting. So, he wants to be on the Financial Services Committee, though Brazil is trying to get him back to sentence him for forging checks.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:20:05",
+      "speaker": "BLACKWELL",
+      "sentences": "And they're putting in questions about his financial disclosures too.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:20:05",
+      "speaker": "CAMEROTA",
+      "sentences": "True. OK, just -- (INAUDIBLE).(CROSSTALK)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:20:05",
+      "speaker": "DEAN",
+      "sentences": "100 percent. And that's what this whole ethics committee investigation they want it focused on purely on his financial disclosures.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:20:05",
+      "speaker": "BLACKWELL",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:20:05",
+      "speaker": "DEAN",
+      "sentences": "Where did this money come? How did he spend it? The irony is thick.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:20:05",
+      "speaker": "CAMEROTA",
+      "sentences": "Yes. Thank you very much, Jessica.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:20:05",
+      "speaker": "BLACKWELL",
+      "sentences": "Democratic Congressman Dan Goldman joins me now. Congressman, good to have you. I will get to your request for that ethics committee investigation in just a moment but let me read what else Congressman Santos said on Twitter. It's a bit more loquacious here.I was elected to serve the people of New York's third not the party and politicians. I remember -- I remain committed to doing that and regret to hear that local officials refuse to work with my office to deliver results to keep our community safe and lower the cost of living. I will not resign. The majority leader Steve Scalise says that the conference is going to handle this internally. I know you want him out, but do you think that he will be able to survive this? REP. DAN GOLDMAN, (D-NY): Well, I don't know if he'll be able to survive or not. I think the issue is whether the Republican Party is going to stand up to him and to say that we will not have a self- avowed fraudster in our party -- in our conference, or are they going to continue to wrap their arms around him and to make him a center of their party and voting with them part of this Congress. The fact of the matter is his lies deceived the voters. So, when he says on Twitter, I was selected by the voters. Yes, that's correct, through deception and fraud, and that's the problem. So, I'm very proud and happy to see that Republican Party chairs and other members of Congress are also calling for him to resign because this should not be a partisan issue. This is simply someone who deceived his way into a seat in Congress and is not fit to serve and should not be here.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:20:05",
+      "speaker": "BLACKWELL",
+      "sentences": "Short of resignation, you are working with Congressman Ritchie Torres, you filed this complaint and calling for an investigation for, as write right here, violations of the ethics and government act by failing to file timely, accurate, and complete financial disclosure reports as required by law. More than just the accusations of lying, some of which he's admitted to, you're saying that he committed a crime here?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:20:05",
+      "speaker": "GOLDMAN",
+      "sentences": "Well, what we're asking the Ethics Committee to focus on is the one area that we don't have real transparency into, which is his campaign finances and his financial disclosures. I can tell you as a former prosecutor, there are a number of red flags. How did he give $700,000 to his own campaign when the previous year he disclosed a salary of $55,000? There are numerous, numerous questions. And even some of his statements have indicated that his financial disclosures were false. So, the Ethics Committee investigation that we are asking for will focus on his finances, not on his litany of lies about his education, his professional experience, his religion, and other things that he used to deceive his voters.I wonder and I expect that the federal prosecutors in Brooklyn will be looking also at his finances to see if he may have committed campaign finance fraud. But George Santos, if he is not going to resign should cooperate fully with the Ethics Committee, should provide all the documents and materials underlying his campaign finances and his financial disclosures.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:20:05",
+      "speaker": "BLACKWELL",
+      "sentences": "All right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:20:05",
+      "speaker": "GOLDMAN",
+      "sentences": "And if he truly did nothing unethical, as he said, then the Ethics Committee will give him a clear pass and he can move on.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:20:05",
+      "speaker": "BLACKWELL",
+      "sentences": "Right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:20:05",
+      "speaker": "GOLDMAN",
+      "sentences": "And if not, he should be held accountable.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:25:05",
+      "speaker": "BLACKWELL",
+      "sentences": "So, these two cases, the Trump discovery at Mar-a-Lago, the Biden discovery, the details around them are very different. We understand that. But there is a special prosecutor overseeing an investigation into the Trump documents. Do you think there should be one, there's -- that one is necessary for the Biden document discovery?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:25:05",
+      "speaker": "GOLDMAN",
+      "sentences": "No, not based on what we know. If Donald Trump had turned over the 15 boxes of materials from Mar-a-Lago that contain classified information right after he was asked for them, then I'm sure there would not be an ongoing investigation. But the fact that he refused to turn them over voluntarily, he refused to turn them over pursuant to a subpoena that required the Department of Justice to issue and get a search warrant in order to obtain more documents --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:25:05",
+      "speaker": "BLACKWELL",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:25:05",
+      "speaker": "GOLDMAN",
+      "sentences": "Gives probable cause to believe that he was intentionally concealing those documents for some illicit purpose and that he was also obstructing justice. On the other hand --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:25:05",
+      "speaker": "BLACKWELL",
+      "sentences": "But, Congressman, let me -- let me ask you about the Biden discovery.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:25:05",
+      "speaker": "GOLDMAN",
+      "sentences": "Joe Biden found the documents -- he found the documents --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:25:05",
+      "speaker": "BLACKWELL",
+      "sentences": "In November.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:25:05",
+      "speaker": "GOLDMAN",
+      "sentences": "And he immediately notified -- yes. And he immediately, that same day, in November, notified the Department of Justice, as you would want anyone to do but so --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:25:05",
+      "speaker": "BLACKWELL",
+      "sentences": "But what about notifying the American people? This president, at the start of his administration committed to transparency, especially in the arena of national security. Why did this have to come out through a report two months after the discovery at the White House? Should the president, should the White House have disclosed this when they found them?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:25:05",
+      "speaker": "GOLDMAN",
+      "sentences": "These are classified documents that they did not know that to be there. You don't just go out and talk about classified documents as soon as you get them. You have to go through the proper procedures, notify the proper authorities, and make sure that there's a proper damage assessment to correct it.The issue here is intent. Did Joe Biden intend to conceal those documents? Did Donald Trump intend to conceal those documents? And if so, for what purpose? There's zero evidence that Joe Biden intended to conceal those documents in any way. And there's excessive amounts of evidence that Donald Trump tried to conceal the documents.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:25:05",
+      "speaker": "BLACKWELL",
+      "sentences": "All right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:25:05",
+      "speaker": "GOLDMAN",
+      "sentences": "For what purpose? We don't know.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:25:05",
+      "speaker": "BLACKWELL",
+      "sentences": "Understood.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:25:05",
+      "speaker": "GOLDMAN",
+      "sentences": "But it's not a lawful purpose.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:25:05",
+      "speaker": "BLACKWELL",
+      "sentences": "Understood. But the president, the White House could have disclosed that in November when they were found. Congressman Dan Goldman, thanks so much for your time.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:25:05",
+      "speaker": "GOLDMAN",
+      "sentences": "Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:25:05",
+      "speaker": "CAMEROTA",
+      "sentences": "Classes resumed today at the University of Idaho after the arrest of the suspect in the murder of those four students. What is next in this case?",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

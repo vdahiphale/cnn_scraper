@@ -1,0 +1,337 @@
+{
+  "date": "2023-03-13",
+  "headline": "CNN Newsroom",
+  "subHeadline": "Biden Speaks about Bank Failure; President Biden Reassures Americans about the Banking System; Rep. John Garamendi (D-CA) is Interviewed about Biden's Banking Comments; Trump Campaigns in Iowa; Kathie Obradovich is Interviewed about Trump in Iowa. Aired 9-9:30a ET",
+  "utterances": [
+    {
+      "timeStamp": "09:00:00",
+      "speaker": "JIM SCIUTTO, CNN ANCHOR",
+      "sentences": "Any moment now, President Biden will address the nation from that podium right there amid concerning questions about potential contagion in the U.S. banking sector. What does that mean for your money? A very good Monday morning to you. I'm Jim Sciutto.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:00:00",
+      "speaker": "ERICA HILL, CNN ANCHOR",
+      "sentences": "And I'm Erica Hill.So, President Biden expected to try to calm fears in a matter of moments when he does make his way to that podium. This, of course, amid the failure of two U.S. banks. We're talking about Silicon Valley Bank, which you've heard a lot of this weekend, as well as Signature Bank. The Biden administration is taking emergency action here. And there is the president. Let's listen in.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:05:06",
+      "speaker": "QUESTION",
+      "sentences": "Mr. President, what do you know right now about why this happened? And can you assure Americans that there won't be a ripple effect?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:05:06",
+      "speaker": "SCIUTTO",
+      "sentences": "Well, the president there with some notable comments. One, addressing steps already taken by his administration. He says, Americans can have confidence that the banking system is safe. Your deposits will be there when you need them. That a step taken over the weekend that but by this morning depositors will have access to their funds.Also notable, Erica, he says that no losses will be borne by taxpayers. This is going to be covered by fees paid into the system by banks. And bank leaders, the president said, will be fired.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:05:06",
+      "speaker": "HILL",
+      "sentences": "Yes, absolutely.Let's bring in now senior White House correspondent MJ Lee, CNN business -- chief business correspondent Christine Romans. So, Christine, starting -- let's pick up, because I heard you as we were both furiously scribbling notes here as we were listening to the president. The fact that he did point out management will be fired here, saying, listen, if they were at the helm when this happened, day don't deserve to be here now.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:05:06",
+      "speaker": "CHRISTINE ROMANS, CNN CHIEF BUSINESS CORRESPONDENT",
+      "sentences": "Yes, and they made some big mistakes, it looks like, in hindsight, right, when they didn't manage their interest rate risk properly. This is a company that took in a lot of money in deposits for many, many years and put those deposits into long-dated treasuries. And then as interest rates rose, those became less valuable. And, at the same time, when people started taking their deposits out because the tech sector had turned, then suddenly there was this mismatch for this bank. And as they tried to raise money, they raised actually alarms that they were in trouble. And then you had a run on the bank. So, that management is out.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:05:06",
+      "speaker": "SCIUTTO",
+      "sentences": "Yes.Christine, I have to ask you, because this is a first step, and I heard from a lot of folks this weekend saying the administration has to step in now to guarantee all even uninsured deposits, of course, because the FDIC limits to $250,000 for many banks. Big VC firms, but also small businesses had far more money in their accounts. Biden says, we will not stop at this. We will do whatever is needed. Notable, as well. What does that mean exactly? What additional steps was he opening to, if necessary?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:05:06",
+      "speaker": "ROMANS",
+      "sentences": "Well, he talked about more regulation to make sure this doesn't happen again. And I think that's really important. We had Dodd-Frank banking reforms after the last financial crisis and there had been lobbying. And in 2018, a loosening of some of those for banks, just like this one. So, I think there's going to be a postmortem look at whether these kinds of banks should all have better stress tests and have higher capital requirements.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:05:06",
+      "speaker": "SCIUTTO",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:05:06",
+      "speaker": "ROMANS",
+      "sentences": "So, that's a conversation to have.But this is just such a unique moment overall. I mean do you want the federal government guaranteeing every investment, every bank deposit?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:05:06",
+      "speaker": "SCIUTTO",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:05:06",
+      "speaker": "ROMANS",
+      "sentences": "And then you're essentially nationalizing the banks here.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:05:06",
+      "speaker": "SCIUTTO",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:05:06",
+      "speaker": "ROMANS",
+      "sentences": "So, I think it's important to note that in normal times, $250,000 or less, your deposits are guaranteed by the federal government. In this case, they're guaranteeing all of those deposits.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:05:06",
+      "speaker": "SCIUTTO",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:05:06",
+      "speaker": "ROMANS",
+      "sentences": "That's a really new moment.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:05:06",
+      "speaker": "HILL",
+      "sentences": "MJ, to that point, the president said he's going to be asking Congress to strengthen those rules. We heard from lawmakers on both sides of the aisle weighing in over the weekend. Is there a plan from the White House, is there a plan even from the president to speak to lawmakers and to get a sense of what that would look like when you're dealing, of course, with a divided Congress?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:10:02",
+      "speaker": "SCIUTTO",
+      "sentences": "Yes.Well, a message to the public, certainly also a message to the markets that open in 20 minutes now, watching those comments I'm sure very closely. MJ Lee, at the White House. Christine Romans, thanks so much.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:10:02",
+      "speaker": "ROMANS",
+      "sentences": "You're welcome.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:10:02",
+      "speaker": "SCIUTTO",
+      "sentences": "Joining me now, Democratic Congressman John Garamendi of California. He's one of the first lawmakers to be briefed on this given his district being out there on the west coast where a lot of this is happening.Congressman, thanks for taking the time this morning. REP. JOHN GARAMENDI (D-CA): Good morning.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:10:02",
+      "speaker": "SCIUTTO",
+      "sentences": "Has the government, has the administration taken sufficient steps now to make sure that this failure is confined to Silicon Valley Bank? Basically backing up uninsured deposits, as well as those that are insured up to $250,000. Is that a sufficient step in your view?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:10:02",
+      "speaker": "GARAMENDI",
+      "sentences": "What you have just seen over the last three days is extraordinary leadership. This president didn't dither, he didn't go sit there and wring his hands. He took very strong action. Action that in many ways is extraordinary, but absolutely necessary. He has put in place a secure American banking system.And this follows on what he did immediately after becoming president two years ago. He put together, with Congress, the American Rescue Plan. And that was for banks and businesses all across this nation. So, once again, we've seen extraordinary leadership by a very courageous president that's willing to step out front and settle down the situation and put this American economy on a solid footing.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:10:02",
+      "speaker": "SCIUTTO",
+      "sentences": "Let me ask you this, because we've been here before. We were here in the late 1990s. We were here in 2008, where banks and other investors go out on a limb, right? And the government steps in, certainly necessary to calm the markets, limit the losses, but in effect give bad investments and bad investors backup. Put the government behind them. You have this phrase, moral hazard that always enters in the conversation.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:10:02",
+      "speaker": "GARAMENDI",
+      "sentences": "Right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:10:02",
+      "speaker": "SCIUTTO",
+      "sentences": "Does this solution increase that sense of moral hazard, in effect? I mean is the U.S. again, what I'm saying out loud, bailing them out?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:10:02",
+      "speaker": "GARAMENDI",
+      "sentences": "No. No. Well, who's getting bailed out here? Certainly, the stockholders and the bank are going to lose - probably lose everything. Certainly the managers are going to -- they've been fired. They're losing. And so the equity in the bank itself is blown away.However, the depositors, who thought that they were dealing with a solid bank, they're going to be hold - they're going to be held harmless. And they'll be able to access their money. So, there are serious losers here. So, the moral hazard doesn't disappear. The moral hazard for the equity investors in the bank and the managers, they're gone. I mean, they've lost -- and that's the way it should be. But those of us -- now, I'm not in this bank -- but those men and women and businesses that thought they were dealing with a good, solid bank, they're not -- they're going to be held harmless. And that's the way it should be. And also do keep in mind that there was a run on the bank, a panic, a classic panic. The president and his administration stepped in and simply put a stop to it and said, no, we're not going to allow that to happen. And we're going to make sure that the banking system is solid. That is pure, solid, courageous leadership, because he's going to take heed.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:10:02",
+      "speaker": "SCIUTTO",
+      "sentences": "Let me ask you about --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:10:02",
+      "speaker": "GARAMENDI",
+      "sentences": "Look, nonetheless, the banking system is solid.Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:10:02",
+      "speaker": "SCIUTTO",
+      "sentences": "Let me ask you about the Federal Reserve's role here. You had Sheila Bair, former chair of the FDIC, over the weekend saying, the Fed has to stop raising interest rates now. Part of this, I don't want to get into the weeds too much, but by raising rates, bond prices go down. That depreciated, in effect, the assets that Silicon Valley Bank was relying on for its balance sheet here. But bigger picture, has the Fed raised rates so quickly to spark this bank panic here?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:15:07",
+      "speaker": "SCIUTTO",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:15:07",
+      "speaker": "GARAMENDI",
+      "sentences": "And, I'm sorry, that is not the right solution. Look at the corporate earnings. Take a look at the corporate earnings for the petroleum industry. Never been higher. Take a look at the corporate earnings for the rail industry. Never been higher.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:15:07",
+      "speaker": "SCIUTTO",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:15:07",
+      "speaker": "GARAMENDI",
+      "sentences": "Therein lies a lot of the problem. The price of gasoline, for sure.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:15:07",
+      "speaker": "SCIUTTO",
+      "sentences": "Let me just, very quickly, ask you this, because the president raised an issue here. You had Dodd-Frank passed in the wake of the 2008 financial crisis. There was a rollback of some of those regulations in 2008 under the Trump administration. President Biden has talked just then and prior about going back at that rollback, tightening some of these restrictions here.Is there any bipartisan support for that? Of course, Republicans control the House now. Could you get a coalition together to re- rollback or reverse the rollback of those changes in 2018?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:15:07",
+      "speaker": "GARAMENDI",
+      "sentences": "We should. We should make every effort to make sure that every bank, large, small, medium, and huge, all of those should have very strict regulations. You let this thing run wild and you're going to get collapses along the system.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:15:07",
+      "speaker": "SCIUTTO",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:15:07",
+      "speaker": "GARAMENDI",
+      "sentences": "So, yes, they should be held accountable. And we should do that. Will we do that? Well, let's hold ourselves to account here. I'm for it. We'll see whether Republicans are.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:15:07",
+      "speaker": "SCIUTTO",
+      "sentences": "Congressman Garamendi, of California, thanks so much for joining us.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:15:07",
+      "speaker": "GARAMENDI",
+      "sentences": "Thank you, Jim.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:15:07",
+      "speaker": "SCIUTTO",
+      "sentences": "We, of course, will be watching the markets when they open at the bottom of this hour. You see the futures there down a bit. We'll see if that changes as we get closer given the president's comments just now.Also ahead, former President Trump making his first visit to Iowa since he announced his 2024 run. CNN has new reporting about how some of his staunchest allies, once-staunchest, are now more lukewarm this time around.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:21:24",
+      "speaker": "HILL",
+      "sentences": "Just into CNN, former President Trump has no plans to testify before a New York grand jury investigating those alleged hush money payments to Stormy Daniels.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:21:24",
+      "speaker": "SCIUTTO",
+      "sentences": "Trump's attorney claims if Trump did, in fact, authorize the payment to Daniels, he did so as a victim of extortion. The D.A. had invited Trump to testify as required under New York law. Trump's former fixer and lawyer, Michael Cohen, he is expected to provide additional testimony today.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:21:24",
+      "speaker": "HILL",
+      "sentences": "Well, as Manhattan prosecutors weigh whether to charge former President Trump, he is making his way back to Iowa tonight, his first time in the state since launching his third bid for the White House.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:21:24",
+      "speaker": "SCIUTTO",
+      "sentences": "Despite his legal troubles, many Iowa voters tell us they are still with Trump, but the same may not be true for some of his former campaign officials and White House advisers.CNN's Alayna Treene joins us now this morning with her reporting (ph). Alayna, what are you hearing for those in Trump's inner circle? I mean we have seen some who were inner circle publicly break with him, though limited in number. You're hearing more in private?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:21:24",
+      "speaker": "ALAYNA TREENE, CNN REPORTER",
+      "sentences": "I am, Jim and Erica. I reached out to nine former Trump campaign officials who were with him from 2016, throughout his presidency, and only three of them are publicly willing to say that they support Donald Trump's third White House bid. Another three said that they wanted to remain neutral during the primary. And the other three refused to weigh in for the story or did not respond to our request for comment.And I'll just add, I think one of the most interesting things I picked up through the course of my reporting is about former Trump 2016 campaign manager Cory Lewandowski. Lewandowski remained very close within Donald Trump's inner circle throughout his time in office, but I'm told that he's recently been privately reaching out to Republican operatives and donors telling them not to support Donald Trump for 2024, and also pitching himself to potential other presidential campaigns, including that of Governor Ron DeSantis and Governor Kristi Noem. Now, Lewandowski denied that reporting to CNN, but I spoke with more than a dozen of people within Trump's orbit who have noted that Cory has been distancing himself from Donald Trump since the 2020 election. We also gave him an opportunity to reach out and endorse Donald Trump within the story, but he refused to do so.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:21:24",
+      "speaker": "HILL",
+      "sentences": "Interesting.Alayna, great reporting. Appreciate it. Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:21:24",
+      "speaker": "TREENE",
+      "sentences": "Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:25:02",
+      "speaker": "SCIUTTO",
+      "sentences": "Kathie, Iowa voters, as you know better than me, you know, they're known as being more knowledgeable. The process encourages engagement with voters as opposed to just being kind of a straight-up straw poll. And I wonder, given your experience covering so many of these, is Iowa a place that has the potential to stray from Trump, right, to give another candidate an opportunity, particularly even one, not just a DeSantis candidacy, but someone from kind of the more mainstream or moderate Republican strain of the party, like a Nikki Haley, or folks who are now positioning themselves in that lane?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:25:02",
+      "speaker": "OBRADOVICH",
+      "sentences": "Iowa is definitely a place, Jim, and you're right, that new candidates can audition. You know, they can come -- they don't have to be the most well-known or the party establishment favor. And they can come and get -- because it's a cheap market. You don't have to buy a lot of advertising. You can meet people one on one and get your message out.But the Iowa caucuses are also not the place for moderates, necessarily, because it requires this engagement. You get the activists. And the activists tend to be in the Republican Party from the more conservative wing. So, you know, conservative challengers running to the right of a lot of times what we would see in past cycles, the, you know, the Jeb Bushes or, you know, other establishment candidates, that's where that -- those insurgencies do very well here.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:25:02",
+      "speaker": "HILL",
+      "sentences": "We are in the early days, obviously, as we know, but I'm just -- I'm curious, as you look at this, as Iowa once again becomes the center, does anything feel different this time around or heading into 2024?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:25:02",
+      "speaker": "OBRADOVICH",
+      "sentences": "Yes. Well, first of all, the Democrats are not, you know, joining in on this cycle because the Democratic National Committee kind of blacklisted Iowa. So normally, you know, this would be a busier cycle with both parties in play. Also, I think, you know, it's interesting to me how unified the candidates' messages are so far. A lot of candidates coming to Iowa talking about education. And especially kind of the culture wars and education, that is what Ron DeSantis talked about. That's what Nikki Haley spoke about on her first trip to Iowa. I believe Donald Trump will be talking about education again tonight, as well. It's partly, you know, I think it's what they might think Iowa Republicans want to hear. That's what our legislature spent the entire year talking about so far. So, we'll see what happens.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:25:02",
+      "speaker": "SCIUTTO",
+      "sentences": "Kathie, so quickly here, can I ask you, is the discussion of a possible indictment in New York at all topic of discussion there? And does that, in your view, help or hurt a Trump candidacy in Iowa?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:25:02",
+      "speaker": "OBRADOVICH",
+      "sentences": "I don't think it matters to the electorate for the caucuses. A lot of those types of things are, you know, they attribute it to the media or to partisans in the judiciary or the -- you know, those kinds of things. I don't see them as taking that terribly seriously, but, there is a feeling among Republicans that Trump has too much baggage. And so, you know, this could be just a little part of that they consider to be baggage for him.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:25:02",
+      "speaker": "SCIUTTO",
+      "sentences": "Kathie Obradovich, thanks so much.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:25:02",
+      "speaker": "OBRADOVICH",
+      "sentences": "Thanks for having me.",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

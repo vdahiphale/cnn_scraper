@@ -1,0 +1,481 @@
+{
+  "date": "2024-03-09",
+  "headline": "CNN This Morning",
+  "subHeadline": "Biden And Trump To Hold Dueling Campaign Events In Georgia; Blinken Discusses Six-week Ceasefire With Egyptian Foreign Minister; Countries Planning New Maritime And Corridor Into Gaza; U.S. Economy Adds 275K Jobs In February, Beating Forecasts. Aired 7-8a ET",
+  "utterances": [
+    {
+      "timeStamp": "07:00:29",
+      "speaker": "VICTOR BLACKWELL, CNN ANCHOR",
+      "sentences": "My favorite day of the week, Saturday. Good Saturday morning to you and welcome to CNN THIS MORNING, Saturday, March 9th. I'm Victor Blackwell.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:29",
+      "speaker": "ISABEL ROSALES, CNN ANCHOR",
+      "sentences": "And I'm Isabel Rosales in for Amara Walker. Here's what we're working on this morning.Georgia, on their minds. President Biden and former President Trump have dueling appearances in the new southern battleground state as they both sharpen their attacks against one another.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:29",
+      "speaker": "BLACKWELL",
+      "sentences": "A clock is ticking to get a ceasefire deal between Israel and Hamas hammered out by the Ramadan deadline. Where the talks stand now? Plus, an exclusive look at the humanitarian aid that will soon be on its way to Gaza.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:29",
+      "speaker": "ROSALES",
+      "sentences": "And rising flood fears. Millions of people across the South are facing major flood threats today, where inches of rain could fall in just one hour.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:29",
+      "speaker": "BLACKWELL",
+      "sentences": "And the agency responsible for fighting off hackers is hacked. What we now know about the cyber-attack that forced two key computer systems offline.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:29",
+      "speaker": "ROSALES",
+      "sentences": "The Biden-Trump rematch is fully underway. Fresh off his State of the Union address, President Biden is set to hit the road on a battleground state swing that includes a dueling visit to Georgia. Biden and former President Trump are expected to make appearances today in the Peach State with Biden holding an event in Atlanta while Trump holds a rally in Rome located in the northwest part of the state.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:29",
+      "speaker": "BLACKWELL",
+      "sentences": "The Biden campaign hopes to continue the president's momentum coming out of the State of the Union address while Trump hopes to win over Nikki Haley voters after she dropped out of the race. Georgia was a key battleground state that Biden won in 2020 by fewer than 13,000 votes, if I have that memory right. Just less than a percentage point, it's the delegate prize and the only swing state among primary contests taking place on Tuesday. Super Tuesday put both Biden and Trump on the brink of having enough delegates to -- since their party's presidential nominations.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:29",
+      "speaker": "ROSALES",
+      "sentences": "CNN White House Correspondent, Camila DeChalus is in Wilmington where the president is starting his day. Camila, what are the messages that Biden is trying to highlight in his first campaign swing after State of the Union?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:29",
+      "speaker": "CAMILA DECHALUS, CNN WHITE HOUSE CORRESPONDENT",
+      "sentences": "Well, good morning, Victor, Isabel. Some of the things that Biden wants to highlight in his campaign speech in Atlanta and going forward is he wants to highlight some of the big things he's done in office, like his investing in public safety, how he's created thousands of jobs in the U.S. And he wants to highlight those things while also laying out what he plans to do if he gets re-elected to a second term.Now, another thing you're going to see him talk about is what's at stake in this upcoming election. Just in his speech yesterday in Philadelphia, he talked about his former predecessor. He mentioned him about eight times, and he really just emphasized that he is better suited, that Biden is better suited for the role, and that Trump poses a threat to democracy in the U.S. So, some of the -- those are some of the things that he's going to highlight moving forward. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:29",
+      "speaker": "JOE BIDEN, PRESIDENT OF THE UNITED STATES",
+      "sentences": "When you ride down the street, there's a Trump banner with a F-U on it and a 6-year-old kid putting up his middle finger. Did you ever -- no, I'm serious. Did you ever think you'd hear people talk the way they do? Look, it demeans, it demeans who we are. That's not who America, that's not America.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:29",
+      "speaker": "DECHALUS",
+      "sentences": "So, these are just some of the things that Biden is going to highlight going forward, is that how he believes that Trump poses a threat to democracy and how Biden wants to be reelected again because he believes that he will protect democracy and is better suited for the role.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:29",
+      "speaker": "BLACKWELL",
+      "sentences": "So that's some of what the president is going to employ on the campaign trail. What more do we know about other measures they're going to be using to ramp up this re-election fight?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:29",
+      "speaker": "DECHALUS",
+      "sentences": "Well, Victor, at this time we know that he plans to do two big things and that is he's going to invest heavily in advertisements. His campaign told us that they are planning to spend $30 million on an ad buy and they also are going to invest in hiring more grassroots organizers that can go door-by-door talking to voters and convincing them on why they should vote for Biden and reminding them of what he's done while he's been in office. Victor, Isabel.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:29",
+      "speaker": "BLACKWELL",
+      "sentences": "Camila DeChalus there in Wilmington, Delaware. Thanks so much.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:29",
+      "speaker": "ROSALES",
+      "sentences": "Secretary of State Antony Blinken engaged in discussions with the Egyptian Foreign Minister yesterday, exploring initiatives to secure a six-week ceasefire in Gaza. [07ANTONY BLINKEN, U.S. SECRETARY OF STATE: And in this moment, in this hour, we're also intensely focused on seeing if we can get a ceasefire with the release of hostages, the expansion of humanitarian assistance, and an environment for working on an enduring resolution. And there, the issue is Hamas. The issue is whether Hamas will decide or not to have a ceasefire that would benefit everyone. The ball is in their court. We're working intensely on it, and we'll see what they do. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:29",
+      "speaker": "ROSALES",
+      "sentences": "Meanwhile, President Biden cast doubt on the prospect of striking a deal to secure a temporary ceasefire by the start of Ramadan.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:29",
+      "speaker": "BLACKWELL",
+      "sentences": "And in a CNN exclusive, the European Union says that it hopes to launch an emergency maritime aid corridor from Cyprus to Gaza this weekend. CNN's Nada Bashir got an exclusive look.(BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:29",
+      "speaker": "NADA BASHIR, CNN CORRESPONDENT",
+      "sentences": "At the port of Larnaca in Cyprus, preparations are underway. Vital food supplies carefully loaded onto this barge, ready to be transported to Gaza.NGO workers at World Central Kitchen have been laying the groundwork for this mission for weeks. Following difficult ground crossings along Gaza's obstructed borders and limited airdrops, this is their latest effort to supply crucial humanitarian aid to the Palestinian people. Well, these pallets are filled with rice and flour. These volunteers are preparing to carry them by this vessel behind me to Gaza. This could be one of the first, if not the first aid missions transporting food and humanitarian aid by sea. Aboard the open-armed ship, volunteers and rescue workers assess the precarious route to Gaza's embattled coast. Their mission comes as the European Union, the UAE, and other international partners announce the opening of a new maritime corridor, allowing ships to carry humanitarian supplies from Cyprus to the besieged strip.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:29",
+      "speaker": "URSULA VON DER LEYEN, PRESIDENT, EUROPEAN COMMISSION",
+      "sentences": "Today we are facing a humanitarian catastrophe in Gaza, and we stand by the innocent civilians in Palestine.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:29",
+      "speaker": "BASHIR",
+      "sentences": "Search and rescue coordinator, Esther Camps, is herself preparing to make the journey to war-torn Gaza.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:29",
+      "speaker": "ESTHER CAMPS, SEARCH AND RESCUE COORDINATOR",
+      "sentences": "The worst part of the trip is 1.2 meters --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:29",
+      "speaker": "BASHIR",
+      "sentences": "This is a deeply complex mission, but one which is desperately needed as Gaza teeters on the brink of famine. CAMPS",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:29",
+      "speaker": "BASHIR",
+      "sentences": "The establishment of a new maritime corridor has been endorsed by the United States. President Biden himself directing the U.S. military to establish a temporary port on Gaza's coast to facilitate access for humanitarian supplies.Israel, for its part, says it welcomes the development and will continue to coordinate with international allies. But U.N. experts have accused Israeli leaders of \"intentionally starving\" the Palestinian people in Gaza. With over half a million according to the U.N.'s World Food Program now at risk of starvation. While this is being welcomed by many aid agencies as a positive development, there are still many unknowns as to how this maritime corridor will work in practice and how exactly the humanitarian aid being transported by the ships will be transported across to Gaza, and, of course, distributed on the ground and the message that we are still hearing from aid organizations is that while this is a positive development. They still want international partners including the United States to pressure Israel to allow more aid in via land through those crucial land border crossings. We are not seeing enough aid getting in. It is a drop in the ocean in comparison to what is needed. And of course, those warnings of a potential famine looming now in Gaza are only growing with each passing hour. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:29",
+      "speaker": "BLACKWELL",
+      "sentences": "Nada Bashir reporting from Cyprus thanks so much. With me now is CNN Global Affairs Analyst, Kimberly Dozier. Kim, good morning to you. Let's start here with the development of this maritime aid corridor. There are also now the airdrops from the U.S. and other nations. You're back from a week in Baghdad. What's the reception, the reaction to now this degree of aid beyond what's coming through Rafah there? How is this being received?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:10:47",
+      "speaker": "BLACKWELL",
+      "sentences": "The ceasefire and the hostage release that the president and others that hope to broker to start before the beginning of Ramadan, which is Sunday evening, unlikely to happen. So, what does this next phase of the war, both militarily with this operation in Rafah that is likely to come from the IDF, and geopolitically as we watch this next phase, what are the ramifications as this ceasefire does not begin?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:10:47",
+      "speaker": "DOZIER",
+      "sentences": "Well, from Hamas's perspective, it put the cost for a ceasefire very high, and by refusing to allow a ceasefire, it knows it's not going to head off, essentially, an offensive by the Israelis in Rafah, an offensive that is aimed at hitting the top Hamas leadership, and also, the Israelis believe, uncovering a network of tunnels between Gaza and Egypt that Israel believes facilitated the delivery of the kind of supplies that helped Hamas carry out the October 7th attack.So, if you've got another Israeli assault going on, on an even more populated area, this will further enrage the Arab and Muslim world and further strengthen the Palestinian cause as Hamas sees it. Again, that's some of what I heard in Iraq. They see this as an unjust assault against the Palestinians, and they see it as Israel also trying to prove to the Arab world that, hey, we are still as invincible and strong as you always thought we were. Don't think that because October 7th happened, you can catch us unawares. And the Arab world, Iraqis believe that the Palestinians are bearing the brunt of that message and that we've got more to come with a Rafah assault.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:10:47",
+      "speaker": "BLACKWELL",
+      "sentences": "I want to ask you about it -- and when I saw this, I knew I wanted to talk to you about this Come to Jesus meeting that President Biden said after his State of the Union caught on a hot mic that he wanted to have with Benjamin Netanyahu.First of all, I imagine the president knew that that would be picked up. He's been going to these addresses since the 70s and he knows there are cameras around. What is on the other side of a Come to Jesus meeting with Benjamin Netanyahu? Is there any scenario in which aid would become conditional or military support would be withdrawn? What does that look like?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:10:47",
+      "speaker": "DOZIER",
+      "sentences": "Netanyahu knows that Biden is in a tough place politically, that if he were to somehow withdraw military aid right ahead of a presidential election, that that would be a club that the GOP, that Trump would use against him. So, yes, Biden can push Netanyahu hard, but Netanyahu is also fightingfor his own political survival against his, well, internal opposition, even members of his war cabinet who want his job to stay together, to keep his government together for another three years without it falling apart and triggering elections. He's got to keep the right-wing fringe of his government happy, and they don't want to see any concessions, they don't want to see a ceasefire. So, in a sense, Biden has a lot to lose politically but he can yell all he wants because Netanyahu has more to lose.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:10:47",
+      "speaker": "BLACKWELL",
+      "sentences": "Yes, and certainly now after there's this publicized Come to Jesus meeting moment Netanyahu is less likely to heed the, the calls of the U.S. Kim Dozier always enjoy the conversation. Thanks so much.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:20:12",
+      "speaker": "BLACKWELL",
+      "sentences": "Take a look at some headlines now. Today, President Biden is expected to sign the major funding bill the Senate passed on Friday.(BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:20:12",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "The yays are 75, the nays are 22. The motion is agreed to.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:20:12",
+      "speaker": "ROSALES",
+      "sentences": "The package of six appropriation bills keeps a slew of agencies afloat until September, diffusing fears of a partial government shutdown. The House approved the measure earlier this week. It is the latest in a series of last-minute votes by lawmakers to avoid shutdowns. However, they still need to pass a second group of bills ahead of a March 22nd deadline.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:20:12",
+      "speaker": "BLACKWELL",
+      "sentences": "Crews are working to recover 10 runway, runaway I should say, coal barges. They broke free from their towing vessel in Louisville, Kentucky on Friday. Officials say the lock on the McAlpine Dam are closed after the barges were spotted. Two were found submerged and the other eight were against the bridge on the Ohio River. The Coast Guard is working with the Army Corps of Engineers to recover all of them. No injuries were reported.Hawaii is installing fire detection sensors statewide after the deadly Lahaina wildfire. Officials say the early detection system gives first responders a critical advantage because the sensors can detect heat and use artificial intelligence to detect fire particles. Each sensor sends a text to fire officials when there's a problem. Eighty sensors will be placed across the island, with the first 20 installed and active in Maui by April 8th.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:20:12",
+      "speaker": "ROSALES",
+      "sentences": "Thunderstorms are drenching the southeast and putting 14 million people at risk for flooding. Tornadoes and damaging winds could also pose a threat to the region. CNN Meteorologist Elisa Raffa is in Atlanta, where Elisa, it got wet -- the streets were flooded last night.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:20:12",
+      "speaker": "ELISA RAFFA, CNN METEOROLOGIST",
+      "sentences": "Yes, we've been watching this creek here this morning rise. We had problems with it earlier in the week. Overnight here in Atlanta, we got an inch and a half of rain. But earlier in the week on Wednesday, we got nearly 2.5 inches of rain. So, this creek here, we're at Peachtree Creek on the Beltline, it's rushing.It's coming down fast. It's rising. And I'm not sure if you can tell at home, but there is like plastic garbage, plastic bags, cups. You can see our pollution just kind of lined up on the banks from where it had risen earlier in the week. So, this creek here did have some problems. We had the heavier rain to the south this go-around overnight, so that's what led to some of that flash flooding just south of Atlanta going into southern Georgia. If we take a look at the radar right now, you can see that the rain has really just spread up and down the east coast from upstate New York into Maine, all the way down through the Carolinas. And you can see the line of all of that lightning there in southern Georgia, where we have some of the more intense storms that have dumped some of that heavy rain overnight. We've got a tornado watch that's in effect, where we can see some of these spin-up tornadoes from southern Georgia, and then the Florida Panhandle. We also have those flash flood alerts as well, where you've had that heavy rain that fell on the overnight on already saturated grounds, because we had already gotten you know two to three inches of rain earlier in the week, tack on another two to three inches. I mean look at the estimated rainfall totals, looking at totals five to six inches over the last week. So, just really incredible and inundated and we'll continue to see this flash flood threat run up the East Coast as we go through the day today with that risk really stretching up into New York and New Jersey. As we go through the afternoon, we'll also continue to find that threat for the damaging winds and the isolated tornado threat as well. Guys.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:20:12",
+      "speaker": "ROSALES",
+      "sentences": "Elisa Raffa, thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:28:19",
+      "speaker": "BLACKWELL",
+      "sentences": "When President Biden is out on the campaign trail today, he'll be able to talk about a stronger-than-expected jobs report. The Labor Department says the U.S. companies created 275,000 new jobs last month, a healthy sign for the economy. CNN's Vanessa Yurkevich breaks down the numbers.(BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:28:19",
+      "speaker": "VANESSA YURKEVICH, CNN CORRESPONDENT",
+      "sentences": "A better-than-expected jobs report in February, 275,000 jobs added. A little hot, but not too hot. Just right. And that pushed the unemployment rate up to 3.9 percent, but that was largely because there are more Americans looking for work right now. And here are the sectors that led the way in terms of job gains in February. Health care added 67,000 jobs, government adding 52,000 jobs, and food and drinking places adding 42,000 jobs. This is historically where we have seen jobs added over the past year or so.Interesting though, in this report, we got revisions for the months of January and December. In January, we saw a blockbuster jobs report, 353,000 jobs added, but in this report, we're seeing that actually 229,000 jobs were added, less than February's number. So, still very good job growth, just not as strong as we initially thought. Also, worth pointing out that wages have cooled on an annual basis, 4.3 percent in February. That may sound a little scary to Americans who want more wages in their pocket, but that's actually encouraging news for the Federal Reserve who wants to see wage growth cooling a little bit, so that it is not outpacing inflation by that much because if people have more money to spend that means prices go up. It's a weird conundrum that people have to try to grapple with. But ultimately, at the end of the day, you have 4.3 percent of wage growth with an inflation rate of 3.1 percent. So, still covering the bills. But good news for the Fed that it's not pushing inflation higher at the moment. But this jobs report is considered to be a Goldilocks report. Not too hot, not too cold. Just right. Isabel, Victor?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:28:19",
+      "speaker": "ROSALES",
+      "sentences": "The FAA is investigating a pair of incidents involving United Airlines flights. In one incident, a plane loss a tire during takeoff.(BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:28:19",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "The last departure lost a wheel on departure, so, we're going to have to shut the runway down.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:28:19",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Do you guys know where that tire went?(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:28:19",
+      "speaker": "ROSALES",
+      "sentences": "And that happened in San Francisco. Officials say the tire -- look at that, damage several cars in the employee parking lot as if they needed that. Well, no one was injured, and the flight was able to land safely.In another separate incident, a United Airlines 737 Max 8 rolled off the runway, and into the grass shortly after landing in Houston yesterday. No one was injured in either of those cases. And an update in the incident that continues to make headlines. The Alaska Airlines Boeing 737 Max 9 door plug blowout two months ago. Remember that? Boeing now admits there may be no documentation of the work that led up to the door plug blowing out in midflight. Joining me now to discuss the problems Boeing is facing is CNN safety analyst and former FAA safety inspector David Sousie. David, good morning. Thank you for joining us.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:28:19",
+      "speaker": "DAVID SOUCIE, CNN SAFETY ANALYST",
+      "sentences": "Good morning. Good morning.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:28:19",
+      "speaker": "ROSALES",
+      "sentences": "What is your take on Boeing's delay in turning over the names of those employees who were on the door team? What do you think about that? And what should the government do next in this investigation?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:28:19",
+      "speaker": "SOUCIE",
+      "sentences": "Well, there is a couple of things here with those names. What was asked originally was what names is provided the names of the people who may have information about the door? So, Boeing did that. And now they're being asked to provide all the names of anyone that ever worked on the door, which is 25 individual employees.So, the fact that Homendy is saying that they are not cooperating or that they didn't provide something that was asked to them, that's simply not true. It was provided exactly the way that it was asked, and that's what Boeing did. So, I'm not sure that there is any kind of lack of cooperation on the behalf of Boeing. However, the fact that there was documented -- undocumented work done on that aircraft is an extreme violation of the Federal Aviation Administration rules. And that falls under the FAA, as far as punitive damages and any other things that could be done. Penalties, large fees against Boeing for doing so. So, that's another issue. It has nothing to do with the NTSB other than the NTSB makes recommendations for what should be done about it. But the FAA is the enforcement agency that will take action.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:28:19",
+      "speaker": "ROSALES",
+      "sentences": "Well, do you see this lack of documentation actually leading to something punitive here? And then, now, that the NTSB has those names, at what point do they get on the ground and actually start talking to these people?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:28:19",
+      "speaker": "SOUCIE",
+      "sentences": "Well, they should have done interviews with literally everyone involved at this point. And that's a little confusing to me was that the NTSB would be asking for this documentation at this point about who these people are. When you do an investigation, when the NTSB does one or the FAA does one. They go in and they interview the people. Who we sit down at the desk, and we talk to anyone involved, ask for names of other people that may have been on the shift that weekend. I am confused as to why that depth of investigation hasn't already been completed by the NTSB.But as far as sanctions, your question about sanctions and what should be done here, the FAA can charge sanctions for up to $25,000 per passenger for any violation of safety. In other words, they put that aircraft in the air with people and put them in danger. So that could be looking at severe fines of $25,000 per passenger and not just for that flight, but for every flight that occurred since they left those bolts out. So, we can be talking hundreds of millions of dollars at this point.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:28:19",
+      "speaker": "ROSALES",
+      "sentences": "Yes. That is a significant mole. The FAA, your former employer found multiple problems with Boeing's production practices following a six-week audit. That audit of course triggered by the door plug blowout. \"The FAA identified non-compliance issues in Boeing's manufacturing process control, parts handling and storage, and product control,\" according to a statement that they put out.And in a separate report before the door plug incident and found gaps in Boeing's safety culture. Even saying that employees were fearful of coming to management about safety concerns. I mean, how big of a deal, how much of a problem is that for a company that builds jets?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:01",
+      "speaker": "SOUCIE",
+      "sentences": "So, these whistleblower positions are extremely important. And the fact that it's being discovered now that, that channel that, the employees didn't feel that, that channel was there, and some of them didn't even know that, that channel was there, that does speak really loudly that there is a safety culture problem there at Boeing that we've known about for years. Now, they have made some management changes there that I think are going to make a huge difference. Katie, Lund, I think it is going to be taking that over. And that's something that's long been needed as a quality person that speaks directly to the employees on that -- on that line.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:01",
+      "speaker": "ROSALES",
+      "sentences": "OK, and I want to make sure to get to Malaysia Airlines Flight 370, because you literally wrote the book on this. Yesterday marked 10 years since its disappearance. Have there been any sort of technological advancements? Any new information coming in? Anything that gives hope to possibly closing the chapter on this aviation mystery? For the family, of course.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:01",
+      "speaker": "SOUCIE",
+      "sentences": "There actually is. And I want to take just a moment to say how hard this must be for the families, the hearts, I mean, even I was just involved from reporting aspect, and it really tugs at my heart, the fact that it's been 10 years. And I want to condole those families and friends that have lost people from this.But that being said, there is hope on the horizon, because Ocean Infinity has come up with some new technology. It's secretive. They won't even tell me what it is. But they do plan to go back out again. They've made a proposal to the Malaysian government that says no find, no fee. That's what their mantra is. And that's $100 million gamble they are making that they think that this new technology can find something now at this point, which would be a welcome bit of information for these families who've lost people. Yeah, that closure certainly needed. David Soucie, thank you for your time.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:42:04",
+      "speaker": "BLACKWELL",
+      "sentences": "This morning, two major cyber-attacks are affecting the operations of healthcare providers and government offices across the country. One of the attacks at a top cybersecurity agency that's part of Homeland Security.Ironically, the agency handles a cybersecurity tool that connects multiple levels of government.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:42:04",
+      "speaker": "ROSALES",
+      "sentences": "Well, that's not good. The other hack is leaving a devastating hole and the budgets of thousands of hospitals and clinics. Here to talk about both of those things, CNN cybersecurity reporter Sean Lyngaas.Sean, let's start with the cyber security agency hack. What do we know about that?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:42:04",
+      "speaker": "SEAN LYNGAAS, CNN CYBERSECURITY REPORTER",
+      "sentences": "Yes, Isabel. I mean, this is something that can happen not to trivialize it but to happen to all of us, because the agency uses this widely used software for VPN access, so that employees can connect to the network.And several weeks ago, when vulnerabilities were discovered in this product, which affected anyone using them, hackers started exploiting them as they do. And the agency was actually warning the U.S. government to shore up their systems and to update their software to defend against this and they themselves got hacked. So, they are trying to use this as a teachable moment to show that this can happen to anyone even if you are vigilant. However, it is having an effect on some of the systems that they -- that they manage. You mentioned, there is two systems that were shut down actually, sort of preventively to contain the hack. One contains information on assessments of chemical facilities on their security. And the other is a way of sharing tools with state and local governments on how to protect themselves. So not a trivial situation. However, they are telling us that it's not having any impact on their operations right now, Isabel.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:42:04",
+      "speaker": "BLACKWELL",
+      "sentences": "Yes. Putting the best face on this, seems like to use this as a teachable moment.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:42:04",
+      "speaker": "ROSALES",
+      "sentences": "Right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:42:04",
+      "speaker": "BLACKWELL",
+      "sentences": "See, this can happen to us, too. Let's talk about the fallout that's going on still from a major hack that happened or started days ago. Strain on financial -- a major financial strain also, on health care providers. What do we know about that one?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:04",
+      "speaker": "ROSALES",
+      "sentences": "And you're talking about real life impacts right there. The thought of a cancer treatment center potentially having to shut down from something like this.Sean, how are U.S. officials reacting to this hacking? That just now seems to be a reality? Right?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:04",
+      "speaker": "LYNGAAS",
+      "sentences": "Yes. Well, this is -- this is a sobering moment, right? Because the Biden administration has invested a lot in trying to prevent these types of things from happening. Obviously, the private sector is the private sector, the government can't mandate everything. However, they really didn't want to see something like this, where a single attack on healthcare companies having this ripple effect across the sector.One senior U.S. cyber official told me that it's shown that the health care system is sort of a house of car -- cards in terms of their resilience to these types of cyber-attacks. So, they're really looking for new ways to make this less damaging in the short and medium and long term.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:04",
+      "speaker": "ROSALES",
+      "sentences": "Sean, thank you for your time.All right. Let's talk \"FIRST OF ALL\". I feel like you have to say that with your chest.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:04",
+      "speaker": "BLACKWELL",
+      "sentences": "You ought to. Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:04",
+      "speaker": "ROSALES",
+      "sentences": "What do you got going on at the top of the hour?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:04",
+      "speaker": "BLACKWELL",
+      "sentences": "Oh, we've got a lot. A lot coming up. So, Biden and Trump are both in Georgia, the big swing state here today. We have two experts on how to get to the voters here in Georgia, specifically black voters. The largest percentage of black presidential voters of any state, second to Mississippi, which is in no way a tossup state here.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:04",
+      "speaker": "ROSALES",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:04",
+      "speaker": "BLACKWELL",
+      "sentences": "We actually have one black Republican who's here who says that she agrees remember what former President Trump said a couple of weeks ago about black voters and that mug shot, she says that there is some truth to that. We'll challenge her on that as well.Also, the parents of Tyre Nichols are here. You'll remember that he was beaten to death, police say by five officers in Memphis. There was an ordinance passed to stop these -- police stops for minor traffic violations. There is a bill that got through the Tennessee State House to override the Tyre Nichols Driving Equality Act. So, they are to with us, they want to speak with President Biden now.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:04",
+      "speaker": "ROSALES",
+      "sentences": "(INAUDIBLE).",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:04",
+      "speaker": "BLACKWELL",
+      "sentences": "Also, Reesa Teesa, and \"Who T.F. Did I Marry?\" We're getting into that.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:04",
+      "speaker": "ROSALES",
+      "sentences": "I'm obsessed with that story. I'll take you parts.(CROSSTALK)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:04",
+      "speaker": "BLACKWELL",
+      "sentences": "So, you're going to hear from her on the show as well. There is a lot going on at the top of the hour.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:04",
+      "speaker": "ROSALES",
+      "sentences": "Oh, yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:52:41",
+      "speaker": "BLACKWELL",
+      "sentences": "Another night, another record for women's college basketball star Caitlin Clark.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:52:41",
+      "speaker": "ROSALES",
+      "sentences": "Carolyn Manno joins us now live from New York. Carolyn, what is left for her to accomplish?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:52:41",
+      "speaker": "CAROLYN MANNO, CNN SPORTS CORRESPONDENT",
+      "sentences": "I know. It's a great question. You think she's done it all, right? She's having this dream season. She is such a superstar. And just one game after passing Pistol Pete Maravich, who become the NCAA division one, all-time leading scorer in college basketball, she is now the NCAA division one record holder for most three pointers in a single season.The Iowa star drained her 163rd triple of the year on Friday night, passing current Golden State Warriors star former Davidson Wildcat's Steph Curry. Now, she hit the big three in the fourth quarter after missing her first 11 attempts from beyond the yard. Sheets for 24 and that rare cold streak had no impact on the game's outcome as Iowa went on to win 95-62 over Penn State in the big 10 tournament quarterfinals. But afterwards, she was asked about her mock celebration after making the historic bucket. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:52:41",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "-- on the season.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:02",
+      "speaker": "JALEN BRUNSON, GUARD, NEW YORK KNICKS",
+      "sentences": "I follow the thousands of the situations. And what it could have been, and I'm just glad it wasn't.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:02",
+      "speaker": "MANNO",
+      "sentences": "And Timberwolves center, Rudy Gobert, let his frustrations get a better him, and it ended up costing his team dearly against the Cavaliers. This is Minnesota up by one with less than 30 seconds left in regulation.The officials whistle Gobert for a loose ball foul. He didn't like it and made a money gesture towards referee Scott Foster of flying the gambling might have influenced the call. Now, that drew a technical foul, which allowed Cleveland to tie the game and force overtime. And the Cavs went on to win 113-104 in the extra period. And guys, this is almost certainly going to be under review from the league. It could be facing a fine, a suspension, not his best moment. But a great moment for Caitlin Clark. She continues to delight us. BLACKWELL: Indeed, she does. Carolyn Manno -- (INAUDIBLE).",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:02",
+      "speaker": "MANNO",
+      "sentences": "I'll take it. I'll take it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:02",
+      "speaker": "ROSALES",
+      "sentences": "Yes, yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:02",
+      "speaker": "BLACKWELL",
+      "sentences": "Thanks so much.",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

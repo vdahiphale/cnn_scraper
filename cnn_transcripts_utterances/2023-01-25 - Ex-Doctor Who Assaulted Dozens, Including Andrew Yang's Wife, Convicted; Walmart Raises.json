@@ -1,0 +1,601 @@
+{
+  "date": "2023-01-25",
+  "headline": "CNN This Morning",
+  "subHeadline": "Ex-Doctor Who Assaulted Dozens, Including Andrew Yang's Wife, Convicted; Walmart Raises Minimum Wage To $14.00 In Effort To Recruit Workers; School Chief Denies Award Notification Delays Due To \"Equity.\" Aired 7:30-8a ET",
+  "utterances": [
+    {
+      "timeStamp": "07:30:00",
+      "speaker": "DON LEMON, CNN ANCHOR",
+      "sentences": "We've got to run, but I want to ask you do you think the former president will be indicted?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:30:00",
+      "speaker": "DUNCAN",
+      "sentences": "I think there's enough information for him to be indicted.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:30:00",
+      "speaker": "LEMON",
+      "sentences": "Are you concerned about violence?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:30:00",
+      "speaker": "DUNCAN",
+      "sentences": "I'm always concerned about violence. But I think that the tone and tenor in Georgia is that most folks don't believe the election was rigged. They do believe he overstepped his boundaries. And don't believe they'll be any sort of violence.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:30:00",
+      "speaker": "LEMON",
+      "sentences": "Thank you, both.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:30:00",
+      "speaker": "POPPY HARLOW, CNN ANCHOR",
+      "sentences": "Yes, thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:30:00",
+      "speaker": "LEMON",
+      "sentences": "Appreciate it. Thank you so much.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:30:00",
+      "speaker": "HARLOW",
+      "sentences": "Thank you very much.Well, ahead, a former New York gynecologist who has been accused of luring and sexually assaulting women to his office -- well, he has been convicted. One of his former patients -- a very brave Evelyn Yang, who spoke out. Now he's been held accountable. She's here with us live. (COMMERCIAL)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:04",
+      "speaker": "HARLOW",
+      "sentences": "Prosecutors call him a predator in a white coat. And now, a disgraced former gynecologist has been convicted of luring four women to his New York office in order to sexually assault them. But the accusations against Robert Hadden go well beyond those four victims. Dozens of other women accuse him of sexual abuse, including minors and pregnant women.But he cut a plea deal on many of those accusations years ago. CNN reported extensively on him in 2020, including this from our late investigative correspondent Drew Griffin. (BEGIN VIDEO CLIP) DREW GRIFFIN, FORMER CNN INVESTIGATIVE JOURNALIST (voice-over):  Dr. Robert Hadden served no jail time for his crimes. He cut a deal with the D.A.'s office in New York. GRIFFIN (on camera):  Patients weren't told the OB/GYN they were seeing had been accused of sex crimes. And in the weeks that followed, two of those patients would become his next alleged victims. GRIFFIN (voice-over):  Evelyn Yang was one of them. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:04",
+      "speaker": "HARLOW",
+      "sentences": "And you saw Evelyn Yang there. She is the wife of former Democratic presidential candidate Andrew Yang. She gave an exclusive interview to our Dana Bash about what she endured at the hands of Hadden. Brace yourself -- it is very hard to hear.(BEGIN VIDEO CLIP) EVELYN WANG, WIFE OF ANDREW WANG, SAYS CONVICTED NEW YORK GYNECOLOGIST SEXUALLY ASSAULTED HER, AUTHOR, \"A KIDS BOOK ABOUT SEXUAL ABUSE\":  I was in the exam room and I was dressed and ready to go. And then, at the last minute, he kind of made up an excuse. He said something about I think you're -- you might need a C-section. And he proceeded to grab me over to him and undress me, and examine me internally, ungloved. And, at first, I was a little bit like what's going on here?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:04",
+      "speaker": "DANA BASH, CNN ANCHOR AND CHIEF POLITICAL CORRESPONDENT",
+      "sentences": "And there was no one else in the room?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:04",
+      "speaker": "WANG",
+      "sentences": "No, no. In fact, when I think back to most of our exams, I don't think there was anybody in the room -- yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:04",
+      "speaker": "BASH",
+      "sentences": "You thought to yourself this isn't just inappropriate banter, this is much different.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:04",
+      "speaker": "WANG",
+      "sentences": "Oh, he -- I mean, at that moment, I knew that -- I knew it was wrong. I mean, I knew. I said -- I knew I was being assaulted.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:04",
+      "speaker": "HARLOW",
+      "sentences": "Hadden will be sentenced in April. He was convicted on four counts and each carries a maximum sentence of 20 years in prison.And Evelyn Yang is here now, as well as our chief political correspondent Dana Bash, who, with Drew, really brought this to light -- all three of you guys. So, thank you very much for being here. Evelyn is also the author of the book \"A Kids Book About Sexual Abuse.\" So, thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:04",
+      "speaker": "YANG",
+      "sentences": "Thanks so much for having me --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:04",
+      "speaker": "HARLOW",
+      "sentences": "I know you've --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:04",
+      "speaker": "YANG",
+      "sentences": "-- this morning.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:04",
+      "speaker": "HARLOW",
+      "sentences": "-- barely slept. It's almost three years to the day that you sat down with Dana and that we were all stunned watching your story. To see the conviction, what does it mean?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:04",
+      "speaker": "YANG",
+      "sentences": "Oh, my gosh, I've been waiting for this day for a really long time and I think it was such a victory for every woman involved. Every Hadden survivor I think now can rest easier knowing that finally, this man has been brought to justice.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:04",
+      "speaker": "HARLOW",
+      "sentences": "You were sitting in the courtroom --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:04",
+      "speaker": "YANG",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:04",
+      "speaker": "HARLOW",
+      "sentences": "-- when the verdict came down, and you were sitting alongside other victims.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:04",
+      "speaker": "YANG",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:04",
+      "speaker": "HARLOW",
+      "sentences": "And the reporting from the courtroom is they heard -- you know, there were quiet sobs when this --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:04",
+      "speaker": "YANG",
+      "sentences": "Some loud.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:04",
+      "speaker": "HARLOW",
+      "sentences": "Yes, some loud.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:04",
+      "speaker": "YANG",
+      "sentences": "There were a lot of tears. And I think we were just all holding it in. Holding it in for the duration of the trial, certainly, but even for longer. It's just this weight that we've all been carrying for a long time.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:04",
+      "speaker": "HARLOW",
+      "sentences": "This was a really long fight for you --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:04",
+      "speaker": "WANG",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:04",
+      "speaker": "HARLOW",
+      "sentences": "-- because you worked really closely with what was Cy Vance's D.A.'s office here in New York. And you were told basically, we're going to take this guy down. And then there was this plea deal.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:04",
+      "speaker": "YANG",
+      "sentences": "Right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:04",
+      "speaker": "HARLOW",
+      "sentences": "And you weren't even part of the plea deal.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:04",
+      "speaker": "YANG",
+      "sentences": "Right, right, and we had no say.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:04",
+      "speaker": "HARLOW",
+      "sentences": "How do you see this?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:04",
+      "speaker": "YANG",
+      "sentences": "We had no say in what kind of plea deal he was taking and, in fact, didn't know about it until after the fact --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:04",
+      "speaker": "HARLOW",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:04",
+      "speaker": "YANG",
+      "sentences": "-- until it was all done. And it was a disappointment for sure.And I think this is why we were all a little cautiously optimistic that the verdict would be -- would be positive in this case. And so, we were all gripping each other, literally, very tightly as the jury -- the jury came back in. And when we heard the words \"guilty\" we all let out this collective sigh of relief and a lot of tears, yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:07",
+      "speaker": "BASH",
+      "sentences": "Well, it's the work that Evelyn --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:07",
+      "speaker": "HARLOW",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:07",
+      "speaker": "BASH",
+      "sentences": "-- and her attorney, and all of the women who came out afterwards did.I can now say -- Evelyn, I hope I'm not breaching any confidentiality but I just want to say about -- kind of give you some insight about how this happened. It was -- I think it was Christmas Eve of 2019 and I had met you in Iowa on the campaign trail. And you called me and you said I just texted you a story. And I read the story about this plea deal that you're referring to and you said I am one of those anonymous women. I was assaulted by this man when I was pregnant. And we talked for a while and you said you wanted to come forward, but it was understandably very hard. And I was taking the train to New York to do the interview and it was touch-and-go, again understandably, because it was so emotional. And it was one of the hardest things that I've witnessed somebody do, which is to go there and to bring back all of the trauma -- real trauma that you experienced. And you did it because you knew that this was important not just for you but for so many other women. And then -- I mean, you -- correct me if I'm wrong, but since then -- that was about three years ago -- I mean, we just, with Drew Griffin's amazing reporting -- our team, Nelli Black and Patricia DiCarlo -- we saw woman after woman come out. How many women now that we know of --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:07",
+      "speaker": "YANG",
+      "sentences": "Hundreds.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:07",
+      "speaker": "BASH",
+      "sentences": "-- are his -- are survivors were in the hundreds.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:07",
+      "speaker": "YANG",
+      "sentences": "Upwards of 350. Thirty hundred and fifty women. And we believe that there are more. A lot of women actually still don't know. His former patients, to this day, don't know that he's a now-twice convicted sex felon.And there's still work to be done on that front, actually. Columbia and the hospital still has some work to do in terms of notifying previous patients. And every time I do an interview, more women come forward. And one of the first questions they ask is how did I not know about this? Because he's now -- he's been a known predator for many years. But I really credit and thank you. I want to say thank you, Dana, and to your team for creating the space for me to come forward. As you mentioned, it was an agonizing decision and I think you probably recall me canceling and rescheduling.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:07",
+      "speaker": "BASH",
+      "sentences": "I knew you'd remember that but that's OK. I understood.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:07",
+      "speaker": "YANG",
+      "sentences": "Yes. It -- but I have no regrets. I think the reason why I agonized over the decision is you just can't predict how the public opinion will treat you, especially women and minority women, in cases of sexual assault. But I don't have any regrets because as soon as I came forward, hundreds of women felt at ease to come forward as well. And that, in itself, was a big deal.But the journey that led to this day and this verdict, I think was a collective effort. So many of the women who came forward after me became incredible self-advocates and advocates for others. And we were able to pass the Adult Survivors Act in May, which actually opens up the window for all survivors of sexual assault in the state of New York to file a case in court no matter when the assault happened. So this will affect not just Hadden survivors but sexual assault survivors everywhere.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:07",
+      "speaker": "HARLOW",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:07",
+      "speaker": "BASH",
+      "sentences": "And Poppy, can I just say --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:07",
+      "speaker": "HARLOW",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:07",
+      "speaker": "BASH",
+      "sentences": "-- one more thing, please, briefly?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:07",
+      "speaker": "HARLOW",
+      "sentences": "Of course.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:07",
+      "speaker": "BASH",
+      "sentences": "The -- this is such a testament to the notion of sharing stories even when they're hard, and what an impact it can have. And that certainly happened with Evelyn. It's also a testament to shoe- leather -- shoe-leather reporting. And I just have to say that I hope that our late colleague DrewGriffin -- sorry -- is smiling from heaven --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:07",
+      "speaker": "HARLOW",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:07",
+      "speaker": "BASH",
+      "sentences": "-- that one of the many, many stories that he worked on has had such an impact to bring what we do -- what we want to do, at the end of the day, in our jobs -- which is shine a light on things and, in this case, justice. And his reporting brought justice to Evelyn and hundreds of other women.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:03",
+      "speaker": "BASH",
+      "sentences": "Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:03",
+      "speaker": "HARLOW",
+      "sentences": "-- Dana. Evelyn --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:03",
+      "speaker": "BASH",
+      "sentences": "Thank you, Evelyn.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:03",
+      "speaker": "HARLOW",
+      "sentences": "Thank you, Evelyn. You are brave beyond words. Your kids are always going to be so proud of mom for doing this. And getting the Adult Survivors Act passed is huge.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:03",
+      "speaker": "WANG",
+      "sentences": "Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:03",
+      "speaker": "HARLOW",
+      "sentences": "Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:03",
+      "speaker": "WANG",
+      "sentences": "Appreciate it. Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:03",
+      "speaker": "HARLOW",
+      "sentences": "Don.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:03",
+      "speaker": "LEMON",
+      "sentences": "Thank you all for sharing that. I really appreciate it. An important story.In the meantime, let's talk about what's happening when it comes to the economy and the country's biggest retailer, Walmart, raising its minimum wage. But some employees say it's too little too late. Our Rahel Solomon is here to explain. And Virginia's governor wages a new battle in the culture wars. Schools failing to notify students of prestigious recognitions as they apply for college. The Fairfax County school superintendent responds exclusively on CNN. (BEGIN VIDEO CLIP) GOV. GLENN YOUNGKIN, (R) VIRGINIA:  This idea of a golden ticket, as it is called, was withheld from them.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:03",
+      "speaker": "MICHELLE REID, SUPERINTENDENT, FAIRFAX COUNTY PUBLIC SCHOOLS",
+      "sentences": "To characterize that as a golden ticket would not be accurate.(END VIDEO CLIP) (COMMERCIAL)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:03",
+      "speaker": "LEMON",
+      "sentences": "So, America's largest private employer raising its minimum wage. Walmart, which has long been criticized by labor groups for low pay, announced Tuesday that it is bumping its starting pay rate to $14.00 an hour -- interesting.Joining us now is CNN Business correspondent Rahel Solomon. Rahel, thank you for joining us. What is behind this?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:08",
+      "speaker": "HARLOW",
+      "sentences": "The federal minimum wage is about to up from $7.25 an hour to a little over $9.00 an hour soon, so this would track that -- be above that. But Target, Amazon -- they've all already done this, right?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:08",
+      "speaker": "SOLOMON",
+      "sentences": "Right. So we can show you sort of how this compares to some of the other competitors.Walmart is still on the lower end of this starting range. So, again, Walmart saying $14.00, so that works out to $14.00 to $19.00 for most workers -- an average of $17.50. But you can see on your screen how that compares to some of its other competitors. And to this point, this is why some are still saying this isn't far enough. One statement that was sent to me from a nonprofit group saying, \"It seems like Walmart executives are finally listening to what Walmart associates have been saying for years, that we need higher wages to make ends meet in today's economy. But a higher poverty wage isn't enough. While today's\" -- meaning yesterday -- \"announcement is a step forward, it's late by a few years, actually, and short by at least $10.00.\"",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:08",
+      "speaker": "HARLOW",
+      "sentences": "Look, any amount more leads to progress.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:08",
+      "speaker": "SOLOMON",
+      "sentences": "Absolutely.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:08",
+      "speaker": "HARLOW",
+      "sentences": "Let's see what this brings.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:08",
+      "speaker": "SOLOMON",
+      "sentences": "And that's a great point.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:08",
+      "speaker": "HARLOW",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:08",
+      "speaker": "SOLOMON",
+      "sentences": "They will see this in their March second paycheck --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:08",
+      "speaker": "HARLOW",
+      "sentences": "OK.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:08",
+      "speaker": "SOLOMON",
+      "sentences": "-- so they'll see this soon.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:08",
+      "speaker": "HARLOW",
+      "sentences": "Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:08",
+      "speaker": "LEMON",
+      "sentences": "Rahel, thank you very much.Well, for the first time since the National Merit awards controversy began in Virginia, the Fairfax County school superintendent is speaking out exclusively to CNN. Multiple high schools there delayed notifications to students about their merit scholarships but called it human error. Parents and other critics say that the lapse was intentional and the state attorney general is investigating the matter. And for that, we turn to CNN's Athena Jones.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:08",
+      "speaker": "ATHENA JONES, CNN NATIONAL CORRESPONDENT",
+      "sentences": "Good morning.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:08",
+      "speaker": "LEMON",
+      "sentences": "Good morning to you.So, what's the latest? What do you know?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:08",
+      "speaker": "JONES",
+      "sentences": "Good morning.Well, you mentioned the state attorney general is investigating this matter. We know he's having a press conference this afternoon about investigations, so we're going to be asking his office if this is going to be coming up. Are we going to get an update on that? Meanwhile, we sat down with superintendent Reid, who wanted to set the record straight about what happened and assure the community they are making changes to ensure this does not happen again. (BEGIN VIDEOTAPE) JONES (voice-over):  A battle over National Merit honors is shaking up Virginia school districts.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:08",
+      "speaker": "REID",
+      "sentences": "To characterize that as a golden ticket would not be accurate.JONES (voice-over):  Fairfax County Public Schools superintendent Michelle Reid, in her first media interview, responding to criticism from Gov. Glenn Youngkin, who campaigned on changing education in Virginia. Youngkin slamming dozens of high schools for failing to notify students of their PSAT scores won them commendations as part of the annual National Merit Scholarship competition.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:08",
+      "speaker": "YOUNGKIN",
+      "sentences": "It impacts their ability to apply to college and for scholarships. And this idea of a golden ticket, as it is called, was withheld from them.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:08",
+      "speaker": "SHAWNNA YASHAR, PARENT OF THOMAS JEFFERSON HIGH SCHOOL STUDENT",
+      "sentences": "We didn't receive it until November 21 after the deadline has passed for early admissions and early acceptance. So we don't know. I mean, we're still waiting to hear back from colleges. We've gotten a few rejections.JONES (voice-over):  The governor arguing the commendations were withheld intentionally to avoid hurting the feelings of students who didn't win recognition.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:08",
+      "speaker": "YOUNGKIN",
+      "sentences": "They have a maniacal focus on equal outcomes for all students at all costs.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:08",
+      "speaker": "REID",
+      "sentences": "What I mean when I talk about equal outcomes is the opportunity for each and every student to achieve their unique potential.JONES (on camera):  Part of the thing that's got so many parents up in arms -- this idea that this wasn't human error. This -- that this was an intentional effort. What is your response to that accusation?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:08",
+      "speaker": "REID",
+      "sentences": "We celebrate each and every one of our students' unique contributions and achievements, and there is absolutely no division- wide effort to withhold recognition or not to honor hard work and achievement.JONES (voice-over):  Virginia's attorney general now investigating high schools across Fairfax County after eight of them delayed telling students they had been commended, including Thomas Jefferson High School for Science and Technology -- the top-ranked high school in the country.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:08",
+      "speaker": "REID",
+      "sentences": "We did initiate a third-party external review into the situation.JONES (voice-over):  In a letter to the community, Reid said the delay was likely due to human error.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:08",
+      "speaker": "REID",
+      "sentences": "We committed to contacting all of the colleges and universities of the early action, early decision schools that otherwise our commended scholars might not have had that information to notify.JONES (voice-over):  Lost in this war of words, students who were recognized with a commendation are actually out of the competition for National Merit Scholarships.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:08",
+      "speaker": "RITI LIU, SENIOR AT THOMAS JEFFERSON HIGH SCHOOL",
+      "sentences": "I think I might have even, like, thrown it away because I didn't really think much of it. I didn't put it, like, anywhere in my, like, honors section for college apps. (END VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:08",
+      "speaker": "JONES",
+      "sentences": "Now, Gov. Glenn Youngkin has proposed legislation in the General Assembly to require that schools notify commended students immediately.Superintendent Reid's office is already drafting division-wide guidance to do just that so this won't happen again. They are also going to try to work with the National Merit Scholarship Corporation to implement a layered notification strategy -- you know, emails -- some kind of system to make sure this information gets to these students.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:08",
+      "speaker": "LEMON",
+      "sentences": "So they're trying to figure it all out. Thank you, Athena.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:08",
+      "speaker": "HARLOW",
+      "sentences": "Thanks.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "HARLOW",
+      "sentences": "And we all know -- I feel this way sometimes -- flying can be scary. But one flight attendant has gone viral for going way above and beyond to calm one passenger's nerves, and he joins us live next hour.(COMMERCIAL)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "LEMON",
+      "sentences": "Good morning.Eighty million Americans under a winter storm alert as the threat of snow and tornadoes moves 2,000 miles across the country.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "HARLOW",
+      "sentences": "As California reels from three mass shootings in three days, Gov. Gavin Newsom calling out Republicans over guns in a new CNN interview.(BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "And we want the tape. We want the footage now. This is about transparency and dammit, we going to have it or we need a refund on our tax dollars.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Sir, sir, we have provided you the opportunity to talk.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "(INAUDIBLE).(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "LEMON",
+      "sentences": "Tensions high in Memphis where a Black man died after a beating by five police officers. The community demanding to see the tape, which the family's lawyer compares to Rodney King. HARLOW",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

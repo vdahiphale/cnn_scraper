@@ -1,0 +1,565 @@
+{
+  "date": "2023-07-31",
+  "headline": "CNN This Morning",
+  "subHeadline": "San Francisco Files Complaint against Twitter; ACL Injuries Plague Women's Soccer; Antarctic Sea Ice Plummets. Aired 8:30-9a ET",
+  "utterances": [
+    {
+      "timeStamp": "08:30:00",
+      "speaker": "POPPY HARLOW, CNN ANCHOR",
+      "sentences": "Safely attached to the sign. The city requires a permit.CNN has reached out to the city and X for comment. But joining us now, CNN's senior media analyst and \"Axios\" senior media reporter Sara Fischer. I don't know. It doesn't seem like San Francisco's going to make any of this very easy for Elon Musk. But he is continue - he is - he is set on staying there. He's not going to move it like they moved Tesla headquarters.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:30:00",
+      "speaker": "SARA FISCHER, CNN SENIOR MEDIA ANALYST",
+      "sentences": "No, he is not, which comes as a surprise, Poppy, because you'll recall when he moved Tesla's headquarters to Austin, he had some not very nice things to say about operating business in the state of California, and in San Francisco. But you can see why San Francisco is frustrated with this. You can't just come and erect a major sign with connectivity to electricity and not inform pedestrians crossing the street underneath it that there's construction going on. So, I could see where they are frustrated.And then, largely speaking, there have been issues with Twitter in San Francisco for months now. Whether it's Elon Musk refusing to pay rent, not being a very fair member of the city in trying to advocate for reforms. So, I can see why they are frustrated with Musk.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:30:00",
+      "speaker": "PHIL MATTINGLY, CNN ANCHOR",
+      "sentences": "You know, Sara, the -- there's a lot going on with Elon Musk and X to say the least. But we're also learning - you know, \"The New York Times\" reported, and now the Center for Countering Digital Hate has confirmed that Elon Musk, over the last year, threatened legal action against tech competitors. Obviously, employees, people involved with Twitter. He's also taking aim at an organization that studies hate speech. What do you know about this?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:30:00",
+      "speaker": "FISCHER",
+      "sentences": "Yes, so the Center for Countering Hate is a nonprofit. And they put out a lot of research that shows how hate speech has evolved on the platform, and other platform, but particularly they've put out a lot of data about hate speech under Elon Musk on Twitter. And this has been something that has irked Elon Musk for a long time, in part because he doesn't believe that third-party researchers know what's happening on the platform better than he does. You know, my argument would be, Elon Musk just started to putTwitter's API behind a pay wall. So, if you want people to be able to research and get the access to the data in a fair way, why don't you make it free. But this is part of a larger problem for Elon Musk and Twitter, right? He's trying to go after people who are researching the platform for hate instead of trying to actually tackle the issues with hate speech. And that, as we've spoken about on this show, is a larger business problem for the company.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:30:00",
+      "speaker": "HARLOW",
+      "sentences": "One of the other pieces of reporting from \"The Times\" that I think is so interesting is that there was a deal made back in June for the Pentagon to buy some Starlink connectivity in Ukraine. Explain to people what Starlink is, why it has been so vital for Ukraine in this war that Russia has waged, and what it would mean for the Pentagon to have this ownership.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:30:00",
+      "speaker": "FISCHER",
+      "sentences": "Yes, massive report out from \"The New York Times.\" Starlink is an internet platform that allows people to get access to online through satellites. And it's pretty revolutionary because for a long time, Poppy, that wasn't a very reliable way to get internet access.Elon Musk owns Starlink. That's his company. And in February 2022, when the war broke out, Ukraine urged Elon Musk to bring Starlink to Ukraine. And to his credit, Elon Musk moved very quickly.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:30:00",
+      "speaker": "HARLOW",
+      "sentences": "He did.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:30:00",
+      "speaker": "FISCHER",
+      "sentences": "And I will say this, without Starlink, Ukraine would not have the huge critical advantage of connectivity in this war.The challenge, though, Poppy, is that Elon Musk has discretion over where he puts these satellites. And the Pentagon is growing concerned that if Ukraine is so reliant on this private company, Starlink, and Elon Musk has the ability to say no to some of the requests or move satellites, then that would put Ukraine and thus our national security in a pretty perilous situation. So, what \"The New York Times\" reported is that the Pentagon is trying to buy some of these satellites from Starlink so that it can unilaterally ensure that the connectivity remains in Ukraine and that Elon Musk can't sort of pull the rug out from underneath them. I will say, though, Poppy, for all of the saga and the drama that we talk about with Elon Musk, this is a very good example of ways that his innovation to help to make the world better.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:30:00",
+      "speaker": "HARLOW",
+      "sentences": "Yes, it certainly is. That's a great point.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:30:00",
+      "speaker": "MATTINGLY",
+      "sentences": "Hey, Sara, can I ask, if you lived across the street from Twitter headquarters and you had a window and it was nighttime and a massive glowing \"x\" was blinking in your face -",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:30:00",
+      "speaker": "HARLOW",
+      "sentences": "Nightlight.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:30:00",
+      "speaker": "MATTINGLY",
+      "sentences": "What would you - oh - oh, OK. Yes, I was going to -- what would your response be?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:30:00",
+      "speaker": "FISCHER",
+      "sentences": "Well, I mean, a lot of people would file complaints. That's the first and foremost problem. Second of all, there's also noise complaints anytime that you're erecting something like this. But this is actually not so much of a pedestrian - excuse me, like a, you know, regular people living in this area. This is more of the downtown area. There's a lot of sort of work buildings. So, I don't know that that's as much of the problem.I think the general frustration from the city is that Elon Musk continues to act unilaterally without asking for permits or permission and they just want to make sure that that gets reigned in.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:30:00",
+      "speaker": "HARLOW",
+      "sentences": "Nightlight.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:30:00",
+      "speaker": "MATTINGLY",
+      "sentences": "She just like knows everything.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:30:00",
+      "speaker": "HARLOW",
+      "sentences": "Everything.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:30:00",
+      "speaker": "MATTINGLY",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:30:00",
+      "speaker": "HARLOW",
+      "sentences": "(INAUDIBLE).",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:30:00",
+      "speaker": "MATTINGLY",
+      "sentences": "It's frustrating and awesome at the same time.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:30:00",
+      "speaker": "FISCHER",
+      "sentences": "The drama never ends.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:30:00",
+      "speaker": "MATTINGLY",
+      "sentences": "I know, Your beat is certainly a beat where the drama never ends.Sara Fischer, great, as always, to have you. Thanks.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:30:00",
+      "speaker": "FISCHER",
+      "sentences": "Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:38:54",
+      "speaker": "HARLOW",
+      "sentences": "So, the U.S. women's World Cup soccer team takes on Portugal tomorrow morning at 3CNN's chief medical correspondent Dr. Sanjay Gupta takes a look into why ACL injuries have been plaguing female athletes and what players can do to reduce their risk. (BEGIN VIDEOTAPE) DR. SANJAY GUPTA, CNN CHIEF MEDICAL CORRESPONDENT (voice over): North Carolina Courage midfielder Meredith Speck started the season off on the right foot. But like so many other professional players you've been hearing about, an injury brought it to a halt. Now, what will surprise you is that for nearly all these women it's been the same injury. And many have been going through what you're about to see with Meredith.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:38:54",
+      "speaker": "MEREDITH SPECK, MIDFIELDER, NORTH CAROLINA COURAGE",
+      "sentences": "It's a weird situation. Even though, you know, it's a surgery and it's nine months of your career, like, it is a big deal.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:40:02",
+      "speaker": "GUPTA",
+      "sentences": "Are out of the World Cup because of these ACL injuries.SILVERS-GRANELLI: Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:40:02",
+      "speaker": "GUPTA",
+      "sentences": "That's a pretty staggering number. Does that surprise you?SILVERS-GRANELLI: Yes, but we do know that women's risk is higher. So, the NCAA data indicates that the risk for women is about three to four-fold per male counterpart. GUPTA (voice over): Holly Silvers-Granelli is the chair of Major League Soccer's Medical Assessment Research Committee, and this is a disparity she's been trying to draw attention to for decades. GUPTA (on camera): What is going on? SILVERS-GRANELLI: We started looking at this data literally 23 years ago. We had determined that there's anatomic risk factors, there's hormonal risk factors, there's environmental risk factors, which would take into consideration, are you playing on grass or turf or what type of cleat you're wearing. GUPTA (voice over): The anatomy is also pretty fascinating. For starters, women's ACLs, they're just smaller than men. But look over here. Women also have a greater Q-Angle, that's the ratio of hip width to thigh length, which basically means this can happen, the body can more easily go into a knock-kneed position, making the ligament more vulnerable. GUPTA (on camera): Just standing here, how are we different in terms of our biomechanics? SILVERS-GRANELLI: We know that women tend to be a little bit more quad dominant. We tend to be a little bit less underdeveloped on our back muscle groups. Also, when we tend to do things, we tend to do things more upright or erect than men do.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:40:02",
+      "speaker": "GUPTA",
+      "sentences": "Because men tend to be -SILVERS-GRANELLI: Yes. GUPTA (voice over): Easy fixes for anyone, Holly says. An extra ten minutes, twice a week, to reduce ACL injuries by around 70 percent. SILVERS-GRANELLI: So, if we were running and we were -- go to the side, we would plant and cut and then change direction, plant and cut.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:40:02",
+      "speaker": "GUPTA",
+      "sentences": "The idea, strengthen the muscles around the ACL. Play low and avoid the knock-kneed position.SILVERS-GRANELLI: This is engaging these muscles, which is your gluteus medius. And that's a massively great muscle to help control your lumbar, spine, and your pelvis when you're cutting and changing direction. So, this is called a Nordic hamstring. GUPTA (on camera): Oh, yes, I feel that. SILVERS-GRANELLI: Yes, it's very hard. You'll feel your hamstrings engage.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:40:02",
+      "speaker": "GUPTA",
+      "sentences": "Yes, I do.SILVERS-GRANELLI: Good. GUPTA (voice over): It's starting to catch on, but slowly. Brian Maddox, head athletic trainer for the women's professional soccer team, the North Carolina Courage, uses these concepts now with his own players.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:40:02",
+      "speaker": "BRIAN MADDOX, HEAD ATHLETIC TRAINER, NORTH CAROLINA COURAGE",
+      "sentences": "You're sort of watching movement, for quality of movement, whether it looks natural, where, you know, they look like they're not in control of what their body is doing.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:40:02",
+      "speaker": "GUPTA",
+      "sentences": "And he says this is the type of attention and training that needs to start among the youngest players.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:40:02",
+      "speaker": "MADDOX",
+      "sentences": "One of the biggest pre-existing risks for an injury is if you've had that injury before. So I think that's why the emphasis is on trying to prevent this at a younger age so when they come to us they're ready to perform at the level we expect them to perform.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:40:02",
+      "speaker": "GUPTA",
+      "sentences": "For now, Speck recovers. We're told the operation went well. The hope, that one day she returns to this.Dr. Sanjay Gupta, CNN reporting. (END VIDEOTAPE) MATTINGLY: Dr. Sanjay Gupta, thank you for that report. You know what's so fascinating about that?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:40:02",
+      "speaker": "HARLOW",
+      "sentences": "What?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:40:02",
+      "speaker": "MATTINGLY",
+      "sentences": "Is, as a fan, I was very annoyed by the injury and some of the talent that wasn't going to be in the world. And then --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:40:02",
+      "speaker": "HARLOW",
+      "sentences": "They get injured, you get annoyed. That's nice.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:40:02",
+      "speaker": "MATTINGLY",
+      "sentences": "Yes, right, because it's all about - it's all about me. I'm a - I'm a fan. That's - like, that's what it's literally all about. It's all about you as the fan.But Sanjay's report about going into the details and then the physiology and then what people -- I find that stuff to be utterly fascinating.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:40:02",
+      "speaker": "HARLOW",
+      "sentences": "And some things to help try to prevent it, because it's debilitating for people.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:40:02",
+      "speaker": "MATTINGLY",
+      "sentences": "Yes. Yes, it is. And the recovery time is enormous and -",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:40:02",
+      "speaker": "HARLOW",
+      "sentences": "Have you - have you ever torn your ACL?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:40:02",
+      "speaker": "MATTINGLY",
+      "sentences": "MCL and meniscus, rotator cuff.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:40:02",
+      "speaker": "HARLOW",
+      "sentences": "Oh.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:40:02",
+      "speaker": "MATTINGLY",
+      "sentences": "I'm - I'm an old man, Harlow. No, it's - it's rough.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:40:02",
+      "speaker": "HARLOW",
+      "sentences": "You're not even 40 yet.All right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:48:19",
+      "speaker": "HARLOW",
+      "sentences": "Take a look at this video out of Beijing. At least two people have died. More than 31,000 have been evacuated as a typhoon there has lashed China's northeastern region. The typhoon is the strongest storm to hit that region in 17 years. I mean, what we're showing you, you just saw a house floating away. Since making landfall on Friday, it has affected more than 800,000 people and caused nearly $60 million in property damage, according to Chinese state media.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:50:06",
+      "speaker": "HARLOW",
+      "sentences": "Why does sea ice matter so much?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:50:06",
+      "speaker": "SCAMBOS",
+      "sentences": "Yes, it acts as a protective fringe around the continent. It also helps moderate the climate. It keeps the earth cool basically because when we have these polar areas that are bright white and frozen, a lot of heat radiates back into space and doesn't go into warming the planet. If we lose a lot of the sea ice, first of all, the area around Antarctica will get warmer, but then eventually Antarctica itself, this gigantic ice sheet, will begin to change. We might see higher sea level rise rates in the future.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:50:06",
+      "speaker": "MATTINGLY",
+      "sentences": "Is there a single thing driving this or are there several factors? What gets us to this point?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:50:06",
+      "speaker": "SCAMBOS",
+      "sentences": "That's really a topic of research right now. And, believe me, the community is discussing this quite a bit. Right now the best ideas are that this very warm ocean condition that we have globally has managed to stir into the water around Antarctica near the surface. That's usually isolated from the rest of the world's ocean because it's a little bit fresher, it sits on top of normal ocean water, kind of like oil on water. Now, apparently, some of this heat that's in the ocean globally isstirring into this layer. And even a little bit of heat means it takes a longer time for that heat to come out during winter and freeze the top of the ocean. We think that's what's slowing it down. It could also be changes in the wind around Antarctica. That's been going on for many decades, actually.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:50:06",
+      "speaker": "HARLOW",
+      "sentences": "Do you think the Antarctic system will recover in the way it has recovered in the past years?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:50:06",
+      "speaker": "SCAMBOS",
+      "sentences": "That really is the big question. It has been a very variable system. And we've been puzzling for many years prior to this last few years about why Antarctica has seen to be, if anything, steady or even slightly growing the sea ice area in past decades when the rest of the world was showing signs of warming. But it's been very variable. But this drop downward is really spectacular, much bigger than any of the variations in the past decades. And so, personally, I think we have finally tripped the switch in Antarctica and we're going to see it participate in this general pattern of warming around the globe.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:50:06",
+      "speaker": "HARLOW",
+      "sentences": "That's very, very unfortunate.Dr. Ted Scambos, thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:50:06",
+      "speaker": "SCAMBOS",
+      "sentences": "Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:50:06",
+      "speaker": "HARLOW",
+      "sentences": "Cardi B has had enough in the last incident of concertgoers throwing things at performers on stage.Watch this. (VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:50:06",
+      "speaker": "HARLOW",
+      "sentences": "That happened in Las Vegas on Saturday. Someone in the audience threw a drink at her in the middle of her song. Cardi clearly upset, threw a microphone back into the crowd. Security guards rushed onto the stage.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:50:06",
+      "speaker": "MATTINGLY",
+      "sentences": "Well, Drake, Kelsea Ballerini, Harry Styles, Bebe Rexha, just some of the other artists who have had objects from candy to jewelry to chicken - I cannot get over people throwing chicken nuggets.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:50:06",
+      "speaker": "HARLOW",
+      "sentences": "The chicken nugget.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:50:06",
+      "speaker": "MATTINGLY",
+      "sentences": "It makes no sense to me.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:50:06",
+      "speaker": "HARLOW",
+      "sentences": "I know.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:50:06",
+      "speaker": "MATTINGLY",
+      "sentences": "Throwing at them while performing. Among the artists speaking out about this troubling trend, Tim McGraw, who's gearing up for his own tour. He told CNN, quote, I think it's terrible. You could really injure somebody and you could miss and hit somebody in the audience and injure somebody. What happens if somebody gets hurt? Then it ruins the show for everybody.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:50:06",
+      "speaker": "HARLOW",
+      "sentences": "Yes, it needs to stop, that's for sure.OK, ahead for us on CNN THIS MORNING, this. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:50:06",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "It's going down. A plane is going down.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:58:41",
+      "speaker": "HARLOW",
+      "sentences": "Now to your \"Morning Moment.\" This is incredible video captured of a single-engine plane towing a banner. It crashed into the ocean. This is near a crowded beach in New Hampshire.Watch this. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:58:41",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "Well, is he landing.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:58:41",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "Yes, it looks like he is.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:58:41",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "Oh.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:58:41",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "Oh, my (EXPLETIVE DELETED).(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:58:41",
+      "speaker": "HARLOW",
+      "sentences": "The plane hit the waters at Hampton Beach nose first, flipped over on Saturday. Beachgoers witnessed all of it.(BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:58:41",
+      "speaker": "LAURIE LEMOINE, WITNESSED PLANE CRASH",
+      "sentences": "It's going down. A plane is going down. And it's crashed. And we all stood up. And there is the plane, upside down, floating in the water.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:58:41",
+      "speaker": "VINCENT PARDINI, WITNESSED PLANE CRASH",
+      "sentences": "And all of a sudden the guy swam out and he's like, wow, just - thank God he's alive.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:58:41",
+      "speaker": "HARLOW",
+      "sentences": "He's alive. This is key. The pilot, the only person on board, was not even injured in that crash. The plane was towed away. The cause of the crash being investigated. But, still, there's your miracle moment for the morning, huh?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:58:41",
+      "speaker": "MATTINGLY",
+      "sentences": "Yes, no kidding about it.Look, Poppy, you might have some personal views on this, the top movies at the box office.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:58:41",
+      "speaker": "HARLOW",
+      "sentences": "(INAUDIBLE). I love it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:58:41",
+      "speaker": "MATTINGLY",
+      "sentences": "Take a guess.(BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:58:41",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "This is the best day ever.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:58:41",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "It is the best day ever. So was yesterday and so is tomorrow and every day from now until forever.Do you guys ever think about dying? (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:58:41",
+      "speaker": "MATTINGLY",
+      "sentences": "I think you contributed -- you contributed to this to some degree.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:58:41",
+      "speaker": "HARLOW",
+      "sentences": "I contributed like - yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:58:41",
+      "speaker": "MATTINGLY",
+      "sentences": "\"Barbie\" still dominating the box office. Made $93 million in its second weekend.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:00:02",
+      "speaker": "MATTINGLY",
+      "sentences": "What's that, like one ticket and a small popcorn?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:00:02",
+      "speaker": "HARLOW",
+      "sentences": "Unfortunately, in New York it's like $20 to go see a movie.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:00:02",
+      "speaker": "MATTINGLY",
+      "sentences": "Yes. It's not just in New York, though.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:00:02",
+      "speaker": "HARLOW",
+      "sentences": "My kids loved it. I was telling Phil we had to sit in the front row because we didn't get our tickets early enough. So people are like buying them days and days in advance.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:00:02",
+      "speaker": "MATTINGLY",
+      "sentences": "Which is great.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:00:02",
+      "speaker": "HARLOW",
+      "sentences": "Did you go?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:00:02",
+      "speaker": "MATTINGLY",
+      "sentences": "I - no, I have not seen it yet.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:00:02",
+      "speaker": "HARLOW",
+      "sentences": "Take the kids.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:00:02",
+      "speaker": "MATTINGLY",
+      "sentences": "I would - I would love to.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:00:02",
+      "speaker": "HARLOW",
+      "sentences": "Well, take Chelsea, actually.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:00:02",
+      "speaker": "MATTINGLY",
+      "sentences": "Yes, OK.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:00:02",
+      "speaker": "HARLOW",
+      "sentences": "It's great.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:00:02",
+      "speaker": "MATTINGLY",
+      "sentences": "OK.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:00:02",
+      "speaker": "HARLOW",
+      "sentences": "It's great.OK, see you tomorrow, everyone.",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "date": "2024-03-14",
+  "headline": "CNN Newsroom",
+  "subHeadline": "SpaceX Calls Launch A Success Despite Losing Starship; W.H. Considers Processing Migrants From Haiti At U.S. Base; Putin Set To Sweep To Fifth Term As Russians Head To Polls. Aired 11:30a-12p ET",
+  "utterances": [
+    {
+      "timeStamp": "11:30:00",
+      "speaker": "RON BROWNSTEIN, CNN SENIOR POLITICAL ANALYST",
+      "sentences": "That language for Monday does play into an argument that Biden wants to make. You know, as I wrote this week on cnn.com., you know, Biden is facing a bad retrospective assessment of the economy under him versus the economy under Trump. More people say they were better off under Trump.The way he's trying to deal with that is by focusing voters on the prospective choice between the agenda of each man. And Biden is -- the economic agenda of each man and Biden is putting a lot of chips on a broad populist message of raising taxes on the rich, funding more subsidies and support for middle-class families, and attacking special interests, for instance, by having Medicare and lower -- negotiate lower prescription drug prices. Social Security fits right in the center of that, and it is really part of I think Biden's effort. If there is a way to narrow Trump's substantial lead now on who can better handle the economy, it's by not -- it's by kind of avoiding the comparison by looking backward and focusing voters forward on whose agenda might help them more in the future. And Trump, I think did give them a quote that is going to show up in a lot of ads this fall, whatever cleanup he's doing now.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:30:00",
+      "speaker": "WOLF BLITZER, CNN ANCHOR",
+      "sentences": "Social Security and Medicare are critically important issues. And let's not forget that older Americans vote in bigger percentage numbers than younger Americans do. Ron Brownstein and Jackie Kucinich, to both of you, thank you very much.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:30:00",
+      "speaker": "BROWNSTEIN",
+      "sentences": "Thank you, Wolf.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:36:18",
+      "speaker": "BLITZER",
+      "sentences": "New this morning. Despite losing the world's most powerful rocket, SpaceX now says this morning, the Starship rocket launch was a success. Listen.(BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:36:18",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Three, two, one.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:36:18",
+      "speaker": "BLITZER",
+      "sentences": "Let's bring in CNN's Space and Defense Correspondent Kristin Fisher who knows this issue very, very well. Kristin, how significant was this flight? And if it didn't come back and land in the Indian Ocean where it was supposed to, why was that a success?KRISTIN FISHER, CNN SPACE &amp; DEFENSE CORRESPONDENT: Well, this was always part of the plan. SpaceX was always going to lose Starship because this is a flight test. Absolute best-case scenario, Starship was going to splash down in the Indian Ocean. In the end, it ended up breaking up just over the Indian Ocean. So, it made it so very close to its ultimate target. When you're putting together a flight plan for a test flight, you have to think through what the ultimate dream case scenario would be, even if that is much further than what the ultimate goal or the initial primary goal of that flight test is. And so, the goal for this flight test was for Starship to reach orbital velocity or orbital speed. And it did that. It flew further and faster than Starship has ever flown before. And then it also completed these two really incredible milestones. It demonstrated a propellant or a fuel transfer in space from tank to tank within Starship. And then it also opened up a payload bay door which on future missions would allow perhaps satellite -- Starlink satellites to come out. So, really the only thing it didn't do was splashdown. But still, NASA and SpaceX calling this a huge success. And if I can also note, Wolf, I mean you and I were sitting here during that Odysseus lunar landing mission, and we were lamenting the fact that there were no live videos or images and you know, granted, that was the Moon, and this is very low Earth orbit. But the fact that we were able to get this incredible H.D. video throughout most of the mission, this video in particular, what you're seeing here is the plasma. The incredibly high temperatures that Starship has to endure upon reentry. I've never seen anything like that before Wolf. Really, incredible that SpaceX was able to kind of take us along for the ride and watch the mission along with them in real-time.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:36:18",
+      "speaker": "BLITZER",
+      "sentences": "Yes. Too bad we didn't have that video on the day that we saw that landing on the moon --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:36:18",
+      "speaker": "FISHER",
+      "sentences": "I know.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:36:18",
+      "speaker": "BLITZER",
+      "sentences": "In the south pole of the moon to be very specific. SpaceX says that it considers its Starship system central to eventually putting a person on the moon getting somebody -- not on the moon on Mars, so we say. What's going on there?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:36:18",
+      "speaker": "FISHER",
+      "sentences": "Moon and Mars. SpaceX wants to use this spacecraft to eventually land the first humans on Mars. But first, it is the centerpiece of NASA's Artemis program.This is the spacecraft that NASA wants to use to return American astronauts to the surface of the Moon for the first time since the Apollo program, which is why NASA is watching these flight tests so closely. And the NASA administrator just a few moments ago congratulating SpaceX on this successful third test flight.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:36:18",
+      "speaker": "BLITZER",
+      "sentences": "Are you ready to go to the Moon or Mars for that matter?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:36:18",
+      "speaker": "FISHER",
+      "sentences": "Sure.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:36:18",
+      "speaker": "BLITZER",
+      "sentences": "You would go?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:36:18",
+      "speaker": "FISHER",
+      "sentences": "CNN can send me, right?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:36:18",
+      "speaker": "BLITZER",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:36:18",
+      "speaker": "FISHER",
+      "sentences": "We got the budget for that.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:36:18",
+      "speaker": "BLITZER",
+      "sentences": "You're much more courageous than I am. Kristin Fisher, thanks for all the good work.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:36:18",
+      "speaker": "FISHER",
+      "sentences": "Thanks.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:45:10",
+      "speaker": "BLITZER",
+      "sentences": "Let's hope. The secretary of state as you know, Antony Blinken, traveled to Jamaica this week. What else should the U.S. be doing now to try to help the Haitians?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:45:10",
+      "speaker": "FOOTE",
+      "sentences": "Well, right now, the U.S. and CARICOM are trying to impose another foreign government construct on the Haitians, which has failed each time. And they've chosen seven Haitians, including the party that is reviled in Haiti, that's driven Haiti into the ground over the past 14 years. But they chose seven people.The white people chose seven people. They didn't even go to Haiti. And they've empowered these seven people to choose the next government of Haiti. Haitians are up in arms. They can't believe that the Americans have the hubris to try to do this again and think it's somehow going to make things better.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:52:03",
+      "speaker": "BLITZER",
+      "sentences": "With less than 24 hours until Russians head to the polls, Vladimir Putin already appears poised to win a fifth term in office, extending his control into the next decade. CNN's Chief Global Affairs Correspondent Matthew Chance is joining us live from Moscow right now. Matthew, what are the -- what are you hearing just ahead of these elections?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:52:03",
+      "speaker": "MATTHEW CHANCE, CNN CHIEF GLOBAL AFFAIRS CORRESPONDENT",
+      "sentences": "Well, it's about four or five hours now until elections or voting really starts in earnest in the Russian Far East of the country. Remember, there are 11 Time Zones in Russia. And it's 8That's in about four or five hours for now in the far east of the country. It's about 13 hours before voting starts here in the Russian capital Moscow. Just gives you an idea of just how vast this country is. Already, the election authorities say just over two million people have already cast their ballots in early voting. So, people who are in, for instance, very remote areas of the -- of the Russian Arctic, for instance, or people who live inside the recently annexed areas of Ukraine, which Russia now regards as part of the Russian Federation. So, people there have been given passports. And they're voting, in some instances as well. So, in some ways, voting has already got underway. And you know, according to all the opinion polls, which you know -- we have to take with a pinch of salt, but you know, they're probably right in this regard, it's a -- it's a near certainty that Vladimir Putin, the Russian president is going to win a fifth presidential term. Now, part of the reason for that is because any significant opposition in the country has essentially been silenced. And we're talking about a crackdown on dissent across the country. We're talking about opposition figures who have either been jailed, they've gone into exile, or they've been killed. Alexei Navalny, the main opposition figure died in unexplained circumstances in his Arctic penal colony just last month. And so, you know, look, it's a -- it's a very dark period in Russia, which comes of course against the backdrop of that Ukraine war, which Russia of course calls its special military operation, which is taking a heavy toll both on the Russian economy and in terms of casualties on both sides. So, it's in that environment with no opposition and a sort of crisis situation in terms of the conflict, but millions of Russians for the next 24 hours will be -- will be casting their votes. And the voting lasts for three days. And so, you know, this -- it's going to be through the weekend until we get the confirmation as we're expecting that Vladimir Putin gets a fifth term as Russian president, Wolf.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:52:03",
+      "speaker": "BLITZER",
+      "sentences": "Matthew, what can you tell us about the other candidates? Do Russians have a choice?",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

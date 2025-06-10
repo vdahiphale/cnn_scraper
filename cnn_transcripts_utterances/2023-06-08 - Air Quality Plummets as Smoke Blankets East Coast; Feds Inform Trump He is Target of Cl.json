@@ -1,0 +1,547 @@
+{
+  "date": "2023-06-08",
+  "headline": "CNN This Morning",
+  "subHeadline": "Air Quality Plummets as Smoke Blankets East Coast; Feds Inform Trump He is Target of Classified Docs Probe; Pence Tries to Draw Contrast to Trump at Town Hall. Aired 6-6:30a ET",
+  "utterances": [
+    {
+      "timeStamp": "06:00:05",
+      "speaker": "POPPY HARLOW, CNN ANCHOR",
+      "sentences": "Good Thursday morning, everyone. We are so glad you're with us. So glad Phil is here in a very still hazy New York.PHIL MATTINGLY, CNN ANCHOR/CHIEF WHITE HOUSE CORRESPONDENT: It's like borderline apocalyptic --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:05",
+      "speaker": "HARLOW",
+      "sentences": "I know. My kids were kind of freaked.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:05",
+      "speaker": "MATTINGLY",
+      "sentences": "-- and surreal. And it's actually very serious. I went down the rabbit hole of NASA scientists last night.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:05",
+      "speaker": "HARLOW",
+      "sentences": "Of course you did.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:05",
+      "speaker": "MATTINGLY",
+      "sentences": "And we have a lot to learn, talk about. And for those on the West Coast, who are like, welcome.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:05",
+      "speaker": "HARLOW",
+      "sentences": "Welcome to what we've been living in.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:05",
+      "speaker": "MATTINGLY",
+      "sentences": "This is a very, very real and significant issue.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:05",
+      "speaker": "HARLOW",
+      "sentences": "Yes. And climate change.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:05",
+      "speaker": "MATTINGLY",
+      "sentences": "Yes, no question. HARLOWhere in the air in our skies. We have a lot of other news. Let's get started with \"Five Things to Know\" for this Thursday, June 8. As we just talked about, another round of very thick smoke from these Canadian wildfires set to blanket pars of the Northeast and mid- Atlantic today. More than 75 million Americans facing alerts due to really poor air quality.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:05",
+      "speaker": "MATTINGLY",
+      "sentences": "And sources tell CNN the Justice Department has informed Donald Trump's legal team that he is a target in the classified documents investigation. It's a sign that an indictment could be near.And happening soon, Joran van der Sloot will leave his prison in Peru to board a flight to Alabama. He'll be facing fraud charges in connection to the 2005 disappearance of Natalee Holloway.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:05",
+      "speaker": "HARLOW",
+      "sentences": "Also, former Vice President Mike Pence delivering his toughest takedown yet of his former boss and now political rival. Pence saying Donald Trump should, quote, \"never be president again.\"",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:05",
+      "speaker": "MATTINGLY",
+      "sentences": "And Lionel Messi is taking his talents to South Florida. I like the LeBron connection there. In a surprise announcement, the soccer star said he intends to play for Major League Soccer in Milan.CNN THIS MORNING starts right now.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:05",
+      "speaker": "HARLOW",
+      "sentences": "OK. So let's begin here, though. Because I couldn't believe it when I looked out the window yesterday afternoon. It got a lot worse after we left the show.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:05",
+      "speaker": "MATTINGLY",
+      "sentences": "Yes. It looked like we were on Mars.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:05",
+      "speaker": "HARLOW",
+      "sentences": "It did.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:05",
+      "speaker": "MATTINGLY",
+      "sentences": "But I think what was kind of -- the most surreal part, everybody in masks again.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:05",
+      "speaker": "HARLOW",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:05",
+      "speaker": "MATTINGLY",
+      "sentences": "Kids -- Outdoor activities being canceled down in Washington, D.C. My wife called and made clear kids --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:05",
+      "speaker": "HARLOW",
+      "sentences": "Was it bad down there?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:05",
+      "speaker": "MATTINGLY",
+      "sentences": "I don't think it's as bad as here.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:05",
+      "speaker": "HARLOW",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:05",
+      "speaker": "MATTINGLY",
+      "sentences": "New York City is being compared, air-quality-wise, to the absolute worst polluted cities in the world.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:05",
+      "speaker": "HARLOW",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:05",
+      "speaker": "MATTINGLY",
+      "sentences": "Delhi, places like that. It's -- it's a very real, very tangible issue right now. HARLOW",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:05",
+      "speaker": "MATTINGLY",
+      "sentences": "There's no question.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:05",
+      "speaker": "HARLOW",
+      "sentences": "Climate change and all that is happening.So this morning, you're waking up to this, likely, if you're in the Midwest or along the East Coast. Tens of millions facing a day of breathing in thick smoke from these Canadian wildfires, as it smothers the East Coast and the Midwest. These are live pictures this morning, just after 6 a.m. Eastern here in New York City, where the air quality is so bad it is, this morning, the most polluted major city in the entire world right now. Yesterday, as Phil head said, I mean, that's Manhattan, looking like the surface of Mars. You could barely see the skyline through the orange haze. The bulk of this smoke is shifting to where Phil's family is, Washington, D.C., and Baltimore. Here's a look at some of New York's iconic landmarks, blanketed in this reddish brown. The governor calling it an emergency crisis. Hospitals saw an increase in patients with respiratory issues. And this wildfire smoke isn't just a health problem. The blinding conditions led to a ground stop at New York's LaGuardia Airport with many flights either canceled or delayed. Big sporting events, Broadway shows also canceled. Some public schools closed today. Others have canceled all outdoor activity. Take a look at this time lapse of New York City and the skyline turning dark orange in the matter of minutes. A few hours -- over a few hours as waves of smoke continued to pour down from Canada. Athena jones, our colleague and our friend, is again, live outside, masked up. It's worse -- or got worse yesterday since when you joined us on the show. What about today?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:05",
+      "speaker": "ATHENA JONES, CNN CORRESPONDENT",
+      "sentences": "Good morning, Poppy.Well, here in New York, the smoke has abated somewhat. But it's still at an unhealthy level, which is especially bad for sensitive groups. Now, officials have warned, things could worsen again later in the day. It's the same pattern we saw yesterday. But as you noted, the bulk of the smoke that hit New York is expected to shift South to affect Baltimore and Washington, D.C. (BEGIN VIDEOTAPE) JONES (voice-over): From New York --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:05",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "Very, very scary. Just walking down the street and feeling like I'm going to have an asthma attack.JONES (voice-over): -- to Lansing, Michigan --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:10",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Oh, man! That's fire.JONES (voice-over): From over 400 active wildfires burning in Canada as of Wednesday afternoon. More than half of them determined to be out of control, according to the Canadian Interagency Forest Fire Centre.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:10",
+      "speaker": "JUSTIN TRUDEAU, CANADIAN PRIME MINISTER",
+      "sentences": "Last year and this year, the worst wildfire season we've ever had right across the country.JONES (voice-over): Canada's wildfire season got off to an intense start in May, and it's unusual to see so much destruction this early. It picked up aggressively this month, largely in Quebec. More than nine million acres have burned in Canada so far this year, 15 times the normal amount. Smoke from those fires traveling hundreds of miles, affecting cities all across New York state. GOV. KATHY HOCHUL (D-NY): This is the worst air quality we've experienced in over 20 years. This is hard to breathe right now. JONES (voice-over): Gov. Kathy Hochul said New York state is making one million N-95 masks available to the public, due to ongoing poor air quality that could be harmful for everyone, or even hazardous for some.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:10",
+      "speaker": "ZACHARY ISCOL, NYC EMERGENCY MANAGEMENT COMMISSIONER",
+      "sentences": "I know that times like this can be scary. It can be shocking for many New Yorkers when you step outside, when you smell and breathe this air.JONES (voice-over): New Yorkers being urged to stay indoors as much as possible, because particles in wildfire smoke can infiltrate the lungs and enter the bloodstream. Too much smoke inhalation has linked to conditions like asthma and heart disease. DR. ASHWIN VASAN, NYC HEALTH COMMISSIONER: The best protection is to avoid being outside until the air clears. JONES (voice-over): Officials warning the smoke will continue to impact much of the East Coast until at least the weekend. MAYOR ERIC ADAMS (D), NEW YORK CITY: I want to be clear: while there may be potential for significantly improved conditions by Friday morning, smoke predictability that far out is low. (END VIDEOTAPE) JONES (ON CAMERA): With that in mind, New York Governor Kathy Hochul said that, while they expect conditions to improve, possibly by this weekend, that doesn't mean it won't happen again. As one of our CNN meteorologists put it, this could be something we deal with off and on throughout the remainder of the summer. Fire season is just beginning in Canada -- Poppy.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:10",
+      "speaker": "HARLOW",
+      "sentences": "Wow. Off and on through the remainder of the summer. Athena, thank you very much. I know it's not easy conditions, being out there, for you and your team. We appreciate the reporting.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:10",
+      "speaker": "MATTINGLY",
+      "sentences": "We want to drill in a little bit on what Athena was just saying. We want to bring in meteorologist Derek van Dam for the latest forecast on where the smoke is moving.Derek, I think the biggest question right now across the East Coast, when is relief coming?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:10",
+      "speaker": "DEREK VAN DAM, CNN METEOROLOGIST",
+      "sentences": "Yes. Phil, you know, it is all dependent on the wind direction. Right?Where it's bad for somebody today, it's going to be worse for somebody else tomorrow, depending on exactly that wind direction. So, this morning we are waking. As Athena noted, some improvement on the visibility. But of course, still hazardous air in New York City. But look at Philadelphia. Just over a mile of visibility. More of the same for Washington, D.C. And, you know what? We've already talked about this. But this is incredible to note. New York City topping the list of the most polluted major cities across the entire planet right now, as of 5:55. We just updated that. So what is this air quality index that we keep talking about? Well, this is the EPA, the Environmental Protection Agency's way of communicating to you and I the quality of the air that we breathe. It uses these color codes to help convey that message, and it also explains to groups how they may be impacted. So if we're talking about 200 to 300 AQI index, we're talking very unhealthy. Now, look at that hazardous purple color. That's 300 to 500 AQI index. And for a point there on Wednesday evening, Philadelphia, New York City and Trenton all in that hazardous air. Now, you see these dots. These are all the reporting stations for the AQI index. Several purple. Several reds. Bottom line, what you need to know: it is very unhealthy air that we're breathing. And it is all thanks to the wildfire smoke to the North. But check this out. As we progress this near surface smoke forecast, you can see how it clears from New York City. But then, just as I mentioned at the beginning of this broadcast, it will shift to a different location. The Ohio River Valley, parts of the Great Lakes. Detroit, Cleveland, Cincinnati. You've got the potential for more smoke and unhealthy air as the wind pattern shifts ever so slightly -- Poppy, Phil.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:10",
+      "speaker": "MATTINGLY",
+      "sentences": "Derek van Dam with the latest, thanks so much.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:10",
+      "speaker": "HARLOW",
+      "sentences": "Also this morning, new developments in one of the many investigations facing former President Donald Trump.Sources say the Justice Department has told Trump's legal team that he is a target of Special Counsel Jack Smith's criminal investigation into the possible mishandling of classified documents. This target letter is really the clearest signal yet that Trump is facing a possible indictment. He has repeatedly denied wrongdoing and argues he declassified everything while he was president. Our colleague, Evan Perez, joins us now. What does this mean? People will wake up. They will hear \"target letter.\"",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:10",
+      "speaker": "EVAN PEREZ, CNN SENIOR JUSTICE CORRESPONDENT",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:10",
+      "speaker": "HARLOW",
+      "sentences": "They will want to know what does that indicate?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:10",
+      "speaker": "PEREZ",
+      "sentences": "Good morning, Poppy.Well, we haven't been here before. This is a really big moment, certainly, in all of these investigations of the former president. Even during the Mueller investigation, prosecutors really -- and the investigators never really got this close to saying that they were going to, or possibly going to, indict the then-sitting president. Right? Or that he was guilty of some kind of crime. And so what has happened now in recent weeks is that Donald Trump has been officially notified that he is a target of a criminal investigation. And look, that was pretty obvious already to the former president, given the fact that the FBI got a search warrant. They searched his property at Mar-a-Lago. In that -- in the search warrant, they described a list of three crimes that they were investigating. So, he has known that he is front and center. He's the only one, obviously, who, you know, was willfully retaining these documents, despite the fact that the -- the National Archives and the federal government were trying to retrieve this. So that what happens next is that the former president has the right to present some evidence to prosecutors, saying that he should not be charged. He can go to the -- ask to go speak to the grand jury to present his side of the story. We do not anticipate that the former president is going to do that. Again, this is a step that the Justice Department has at its disposal. They don't have to tell people that they are the target of a criminal investigation. But they can do that, and it usually -- usually -- indicates that they are close to bringing charges against that person. MATTINGLY: Yes, it very clearly seems to be moving in that direction. One question I had, though, Evan. Our stellar show team picked up what seemed to be a new defense last night from a former Trump attorney when it comes to the documents themselves. I want you to listen to it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:10",
+      "speaker": "PEREZ",
+      "sentences": "Yes.(BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:10",
+      "speaker": "TIMOTHY PARLATORE, FORMER TRUMP ATTORNEY",
+      "sentences": "Simply the fact that it has a classification marking on it, if it does have a classification marking on it, doesn't make it automatically some type of contraband. It has to be national defense information, one. Two, under the Presidential Records Act, we're talking about original documents. Not a single one of those marked documents are originals. They're all copies. Every single one of them.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:10",
+      "speaker": "MATTINGLY",
+      "sentences": "All right. I'll bite. Because I'm admittedly a little bit perplexed, not a PRA expert, but you are.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:10",
+      "speaker": "HARLOW",
+      "sentences": "Presidential Records Act.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:10",
+      "speaker": "MATTINGLY",
+      "sentences": "Whether you want to be or not. Evan --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:10",
+      "speaker": "PEREZ",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:10",
+      "speaker": "MATTINGLY",
+      "sentences": "-- do you think there's validity to that?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:10",
+      "speaker": "PEREZ",
+      "sentences": "No. I don't think that what -- I think what he's trying to do is to try to say that, certainly, these documents that were brought to Mar-a-Lago, that, well, they don't matter, because they are copies of the originals which, of course, the federal government knows what documents Donald Trump likely took, because they have the originals. In most cases, they have the originals of these documents.And the fact that you copied these documents doesn't make it not classified, doesn't make it not national security information, right? I mean, in fact, it creates and opens new questions. You know, who copied them? Did that person have a right to copy them? Those are the new questions that are opened by this line of defense. Parlatore also said that, you know, essentially, that the -- he has previously said, rather, that it doesn't matter whether the documents are classified or not. That it's national defense information. He's right about that. Because that is exactly the crime that -- the crimes that the Justice Department says that they're investigating right now the former president for possibly violating. And, so, the fact that things are copies, really just makes them new documents that the government wants to retrieve. Right? If you go into a meeting with Donald Trump and he says things that are classified, and you take notes, that document suddenly becomes a record that needs to be returned to the National Archives -- guys. HARLOW: Yes. Fascinating and so important, Evan. Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:10",
+      "speaker": "MATTINGLY",
+      "sentences": "True.Joining us now to discuss is Jennifer Rodgers, a CNN legal analyst, former federal prosecutor. Jennifer, you've noted that this development, the targeting letter development, suggests prosecutors are close to a charging decision. Again, to Poppy's point, for people who are reading the front page of the newspaper this morning and see charge letter, see kind of what seems to be a methodical progression in this investigation, what should they be thinking about what's coming next?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:10",
+      "speaker": "JENNIFER RODGERS, CNN LEGAL ANALYST",
+      "sentences": "Well, I think we're at the end, Phil. I mean, I think we know now why the Monday meeting was triggered between Donald Trump's defense team and DOJ. They likely got this target letter last week and said, Oh, hold on, we want to come in and talk you to. That's probably why that meeting happened.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:10",
+      "speaker": "MATTINGLY",
+      "sentences": "So what Evan was saying in terms of they will now have an opportunity to come in and kind of give their case, or give their side of things. This target letter likely can cause that. Which they may have done in the meeting.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:15:09",
+      "speaker": "HARLOW",
+      "sentences": "Is it rare that someone would not be indicted following a target letter?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:15:09",
+      "speaker": "RODGERS",
+      "sentences": "It is. It is. Usually, they have their mind made up at the time that the investigation is wrapping up and they've seen and evaluated all the evidence. I mean, every once in a blue moon, maybe a defendant's lawyer will raise something in the meeting that causes them to rethink, or perhaps to downgrade charges that they had been considering.But for the most part, by the time they've collected all the evidence, they know what they want to do.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:15:09",
+      "speaker": "HARLOW",
+      "sentences": "That's a big deal. Every -- every once in a while is not great odds for the former president here, then.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:15:09",
+      "speaker": "RODGERS",
+      "sentences": "For sure. For sure. I mean, I suspect we'll see an indictment fairly soon.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:15:09",
+      "speaker": "MATTINGLY",
+      "sentences": "Can I ask you, one of the -- I don't want to say complicating factors, but different factors, obviously. This is a special counsel investigation. There is separation from the attorney general. But the attorney general still has oversight of what's happening at this point in time.Take us behind the scenes at DOJ. What are the conversations going on right now, given there is no precedent for this? And what the attorney general, what Jack Smith, the special counsel, may be thinking through at the moment.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:15:09",
+      "speaker": "RODGERS",
+      "sentences": "Yes, you know, we haven't gotten much insight into what's happening inside of DOJ. You know, he will have to keep the attorney general, you know, generally apprised of what's happening. But we don't know how often they've been meeting, how detailed these meetings are as far as the information going to the attorney general.And I suspect that Merrick Garland appointed Jack Smith in the first place so that he wouldn't really have to be involved in the day-to- day, of course. So Jack Smith and his team, of course, have been working to put all of this together. When they feel like they're at a point where they have made their internal decision as a team, of course, they will relay that to Merrick Garland and his folks and talk it through. But I would be very surprised if Merrick Garland is going to overturn the decision of Jack Smith and his team on this.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:15:09",
+      "speaker": "HARLOW",
+      "sentences": "One of the developments we learned this week is that there is a second grand jury. And it's in South Florida, in Miami. And \"The Washington Post\" reporting yesterday on this was really interesting, that many of the -- if there are these indictments, if they're multiple, a lot of it is going to stem from -- from Florida, rather than Washington, D.C.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:15:09",
+      "speaker": "RODGERS",
+      "sentences": "Yes. That was a big surprise, because everything has been happening in D.C.You know, it could be that they are planning to indict one, two, or a few people down in Florida for kind of more minor-level actions having to do with the obstruction piece. You know, people who were moving documents, for example, or the surveillance tapes, that sort of thing. And they're just peeling those off to handle in Florida. Or it could be the whole thing is going to happen in Florida. I mean, that's really where most of the conduct occurred here. It's where the documents we know were possessed for so long. Hidden, you know, certainly the basis of the obstruction is down there. So they may have decided for venue purposes that the whole thing should be in Florida. But we just don't know that yet.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:15:09",
+      "speaker": "MARLOW",
+      "sentences": "Can I ask -- you know, I asked Evan about this. I'm kind of fascinated by the idea that a copy of a classified document, I'm not really -- I'm not totally pulling the thread together on what that might mean. Because it still seems like it would be classified information. Your view? Evan kind of laid out and knocked down, to some degree,what President -- former President Trump's former attorney detailed in terms of that defense. What's your read on it?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:15:09",
+      "speaker": "RODGERS",
+      "sentences": "So if that's going to be their in-courtroom defense, as opposed to the magical declassification things that we've heard from Trump outside of the courtroom --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:15:09",
+      "speaker": "HARLOW",
+      "sentences": "Quite an evolution, by the way.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:15:09",
+      "speaker": "MATTINGLY",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:15:09",
+      "speaker": "HARLOW",
+      "sentences": "From I did it with my mind to it's photocopies, so it's OK.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:15:09",
+      "speaker": "RODGERS",
+      "sentences": "yes. If that's going to be their legal defense in court, then it's going to be a short jury deliberation. That -- that's not much of a defense.It's helpful to think about it in different buckets. I mean, there are statutes that prohibit having and disseminating national defense information. And that doesn't have to be in the document. That's just information. Right? There are statutes that talk about classified information that is classified, stamped with the word \"classified.\" That's a different bucket. And then there are things that the Presidential Records Act requires the National Archives to keep. And that has original documents somewhere in it. So like, for example, the letter that was handwritten from President Obama to President Trump, the National Archives wants that. It belongs to the government. That thing, sure, if they made a copy of it and kept it somewhere, that's not going to be a violation. But classified information is classified. Even if there are ten documents that are all the same, that all say \"classified,\" they're all classified. You can't have any of them. National defense information, same thing. So there's no defense here to anything that the special counsel is considering charging. So, I think that when they finally do get into the courtroom, that is not what we're going to hear from them.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:15:09",
+      "speaker": "MATTINGLY",
+      "sentences": "There's a voluminous history of people who have had classified information for whatever reason, were charged, and the classified information was copies or photos. Or anything --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:15:09",
+      "speaker": "HARLOW",
+      "sentences": "I was just thinking about that case against Jack Teixeira right now.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:15:09",
+      "speaker": "MATTINGLY",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:15:09",
+      "speaker": "RODGERS",
+      "sentences": "Well, you might make ten copies. Right?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:15:09",
+      "speaker": "HARLOW",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:15:09",
+      "speaker": "RODGERS",
+      "sentences": "Some stay at the CIA, one goes to the White House. One goes to a congressional committee.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:15:09",
+      "speaker": "MATTINGLY",
+      "sentences": "Yes, even throughout the government there are copies.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:15:09",
+      "speaker": "RODGERS",
+      "sentences": "All classified.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:15:09",
+      "speaker": "MATTINGLY",
+      "sentences": "Jennifer Rodgers, thanks so much.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:15:09",
+      "speaker": "HARLOW",
+      "sentences": "Great.So House Speaker Kevin McCarthy facing revolt from a group of his own party. Hardline House Republicans, they are grinding his agenda to a halt after his debt-limit deal with President Biden. Plus this. (BEGIN VIDEO CLIP) DANA BASH, CNN ANCHOR/CHIEF POLITICAL CORRESPONDENT: If Donald Trump is convicted of a crime, and you're elected president, would you pardon him?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:20:00",
+      "speaker": "MATTINGLY",
+      "sentences": "We'll break down the big takeaways from the CNN town hall with Mike Pence as he runs for president and challenges his ex-boss, Donald Trump. Needs.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:20:00",
+      "speaker": "HARLOW",
+      "sentences": "Thank you, Jen. It was great.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:20:00",
+      "speaker": "RODGERS",
+      "sentences": "Thank you, guys.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:20:00",
+      "speaker": "HARLOW",
+      "sentences": "Nice to have you and get to have an actual --(COMMERCIAL BREAK)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:25:02",
+      "speaker": "PENCE",
+      "sentences": "It's one for the books.LAH (voice-over): Right out of the gate, Pence is disputing former President Donald Trump's claims he could have overturned the results of the 2020 election.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:25:02",
+      "speaker": "PENCE",
+      "sentences": "I felt that he was -- he was asking me to choose between him and the Constitution. I chose the Constitution. And I always will. President Trump was wrong then. He's wrong now.LAH (voice-over): The relationship between Trump and Pence fell apart on January 6th, when rioters stormed the Capitol, calling for Pence's execution.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:25:02",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Hang Mike Pence! Hang Mike Pence!",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:25:02",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Hang Mike Pence! Hang Mike Pence!",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:25:02",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Hang Mike Pence! Hang Mike Pence!LAH (voice-over): Trump says he would consider pardoning some of the rioters. Pence disagrees.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:25:02",
+      "speaker": "PENCE",
+      "sentences": "I have no interest or no intention of pardoning those that assaulted police officers and vandalized our Capitol.LAH (voice-over): Pence had this to say about roughly a dozen number of classified documents he found at his residence in Indiana in January.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:25:02",
+      "speaker": "PENCE",
+      "sentences": "I immediately informed the Department of Justice, and I'm grateful, after our full cooperation, that they concluded that it was an innocent mistake.LAH (voice-over): But stopped short of saying Trump should be indicted by the special counsel for his alleged mishandling of classified documents.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:25:02",
+      "speaker": "PENCE",
+      "sentences": "This kind of action by the Department of Justice, I think would only fuel further division in the country. And let me also say, I think it would also send a terrible message to the wider world.LAH (voice-over): The former vice president also differentiated himself from Trump on foreign policy.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:25:02",
+      "speaker": "PENCE",
+      "sentences": "When Vladimir Putin rolled into Ukraine, the former president called him a genius. I know the difference between a genius and a war criminal. And I know who needs to win in the war in Ukraine. And it's the people fighting for their freedom.LAH (voice-over): Pence also signaling to conservative voters that he is their candidate.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:25:02",
+      "speaker": "PENCE",
+      "sentences": "Well, I strongly support state legislation including, as we did in Indiana, that -- that bans all gender transition chemical or surgical procedures for kids under the age of 18.LAH (voice-over): Pence joins a growing field for the Republican nomination, including North Dakota Governor Doug Burgum. And former New Jersey Governor Chris Christie launched another bid for the White House, making the cornerstone of his campaign rebuking Trump. Trump, in response, posted this video mocking Christie after the announcement. CHRIS CHRISTIE (R), PRESIDENTIAL CANDIDATE: It just renewed in my own mind what a child he is. He's a baby. Whenever you want to criticize him, I mean, in any way, that's the way he responds. (END VIDEOTAPE) LAH (on camera): And we were sitting in and above the audience during the CNN town hall with Mike Pence and really got a sense of the reaction as some of those toughest lines against Donald Trump were delivered. And something to just note, Poppy, is that those were not his strongest, biggest applause lines. And we also saw that in his kickoff rally in Ankeny, Iowa. Is that the crowd, some of them, stood up, applauding. Others didn't applaud at all and remained seated. So that really underscores the challenge ahead for the former vice president.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:25:02",
+      "speaker": "HARLOW",
+      "sentences": "It -- it says it all, I think, Kyung, for sure. How much do you run on who you are and what you stand for and how much do you run against your former boss? Thank you very much.So, ahead in our 7 a.m. Eastern hour, we're going to be joined by North Dakota governor, now presidential candidate, Doug Burgum. He's going to join CNN this morning, live.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:25:02",
+      "speaker": "MATTINGLY",
+      "sentences": "Well, he's awake. He's making jokes, and he's already back at work. The latest on the pope's condition after undergoing surgery.",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

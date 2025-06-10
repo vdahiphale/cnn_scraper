@@ -1,0 +1,271 @@
+{
+  "date": "2023-06-07",
+  "headline": "CNN News Central",
+  "subHeadline": "Canadian Fires Pour Smoke into U.S., Create Unhealthy Air; Former Trump Aide Arrives at Miami Courthouse to Appear Before Grand Jury; Pence Officially Launches Presidential Campaign. Aired 10-10:30a ET",
+  "utterances": [
+    {
+      "timeStamp": "10:00:00",
+      "speaker": "KATE BOLDUAN, CNN ANCHOR",
+      "sentences": "Former Vice President Mike Pence is jumping into the presidential race, putting him on a direct collision course with his former boss. CNN is on the trail ahead of his first official campaign event in Iowa.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:00:00",
+      "speaker": "JOHN BERMAN, CNN ANCHOR",
+      "sentences": "Happening now, rescue operations in Ukraine as floodwaters sweep through towns after that major dam collapse. We have new information about how it happened and new questions about who is to blame.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:00:00",
+      "speaker": "SARA SIDNER, CNN ANCHOR",
+      "sentences": "Electric cars may not only be good for the environment, but new research suggests they could be good for your health as well. Why experts say they could save around 90,000 lives. This is CNN News Central.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:00:00",
+      "speaker": "BOLDUAN",
+      "sentences": "This morning, millions of people are being urged to stay indoors and limit what they have to do outside. All of all because of, well, this, a thick haze that is hanging over many American cities caused by smoke from raging Canadian wildfires. Detroit, New York remain in the top five right now for the world's worst air quality cities. This drone video we're going to show you, this is of New York from this morning, where the city's public schools have canceled all outdoor activities today. Both Philadelphia and New York are under what is called code red air quality alerts, which means there's an unhealthy amount of pollution hanging in the air. Go outside and you will feel it. The smoke is coming from Quebec, where more than 150 active wildfires are currently burning.Let's get to it. CNN's Athena Jones and CNN's Meg Tirrell, they join us now from New York with much more on this. You've been out in it all this morning, Athena. What are noticing?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:00:00",
+      "speaker": "ATHENA JONES, CNN NATIONAL CORRESPONDENT",
+      "sentences": "Good morning, Kate. Well, these wildfires may be taking place hundreds of miles away, but you can certainly see the impact here. Just look out over across the Hudson River. That's Jersey City, New Jersey, down there. You can sort of still make out the statue of Liberty just off the shoreline there. But the concern is about the health and safety of residents here and across the region. New Jersey Governor Phil Murphy has put out a warning to individuals who are sensitive, people who have respiratory issues or asthma, heart disease. These are the kind of people that city officials and agencies are worrying about because of the kind of pollutants contained in this wildfire smoke. Wildfire smoke has what's known as particulate matter. This is among the tiniest, most dangerous type of pollutant. Why? Because when you inhale that stuff, the particles are so small, they can go deep into your lungs, get into your bloodstream and cause all sorts of issues.That is why we're seeing the precautions taking place among New York public schools. No outdoor activities. Ten school districts in Upstate New York also canceling all outdoor activities. And we expect to get an update from New York City Mayor Eric Adams soon about all of the precautions and also hope to get a sense of how much longer this is going to last. We understand there's going to be a front pushing south, the cold front, that will push more of the smoke south and east in the coming days. So, this is not quite over yet. Kate?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:00:00",
+      "speaker": "BOLDUAN",
+      "sentences": "That's for sure. All right, Athena, thank you for that. Stick with me. Let's also bring in Meg. Meg, Athena is talking about what this particulate matter is, what it does, but who is most vulnerable in these situations?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:05:06",
+      "speaker": "BOLDUAN",
+      "sentences": "Meg, what's the best plan? Obviously, staying indoors is the best of the best, but what is the best plan for everyone who's vulnerable under these circumstances, considering this is a multiday event?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:05:06",
+      "speaker": "TIRRELL",
+      "sentences": "Yes, absolutely. I mean, if you have to be outside, the recommendation from the American Lung Association is pretty simple. William Barrett says, quote, if you can see or smell smoke, know that you're being exposed. So, that is the benefit to something like this. You can actually tell when you're inhaling this stuff, as opposed to something like COVID-?19, which you obviously can't see. They recommend obviously staying inside whenever possible. If you're going outside, don't do any strenuous exercise. It is not the time to do a long run, for example, in this kind of conditions, wear high quality masks, particular, really, if you're in a vulnerable group, an N-95 or a KN-95. Those are what experts recommend. I saw a lot of folks wearing those during the commute this morning outside, taking them off when they got inside.For indoors, particularly in the homes, HEPA filters are really important and can be extremely helpful, so portable air cleaners can be something that helps a lot, too, Kate.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:05:06",
+      "speaker": "BOLDUAN",
+      "sentences": "Thank you so much, Meg, and thank you, Athena, for being out in it for us today. John?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:05:06",
+      "speaker": "BERMAN",
+      "sentences": "No long run going to the gym. It's leg day.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:05:06",
+      "speaker": "BOLDUAN",
+      "sentences": "Exactly.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:05:06",
+      "speaker": "BERMAN",
+      "sentences": "All right. Moments ago, Taylor Budowich, who has worked as a spokesperson for former President Donald Trump, arrived at a federal courthouse in Miami. Now, a grand jury in Florida is hearing testimony in the classified documents probe surrounding the former president. We just learned about this second Florida grand jury. The first we knew about was in Washington, D.C.All of this comes as we have also learned that Trump's former chief of staff, White House Chief of Staff Mark Meadows, has now testified in both the documents case and the investigation into January 6. He was asked questions about both. With us now, CNN Legal Analyst and former Federal Prosecutor Jennifer Rodgers. Jennifer, I want to stipulate, you know, we don't know what's going on behind the scenes. What we do know is what we see, which is this flurry of activity the last week, including Trump's lawyers meeting at the Department of Justice, this second grand jury hearing, witnesses, the news that Mark Meadows has testified all points to maybe some kind of conclusion here. Why?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:05:06",
+      "speaker": "JENNIFER RODGERS, CNN LEGAL ANALYST",
+      "sentences": "Well, they're wrapping things up, right? I mean, Mark Meadows is certainly one of the most important, probably the most important witness, and they've now spoken to him. You want to do that later in the game so you can collect as much information as you can before you speak to him. The DOJ meeting is the sort of thing that usually happens at the end of the investigation. They're putting in a lot of obstruction of justice witnesses, which is the secondary concern after the documents piece. So, all of that suggests that they are wrapping up and are close to making a decision.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:05:06",
+      "speaker": "BERMAN",
+      "sentences": "Florida. Explain what the Florida grand jury might mean.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:05:06",
+      "speaker": "RODGERS",
+      "sentences": "One of two things. It could be a convenience thing. There are witnesses that are down there they want to just put in because it's easier for them. But it's probably about venue. Prosecutors have to prove venue for every single count they charge, meaning that they're charging in a district where at least some of the criminal conduct occurred.Most of that here is in Florida, right? That's where the documents were found. That's where the obstruction happened, also probably in D.C., where the documents were taken from. But it may be that prosecutors have decided that Florida is the right place to charge this because most of the conduct happened there, or that they're actually just going to charge a piece of it in Florida. Perhaps one or two people who were just involved in the obstruction at Mar-a-Lago, perhaps they would actually split it and charge the whole obstruction case there, and the documents case in D.C. We don't know. But that's one of the things that could be happening.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:05:06",
+      "speaker": "BERMAN",
+      "sentences": "So, Mark Meadows, the former Chief of staff, just so people know, obviously, he was a central figure around the events of January 6. The congressional investigation used a lot of text messages that Mark Meadows had received and sent during that time, but also a figure in the classified documents probe. He was the chief of staff at the end of the administration. It was people involved with helping him write his autobiography that have the tape of Donald Trump discussing classified documents, perhaps, it seems, acknowledging possession of them and knowledge that he wasn't supposed to have them at that point. So, how important would his testimony be?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:05:06",
+      "speaker": "RODGERS",
+      "sentences": "Oh, it's crucial. I mean, it's absolutely critical in the January 6 side, but as you said, it's important in the documents investigation, too. He was one of the people who Trump had appointed to be the liaison with the National Archives, for example. He would have overseen the packing up of information and moving it from D.C. to Mar-a-lago. So, for a whole host of reasons, they would have really wanted to talk to him in that investigation as well.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:05:06",
+      "speaker": "BERMAN",
+      "sentences": "There have been people for now well over a year who have suggested maybe Mark Meadows has some kind of criminal liability here. The reason I say that is, what's the likelihood that he would testify before a grand jury without some kind of a deal, some kind of immunity?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:05:06",
+      "speaker": "RODGERS",
+      "sentences": "Well, if he actually answered the questions, there's no possibility that he didn't have protection. He's not a moron. He has a very good, capable, experienced lawyer. There's no way they went in there to answer questions without some sort of immunity. So, either that means prosecutors just gave him immunity in exchange for his testimony, or I think this is less likely, but a cooperation agreement, where he actually would agree to plead guilty and testify in exchange for his testimony.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:05:06",
+      "speaker": "BERMAN",
+      "sentences": "And, of course, the third possibility, which you mentioned first, is he could have gone in and took the Fifth to every question. But why wouldn't prosecutors do that, necessarily?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:05:06",
+      "speaker": "RODGERS",
+      "sentences": "Well, if he did that, then they would just turn around and force one of the other two options, right? They then either give him immunity and force him to go back, or if they could actually persuade him that they were ready to charge him, and they would charge him otherwise, maybe they could get him to take a cooperation agreement. BERMAN",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:05:06",
+      "speaker": "RODGERS",
+      "sentences": "Well, we won't find out about it unless it leaks somehow, until someone is arrested and the indictment is unsealed. I think it's likely they'll try to bring this whole thing in one place. It just doesn't make a lot of sense logistically to split it up unless they just peel off one or two small players to do in Florida, for example. But they could legally. But I suspect they'll do it all together. And as soon as the first person on that indictment is arrested, it will all be unsealed and we will all know.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:05:06",
+      "speaker": "BERMAN",
+      "sentences": "Jennifer Rodgers, a lot of information, a lot of goings on, thank you very much. Sara?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:05:06",
+      "speaker": "SIDNER",
+      "sentences": "Sticking with politics. Now it's official. Former Vice President Mike Pence is running for president. He joined an already crowded field of Republican contenders hoping to unseat Donald Trump as who is currently the Republican frontrunner.Pence, who turned 64 today, kicked off his presidential bid with a campaign video slamming President Biden. (BEGIN VIDEO CLIP) MIKE PENCE, FORMER U.S. VICE PRESIDENT:  We can turn this country around, but different times call for different leadership. Today, our party and our country need a leader that will appeal, as Lincoln said, to the better angels of our nature. And it'd be easy to stay on the sidelines but that's not how I was raised. That's why today, before God and my family, I'm announcing I'm running for president of the United States. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:05:06",
+      "speaker": "SIDNER",
+      "sentences": "Kyung Lah is joining us now from Iowa. Donald Trump, the clear Republican frontrunner. What are you expecting to hear from former Vice President Pence today?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:05:06",
+      "speaker": "KYUNG LAH, CNN SENIOR NATIONAL CORRESPONDENT",
+      "sentences": "Well, the message that former Vice President Pence will be taking here at this rally and then again at the CNN town hall and then going through all the living rooms and the town halls here in Iowa is delivering a message of conservatism, of religious principles, getting back to the roots of sort of the Ronald Reagan Republicanism that the Pence campaign says has been since abandoned among the new right and that the person who should return the Republican Party to those strong conservative values is Mike Pence, the former vice president under Donald Trump, who pushed this new right.It is his vice president who will now face him here in Iowa who wants to return to a previous version of Republicanism. The vice president is someone here who the campaign says is known. He's well known 100 percent name I.D., they contend. But what they say is not known is the depth of his experience, the strength of his religious upbringing and his conservative values, his length of time in government, whether that be as a conservative member of Congress or as a chief executive, the governor of Indiana. And that is a message, Sara, that they say will work in the handshakes. The one-on-one campaigning with Iowans, that that will work along with the former governor of Indiana, talking to them about how he would run the entire country and trying to bring the Republicans back. The problem, though, will be whether this party actually wants to hear it from the former vice president. Sara?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:05:06",
+      "speaker": "SIDNER",
+      "sentences": "A lot of questions. Kyung Lah, thank you. It's nice to see you back on the trail again. I appreciate it. Kate?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:05:06",
+      "speaker": "BOLDUAN",
+      "sentences": "So, beyond Mike Pence, the 2024 Republican field, of course, continues to expand. Just about an hour ago, North Dakota's Governor Doug Burgum, he filed to run for president as well. He is set to kick off his campaign with an event in Fargo later today. And last night, former New Jersey Governor Chris Christie, he launched his campaign, very quickly taking on directly Donald Trump, a man once considered his friend.Now listen to him. (BEGIN VIDEO CLIP) FMR. GOV. CHRIS CHRISTIE (R-NJ):  Beware of the leader in this country who you have handed leadership to, who has never made a mistake, who has never done anything wrong, who, when something goes wrong, it's always someone else's fault, and who has never lost. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:15:01",
+      "speaker": "ALICE STEWART, CNN POLITICAL COMMENTATOR",
+      "sentences": "Well, clearly, Kate, their campaign recognizes the fact that there was no daylight between Pence and Trump for four years throughout this administration until the very end, when the vice president stood up and said he was not going to take orders from Trump about not certifying the election.And another strategy with that is, the goal of any Republican challenger to Trump is to keep his base on board. Those MAGA Republicans, the solid core Trump supporters, need to be moved into another camp. And by Pence not making direct shots at the former president, he's making a play to those supporters, which is key. But I would imagine that tonight at the town hall, and as he makes his case across Iowa, New Hampshire and South Carolina, he's going to have no choice but to show contrast and point out what he sees as the shortcomings of the former president in order for him to show contrast with the voters.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:15:01",
+      "speaker": "BOLDUAN",
+      "sentences": "And, Alice, what you're laying out -- what you're starting to lay out is a bit of a dilemma that Pence has, is it's those who don't support Donald Trump could see him as Trump's loyal vice president and those who support Donald Trump could see Mike Pence as the person who turned on Trump on January 6th and afterward. So, what is his lane?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:15:01",
+      "speaker": "STEWART",
+      "sentences": "His lane is for a lot of the disaffected Republicans and the independents, and, quite frankly, Kate, a lot of Republicans that I speak with in Iowa that are evangelicals. They're ready to turn the page on Donald Trump. They supported his policies. They supported what he was able to accomplish, specifically with the Supreme Court. But they do not like the tone and tenor in which he carried them out. And they are looking for someone who represents the policies of Trump but without the dumpster fire that comes along with it.So, people in Iowa as well as New Hampshire and South Carolina, their arms are open, their eyes are open, and they're ready to listen to someone that can bring -- lower the temperature much more in the environment and look more to the future of what they can do for the country as opposed to past grievances of the candidate.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:15:01",
+      "speaker": "BOLDUAN",
+      "sentences": "So, then now let's talk about Chris Christie in kind of this context. He announced he's running yesterday. You said that you're excited to see him get into this race. Why?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:15:01",
+      "speaker": "STEWART",
+      "sentences": "Well, a couple of things. First off, he's going to have a little bit of a challenge out of the gate because he was supportive of Donald Trump at the beginning. He helped fuel his campaign in 2016. Now, he is pouring fire on the campaign, without a doubt. And Teflon Don is about to meet Kamikaze Chris, who has said he's not a paid assassin but he is clearly giving himself carte blanche to go full speed ahead right into Donald Trump.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:15:01",
+      "speaker": "BOLDUAN",
+      "sentences": "What do you think of that choice?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:15:01",
+      "speaker": "STEWART",
+      "sentences": "Look, someone has to do this. Someone has to go right directly at Donald Trump in order to make it through the primary and then to President Biden. And while Chris Christie says he's not a paid assassin, he is going to go after Donald Trump. He -- clearly, in his message last night, he said that Donald Trump is a loser. He has said in the past he is a puppet of Putin.And the takeaway line that we're going to hear over and over from Chris Christie is that Donald Trump is a loner who is self-absorbed, self-serving, mirror hog that is not a leader. And he will continue to make that case as he goes about the campaign trail. And look, the Wall Street Journal made an excellent point, too. He says that while Christie may have self-guided missile right to Donald Trump, it could be unguided and actually take down Ron DeSantis at the same time, which could possibly create a lane for Chris Christie. But look, he is going to hold nothing back. He is a well-spoken former governor who doesn't hold back any punches. He is unapologetic, and he clearly is doing everything he can. If nothing else, he wants to take out Donald Trump. Ideally, Christie would win and become the nominee.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:15:01",
+      "speaker": "BOLDUAN",
+      "sentences": "And we shall see it together. It's great to see you, Alice. Thank you so much.And a reminder to all of you, Chris Christie is going to be joining CNN's Jake Tapper live on the lead today at 04:00 P.M. Eastern. And, tonight, Dana Bash will be moderating a CNN presidential -- Republican presidential town hall with former Vice President Mike Pence. That begins tonight at 09:00 P.M. Eastern. John?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:15:01",
+      "speaker": "BERMAN",
+      "sentences": "It really is all happening right here at CNN.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:15:01",
+      "speaker": "BOLDUAN",
+      "sentences": "It is. Can we go back really very briefly? Remember, we were saying we can't wait to see Donald Trump and Chris Christie on the debate stage?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:15:01",
+      "speaker": "BERMAN",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:15:01",
+      "speaker": "BOLDUAN",
+      "sentences": "I can't believe I didn't remember this yesterday, Chris Christie helped lead Trump debate prep against Biden.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:20:01",
+      "speaker": "BOLDUAN",
+      "sentences": "Opening statements begin today and the trial against the former school resource officer who stayed outside of Marjory Stoneman Douglas High School in 2018 as 17 people were killed inside the state of Florida Scot Peterson of failing to fall follow his active shooter training.[10:25:00] Peterson has pleaded not guilty to 11 charges and maintains he did nothing wrong. Promising news this morning about Buffalo Bills defensive back to Damar Hamlin, he was back running drills with a helmet on at a practice open to the media for the first time since he collapsed on the field in January. His coach says the next step will be full pads and tackling a training camp. Over the weekend, Hamlin also launched a tour to teach CPR and distribute defibrillators to use sports in community groups. A Florida government agency says that three dozen migrants that were flown to Sacramento did so voluntarily. The migrants, they say, went there voluntarily. California officials are looking into whether the flights broke any laws. Meanwhile, a sheriff in Bexar County, Texas, is recommending criminal charges over previous migrant flights from Florida to Martha's Vineyard. Sara?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:20:01",
+      "speaker": "SIDNER",
+      "sentences": "We are waiting for an update now from the Vatican after Pope Francis was admitted to a hospital in Rome to undergo abdominal surgery. 86-year-old Pope Francis has been placed under general anesthesia to fix a hernia. He's expected to remain in the hospital for several days for recovery afterwards.CNN's Barbie Latza Nadeau is in Rome, outside the hospital where Pope Francis has had this surgery. Any update at this point?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:20:01",
+      "speaker": "BARBIE LATZA NADEAU, CNN CONTRIBUTOR",
+      "sentences": "Well, we do know that the surgery has begun, that's according to the Vatican. But we haven't heard any confirmation that it's finished or how it went. Now, it's important to note that even though he's 86, this is not an emergency surgery per se.He came to this very hospital where popes have come for years for any of their ailments yesterday for about an hour for an appointment. Then he attended his open air mass this morning, his general audience, and then he drove himself, or he was driven, I should say, to the hospital to be admitted. So, he didn't come in an ambulance. It's just something that is to take care of some discomfort he was having. A lot of this is because he has a very busy summer ahead. He's planning to go to Portugal for the World Youth Day in August. He's planning then to go to Mongolia at the end of August. So. he's got a lot on his schedule. This surgery, the Vatican tells us, they expect him to fully recover so he can get back on his feet and get back out there. And so we're waiting to hear how the surgery went. Of course, anyone over the age of 80, he's 86, there are risks involved, but the Vatican seems to believe that he will come through just fine. We'll let you -- update you when we have that information, Sara.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:20:01",
+      "speaker": "SIDNER",
+      "sentences": "Thank you. Yes, anytime someone of that age goes under the knife, it can be very scary sometimes just because of the anesthesia. So, it's good to know that at this point in time, you don't have any major updates, but that the surgery is underway. I appreciate it, Barbie. All right, Kate?",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

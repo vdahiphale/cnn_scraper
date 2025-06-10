@@ -1,0 +1,151 @@
+{
+  "date": "2023-03-15",
+  "headline": "CNN Newsroom",
+  "subHeadline": "Soon: Top Pentagon Officials Speak After Russia Downs U.S. Drone. Aired 2-2:30p ET",
+  "utterances": [
+    {
+      "timeStamp": "14:00:00",
+      "speaker": "VICTOR BLACKWELL, CNN ANCHOR",
+      "sentences": "Welcome to CNN NEWSROOM. I'm Victor Blackwell.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:00:00",
+      "speaker": "BIANNA GOLODRYGA, CNN ANCHOR",
+      "sentences": "And I'm Bianna Golodryga.In moments, the nation's top defense officials are expected to take reporters' questions. This, of course, after the Pentagon says Russia downed an American drone over the Black Sea. A high-level Russian official said Russia will try to retrieve the wreckage of the MQ-Nine Reaper while White House officials say finding the debris may be impossible. The US military said on Tuesday a Russian jet dumped fuel on the unmanned U.S. aircraft which it says was doing routine operations in international airspace.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:00:00",
+      "speaker": "BLACKWELL",
+      "sentences": "The Russian jet then hit the propeller of the Reaper, forcing its remote pilots to bring it down in international waters. Now, the Pentagon says the move was part of a Russian pattern of aggression. But the Kremlin gives a different version of events and declared today that U.S. and Russia relations are at their lowest point and in a deplorable state.CNN's Oren Liebermann is standing by at the Pentagon waiting for this press conference to begin. Oren, do you have some new developments to report about a call between the U.S. and Russia?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:00:00",
+      "speaker": "OREN LIEBERMANN, CNN PENTAGON CORRESPONDENT",
+      "sentences": "Unexpected call at this point. We're waiting to find out if this happens and when it happens. This would be between the top U.S. General and his Russian counterpart according to a U.S. defense official familiar with the plans. That would be Joint Chiefs Chairman General Mark Milley expected to speak to general Valery Gerasimov.They haven't spoken all that often. In fact, according to the readouts, the last time they spoke was about three months ago in December. But they have spoken at critical moments. And this would certainly be one of those critical moments just one day after the two Russian jets essentially harassed, intercepted, and then collided with the MQ-Nine Reaper drone over international airspace over the Black Sea. So, we'll wait to find out if and when this happens. It is worth noting that occasionally or frequently, I should say these calls happen in tandem with a call between defense secretary Lloyd Austin and his Russian counterpart, Russian Ministry of Defense Sergei Shoigu. But we're not sure if that call is expected to happen. That's what we're waiting to find out. And we'll see if we learn more about those expected calls or call in just a few minutes when the two hold a press conference here at the Pentagon.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:00:00",
+      "speaker": "GOLODRYGA",
+      "sentences": "And there's great interest on any information that drone would contain. What is the military saying it's doing to protect U.S. information from that drone getting into the wrong hands?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:00:00",
+      "speaker": "LIEBERMANN",
+      "sentences": "Of course. We first heard from John Kirby, the Strategic Communications Coordinator for the National Security Council that the U.S. had taken steps to protect the equities on that drone. We now have a far better sense of what exactly that means to make sure that sensitive information doesn't fall into Russian hands or other hands.According to two U.S. officials familiar with the incident, the U.S. was able to remotely wipe the software from the drone, essentially erasing the sensitive software that carries out the signal's intelligence gathering, and essentially carries out the sensitive part of the mission of the drone, which is the intelligence collection and the surveillance. The U.S., after the incident, after the collision in the interception was able to remotely wipe the software off the drone before it crashed into international waters in the Black Sea. Russia has said they'll try to essentially go recover or collect the drone from the Black Sea. Although even they acknowledged they might not be able to. There are no U.S. Navy assets in the Black Sea that would be able to carry out that mission. So, to protect the information, to protect the sensitive software on the drone, which is the most sensitive part of this, the U.S. was able to remotely wipe it after the incident -- after that interception, Bianna and Victor.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:00:00",
+      "speaker": "BLACKWELL",
+      "sentences": "Oren Liebermann, thank you. Stand by, we'll talk to you after this news conference. Until then, let's bring in CNN anchor and chief national security correspondent Jim Sciutto, and CNN national security analyst Steve Hall, a former CIA chief of Russia operations. Gentlemen, good to see you.Jim, let me start with you. And we heard from Ned Price, the spokesman at the State Department today, he told NBC News that this Russian jet appeared to be careening and potentially out of control. And he actually said that the assessment was that this was unintentional. I heard that from him, but not administration-wide. What are your sources saying? Is there a consensus around that?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:05:09",
+      "speaker": "GOLODRYGA",
+      "sentences": "And it's -- of course, it's coming at a precarious time when the West is trying to negotiate or renegotiate an export grain deal out of Odessa there. Obviously, that would impact millions of people around the world.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:05:09",
+      "speaker": "BLACKWELL",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:05:09",
+      "speaker": "GOLODRYGA",
+      "sentences": "Steve, let me ask you about Russia's attempt, as they said, to retrieve the wreckage from this drone. The United States said that likely is not retrievable at this point but they effectively wiped the drone of any sensitive information. That still doesn't deny Russia access to the drone itself, the physical hardware if they're able to retrieve it. Would they be able to reverse engineer it in that situation, either domestically or via Iran?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:05:09",
+      "speaker": "STEVE HALL, CNN NATIONAL SECURITY ANALYST",
+      "sentences": "Bianna, the actual outside of the -- of the -- of the aircraft -- of the drone itself, I think has been widely observed by the Russians. So, in terms of them having a better understanding of how the airframe itself works, and all that sort of thing, there's probably some limited return. As was being reported earlier, the more sensitive stuff inside the drone that processes the imagery that encrypts that does sort of bad things that the Russians would be much more interested in, you know I can't say a whole lot about it. But suffice it to say that the U.S. defense system takes into account the probability that these things happen and takes appropriate measures to make sure that the bad guys in this case, the Russians, don't get anything.It is interesting that Patrushev, who's a former intelligence officer himself is the one who said, yes, we're going to go after and try to get this thing if we can -- if we can get it. So, that's sort of message sent here, I think by the Russians.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:05:09",
+      "speaker": "BLACKWELL",
+      "sentences": "Again, what you're seeing on the screen -- let's pop that backup. We're awaiting a news conference here from the Pentagon. The Secretary of Defense and the Chairman of Joint Chiefs who will be speaking in just a moment.Jim, let me come back to you. The message sending that Steve just mentioned from the Russians, the U.S. also sending its own message saying that there's a good chance we won't get to it, we've wiped it clean. How much of that is a message sending that what you'll find really isn't worth anything?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:05:09",
+      "speaker": "SCIUTTO",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:05:09",
+      "speaker": "BLACKWELL",
+      "sentences": "It's such deep water.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:05:09",
+      "speaker": "SCIUTTO",
+      "sentences": "I mean, it'll be worth something, right? I mean, the -- look at the efforts that the U.S. went to go after the remaining pieces of the Chinese surveillance balloon, right?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:05:09",
+      "speaker": "BLACKWELL",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:05:09",
+      "speaker": "SCIUTOO",
+      "sentences": "There were a lot of ships and there were a lot of divers involved. You can wipe a certain amount but there's hardware in there that you can't get rid of even with a high-speed impact with the water. So, there may be some value. The question is to what degree there's value here.I think as you -- as you look at this, we already know that some U.S. weapons -- high technology weapons have fallen into Russian hands in the Ukraine war. It happens as Ukrainian positions are overtaken in some places. And CNN reported recently that some of those weapons, javelins, for instance, stingers have been sent to Iran expressly for the purpose of reverse engineering. And by the way, China is another country that does this kind of thing, both with surreptitious means, stealing plans via cyberattacks, and also through gaining hardware. This is -- this is what adversaries do to gather intelligence on each other. And when you fly this stuff around or supplied as weapons in ongoing wars, there's a risk that some of it ends up in the other side's hands.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:05:09",
+      "speaker": "GOLODRYGA",
+      "sentences": "And, Steve, the incident itself may have been unintentional, but Russia's response has been unsurprisingly belligerent. We've seen Russia's ambassador to the U.S. telling the Americans that we won't allow anyone to violate our waters anymore.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:05:09",
+      "speaker": "HALL",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:05:09",
+      "speaker": "GOLODRYGA",
+      "sentences": "It's international waters, but they're calling it Russian. And Russian Foreign Minister Sergey Lavrov just today also said that the United States was ignoring the fact that Russia had established airspace restrictions around the area. What does that tell you in terms of how Russia views the entire Black Sea which borders many other countries not just Russia alone?Hall: Right. Sure. Some NATO countries, in fact, bordered the Black Sea. But there's a couple of things that's interesting about it. The first is, is really interesting and obviously -- clearly sort of funny to me, whenever the Russians start claiming things along the lines of international law. So, you know despite the fact that they've invaded a foreign or a neighboring country and that they've done all of these horrific war crimes, they're still willing to say. But in terms of international law, we were in the right on this one. So that's always kind of -- it's kind of -- it's kind of good for a lap, I think. [14:10:00] But the second point, getting back to that messaging thing is, this isn't an entirely bad incident for the Russians because what it does, they're keenly aware, Putin is, of what the political situation is here in the United States and that there's some concern on various parts of the U.S. political spectrum. Some of it on the -- on the right, a bit of it on the left, about getting sucked into this war as Jim was talking about earlier. And if these types of things start to happen, they know we get nervous. And if we're nervous, then there's a greater likelihood we're going to give less support to Ukraine in the future. That's the Russian hope. And so, a situation like this perhaps works in their favor in that regard.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:05:09",
+      "speaker": "SCIUTTO",
+      "sentences": "It's such a -- it's such a great point if I could add because you saw a similar domestic disagreement over the reaction to the Chinese surveillance balloon, Bianna and Victor. And in fact, some senior U.S. military officials commented afterwards that part of China's sort of modus operandi in that whole event was to seed those internal disagreements, as it often does because that's to their benefit. So, when you hear the public comments from various prominent U.S. officials and some on opposing sides of this, those are things that both Russia and China are happy to see it attempt to profit from.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:05:09",
+      "speaker": "GOLODRYGA",
+      "sentences": "Well, the U.S. has flown these Reaper drones in the Black Sea area before Russia invaded Ukraine last year, and the United States in response says they will continue to do so. Jim Sciutto and Steve Hall, standby --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:05:09",
+      "speaker": "SCIUTTO",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:15:30",
+      "speaker": "BLACKWELL",
+      "sentences": "All right. So, we're waiting for this pentagon briefing to begin. We're expecting to hear from the secretary of defense and the chairman of the Joint Chiefs. Until then, we've got CNN's Jim Sciutto with us.Jim, let me ask you about something we heard from Republican congresswoman Nancy Mace that there should be some sanctions imposed on Russia for the clipping of this drone. We've seen that sanctions have been overwhelmingly influential in the -- in relation to the invasion of Ukraine, but do you expect that that will happen? And what will it mean? SCIUTTO: It's hard to imagine what other sanctions you would add, given the raft of sanctions already applied to Russia by the U.S. and its allies. And not just sanctions like we've often seen the categories of individuals and entities, you'll often hear that with relation to Russia, North Korea, Iran, China as well. But it's really been a concerted effort to cut off Russia from the global economy right from the west. You have Europe in effect in a very short order, taking its entire dependence on Russian -- ending its dependence on Russian energy. So, hard to see what specific steps -- and I see Secretary Austin coming in now.",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

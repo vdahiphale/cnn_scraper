@@ -1,0 +1,67 @@
+{
+  "date": "2024-02-20",
+  "headline": "CNN 10",
+  "subHeadline": "New AI Tool Can Create Videos From Text; The Death of Alexey Navalny, a Well-Known Critic of Russian President Vladimir Putin. Aired 4- 4:10a ET",
+  "utterances": [
+    {
+      "timeStamp": null,
+      "speaker": "MATTHEW CHANCE, CNN SENIOR INTERNATIONAL CORRESPONDENT",
+      "sentences": "Lawyer, politician, and anti-corruption activist Alexei Navalny led street protests against theKremlin for years, but never managed to challenge Putin in the ballot box, famously branded Putin`s United Russia party as the party of crooks and thieves. Navalny rose to prominence in 2008, when he began blogging about the alleged corruption within Russian state-run companies. In 2011, he emerged as one of the leaders of the massive protests that broke out after allegations of massive fraud in parliamentary elections. Navalny was arrested numerous times and was convicted on embezzlement charges. His first embezzlement conviction came in 2013, as the anti- corruption activist was preparing to run for mayor of Moscow. Navalny was found guilty of misappropriating about half a million dollars` worth of lumber from a state-owned company. The activist denied the accusations saying that the charges were politically motivated. The day after the conviction however, the state prosecutor stunned observers by requesting that Navalny be freed on bail so he could continue campaigning for mayor of Moscow. But Navalny lost to former presidential aide and interim Moscow mayor Sergey Sobyanin. In 2017 during the retrial of the same case, Navalny was found guilty and received a five-year suspended prison sentence. This time the conviction prevented him from running against Putin in the 2018 presidential elections. ALEXEI NAVALNY (through translation): It is not about Navalny. It is about the fact that a candidate is needed who will finally come to the election and speak openly about everything that happens in our country now, who will describe our reality honestly, absence of prospective, poverty. I did that and that`s why you don`t want to let me take part in the election.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": null,
+      "speaker": "CHANCE",
+      "sentences": "Russian state media has often silenced the anti-corruption activist but that didn`t stop Navalny who took his anti-Putin message to You Tubewhere he frequently broadcast to hundreds of thousands of viewers. The Kremlin has often condemned Navalny as a dangerous threat to the country`s stability and has rejected his allegations of widespread, high- level corruption. But outside Russia, many see Navalny as an alternative to hardline Putin. NAVALNY (through translation): The choice is very simple, you`re either scared or you go on. I chose to go on a long time ago and I won`t give up on my country. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": null,
+      "speaker": "YURKEVICH",
+      "sentences": "It is 10 second trivia time.Which American filmmaker created the infamous \"War of the World`s\" radio play that sparked panic in 1938? Alfred Hitchcock, Clint Eastwood, Billy Wilder, or Orson Welles. You said Orson Welles. Well, you`re right. The radio broadcast fooled an audience of millions by mimicking the style of a news report. Some listeners were convinced that Martians had actually attacked New Jersey. OK, this next story will blow your mind. And maybe even your eyes. Isn`t this video of a Victoria crowned blue pigeon, just gorgeous? Well, guess what? It`s not even real and that`s not actually a bird and no one actually even filmed this video. It was all generated using artificial intelligence. AI leader, OpenAI, the company behind the viral ChatGPT has introduced this new model called Sora. The company says Sora can create realistic videos of up to 60 seconds long, just from quick text prompts. Like this example of a mesmerizing scenic shot in Big Sur, California. OpenAI has not released this to the public just yet because the company says it intends to work on the safety issues behind these models. Sora, however, is making some tech experts concerned. Our Michael Holmes spoke with Kristian Hammond, the Director of the Center for Advancing Safety of Machine Intelligence at Northwestern University about what this breathtaking tool could actually mean. (BEGIN VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": null,
+      "speaker": "KRISTIAN HAMMOND, DIRECTOR, THE CENTER FOR ADVANCING SAFETY OF MACHINE INTELLIGENCE",
+      "sentences": "We have to get used to the idea that all of these things wethought were part of establishing truth really no longer will.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": null,
+      "speaker": "MICHAEL HOLMES, CNN NACHOR",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": null,
+      "speaker": "HAMMOND",
+      "sentences": "And we have to have an eye towards that.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": null,
+      "speaker": "HOLMES",
+      "sentences": "Yeah. OpenAI, they`ve weighed into this and they said, and I`ll quote them too. They say, we are working with red teamers -- domain expertsin areas like misinformation, hateful content and bias -- who will be adversarially testing the model. Are you reassured by that at all? I`m not sure I am.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": null,
+      "speaker": "HAMMOND",
+      "sentences": "We really now have to put this, not only in the hands of the technology companies, and we have to force them to work as hard as they canto make sure the content is good. We have to realize that it`s up to us now.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": null,
+      "speaker": "HOLMES",
+      "sentences": "Yeah.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": null,
+      "speaker": "HAMMOND",
+      "sentences": "To be able to look at the content we see and make decisions about whether or not we believe it or not. It`s just that we have to startthinking less about the technology and more about how it`s used. And if we`re going to regulate, it`s going to be regulating the use, not the technology itself because the technology is here to stay. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

@@ -1,0 +1,649 @@
+{
+  "date": "2024-05-16",
+  "headline": "CNN This Morning",
+  "subHeadline": "CNN Presidential Debate Set for June 27 In Atlanta; Source: Defense To Deploy \"Liar, Liar\" Strategy Against Cohen; Putin In China For Visit Meant To Deepen Relations. Aired 5:30-6a ET",
+  "utterances": [
+    {
+      "timeStamp": "05:30:00",
+      "speaker": "KASIE HUNT, CNN ANCHOR",
+      "sentences": "All right, welcome back. Just before 5Good morning, everyone. I'm Kasie Hunt. It wonderful to have you with us. A foot chase on Capitol Hill, of course, caught live on camera -- that's the point. Our very own Manu Raju conducting an on-the-fly interview with Democratic Texas Congressman Henry Cuellar who was recently indicted on federal bribery charges. Just yesterday, a third person pleaded guilty in connection to the investigation into Cuellar and his wife. Here's what Cuellar told CNN. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:30:00",
+      "speaker": "MANU RAJU, CNN CHIEF CONGRESSIONAL CORRESPONDENT",
+      "sentences": "Jake, I want to pause right here because I'm going to try to ask Congressman Henry Cuellar, who has been indicted on federal charges --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:30:00",
+      "speaker": "JAKE TAPPER, CNN ANCHOR AND CHIEF WASHINGTON CORRESPONDENT",
+      "sentences": "Sure, go for it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:30:00",
+      "speaker": "RAJU",
+      "sentences": "-- about that. Mr. Cuellar, three of your people you have ties to just pleaded guilty in this bribery case against you. What's your reaction to that?REP. HENRY CUELLAR (D-TX):  We're not afraid of the truth.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:30:00",
+      "speaker": "RAJU",
+      "sentences": "What's that supposed to mean? Two of them were your -- one was a consultant and a campaign chairman who said they're funneling bribes to you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:30:00",
+      "speaker": "CUELLAR",
+      "sentences": "It's -- like I said, we're not afraid of the truth.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:30:00",
+      "speaker": "RAJU",
+      "sentences": "What about the $600,000 in payments? How did that get in your bank account?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:30:00",
+      "speaker": "CUELLAR",
+      "sentences": "That's not (INAUDIBLE). RAJU",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:30:00",
+      "speaker": "CEULLAR",
+      "sentences": "No.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:30:00",
+      "speaker": "HUNT",
+      "sentences": "Will you resign? No.Joining me now, CNN political analyst Jackie Kucinich. Jackie, good morning to you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:30:00",
+      "speaker": "JACKIE KUCINICH, CNN POLITICAL ANALYST, WASHINGTON BUREAU CHIEF, THE BOSTON GLOBE",
+      "sentences": "Good morning.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:30:00",
+      "speaker": "HUNT",
+      "sentences": "This is the playbook that a lot of these guys now seem to run. I mean, Bob Menendez is still in Congress. Cuellar saying that he's not going to step down. But a very troubling set of allegations for him in a district that Republicans have tried to win the past but seem not to be necessarily being as aggressive about this time.What's going on here?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:30:00",
+      "speaker": "KUCINICH",
+      "sentences": "So, yes, we have seen that very similarly play out. But I will say his gait wasn't as fast as I'm used to members of Congress running away from Manu when he has tough questions.But that said, yes. And these are close campaign aides that are associated with Cuellar who are pleading out in this case. And whether or not -- he's saying he is innocent of taking, I think it's like $600,000 --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:30:00",
+      "speaker": "HUNT",
+      "sentences": "Yeah.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:30:00",
+      "speaker": "KUCINICH",
+      "sentences": "-- in bribes, and that will play out on the legal side.On the political side, Republicans -- they may not be going after him in his district -- which is, quite frankly, very surprising because that is one of those districts the Republicans have been trying to win for cycles and cycles -- they are using it to attack other Democrats in the state. And in Washington, they're using it to muddy the waters and to say they're not as pure as the newly fallen snow. Look it -- they have problems in their caucus as well.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:30:00",
+      "speaker": "HUNT",
+      "sentences": "Right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:30:00",
+      "speaker": "KUCINICH",
+      "sentences": "So whenever you have that -- when -- I mean, I think you see this in a lot of cycles. Once one party thinks they have the high ground, just wait because there's always someone with some problems. But this certainly isn't looking great for Congressman Cuellar.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:30:00",
+      "speaker": "HUNT",
+      "sentences": "Yeah. I think the phrase is \"There but for the grace of God --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:30:00",
+      "speaker": "KUCINICH",
+      "sentences": "Very true.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:30:00",
+      "speaker": "HUNT",
+      "sentences": "-- go I.\" So this -- there is also, of course -- and we mentioned it briefly earlier in the show -- Sen. Bob Menendez whose trial is beginning. And we're getting a little bit of a look at his legal strategy, which seems to be to blame his wife. I'm not sure exactly how the marriage is going to go once that legal strategy comes to full fruition. But basically, they're arguing that she did some of this without his knowledge.What are the dynamics around Menendez because a good -- about half of Senate Democrats have called for him to step down --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:30:00",
+      "speaker": "KUCINICH",
+      "sentences": "Very vocally.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:30:00",
+      "speaker": "HUNT",
+      "sentences": "-- and to leave Congress? He has refused to do that and the Democratic leadership is not pushing him out.But what's next for him here in this -- in this fight?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:30:00",
+      "speaker": "KUCINICH",
+      "sentences": "When you -- when you talk about any senator, particularly senators right now, you've just got to look at the makeup of the Senate. Anyone who -- any Democrat they lose could be problematic for keeping hold on the Senate. I think that's some of the strategy you're seeing on that side.And, yeah -- I mean, but they're also going to try keep their distance from it because, again, like what's happening with Congressman Cuellar, they're watching Republicans try to take advantage of this and paint all Democrats with this broad brush and muddy the waters so Republicans have an even stronger hand going into the Senate elections because, as we know, the map is very much in their favor.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:30:00",
+      "speaker": "HUNT",
+      "sentences": "Right. Well, and you can tell who exactly -- they kind of go in order of how tough is their race in terms of how they make these (INAUDIBLE).",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:30:00",
+      "speaker": "KUCINICH",
+      "sentences": "(INAUDIBLE), right?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:30:00",
+      "speaker": "HUNT",
+      "sentences": "Yes. Senators from places like Montana and Arizona going first --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:30:00",
+      "speaker": "KUCINICH",
+      "sentences": "Oh, weird.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:30:00",
+      "speaker": "HUNT",
+      "sentences": "-- and then the rest following. I know, it's unusual, right?So, Jackie, let's talk about the big news this morning which is, of course, yesterday, the debates --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:30:00",
+      "speaker": "KUCINICH",
+      "sentences": "Right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:30:00",
+      "speaker": "HUNT",
+      "sentences": "-- were announced. There's going to be one here -- right here on CNN on June 27. It's going to be the earliest debate in television history, basically, in terms of when in the cycle it's going to take place.The Biden team making the argument a lot of people make up their minds well before late September-October. Now they're able to vote early in many states and that this makes a lot more sense. What's your view of why the Biden team did this because I will say I've talked to some people who think it's an acknowledgment that he's behind?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:35:08",
+      "speaker": "HUNT",
+      "sentences": "Do we have that, guys? Can we just remind everyone of the -- because this moment -- this moment that Jackie references is really -- it helps explain everything that we've seen unfold in the last 24 hours in terms of the Biden campaign and the Trump campaign. I mean, Jackie, it's like remarkable that they can agree on anything at all.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:35:08",
+      "speaker": "KUCINICH",
+      "sentences": "I mean, truly.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:35:08",
+      "speaker": "HUNT",
+      "sentences": "Like the depth of the hatred for the Commission on Presidential Debates seems to be such that it can bridge some serious divides.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:35:08",
+      "speaker": "KUCINICH",
+      "sentences": "And for different reasons.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:35:08",
+      "speaker": "HUNT",
+      "sentences": "Yeah. Let's show that moment -- watch.(BEGIN VIDEO CLIP) DONALD TRUMP, (R) PRESIDENTIAL CANDIDATE:  Are you going to pack the court? JOE BIDEN, (D) THEN-PRESIDENTIAL CANDIDATE:  Make sure you, in fact, let people know.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:35:08",
+      "speaker": "TRUMP",
+      "sentences": "He doesn't want to answer the answer.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:35:08",
+      "speaker": "BIDEN",
+      "sentences": "You senators. I'm not going to answer the question because --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:35:08",
+      "speaker": "TRUMP",
+      "sentences": "Why wouldn't you answer that question?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:35:08",
+      "speaker": "BIDEN",
+      "sentences": "-- the question is --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:35:08",
+      "speaker": "TRUMP",
+      "sentences": "Are you going to put a lot of --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:35:08",
+      "speaker": "BIDEN",
+      "sentences": "The question is --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:35:08",
+      "speaker": "TRUMP",
+      "sentences": "Supreme Court justices -- radical left -- who was your -- listen.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:35:08",
+      "speaker": "BIDEN",
+      "sentences": "Will you shut up, man?(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:35:08",
+      "speaker": "HUNT",
+      "sentences": "I mean, that moment --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:35:08",
+      "speaker": "KUCINICH",
+      "sentences": "That.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:35:08",
+      "speaker": "HUNT",
+      "sentences": "-- is driving so much of this.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:35:08",
+      "speaker": "KUCINICH",
+      "sentences": "Right, exactly. Because they think that will remind people of the chaos of the Trump years and really cut this Trump nostalgia that we're seeing reflected in polls. And frankly, we're seeing -- we're hearing from voters on the campaign trail that things were better.So, really, whatever comes to pass we'll have to see. But we've seen Biden meet the moment --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:35:08",
+      "speaker": "HUNT",
+      "sentences": "Yeah.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:35:08",
+      "speaker": "KUCINICH",
+      "sentences": "-- as he did in the State of the Union and we've also seen him not so make the moment, so a gamble on both sides here.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:35:08",
+      "speaker": "HUNT",
+      "sentences": "Yeah, all right.Jackie Kucinich for us this morning. Jackie, always great to see you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:35:08",
+      "speaker": "KUCINICH",
+      "sentences": "Thanks.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:35:08",
+      "speaker": "HUNT",
+      "sentences": "Thank you so much.All right, liar, liar, pants on fire. That about sums up today's strategy for Donald Trump's defense team when Michael Cohen returns to the witness stand in the former president's hush money trial later today. Sources telling CNN they plan to drive home the point that Cohen is a convicted liar because they were not able to produce a gotcha moment during Tuesday's cross-examination. Trump attorney Todd Blanche did try on Tuesday. He brought up lies that Cohen had told to special counsel Robert Mueller's investigators when they interviewed him back in 2018. Blanche asking Cohen if Mueller's team questioned him about the Trump Moscow project, saying, \"...you lied to them, right?\" Cohen replied, \"Yes. The information I gave was not accurate.\" Blanche responding, \"So, is 'not accurate' information a lie?\" Cohen, \"Sure.\" Blanche then asks, \"Do you recall lying about anything else or were you only lying about that? Or being inaccurate? Whatever word.\" Cohen, \"I don't know.\" It also may be worth noting that Rudy Giuliani -- who, of course, was once a prosecutor -- was calling for this liar, liar strategy against Cohen six years ago, and this was even before Mueller's team interrogated him. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:35:08",
+      "speaker": "RUDY GIULIANI, FORMER TRUMP LAWYER",
+      "sentences": "He's destroyed himself, Chris, as a witness. I prosecuted 5,000 cases. I'd never prosecute a case on this guy's testimony. He's contradicted so many times that -- I mean, you begin your cross-examination by saying which set of lies are you going to tell us today, Michael? Let's go through them now.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:35:08",
+      "speaker": "HUNT",
+      "sentences": "That, of course, took place as there were questions about whether or not Michael Cohen was going to flip on Donald Trump, which he ultimately did about a month later when he pled guilty.All right, our next guest, defense attorney Shan Wu, thinks that Trump lawyer Todd Blanche may be in over his head. Shan, good morning. Wonderful to have you here.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:35:08",
+      "speaker": "SHAN WU, DEFENSE ATTORNEY, FORMER FEDERAL PROSECUTOR",
+      "sentences": "Good morning.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:35:08",
+      "speaker": "HUNT",
+      "sentences": "Why do you think this about Blanche?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:35:08",
+      "speaker": "WU",
+      "sentences": "Well, Blanche's background is a good pedigree, but he actually has not done much work as a criminal defense attorney. And working in a big law firm and working on complex white-collar issues is very different than being in the nitty gritty of a Manhattan courtroom against a seasoned district attorney's team that used to this type of slog through, sort of, warfare. And it showed in his cross-exam.I mean, actually, Rudy Giuliani -- whatever the situation may be nowadays -- that was a much better idea for opening with that first question to kind of like try and knock Cohen on his heels than what Blanche opened with, which was to say hey, you're making this personal. The judge merely shut him down for the (INAUDIBLE).",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:35:08",
+      "speaker": "HUNT",
+      "sentences": "Yeah, and it was about him, right?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:35:08",
+      "speaker": "WU",
+      "sentences": "Right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:35:08",
+      "speaker": "HUNT",
+      "sentences": "I mean, the first question was hey, Michael Cohen, you are insulting me --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:35:08",
+      "speaker": "WU",
+      "sentences": "Right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:35:08",
+      "speaker": "HUNT",
+      "sentences": "-- Todd Blanche.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:35:08",
+      "speaker": "WU",
+      "sentences": "Yeah.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:35:08",
+      "speaker": "HUNT",
+      "sentences": "I mean, why do that? WU",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:35:08",
+      "speaker": "HUNT",
+      "sentences": "Yeah.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:35:08",
+      "speaker": "WU",
+      "sentences": "-- may feel about the lawyer -- that's not something you want to bring out.If over the time of the cross the witness is really nasty towards you, you just kind of let that be and let the jury think oh, this witness is squirrely. They don't like the lawyer. But you don't start out by saying you don't like me very much, do you? It's like why are you so important?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:35:08",
+      "speaker": "HUNT",
+      "sentences": "Do you think that we might see a switch in terms of who is doing the cross-examination here because, obviously, we saw a pretty aggressive cross-examination of Stormy Daniels?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:35:08",
+      "speaker": "WU",
+      "sentences": "Probably not. I mean, I think they've been planning for a while to have Blanche do it. So, a) it would look bad to the jury to switch up because --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:35:08",
+      "speaker": "HUNT",
+      "sentences": "OK.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:35:08",
+      "speaker": "WU",
+      "sentences": "-- it would seem like he wasn't doing a good job. And, b) it would probably mess up their strategy, too.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:35:08",
+      "speaker": "HUNT",
+      "sentences": "OK.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:35:08",
+      "speaker": "WU",
+      "sentences": "Yeah.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:40:03",
+      "speaker": "WU",
+      "sentences": "Right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:40:03",
+      "speaker": "HUNT",
+      "sentences": "What do you think is -- if you're the defense team, what is the best strategy to do that?I mean, we had Lanny Davis on with us as we were covering this throughout the day this week and he noted that he was Cohen's attorney when he testified before Congress. He has sitting behind him. And he said that his biggest fear was that Cohen was going to get angry. So clearly, this is a concern.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:40:03",
+      "speaker": "WU",
+      "sentences": "Well, they shouldn't be using that as the major strategy just to get him angry. What you want to do on cross is you need to have a theory, a theme you want to work. Obviously, their theme should be finding inconsistencies, but most importantly, finding a lack of a solid nexus.So, Cohen's the best thing the prosecution has to really trying Trump into approving this whole strategy. Approving it as a reimbursement and maybe letting it be covered up as a reimbursement.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:40:03",
+      "speaker": "HUNT",
+      "sentences": "Yeah.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:40:03",
+      "speaker": "WU",
+      "sentences": "Rather, as an invoice rather than reimbursement. They should really try and focus on that -- that Cohen can't give a complete rock- solid proof of that issue.Along the way, when you find inconsistencies that's great, but putting your entire defense on the idea of this liar, liar, pants on fire thing just won't fly if he's consistent on the basic story.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:40:03",
+      "speaker": "HUNT",
+      "sentences": "All right, Shan Wu for us this morning. Shan, thanks very much.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:40:03",
+      "speaker": "WU",
+      "sentences": "Good to see you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:45:42",
+      "speaker": "HUNT",
+      "sentences": "Welcome back.The Russian president, Vladimir Putin, is in China right now for a two-day state visit. The trip officially meant to strengthen foreign policy coordination, but it comes as both leaders have faced increased tensions with the West. Russian troops have pushed into Ukraine this week and the country faces international sanctions. Joining me now to discuss is CNN national security analyst and the author of the book, \"New Cold Wars: China's Rise, Russia's Invasion, and America's Struggle to Defend the West.\" David Sanger is here. David, of course, the best person possible to talk about this. I mean, the images that are kind of coming out of this trip are pretty stark. The two men inspecting troops together. There they are at this table together. Russia has been increasingly isolated from the West and his economy is increasingly reliant on China. What is going on here, and how should we be viewing this? How should we be concerned about this here in the West? DAVID SANGER, CNN NATIONAL SECURITY ANALYST, AUTHOR, \"NEW COLD WARS: CHINA'S RISE, RUSSIA'S INVASION, AND AMERICA'S STRUGGLE TO DEFEND THE WEST\" (via Webex by Cisco):  Well, Kasie, good morning. And I think this is the most interesting and, for the U.S., the most important geopolitical relationship that has developed in the past few years. It was underway during the Trump administration and it was underway during the Obama administration. These two men have met 43 or 44 times so far. (Coughing) Pardon me. That's quite a -- that's quite a number. By comparison, President Biden has met Putin as president once and a handful of times with President Xi. It's easy to come to the conclusion that this is sort of an alliance that is coming together -- the alliance of resistance to the United States -- and there was some of that going on. But at this moment, I would say it's more like an uneasy partnership. These are two countries with very different interests. I'm sure that President Xi is not all that interested in seeing the Ukraine war continue along these lines. He's perfectly happy to have the United States distracted with it. But it poses certain challenges to him, particularly as he tries to build his relationship with the Europeans. Xi was just in Europe two weeks ago. So, for President Putin, China has become the number one relationship. They have taken the oil. He can no longer ship to Europe. They have been providing him with technology and parts, but not arms. He's using those parts to bring back his tanks, his fighter jets -- much of the equipment that he lost in the early days of the Ukraine war. So they're an absolutely critical partner.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:45:42",
+      "speaker": "HUNT",
+      "sentences": "How do -- you sort of mentioned that their interests, in some ways, compete -- and one theme for China has typically been stability. How does that play into this relationship and affect it if that's kind of the way the Chinese are thinking about it because Putin is clearly a force of instability right now, no?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:15",
+      "speaker": "HUNT",
+      "sentences": "Yeah, really interesting.All right, CNN national security analyst David Sanger. David, always grateful to have you. Thanks very much for being here.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:15",
+      "speaker": "SANGER",
+      "sentences": "Great to be with you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:15",
+      "speaker": "HUNT",
+      "sentences": "All right, time now for sports. The Celtics close out the Cavaliers to advance to the Eastern Conference Finals for the third straight season.Carolyn Manno has this morning's Bleacher Report. Carolyn, good morning.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:15",
+      "speaker": "CAROLYN MANNO, CNN SPORTS CORRESPONDENT",
+      "sentences": "Good morning, Kasie.This is familiar territory for Boston. They've now made it to the conference finals six times in eight years, but they still haven't gotten over the hump to win a title in that span. The owners of the NBA's best regular season record putting away the Cavaliers with a resounding 113-98 win on their home court last night, ending the series in five games. Jayson Tatum leading the way -- 25 points, 10 boards. And afterwards, he said the focus right now is on we and not me. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:15",
+      "speaker": "JAYSON TATUM, FORWARD, BOSTON CELTICS",
+      "sentences": "Right now, at this point in the season, all the awards are voted on. The only thing that matters is getting that big trophy. So we can worry about the individual awards later down my career, but this year we're just trying to get the championship.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:15",
+      "speaker": "MANNO",
+      "sentences": "The Mavericks are now one win away from punching their ticket to the Western Conference Finals. Dallas silencing the Oklahoma City Thunder 104-92 to take a 3-2 series lead. They got a monster game from Luka Doncic. He finished with a 31-point, 11 assists, 10 rebound triple-double. So the Mavs can close out the series with a win in game six in Dallas on Saturday.(BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:15",
+      "speaker": "LUKA DONCIC, GUARD, DALLAS MAVERICKS",
+      "sentences": "We've just got one more. We've got one more to win out of two games. That's it. We're up 3-2 but that's not enough. We've got to finish it and go with the same mentality home.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:15",
+      "speaker": "MANNO",
+      "sentences": "Only one game on the schedule tonight but it is a big one. The defending NBA champs, the Nuggets, can advance with a win against Minnesota. Tipoff set for 8In the NHL Playoffs, the Avalanche snapping a three-game skid, beating the Stars 5-3 in game five of their Western Conference Semifinal, managing to stave off elimination. Colorado's superstar defenseman Cale Makar scoring twice in a gutsy road win, including the eventual game-winner less than five minutes into the third period. So Dallas still in the driver's seat with a 3-2 series lead there, but now the series shifting back to Denver for game six on Friday night. And NFL teams, Kasie, unveiling their schedules for the upcoming season. Tennessee Titans fans can now prepare for their opponents even if they still aren't sure exactly who they are. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:15",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "Oh, the Bengals, yeah. I love the Bengals.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:15",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "Love the Bengals.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:15",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "Love Joe Burrow.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:15",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "Yeah.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:15",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "They peaked in 1970.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:15",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "And what --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:15",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Home of the cheese.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:15",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "OK.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:15",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "OK. So, Alix Earle's boyfriend.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:15",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "The Dallas Cowboys. That's Dak Prescott.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:15",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "I wouldn't want to be a table around them.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:15",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "You will go on fourth every time.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:15",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "Yeah.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:15",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "They just don't care. Like, he's like me if I play the NFL on my phone. I know that they used to kick the Super Bowl's (bleep) for a consecutive -- maybe like three to four years straight with Tom Brady.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:15",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "And then what happened?(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:15",
+      "speaker": "MANNO",
+      "sentences": "So this is actually an improved effort, I would say, from fans since the Titans' marketing team tried this last season. I think it went viral. One of the fans called the Falcons the Red Stallions. But teams getting very creative with their schedule releases.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:15",
+      "speaker": "HUNT",
+      "sentences": "Yeah, man, they sure are. I am learning more about the boyfriends of the --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:15",
+      "speaker": "MANNO",
+      "sentences": "People are like --",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

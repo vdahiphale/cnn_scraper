@@ -1,0 +1,703 @@
+{
+  "date": "2022-12-15",
+  "headline": "The Lead with Jake Tapper",
+  "subHeadline": "Stocks Plummet On Investor Concerns Over Fed's Forecast; Lawmakers Running Out Of Time To Avoid Government Shutdown; DOJ Charges Man Who Allegedly Threatened Members Of Congress; Bipartisan Bill Aims To Help Afghans In U.S. Who Aided War Effort; Harry & Meghan Reveal Bitter  Split From Royal Family. Aired 4-5p ET",
+  "utterances": [
+    {
+      "timeStamp": "16:00:00",
+      "speaker": "VICTOR BLACKWELL, CNN HOST",
+      "sentences": "Maybe it's easier.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:00:00",
+      "speaker": "BIANNA GOLODRYGA, CNN HOST",
+      "sentences": "Yeah, yeah, maybe.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:00:00",
+      "speaker": "BLACKWELL",
+      "sentences": "So, here's what I don't get. They could have just put the red coat on, right? You didn't have to dye the coat onto him as well, did you?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:00:00",
+      "speaker": "GOLODRYGA",
+      "sentences": "Rizzo doesn't look very happy. Did you see that face? I mean, he looked like, okay, my owner did this to me. Here I am.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:00:00",
+      "speaker": "BLACKWELL",
+      "sentences": "That's the point. That's the Grinch.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:00:00",
+      "speaker": "GOLODRYGA",
+      "sentences": "I'm the Grinch.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:00:00",
+      "speaker": "BLACKWELL",
+      "sentences": "He's in character.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:00:00",
+      "speaker": "GOLODRYGA",
+      "sentences": "But apparently, they're getting responses from around the world, people in Australia even weighing in and emailing them. So, listen, it makes us laugh, it makes us happy and makes that family happy.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:00:00",
+      "speaker": "BLACKWELL",
+      "sentences": "I'm into it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:00:00",
+      "speaker": "GOLODRYGA",
+      "sentences": "I am too.THE LEAD with Jake Tapper starts right now. (MUSIC)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:00:00",
+      "speaker": "JAKE TAPPER, CNN HOST",
+      "sentences": "Why does the threat of a government shutdown always come down to the last minute for Congress?THE LEAD starts right now. Only one day left to reach a deal, the Senate hits a snag over federal government spending. While over in the House, what could be retaliation for rebellious Republicans planning to vote against making Kevin McCarthy speaker. And he was beaten by rioters on January 6th while defending the Capitol and democracy. Now, a very first interview with the U.S. Capitol police sergeant who is leaving his job. We'll talk to him about the incident back at work that led him to resign. Plus, deadly tornados in the South, snow and ice in the North, the massive storm system on a destructive path. (MUSIC)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:00:00",
+      "speaker": "TAPPER",
+      "sentences": "Welcome to THE LEAD. I'm Jake Tapper.We're going to start with some breaking news in our money lead. A stock selloff as investors react to the Federal Reserve's forecast to tame inflation over the next year. The Dow closing down more than 750 points today. Let's get right to CNN's Matt Egan. Matt, what is behind this?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:00:00",
+      "speaker": "MATT EGAN, CNN REPORTER",
+      "sentences": "Well, Jake, it's been a bad 24 hours for the soft landing camp. I mean, markets are essentially betting against the idea that the Fed can tame inflation without causing a recession. Yesterday, Fed officials made clear that they're not done slamming the brakes on this economy. Inflation might be cooling but not enough to get them to stop raising interest rates.And then, today, there's new evidence that there are some real cracks showing in this economy. Retail sales unexpectedly tumbled, some new manufacturing reports were weaker than expected, jobless claims were strong but too strong if you ask the Fed. And so, if you put it all together, I think Wall Street is growing more worried that the Fed is going to slow this economy right into a recession. That's why you see the Dow closing down 2.3 percent, 764 points. The Nasdaq down more than 3 percent. Investors are clearly pricing in the growing risk, not certainty, but the growing risk that there could be a recession here -- Jake.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:00:00",
+      "speaker": "TAPPER",
+      "sentences": "All right. Matt Egan, thanks so much.The focus is also in money in our politics lead today. An all-out scramble is underway on Capitol Hill right now to try to avoid a government shutdown. Funding is set to expire midnight tomorrow, just 32 hours from now. Lawmakers have already failed to reach a full-year spending deal. Now they're rushing to give themselves one more week, another grace period to try to hash out the details with what's called a stopgap bill. The House of Representatives was able to pass the week-long extension last night. Republicans and Democrats in the Senate, however, are still battling over the details as we speak. This is how one Senate Republican described the current negotiations. (BEGIN VIDEO CLIP) SEN. ROGER MARSHALL (R-KS):  Look, this is like staring down both barrels of a double-barreled shotgun. My choices are worse than horrible. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:00:00",
+      "speaker": "TAPPER",
+      "sentences": "As if that isn't dramatic enough, CNN has new reporting today about the bitter infighting among House Republicans over whether Kevin McCarthy should be the new speaker of the House. And now, some McCarthy supporters are floating the idea of kicking his naysayers off their House committees altogether.Plus, in just moments, we have a CNN exclusive for you. The two top Democrats in Congress, Speaker Nancy Pelosi, Senate Majority Leader Chuck Schumer, sat down with our own CNN's Jamie Gangel for their first-ever joint sit-down. This afternoon, the very first clip from that afternoon coming up in just minutes. But we're going to start on Capitol Hill with CNN's Manu Raju and Melanie Zanona. And, Manu, let's start with this looming shutdown. What are the major holdups to getting this one-week deal passed?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:05:03",
+      "speaker": "RAJU",
+      "sentences": "You've gotten a better deal next year if -- when Republicans are in charge?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:05:03",
+      "speaker": "SHELBY",
+      "sentences": "Well, people say that, but it's been my experience a long time here in the Senate that another deal is another day, another deal never comes.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:05:03",
+      "speaker": "RAJU",
+      "sentences": "But the split in the Republican Party is profound at the moment. A number of Republican senators agree with Kevin McCarthy and say that this should be punted into next year. Others say it is time to get an agreement right now and simply are concerned that the new narrow Republican majority would have a difficult time passing anything that could lead to a shutdown.And as Lindsey Graham who's likely to support the larger bill told me, he said of the House Republicans, they're having enough problems trying to find a speaker much less passing a bill -- Jake.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:05:03",
+      "speaker": "TAPPER",
+      "sentences": "Yeah, on that topic, Melanie, that fight for House speaker is getting uglier every day, and a lot of it spilling out into the public. Can you tell us about this new suggestions on how to get these at least five publicly never-Kevin House Republicans on board.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:05:03",
+      "speaker": "MELANIE ZANONA, CNN CAPITOL HILL REPORTER",
+      "sentences": "Well, Jake, this is shaping up to be a shutdown between the anti-McCarthy and pro-McCarthy forces inside the House GOP. Moderates especially really are worried about potential for chaos on January 3rd, and so they're starting to explore a number of hardball tactics in an effort to push back and act as a counterweight to McCarthy's opposition.Sources tell me and my colleague Annie Greer that one of the ideas being considered is to offer a resolution to kick these members off their committees if they don't fall in line. Another idea being discussed is a threat to a rules package if it contains some of the most hard-line demands the McCarthy critics are seeking. And finally they're threatening to team up with Democrats if they can't elect a speaker to find a consensus candidate. But really, it speaks to all the tension and anxiety inside the House GOP right now, as McCarthy is lacking in the votes, Jake.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:05:03",
+      "speaker": "TAPPER",
+      "sentences": "All right. Melanie Zanona and Manu Raju with the chaos on Capitol Hill. Thanks so much.Turning to that CNN exclusive interview, the first-ever joint sit-down with outgoing House Speaker Nancy Pelosi and Senate Majority Leader Chuck Schumer. CNN's Jamie Gangel just got back from speaking with the two Democratic leaders. Jamie, what's the big news?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:05:03",
+      "speaker": "JAMIE GANGEL, CNN SPECIAL CORRESPONDENT",
+      "sentences": "Well, Chuck and Nancy, as Trump calls them, have worked together for 35 years. They finish each other's sentences. They pick their favorite Chinese restaurant for this interview.I don't know why. It's the first time they're ever sitting down. We talked about everything from whether they played good cop, bad cop with Trump, how they feel about who should be president in 2024, but we started with the impact that they think the January 6th hearings were having. (BEGIN VIDEO CLIP) SEN. CHUCK SCHUMER (D-NY):  People saw the violence. They saw police officers being beaten. And people started -- many people who don't follow politics on a daily basis the way some of us do started worrying about what's going on in the country. And frankly, I think that's one of the reasons the election came out a lot better in the House and Senate than people thought, because they saw the danger to democracy. But the good news here is they saw it. You know, we all worried what is going to happen? Are we going to have a democracy? They're eroding away. Look what happened January 6th, look at all these people who don't believe that the election was conducted honestly, even though it was. And America rose to the occasion.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:05:03",
+      "speaker": "GANGEL",
+      "sentences": "There's a CNN poll that just came out that shows there's little appetite on both sides for a Biden/Trump rematch in 2024.You're stepping aside. Do you think President Biden should step aside for a younger generation? REP. NANCY PELOSI (D-CA):  I think President Biden has done an excellent job as president of the United States. I hope that he does seek re-election. He's a person with a great vision for our country. He's been involved for a long time. So it's great knowledge of the issues and the challenges we face. And he's the most empathetic president. He connects with the American people, the vision, the knowledge, the strategic thinking is all here, the empathy is from the heart, and I think that he's been a great president.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:05:03",
+      "speaker": "SCHUMER",
+      "sentences": "Look at what he's accomplished.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:05:03",
+      "speaker": "GANGEL",
+      "sentences": "You think he should run again?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:05:03",
+      "speaker": "SCHUMER",
+      "sentences": "A lot of people -- yeah, he's done an excellent, excellent job. And he runs, I'm going to support him all the way.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:10:01",
+      "speaker": "SCHUMER",
+      "sentences": "I don't think it will happen. The American people have gotten wise to it. It took a little while, but they did.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:10:01",
+      "speaker": "PELOSI",
+      "sentences": "I don't think that we should talk about him while we're eating.(LAUGHTER)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:10:01",
+      "speaker": "SCHUMER",
+      "sentences": "See?(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:10:01",
+      "speaker": "GANGEL",
+      "sentences": "We will have more of the interview tonight on Anderson Cooper at 8I will say it's -- I've never seen the two of them quite like this before. I attribute it to the Chinese food. But I also think as Speaker Pelosi -- I mean, she's not leaving Congress, but she's stepping aside, we're going to see more of Nancy Pelosi unleashed. Tonight, you will see her doing an imitation of Donald Trump.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:10:01",
+      "speaker": "TAPPER",
+      "sentences": "Is that right?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:10:01",
+      "speaker": "GANGEL",
+      "sentences": "Yeah.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:10:01",
+      "speaker": "TAPPER",
+      "sentences": "Interesting. All right. Must-see TV.Jamie Gangel, thanks so much. And you can see Jamie's exclusive interview with Schumer and Pelosi on \"AC360\" tonight at 8:00 Eastern, only here on CNN. Also in our politics lead, the Justice Department has charged than who alleged made multiple threats against members of Congress using anti- Semitic slurs, saying he would murder lawmakers. In response, court documents say some members of Congress had to get additional security. CNN senior legal affairs correspondent Paula Reid is following this case for us. And, Paula, tell us about some of the threats.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:10:01",
+      "speaker": "PAULA REID, CNN SENIOR LEGAL AFFAIRS CORRESPONDENT",
+      "sentences": "Well, Jake, the Justice Department says Mark Leonetti left more than 400 voice mails from members of Congress and court documents reveal that these threats included antisemitic, sexist, and racist language and even threats of cannibalism against lawmakers.Now, staffers first contacted Capitol police early last year after receiving some voice mails, but even after warnings directly from law enforcement, Leonetti allegedly continued to make these threats over the past two years. Now, it's interesting, Jake, court documents do provide some insight into his overall mental state. The mental health workers where he lived told law enforcement that he is a paranoid schizophrenic, and the officers who responded when these threats were made, they describe their conversations with him as paranoid and nonsensical. He was arrested on Wednesday. He now faces seven charges of interstate threat. That's the charge that carries up to five years in prison.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:10:01",
+      "speaker": "TAPPER",
+      "sentences": "This seems to be part of a larger trend when it comes to threats faced by lawmakers. What is law enforcement doing about it?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:10:01",
+      "speaker": "REID",
+      "sentences": "Well, in this case, Jake, U.S. Capitol Police, they had to assign additional security to some of the members of Congress, and here prosecutors, they want him to stay behind bars while this case plays out.But as you noted, this is part of a broader trend where several mechanic and families have been attacked, they've been harassed and threatened for the past several months. Most famously, of course, House Speaker Nancy Pelosi's husband who was assaulted in their home by a man who said he was there looking for his wife. Now, it's interesting in this case, prosecutors pointed to the Pelosi case and they said, look, in this case, voice mails have to be treated with caution because it's just difficult to evaluate when an individual who's making these kind of threats will actually act on them. And, of course, this concern extend to other public servants, election workers, for example. The attorney general has set up an election threat task force to address the rise in threats against those officials as well. They've already brought at least six cases -- Jake.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:10:01",
+      "speaker": "TAPPER",
+      "sentences": "All right. Paula Reid, thank you so much.A U.S. Capitol Police officer badly beaten during the Capitol insurrection is handing in his badge. Sergeant Aquilino Gonell says his last day on the job will be this Saturday, writing in a letter to his police chief, quote: Having to return to the scene of the crime almost every day has become taxing, unbearable, and not conducive to healing. And we're honored to have Officer Aquilino Gonell joining us here in the studio on his first TV interview since announcing his resignation. How does it feel to be leaving a job that you felt passionately about taking in the first place? SGT. AQUILINO GONELL, DEFENDED THE CAPITOL ON JANUARY 6TH:  Thanks for having me. It's tough making that decision after, you know, 16 years, almost half of my life, had dedicated to be a public servant both in the military and also as a police officer. And I'm not leaving because of my own -- of my own accord but because they did that to me, the mob, and the people who continue to support the former president.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:10:01",
+      "speaker": "TAPPER",
+      "sentences": "Because your injuries were so bad that you couldn't do your job anymore and also just -- GONELLa lot of things with my arm, but I still have some limitation on it. So as a civilian, I could afford -- I could have the luxury to walk away from that altercation or now making -- if it becomes violent or not as a police officer, I cannot do that. So --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:10:01",
+      "speaker": "TAPPER",
+      "sentences": "And the last straw, was it, that somebody taped a photograph of Donald Trump to your work computer? Was that just the final straw?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:10:01",
+      "speaker": "GONELL",
+      "sentences": "Yeah. Two months -- about -- roughly about two months ago -- normally I watch some of the videos in relation to doing investigation or writing reports or testimony for court, and I guess some people thought I was just obsessing about it, but not knowing that I was actually doing working for the court and continuing my work as a police officer. And I took a couple days off, and when I came back, there was a picture of Donald Trump taped to my computer screen.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:10:01",
+      "speaker": "TAPPER",
+      "sentences": "Do you think it was somebody joking around, somebody being a jerk, somebody trying to intimidate you? What's your interpretation?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:10:01",
+      "speaker": "GONELL",
+      "sentences": "I have no idea, but I did -- first I crumbled it, put it in the trash. But then I said to myself, no, I can't allow that happen and -- because that's going to entice them to do it again. So I reach out to -- I scanned and sent it to the chain of command and said this is unacceptable and it's very insensitive of whoever did it, whether they did it jesting or not.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:10:01",
+      "speaker": "TAPPER",
+      "sentences": "Right, because you hold Donald Trump responsible for the riot. That's the point they were trying to get at.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:10:01",
+      "speaker": "GONELL",
+      "sentences": "I guess. I guess.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:10:01",
+      "speaker": "TAPPER",
+      "sentences": "Speaking of January 6th, Republican Congresswoman Marjorie Taylor Greene, she's been downplaying the riot since it happened. Last weekend, she went to an event, a New York Republican fund-raiser, and she said that if she had let the attack, if she had been in charge of it, they would have, quote, won. Take a listen.(BEGIN VIDEO CLIP) REP. MARJORIE TAYLOR GREENE (R-GA):  If Steve Bannon and I had organized that, we would've won. (CHEERS)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:10:01",
+      "speaker": "GREENE",
+      "sentences": "Not to mention it would've been armed.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:10:01",
+      "speaker": "TAPPER",
+      "sentences": "Now, she later said she was joking, but just to read that quote, if Steve Bannon and I had organized that, we would have won, not to mention it would have been armed.I mean, what's your response when you hear -- when you hear a congresswoman say that? GONELL:  Well, that's coming from the same person that when I was giving my testimony on July last year, she was in front of the Justice Department fighting for the patriots because --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:10:01",
+      "speaker": "TAPPER",
+      "sentences": "The people who had been arrested.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:10:01",
+      "speaker": "GONELL",
+      "sentences": "The people who had been arrested. And that's the kind of support she thinks that we need. And the way I take it is that based on her comments and her actions, we were -- the police officers were the bad guys, not the other way around, which is kind of crazy because --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:10:01",
+      "speaker": "TAPPER",
+      "sentences": "She's not alone, though. I mean, that's Donald Trump's response, too. I heard when you and your colleagues testified people on Fox were making fun of you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:10:01",
+      "speaker": "GONELL",
+      "sentences": "I mean, when you -- if you take the whole incident of January 6th and you take it at their own house or a courthouse, wouldn't they want people to be held accountable? And wouldn't they want the police officers to take actions and prevent their own family members from being attacked? Because that's exactly what happened.The attack at the capitol happened to them, and had it not been for the actions that myself and my colleagues, along with the other agencies that came to support us, it would have been a bloodbath. There's no doubt in my mind.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:10:01",
+      "speaker": "TAPPER",
+      "sentences": "Of course. You guys are heroes, yeah.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:10:01",
+      "speaker": "GONELL",
+      "sentences": "In their mind, we were the bad -- the people who were storming the Capitol, which is ridiculous. We were there doing our job, and had it not been for our actions, there would have been a lot of members of Congress and senators, including officers who would have been dead that day.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:10:01",
+      "speaker": "TAPPER",
+      "sentences": "You think they would have been killed.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:10:01",
+      "speaker": "GONELL",
+      "sentences": "Yes. That's what they were saying to me at the police line before we lost.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:10:01",
+      "speaker": "TAPPER",
+      "sentences": "What are you going to do now?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:10:01",
+      "speaker": "GONELL",
+      "sentences": "I just completed a book. I turned it in today. It's called \"The American Treason.\" That's where I'm focusing now on healing from my injuries and taking -- beginning to exercise a little more. Plan B, I don't know. I don't have one yet. But I'm open to suggestions.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:10:01",
+      "speaker": "TAPPER",
+      "sentences": "All right. We'll have you back for sure. Thank you so much, Sergeant. And thank you for your service.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:10:01",
+      "speaker": "GONELL",
+      "sentences": "You're welcome.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:10:01",
+      "speaker": "TAPPER",
+      "sentences": "Both as police officer and in the military as well.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:10:01",
+      "speaker": "GONELL",
+      "sentences": "Thanks for having me.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:23:52",
+      "speaker": "TAPPER",
+      "sentences": "The same weather system responsible for snow and ice in the Northeast today is also blamed for nearly 50 tornadoes that ripped through the South in just the past few days. They've left behind a trail of destruction, especially in Louisiana, where at least three people were killed and dozens injured.CNN's Nick Valencia is just south of New Orleans for us. Nick, what are you seeing?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:25:01",
+      "speaker": "TRENT THERIOT, STORM SURVIVOR",
+      "sentences": "So, we got in here and all of a sudden about a minute or so after that, just a strong gust of wind come through the front door, in front of the house, the tornado came through the front, and me and him locked up in here, me and the dog, and all of a sudden, everything just blew up.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:25:01",
+      "speaker": "VALENCIA",
+      "sentences": "How long? Looks like a bomb.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:25:01",
+      "speaker": "THERIOT",
+      "sentences": "About 20 seconds, but it seemed longer than that.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:25:01",
+      "speaker": "VALENCIA",
+      "sentences": "Part of what really caught residents here off guard is there's not this -- you know, this large of a tornado outbreak is really rare for this type of year. They were getting the severe weather alerts but never thought they were going to take a direct hit -- Jake.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:25:01",
+      "speaker": "TAPPER",
+      "sentences": "Nick, what kind of help do people there need?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:25:01",
+      "speaker": "VALENCIA",
+      "sentences": "Well, in the short term, they need their power back on. You know, the local power company is giving alerts to some residents telling them their power is back on. It clearly is not.This area we're in is next to a high school, which was heavily damaged, so they're a priority to get back up and running. But some residents we've spoken to in neighboring Gretna, they say they've been told it could take up to two to three weeks. It's not lost this happened just before Christmas. A 7-year-old told me Santa wasn't going to be able to find him to give him his gifts because of the home damage. One local official is pleading for people to donate toys for the kids in this community -- Jake.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:30:57",
+      "speaker": "TAPPER",
+      "sentences": "In our world lead, it is a test of the U.S. government's commitment to keep its promises. That is at the heart of the Afghanistan Adjustment Act. The bipartisan legislation is aimed at offering support and a path to permanent residence for more than 80,000 Afghans who arrived in the U.S. after being forced to flee as American forces left in 2021 and to offer help with the thousands still there in Afghanistan, the ones left behind. Many of these Afghans risked it all to help the U.S. and now U.S. lawmakers are being pushed to help them but facing some resistance.Here to discuss is Republican Congressman Peter Meijer of Michigan. He went to Afghanistan in late august 2021 as the withdrawal was under way and is also a veteran who served in Iraq and then you were with an NGO in Afghanistan if memory serves. So this legislation has bipartisan support in the house and the Senate. But I'm not sure if it's going to pass. What's going on? REP. PETER MEIJER (R-MI):  That is the crux. I think that frankly will be decided tonight, whether or not this is offered as a floor amendment to the omnibus or the original --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:30:57",
+      "speaker": "TAPPER",
+      "sentences": "The big spending bill.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:30:57",
+      "speaker": "MEIJER",
+      "sentences": "Yes, that we were planning to vote on that would give us the budget for the rest of the year. This is what we're trying to put additional pressure on. This is a piece of legislation we've been working on this legislation for over a year. There's been a strong effort in the veterans community and all those who fought hard to get the Afghans to safety through the gates last August and also in the flights that have occurred since then, and behind the scenes.So, we have been working on this draft text for, like I said, over a year, it's gone through multiple iterations, with multiple stakeholders and, frankly, you know, time is running out to get this on our books to make sure that we are keeping the promise we made to the Afghans who served alongside U.S. forces and all those who participated in our mission.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:30:57",
+      "speaker": "TAPPER",
+      "sentences": "And so many risked their lives, even sacrificed their lives working for the American people in Afghanistan. My understanding is that the chief blockade is from Senator Chuck Grassley, the Republican from Iowa, who is the ranking Republican on the Senate judiciary committee. He keeps raising security concerns suggesting that the vetting process is being eased and that dangerous people potentially will be let into the United States.Is that right? Is he the chief blocker of this? And how do you respond to his concerns?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:30:57",
+      "speaker": "MEIJER",
+      "sentences": "I think there are legitimate concerns on the vetting and on the security side. Those have been raised in the negotiations we've had and we've worked to strengthen them. But the important thing to remember is if there is a senator who's concerned on the safety and security side, this is an additional vetting step.This is a way of taking the folks who are already here, who had gone through vetting, and we'd seen some issues with that and office of the inspector general reports on the Department of Homeland Security side, but in a this all us to have another bite at the apple, to make sure the folks who are here, we are putting them through rigorous checks, and having an addition layer, in case there was any issues the first time around. So, while I am sympathetic to those concerns, this bill actually addresses those. If that is the issue somebody has, this is solution to it. I don't want to get down the path of individual senators, but it is important that we have buy in, we have five co-sponsors on the Senate side, sorry, Republican co-sponsors on the Senate side, and five Republican or Democratic co-sponsors on the Senate side. There are multiple bipartisan co-sponsors in the House. This is something that's gone through the process, and we just need to get it done.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:30:57",
+      "speaker": "TAPPER",
+      "sentences": "And you're about to leave office. This is an important priority as you head back to Michigan.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:30:57",
+      "speaker": "MEIJER",
+      "sentences": "One hundred percent. What you have on that backswing was keeping our promises, honoring the promises that were made. This is not some gift. This is not some freebie. This is the U.S. legitimately fulfilling the commitments we'd already made to the Afghans who worked alongside us, and that is a commitment that I made a promise to work on as a member of Congress and before my term ends on January 3rd it's something I want to continue to do everything we can to get across the finish line.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:30:57",
+      "speaker": "TAPPER",
+      "sentences": "And you know some of these individuals. You know some of these translators and -- who served other roles both in Iraq and Afghanistan.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:35:03",
+      "speaker": "TAPPER",
+      "sentences": "This is absolutely.Peter Meijer, don't be a stranger. Please come back. It's always good to have you on the show.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:35:03",
+      "speaker": "MEIJER",
+      "sentences": "Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:40:05",
+      "speaker": "TAPPER",
+      "sentences": "Moments ago, Republican Congressman Adam Kinzinger gave his final floor speech as a member of Congress and reflected on his service as one of the two Republicans on the House Select Committee looking into January 6th. Take a listen.(BEGIN VIDEO CLIP) REP. ADAM KINZINGER (R-IL):  And I know that standing up for truth would cost me my job, friendships, and even my personal security. I would, without hesitation, do it all over again. I can rest easy at night knowing that I fulfilled my oath to the office. I know many in this institution cannot do the same. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:40:05",
+      "speaker": "TAPPER",
+      "sentences": "Kinzinger and Congresswoman Liz Cheney will be part of the January 6th committee's final public meeting on Monday.In our money lead, a new analysis ranks Miami, Los Angeles, and New York as the least affordable cities in the United States according to data from realty top. The average homeowners in these places are paying upwards of 80 percent of their annual income, up to 80 percent on housing. For so many Americans, that's just not sustainable. CNN's David Culver found one creative solution in California where a company is literally piecing together affordable alternatives. (BEGIN VIDEOTAPE) LARRY PACE, COO &amp; CO-FOUNDER, FACTORY OS:  So, this is where the floors and volumes themselves get built. DAVID CULVER, CNN CORRESPONDENT (voice-over):  Keeping up with Larry Pace (ph) --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:40:05",
+      "speaker": "PACE",
+      "sentences": "Don't touch it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:40:05",
+      "speaker": "CULVER",
+      "sentences": "-- is not easy.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:40:05",
+      "speaker": "PACE",
+      "sentences": "Excuse me, fellas.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:40:05",
+      "speaker": "CULVER",
+      "sentences": "He moves through the floor of Factory OS --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:40:05",
+      "speaker": "PACE",
+      "sentences": "What are you all doing?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:40:05",
+      "speaker": "CULVER",
+      "sentences": "-- with the sense of urgency.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:40:05",
+      "speaker": "PACE",
+      "sentences": "All right. Come up.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:40:05",
+      "speaker": "CULVER",
+      "sentences": "Located just outside San Francisco, this space was first designed to build U.S. Navy submarines.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:40:05",
+      "speaker": "PACE",
+      "sentences": "This space is built for World War II.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:40:05",
+      "speaker": "CULVER",
+      "sentences": "Eight decades later, it's now transformed to fight a worsening crisis on American moment front.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:40:05",
+      "speaker": "PACE",
+      "sentences": "This is a war we're in. We're in a war to combat the affordability and the housing prices.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:40:05",
+      "speaker": "CULVER",
+      "sentences": "The Factory OS puts home building onto an assembly line and out the door within two weeks. These modular units when combined make apartment buildings. Think sophisticated Legos.Production starts with a high-tech expedited design process. You're looking at the plants for Beacon Landing, an 89-unit affordable housing complex to be built south of downtown L.A. Insulation and dry wall, flooring and fixtures all prefabricated right here in the factory. I mean, does it all work?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:40:05",
+      "speaker": "PACE",
+      "sentences": "We'd like to think so.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:40:05",
+      "speaker": "CULVER",
+      "sentences": "To look down this line and see what we're doing for the community is mind-blowing. The need also overwhelming.In southern California, look past the glamour of Los Angeles' Hollywood hill, the tents speak to desperation. According to 2019 figures, the state needed an estimated million more homes just to meet housing demand. Nationally, the home shortage jumped to roughly 3.8 million. That's more than double the number from a decade ago. But it's more than just boosting housing inventory. Inflation, zoning inequalities also contributing factors to why people just can't buy homes. To purchase a house in more than 75 percent of the nation's most populous cities, an average family spends 30 percent of their income. In cities like Miami, New York, or L.A., it surges to more than 80 percent of an average family's income. It's forced folks to seek other options for moving in and converting garages and smaller units on someone else's property, to expanding that civil rights-era approach that helps promote home ownership, particularly among minority groups.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:40:05",
+      "speaker": "IXCHEL HERNANDEZ, COMMUNITY LAND TRUST MEMBER",
+      "sentences": "It shouldn't have to be that way where you're going to have to move so far out of, you know, L.A. to be able to have a home.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:40:05",
+      "speaker": "CULVER",
+      "sentences": "Ixchel Hernandez's family moved here when she was about 4. At one point, they had six people crammed into their one-bedroom apartment.Thank God we never fell short on rent, her dad says. But as renters for more than 20 years, they constantly worried about a new landlord wanting to sell the property or raise rent. That is until this year, when the Hernandez's and their neighbors joined a community land trust, or CLT as they're known. A CLT is essentially a nonprofit that buys the land on which a building sits, allowing the communities' residents to collectively manage it. Some residents eventually form a co-op and take ownership of their buildings, paying rent for the land.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:40:05",
+      "speaker": "HERNANDEZ",
+      "sentences": "It may not seem like a lot to a lot of folks that have money or come from money. It's just, you know, we are just as much trying to build that generational wealth.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:45:01",
+      "speaker": "HERNANDEZ",
+      "sentences": "No.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:45:01",
+      "speaker": "CULVER",
+      "sentences": "About an hour's drive south from the Hernandez home, we watched as the modular units arrived from the bay area, hoisted from a truck and placed onto a cement foundation, block by block. That beacon landing design we showed you earlier is quickly coming to life. Affordable housing coming summer 2023.It's not only the nonprofits trying to help, Factory OS also aiming to ease the housing burden and commute time for its own employees.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:45:01",
+      "speaker": "MATTHEW JOHNSON, FACTORY OS EMPLOYEE",
+      "sentences": "Just to be able to, okay, I'm going to wake up and take a walk down the street and come to work, you know, I mean, that's awesome.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:45:01",
+      "speaker": "CULVER",
+      "sentences": "The company planning to convert this vacant lot nearby into employer-assisted housing. But to successfully fight the dire housing crisis nationally, Larry believes it will take the government mobilizing now.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:45:01",
+      "speaker": "PACE",
+      "sentences": "We all need to work on it together and we can reverse this tide.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:45:01",
+      "speaker": "CULVER",
+      "sentences": "The war is not lost.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:45:01",
+      "speaker": "PACE",
+      "sentences": "The war is absolutely not lost.(END VIDEOTAPE) CULVER (on camera):  And, Jake, one of the solutions we pointed out in our reporting that's getting increasing amount of attention is this idea of employer-assisted housing. Apple, Meta, Google, those are some companies moving forward with that initiative. You have first responders, who are nurses, who are teachers, they, too, are getting priced out of their communities. And so, you got local hospitals, you've got school districts like here in L.A. that are also considering finding ways to house their staff -- Jake.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:45:01",
+      "speaker": "TAPPER",
+      "sentences": "David Culver, thanks so much. Appreciate it.Coming up next, the episodes that go further than ever, what Prince Harry says led to his brother, Prince William, screaming at him and what harry and Meghan say pushed them away from the royal family, perhaps for good. Stay with us. (COMMERCIAL BREAK) [16:51:11][",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:45:01",
+      "speaker": "TAPPER",
+      "sentences": "In our pop culture lead, much more drama than your average episode of \"Suits.\" Britain's royal family feud reached new heights today after the final episodes dropped of the Harry and Meghan Netflix documentary.As CNN royal correspondent Max Foster reports, the series includes Harry's bombshell claims of a screaming match when he told his family that he and Megan would leave royal life. (BEGIN VIDEOTAPE) FOSTER (voice-over):  The palace may have been spared in the first drop of episodes, but this time, Harry and Meghan didn't pull any punches.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:45:01",
+      "speaker": "HARRY, DUKE OF SUSSEX",
+      "sentences": "Everything that's happened to us was always going to happen to us because if you speak truth to power, that's how they respond.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:45:01",
+      "speaker": "FOSTER",
+      "sentences": "In the final episodes of the couple's Netflix docuseries, Harry took aim at his brother.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:45:01",
+      "speaker": "HARRY",
+      "sentences": "It was terrifying to have my brother scream and shout at me and my father say things that just simply weren't true and my grandmother quietly sit there and sort of take it all in.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:45:01",
+      "speaker": "FOSTER",
+      "sentences": "The couple sharing their perspective on the royal rift, which in their words pushed them out of the fold. It started during their tour of Australia back in 2018. So successful, it created jealousy in the palace, they say.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:45:01",
+      "speaker": "HARRY",
+      "sentences": "The issue is when someone who's marrying in who should be a supporting act is then stealing the limelight or doing the job better than the person who's born to do this, that upsets people. It shifts the balance.The palace wasn't going to protect her. Once that happens, the floodgates open.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:45:01",
+      "speaker": "MEGHAN MARKLE, DUCHESSS OF SUSSEX",
+      "sentences": "And I realized that I wasn't just being thrown to the wolves, I was being fed to the wolves.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:45:01",
+      "speaker": "FOSTER",
+      "sentences": "Meghan says the stress of the media coverage was too much, last year saying she didn't want to live anymore.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:45:01",
+      "speaker": "MEGHAN",
+      "sentences": "It was like all of this will stop if I'm not here. And that was the scariest thing about it, is it was just clear thinking.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:45:01",
+      "speaker": "FOSTER",
+      "sentences": "But she also suffered physically because of the stress of the worldwide coverage and in British newspapers including the \"Daily Mail,\" which published a letter she wrote to her father.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:45:01",
+      "speaker": "HARRY",
+      "sentences": "I believe my wife suffered a miscarriage because of what \"The Mail\" did.I watched the whole thing. Now, do we absolutely he know that the miscarriage was caused by that? Of course we don't. But bearing in mind the stress that that caused, the lack of sleep and the timing of the pregnancy happening, I can say from what I saw that miscarriage was created by what they were trying to do to her. FOSTER:  The family's response? Well, on Thursday they showed a united front at a planned engagement. And the palace said they had no plans to comment on the series. (END VIDEOTAPE) FOSTER (on camera):  It does feel as he though the two sides are very far apart. You can't see them reconciling at this point. Certainly confidence is broken there. But there's more to come, Jake, because Harry's book is due out in January promising more revelations.",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

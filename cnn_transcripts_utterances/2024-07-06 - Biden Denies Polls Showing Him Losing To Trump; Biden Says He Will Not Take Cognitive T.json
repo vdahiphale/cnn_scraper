@@ -1,0 +1,463 @@
+{
+  "date": "2024-07-06",
+  "headline": "CNN This Morning",
+  "subHeadline": "Biden Denies Polls Showing Him Losing To Trump; Biden Says He Will Not Take Cognitive Test, Release Results; Hurricane Watches Posted for Texas Coast; French Fire Near Yosemite National Park Burns 908 Acres; Trump Cites Immunity Ruling As He Seeks a Pause in Classified Documents Case; Iran's President-Elect Calls for Unity and Support After Victory. Aired 6-7a ET",
+  "utterances": [
+    {
+      "timeStamp": "06:00:45",
+      "speaker": "VICTOR BLACKWELL, CNN ANCHOR",
+      "sentences": "Good morning, and welcome to CNN This Morning. It is Saturday, July 6th. I'm Victor Blackwell.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:45",
+      "speaker": "VERONICA MIRACLE, CNN ANCHOR",
+      "sentences": "And I'm Veronica Miracle, in for Amara Walker. Here's what we're working on for you this morning.(BEGIN VIDEO CLIP) JOE BIDEN, (D) U.S. PRESIDENT: If the Lord Almighty came out and said, Joe, get out of the race, I'd get out of the race. The Lord Almighty's not coming down. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:45",
+      "speaker": "MIRACLE",
+      "sentences": "A defiant President Biden vows to stay in and win the 2024 presidential race. What he says about the growing calls from within his own party to drop out, whether he'll take a cognitive test and release those results to Americans, and the question he refused to answer during a make-or-break interview. That's coming up ahead.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:45",
+      "speaker": "BLACKWELL",
+      "sentences": "Double-dose of extreme weather. Tropical Storm Beryl is targeting Texas, and 70 million people are under heat alerts in the West. Meteorologist Elisa Raffa is here to track it all.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:45",
+      "speaker": "MIRACLE",
+      "sentences": "And a heart surgeon who rose to power in Iran's parliament is now the country's next president-elect. His message to Iran and the world, ahead in a live report.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:45",
+      "speaker": "BLACKWELL",
+      "sentences": "Plus, they are two of the most popular drugs on the market right now. What researchers say about Ozempic and Wegovy's links to a rare type of blindness. That's coming up later.All right, a bad night, not a bigger problem. That's President Biden's takeaway from his performance at CNN's debate last month. He sat down with ABC News' George Stephanopoulos late last night in a high-stakes televised interview. It's his first since the debate. Now, in addition to saying that Trump shouting over his muted mic, distracted him, the President said he also was not feeling well. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:45",
+      "speaker": "BIDEN",
+      "sentences": "I was sick. I was feeling terrible. Matter of fact, the doc's with me, I asked them if they did a COVID test because they were trying to figure out what was wrong. They did a test to see whether or not I had some infection, you know, a virus. I didn't. I just had a really bad cold.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:45",
+      "speaker": "MIRACLE",
+      "sentences": "When asked about the President's health in the wake of the debate, White House Press Secretary Karine Jean-Pierre initially said the President had not had any medical exams since his physical in February.In the interview, the President also pushed back on any concerns about his cognitive health. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:45",
+      "speaker": "GEORGE STEPHANOPOULOS, ABC NEWS ANCHOR",
+      "sentences": "The American people have been watching, yet their concerns about your age and your health are growing. So that's why I'm asking, to reassure them, would you be willing to have the independent medical evaluation?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:45",
+      "speaker": "BIDEN",
+      "sentences": "Watch me. There's a lot of time left in this campaign. It's over 125 days.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:45",
+      "speaker": "STEPHANOPOULOS",
+      "sentences": "So the answer right now is no, you don't want to do that, right?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:45",
+      "speaker": "BIDEN",
+      "sentences": "No, I've already done it.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:45",
+      "speaker": "MIRACLE",
+      "sentences": "As for polls showing he's now falling behind. Well, he says most polls show the race is a toss-up.(BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:45",
+      "speaker": "STEPHANOPOULOS",
+      "sentences": "Do you really believe you're not behind right now?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:45",
+      "speaker": "BIDEN",
+      "sentences": "I think it's -- all the pollsters I talk to tell me it's a toss-up. It's a toss-up. And when I'm behind, there's only one poll I'm really far behind. CBS poll and NBC, I mean, excuse me, and --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:45",
+      "speaker": "STEPHANOPOULOS",
+      "sentences": "New York Times and NBC both have you about six points behind in the popular vote.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:45",
+      "speaker": "BIDEN",
+      "sentences": "That's exactly right. New York Times had me behind before anything having to do with this race. Had me behind 10 points, 10 points had me behind. Nothing's changed substantially since the New York Times poll.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:45",
+      "speaker": "STEPHANOPOULOS",
+      "sentences": "Listen, when you look at the reality, though, Mr. President, I mean, you won the popular vote in 2020, but it was still deadly close in the electoral college.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:45",
+      "speaker": "BIDEN",
+      "sentences": "By seven million votes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:45",
+      "speaker": "STEPHANOPOULOS",
+      "sentences": "Yes, but you're behind now in the popular vote.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:45",
+      "speaker": "BIDEN",
+      "sentences": "I don't -- I don't buy that.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:45",
+      "speaker": "STEPHANOPOULOS",
+      "sentences": "Is it worth the risk?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:45",
+      "speaker": "BIDEN",
+      "sentences": "I don't think anybody's more qualified to be president or win this race than me.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:45",
+      "speaker": "BLACKWELL",
+      "sentences": "All right, so let's set the analysts' takeaways from that interview aside for a moment. The Biden campaign considers this a success. They've now used it for a massive fundraising push after it aired.With us now to break it all down, CNN's Priscilla Alvarez. She's in Washington, D.C. Priscilla, how are they using this? They say this proves that the President is ready to go?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:06",
+      "speaker": "BIDEN",
+      "sentences": "Every one of them, they all said I should stay in the race, stay in the race. No one said, none of the people said, I should leave the race.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:06",
+      "speaker": "STEPHANOPOULOS",
+      "sentences": "But if they do?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:06",
+      "speaker": "BIDEN",
+      "sentences": "Well, it's like -- we're not going to do that.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:06",
+      "speaker": "STEPHANOPOULOS",
+      "sentences": "You sure?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:06",
+      "speaker": "BIDEN",
+      "sentences": "Yeah, I'm sure. Look, I mean, if the Lord Almighty came out and said, Joe, get out of the race, I'd get out of the race, the Lord Almighty's not coming down.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:06",
+      "speaker": "ALVAREZ",
+      "sentences": "Now, of course, Friday was a make-or-break moment for President Biden, not only, again, because of this interview, but also at that rally in Battleground, Wisconsin. And that was an energetic. Biden that showed up at that rally. He took targeted attacks against former President Donald Trump and also defended his record and his age in doing so.So the last 24 hours for the Biden campaign has made them feel pretty good. But everyone I've spoken to, his allies and Democratic lawmakers, it's not just about what happened yesterday. It's also about what happens going forward. And the campaign knows that. He's also going to go to Battleground, Pennsylvania tomorrow. And then, of course, there's the NATO summit next week. This is an area that the President talks about a lot, his foreign policy chops. So we'll still see more of him, and he's going to have to continue to make that case to reassure his own allies and voters.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:06",
+      "speaker": "BLACKWELL",
+      "sentences": "As the President said, watch him over the next several months. Priscilla Alvarez for us in Washington, thank you.And as we said here, that interview with ABC Friday did not do much to quiet the growing number of Democrats calling for him to drop out of the race.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:10:05",
+      "speaker": "BLACKWELL",
+      "sentences": "All right, Sanjay, thank you. Joining me now is Stephanie Lai, Political Reporter for \"Bloomberg.\"Good morning to you. So they are not the Lord Almighty, as the President says, but there are now four congressional Democrats calling for the President to withdraw from the race. Others are saying he should at least carefully consider it. Is there any reaction to this interview?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:10:05",
+      "speaker": "STEPHANIE LAI, POLITICS REPORTER, BLOOMBERG",
+      "sentences": "I think what was notable about this interview was actually the lack of reaction. While, of course, we saw signs of support from his closest allies, we didn't see any more Democrats break ranks, at least not between when the interview aired and this morning.And I think that's due to, in part, because of the fact that it was a very middle-of-the-ground performance. On one hand, Biden seems more comfortable, more relaxed, and stumbled less in this interview than on the debate stage. But on the other hand, he seemed to dismiss many of the claims that Democrats have been worried about. You know, on one hand, he had openly dismissed the fact that he has a low approval rate, that he trails Trump significantly in major polling, and he also pushed back on the fact that he's not as physically fit as he was before he took office. And so nothing in this interview seems to quell any concerns among Democrats who are worried about what would happen if he should stay in this race. And all this is to say is that it seems like Democrats will need more than just this 20-minute interview to move on past the debate fallout.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:10:05",
+      "speaker": "BLACKWELL",
+      "sentences": "And there is movement. \"Washington Post\" first to report and \"CNN\" sources have now confirmed that Senator Mark Warner is now reaching the point where he believes that the President cannot stay at the top of the ticket, and he's also organizing Democratic senators to approach the White House, approach the President about that.I just wonder, what does that mean moving forward, that you would have potentially senators expressing a lack of confidence or no confidence in a candidacy that, up to this point, the President says is going to continue? Kind of walk us a few steps down the road here.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:10:05",
+      "speaker": "LAI",
+      "sentences": "Certainly. Well, of course this sends a very strong message of widespread panic throughout the party. But what we saw from Biden's ABC interview is that it doesn't seem like that message is going to be received. I think in part that the Biden campaign strategy really is to just outlast the opposition and to send a very clear message that there is no other option than to fall in line, and in part that can help the campaign move past this, you know, this news cycle and try to regain its footing.And so doing this interview, hosting more campaign events, is really all in hopes of moving past everything that happened on the debate stage in Atlanta.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:10:05",
+      "speaker": "BLACKWELL",
+      "sentences": "So the White House now, there's a new answer on medical treatment for the President. Now, the White House initially, and this is Karine Jean-Pierre initially said, that the President had not received any medical exams since February, since his physical. Here's what she said on Wednesday. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:10:05",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "He was on the way to the debate. The doctor was with him. He had a cold. He's 81. Does he not get checked out by the doctor? I'm just --KARINE JEAN-PIERRE, WHITE HOUSE PRESS SECRETARY: What I can tell you --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:10:05",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "-- curious how that works.JEAN-PIERRE: -- he did not have -- he did not get checked out by the doctor. It's a cold, guys. It's a cold. And I know that it affects everybody differently. We have all had colds. And so, no, he was not checked by the doctor. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:10:05",
+      "speaker": "BLACKWELL",
+      "sentences": "So the next day, the press office said that the President was seen to check on his cold and was recovering well. That was Thursday. Friday before the interview, Karine Jean-Pierre said that he did have a short verbal check-in in the recent days about his cold. It wasn't a medical exam or physical. Just want to be super, super clear about that. It was a conversation, and his doctor didn't think an examination was necessary.Here is what the President said last night. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:15:01",
+      "speaker": "BLACKWELL",
+      "sentences": "This is a knowable thing. There are medical records, and they could either put the doctor forward or give one clear answer on this. As they're trying to reassure the public and the party about his neurological health, why the ambiguity about something as simple as, the man has a cold, did he get a check-up or not?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:15:01",
+      "speaker": "LAI",
+      "sentences": "It seems like a lot of the concerns surrounding his age really does stem back to his medical history. And so, you know, advertising whether or not he's been checked up does seem to be one of those sticking points for the campaign and for the White House.Now, all that being said, you know, Biden even said in that ABC interview that he does have medical staff around him constantly, that he does discuss with them his, you know, health on any given day. But I think what was particularly interesting from this interview was the fact that he also said that he doesn't need a medical exam or a cognitive exam and that he really did push back on that notion because, you know, he -- his successes speak for his mental and physical health.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:15:01",
+      "speaker": "BLACKWELL",
+      "sentences": "Stephanie Lai, good to have you. Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:21:27",
+      "speaker": "BLACKWELL",
+      "sentences": "Breaking news out of Texas this morning. Millions of people are on alert from Brownsville area to the Houston area. Tropical Storm Beryl is closing in.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:21:27",
+      "speaker": "MIRACLE",
+      "sentences": "Meanwhile, heat records across the west are melting with some cities seeing temperatures blast past 120 degrees. Let's get right to CNN Meteorologist Elisa Raffa.You've been tracking all of this. A very busy morning for you. We're used to dry heat in California on the west coast, but 124 degrees in Palm Springs thought.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:21:27",
+      "speaker": "ELISA RAFFA, CNN METEOROLOGIST",
+      "sentences": "Those are all time records. We're talking like hottest that it's ever been, period. So it has been incredibly strong, that heat extreme, and it's lasting a long time.We're also watching Beryl very closely, and it's actually being steered by some of that heat. You've got a tropical storm right now that's sitting in the Gulf of Mexico. It's sitting about 540 miles south and east of Corpus Christi with 60 mile per hour winds. And we'll continue to kind of regain strength here because we're still talking about water temperatures that are incredibly hot, much hotter than they usually are for this time of year. So that's going to let it re-intensify into a hurricane and start to hit the Texas coastline, probably going late Sunday into Monday is when we're looking at that landfall. Hurricane watches are in effect from Brownsville up into Corpus Christi as this thing continues to make a turn, kind of hugging Texas, impacts from Austin to Houston as we go into the week here. We're looking at the -- again, the likelihood of tropical storm force winds increasing for places from Corpus Christi to Victoria, Texas and over into Houston. Storm surge up to three feet possible kind of coming into the coastline here from Galveston down towards Corpus Christi. That could be a problem with some flooding as well. And then on top of that, we're looking at some 5 to 10 inches of rain possible. Look at that swath of heavy rain kind of hugging probably just east to the track. So even some places, you know, like Austin and Houston could get in on some of those heavy downpours as well, depending on the exact where the exact center of the storm winds up lining up. And we also have this kind of spinning storm making landfall. So we often can get a risk for tornadoes. So already finding a slight level two out of five severe risk for tornadoes as we go into Sunday, even Monday, because you've got this spinning storm system. As I mentioned, we have these two huge heat domes, areas of high pressure. That's what's steering barrel kind of right in between them into the heart of Texas. The heat dome to the west has all these excessive heat warnings that will go well into next week. We're talking about multiple days of excessive heat warnings. That's the problem with this is you get no relief day to day and no relief at night. Temperatures in the triple digits, you know, Las Vegas up towards 118 degrees, which would break all-time records. 112 in Bakersfield, even Sacramento, still up near 100 degrees by next Wednesday. This extreme heat causes heat sickness. It can be lethal and deadly. The weather service in Sacramento has been using such strong language because, again, we're talking about all time temperatures being broken and no relief at night. Just really causes a problem for heat sickness.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:21:27",
+      "speaker": "MIRACLE",
+      "sentences": "Meteorologist Elisa Raffa. Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:29:14",
+      "speaker": "BLACKWELL",
+      "sentences": "Headlines this morning. The funeral for a 13-year-old boy shot and killed by police will be held in New York today. Utica police say officers were questioning Nyah Mway on June 28th when he pointed a gun at them as he was running off.There is police body cam video, and we warn you, it is disturbing. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:29:14",
+      "speaker": "POLICE OFFICER",
+      "sentences": "Can I pat you down [to] make sure you have no weapons on you? (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:30:13",
+      "speaker": "MIRACLE",
+      "sentences": "As the after-effects of President Biden's poor debate performance continue to unfold, one group watching closely are known as Never-Trumpers. CNN's Elle Reeve takes us to a party hosted by \"The Bulwark\", the media group formed by many former Republicans. Elle looked into whether some of those united against Donald Trump are still finding common ground in backing Biden post-debate.(BEGIN VIDEOTAPE) ELLE REEVE, CNN CORRESPONDENT (voice-over):  This happy bar party is full of people who usually feel pretty bleak.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:30:13",
+      "speaker": "PAUL IVANCIE, FORMER REPUBLICAN",
+      "sentences": "This country needs to wake up. There's a dangerous thing happening, it's called complacency.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:30:13",
+      "speaker": "REEVE",
+      "sentences": "They're fans of \"The Bulwark\", a \"Never-Trump\" media organization. Many are ex Republicans who reject Donald Trump. A group that can feel so tiny that some got on airplanes to meet one another. The event was festive and just a few days before the presidential debate.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:30:13",
+      "speaker": "BECKY HOFER, BULWARK FAN",
+      "sentences": "It's hard for me to wake up every morning and talk to my neighbors and know that they're supporting somebody that doesn't match any of their values.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:30:13",
+      "speaker": "REEVE",
+      "sentences": "Becky is a former Republican who flew in from South Dakota with her sister-in-law.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:30:13",
+      "speaker": "HOFER",
+      "sentences": "We're in a very red-state, and I'm a very not red person, and it's tough to find a community there. We're married to Republican men.REEVE (on camera):  Is your husband pro-Trump? HOFER:  I think he's going to vote for Trump. I hope he doesn't vote for Trump, but it's an interesting house to limit. REEVE (voice-over):  We wanted to talk to these people because they represent an important part of President Biden's coalition. But after his struggle in the debate, we had to go back to them to see what had changed. Hofer was shocked and angry.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:30:13",
+      "speaker": "HOFER",
+      "sentences": "It was terrible. I'm completely disillusioned. I at this -- they're both a joke. It felt like elder abuse. So yes, I think he needs to be replaced. If for anything, just out of respect for his humanity.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:30:13",
+      "speaker": "REEVE",
+      "sentences": "Robin Hawkland had flown from Salt Lake City to be among Never-Trumpers before the debate.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:30:13",
+      "speaker": "ROBIN HAWKLAND, BULWARK FAN",
+      "sentences": "I fled the district in North Georgia with Marjorie Taylor Greene. He was pretty abusive, few people wearing masks during COVID, and I was a little traumatized by that.REEVE (on camera):  And how would you describe your politics?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:30:13",
+      "speaker": "HAWKLAND",
+      "sentences": "My politics were center-left. My husband was always Republican, and we got along fine for years, and then it seems everything is kind of broken and we both now are registered Democrats in Utah, which is rare.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:30:13",
+      "speaker": "REEVE",
+      "sentences": "Are you worried about what might happen after the election?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:30:13",
+      "speaker": "HAWKLAND",
+      "sentences": "Yes, very worried, very worried. I have three daughters, they all live in red states and they're in reproductive age, which is in their 20s, and I really worry about their options.REEVE (voice-over):  When we spoke to Hawkland afterwards, she said she'd barely been able to sit through the debate.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:30:13",
+      "speaker": "HAWKLAND",
+      "sentences": "Initial reaction was shock and then just sadness, and then I think I moved into anger.REEVE (on camera):  Do you think Joe Biden should be replaced?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:30:13",
+      "speaker": "HAWKLAND",
+      "sentences": "It hurts me to say that, but yes. I don't think he's electable. I don't know how you dig out of this hole. He could do more events where he, you know, looks better. He's looked better since then and they can time it right. But everyone knows deep in their -- deep in -- deep in their existence what they saw may happen again.REEVE (voice-over):  The pre-debate party in Denver was for a live podcast taping from \"The Bulwark\", which was created by former Republican operatives. At the after party, people told us that this was one of the few places where they could meet in real life, people who didn't make them feel crazy. DAN MAGILL, NEVER-TRUMP REPUBLICAN:  I'm a relatively conservative Republican, it's almost rather than being Republican, Democrat has become more autocracy versus democracy. Even though I would probably, economically agree with more of the policies that a Trump administration would put in place versus a Biden administration, I can't support like Trump.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:00",
+      "speaker": "REEVE",
+      "sentences": "But after the debate, Hawkland felt more despair.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:00",
+      "speaker": "HAWKLAND",
+      "sentences": "You feel like you're being condescended here. To be talked to from the Democratic Party kind of like just get behind the candidate was very frustrating and angering. This is not about to the Democrat or the Republican party. They both put up candidates that are not electable for very different reasons.Trump is a criminal and many other issues. Biden is just aging, and there is no reason that people should not be concerned with what they see.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:00",
+      "speaker": "HOFER",
+      "sentences": "He's done a great job. He did a great job the last four years. Right now, if these are the two options that we have in November, I'll vote for Joe Biden's head in a jar before I'll vote for Donald Trump. I'm angry and I mean, I'm angry to the point where if Joe Biden stays on the ticket and Donald Trump is still on the ticket, I'm fast- tracking moving to Costa Rica.I had it as a five-year plan to move to Costa Rica, and I'm going to try and fast-track it. I do not want to be here before the Republicans' Trumps little troll start, you know, reducing more or taking way more women's rights.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:00",
+      "speaker": "REEVE",
+      "sentences": "Elle Reeve, CNN, Denver.(END VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:00",
+      "speaker": "BLACKWELL",
+      "sentences": "New this morning, Iranians have elected a new President Masoud Pezeshkian; a reformist lawmaker defeated an ultra conservative hard-liner in Iran's presidential runoff.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:00",
+      "speaker": "MIRACLE",
+      "sentences": "He is calling for unity and support this morning after his victory was announced just a few hours ago. He has vowed a more pragmatic foreign policy, but, analysts say he is unlikely to bring major changes because most key decisions are made by Iran's supreme leader Ayatollah Ali Khamenei. CNN's Frederik Pleitgen is in Berlin for us. So, Fred, what can you tell us about Iran's incoming President? FREDERIK PLEITGEN, CNN SENIOR INTERNATIONAL CORRESPONDENTfirst of all, Veronica, it was a really interesting election that happened. They had a second round in Iran because the voter turnout was a lot higher actually than in the first round. The election was around 50 percent, still quite low though by Iranian standards, however, normally, it is the case so that if the voter- turnout is low, that then the conservatives usually have a better showing and their candidates usually do well. Well, in this case, the moderate managed to take the lead and win the election. Masoud Pezeshkian now the President-elect of Iran. Now, you're absolutely right to point out that Pezeshkian has said during the campaigning that he wants better relations with the countries in the greater Middle East, of course, a lot of turmoil there right now, also with the countries of the West as well, and that could also include the United States. Of course, there is that caveat that you were just pointing out that the Iranian President, of course, doesn't have the kind of power that for instance, the U.S. President has, that in the end, all decisions that are made need to be signed off by the supreme leader. However, the Iranian President does have the power to try and shape policies with some of those other institutions, and in conjunction with them, not only supreme leader, but also the Iranian military as well. So, Pezeshkian says that he wants to go into that direction, of course, all that is quite difficult. However, by the way, that the Iranians voted, they do seem to have told their elected officials that they want their country to work towards trying to get some of those sanctions lifted, and also want it to work towards getting better relations with countries around the world, including western countries as well. It's going to be very interesting to see how that plays out. But it certainly is on Pezeshkian's agenda to try and lead to some sort of detente, not just with the countries in the Middle East, but also with western countries as well, guys.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:00",
+      "speaker": "MIRACLE",
+      "sentences": "Frederik Pleitgen, thank you for that reporting. And I want to bring in CNN political and national security analyst, David Sanger to discuss even more on this. David, good morning. The world is closely watching President-elect Masoud Pezeshkian to see if he will bring Iran out of increasing international isolation. Fred was just talking about this. Do you think this is even possible or likely?DAVID SANGER, CNN POLITICAL &amp; NATIONAL SECURITY ANALYST:  Well, it's possible, but I think it's going to be difficult. Mr. Pezeshkian, when he ran, was supported interestingly enough by some of the former government officials who had negotiated the Iran nuclear deal, in 2015, including the foreign minister -- former Foreign Minister of Iran who was sort of the author of it. And so, what you've seen now is sort of a movement by the voters to say we want to end the isolation. It's not clear, as Fred pointed out that the President of Iran has the power to go do that. But the very fact that a government that constricts the vote, it doesn't decide the vote, but it limits who can run -- allowed him to basically take the lead here tells you that there's a recognition they've got to let off some of the anger that has been built up inside Iran towards the existing government. And the opponent, Mr. Jalili who had been an earlier nuclear negotiator was a true hard-liner.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:45:00",
+      "speaker": "SANGER",
+      "sentences": "Yes, boy, is this going to be a fascinating week. So, the NATO Summit begins on Tuesday, and it's going to bring together the French President Emmanuel Macron, we should point out, has just been through this bruising defeat.He remains in power, but obviously has lost a lot of the voting power in the French parliament to the right wing. You're going to have a completely new British Prime Minister, a Labor Minister who's gone against the populist move, but whose election reflects a sort of inner anger against the ruling establishment. It was the biggest defeat for the Conservatives. And then the whole thing will be presided over by President Biden who will be examined for his every move. And I thought it was really interesting that in the -- at the very end of the interview last night with George Stephanopoulos, he said, watch me, watch me at NATO. That's sort of the best test to see. And of course, what he was saying was, this is my proudest accomplishment, standing up against Russia, and watch me continue that role. And of course, that is the area where he most -- has a most distinctive opposite view from former President Trump.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:45:00",
+      "speaker": "MIRACLE",
+      "sentences": "Yes, the question is, will it be enough for voters to just be watching him now in the coming weeks? Well, in the U.K., newly- elected Prime Minister Keir Starmer is vowing to work with whoever is elected in the White House. Starmer has said that he's looking for a foreign policy reset. What does that look like, and how does that impact the United States?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:45:00",
+      "speaker": "SANGER",
+      "sentences": "Really interesting question what he means by a foreign policy reset, because he has moved the Labor Party from a sort of far-left position to way more to the center. And the early indications including from his conversation with President Biden yesterday's phone conversation, I doubt you're going to see Britain flag very much in its support for Ukraine.In fact, apart from the United States, it is probably been the most vociferous, but one of the largest providers of aid, and certainly, one of the largest providers of Intelligence. I don't expect you're going to see that change very much. I wonder if by saying that he was going to change his foreign policy, he means a very different view toward Europe.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:45:00",
+      "speaker": "MIRACLE",
+      "sentences": "Well, we've covered a lot of topics. I want to just follow up with Israel and Hamas. They seem to be on the brink of a ceasefire agreement. That includes a hostage deal. This allegedly comes after a shift in Hamas' stance. A senior Hamas official just confirmed to CNN that they are willing to drop their insistence of a ceasefire before committing to a hostage deal. Give us your take on this.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:45:00",
+      "speaker": "SANGER",
+      "sentences": "Well, this is a big change, and this has been, of course, the biggest single obstacle to put in the other, the deal that President Biden first outlined on May 31st, whether it will be sufficient to get them over the line. Who knows? I mean, how many times have we been sort of right on the verge of a hostage deal, and it's been undone.And of course, it could be undone by Hamas backing away from this commitment or by Prime Minister Netanyahu, who is supposed to be in Washington later on this month, saying that, no, the destruction of Hamas is his number one priority, so that even after a ceasefire, he would continue going after Hamas in-placements. He's gone back and forth on this. But one can hope that this is on the way to getting the hostages released, and at least, enough of the ceasefire, that we stop seeing the horrific killing we've seen on both sides there. I am not sure whether they can make it, but this may be their best shot.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:45:00",
+      "speaker": "MIRACLE",
+      "sentences": "All right, David Sanger, we appreciate your insights so much. Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:00",
+      "speaker": "BLACKWELL",
+      "sentences": "A new study suggests that people who take the popular weight loss and diabetes drugs, Wegovy and Ozempic may have a higher risk of developing a rare form of blindness.",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

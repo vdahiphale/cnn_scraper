@@ -1,0 +1,301 @@
+{
+  "date": "2023-03-16",
+  "headline": "CNN Newsroom",
+  "subHeadline": "Ex-Hogan Chief Of Staff Being Sought After; Trump Allies Demand Florida Governor DeSantis Be The Subject Of Ethics Investigation; Concerning Spike In U.S. Maternal Death Rate; Democratic-led Houston's School District Taken Over By GOP State Leaders; Houston Independent School District Now Under Texas Control; Black Women's Maternal Mortality Rates More Than Twice As High As White Women's Rates; CDC: In 2021, U.S. Maternal Death Rate Increased Significantly; How Artificial Intelligence Could Change The Music Industry. Aired 10:30- 11a ET",
+  "utterances": [
+    {
+      "timeStamp": "10:30:00",
+      "speaker": "JIM SCIUTTO, CNN NEWS ANCHOR",
+      "sentences": "This morning, there is now a federal search for a former chief of staff turned fugitive. Roy McGrath once worked for former Maryland Governor, Larry Hogan. He skipped out on his court date this week. He has been on the run since.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:30:00",
+      "speaker": "ERICA HILL, CNN ANCHOR AND NATIONAL CORRESPONDENT",
+      "sentences": "So, McGrath is actually wanted for allegedly stealing more than $276,000 from the very state he worked for. CNN's Sunlen Serfaty joining us now with more on this. So, are there any leads this morning on where McGrath maybe Sunlen.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:35:00",
+      "speaker": "HILL",
+      "sentences": "Wow.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:35:00",
+      "speaker": "SCIUTTO",
+      "sentences": "Wow.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:35:00",
+      "speaker": "HILL",
+      "sentences": "It is quite a story. Sunlen, appreciate it. Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:35:00",
+      "speaker": "SCIUTTO",
+      "sentences": "Well, allies of Former President Trump are now targeting Florida Governor Ron DeSantis before he has even officially launched a 2024 presidential campaign.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:35:00",
+      "speaker": "HILL",
+      "sentences": "A super PAC called MAGA Inc. is now accusing DeSantis of breaking campaign finance and ethics laws and demanding Florida investigators look into those allegations. CCN's Steve Contorno following the very latest for us.So, what, specifically, is MAGA Inc. alleging?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:35:00",
+      "speaker": "STEVE CONTORNO, CNN REPORTER",
+      "sentences": "Erica, MAGA Inc. is pointing to a Florida law that says that if you are an elected official, you can't run for another office at the same time, you have to resign to run. And they are saying that DeSantis is basically a de facto candidate at this point.They've called -- they said he's operating a, \"Shadow campaign\" because he is going around the country, doing events in early nominating states. He is raising $10 -- more than $10 million after his re-election campaign in November. He has scouts super PACs who are already lining up to support him. And he is doing all of this while he is still the governor of Florida and they are saying that this is a clear violation of the spirit of Florida's law, if not a direct violation of the law itself.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:35:00",
+      "speaker": "SCIUTTO",
+      "sentences": "So, they make a fair argument, given that the visits he made to key states, the speeches he's making, the money he's raising but what can actually come of this? I mean, are there legal penalties here?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:35:00",
+      "speaker": "CONTORNO",
+      "sentences": "Yes, that's a great question, Jim. And it -- it will be tough for anything much to come of this. For starters the legislature in Florida which is controlled by the Republican Party, they are already working to change this law so that it makes clear that the governor of Florida can run for president while he is also serving in office. The other thing is that the Ethics Commission in Florida --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:35:00",
+      "speaker": "SCIUTTO",
+      "sentences": "Wait. So, they're changing --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:35:00",
+      "speaker": "CONTORNO",
+      "sentences": "-- isn't necessarily -- it's not where you take criminal complaints. You don't have a lot of -- it doesn't have a lot of power to go after individuals, and mostly can levee a civil fine. So, there is not a ton that can come of this.But clearly, this is an attempt and an escalation by Trump and his allies to go after one of his top rivals. And when I asked the Governor DeSantis' offices about the complaint (ph), they called it, \"A frivolous and politically motivated attack.\" Jim and Erica.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:35:00",
+      "speaker": "SCIUTTO",
+      "sentences": "I mean, just to be clear here. They passed this law before, it's a law of Florida, but the Republican legislature is going to carve out just an exception for the sitting Republican governor of the state?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:35:00",
+      "speaker": "CONTORNO",
+      "sentences": "That is correct. And they have done that in the past when Charlie Crist was potentially in the mix back when he was governor. So, it wouldn't be the first time.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:35:00",
+      "speaker": "SCIUTTO",
+      "sentences": "Got it. Understood. There is precedent.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:35:00",
+      "speaker": "HILL",
+      "sentences": "Interesting. Interesting precedent.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:35:00",
+      "speaker": "SCIUTTO",
+      "sentences": "Uh-huh.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:40:00",
+      "speaker": "SCIUTTO",
+      "sentences": "A Texas-sized takeover. Republican leaders in the lone star state are taking over one of the largest school districts in U.S. history, the Houston Independent School District. The district, however, in a city, of course, led by Democrats, elected by the voters of that city, district officials will be replaced by a new board appointed not by residents of Houston but by the state commissioner of education.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:40:00",
+      "speaker": "HILL",
+      "sentences": "CNN's Adrienne Broaddus is live in Houston this morning with details. So, Adrienne, the teachers' union is calling this decision troubling but not unexpected. Why is the state making this move here?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:40:00",
+      "speaker": "ADRIENNE BROADDUS, CNN CORRESPONDENT",
+      "sentences": "They have the right here under the state law of Texas. And according to that law, if at least one campus within the district receives what is called unacceptable academic accountability ratings for consecutive years in a row, two things can happen. One, the commissioner, who you just referenced can either close the campus, or two, that commissioner can appoint a board of managers to oversee the district.And the school in question here, according to the commissioner, had poor grades for five years in a row. And on Wednesday, we learned the state will take over. That means the superintendent will be replaced, the board of education will also be replaced. And that new board of managers will oversee the nearly 180,000 students in this district and the 25,000 employees. This is the largest school district in the state of Texas, the eighth largest in the country. And from state leaders to community leaders, there is mixed opinions. Listen in. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:40:00",
+      "speaker": "BISHOP JAMES DIXON II, NAACP HOUSTON PRESIDENT",
+      "sentences": "This is a crime. I want to go on the record to say, this is a crime.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:40:00",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "Yes, it is.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:45:00",
+      "speaker": "DIXON II",
+      "sentences": "It is a crime against public education. It is a crime against the Houston community.GOV. GREG ABBOTT (R-TX):  There's been a long-time failure by HISD. And the victims of that failure are the students. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:45:00",
+      "speaker": "BROADDUS",
+      "sentences": "And it is important to underscore that this all comes after a lengthy court battle between the district and the education commissioner which ended in January. And as we now know, the judge ruled in the commissioner's favor. Congresswoman Sheila Jackson Lee called this takeover discriminatory. She mentioned that she wants the U.S. Department of Education to step in. And she says, if they don't, she will pick up her phone and call President Biden. Jim and Erica.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:45:00",
+      "speaker": "SCIUTTO",
+      "sentences": "Adrienne Broaddus, thank you so much for covering.Well, there's a troubling new report from the CDC. It found that the rate of women dying due to pregnancy or childbirth rose dramatically in 2021.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:45:00",
+      "speaker": "HILL",
+      "sentences": "Also, the rate of maternal deaths among black women is more than twice as high as it is among white women. CNN Health Reporter Jacqueline Howard joining us now.Look, the reality is, the maternal mortality rate is this country and has been something of an embarrassment for some time.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:45:00",
+      "speaker": "SCIUTTO",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:45:00",
+      "speaker": "HILL",
+      "sentences": "So, the fact that we're seeing a spike is only of further concern. What is behind this increase?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:45:00",
+      "speaker": "JACQUELINE HOWARD, CNN HEALTH REPORTER",
+      "sentences": "That is exactly right, Erica. We have seen the maternal mortality increase in the past decade. It is, like you said, embarrassing. And this new CDC report shows it's only getting worse.Now, what's behind this spike? Some experts say that we can do a better job providing postpartum care for women. We can do a better job listening to women when they feel like something is off during childbirth or pregnancy. We have high rates of c-sections in the past two years. We also had the pandemic which could have exacerbated the issue. Now, when you look on the screen right now, you see in 2021, that is the year with the most recent data available, more than 1,000 women died due to maternal causes, and that's up from 861 deaths in 2020. And the maternal mortality rate was higher among black women compared with white women. We know that black women are almost three times as likely to die due to maternal causes. So, these numbers just show the situation here in the U.S. is only getting worse, Jim and Erica. And it is surprising because the U.S. already has the highest U.S. maternal death rate among all high income nations. So, we're not getting any better. That's really surprising here.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:45:00",
+      "speaker": "HILL",
+      "sentences": "Yes, it is and disturbing. And let's hope, perhaps, it leads to some action. Jacqueline, really update. Appreciate it. Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:50:00",
+      "speaker": "SCIUTTO",
+      "sentences": "All right. So, you might recognize that voice. It does feature Eminem, but not the real Slim Shady. It's a song by Grammy award winning DJ David Guetta made, like so many things, it seems this day -- these days artificial intelligence.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:50:00",
+      "speaker": "HILL",
+      "sentences": "Yes, so here's how it worked, he actually asked ChatGPT to write a verse in the style of Eminem, then went to a different A.I. site, took that verse -- those lyrics, entered them in and out came this audio deepfake of Eminem's voice and a fully baked song. So, you just saw there. He was playing at one of his recent concerts. Fans went wild. CNN Business and Politics Correspondent Vanessa Yurkevich joining us more with the details.So, you reached out to David Guetta, sat down, did this wide-ranging interview with him. I'm fascinated by this idea and I am also thinking that I don't know that artists would be that excited about it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:50:00",
+      "speaker": "VANESSA YURKEVICH, CNN BUSINESS AND POLITICS CORRESPONDENT",
+      "sentences": "Well, David Guetta is certainly excited about this. He loves artificial intelligence. He's even considering making the whole album with artificial intelligence. He thinks it is great musicians.It's providing new tools, especially, for younger artists who want to get -- involved in music and make hits. But of course, there are ethical questions, there are legal questions, copyright questions about this. And I asked him more about the specific topic, here's what he had to say on that. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:50:00",
+      "speaker": "YURKEVICH",
+      "sentences": "You created this song with the A.I. Technically, you own the copyright.DAVID GUETTA, GRAMMY AWARD-WINNING DJ:  There's a little bit of ethical problem, because when I'm using Eminem's voice, I don't think there is a law right now about this.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:50:00",
+      "speaker": "YURKEVICH",
+      "sentences": "Do you think there needs to be federal regulation around this artificial intelligence?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:50:00",
+      "speaker": "GUETTA",
+      "sentences": "I think maybe not yet. I like that it's very free and open right now. And -- but at some point, yes. The question is going to -- has to be raised. I think, like, A.I. is going to be a huge influence on music.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:50:00",
+      "speaker": "YURKEVICH",
+      "sentences": "Now, David Guetta says, he doesn't plan to release this track commercially. But if he wanted to, he would have to go to the U.S. Copyright Office and file for a copyright. And right now, U.S. Copyright law says, there has to be a certain level amount of human intervention in a work in order to make it a copyrightable piece of work. And -- but the question is, how much human intervention are we talking about here?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:50:00",
+      "speaker": "HILL",
+      "sentences": "Well, then also, wouldn't he have to get Eminem's permission? It's not his voice but it is his voice. How does that figure in?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:55:00",
+      "speaker": "HILL",
+      "sentences": "Uh-huh.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:55:00",
+      "speaker": "YURKEVICH",
+      "sentences": "-- this can be copyrightable, sometimes not. It's really case-by-case how much human intervention is involved. A big question, how do you qualify that?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:55:00",
+      "speaker": "HILL",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:55:00",
+      "speaker": "YURKEVICH",
+      "sentences": "How do you quantify that?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:55:00",
+      "speaker": "HILL",
+      "sentences": "It just feel like every day, A.I. brings up these new questions that none of us thought of before that will demand answers in the very near future. Vanessa, appreciate it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:55:00",
+      "speaker": "YURKEVICH",
+      "sentences": "Yes, it is moving so quickly.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:55:00",
+      "speaker": "HILL",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:55:00",
+      "speaker": "YURKEVICH",
+      "sentences": "And everyone is just trying to keep up with it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:55:00",
+      "speaker": "HILL",
+      "sentences": "Yes. Myself included that's why I'm glad you -- we have you. Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:55:00",
+      "speaker": "YURKEVICH",
+      "sentences": "Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:55:00",
+      "speaker": "HILL",
+      "sentences": "All right. Thanks to all of you for joining us today. I'm Erica Hill.",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

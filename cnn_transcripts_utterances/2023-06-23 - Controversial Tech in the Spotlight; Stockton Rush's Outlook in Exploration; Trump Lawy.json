@@ -1,0 +1,169 @@
+{
+  "date": "2023-06-23",
+  "headline": "CNN News Central",
+  "subHeadline": "Controversial Tech in the Spotlight; Stockton Rush's Outlook in Exploration; Trump Lawyers head Over More Tapes; Steve Anderson is Interviewed about Ukraine's Counteroffensive. Aired 9:30-10a ET",
+  "utterances": [
+    {
+      "timeStamp": "09:31:40",
+      "speaker": "SARA SIDNER, CNN ANCHOR",
+      "sentences": "The big question investigators are trying to figure out now is what exactly caused the catastrophic failure of the Titan. At the time the vessel was made, some of the construction materials and design choices were considered controversial. That includes the use of carbon fiber for the pressure hull.CNN correspondent Tom Foreman is joining us now. Tom, what are you learning? We're looking at pictures of what the dimensions are, but what are you learning about the technology that was used in this vessel?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:31:40",
+      "speaker": "TOM FOREMAN, CNN CORRESPONDENT",
+      "sentences": "Look, carbon fiber is something we see every day. It's in your car. It's in your tennis racquets, your golf clubs, in spaceships. It's in the airplanes you fly on. Carbon fiber is prized because it's lightweight and it's very, very strong.However, it doesn't bend well. If it's under tremendous force, the question is, can it get so much force that the very fibers of the carbon fiber, the labor -- the labors - the layers of it start to delaminate and come apart. This is one of the concerns. And filmmaker and known oceanographer James Cameron has some very sharp concerns about this material. Listen. (BEGIN VIDEO CLIP) JAMES CAMERON, DEEP-SEA EXPLORER AND \"TITANIC DIRECTOR: It's completely inappropriate for a vessel that sees external pressure. You know, carbon fiber composites are used very, very successfully for internal pressure pressure vessels, like let's say a scuba tank. And you can get two or three times multiple of what you could get out of steel or aluminum for that type of pressure bottle. But for something that's seeing external pressure, all of the advantages of composite materials go away, and all the disadvantages come into play. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:31:40",
+      "speaker": "FOREMAN",
+      "sentences": "This was one of the concerns that was raised beforehand.Now, if you look at a diagram of this vessel, you can see some of the other concerns here. It had a Titanium front, a Titanium back, the part that just opened up there, concerns about the joining sections between that and the carbon fiber, which was the main tube going through there. The fact that it was constructed as a tube, most of these are constructed more as a sphere where the pressure is more evenly distributed on all sides. A tube is an entirely different matter in terms of physics. And you notice that viewing port up front there. A lot of questions about that. In one video you see Stockton Rush talking about how that window up front would actually flex in a little bit at the highest pressure out there. And there was a suggestion that somehow, if it started showing cracks, that would be a warning system to get back to the surface. Every one of these things has to be looked at, Sara. Every one of them has to be studied to say, OK, so what exactly did fail here? Did the carbon fiber delaminate? Did it delaminate because there was a leak somewhere that was explosive and immediate? And, ultimately, did they have some warning if only by a few seconds? I guess we'll find out, or at least we'll hope to. Sara.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:31:40",
+      "speaker": "SIDNER",
+      "sentences": "Yes. Tom Foreman, thank you for explaining all of that, because it is complex how these are put together. But it ended in such tragedy. Everyone wants to know how to prevent this from happening again. Appreciate it.Kate.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:35:02",
+      "speaker": "STOCKTON RUSH",
+      "sentences": "All the lead down here can be dropped in an absolute emergency so you can get to the surface.NICK WATT, CNN CORRESPONDENT (voice over): Stockton Rush, risk taker, envelope pusher, explorer.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:35:02",
+      "speaker": "MIKE REISS, PERSONAL FRIEND",
+      "sentences": "He's one of the most magnetic men I've ever met. I love calling him the last of the great American dreamers. WATTIda Straus, who went down with the Titanic, their fictional selves appeared in James Cameron's movie which only heightened the global fascination with the dramatic demise of the liner that had been hailed unsinkable. Rush first took Titan, his experimental submersible, down to the wreck in 2021.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:35:02",
+      "speaker": "REISS",
+      "sentences": "If you were casting a submarine commander in a soap opera, you'd use him. There's such an easy parallel, I think, to go for, which is, he's Captain Kirk. You know, he was bold and dynamic and, you know, sort of commanding and, you know, he wanted to boldly go where no one's gone before.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:35:02",
+      "speaker": "WATT",
+      "sentences": "His attitude towards strict rules and regulations, according to his many interviews, they stifle innovation.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:35:02",
+      "speaker": "RUSH",
+      "sentences": "I'd like to be remembered as an innovator. I think it was General McArthur who said, you're remembered for the rules you break. And, you know, I've broken some rules to make this. I think I've broken them with logic and good engineering.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:35:02",
+      "speaker": "WATT",
+      "sentences": "Before taking a sub down to another treacherous wreck in 2018, he said this.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:35:02",
+      "speaker": "RUSH",
+      "sentences": "We always have a number of divers who tell us you can't do this. It's dangerous if you're a driver. We look at submarines as being an armored vehicle.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:35:02",
+      "speaker": "WATT",
+      "sentences": "Rush was no wild-eyed armature. He graduated Princeton with a degree in aerospace engineering, then worked on the F-15 program as a flight test engineer. He founded OceanGate in 2009.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:35:02",
+      "speaker": "RUSH",
+      "sentences": "At some point safety just is pure waste. I mean if you just want to be safe, don't get out of bed. Don't get into your car. Don't do anything. At some point you're going to take some risk. And there really is a risk/reward question. I said, I think I can do this just as safely by breaking the rules.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:35:02",
+      "speaker": "WATT",
+      "sentences": "On board Titan just last November, he explained his maverick methods to CBS News.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:35:02",
+      "speaker": "RUSH",
+      "sentences": "We can use these off the shelf components.I got these from Camper World. We run the whole thing with this game controller.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:35:02",
+      "speaker": "WATT",
+      "sentences": "As a child, Rush dreamed of going into space.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:35:02",
+      "speaker": "REISS",
+      "sentences": "He wanted to be an astronaut. And I think when he didn't become an astronaut, he set his sights down below.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:35:02",
+      "speaker": "WATT",
+      "sentences": "He called it the deep disease in an interview with \"Smithsonian\" magazine, said he explored the deep for the future of humidity. RUSHfor mankind is under water. (END VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:42:55",
+      "speaker": "BOLDUAN",
+      "sentences": "CNN has learned Donald Trump's legal team has now handed over multiple recordings to the special counsel investigating his handling of classified documents. The new reporting adds some important new detail into how the special counsel conducted its investigation and what kinds of evidence it has.CNN's Paula Reid has this reporting. She's joining us now. Paula, what more do we know?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:45:07",
+      "speaker": "BOLDUAN",
+      "sentences": "Yes, and you and your great reporting will continue to learn, I'm sure, uncover just how much more they are collecting in terms of evidence in this investigation.Paula, thank you so much. Sara.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:45:07",
+      "speaker": "SIDNER",
+      "sentences": "After criticism from western allies on its counteroffensive, Ukraine is now touting partial success on two fronts. Where they're making gains this morning. We'll talk about it.(COMMERCIAL BREAK)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:50:00",
+      "speaker": "SIDNER",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:50:00",
+      "speaker": "ANDERSON",
+      "sentences": "These guys have been at it now for 16 months. They're tired, and the PTSD has kicking in. They've been in continuous fighting. They've got a lot of challenges to overcome.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:50:00",
+      "speaker": "SIDNER",
+      "sentences": "Yes, I've been on some of these front lines. And what you say about them being tired is true because in the beginning the United States itself thought that this was going to last three days and that Russia was going to take over. That is absolutely not what's happened. But now the fighting has gone on for more than a year. We are entering into the second year of fighting.I do want to ask you, after hearing from Ukrainian defense forces about this main strike, what would the main strike look like? They've been talking about holding back some of the troops for this main attack. What would - what would that look like if you were going to guess?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:50:00",
+      "speaker": "ANDERSON",
+      "sentences": "Well, what they tried to do is use the principle of mass to find a weakness in the enemy lines, and then conduct some kind of a strategic and operational penetration, and then they try to exploit that penetration by coming from behind and from the flanks in order to surround the Russians and make them, you know, surrenderer en masse. That's what they want to do. So, I'm hopeful that these attacks that are ongoing right now in the Donbass, and the three specific areas that we know of, they're trying to find the weaknesses. And then once they find that weakness, they're going to exploit it. But, again, they've got a very, very tough road to hoe. And I'm just concerned they just don't have the firepower.We would require, in U.S. military doctrine, and -- the offense needs to have a three to one advantage in terms of firepower over the defending forces that they're attacking. Three to one. They don't have anything near that. And they've got to really step up their game in a big, big way, find a - find and exploit a penetration and conduct the envelopments that they're going to need to do in order to win this war this year, otherwise I think we're going to be talking about this for years to come.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:50:00",
+      "speaker": "SIDNER",
+      "sentences": "All right, thank you so much for joining us. I appreciate your analysis on this.And the battle continues there with the counteroffensive going very strong. Thank you, Brigadier General Steve Anderson. Kate.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:55:00",
+      "speaker": "VICTOR WEMBANYAMA, NUMBER ONE PICK IN NBA DRAFT",
+      "sentences": "From my point of view, it's the beginning of my new life. And, yes, it's - I'm trying to be as special as I can be and, you know, hopefully some day I make history.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

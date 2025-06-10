@@ -1,0 +1,487 @@
+{
+  "date": "2023-01-11",
+  "headline": "CNN Newsroom",
+  "subHeadline": "Massive Flight Disruptions Across U.S. After FAA Had System Outage; Santos On NY GOP Leaders' Call To Resign: \"I Will Not\"; Rep. Kelly Armstrong (R-ND) Discusses About Rep. George Santos' Assignments; More \"Atmospheric River\" Events Expected In CA In The Coming Days. Aired 3-3:30p ET",
+  "utterances": [
+    {
+      "timeStamp": "15:00:50",
+      "speaker": "ALISYN CAMEROTA, CNN HOST",
+      "sentences": "It's the top of the hour on CNN NEWSROOM. I'm Alisyn Camerota.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:00:50",
+      "speaker": "VICTOR BLACKWELL, CNN HOST",
+      "sentences": "I'm Victor Blackwell, good to be with you. More than 8,000 flights have been delayed just today after the FAA made a rare move in the name of safety. It grounded all outgoing domestic flights for about 90 minutes this morning to work out major problems in a critical messaging system called NOTAM. Pilots use it to learn about safety hazards in real time.(BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:00:50",
+      "speaker": "PETE BUTTIGIEG, TRANSPORTATION SECRETARY",
+      "sentences": "Somewhere overnight, there was an issue with irregularities in the messages that were going out that reflected a bigger systems issue. And this morning, as of about seven o'clock, there were still problems validating that the messages were going out. So for safety reasons to make sure that every aircraft that took off was doing so safely, FAA implemented a ground stop.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:00:50",
+      "speaker": "CAMEROTA",
+      "sentences": "Secretary Buttigieg said it's still not clear what caused this system failure but it does not appear to be a cyber attack. What is clear is the ripple effect for 1000s of passengers, so let's bring in CNN Adrienne Broaddus. She's at Chicago's O'Hare International Airport. What are passengers telling you, Adrienne?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:00:50",
+      "speaker": "ADRIENNE BROADDUS, CNN CORRESPONDENT",
+      "sentences": "Alisyn, they say they've had to do some juggling this morning. We met one family who was supposed to fly out of Madison, Wisconsin to California. That flight was canceled, so they drove here to O'Hare.Travelers looking at the information board are starting to see it return to normal. However, we do see signs of late aircraft. Moments ago I spoke with a father and his daughter who are on their way to Brussels. He told me because of what we've seen in recent weeks with air travel, he planned accordingly. Listen in. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:00:50",
+      "speaker": "BRANDON BEIGHTOL, FLIGHT DELAYED",
+      "sentences": "We booked our flight to Chicago with about a 10-hour layover just in case something happened and I'm glad we did.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:00:50",
+      "speaker": "BROADDUS",
+      "sentences": "Are you afraid that this will become the norm, glitches and whatnot with air travel?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:00:50",
+      "speaker": "BEIGHTOL",
+      "sentences": "No. You got to be flexible. It's always something. It's a - a lot of different things can go wrong, but they usually sort it out.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:00:50",
+      "speaker": "BROADDUS",
+      "sentences": "Flexibility is key. He is taking this with a positive attitude. Meanwhile, here at Chicago O'Hare, there have been a little more than 100 canceled flights and about 800 delays, Alisyn?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:00:50",
+      "speaker": "CAMEROTA",
+      "sentences": "He certainly have the right attitude.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:00:50",
+      "speaker": "BLACKWELL",
+      "sentences": "Well, he did.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:00:50",
+      "speaker": "CAMEROTA",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:00:50",
+      "speaker": "BLACKWELL",
+      "sentences": "Adrienne Broaddus, thank you. And the White House says there are no visible signs of foul play but that an investigation is ongoing.Joining us now is CNN's Chief Law Enforcement and Intelligence Analyst, John Miller. John, tell us about what is happening that what you're learning about what may have happened here.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:00:50",
+      "speaker": "JOHN MILLER, CNN CHIEF LAW ENFORCEMENT AND INTELLIGENCE ANALYST",
+      "sentences": "So at the White House, Chris Inglis, who is the National Cyber Director at the White House, and comes from the NSA not a stranger to hacking or foreign adversaries attempting things on computer. He is managing from the White House the kind of government wide effort between cybersecurity experts to kind of take a deep dive in this.I mean, what Pete Buttigieg told us today was there is no evidence of a cyber attack. That's good news. But we also have to remind ourselves when you have a highly sophisticated cyber attack, it is meant to conceal evidence. So that means they're going to be going into the computer logs at the FAA. And they're going to be going one by one zero by zero back through those logs to look for anomalous behavior. Where did the system start to crack or glitch? What was the domino effect where it started to get worse? And then go back further, which is, did something come in from the outside? What other places does the system touch? What thumb drive could have introduced something through either a vendor or something else? There's just a million questions when you're going forensically backwards through a complex system like that to find out what could have affected it beyond a glitch that came with the system.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:00:50",
+      "speaker": "CAMEROTA",
+      "sentences": "It sounds so complicated. Honestly, you lost me at thumb drive.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:00:50",
+      "speaker": "MILLER",
+      "sentences": "Well, it is Alisyn, but when you look at the level of sophistication here - well first of all computers have problems, computers break, computers get - when they have updates ...",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:00:50",
+      "speaker": "CAMEROTA",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:05:05",
+      "speaker": "MILLER",
+      "sentences": "... so it can happen. But when you look back at the efforts of foreign adversaries, whether you take the Russians and the SolarWinds attack, and the SolarWinds attack, what we learned was you don't have to attack the FAA system or the Department of Defense System or this system, you just attack the maintenance system that crawls through there and updates and fixes everything, because it gives you access to everywhere. And there were multiple government agencies affected by the SolarWinds, which was a sophisticated Russian hack.You looking at the Chinese, numerous attempts to get into U.S. transportation systems. They tried to hack into the Metropolitan Transportation Authority right here in New York. So this is a matter of due diligence, which is, A, they have to figure out what went wrong in the system and then they have to figure out, was it from the inside? Or was it from the outside?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:05:05",
+      "speaker": "CAMEROTA",
+      "sentences": "John, thank you very much for explaining all of that.All right. Let's discuss further, we have Peter Goelz. He's a CNN Aviation Analyst and a former Managing Director of the National Transportation Safety Board. And Zach Griff is Senior Aviation Reporter at The Points Guy, a travel website. Gentlemen, thanks so much for being here. So Peter, what do you think? I mean, just from the cursory information that we have thus far this morning, what do you think happened?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:05:05",
+      "speaker": "PETER GOELZ, CNN AVIATION ANALYST",
+      "sentences": "Well, I mean, clearly, the system started to crash overnight and they weren't prepared to go online this morning. I mean, we run in a hub and spoke system in which the majority of our flights arrive and depart from large airports. If the system starts to crash, it's going to cascade throughout the country.And a pilot is - will not take off unless he has a NOTAM read on his departure airport and on his arrival airport and that simply shut the system down.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:05:05",
+      "speaker": "BLACKWELL",
+      "sentences": "Zach, I'm thinking about the people who have flights later today or tomorrow, the number of delays crept from 2,000 to 3,000 to 6,000 to 7,000 to now they're 8,000. Does the last domino likely of these delays fall today or do you expect that this could continue into tomorrow?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:05:05",
+      "speaker": "ZACH GRIFF, SENIOR REPORTER, THE POINTS GUY",
+      "sentences": "Well, I think ...   GOELZ",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:05:05",
+      "speaker": "BLACKWELL",
+      "sentences": "Yes, that one's for Zach.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:05:05",
+      "speaker": "GOELZ",
+      "sentences": "Sorry.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:05:05",
+      "speaker": "BLACKWELL",
+      "sentences": "It's all right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:05:05",
+      "speaker": "GRIFF",
+      "sentences": "Sorry. One of the things that we've seen so far, right, about 45 percent of flights today, U.S. flights in out are just purely domestic flights canceled or delayed, I mean, those are pretty astonishing numbers. One of the nice things though is today is a quieter travel day. The holiday period is behind us.There are lots of seats out there for people to be rebooked and rescheduled on other connecting flights. And so typically what the airlines like to do is they'll do a reset of their operation tonight and then try to get the pieces in place to have tomorrow morning start out fresh, clean slate. Nice thing, though, is if you are booked, the airlines all have waivers, the big ones: American, Delta and United. So you can preemptively make changes without any other fees.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:05:05",
+      "speaker": "CAMEROTA",
+      "sentences": "Peter, when all the chaos was happening with Southwest what we found out was that it was an IT problem. They just hadn't updated their IT system in a woefully long time. Could it be something as simple and as rudimentary as that that brought everything to a standstill this morning?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:05:05",
+      "speaker": "GOELZ",
+      "sentences": "Well, that's what's going to be discovered in the upcoming hearings that are going to take place on this issue. The question is, did the FAA apply the necessary funds to keep this critical system as current as they could? I mean, this is a system that is fundamental to safety. And it started out post World War II and has - at one point, you got your NOTAMs via phone, now it's online. The question is, had they - have they invested the proper amount of money to keep this system up to date and apparently they haven't.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:05:05",
+      "speaker": "BLACKWELL",
+      "sentences": "All right. Peter Goelz, Zach Griff, thank you both.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:05:05",
+      "speaker": "CAMEROTA",
+      "sentences": "So today, New York law - Republican lawmakers called on Congressman George Santos to resign over the lies he's told about his professional and his personal life. But Santos says that he will not do that.(BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:05:05",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "Will you resign?REP. GEORGE SANTOS (R-NY):   I will not.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:05:05",
+      "speaker": "SANTOS",
+      "sentences": "(Inaudible) ...",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:05:05",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Guys, we're going to need a little bit of space here.   UNIDENTIFIED FEMALEentire ordeal over your past?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:05:05",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "New York Republicans are calling you a disgrace. You will not resign?(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:05:05",
+      "speaker": "BLACKWELL",
+      "sentences": "CNN's Manu Raju is on Capitol Hill. Manu, reporters just asked House Speaker Kevin McCarthy how he plans to handle George Santos. What did he say?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:09:59",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "The Nassau County GOP call on him to resign today. Does that affect your thinking at all? What do you intend to do about Congressman Santos?REP. KEVIN MCCARTHY (R-CA):   No. I tried to stick by the Constitution, the voters elected him, so if there is a concern, it has to go through the ethics and let it move through that. But right now, the voters have a voice in the decision. It's not where people pick and choose based upon what somebody's press is. So he will continue to serve.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:09:59",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "What do you make of some of these allegations? So - I mean, he himself has admitted to fabricating parts of his resume.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:09:59",
+      "speaker": "MCCARTHY",
+      "sentences": "Yes, so did a lot of people here, in the Senate and others, but the one thing I think, it's the voters who made that decision. He has to answer to the voters and the voters can make another decision in two years.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:09:59",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "Would you ...",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:09:59",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Do you trust Congressman Santos yourself?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:09:59",
+      "speaker": "MCCARTHY",
+      "sentences": "He's going to have to build the trust here and he's going to have the opportunity to try to do that.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:09:59",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "Would you welcome his resignation, if he offered it to you.   MCCARTHYmake and if he has challenges, they're going to have to go before the Ethics and answer those.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:09:59",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "Final one, are you going to take any action against him at this point? Are any of these allegations acceptable to you?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:09:59",
+      "speaker": "MCCARTHY",
+      "sentences": "What are the charges against him?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:09:59",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "Well, he's ...",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:09:59",
+      "speaker": "MCCARTHY",
+      "sentences": "Is there a charge against him? In America today, you're innocent till proven guilty. So just because somebody doesn't like the press you have, it's not me that can have - can over say what the voters say. The voters are the power. The voters made the decision and he has a right to serve. If there's something that rises to the occasion that he did something wrong, then we're going to deal with that (inaudible) ...",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:09:59",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "You have power to put him on committee though, will you put him on committees?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:09:59",
+      "speaker": "MCCARTHY",
+      "sentences": "(Inaudible) ...",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:09:59",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "You plan to put him on committees?(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:09:59",
+      "speaker": "RAJU",
+      "sentences": "So I'm told from a Republican source that Santos actually asked to sit on a prime committee, the House Financial Services Committee, that was rejected. But it appears he may get some other committee assignments.And it's also important to note here that if Santos were to resign, that would set up a special election in the New York District that could favor Democrats, give them a pickup opportunity and tighten Kevin McCarthy's already narrow margin. So you're seeing what he's saying here that it's not - he's going to stay a member of Congress for the next two years unless something changes, guys.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:09:59",
+      "speaker": "CAMEROTA",
+      "sentences": "Manu, we're also learning about some other committee assignments and some of the people who held out against voting for Kevin McCarthy speakership are now receiving their assignments. So what does that look like?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:09:59",
+      "speaker": "RAJU",
+      "sentences": "Yes. Some of them absolutely are. These behind the scenes, they made some of these key decisions, two members in particular, Andrew - Cloud - Michael Cloud and Andrew Clyde. They initially were two Republicans who held out on Kevin McCarthy. We are told that they will have a seat on the House Appropriations Committee that is a committee that funds the federal government.There are also other members as well, Byron Donalds, who was nominated to run against McCarthy fell short of those votes will have a seat on the Financial Services Committee. There are other members too who will get some of those key committee assignments. This is all part of McCarthy's deal. He promised more representation from some members of that hard right Freedom Caucus and that one over some of these key members. So we're learning more and more about elements of Kevin McCarthy's handshake deal and that's exactly how he got the votes after 15 ballots to become elected speaker, guys?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:09:59",
+      "speaker": "BLACKWELL",
+      "sentences": "All right. It's all coming together. Manu Raju for us on Capitol Hill, thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:09:59",
+      "speaker": "CAMEROTA",
+      "sentences": "With us now as Republican Congressman Kelly Armstrong, a member of the Steering Committee making these decisions about committee assignments. Congressman, thanks so much for being here. Should George Santos be on the Financial Services Committee? Will he be on that?REP. KELLY ARMSTRONG (R-ND)   He is not on the Financial Services Committee. But it's difficult for me, there's 222 members of the Republican majority, five of us serve on the Ethics Committee. I am one of those five and I know there's been an official complaint filed against him and I take that job very seriously. So I really can't comment more than that or on that.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:09:59",
+      "speaker": "CAMEROTA",
+      "sentences": "Well, no, I understand, but I'm not asking you about the Ethics investigation into him, but because you're on the committee, the Steering Committee that assigns people to committee assignments, is George Santos assigned to any committee?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:09:59",
+      "speaker": "ARMSTRONG",
+      "sentences": "No. He has no - we - he was not put on any committees today. We're coming back again next week.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:09:59",
+      "speaker": "CAMEROTA",
+      "sentences": "As you know, there are local Republican leaders who are calling for him to resign over the slew of lies that he's said about his resume about his personal life, about his previous jobs. Do you agree that he should resign?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:09:59",
+      "speaker": "ARMSTRONG",
+      "sentences": "It's - Again, I'm going to be very clear, he's had an Ethics Committee - or Ethics complaint officially filed against him. I am on the only true bipartisan committee in Congress. We take that job very seriously. We sit in judgment of our peers and it's just something I'm not willing to talk about.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:09:59",
+      "speaker": "CAMEROTA",
+      "sentences": "Okay. How about Marjorie Taylor Greene? What committee is she going to be on?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:15:02",
+      "speaker": "CAMEROTA",
+      "sentences": "I mean, except for - if it's, say, Eric Swalwell or Adam Schiff or Ilhan Omar.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:15:02",
+      "speaker": "ARMSTRONG",
+      "sentences": "Well, as somebody who was defending our members, whether it was Jim Jordan, whether it was Marjorie Taylor Greene, whether it was Paul Gosar, whether it was Jim Banks' last Congress, I made this same argument, and I said, the problem is, is when you move the goalposts and the goalposts never go back. I begged the Democrats not to do this two years ago and we are seeing what's moving through with that.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:15:02",
+      "speaker": "CAMEROTA",
+      "sentences": "Okay, let's talk about some of the top priorities for the new Republican-led House. I know that you, in particular, want Congress to investigate the FBI and the DOJ.About the FBI, obviously, that's a vital crime fighting organization in our country. As you know, they just successfully surveilled the suspect in the Idaho - University of Idaho murders across the country and arrested him. They do things like that in much less high profile things every single day. Do you worry that by investigating the FBI, it will impact the morale of the agents and the work that they do?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:15:02",
+      "speaker": "ARMSTRONG",
+      "sentences": "I worry that it's already happened. I work prior to ever being involved in government, I was a criminal defense attorney and a public defender in North Dakota. I worked with law enforcement agents from the FBI, DEA local and all the way across the board. But I also served on judiciary and oversight for my first two years in Congress.I've read the two IG reports that have come out. I have seen what the - what we're doing dealing with it and one of my biggest frustrations is that the leadership of the FBI by politicizing and DOJ politicizing so many different things, that the rank and file members who are just trying to do the best work they can in places like North Dakota are losing steam through no fault of their own. We have to get into this. I was actually one of the first people in judiciary on the Republican side to go after Director Wray in a hearing after President Trump appointed him. So I'm - these are really serious issues and we need to we need to investigate and deal with it. We've had - FBI whistleblower has already come forward and there's a real serious problem in leadership and just changing regulation isn't going to solve it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:15:02",
+      "speaker": "CAMEROTA",
+      "sentences": "Okay, so let's talk about the classified documents that we now know both President Trump and President Biden as Vice President appeared to mishandle. Do you see any difference in these cases?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:15:02",
+      "speaker": "ARMSTRONG",
+      "sentences": "I haven't looked at it. I will tell you one big difference, it was discovered on both prior to the election, but only one was disclosed prior to the election. And this isn't the first time that has happened either, whether it's censoring the New York Post a hundred different people, we obviously know DOJ was coordinating heavily, big government was coordinating with big tech in order to suppress certain things in dealing with that.   So my major concern right now is the difference in timing, but I'mhopeful what we do as Republicans is something that I don't feel like Democrats did for my first two years. We're going to investigate the conduct and take it where it goes and we're going to do it a serious way and then prejudge any conclusions till we figure out what's going on.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:15:02",
+      "speaker": "CAMEROTA",
+      "sentences": "Yes, but in terms of disclosure, just to be clear, it wasn't that President Trump came out and disclose it, it was at the National Archives, spent more than a year trying to get the documents back from Mar-A-Lago, that's why it was disclosed. They finally had to make a public statement, so I will say that they were disclosing.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:15:02",
+      "speaker": "ARMSTRONG",
+      "sentences": "I understand that, but - no, and I understand that and I think there are probably differences in the cases. There's always similarities, there's always differences. But there seems to be a pattern of conduct as the closest - the closer we get to the election, the less stuff is disclosed on one side and nobody could argue that it happens on an even keel basis, because I've been here for four years, and that's just not the truth.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:15:02",
+      "speaker": "CAMEROTA",
+      "sentences": "Okay. But once again, President Trump didn't disclose all the ones that he had either, so I can't - I don't think that in terms of non-disclosure around a midterm that that's a necessarily good analogy.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:15:02",
+      "speaker": "ARMSTRONG",
+      "sentences": "No. But you have - suppressing the New York Post, this was obviously discovered within Vice President Biden a month before the election, all of those different things that continue to go on in suppression and suppression and the coordination between big tech and big government as we're leading up to elections is not something that I think is coincidental.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:15:02",
+      "speaker": "CAMEROTA",
+      "sentences": "Okay. Congressman Kelly Armstrong, thank you very much for your time.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:15:02",
+      "speaker": "ARMSTRONG",
+      "sentences": "Thanks.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:15:02",
+      "speaker": "BLACKWELL",
+      "sentences": "Northern California is still being hammered with rain and there's another storm on the way. What's causing this extreme weather? We'll discuss.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:23:36",
+      "speaker": "BLACKWELL",
+      "sentences": "Right now, millions of people across California are under flood alerts as a new barrage of powerful storms barrels in. Now heavy downpours potential flooding, they're expected in the next few days. The heaviest rain is threatening the northern parts of the state, at least 17 people have been killed and rainfall totals are up to 600 percent above average.   CAMEROTAto ease immediate drought concerns, but experts say the rain is coming much too fast, which leads to the flash floods and the mudslides that are devastating communities. CNN Chief Climate Correspondent Bill Weir joins us now. Bill, that's a cruel irony. They need rain, but now there's too much rain.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:25:07",
+      "speaker": "BLACKWELL",
+      "sentences": "Such a dramatic change when you watch this map switch to blue there. Climate change the influence on what we're seeing.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:25:07",
+      "speaker": "WEIR",
+      "sentences": "Hotter planet means more moisture and throwing off the water cycles in ways that even the most extreme predictions were conservative, it turns out in hindsight. And so it's long protracted, so the droughts get longer and hotter. The wet monsoon rains get heavier and more unpredictable.And so there is a new science about the greatest disaster in California was a flood in 1861. People talk about the big one in California. Now scientists are thinking the big one, that trillion dollar event could be an event like this, where it's just a month of relentless rain that floods the entire Inland Valley, where a quarter of our food is grown and will just have devastating effects. And so water managers got to start thinking in new ways, instead of managing, county to county were bureaucracy gets in the way manage entire watersheds, so people are working in the same ecosystem. So it's really a moment of reckoning out West after they've been so many recently.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:25:07",
+      "speaker": "CAMEROTA",
+      "sentences": "Let's hope a lot of big brands are on this right now.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:25:07",
+      "speaker": "BLACKWELL",
+      "sentences": "Yes. And in the near term, there's more rain on the way.  WEIR",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:25:07",
+      "speaker": "BLACKWELL",
+      "sentences": "Yes. Bill Weir, thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:25:07",
+      "speaker": "CAMEROTA",
+      "sentences": "Thanks, Bill.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:25:07",
+      "speaker": "WEIR",
+      "sentences": "Thanks, guys.",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

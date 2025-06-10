@@ -1,0 +1,283 @@
+{
+  "date": "2022-12-13",
+  "headline": "CNN This Morning",
+  "subHeadline": "SEC Charges Ex-Crypto Chief with Defrauding Investors in House of Cards; Haircut, Basketball, BBQ for Griner in First 48 Hours Back in U.S.; Today, Biden Signs Bill to Protect Same-Sex Marriage Rights. Aired 7-7:30a ET",
+  "utterances": [
+    {
+      "timeStamp": "07:00:00",
+      "speaker": "DON LEMON, CNN ANCHOR",
+      "sentences": "Good morning, everyone. That was Alexandra Pelosi, and she was responding -- the daughter of the House speaker, Nancy Pelosi, reacting to the jokes and conspiracies about her father's attack. She's going to talk about much, much more, a very wide-ranging interview, more on that, and a preview of her new documentary on her mother a little bit later on.But, first, from the top of the crypto market to being arrested in the Bahamas, the charges the SEC just announced against the founder of the failed crypto exchange FTX.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:00",
+      "speaker": "POPPY HARLOW, CNN ANCHOR",
+      "sentences": "Also, major surge at the southern border. More than 2,400 migrants crossed over into the U.S. over the southern border just this weekend and officials say it may just be the beginning.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:00",
+      "speaker": "KAITLAN COLLINS, CNN ANCHOR",
+      "sentences": "We have new CNN reporting this morning also on how Brittney Griner is readjusting to life back in the United States after ten months in Russian detention.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:00",
+      "speaker": "HARLOW",
+      "sentences": "But, first, this just in to CNN. The Securities and Exchange Commission has officially charged Sam Bankman-Fried with defrauding investors. The disgraced former FTX CEO is now accused of orchestrating a years' long fraud to build a, quote, and this is according to the SEC, crypto house of cards, close quote. Just hours after he was arrested and taken into custody in the Bahamas on charges filed here in New York, Bankman-Fried suggested that he had no idea what was coming on a podcast recorded just a few hours before the sealed indictment was unsealed and announced last night.(BEGIN VIDEO CLIP) UNIDENTIFIED FEMALE:  Are you worried you might be detained if you stepped foot into the U.S.? SAM BANKMAN-FRIED, FOUNDER AND FORMER CEO, FTX:  I don't believe I would be, but I haven't done a, like, deep dive into that at some point, right, something I have to think harder about. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:00",
+      "speaker": "HARLOW",
+      "sentences": "So what will he be charged with? Here is what The New York Times is reporting, that Bankman-Fried will face charges in New York for wire fraud and conspiracy, securities fraud and conspiracy, as well as money laundering.Let's bring in CNN Correspondent Kara Scannell and Katie Cherkasky, a former federal prosecutor and criminal defense attorney. good morning to you both. This is a real question, and I think, Kara, namely because crypto is so unregulated. What could the authorities do here? Well, they've brought these charges.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:00",
+      "speaker": "KARA SCANNELL, CNN CORRESPONDENT",
+      "sentences": "Yes. I mean, what you see from the SEC complaint, which was just put out this morning, I've read through it, it's 28 pages, even though crypto is confusing and sort of mystical to some people, the allegations here are pretty straightforward and pretty bread and butter for securities fraud. If you tell people you're going to take their money and you're going to handle it in one way but then you do the opposite, that is often the basis for most securities fraud charges.And that's what I'm seeing here. They told investors they would have the money segregated between FTX and the hedge fund, Alameda, but they were comingled. They're saying it is one account. This money is going to be used for the investments. They say that the allegations are he took out $1.3 billion in loans to himself and used that money to buy condos, real estate for his family, to fund large political donations and other venture investments. So, it's pretty much as simple as I'm going to manage your money, Don, I can't do something with it that I've told you I won't.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:00",
+      "speaker": "LEMON",
+      "sentences": "So, let me ask you, Kara or Katie, I'm not sure who can, maybe both of you, because this is the concern that we -- it was thought, well, maybe he couldn't be charged with anyone because it is not regulated. And so now, people wondering, well, what happened? Why is he being charged now?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:00",
+      "speaker": "KATIE CHERKASKY, FORMER FEDERAL PROSECUTOR",
+      "sentences": "Well, I think that there was a lot of confusion about what the actual evidence would be here, and, again, this is a perfect example of why anybody should never talk and make statements when they're potentially implicated in any sort of criminal enterprise. There has been a lot of interviews that he's given.And now, it looks like there's -- they're moving ahead with charges, which clearly shows that federal prosecutors believe not only that they have evidence but that they can potentially prove beyond a reasonable doubt that he intentionally engaged in these defrauding schemes and other criminal conduct. To the extent that he was under an impression that this was just bad management and that he wouldn't have to face any sort of criminal allegations, obviously, that was very short-sighted. And, clearly, it can be regulated, certainly.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:00",
+      "speaker": "COLLINS",
+      "sentences": "And they seem to be indicating more charges are coming. That's what it seems like if you read this filing. Are you surprised that he's the only person charged? And what does the timeline look like from him coming from the Bahamas, where he was arrested last night, to the United States? Does that happen immediately? Does it take weeks or what does that look like?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:05:03",
+      "speaker": "LEMON",
+      "sentences": "The -- according to what I'm reading, I was just reading The Times story about this. It said that the United States -- it's unclear (INAUDIBLE). The Bahamas has an extradition process with the United States. The process can take weeks and sometimes far longer if a criminal defendant contests it. So, if he contests it, it could take longer for him to be extradited.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:05:03",
+      "speaker": "CHERKASKY",
+      "sentences": "Right, that's absolutely true. I think that the Bahamian authorities have made it clear that they intend to fully cooperate with the United States and to expedite this process as much as possible to hold him accountable under U.S. law here. So, certainly, there could be contesting that, but it's just going to prolong the inevitable, it seems, and he will face those charges here in the U.S.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:05:03",
+      "speaker": "HARLOW",
+      "sentences": "Well, what about the folks who lost money? What does it mean for them?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:05:03",
+      "speaker": "SCANNELL",
+      "sentences": "So, I mean, that's going to be part of this issue. They're going to see where this money is, how much of it they can recover and reclaim. I mean, there is -- he was pushed out in November. They put in place one of these restructuring turnaround experts, and he has been combing through this. And, I mean, some of his testimony, he's testifying --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:05:03",
+      "speaker": "HARLOW",
+      "sentences": "Was shocking.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:05:03",
+      "speaker": "SCANNELL",
+      "sentences": "Right. I mean, his testimony today before the House Financial Services Committee and just, I mean, what he says here is it just sounds like a free for all. There were no internal controls. They had no financial statements. So, it's been, you know, kind of putting together this puzzle to understand where this money is. And I think there's still a bit of a way to go before people who put money in this know how much of it they might recover.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:05:03",
+      "speaker": "LEMON",
+      "sentences": "All right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:05:03",
+      "speaker": "COLLINS",
+      "sentences": "That's one way to get out of a Congressional hearing.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:05:03",
+      "speaker": "HARLOW",
+      "sentences": "Oh my gosh, exactly. Facing something --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:05:03",
+      "speaker": "LEMON",
+      "sentences": "I don't know. I think I'd rather go to Congress --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:05:03",
+      "speaker": "HARLOW",
+      "sentences": "He might have preferred that after this. Thank you, ladies, both very, very much.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:05:03",
+      "speaker": "LEMON",
+      "sentences": "Well, this morning, a major surge in the legal crossings at the southern border. A senior border patrol official says that hundreds of migrants crossed into the U.S. near El Paso over the weekend, even more staying just across the border and to that, Juarez, Mexico, raising concerns of more crossings when the Title 42 crossing ends later on this month.CNN's Priscilla Alvarez joins us now live from Washington, D.C. with more on this. Good morning, Priscilla. How are Border Patrol agents handling this influx?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:05:03",
+      "speaker": "PRISCILLA ALVAREZ, CNN WHITE HOUSE REPORTER",
+      "sentences": "Well, Don, this is exactly the situation that has been generating concern within the administration and within the ranks of the U.S. Border Patrol. Ahead of that Trump-era border policy you mentioned, Title 42 ending next week. Now, a senior Border Patrol official said that there was a three-day average of more than 2,400 daily encounters over the weekend. That means hundreds of people crossing into just one section of the U.S.-Mexico border. And that places a strain on what has already been overwhelmed resources, and this senior border official calling it a, quote, major surge in illegal crossings.Now, Don, I have been speaking to people in Ciudad Juarez who say that migrants are growing desperate. They've been arriving over weeks and months and have been waiting for the moment to cross into the United States. And we saw some of that this weekend. Now, the city says that they are monitoring the situation. They're working with the state and federal partners and Homeland Security Secretary Alejandro Mayorkas will actually be in El Paso today to meet with officials. LEMON:  Well, Priscilla, Congress has been asked to green light $3 billion in funding as Title 42 comes to an end. What is the money for and do you think the president's request will be granted?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:05:03",
+      "speaker": "ALVAREZ",
+      "sentences": "Well, the money is ultimately for border management and what a source tells me is technology assistance. Now, this comes as they prepare for the end of Title 42. This source told me that it is not directly tied to that. But, of course, it comes during a critical time. The ask is before Congress and the administration in the meantime is trying to shore up resources across the U.S. southern border in hopes of preparing for what they expect to be a surge of migrants at the end of this authority next week. Don?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:05:03",
+      "speaker": "LEMON",
+      "sentences": "Priscilla Alvarez in Washington following the story for us, thank you very much.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:05:03",
+      "speaker": "COLLINS",
+      "sentences": "All right. This morning, a haircut, a slam dunk and a real San Antonio barbecue. According to her agent, that is how Brittney Griner is spending her first weekend back on U.S. soil after she was detained in Russia for ten months. Griner, as you know, landed in Texas on Friday after she was part of a prisoner swap. She had been taken to a medical evaluation at a U.S. military base in San Antonio. And she has since moved into a more residential area. We are told she has a Christmas tree. He agent says she's upbeat, she's thankful, she's hopeful.CNN's Senior Political Correspondent and the anchor of Inside Politics Sunday Abby Phillip is here. Obviously, Abby, you interviewed Brittney Griner's wife, Cherelle, while she was detained. And so you know the family well and you know -- you've been talking to her agent about what this experience has been like. And I just wonder what did she want to do when she got back. What are some of the ways she's been spending her time here?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:10:00",
+      "speaker": "LEMON",
+      "sentences": "This is -- obviously, this will be a life-altering thing for anyone, Abby, right? I find this interesting and I wonder how this changes or my question is going to be how does this change her into the future. You would expect and it would be okay if someone wanted to go inside themselves and just close off. But I found it interesting that she wanted to immediately, even on the plane, reach out to other people, fight for other people. She said, I want to relate to people.So, I'm wondering if this takes her in a different way into a similar direction as maybe -- and a Colin Kaepernick where you fight for the larger thing rather than just the sport. Do you know what I'm saying?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:10:00",
+      "speaker": "PHILLIP",
+      "sentences": "Yes, absolutely. And that was one of the clearest things that I gathered from talking to people around her, and even heard it from Cherelle when at the White House on Friday. This changes everything. You know, Brittney Griner in the world of WNBA, in the world of basketball, is a pretty big name, a pretty big star, but I think even more so now, her notoriety is global. And she understands the responsibility that comes with that and has been pretty clear she wants to use what power she has to help other people.They are now part of this community. It's a community of families, dozens of them, across the country, whose loved ones are detained all across the world. Some of those individuals never came home. They died in detention. And so I think the weight of that, really, she carries that with her. And her agent told me that she asked about Paul Whelan immediately upon, you know, being freed, and that she's known for a long time, or believed for a long time, that her fate was very much tied to his, and I think was heartbroken he was not brought home along with her. And so she's very committed to that particular case, but I was told that is planning to use her platform. The bully pulpit that she has to help others in the future. And that's going to change her approach to her public life. It's not just going to be activities in -- you know, in Phoenix that I think a lot of athletes, you know, participate in. I think it's going to have a global scope.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:10:00",
+      "speaker": "LEMON",
+      "sentences": "Before you go, I just want to ask real quickly, and maybe -- I don't know if you can answer this -- I'm sure they'll be paying attention to the Respect for Marriage Act? I don't know if you got to question her about it. But can you react to that?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:10:00",
+      "speaker": "PHILLIP",
+      "sentences": "Well, you know, I mean, I think that they are definitely going to be paying attention to that. I mean, I think that as a -- you know, a lesbian black woman, they have become a really prominent image of love in the LGBTQ community. And, you know, one of the things just meeting, just on a personal note, meeting Cherelle and just seeing how much that love that they have for each other was able to withstand this incredible trial, Cherelle calls Brittney Griner her best friend. They were friends for a long time before they became a couple. And so for this to happen and for them to be reunited today, I think it's an important moment for both of them. And it's an important moment for the country.I will say, Don, I just want to add one thing. Her agent was really clear with me. She was like, I don't think that Brittney was treated differently because she was black and she was lesbian in Russian detention. That's something I think a lot of people were paying attention to and it was notable to me that she said that.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:10:00",
+      "speaker": "LEMON",
+      "sentences": "I saw that in your reporting, very good stuff.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:10:00",
+      "speaker": "COLLINS",
+      "sentences": "Thanks so much, Abby.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:10:00",
+      "speaker": "PHILLIP",
+      "sentences": "Thanks, guys. Good to see you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:15:02",
+      "speaker": "JANET YELLEN, TREASURY SECRETARY",
+      "sentences": "Well, I believe by the end of next year, you will see much lower inflation if there's not an unanticipated shock.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:15:02",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "You have said this. You do not believe there will be a recession next year.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:15:02",
+      "speaker": "YELLEN",
+      "sentences": "There's a risk of recession, but it certainly isn't, in my view, something that is necessary to bring inflation down.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:15:02",
+      "speaker": "HARLOW",
+      "sentences": "U.S. stock futures looking higher this morning, pretty optimistic as well. We'll bring you that inflation report once it comes out in just over an hour.As we mentioned today, President Biden is set to sign the Respect for Marriage Act into law and a big question from some is does it go far enough. But it is historic.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:15:02",
+      "speaker": "LEMON",
+      "sentences": "It is historic.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:15:02",
+      "speaker": "HARLOW",
+      "sentences": "We will discuss all of this with the country's first openly gay confirmed cabinet member and transportation secretary, Pete Buttigieg.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:20:00",
+      "speaker": "LEMON",
+      "sentences": "It really is a historic day. Today, President Joe Biden expected to sign the Respect for Marriage Act into law. It's a landmark piece of legislation that the White House touts as a major civil rights achievement. The legislation aims to protect interracial and same-sex marriage.Same-sex marriage is already legal in the United States and has been since the Supreme Court decision Obergefell versus Hodges, that was back in 2015, so is interracial marriage because of the high court's decision on Loving versus Virginia. That was in 1967. So why now is the question. Why is today's signing, bill signing, on the south lawn such a big deal? Well, the Supreme Court's move to overturn Roe versus Wade ending the constitutional right to an abortion raised huge concerns that the court's conservative majority could take aim at same-sex marriage in the future. In fact Conservative Justice Clarence Thomas foreshadowed that possibility in his concurrence, writing, and I quote here, in future cases, we should reconsider all this court's substantive due process precedents, including Griswold, Lawrence and Obergefell. So, what exactly will the Respect for Marriage Act do? Maybe not what you think. It will not set a national requirement that all states much legalize same-sex marriage but it will require individual states to recognize another state's legal marriage, adding an extra layer of protection against future legal challenges. (BEGIN VIDEO CLIP) KARINE JEAN-PIERRE, WHITE HOUSE PRESS SECRETARY:  It will give peace of mind to millions of LGBTQI-plus and interracial couples who will finally be guaranteed the rights and protections to which they and their children are entitled to. The legislation also enjoys support from majority of Americans across party lines and faiths. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:20:00",
+      "speaker": "LEMON",
+      "sentences": "So, joining us now is the transportation secretary, Pete Buttigieg. He is the first openly gay cabinet member in the U.S. to be confirmed by the Senate. Mayor Pete, Secretary Pete, it's so good to have you here to discuss this, considering your role. And, listen, because of your platform, where you are now, and what you've achieved, I just have a very human question. I wonder what this means to you, to your husband, Chasten, to your twins, Joseph Gust August and Penelope Rose, what this signing means to you and many Americans today.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:25:02",
+      "speaker": "LEMON",
+      "sentences": "And, listen, one more thing before -- because everyone wants to get in. I think everyone -- obviously, everyone here is anticipating and looking forward to the signing today. But just, it -- I want people to know and I want you to speak about this. This is not political. It's not about Democrats versus Republican. As you said, the majority of American people agree with this. But it happens to come from a president who really pushed his own party and as vice president pushed the president of the United States to move to this point, to get this done.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:25:02",
+      "speaker": "BUTTIGIEG",
+      "sentences": "That's right. There's something poetic about the role that Vice President Biden played in helping move the country and his party toward the embrace of marriage quality, and now he will be signing it into law. And, you know, it's also fitting, because I think this is an administration that really sees the relationship between big things, big debates and big investments and major laws and everyday life.It's what I have the privilege of working no with the president every day when we're implementing the infrastructure law, which is how you take enormous investments and authorities and use them to make daily commutes and everyday transportation of goods a little bit easier and a little bit safer and a little bit quicker. And you could say the same about this on some level. It's not just about the very deep and grand things at stake around equality and law and above all freedom. It's just about everyday life. You know, our marriage is expressed in the -- you know, in the milk I just poured out into the sippy cups in our kitchen before coming over to do this interview. It's just those little everyday moments that are better if we have good policymakers who care about everyday life, and our president most certainly does.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:25:02",
+      "speaker": "HARLOW",
+      "sentences": "That was one of the things so great, Mr. Secretary, about the piece that --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:25:02",
+      "speaker": "LEMON",
+      "sentences": "Did you use sippy cups this morning, by the way?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:25:02",
+      "speaker": "HARLOW",
+      "sentences": "Dude, I leave at 3But as I show you this pictures behind -- so these pictures of us, Mr. Secretary, you probably can't see it but they sit behind our set. And this is Don and Tim, right, gay couple, interracial couple. So, this means a lot to him and to all of us as allies. But Chasten's, your husband's piece about what marriage means to me, with the sippy cups and the bibs (ph) was like so great because that actually is what marriage is. But you said a moment ago, you said, we need an equality act, right, to really codify it. But the Supreme Court just a week-and-a-half ago heard the 303 Creative case, which is a religious argument, a free speech argument versus an equality argument on whether a website designer needs to make a website for a gay -- a couple getting married who's gay, or if that violates harry free speech rights. And what justices, the conservative justices indicated that they very well may side with her. So, I wonder if you are concerned about where the court is on this and what it would mean if they do side with her argument.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:25:02",
+      "speaker": "BUTTIGIEG",
+      "sentences": "Well, I'm very concerned, because, again, freedoms are at stake. Look, so many Americans have deeply-held religious convictions. I have deeply-held religious convictions but I also have no desire to use the instruments of government to force another person to live by my interpretation of my religion.Part of the idea of America is that people are able to live without having to be subject to other people's interpretation of their own religion. And if we go down this path, where you can discriminate, you can refuse to serve a certain customer, you can refuse to provide services to somebody, maybe even a needed emergency services depending on the context, based on who they are or just based on I guess anything as long as you remember to invoke religion as an excuse, that is a really dark and troubling path for our country to go on. We should be able, as, by the way, I think we're doing now in many ways, to support the free exercise of our religious belief and free speech up to the point where you're about to hurt somebody, and then constitutional freedoms kick in, in another way, and say that you can't harm, you can't discriminate, whether your basis for harming or discriminating is religious or otherwise.",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

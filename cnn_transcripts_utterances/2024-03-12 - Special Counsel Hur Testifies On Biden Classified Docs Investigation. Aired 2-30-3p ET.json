@@ -1,0 +1,943 @@
+{
+  "date": "2024-03-12",
+  "headline": "CNN Live Event/Special",
+  "subHeadline": "Special Counsel Hur Testifies On Biden Classified Docs Investigation. Aired 2:30-3p ET",
+  "utterances": [
+    {
+      "timeStamp": "14:30:00",
+      "speaker": "ROBERT HUR, FORMER SPECIAL COUNSEL",
+      "sentences": "Yes, it is.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:30:00",
+      "speaker": "IVEY",
+      "sentences": "All right.You also noted a little bit below that, \"For the reasons summarized below, we conclude that the evidence does not establish Mr. Biden's guilt beyond a reasonable doubt.\" You still share that -- you still hold that view?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:30:00",
+      "speaker": "HUR",
+      "sentences": "I do.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:30:00",
+      "speaker": "IVEY",
+      "sentences": "OK. And even though you objected to the use of the word exonerated, from your perspective, he's been cleared of all criminal charges in your investigation. Is that fair?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:30:00",
+      "speaker": "HUR",
+      "sentences": "I determined that, based on the evidence, criminal charges are not warranted.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:30:00",
+      "speaker": "IVEY",
+      "sentences": "OK.And I did want to go to the issue of material distinctions that you raised in your report between President Biden and former President Trump. We've got a document up here that lays some of it out. And you've asked -- answered some questions about this already. But I think it seemed to be highly relevant in your analysis that President Biden cooperated. And I wanted to walk through a couple of those points. One is it he turned in classified documents to the National Archives and into the Department of Justice upon request. Is that fair?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:30:00",
+      "speaker": "HUR",
+      "sentences": "That was a factor that we considered, yes, Congressman.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:30:00",
+      "speaker": "IVEY",
+      "sentences": "All right. He cooperated with your investigation?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:30:00",
+      "speaker": "HUR",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:30:00",
+      "speaker": "IVEY",
+      "sentences": "Consented to the search of multiple locations, including his house?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:30:00",
+      "speaker": "HUR",
+      "sentences": "Correct.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:30:00",
+      "speaker": "IVEY",
+      "sentences": "Sat for a voluntary interview?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:30:00",
+      "speaker": "HUR",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:30:00",
+      "speaker": "IVEY",
+      "sentences": "And that was five hours over two days?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:30:00",
+      "speaker": "HUR",
+      "sentences": "A little over five hours over two days.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:30:00",
+      "speaker": "IVEY",
+      "sentences": "OK. Turned over to allow investigators to review handwritten notebooks he believed to be as personal property?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:30:00",
+      "speaker": "HUR",
+      "sentences": "Correct.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:30:00",
+      "speaker": "IVEY",
+      "sentences": "Now, with respect to the comparison with former President Trump -- and I believe this is on page 11, which is still in your executive summary.And I'll just read part of this to you. \"Unlike the evidence involving Mr. Biden, the allegation set forth in the indictment of Mr. Trump, if proven, would present serious aggravating facts. \"Most notably, after being given multiple chances to return classified documents and avoid prosecution, Mr. Trump allegedly did the opposite. According to the indictment, he not only refused to return the documents for many months, but he also obstructed justice by enlisting others to destroy evidence and then to lie about it.\" In contrast, Mr. Biden turned in classified documents to the National Archives and to the Department of Justice, consented to the search of multiple locations, including his homes, sat for a voluntary interview and in other ways cooperated with this investigation.\" That's from page 11 of your report?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:30:00",
+      "speaker": "HUR",
+      "sentences": "I see that language on page 11.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:30:00",
+      "speaker": "IVEY",
+      "sentences": "All right.You still stand by that language?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:30:00",
+      "speaker": "HUR",
+      "sentences": "I do, sir.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:30:00",
+      "speaker": "IVEY",
+      "sentences": "OK.And this is -- this is your report. You take full responsibility for everything that's in the document?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:30:00",
+      "speaker": "HUR",
+      "sentences": "I do. I stand by every word in it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:30:00",
+      "speaker": "IVEY",
+      "sentences": "All right. All right.I wanted to ask you a couple of questions. One is with respect to the surprising line of questions you got right before we broke about guardianship, which seems to me like a dramatic stretch of the -- anything that was remotely involved in your report. Did you raise any kind of issues about Mr. Biden needing guardianship or anything along those lines?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:30:00",
+      "speaker": "HUR",
+      "sentences": "Nothing relating to guardianship appeared in my report.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:30:00",
+      "speaker": "IVEY",
+      "sentences": "OK. And so I guess you made the one point about him being an elderly man with a poor memory.But are you saying you -- did you say anywhere in your report that you thought not only would he be unfit to handle his own finances, but he'd be unfit for public the office?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:30:00",
+      "speaker": "HUR",
+      "sentences": "My report did not include any opinions on those issues.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:30:00",
+      "speaker": "IVEY",
+      "sentences": "OK.I see my time has exhausted. But thank you again for your testimony. I appreciate your efforts. JIM JORDAN, (R-OH) &amp; CHAIRMAN: The gentleman yields back. The gentleman from Virginia is recognized.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:30:00",
+      "speaker": "UNIDENTIFIED CONGRESSMAN",
+      "sentences": "I yield back to the chairman briefly.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:30:00",
+      "speaker": "JORDAN",
+      "sentences": "I thank the gentleman for yielding.I'll just point out, Mr. Ivey raised the issue of transcripts. He had complete access to every transcript that we have done in a congressional investigation. You can go -- he could show up for all the depositions, like, frankly, I show up for most of those. So he has complete access to that. What we don't have is access to the transcripts of all the witnesses. We only have Mr. Biden and we don't have access to the audio tapes of all the witnesses.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:30:00",
+      "speaker": "UNIDENTIFIED CONGRESSMAN",
+      "sentences": "Would -- would the gentleman yield?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:30:00",
+      "speaker": "JORDAN",
+      "sentences": "It's not my time. I yield back to the gentleman from Virginia.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:30:00",
+      "speaker": "UNIDENTIFIED CONGRESSMAN",
+      "sentences": "You're speaking, but it's not your time. It's my time.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:30:00",
+      "speaker": "JORDAN",
+      "sentences": "(INAUDIBLE)REP. BEN CLINE (R-VA): I thank the gentleman. Special Counsel Hur, thank you for being here. Your story is an impressive one. Your achievements are impressive as well. You've been prosecutor for many years, correct?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:30:00",
+      "speaker": "HUR",
+      "sentences": "Yes, sir.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:30:00",
+      "speaker": "CLINE",
+      "sentences": "I was not a prosecutor for more than a couple of years, but I still remember my record in jury trials.Do you remember your record?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:30:00",
+      "speaker": "HUR",
+      "sentences": "It'll take me a little time to reconstruct, but I think I could get there.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:30:00",
+      "speaker": "CLINE",
+      "sentences": "Is it above 500?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:30:00",
+      "speaker": "HUR",
+      "sentences": "It is above 500, yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:35:00",
+      "speaker": "HUR",
+      "sentences": "One of the motives that we addressed in the report was that the issue of whether or not a troop surge should be sent to Afghanistan in 2009. It was a hotly contested and debated issue within the Obama administration back in 2009.And one in which then-Vice President Biden had a significant role and he felt very strongly about it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:35:00",
+      "speaker": "CLINE",
+      "sentences": "I'm going to quote from your reportAnd wanted the record to show that he was right about Afghanistan, that his critics were wrong, and that he hit opposed President Obamas mistaken decision forcefully when it was made, that his judgment was sound when it mattered most.\" Does that sound correct? HUR: That language sounds familiar from the report, yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:35:00",
+      "speaker": "CLINE",
+      "sentences": "OK.That is pretty significant in terms of a motivating factor for retaining those documents, wouldn't you say?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:35:00",
+      "speaker": "HUR",
+      "sentences": "That would be a factor that a jury would assess in considering whether or not Mr. Biden had criminal intent.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:35:00",
+      "speaker": "CLINE",
+      "sentences": "And I also know that President Biden was working with the ghostwriter on a book, Mark Zwonitzer, correct?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:35:00",
+      "speaker": "HUR",
+      "sentences": "Correct.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:35:00",
+      "speaker": "CLINE",
+      "sentences": "And your investigation concluded, when President Biden began work on his memoir, correct? When -- at what time did your investigation conclude?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:35:00",
+      "speaker": "HUR",
+      "sentences": "With respect to the second book published in 2017, we identified evidence that Mr. Biden began recorded conversations with Mr. Zwonitzer in 2016 before the end of Mr. Biden's vice presidency.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:35:00",
+      "speaker": "CLINE",
+      "sentences": "And it's your understanding that while Mr. Zwonitzer interviewed President Biden, he read classified information from his notebooks, nearly verbatim, sometimes for an hour or more at a time, correct?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:35:00",
+      "speaker": "HUR",
+      "sentences": "Correct.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:35:00",
+      "speaker": "CLINE",
+      "sentences": "And was Mr. Zwonitzer authorized to receive this classified information?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:35:00",
+      "speaker": "HUR",
+      "sentences": "He was not.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:35:00",
+      "speaker": "CLINE",
+      "sentences": "And in fact, in their February 16th meeting, which has been alluded to earlier, isn't it true that President Biden read aloud and nearly verbatim classified information regarding the actions and views of us military leaders and the CIA director relating to the foreign country and foreign terrorist organization?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:35:00",
+      "speaker": "HUR",
+      "sentences": "I believe that occurred -- that was captured in a recording later in 2017, I believe, in April of 2017, not February.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:35:00",
+      "speaker": "CLINE",
+      "sentences": "OK.And Mr. Zwonitzer became aware of your special -- your appointment as special counsel, correct?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:35:00",
+      "speaker": "HUR",
+      "sentences": "At some point, Mr. Zwonitzer did become aware of my appointment, yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:35:00",
+      "speaker": "CLINE",
+      "sentences": "And upon learning of the investigation, Mr. Zwonitzer deleted digital audio recordings of his conversations with Mr. Biden during the writing of the book, \"Promise Me, Dad?\"",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:35:00",
+      "speaker": "HUR",
+      "sentences": "Correct?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:35:00",
+      "speaker": "CLINE",
+      "sentences": "Did investigate -- investigators with your office interview Mr. Zwonitzer about the deleted recordings, and he admitted that part of his motivation for deleting this recording was because he was aware there was investigation, correct?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:35:00",
+      "speaker": "HUR",
+      "sentences": "Correct.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:35:00",
+      "speaker": "CLINE",
+      "sentences": "And did this conduct raise concerns with your office?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:35:00",
+      "speaker": "HUR",
+      "sentences": "It did. We consider it to be significant evidence that we needed to follow up on.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:35:00",
+      "speaker": "CLINE",
+      "sentences": "Significant evidence. And I would argue that you also had significant evidence surrounding the retention of these documents, the storage of these documents.And even though there was a bit of a disconnect between what a reasonable juror could conclude, the intent was there and the motive was there for the book, for exoneration, and I would argue that you had enough to move forward. My time is expired. I yield back.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:40:06",
+      "speaker": "BALINT",
+      "sentences": "Thank you.So let's get into it. Mr. Hur, at any time, did DOJ leadership or the attorney general attempt to influence the outcome of your investigation?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:40:06",
+      "speaker": "HUR",
+      "sentences": "No.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:40:06",
+      "speaker": "BALINT",
+      "sentences": "Do you believe it's important that the special counsel investigations or any DOJ investigation be impartial and free of influence from political actors?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:40:06",
+      "speaker": "HUR",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:40:06",
+      "speaker": "BALINT",
+      "sentences": "Do you believe you were independent and thorough in your report?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:40:06",
+      "speaker": "HUR",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:40:06",
+      "speaker": "BALINT",
+      "sentences": "Do you believe -- do you think it's true that you received no pressure from Attorney General Garland in this matter?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:40:06",
+      "speaker": "HUR",
+      "sentences": "That's correct.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:40:06",
+      "speaker": "BALINT",
+      "sentences": "Is it true that you had all of the resources that you needed and enabled for you to conduct your interviews, to conduct your investigation, and to complete your report?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:40:06",
+      "speaker": "HUR",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:40:06",
+      "speaker": "BALINT",
+      "sentences": "Is it true that you recommended that the attorney general decline to charge President Biden?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:40:06",
+      "speaker": "HUR",
+      "sentences": "I submitted a report to the attorney general explaining by decision that criminal charges were not warranted in this matter.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:40:06",
+      "speaker": "BALINT",
+      "sentences": "Right.So you said on page one of the report, quote, \"We conclude that the evidence does not establish Mr. Biden's guilt beyond a reasonable doubt.\" Is it true that your report ultimately concluded that the evidence did not support a finding beyond a reasonable doubt that President Biden willfully retained classified materials?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:40:06",
+      "speaker": "HUR",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:40:06",
+      "speaker": "BALINT",
+      "sentences": "Is it true that President Biden cooperated with your investigation?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:40:06",
+      "speaker": "HUR",
+      "sentences": "Yes. BALINTthe day after the October 7th attacks in Israel, in the midst of an international crisis?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:40:06",
+      "speaker": "HUR",
+      "sentences": "He sat for interviews over two days, October 8th and October 9th.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:40:06",
+      "speaker": "BALINT",
+      "sentences": "Thank you.Is it true that the -- that President Biden allowed the FBI to conduct thorough searches of his home and his beach house?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:40:06",
+      "speaker": "HUR",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:40:06",
+      "speaker": "BALINT",
+      "sentences": "Is it true that your report found multiple possible innocent explanations as to why the classified documents ended up where they did?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:40:06",
+      "speaker": "HUR",
+      "sentences": "As part of our analysis, we walked through a number of different explanations that defense counsel would present, could present a trial if this case were charged.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:40:06",
+      "speaker": "BALINT",
+      "sentences": "And as you said on page six of your report, quote, \"In addition to this shortage of evidence, there are other innocent explanations for the documents that we cannot refute.\"Your report -- (CROSSTALK)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:40:06",
+      "speaker": "HUR",
+      "sentences": "I see that language, yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:40:06",
+      "speaker": "BALINT",
+      "sentences": "Thank you.Your report reads, \"With one exception, there is no record of the Department of Justice prosecuting a former president or vice president for mishandling classified documents from his own administration. The exception is former President Trump. Am I reading that correctly?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:40:06",
+      "speaker": "HUR",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:40:06",
+      "speaker": "BALINT",
+      "sentences": "Is it true or is it correct that your report recommends no charges and that you would be -- that would be the case, even if he were not a sitting president?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:40:06",
+      "speaker": "HUR",
+      "sentences": "Correct.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:40:06",
+      "speaker": "BALINT",
+      "sentences": "So what we've had today is hour after hour after hour of trying to distract us from the clear statements that come through this report. And you yourself have said multiple times today, there was no attempt to obstruct justice by the president, by the Department of Justice, by the attorney general.That you had all the resources that you needed to conduct a fair and thorough investigation and report. And that what you concluded was, in fact, the evidence was not sufficient to bring charges against the president for mishandling documents. I thank you for being here today. I yield back.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:40:06",
+      "speaker": "JORDAN",
+      "sentences": "The gentle lady yields back.The gentleman from South Carolina is recognized. REP. RUSSELL FRY (R-SC): Mr. Chairman, I yield to use such time as you may consume, sir.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:40:06",
+      "speaker": "JORDAN",
+      "sentences": "I appreciate the gentleman yielding up.Mr. Hur, why did -- why did the White House go -- why did the White House lawyers go look in the first place? I understand is they went to the Penn Biden Center. Why'd they go look in the first place?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:40:06",
+      "speaker": "HUR",
+      "sentences": "My under --(CROSSTALK)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:40:06",
+      "speaker": "JORDAN",
+      "sentences": "They looked for classified -- you know, mishandling of classified --looked for classified documents. Why did they do it?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:40:06",
+      "speaker": "HUR",
+      "sentences": "What we identified through our investigation was that, at a certain date, members of the president's staff went to the Penn Biden Center in order to get a better handle on what the information -- what kinds of evidence and what kinds of materials were at the Penn Biden Center.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:40:06",
+      "speaker": "JORDAN",
+      "sentences": "Were they specifically looking for potential documents that were classified or was it a broader initial look?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:40:06",
+      "speaker": "HUR",
+      "sentences": "My understanding is that it was a broader initial look. And I'm looking at chapter 14, page 257 of my report about a visit March 2021 at the Biden Center.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:40:06",
+      "speaker": "JORDAN",
+      "sentences": "OK. In March?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:40:06",
+      "speaker": "HUR",
+      "sentences": "In March of 2021.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:40:06",
+      "speaker": "JORDAN",
+      "sentences": "And was this after the Justice Department began their investigation into President Trump?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:40:06",
+      "speaker": "HUR",
+      "sentences": "I confess I don't have the date of the beginning of the investigation into President Trump at hand.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:45:01",
+      "speaker": "HUR",
+      "sentences": "I believe the visit that I referenced in March 2021, that's described on page 257, was to the Penn -- Penn Biden Center's permanent and current location.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:45:01",
+      "speaker": "JORDAN",
+      "sentences": "Permanent and current. So there were three places. Those three places classified information was at, is that fair to say?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:45:01",
+      "speaker": "HUR",
+      "sentences": "That's correct. The initial transition office immediately after the end of vice presidency, the Penn Biden Center's temporary office, and then the Penn Biden Center is permanent office.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:45:01",
+      "speaker": "JORDAN",
+      "sentences": "OK.So those -- and then you had the University of Delaware Library, the University of Delaware Biden Center. Right? So that's five total. And then you had multiple places in his home?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:45:01",
+      "speaker": "HUR",
+      "sentences": "Correct.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:45:01",
+      "speaker": "JORDAN",
+      "sentences": "The garage, the den, the office upstairs, and the office downstairs?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:45:01",
+      "speaker": "HUR",
+      "sentences": "Correct.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:45:01",
+      "speaker": "JORDAN",
+      "sentences": "So what does that? That's like nine different places.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:45:01",
+      "speaker": "HUR",
+      "sentences": "I've lost count, sir, but --(CROSSTALK)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:45:01",
+      "speaker": "JORDAN",
+      "sentences": "Yes, exactly.It's everywhere. And it was documents over a 50-year timeframe. And then, by comparison, because the Democrats want to keep comparing to president -- President Trump's -- they raided his home. But Secret Service protection. I don't know that they're anywhere else, were they?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:45:01",
+      "speaker": "HUR",
+      "sentences": "I'm not aware of other locations.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:45:01",
+      "speaker": "JORDAN",
+      "sentences": "Yes.I think -- I think that's an important distinction. I'll yield back to the gentleman from South Carolina. Appreciate him yielding.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:45:01",
+      "speaker": "FRY",
+      "sentences": "Thank you, Chairman.Briefly, I know we've got two minutes left. But Mr. Hur, how would you define \"willful?\"",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:45:01",
+      "speaker": "HUR",
+      "sentences": "With respect to the intent of willfulness, what a jury has to conclude is that someone knew that their conduct was illegal when they engaged in that conference.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:45:01",
+      "speaker": "FRY",
+      "sentences": "Right. It's intentional, right? It's not by accident. It's not accidental or involuntary?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:45:01",
+      "speaker": "HUR",
+      "sentences": "Correct.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:45:01",
+      "speaker": "FRY",
+      "sentences": "OK. So -- so here's where I disagree with your portion of the report on willful is that you have a gentleman who served 36 years in the Senate.I've only been here a year, but I understand the importance of handling classified information. He served eight years as vice president. In 2010, it came to the attention of the vice president's staff that classified briefing books had not been returned, maybe even if they were -- they were returned, some of the content was missing. The same year, the executive secretary raised that nearly 30 of the classified briefing books from the first six months of 2010, were missing. In August of that year, then-Vice President Biden failed to return top secret sensitive compartment -- compartmented information contents of a classified briefing book from a trip that he took to the Hamptons. And to date, you were unable to determine if these documents were ever recovered. Is that correct?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:45:01",
+      "speaker": "HUR",
+      "sentences": "Correct.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:45:01",
+      "speaker": "FRY",
+      "sentences": "So to me, this wasn't -- when does willfulness as a -- when does willfulness factor in? Is it now in his diminished mental capacity or is it then when he was serving as Senator and vice president?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:45:01",
+      "speaker": "HUR",
+      "sentences": "A jury would be assessing President Biden's mental state and his intent or whether or not he had willfulness at the time that the conduct was committed.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:45:01",
+      "speaker": "FRY",
+      "sentences": "Correct. And I think everyone kind of can plainly see that the transgression or the difference between then-Candidate Biden or Vice President Biden and what is going on now.And so this is where I go, too, is, the chairman talked about it his opening comments, give eight million reasons to hold these documents. In fact, he disclosed some of this information to his ghostwriter. And so I think that there could have been willfulness. I think -- I've got 10 seconds left -- but look, since 2016, there have been three candidates to run for president. All three have had allegations of issues surrounding the retention and holding of classified documents. But, Mr. Hur, only one of them has been charged and that's President Trump. And that's why people think and view this as a two-tiered system of Justice. Thank you, sir.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:45:01",
+      "speaker": "JORDAN",
+      "sentences": "Gentleman yields back.The chair now recognizes the gentleman from -- (INAUDIBLE) (CROSSTALK)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:45:01",
+      "speaker": "UNIDENTIFIED CONGRESSMAN",
+      "sentences": "I'll wait. Let him go ahead.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:45:01",
+      "speaker": "JORDAN",
+      "sentences": "The gentlemen from Colorado, Mr. Buck.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:50:03",
+      "speaker": "HUR",
+      "sentences": "Well, sir, prosecutor - prosecutor -- I certainly agree with you that the evidence in the form of the audio recorded statement where the president said to his ghostwriter, I just found all the classified stuff downstairs, that is evidence that -- that any prosecutor would -- would present as significant evidence in a case if this went to trial.So there -- and reasonable jurors might well infer that President Biden formed criminal intent based on that piece of evidence. But what we did in our report was to try to walk through exhaustively -- you know, well, as a prosecutor, you need to assess with a very cold eye the strengths of your case and the weaknesses of your case, and try to anticipate arguments that defense counsel might well present at trial. And what we tried to do in our report was to walk through potential arguments that will be presented by defense lawyers at the president's trial. And to determine how, by our judgment, how jurors would receive and perceive the evidence presented, including -- including, but not limited to, evidence relating to the president's memory gaps that were in various pieces of evidence that we assessed.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:50:03",
+      "speaker": "BUCK",
+      "sentences": "So how do you overcome that recording where he says, I've got classified documents. He's 30 years in the Senate or whatever it is. He obviously knows how he has to treat classified documents. I've got classified documents in the basement.What is the defense to that? That it was a made-up recording, that it wasn't his voice, that everyone was wrong? How do you defend that -- that particular fact? As well as -- I did a lot of tax cases. You had to prove a pattern of conduct. And in this case, he had a lot of documents in a lot of places. How do you overcome those things?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:50:03",
+      "speaker": "HUR",
+      "sentences": "Yes, Congressman. So we walked through a number of different evidentiary gaps that reasonable jurors might focus on. As well as a number of different -- different defense arguments that the presidents defense lawyers could president -- could present at trial.The first is a theory or an argument to the jury that the president, yes, he did say to his ghostwriter, I just found all the classified stuff downstairs. But then soon thereafter, forgot about the documents. And therefore, it would be difficult to convince a jury that actually he willfully, he knew that it was illegal to keep the documents and he continued to do so. A second argument that we considered is that perhaps this these documents never actually were in Virginia in his private rental home there. Perhaps the documents were there by virtue of staff or himself having those documents at the Delaware home from the time that he was still vice president all the way through the time of their being discovered. And finally, another theory that we walked through in the report is that there were two folders with marked classified documents related to Afghanistan found in the box in the president's Delaware garage. One of them contained national defense information and the other, it would be a more difficult task to persuade a jury that it did contain national defense information. So that -- that argument would be premised on perhaps the president was referring to the one folder that didn't contain national defense information but was not -- it would be difficult for the government to prove beyond a reasonable doubt that he possessed the one that did contain national defense information. So I just laid a lot on you there, but we do we do our best to explain that at some length in the report.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:50:03",
+      "speaker": "BUCK",
+      "sentences": "Thank you.I yield back.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:50:03",
+      "speaker": "JORDAN",
+      "sentences": "The gentleman yields back.The chairman gentle lady from Texas is recognized. REP. SHEILA JACKSON LEE (D-TX): I thank you. And there's been a lot of time being shared, Mr. Chairman. I asked you a very brief indulgence -- (CROSSTALK)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:55:00",
+      "speaker": "JACKSON LEE",
+      "sentences": "Your brief indulgence and unanimous consent to ask questions?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:55:00",
+      "speaker": "JORDAN",
+      "sentences": "No, no, no, no. You can do a unanimous consent request, but you don't get to get another round.If someone that comes to yield you time, but I don't think they can do that because everyone on the Democrat side has taken their time. JACKSON LEE: I didn't -- (CROSSTALK)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:55:00",
+      "speaker": "JORDAN",
+      "sentences": "You know what -- you know that I --(CROSSTALK)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:55:00",
+      "speaker": "JORDAN",
+      "sentences": "-- the gentle lady from Texas. But you don't get to go two rounds.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:55:00",
+      "speaker": "JACKSON LEE",
+      "sentences": "I'm not trying to go two rounds but --(CROSSTALK)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:55:00",
+      "speaker": "JORDAN",
+      "sentences": "You've got a unanimous consent request. You wanted the record to state so. If not, then we're --(CROSSTALK)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:55:00",
+      "speaker": "JACKSON LEE",
+      "sentences": "I'm -- I am getting ready to do the unanimous consent requests, hoping that someone would come through the door.I ask unanimous consent -- (CROSSTALK)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:55:00",
+      "speaker": "JORDAN",
+      "sentences": "Well, it can only be a Republican because all the Democrats have spoken.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:55:00",
+      "speaker": "JACKSON LEE",
+      "sentences": "I asked unanimous consent that we add to the record, as stated from page one of the executive summary, \"We conclude that no criminal charges are warranted in this matter. We would reach the same conclusion, even if the Department of Justice\" --(CROSSTALK)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:55:00",
+      "speaker": "JACKSON LEE",
+      "sentences": "-- \"policy did not foreclose\" --(CROSSTALK)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:55:00",
+      "speaker": "JACKSON LEE",
+      "sentences": "I ask unanimous consent that that sentence be put in.Secondarily, I ask unanimous consent and -- (CROSSTALK)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:55:00",
+      "speaker": "JORDAN",
+      "sentences": "-- unanimous consent to add something to the record that's already in the record. God bless you. We'll do it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:55:00",
+      "speaker": "JACKSON LEE",
+      "sentences": "Thank you.And I add, with the emphasis of Sheila Jackson Lee does not have. And I particularly ask that this be added to the record that Mr. Hur stated that Biden couldn't recall when his son, Beau, died. I ask unanimous consent out of an article in \"Politico\" and indicate that there was no mercy given to Mr. Biden, no mercy given to him and (CROSSTALK)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:55:00",
+      "speaker": "JORDAN",
+      "sentences": "Without objection so entered.Mr. Hur, even though there wasn't a question there, do you want to respond to any of that?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:55:00",
+      "speaker": "HUR",
+      "sentences": "No, Chair.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:55:00",
+      "speaker": "JORDAN",
+      "sentences": "All right.Mr. Hur, we want to thank you for today.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:55:00",
+      "speaker": "JACKSON LEE",
+      "sentences": "And I yield back.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:55:00",
+      "speaker": "JORDAN",
+      "sentences": "And we wish the best to you and your family.This concludes today's hearing. We thank our witnesses for appearing before the committee today. Without objection, all members will have five legislative days to submit additional written questions for the witness for additional materials for the record. Without objection, the hearing is adjourned. (GAVEL)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:55:00",
+      "speaker": "JAKE TAPPER, CNN HOST",
+      "sentences": "Special Counsel Robert Hur just wrapping up his testimony on the Hill as the gavel comes down after roughly five hours of intense questioning from members of both major political parties.It -- Anderson?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:55:00",
+      "speaker": "ANDERSON COOPER, CNN HOST",
+      "sentences": "It's been a highly scrutinized performance sparked by his highly scrutinized report on President Biden's handling of classified documents.We'll get you much more a reaction from Capitol Hill. But first, want to bring in my team here in New York. Elie, what stood out to you?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:55:00",
+      "speaker": "ELIE HONIG, CNN SENIOR LEGAL ANALYST",
+      "sentences": "Well, so here -- here's what I see is the bottom line here. A couple of main takeaways.There was no charge recommended by Robert Hur. And I think he ran an extensive and really impressive investigation. I think his fact- finding left very little uncovered. And I think his analysis was sound and fair. However, he did find some evidence of criminality. He did find evidence, pretty clear-cut evidence, that Joe Biden retained classified documents, knew he retained them, as evidenced on that tape, and did not immediately turn them back over. The other thing that I think is important to note is that Joe Biden did mislead the public, as did other members of Joe Biden's team. Because for the past year or so, the talking point -- and we've seen this repeated many times -- has been it was entirely unintentional by Joe Biden. He had no idea he had any of these documents, things get moved around. Whoops, what are you going to do? It turns out that is somewhat fair when it comes to some of the documents, but not others. He absolutely knew we had these documents. I do think the decision not to charge him was a close one, but I think it was sound.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:55:00",
+      "speaker": "JENNIFER RODGERS, CNN LEGAL ANALYST",
+      "sentences": "Yes. I agree. I agree. I mean, I think that -- we were talking about this a little bit break. There's been a little bit of muddying about this notion of, if you get in front of a jury, what the jury is going to do.I mean, almost sounds like he was saying, well, we had the proof, we think we have the proof, but you never know what a juror will do with an old man with a faulty memory. And so we decided not to charge. But then it became clear, when you look at the report, and he says, basically we didn't have the proof. There's insufficient proof. So there's been -- there was a little bit of confusion, I think, around. And this went to the Republicans trying to say he was guilty, but you let them off because of the old man defense. But really, if you can't prove your case to a jury beyond a reasonable doubt, you don't bring the case. I mean, especially talking about charging a president. (CROSSTALK)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:55:00",
+      "speaker": "VAN JONES, CNN SENIOR POLITICAL COMMENTATOR",
+      "sentences": "And you have a duty not to bring the case if you don't think you're going to be able to get a conviction.And look, I think that you saw a real professional. We're so used to partisan hackery and nonsense. To see somebody sit there for four hours and answer the question is calling the balls and strikes. You know, he made a lot of Republicans frustrated. He made Democrats frustrated. But you can't say that's a partisan hack. I got a lot --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:55:00",
+      "speaker": "COOPER",
+      "sentences": "Adam Schiff was really going after him, trying to say, look, you knew this report would be released.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:55:00",
+      "speaker": "JONES",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:55:00",
+      "speaker": "COOPER",
+      "sentences": "You knew that the language you were using was -- would be incendiary.",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

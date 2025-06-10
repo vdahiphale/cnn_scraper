@@ -1,0 +1,787 @@
+{
+  "date": "2023-03-17",
+  "headline": "CNN Tonight",
+  "subHeadline": "U.S. Markets Down as Banking Fears Swell; Bucks County, PA Files Lawsuit Against Social Media Companies; Bill Maher and His Guests Answer The Viewers' Questions and Bring Their Unique Perspectives to the Topics Driving the National Conversation; Residents Right to be Rude Upheld by Massachusetts Supreme Court. Aired 11p-12a ET",
+  "utterances": [
+    {
+      "timeStamp": "23:00:00",
+      "speaker": "LAURA COATES, CNN HOST",
+      "sentences": "The stock market taking a tumble today as uncertainty over the banking system is continuing even after the dramatic rescues of this week. It began a week ago -- can you believe it already -- as the government was forced to step in after Silicon Valley Bank fell victim to a bank run with at least three other banks needing intervention in the days since.On Thursday, First Republic Bank securing a $30 billion -- with the B -- $30 billion lifeline from a group of America's largest banks. So, why does it feel like everyone is now waiting for the next bank issue to drop? Joining me now, John Hart, former communications director for Senator Tom Coburn, CNN political commentator Karen Finney, national security attorney Bradley Moss, and Republican strategist Rina Shah. You know, it is true, many people have been looking at this and thinking, well, how many others are going to fall in line? Is this the beginning of the end or the end of the beginning as it comes to the worries surrounding this issue? What do you think?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:00:00",
+      "speaker": "RINA SHAH, REPUBLICAN STRATEGIST",
+      "sentences": "I was on the Hill with two members of Congress in 2008, 2009. This is tough, but it's nothing like that time. So, we need to remember that and keep that in perspective.I think pulling back here, what I see to be usually problematic is the fact that there is a lack of competition between these big banks. When you look at what is to come, it is looking at other banks that are part of the top 20 biggest bank in this country and seeing how they act just like SVB. SVB was trying to act like a regional bank. It had these overblown expectations and plans for itself. So, what happened to -- I think it is less about culture and the very fact that these big banks behave recklessly, their executives behave recklessly, and they don't believe that the regulators can do anything to them because another thing that is funny, former Congressman Barnett Frank now sits on the floor of very large bank. So, the regulators are not going to be regulating for very long because they are going to join them. I think there is a really serious concern about how you move forward when there are going to be deleterious effects on housing. You know, we need to talk about getting more liquidity into the mortgage market. I think that could be a good fix to begin with.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:00:00",
+      "speaker": "KAREN FINNEY, CNN POLITICAL COMMENTATOR",
+      "sentences": "It's going to be interesting to see next week, you know, we are supposed to -- the Fed is supposed to raise interest rates. Do they continue -- we are continuing to talk about raising of interest rates in addition to the Fed not so much doing its job with regard to --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:00:00",
+      "speaker": "COATES",
+      "sentences": "I know.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:00:00",
+      "speaker": "FINNEY",
+      "sentences": "-- SVB.(LAUGHTER)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:00:00",
+      "speaker": "COATES",
+      "sentences": "There is SVB and there is SBF. They are totally different.(LAUGHTER)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:00:00",
+      "speaker": "FINNEY",
+      "sentences": "But, you know, I mean, these are real questions. Do they - do they raise it as much as folks have been anticipating? And just that, so the market. If they don't do that much, does that create panic or concern, particularly given what we saw with Credit Suisse and the other concerns with other banks and sort of everybody trying to say nothing to see here, it is all calm? How does the Fed play into that?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:05:00",
+      "speaker": "COATES",
+      "sentences": "Good point, especially -- again, on the idea of the dumping of stocks, there are instances where it's not nefarious and part of the investigation is going to be a part of that. But it's a really strong point to think about what this new frontier looks like. The idea if this happened, if the -- for the postmortem has been so easy to dissect and think about what happened, then deterrence maybe should have been more readily available and easier.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:05:00",
+      "speaker": "JOHN HART, FORMER COMMUNICATIONS DIRECTOR FOR SENATOR TOM COBURN",
+      "sentences": "Right. I was also on the Hill during 2007-2008.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:05:00",
+      "speaker": "COATES",
+      "sentences": "Who wasn't on the Hill?(LAUGHTER)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:05:00",
+      "speaker": "COATES",
+      "sentences": "Show of hands.(LAUGHTER)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:05:00",
+      "speaker": "MOSS",
+      "sentences": "A lot of people.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:05:00",
+      "speaker": "HART",
+      "sentences": "Yeah.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:05:00",
+      "speaker": "MOSS",
+      "sentences": "I was a young lawyer. Easier times.(LAUGHTER)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:05:00",
+      "speaker": "HART",
+      "sentences": "The reason these banks acted recklessly is because they were incentivized to act that way.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:05:00",
+      "speaker": "MOSS",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:05:00",
+      "speaker": "HART",
+      "sentences": "They knew that they would be bailed out. The problem in Washington is that when there is no loser, everybody loses in the economy. And we have too many people in D.C. who believe in tooth fairy economics, that if you lose something, money just magically shows up under your pillow and everything is okay.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:05:00",
+      "speaker": "COATES",
+      "sentences": "That's the name of your next book.(LAUGHTER) That's the one.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:05:00",
+      "speaker": "HART",
+      "sentences": "Yeah. But it really gets down to this question of, what is your theory of wealth creation? Is wealth a measure of what people value and will pay for things that are important to them, goods and services, or is wealth defined by whatever government says it is, whatever government decides to print that year?And whenever we get away from wealth creation being anything other than what people value, we set ourselves on a very dangerous path, whether it's ESG and, you know, the bank SVB, whatever it's called. (LAUGHTER) They had an A rating for ESG. Well, that didn't help very much. And I'm all for conservation, but I'm also all for wealth creation, that if you are creating wealth, then you are adding something, then you have the foundation and the platform to talk about other things. But if you're not -- and it is really -- what they did is they didn't manage risk well. That's the simple explanation.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:05:00",
+      "speaker": "FINNEY",
+      "sentences": "We have to look at why that was. We have to say what did the regulators fail to do. And I don't care whether they were working remotely, cared about social justice issues or not. You still have a job that you are supposed to be doing, managing that wealth --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:05:00",
+      "speaker": "HART",
+      "sentences": "Managing risk.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:05:00",
+      "speaker": "FINNEY",
+      "sentences": "-- managing risk. Number three, as much as many of Democrats don't want to talk with it, lightning up some of those restrictions in 2018, it appears, actually may have played a role. They should be able to say, we made a mistake.We make one prediction of a phrase that's going to come back into the lexicon, it is old and new again, claw back. We are going to be talking about -- because in addition to what you were saying about dumping stocks, they have enough money to give themselves some nice million-dollar bonuses just as everything was going down the drain. So, I do think we are going to hear about claw backs.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:05:00",
+      "speaker": "SHAH",
+      "sentences": "I think this is a really great time, though, to talk about -- and have a really realistic and reasoned conversation about decentralized finance. I know some people get really nervous, but I like cryptocurrency. I think it's important to talk about -- I really do.And I think, you know, you have people on Hill who are really big enemies of this. Senator Elizabeth Warren being one of those people. But we need to talk about things like bitcoin being, you know, just not able -- be able to withstand the pressures and inflation. I mean, this is -- this is a real conversation. Americans are thinking about the future of finance and these big banks being able to control everything, and then having such deleterious effects on our everyday lives. And again, bringing it all back to other things like housing, housing shortage, and the fact that we no longer talk about are we an ownership society or a society that's just going to rent forever, and then talking to millennials about that as well.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:05:00",
+      "speaker": "COATES",
+      "sentences": "Two things. One, Signature Bank is known for cryptocurrency. It is one of the banks that had the failures in the last week. I do wonder what the long-term effects of that.But I do wonder about -- I mean, our conversation became very esoteric and not so much about the minutia of this particular problem, which I think is exactly what might happen on the Hill. And the idea if we are to broaden in the way we are talking about, is that going to be a good or bad thing to actually solving the problem or will it become a conversation about how we view and value money more broadly? MOSS: Is that a problem that can be solved? You said, is it all about just wealth creation? What's the saying? Money makes the world go around. That what builds up modern economies. It's the foundation of everything we have now. Is there a true institution or is there a political solution to that? Or does this go to a larger cultural problem on how we value money and how we assess risk? Is that something that can be legislatively fixed or is that a cultural problem that isn't easily addressed through politics?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:10:01",
+      "speaker": "COATES",
+      "sentences": "Well, her bracket will be claw backs, everyone.(LAUGHTER)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:10:01",
+      "speaker": "COATES",
+      "sentences": "That is the March madness like political brackets we got right now. Everyone, stick around. Everybody, when we come back, they are calling it a David versus Goliath kind of lawsuit. Bucks County, Pennsylvania is suing some social media giants, and they are accusing them of triggering a mental health crisis among teenagers in the county. Do they have a shot?(COMMERCIAL BREAK)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:14:58",
+      "speaker": "COATES",
+      "sentences": "Here with me now to discuss is Joe Khan, solicitor of Bucks County, Pennsylvania. Joe, I am glad that you are here. Thank you for joining us. This has been called a kind of David versus Goliath sort of case. You are going against some pretty huge social media giants, but you say it's worth it. Tell us why.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:14:58",
+      "speaker": "JOE KHAN, SOLICITOR OF BUCKS COUNTY, PENNSYLVANIA",
+      "sentences": "Yeah, thanks for having me, Laura. I think you put it exactly right. It is worth it and it is time for someone to step up. These companies maybe goliaths, but someone needs to stand up for all the parents and all the kids that have been suffering for so long.We are on the front lines of a mental health crisis that is impacting our youth more than anyone else. We have, for years, been doing what we can to try and keep up. We've been providing mental health services. We've been having services for families. This whole time, the taxpayer has been footing the bill. The more we read about what these companies have been up to, how they've targeted our kids, the more we realize we have the ability to do something about it. This is exactly the time for us to stand up on behalf of the people of Bucks County and demand better from these companies. That's why we brought this lawsuit.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:14:58",
+      "speaker": "COATES",
+      "sentences": "In some respects, you've been comparing it to a kind of discussion on how people once viewed Big Tobacco, for example. The idea of the impact it has on children, the idea of how it is marketed to, the idea of how we have shifted our perspective on marketing practices, perhaps algorithms and the like. You draw this comparison. How is this being received in your community?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:14:58",
+      "speaker": "KHAN",
+      "sentences": "Yeah, I think a lot of people get it. For a long time, we've understood -- I should say at the beginning, I mean, I am the county's lister of Bucks County, but more importantly first, I'm a dad. I've got two boys who are eight and 11. They are exactly at that age where they've been getting curious about these platforms because that is what their friends are doing.We are all, as parents, struggling to try and limit screen time, to tell our kids how to navigate this world that is very different from what we grew up in. Now, we are learning that these companies have been manipulating all of us, especially our kids. And so, there is a really powerful drug that is at the heart of this lawsuit. It's not oxycontin, not tobacco, it is dopamine. It is right in our own bodies. It's in the brains of our children. This lawsuit is about how these algorithms, these (INAUDIBLE) have been used and created to make money at the expense of our kids.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:14:58",
+      "speaker": "COATES",
+      "sentences": "You know, both Snapchat and Google have released statements in reaction to this lawsuit. Snapchat responding, saying, nothing is more important to us than the well-being of our community. We are constantly evaluating how we continue to make our platform safer, including through new education, features and protections.Also, Google responding, saying, we have invested heavily in creating safe expenses for children across our platforms and have introduced strong protection and dedicated features to prioritize their well- being. What do you make of the idea of this introduction of strong protection? You talk about dopamine effect, the idea that someone is having a bit of (INAUDIBLE) response or they're excited by what they are seeing and it continues a cycle of wanting to do it again and again and again. Are there protections and regulations in place that are helping you to feel the mental health of children in the community is being considered?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:14:58",
+      "speaker": "KHAN",
+      "sentences": "Well, I hope they're putting protections in place, but what the lawsuit talks about is complete failure to do that and in fact profiting off of the fact that our kids are being exploited. I really hope that these companies are serious when they say these things to the public.But first, we want to see what they're saying behind closed doors. We want the emails. We want the records. That is a kind of information that we are going to get because of this lawsuit, when we go to the process that is known as discovery, when we get to demand those documents. That is really what this lawsuit is. It is a demand that these companies do better. When we took on the opioid companies, even before there was a settlement, even before there were even talks about it, some of those companies started to change their behavior. We saw Purdue Pharma starting on their own to stop marketing their opioids to doctors' offices because of the pressure of that lawsuit. So, this is going to be a long road ahead, but it is an important first step and we are really proud to lead this fight.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:14:58",
+      "speaker": "COATES",
+      "sentences": "We'll be following this lawsuit. Thank you so much. I suspect other counties and every city and state in the county is looking at this as well. Thank you so much.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:14:58",
+      "speaker": "KHAN",
+      "sentences": "Thank you so much.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:14:58",
+      "speaker": "COATES",
+      "sentences": "Our panel is back with us right now. I wonder what is your reaction to what we are hearing right now. We certainly have heard a lot about the effects of algorithms. We have heard from whistleblowers on Capitol Hill, for example, talking about social media and the impact on our young people, particularly our young people and particularly young girls, although recently we saw young boys.The idea though that we as a nation are on one hand addicted to social media and the other that we are concerned about the well-being. This is a cost-benefit that is happening in this country right now. What do you say?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:20:00",
+      "speaker": "COATES",
+      "sentences": "This is not alone. We have also had the Seattle public schools bringing a case against this. San Mateo County also is looking at this issue. But, as you talked about, the illumination here. I mean, Big Tobacco, the internal memos, had their lobbyists who were once unbelievably unstoppable, on their back heels trying to figure how to explain the P.R. problem. Increasingly so, we see this. What do you say?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:20:00",
+      "speaker": "FINNEY",
+      "sentences": "You know, I think this is an example also of where technology has gotten ahead of public policy and the law. You know, we joke about the age of congress. Most of these folks are not people who are on tablets, on their phones. I don't know if they even know we are on TikTok (ph) --(LAUGHTER) (INAUDIBLE) on Snapchat.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:20:00",
+      "speaker": "MOSS",
+      "sentences": "(INAUDIBLE) TikTok.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:20:00",
+      "speaker": "FINNEY",
+      "sentences": "So, that is part of it as well. Certainly, the technology companies have manipulated that point, that fact. The fact that -- they kind of throw bones here and there. They do a little bit of self- regulation. But they now. We've heard from whistleblowers. We've heard from time to time that there was knowledge internally.If you think about it, a teenager in particular, you are the most vulnerable in terms of your sense of self. That's when you're trying to develop from a developmental perspective, your sense of belonging. It preys on some of the worst parts of being a teenager, which I remember well and it was miserable. I hope it does mean regulation. I hope it means we get more educated about the impacts that social media is having on us.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:20:00",
+      "speaker": "COATES",
+      "sentences": "You're talking about the pacing of technology. I also think about we as a nation, sadly, are still -- we are still catching up with what we know to be the right thing, which is to consider mental health. We value physical health. We focus on physical health far more than we look at mental health.We're catching up slowly but surely. Members of the Senate in particular being very vocal about what they're experiencing, from Tina Smith to John Fetterman, to say the least. It is raising new questions about whether legislatively or (INAUDIBLE), the mental health component might be an impediment.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:20:00",
+      "speaker": "HART",
+      "sentences": "I think we are facing a challenge that is once every 600-year challenge when you think about information technology. This is bigger than Big Tobacco because we haven't had a change in information technology like this since the printing press came on. And that disrupted all the centers of power, the literal monasteries of power back in that time.And one of those institutions is our parents. Parents and family. So, it is a challenge for everybody who has kids to handle this. I think that litigation is part of the answer because it does force transparency. Mental health is part of it. But the bigger issue is how do we rebuild social connection when this big technology revolution is undermining all of those connective relationships and those institutions.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:24:56",
+      "speaker": "COATES",
+      "sentences": "Thank you for sharing that. It is important to hear that story. Thank you so much. Everyone, during the last few years, we have seen just how contentious community meetings can get. Sometimes so hostile that officials have tried to rein in the rancor. But in Massachusetts, the top court is upholding the right to be rude at public meetings. We will talk about that next. But first, everyone, CNN's presentation of HBO's \"Overtime with Bill Maher\" right after this.(COMMERCIAL BREAK) (COMMERCIAL BREAK)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:24:56",
+      "speaker": "LAURA COATES, CNN HOST",
+      "sentences": "Well, now, I want to turn it over to our friend at HBO because each Friday after \"Real Time with Bill Maher,\" bill and his guests answer viewer questions and bring a unique perspective to topics driving the national conversation. We are thrilled to bring you this lively discussion first every Friday night. So here is \"Overtime with Bill Maher.\"(APPLAUSE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:24:56",
+      "speaker": "BILL MAHER, HBO POLITICAL TALK SHOW HOST",
+      "sentences": "Hello, CNN. It's me again. I am here with the panel we had today, actress and activist, Noa Tishby; co-chair of the Forward Political Party, Andrew Yang; and Michigan congresswoman, soon to be senator, Rep. Elissa Slotkin.(APPLAUSE) Okay. Should there be -- the first question very brief -- should there be a primary for vice president? Oh, and we're going back to the beginning of the republic when we were -- at the beginning, didn't the vice president wasn't a dude who ran with the guy? REP. ELISSA SLOTKIN (D-MI): No, whoever came in second place (inaudible) vice president.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:24:56",
+      "speaker": "MAHER",
+      "sentences": "Second place? Can you imagine?REP. SLOTKIN: Yeah. (LAUGHTER) ANDREW YANG, CO-CHAIR, FORWARD PARTY: Oh, yeah. On the day.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:24:56",
+      "speaker": "MAHER",
+      "sentences": "Yeah.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:24:56",
+      "speaker": "YANG",
+      "sentences": "But I said during the show that I thought that there should be a competitive primary in the Democratic Party, which I do. If Joe were to run again, I think there should a primary for who his running mate should be because the fact is that person could wind up stepping into his shoes and the people should have a say.(APPLAUSE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:24:56",
+      "speaker": "MAHER",
+      "sentences": "You down with that? No? You don't care?(LAUGHTER)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:24:56",
+      "speaker": "MAHER",
+      "sentences": "It's not gonna happen, so -- yeah -- REP. SLOTKIN",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:24:56",
+      "speaker": "MAHER",
+      "sentences": "-- why waste political capital?NOA TISHY, SPECIAL ENVOY FOR COMBATING ANTI-SEMITISM AND DELIGITIMIZATION OF ISRAEL: I don't -- I don't think it should be primary for -- because I think that is -- as a candidate that's your first choice as a possible president, and that shows a lot. Thank you. (APPLAUSE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:24:56",
+      "speaker": "MAHER",
+      "sentences": "So are you with him or -- yeah?REP. SLOTKIN: No, I don't -- I don't think so. It's the first choice of the upcoming president.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:24:56",
+      "speaker": "MAHER",
+      "sentences": "Okay. What does the panel think of the new upgrades to ChatGPT? Oh, you must have many -- now, this is not just -- ChatGPT is very recent itself. And now, they found a way to make something we all find creepy even creepier.(LAUGHTER) Is there any benefit to this technology getting more advanced?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:24:56",
+      "speaker": "YANG",
+      "sentences": "Well, it can write college essays in about 30 seconds. So, if that's too slow for you, then you can turn it up and then get it done in 10 or 15 seconds. In all seriousness, I have friends who run firms and they are saying in private, look, I am going to let go of 40 percent of my staff because I can now get more done with fewer people. That's happening to a lot of repetitive white collar jobs. 44 percent of U.S. jobs are repetitive manual or repetitive cognitive. And it turns out the repetitive cognitive might be the first to go.REP. SLOTKIN: Yeah. But this is also at a moment when we cannot get enough people to work in the jobs that we have. So, while we may be trending that direction, we have a massive problem getting our current jobs filled. So, I don't feel like we're --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:24:56",
+      "speaker": "YANG",
+      "sentences": "Oh, no. You are right, Elissa, they are both happening at the same time. The fact is the labor force has shrunken by 2.5 million American workers post-COVID. Now, they're at home. We're trying to get them back into workforce and then simultaneously this tech is going to comes in and wipes out, let's say, as one example, two million Americans work in call centers making 17 bucks an hour, like how long do you think that will last?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:24:56",
+      "speaker": "MAHER",
+      "sentences": "I don't know. You're the expert.(LAUGHTER) I don't know. That's why I have a panel.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:24:56",
+      "speaker": "YANG",
+      "sentences": "People know that --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:24:56",
+      "speaker": "MAHER",
+      "sentences": "I can't answer those questions. YANG",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:24:56",
+      "speaker": "MAHER",
+      "sentences": "Right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:24:56",
+      "speaker": "YANG",
+      "sentences": "-- automatable today.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:24:56",
+      "speaker": "MAHER",
+      "sentences": "I just read the questions.(LAUGHTER) Was the online criticism of musician (inaudible) extravagant Oscar dress which obstructed the view of -- I saw that picture -- is obstructing the view of audience member's affair? If you didn't see this, yes, somebody had on a big white ruffled thing and they're all like five people behind her were like -- (LAUGHTER) -- the Oscars, what do you think? REP. SLOTKIN: I feel like the actress should probably answer that.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:24:56",
+      "speaker": "TISHBY",
+      "sentences": "Yeah, I haven't acted in years. Listen, it was a little extreme, but I don't think it calls for an overtime\" question. There are bigger things in life to deal with now. Thank you.(APPLAUSE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:24:56",
+      "speaker": "MAHER",
+      "sentences": "I thought it was not right.(LAUGHTER) REP. SLOTKIN: Enough said. You got to really accept --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:24:56",
+      "speaker": "MAHER",
+      "sentences": "If somebody sits and would purposely wear something -- they know you're going to be in an audience and you know there could be people behind you --REP. SLOTKIN: It should -- it should --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:24:56",
+      "speaker": "MAHER",
+      "sentences": "-- I thinjk we don't think a better --REP. SLOTKIN: -- have been collapsible, like she should have been able to --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:24:56",
+      "speaker": "MAHER",
+      "sentences": "Right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:24:56",
+      "speaker": "TISHBY",
+      "sentences": "That's true.REP. SLOTKIN: -- do what she wants when it comes on the carpet --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:24:56",
+      "speaker": "YANG",
+      "sentences": "Like a peacock.REP. SLOTKIN: -- and then collapse that thing down and put it in a hood (ph). (APPLAUSE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:24:56",
+      "speaker": "TISHBY",
+      "sentences": "That's true.REP. SLOTKIN: That's (inaudible).",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:24:56",
+      "speaker": "MAHER",
+      "sentences": "It's just like --(APPLAUSE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:24:56",
+      "speaker": "TISHBY",
+      "sentences": "My son says also -- my son says also the stylist knew that we'll be talking about it. So, that was --REP. SLOTKIN: Well, that's true. We are talking about it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:24:56",
+      "speaker": "TISHBY",
+      "sentences": "-- it was attention. Yeah. Exactly.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:24:56",
+      "speaker": "MAHER",
+      "sentences": "Again --REP. SLOTKIN: You fell into the trap, though.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:24:56",
+      "speaker": "MAHER",
+      "sentences": "I'm just reading.(LAUGHTER) That's the -- this is what this game show is. I just read the questions from the people. It's so interesting to know what the people are thinking of.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:24:56",
+      "speaker": "YANG",
+      "sentences": "Give them what they want.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:05:00",
+      "speaker": "TISHBY",
+      "sentences": "Oh.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:05:00",
+      "speaker": "MAHER",
+      "sentences": "Good question.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:05:00",
+      "speaker": "TISHBY",
+      "sentences": "Great question.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:05:00",
+      "speaker": "MAHER",
+      "sentences": "Yeah.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:05:00",
+      "speaker": "TISHBY",
+      "sentences": "Great question. So, anti-zinism is Anti-Semitism. First of all, it's -- thank you so much. Thank you.(APPLAUSE) And I tell you what the difference is. There is nothing wrong with criticizing the Israeli government. I just did that on the show. I think that the overhaul -- the judiciary overhaul is extreme. So, it's not -- there's nothing wrong with criticizing Israeli government's policies, politicians, West Bank, whatever it is that you want. If you have something against, if you're trying to dismantle the Jewish state, if you're trying to go against the existence of the state of Israel, that's where the line is drawn. And sadly, there are a lot of people criticizing Israel and that's totally fine, but there are a lot saying that Israel is not a legitimate country and that is unacceptable. (APPLAUSE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:05:00",
+      "speaker": "MAHER",
+      "sentences": "Okay. Do you agree?REP. SLOTKIN: Yeah, I mean, on the other side of the coin, I don't think it's anti-Semitism if you care deeply about the state of the Palestinian affairs. I mean, if you care about people, that's not Anti-Semitism.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:05:00",
+      "speaker": "TISHBY",
+      "sentences": "Of course.REP. SLOTKIN: If you care -- I mean -- and I think that sometimes people go too far and say any criticism of Israel is Anti-Semitism. Every concern about the Palestinians --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:05:00",
+      "speaker": "MAHER",
+      "sentences": "I agree.REP. SLOTKIN: -- is anti-Semitism and that's also B.S.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:05:00",
+      "speaker": "TISHBY",
+      "sentences": "A hundred percent.(APPLAUSE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:05:00",
+      "speaker": "MAHER",
+      "sentences": "Politicians, you are so political.(LAUGHTER) Utah Governor Spencer Cox was signing a bill that bans abortion clinics across the state by the end of the year. Is abortion under threat nationwide? Well, duh. I mean -- REP. SLOTKIN: Yes, I'm going to say a big yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:05:00",
+      "speaker": "MAHER",
+      "sentences": "But this -- so this is actually closing -- you know, I mean -- well, and also this week, I see there is a federal judge in Texas who is looking to somehow rig it so that you can't get the abortion pill.REP. SLOTKIN: Medication, yeah.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:05:00",
+      "speaker": "MAHER",
+      "sentences": "Not just in Texas, but --REP. SLOTKIN: Nationwide.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:05:00",
+      "speaker": "TISHBY",
+      "sentences": "Nationwide.REP. SLOTKIN: It's kind of --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:05:00",
+      "speaker": "MAHER",
+      "sentences": "I don't even understand how that would work. But the fact that they are trying, it was a little scary. REP. SLOTKIN",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:05:00",
+      "speaker": "MAHER",
+      "sentences": "Right.REP. SLOTKIN: And already in 32 states in the country, it's very, very hard, if not impossible, to get an abortion and the constant onslaught now on medication. Even in a state like Michigan where we voted as a state to allow abortion to continue under Roe standards, it's going to potentially threaten our ability for a CVS or a Walgreens or whatever to prescribe the medication that many, many women use safely prescribed by their doctor. It is deeply disturbing and everyone should be involved in this if you care about this issue. (APPLAUSE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:05:00",
+      "speaker": "MAHER",
+      "sentences": "What do you say when you talk to people who are -- I mean, there is a lot of laws we mentioned in the editorial. There is something like 25% of Democrats are still pro-life.REP. SLOTKIN: My district is pro-life. Yeah.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:05:00",
+      "speaker": "MAHER",
+      "sentences": "Your district is pro-life?REP. SLOTKIN: Yeah. My district is pro-life. And this is how you know the country has shifted and people are thinking differently, particularly pro-life women. They will pull me aside in an event, and say, look, I am pro-life. I am deeply catholic or this is something I feel in my faith.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:05:00",
+      "speaker": "MAHER",
+      "sentences": "Right.REP. SLOTKIN: I could never have an abortion. I could never advise my children to have an abortion. But I have never walked in another woman's shoes and would tell her how to live her life. And that's all we are asking for. That is all we are asking for. (APPLAUSE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:05:00",
+      "speaker": "YANG",
+      "sentences": "The vast majority of Americans actually can find common ground even outside of their own personal beliefs. It's our dysfunctional political system that is whipsawing us towards one extreme or the other. On this one, it's having terrible consequences around the country for women's reproductive rights.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:05:00",
+      "speaker": "TISHBY",
+      "sentences": "By the way, in Israel, abortion is paid for by the government.REP. SLOTKIN: Yeah.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:05:00",
+      "speaker": "TISHBY",
+      "sentences": "Just saying.(APPLAUSE) REP. SLOTKIN: And paid for by the government and religious state. It's a religious state. TISHBY: And religious -- the 42 religious -- religion believes in Judaism life begins at first breath -- REP. SLOTKIN: Right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:05:00",
+      "speaker": "TISHBY",
+      "sentences": "-- whether you are into religion or not, into religion or not.(LAUGHTER) REP. SLOTKIN: Yeah.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:05:00",
+      "speaker": "TISHBY",
+      "sentences": "But yeah, in Israel, it's --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:05:00",
+      "speaker": "MAHER",
+      "sentences": "I'm into breath.(LAUGHTER) I get that point. What does -- what does the panel think of YouTube lifting its ban on Donald Trump?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:05:00",
+      "speaker": "YANG",
+      "sentences": "Oh, no. Yeah, I saw that.(LAUGHTER) Yeah. I mean, it -- REP. SLOTKIN: So strong. Tell us what you really think.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:05:00",
+      "speaker": "YANG",
+      "sentences": "Yeah, I mean, it -- no, I mean -- so he has been allowed back on Meta and Twitter and hasn't taken advantage because he is trying to prop up truth social. But I think that's going to change. I think he's going to arrive on all these platforms and we will all be collectively a little bit dumber for it.(LAUGHTER) (APPLAUSE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:05:00",
+      "speaker": "MAHER",
+      "sentences": "So, you would ban him -- keep banning him?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:05:00",
+      "speaker": "YANG",
+      "sentences": "Well, no, in a -- it's difficult because if you are a social media platform you are like, wait a minute. He's, right now, the putative frontrunner of one of the two major parties. So, you know, banning him might consist of actually, you know, like taking away someone's political speech. And that's the bind that these companies have.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:40:05",
+      "speaker": "MAHER",
+      "sentences": "Right.REP. SLOTKIN: -- they know that extreme content gets more views, more likes, more advertising dollars so they are monetizing the spread of extremism. That is what the Supreme Court case is about. I don't know which way they are going. But I think it's a super interesting case for the future of technology who is responsible and shouldn't be making money off of extreme content. (APPLAUSE) They can't control Donald Trump, but they can control how they make their u their money.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:40:05",
+      "speaker": "MAHER",
+      "sentences": "All right. We'll have to end it there. I don't want have CNN late on their next commercial break. Thank you, guys. See you next week.(APPLAUSE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:45:00",
+      "speaker": "COATES",
+      "sentences": "The right to be rude, rude, at a public meeting in Massachusetts upheld by the State Supreme Judicial Court. \"The New York Times\" reports the court ruled that the town of Southborough's civility code for public comment at public meetings is unconstitutional. A resident sued after being threatened with removal from a town board meeting for directing strong language at a board member. Listen to this exchange.(BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:45:00",
+      "speaker": "UNKNOWN",
+      "sentences": "It's not easy to be volunteers in town, but breaking the law is breaking the law.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:45:00",
+      "speaker": "UNKNOWN",
+      "sentences": "So, ma'am, if you want to slander town officials who are doing their very best --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:45:00",
+      "speaker": "UNKNOWN",
+      "sentences": "I'm not slandering.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:45:00",
+      "speaker": "UNKNOWN",
+      "sentences": "-- then we're going to stop the public comment session now --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:45:00",
+      "speaker": "UNKNOWN",
+      "sentences": "Look, you need to stop being a Hitler.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:45:00",
+      "speaker": "UNKNOWN",
+      "sentences": "-- and go into recess.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:45:00",
+      "speaker": "UNKNOWN",
+      "sentences": "You're a Hitler.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:45:00",
+      "speaker": "UNKNOWN",
+      "sentences": "All right. We are moving into recess. Thank you.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:45:00",
+      "speaker": "COATES",
+      "sentences": "The attorney for Southborough criticized the court decision saying it effectively warns local officials against enforcing even modest rules of order and decorum at public meetings.Back with me now, John Hart, Karen Finney, Bradley Moss and Rina Shaw. I mean, the idea of alleging or calling someone Hitler in any capacity, very strong words, but you know, the first amendment concerns she seemed to raise. What do you say?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:45:00",
+      "speaker": "BRADLEY MOSS, NATIONAL SECURITY ATTY",
+      "sentences": "I would say that by and large, the court got it right. First amendment gives you a lot of protections. One of them is the right to be a jerk, for a lack of better expression, including in the public square.Look, she wasn't being disruptive. She wasn't being violent. She wasn't hurling expletives at them. She made a really stupid comment. And she is like every other local crank that everyone sees at local town halls all the time. They run their mouth, they go back to what they were doing, and the officials go back to doing their business, which is what they really should have done here. You can't enforce some you will be polite at all times code. I'm sorry.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:45:00",
+      "speaker": "COATES",
+      "sentences": "But in politics and Congress, right, and courtrooms we have civility and decorum. We have order in the court during a motion at them.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:45:00",
+      "speaker": "KAREN FINNEY, CNN POLITICAL COMMENTATOR",
+      "sentences": "Sorry, but that's what he should have done. I would have just -- you know, that's what the gavel is for, brother, like she is out of order or just say, we've heard -- you've have been heard, like there are other ways to handle it.I think the issue here is it's one thing freedom of speech. But what we know is that to my mind goes all the way up to when it becomes inciting violence where we end up with January 6th or like the attack on Paul Pelosi. That was not what this was. So, I agree, first amendment. JOHN HART, FORMER COMMUNICATIONS DIRECTOR FOR SEN. TOM COBURN: Yeah -- well, yeah. The first amendment trumps niceness. That's the virtue that the founders wanted to protect. But there is good conflict and bad conflict. We know what bad conflict is. But we need good conflict in our political system. We need the collision of ideas because that produces the building blocks of solutions. Just as like in a super collider, you have these particles hit each other that revealed the building blocks of matter. We need to have that conflict because that's what helps us compromise and come to these peaceful solutions.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:45:00",
+      "speaker": "COATES",
+      "sentences": "I nodded along with that description because I wanted to seem very smart about science (ph). Go ahead.(LAUGHTER)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:45:00",
+      "speaker": "RINA SHAH, REPUBLICAN STRATEGIST",
+      "sentences": "You know, we are a society desperately in need of more civility. I think that's it, bottom line. But if we can -- and if we can't enforce certain rules around behavior, then I think we are no better than the pack of animals that the movie the \"Lion King.\" And I think about that because behavior, right tone and how people present themselves in certain public forums is important.Then I look at the ruling from the Massachusetts Supreme Court and I think they got it both right and wrong because I care about free speech. So, I think we need to protect free speech. But also calling somebody a Hitler, there is a game of telephone played in a town, you know. It makes its way around. Isn't that slanderous on one hand, too? So I think, in essence, yeah, I'm happy that they are like, look, let free speech be free speech, somebody should behave how they want, but I am deeply concerned about certain language and behavior leading to political violence because we do live in that era where it goes quickly.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:45:00",
+      "speaker": "COATES",
+      "sentences": "What do you say about the slander comment?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:45:00",
+      "speaker": "MOSS",
+      "sentences": "It wasn't slander. It's a disgusting, stupid opinion.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:45:00",
+      "speaker": "HART",
+      "sentences": "It's not an argument.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:45:00",
+      "speaker": "MOSS",
+      "sentences": "It's a horrible argument --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:45:00",
+      "speaker": "COATES",
+      "sentences": "Yea.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:45:00",
+      "speaker": "MOSS",
+      "sentences": "-- which is what she was. She's a local crank. You are allowed to be the local crank.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:45:00",
+      "speaker": "SHAH",
+      "sentences": "But calling somebody a Hitler, yeah? (Inaudible).",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:45:00",
+      "speaker": "MOSS",
+      "sentences": "I am Jewish. It didn't offend me. You can call me whatever you want. It doesn't do anything, face right off.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:45:00",
+      "speaker": "SHAH",
+      "sentences": "But that's you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:45:00",
+      "speaker": "COATES",
+      "sentences": "Yeah. But slander is essentially saying something that's untruthful to diminish reputation in the community.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:45:00",
+      "speaker": "MOSS",
+      "sentences": "It's an opinionated argumentative comment. It would go nowhere in a court of law, which is part of why it went this way. If you look at the ruling, if you look -- there's a very lengthy Supreme Court ruling in Massachusetts on this one. It's -- most of the regs were upheld in terms of what they put in place. It was this specific part that was just so overly broad. It's just going too far.",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

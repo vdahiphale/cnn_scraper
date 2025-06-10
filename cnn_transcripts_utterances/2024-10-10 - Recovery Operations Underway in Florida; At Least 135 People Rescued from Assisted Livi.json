@@ -1,0 +1,535 @@
+{
+  "date": "2024-10-10",
+  "headline": "First Move with Julia Chatterley",
+  "subHeadline": "Recovery Operations Underway in Florida; At Least 135 People Rescued from Assisted Living Facility; First Responders Reach Communities on Airboat; Florida Assesses Impact of Milton; TD Bank Pleads Guilty to Money Laundering; Musk to Unveil Tesla Robotaxis; Winner of Nobel Prize in Chemistry Using A.I.; Israel Strikes Central Beirut; At Least 22 People Killed in Beirut; Million Without Power in Florida; At Least 13 Dead in Florida; Rafael Nadal Announces His Retirement. Aired 6-7p ET",
+  "utterances": [
+    {
+      "timeStamp": "18:00:00",
+      "speaker": "JAKE TAPPER, CNN ANCHOR",
+      "sentences": "-- blessing, our deepest condolences go to all of the Kennedy family and her friends and admirers.You can follow me on Facebook, Instagram, Threads, X, formerly known as Twitter, and on TikTok, @jaketapper. You can follow the show on X, @TheLeadCNN. You can also listen to the show whence you get your podcasts. The news continues on CNN with Wolf Blitzer right next door in a place we'd like to call The Situation Room. See you tomorrow.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:00:00",
+      "speaker": "WOLF BLITZER, CNN ANCHOR",
+      "sentences": "Happening now, breaking news. The death toll is rising --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:00:00",
+      "speaker": "ZAIN ASHER, CNN ANCHOR",
+      "sentences": "All right. It is 1I'm Zain Asher, in for my colleague Julia Chatterley. And wherever you are in the world, this is your \"First Move.\" A warm welcome to \"First Move.\" And here is today's need to know. Recovery operations are underway in Florida as Hurricane Milton leaves death and destruction in its wake. At least 22 people are killed and more than 100 injured in Beirut after more Israeli airstrikes. And Tesla taxis. Elon Musk promises a game changing moment for the EV maker with self-driving cabs and private jets. And Rafa retires. One of the greatest tennis players of all time says that he'll play his final tournament this November. All that and a lot more coming up. But first, Florida begins the recovery from deadly Hurricane Milton, with officials warning that the danger is not over yet. Storm surge, riptides, even flesh-eating bacteria are just some of the threats. Residents are being told to stay put and let help come to them. U.S. President Joe Biden among those urging caution. (BEGIN VIDEO CLIP) JOE BIDEN, U.S. PRESIDENT:  There's still very dangerous conditions in the state and people should wait to be given all clear by their leaders before they go out. We know from previous hurricanes that it's often the case that more lives are lost the days following the storm than actually during the storm itself. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:00:00",
+      "speaker": "ASHER",
+      "sentences": "On the ground, first responders are still saving lives. Residents at one assisted living facility in Tampa were discovered in water up totheir waists. More than 130 residents were rescued, including people relying on wheelchairs and walkers. Meantime, many cities are beginning the long and difficult work of cleaning up. St. Petersburg is contending with hundreds of fallen trees and power lines. The city's Tropicana Field was supposed to be a gathering spot for first responders, instead, Milton tore the roof off. Bill Weir joins us live now from St. Petersburg. So, Bill, just talk to us about the extent of the damage where you are right now.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:00:00",
+      "speaker": "BILL WEIR, CNN CHIEF CLIMATE CORRESPONDENT",
+      "sentences": "Well, we are in Pinellas County. It's really devastated, Zain. From downtown here. I'm going to showyou all the greatest hits of the storm that it really took a toll on this community. But the folks along the beaches who took the brunt of Helene just 10 days prior, you know, this -- covering climate these days, it's sort of the intersection of nature and human nature. And as humans, we try to use the past to figure out what's going to come. Hurricane Helene seemed too far offshore to bring a storm surge. People were wrong. They got devastated. So, everyone was focused on storm surge for Milton. But what instead came were massive tornadoes and relentless floods, almost a half a meter in 24 hours here in St. Petersburg, just flooding every river and creek. You can imagine flooding so many homes. So, right now, people are sort of grateful that they dodged the worst-case bullets, but they're trying to make sense of these back-to-back hits. and what comes next. (BEGIN VIDEOTAPE) WEIR (voice-over):  As Earth overheats, these are the kinds of storms that take lives and livelihoods. But as families reel in private grief, it's the material loss that is so obvious everywhere in Pinellas County. From the tower construction crane that crashed down on neighboring buildings, to Tropicana Field, peeled like an orange by Milton's winds. The Tampa Bay Rays already have plans in the works to build a new stadium, with taxpayers kicking in hundreds of millions of dollars. But what happens now is anyone's guess, especially after the loss of entire neighborhoods, retirees and working-class American dreamers.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:00:00",
+      "speaker": "SANDY DAUGHTRY, PINELLAS COUNTY RESIDENT",
+      "sentences": "I'm just really concerned for all these people. It's just devastating. It's like World War III orsomething, you know. WEIR (voice-over):  Sandy Daughtry hid in a closet during landfall and the day after rides her bike through the mingled wreckage of back-to-back hurricanes, praying for neighbors she knows now have nothing.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:05:00",
+      "speaker": "DAUGHTRY",
+      "sentences": "Yes. Yes. I know. That's why I just like it breaks my heart. I'm riding through here just like my heart is just shattered. I just can't even-- it's just unbelievable. Really.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:05:00",
+      "speaker": "WEIR",
+      "sentences": "What do you think becomes of communities like this?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:05:00",
+      "speaker": "DAUGHTRY",
+      "sentences": "I don't know. I really don't. I'm hearing a lot of people saying they're going to leave the state and head back up north, but I don't knowif that'll happen. You know, maybe a mass exodus or something.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:05:00",
+      "speaker": "WEIR",
+      "sentences": "Do you connect any, all of this to a changing climate, a warmer planet?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:05:00",
+      "speaker": "DAUGHTRY",
+      "sentences": "You know, I don't -- I'm not sure. I couldn't answer. I can't really answer that.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:05:00",
+      "speaker": "WEIR",
+      "sentences": "Really?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:05:00",
+      "speaker": "DAUGHTRY",
+      "sentences": "I just -- maybe it's just a hundred-year cycle or, you know, some kind of a cycle that we go through.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:05:00",
+      "speaker": "WEIR",
+      "sentences": "Even though all the scientists are telling you this is what climate change looks like?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:05:00",
+      "speaker": "DAUGHTRY",
+      "sentences": "Well, yes. Well, that's the point. I'm not sure all the scientists are in agreement.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:05:00",
+      "speaker": "WEIR",
+      "sentences": "They are. I can tell you they are.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:05:00",
+      "speaker": "DAUGHTRY",
+      "sentences": "That's why I'm kind of like --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:05:00",
+      "speaker": "WEIR",
+      "sentences": "I'm here to tell you, they are.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:05:00",
+      "speaker": "DAUGHTRY",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:05:00",
+      "speaker": "WEIR",
+      "sentences": "99 percent of them absolutely agree. You can ask anybody.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:05:00",
+      "speaker": "DAUGHTRY",
+      "sentences": "Well, I can definitely tell you our beaches are eroding in my lifetime, all the beaches have -- I've seen the water come up a lot higherthan it ever has before. So --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:05:00",
+      "speaker": "WEIR",
+      "sentences": "Thank you so much.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:05:00",
+      "speaker": "DAUGHTRY",
+      "sentences": "-- thank you all for talking.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:05:00",
+      "speaker": "WEIR",
+      "sentences": "Yes, thank you for talking with us. Really, you're a great neighbor. If there's a heaven, you're getting in.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:05:00",
+      "speaker": "DAUGHTRY",
+      "sentences": "And that's -- honestly, that's what I do. I ride around and just pray for people and just pray, you know. I just -- it's just --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:05:00",
+      "speaker": "WEIR",
+      "sentences": "You're a first prayer responder. That's --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:05:00",
+      "speaker": "DAUGHTRY",
+      "sentences": "Yes. Amen.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:05:00",
+      "speaker": "WEIR",
+      "sentences": "That's very sweet. All right. Good luck to you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:05:00",
+      "speaker": "DAUGHTRY",
+      "sentences": "Thanks, you all.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:05:00",
+      "speaker": "WEIR",
+      "sentences": "Thank you.(END VIDEOTAPE) WEIR (on camera):  All people can really do is pray at this point, Zain. 13 fatalities so far, but we know from history that more fatalities generally come after the storm, as people, you know, have accidents or their generator poisonings and all kinds of things that can go wrong, when infrastructure is down, when there's so much dangerous things in the water, when there's power lines everywhere. So, they're figuring this out in real-time, and this is a -- Sandy there, lifelong Floridian, you know, who has been through so many hurricanes, she couldn't remember, but the conversation has to shift, otherwise, the next one, people won't be as prepared.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:05:00",
+      "speaker": "ASHER",
+      "sentences": "Yes, and I thought you asked her, Bill, a really important question about climate change, just in terms of your conversation with Sandy at theend. I mean, we know that because of climate change, the air is warmer, it can hold more moisture, and that means that when you have hurricanes like this, there's a lot more rainfall. The rainfall totals are much higher because of climate change. Just explain to us, when you look at Hurricane Milton and Hurricane Helene, how much of the rainfall from these storms are a direct result of manmade climate change?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:05:00",
+      "speaker": "WEIR",
+      "sentences": "Well, there's weather attribution science that they look at, you know, pre-industrial times and do comparisons, and they'll say thisparticular storm, Helene, I believe was many times -- hundreds of times more likely as a result of manmade global warming. This particular storm, Milton, maybe 10 to 20 percent more rain. But there's also this other phenomenon, like supercell tornadoes, 135 tornado warnings in Florida. That almost doubled the previous record, which was set just a few years ago. These are the kinds of tornadoes you see in the Kansas or Texas not coming, you know, hundreds of miles in front of a hurricane or 100 miles away from the eye. The people who got hit by those tornadoes, Zain, they were ready for a hurricane, but they had never imagined that it would be, you know, \"Wizard of Oz\" time where they happen to be there. But again, we lack the capacity to imagine the physics of this hotter planet because we're only working with the information we had from before.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:05:00",
+      "speaker": "ASHER",
+      "sentences": "Bill Weir, live for us there in St. Petersburg. Thank you so much. Right. The Tampa area has been particularly hit hard by this storm. CNNtraveled through the floodwaters alongside a county sheriff who is trying to save lives. Isabel Rosales has more. (BEGIN VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:10:00",
+      "speaker": "ROSALES",
+      "sentences": "I can tell because I've known you for many years. You're getting choked up right now. What are you going through?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:10:00",
+      "speaker": "CHRONISTER",
+      "sentences": "Just your heart shatters for these people. We did a bunch of rescues. We took them to a shelter. The female that you saw that we passed,she was waving me down. I made her promise me if it got too deeper, she got tired, we'd come back and get her. She broke down and hugged me for five minutes. She goes, I don't have a lot. I take care of my grandmother. I evacuated my grandmother. And I'm left with nothing. We've lost everything. We have no furniture. There was five feet of water in there. I mean, how does this not shatter your heart?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:10:00",
+      "speaker": "ROSALES",
+      "sentences": "The assisted living facility, I saw those residents out. A lot of them evacuating with no shoes. Their feet on the concrete. They were cold.They went through so much, hours of waiting in the water. What are the stories that you're hearing?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:10:00",
+      "speaker": "CHRONISTER",
+      "sentences": "Yes, you're exactly right. They were literally living in four to five feet of water. And these are individuals that can't walk. They'resitting in chairs in four feet. The panic started to sink in and they're like, hey, we got to get out of here. They thought the water would subside. And it didn't. It's not like storm surge where it got worse. But these floodwaters, 16 inches of water and this is the results and heavily saturated area. The floodwaters that we were talking about that we were so worried about. This water has nowhere to go. Their homes are flooded. They have nowhere to go. (END VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:10:00",
+      "speaker": "ASHER",
+      "sentences": "As you just saw, rescue teams are fighting dangerous conditions to reach people trapped in flooded areas. You're looking at drone footage fromHillsborough County in Florida showing rescuers loading people onto rafts outside their homes. A local sheriff says he's never seen flooding in the area on this scale. While in the city of St. Petersburg, the amount of rain that fell was more than 18 inches or 45 centimeters. That's considered a once in a millennium rainfall event. Florida's governor says at least 340 people have been rescued in the state, as well as almost 50 pets. Let's speak with the head of a humanitarian group that is on the ground in Florida right now. Thomas Tighe is the president and CEO of Direct Relief and joins us now live. Thomas, when you think about oftentimes the greatest need after storms like this, I mean, obviously, you see people's entire have been swept away. Their homes are gone. Obviously, there is a loss of life, but it is important to note that, you know, a lot of people might need access to medication, access to medicines that they might not ordinarily have. Just walk us through what is the greatest need at this point in time in terms of medical supplies, which is what your organization focuses on.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:15:00",
+      "speaker": "ASHER",
+      "sentences": "Yes, just explain to us, you know, the sorts of work, just in detail, how your organization operates before and in the lead up to thestorm actually hitting, and then in the days afterwards.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:15:00",
+      "speaker": "TIGHE",
+      "sentences": "Yes, we have -- you know, we're handling prescription drugs in all 50 states on a charitable basis. So, we have to be very careful and certifythe people on the receiving end, all of whom are nonprofit organizations. So, we work with them. We understand what their patients' needs are. People who need but can't afford their medications, they order, we deliver online and then we track it. When -- in certain places throughout the Gulf states and places along the eastern seaboard, we preposition packs, hurricane preparedness packs that contain about 150 different medications, including mainly chronic disease medications. We preposition those in durable, ruggedized, waterproof tubs so they have sort of a pharmacy in a box for situations like this. Some of those facilities have -- that received them before hurricane season have already opened them, and that's supposed to tide them over in an event like this until we can get the current information, they can make a proper order. And we -- you know, we don't want to send stuff that they don't need or won't use. So, we wanted to give them some tidying over time. And then, what we're doing now is trying to establish, you know, what specifically we can deliver. And FedEx has always been wonderful in arranging rapid delivery for these types of medications. But it's on an order first basis to pre-approve health professionals. So, we're working with the safety net that exists that isn't often seen as a first response agency, but they're definitely a first receiver agency, including Premier Health, mobile health services and Oceana Community Health in Fort Pierce.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:15:00",
+      "speaker": "ASHER",
+      "sentences": "So, as these hurricanes, unfortunately, become more frequent. I mean, Florida this year was in the unfortunate position of being on thereceiving end of two major hurricanes back-to-back within a two-week period, both with Helene and also Milton. Because of climate change, we know that this is going to become more frequent. What is your greatest concern then?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:15:00",
+      "speaker": "TIGHE",
+      "sentences": "Well, you know, I think that we won't keep up. I mean, the pace of change is -- seems to exceed our ability to adapt to the change, right? Youknow, we're always a bit looking in the rearview mirror for guidance. And I think as circumstances change, we have to acknowledge the old playbooks might not work. I mean, the basics are always going to be there, but I think the new circumstances, they're not only more frequent, they're more intense and they last longer, these events. I live in California where it's wildfires that are concerned, and it's the same thing. There used to be a season. Now, it's all year. So, I think the adaptation of us as a species and recognition of what works and really concerned for the people who are least fortunate, they have the least cushion, they have the fewest options, they get hit harder by these events, and they have a really hard time bouncing back. So, I think that's, I think, the recognition that as these things change, everyone's at risk, but some of us much more so at others and to look out for your neighbors as best you can. We can't rely on the government to do every single thing. Although, I'll tell you, Florida has done a very good job on their emergency officials. We met with the sheriff up here who was on it and it's an impressive group of people. Floridians are tough and experienced with this sort of thing.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:15:00",
+      "speaker": "ASHER",
+      "sentences": "All right. Thomas Tighe, thank you so much. We appreciate the work that you've been doing on the ground.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:15:00",
+      "speaker": "TIGHE",
+      "sentences": "Thanks so much.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:15:00",
+      "speaker": "ASHER",
+      "sentences": "All right. Let's get more on the ongoing risks from the flooding and other dangerous conditions left in the wake of Hurricane Milton. ChadMyers is at the World Weather Center for us. So, Chad, it made landfall as a hurricane -- as a Category 3 hurricane. It then moved east. It was reduced to a Category 1. But the East Coast of Florida also received a lot of rainfall. Walk us through that.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:20:00",
+      "speaker": "ASHER",
+      "sentences": "Those statistics, unbelievable.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:20:00",
+      "speaker": "MYERS",
+      "sentences": "It really is.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:20:00",
+      "speaker": "ASHER",
+      "sentences": "Chad Myers, live for us there, thank you so much.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:20:00",
+      "speaker": "MYERS",
+      "sentences": "You're welcome.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:25:00",
+      "speaker": "ASHER",
+      "sentences": "All right. Welcome back in today's Money Move. Red hours across Wall Street after the latest U.S. inflation report. The Dow and the S&amp;P 500pulling back from record highs after a mixed read on U.S. prices. Consumer inflation inching down to 2.4 percent year over year, the lowest level in more than three years. Investors, however, we're expecting a bigger drop. Inflation month over month came in slightly higher than expected as well. Stocks in the news include TD Bank, it shares falling more than 5 percent. The company has pleaded guilty to money laundering and will pay a $3 billion fine. (BEGIN VIDEO CLIP) MERRICK GARLAND, U.S. ATTORNEY GENERAL:  TD Bank created an environment that allowed financial crime to flourish, by making its services convenient for criminals, it became one. Today, TD Bank became the largest bank in U.S. history to plead guilty to Bank Secrecy Act program failures, and the first bank in history to plead guilty to conspiracy to commit money laundering. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:25:00",
+      "speaker": "ASHER",
+      "sentences": "In Asia, strong gains for Chinese stocks after the Central Bank bear kicked off a new monetary stimulus program. Investors, however, stilllooking for more fiscal stimulus. The Nikkei also closing in the green. Now, in other business news, Elon Musk is gearing up for what could be one of Tesla's biggest announcements ever. Just a few hours from now, Musk is set to take the stage in Los Angeles to unveil details of his driverless Robotaxi initiative. We could see what a so-called Tesla Cybercab will actualy look like, along with details of the company's planned ride hailing service that would let people rent out their Teslas. All this as Chinese firms ramp up on their own Robotaxi plans. Ride hailing giant Uber has also partnered with Alphabet's Waymo on driverless vehicles. It might not all be about Robotaxis today. One big question, will the Tesla Optimus robot make an appearance? Dan Ives joins us live now from L.A. He's Managing Director and Senior Equity Research Analyst at Wedbush Securities. Dan, thank you so much for being with us. So, Elon Musk has talked about the fact that he believes the Robotaxi is actually going to add trillions of dollars of value to its stock and also dramatically fuel the company's growth. Give us your thoughts on that.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:25:00",
+      "speaker": "DAN IVES, MANAGING DIRECTOR AND SENIOR EQUITY RESEARCH ANALYST, WEDBUSH SECURITIES",
+      "sentences": "Yes, I think this is going to be a historic event. I think forTesla, when you look at autonomous, I think represents a trillion-dollar opportunity. And I think when you look at the value, that could even be more than the stock's worth today. And this has been years in the making, but when it comes to Tesla, it's robotic A.I., and this is going to be really a historic event for Tesla, I think, and overall for the tech.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:25:00",
+      "speaker": "ASHER",
+      "sentences": "Just in terms of Musk's vision, right, for Robotaxi in the next 10 years, the next 15 years, I mean, you know, what are your thoughts on that?The sort of how much of an impact or how much change this particular endeavor will have for society?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:30:00",
+      "speaker": "ASHER",
+      "sentences": "Yes. So, just in terms of competition, I mean, obviously, you talk about Alphabet's Waymo. There's obviously also Uber, who is sort ofdabbling in this arena as well. How much of an advantage does Tesla have, especially with Robotaxi, do you think?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:30:00",
+      "speaker": "IVES",
+      "sentences": "They have a huge event because they have 6 million vehicles in the road. And you get miles driven, 1.5 billion miles driven. So, that datafeeds the machine. And I think what Tesla is going to unveil tonight, it shows the autonomous framework. I think by the end of next year, 2025, we could start to see some form of Robotaxis with their cyber tech in different cities, especially throughout the U.S.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:30:00",
+      "speaker": "ASHER",
+      "sentences": "So, that's how you think it's going to be deployed slowly, city by city, that's how it's going to spread?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:30:00",
+      "speaker": "IVES",
+      "sentences": "Yes. Regulatory is the biggest issue, right? So, framework, I mean, just like we see Waymo's in L.A. and, you know, you see in Austin and othercities. But Tesla has a huge advantage because of the Teslas on the road, a lot of those, you start to convert those more and more to fleets. I might think you could be looking at 15, 20 percent of profits for Tesla over the next three, four, five years essentially coming from this. That's why this is not a shoulder to shoulders event. I think this is really in a -- you know, a really a seminal event.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:30:00",
+      "speaker": "ASHER",
+      "sentences": "Well, we've got the countdown clock on our screen. We just had it there a moment ago, 10are in L.A. As Dan Ives just said, I mean, this is going to be a seminal event for Tesla. Similar, I understand that you believe as the iPhone unveiling for Apple is what I understand that you said. All right. Dan Ives, live for us there. Thank you so much. All right. Speaking of cutting-edge technology, there was plenty of excitement in the biotech community this week when the Nobel Prize for Chemistry was announced. The prize went to a group of scientists who are using A.I. to help unlock the secrets of proteins. Two of the award winners work at Google's DeepMind in London. CNN's Anna Stewart caught up with Demis Hassabis, CEO of Google DeepMind. She asked him if the news of his win had actually sunk in yet. (BEGIN VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:30:00",
+      "speaker": "DEMIS HASSABIS, NOBEL PRIZE WINNER AND CEO, GOOGLE DEEPMIND",
+      "sentences": "To be honest, it hasn't at all. It still seems like a dream really. And it's verysurreal. And it's still -- it still is today.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:30:00",
+      "speaker": "ANNA STEWART, CNN CORRESPONDENT",
+      "sentences": "I always think it's interesting with this application because this is one of those applications of A.I. that peoplemay not even know about. They may not know that a drug or a treatment they have in the future is the result of AlphaFold. Do you wish that there was less conversation, less focus on A.I. chatbots and more focus here?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:30:00",
+      "speaker": "HASSABIS",
+      "sentences": "Well, I think it's -- I mean, I think that's what's great about this recognition as well from the Nobel committee is it does shine aspotlight on other types of A.I. that are happening. They're not chatbots, like you said, that are still making a massive impact in the world, but maybe in more specialized areas like science or biology or medicine. And I hope it inspires many other people to work on those types of A.I. systems that can help the world, you know, be a huge benefit to the world in these other ways.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:30:00",
+      "speaker": "STEWART",
+      "sentences": "You know, it's interesting. You're so positive when you talk about A.I. despite the risks, but there are some A.I. pioneers like YoshuaBengio or Geoffrey Hinton who are much gloomier about the outlook. Is your sense that overall A.I. will be a force for good?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:30:00",
+      "speaker": "HASSABIS",
+      "sentences": "Yes, of course. So, I'm in the middle ground. There are people on both extremes, I would say, that are very worried about the risks andfocus mostly on those. And then there are others that are, you know, saying there's nothing to worry about. You know, I'm not in either of those camps, really. I think that there's a lot of unknowns is what I would say. So, I'm not actually -- I'm actually very optimistic we're going to solve the problems given enough time and enough smart people working on it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:30:00",
+      "speaker": "STEWART",
+      "sentences": "A.I. is taking the prize for physics and chemistry in terms of the Nobel Prize. Do you think you'll ever get the Peace Prize?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:30:00",
+      "speaker": "HASSABIS",
+      "sentences": "I don't -- I can't see how that could be possible anytime soon, but, you know, you never say never.(END VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:35:00",
+      "speaker": "ASHER",
+      "sentences": "All right. Welcome back to \"First Move\" with a look at more international headlines this hour. The Prince and Princess of Wales havemade a surprise visit to Southport in North West England. They met with families of three girls killed in a knife attack this summer. The visit marks their joint engagement -- or rather their first joint engagement, since Princess Catherine completed her chemotherapy treatment for cancer. They also met with the met with emergency services at the Southport Community Center to show their support as well. And it is a historic day for South Korea. Writer Han Kang has won the Nobel Peace -- Nobel Prize, rather, for Literature. She's the first South Korean to win the prize. She's also the first female Nobel laureate so far this year. Han is best known for her novel, \"The Vegetarian,\" which came out in 2007. And to the Middle East now where Lebanese officials say that at least 22 people were killed following Israeli airstrikes in Central Beirut. Witnesses say one of the strikes leveled a residential building. More than 100 people were injured according to the ministry of health from Lebanon. Ben Wedeman reports. (BEGIN VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:40:00",
+      "speaker": "ASHER",
+      "sentences": "All right. Still to come off the break, as Milton melts away into the Atlantic Ocean, Floridians are left to pick up the pieces. After thebreak, finding ways to keep the lights on with more Americans turning to backup power generators. (COMMERCIAL BREAK)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:40:00",
+      "speaker": "ASHER",
+      "sentences": "All right. Welcome back to \"First Move.\" You're looking at Tampa transformed. Road pretty much turned into lakes, cars stranded, thevulnerable left in need of help. In Punta Gorda, Florida, a tennis court became the unconventional resting place for a yacht, as you can see, these images here. Now, a post-tropical storm Milton has moved offshore, but the danger itself has, of course, not passed. Flooding remains a threat as rivers continue to swell. Nearly 3 million people are without power. And many airports at this point in time still remain closed. Randi Kaye has more. (BEGIN VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:40:00",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "It's really hard to see. It's kind of spooky to see all the damage.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:40:00",
+      "speaker": "RANDI KAYE, CNN CORRESPONDENT",
+      "sentences": "Hours after Hurricane Milton moved off the Coast of Florida, Floridians are surveying the extensive damage across thestate. There were a number of confirmed dead in St. Lucie County, over 100 miles from where the storm made landfall following tornadoes. MICHAEL BRENNAN, DIRECTOR, U.S. NATIONAL HURRICANE CENTER:  The tornadoes we saw develop yesterday in Milton were really kind of supercharged compared to the typical tornadoes you see in a hurricane environment. KAYE (voice-over):  New drone footage shows Milton's destruction on the West Coast of Florida, where the hurricane made landfall as a Category 3 storm. The storm's monstrous winds ripping the roof of Tropicana Field in St. Petersburg to shreds. And downing several cranes in downtown St. Petersburg. AMADOU DIOP, LIVES IN ST. PETERSBURG, FLORIDA:  Things can be replaceable, but life cannot. KAYE (voice-over):  In Fort Myers, Robert Haight says he got his pregnant wife and kids to a safe spot just moments before a tornado bore down on them.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:40:00",
+      "speaker": "ROBERT HAIGHT, TORNADO VICTIM IN FORT MYERS, FLORIDA",
+      "sentences": "I saw the tornado coming. I yell for my wife to look at it, it's cool. Kid and wife come lookat it. Started to close, hit the trees. And we all started going for the hallway. Didn't even make it there in time, started, toot, toot. And I heard a piece of glass crack, and it sucked the whole roof off, and I felt the thing sucking me up, and I grabbed my kid and my wife, and hunkered down. KAYE (voice-over):  Another Fort Myers homeowner says the storm ripped his matter of minutes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:45:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "I don't know what to say. It's a lot. Born and raised, I've never seen anything like this.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:45:00",
+      "speaker": "BILL FORQUER, LIVES IN VENICE, FLORIDA",
+      "sentences": "With Helene, for the first time, we had storm surge and took on water in the 20 bottom units. Now, withMilton here we've lost brand-new carports. Our dock is destroyed. KAYE (voice-over):  While many evacuees are hoping to soon return home, hard-hit Sarasota's chief of emergency management is urging people to hold on a little longer.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:45:00",
+      "speaker": "SANDRA TAPFUMANEYI, EMERGENCY MANAGEMENT CHIEF, SARASOTA COUNTY, FLORIDA",
+      "sentences": "Still dangerous out there. So, we're asking for residents just to stay put.You know, we know a lot of people evacuated, which we appreciate, but we just need some time to clear everything so that it's safe for them to return. (END VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:45:00",
+      "speaker": "ASHER",
+      "sentences": "Nearly 3 million people are without power across Florida. For those running their own standby generators, the lights are staying on. Accordingto Generac Power Systems, demand is growing for these generators as consumers take control of their energy needs. Generac says more frequent extreme weather events, along with rising demand for electricity from technologies such as A.I. and electric vehicles are taking a toll on an aging power grid. Aaron Jagdfeld is the company's chairman, president, and CEO. Aaron, thank you so much for being with us. Just, first of all, let's start with what sort of impact does multiple hurricanes back-to-back have on grid reliability?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:45:00",
+      "speaker": "AARON JAGDFELD, PRESIDENT AND CEO, GENERAC POWER SYSTEMS",
+      "sentences": "Yes, thanks for having me on. You know, and obviously, the images are horrible and we --our hearts go out to the people that are actually going through this tragedy. You know, both Helene and now here with Milton. And this has become the new norm. You know, I think when you look at the severe weather patterns we have, the extremities of weather that have been taking place here is over 100 days this year in total in Phoenix that are over 100 degrees. You've got rapid intensifications of storms like Milton. In 24 hours, it went from a tropical storm to a Cat 5 hurricane. And, you know, this is putting just tremendous pressure on the grids. Almost 70 percent of all outages are caused by some kind of weather event and the greater extremities that we go through with weather, the more we're going to see these types of outages.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:45:00",
+      "speaker": "ASHER",
+      "sentences": "Right. So, you have more outages. You -- you know, we now have, obviously, more hurricanes because of climate change, and that obviouslymeans there's a lot more interest in generators. What does that mean for you guys in terms of making sure there's enough with the supply?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:45:00",
+      "speaker": "JAGDFELD",
+      "sentences": "Yes, I think it's -- so, the supply side of it, you know, we can -- we'll figure out how to build more products as people continue to findinterest in these categories. I think it is interesting, though, you know, the power outages themselves are -- you know, if you think back at 20, 30 years ago, you have an outage in your home and, you know, it's certainly an inconvenience. But today, so much of our lives is centered around having a continuous source of power. And in particular now, you know, after coming out of the pandemic and the kind of the new way that we work today and more of a hybrid type of format where we're spending at least some time in our homes doing some amount of work, you know, it's impacting livelihoods as well as -- you know, as well as just being an inconvenience. And you put together with that, also, you know, the need to refrigerate medications. You've got home medical devices. You know, it's a pretty serious situation when you don't have power. So, we just have seen a marked interest in these types of products over the last couple of decades.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:45:00",
+      "speaker": "ASHER",
+      "sentences": "Yes. I mean, I think you bring up a great point about working from home, meaning that people depend on generators in place like Florida morethan they ever did before. So, in terms of preparing for the storm, I mean, obviously, you know, a lot of people, I'm sure, would go out prior to the storm, trying to get their hands on a portable generator because they have no idea what's going to happen. How were you guys able to get enough portable generators on the shelves in anticipation of the storm?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:45:00",
+      "speaker": "JAGDFELD",
+      "sentences": "Yes, it really does start with those portable generators. You're right. I mean, we try to position product in markets, you know, ahead ofstorms, which we successfully were able to do with Helene and Milton. Beryl was a little bit tougher. We didn't have a lot of lead time that was going to hit the city of Houston. It kind of took a track that wasn't forecasted. But when we have a decent forecast, we have several days, we work with our retail partners and others to try and preposition that product. And then, of course, once an event hits, it's very difficult for us to get more product into a market until it's safe, until it's safe for, you know, drivers and people to return to retail outlets on. And now, you know, we've got over 3 million homeowners in Florida, they were without power and likely are going to be without power for the next several days. So, we're working to get more product down there as conditions improve. But then they'll switch to home standby generators. You know, people who want a more permanent solution, something that turns on automatically, works off of the home's fuel system. You know, those are products that have become quite popular as kind of a home improvement project and they just have a lot more utility and value than a portable.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:45:00",
+      "speaker": "ASHER",
+      "sentences": "All right. Aaron Jagdfeld of Generac Power Systems, thank you so much for being with us. Appreciate it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:50:00",
+      "speaker": "ASHER",
+      "sentences": "All right. Still to come, the King of Clay calls it a day. Rafa Nadal announces his retirement from tennis. We'll look back at hisillustrious career. (COMMERCIAL BREAK)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:50:00",
+      "speaker": "ASHER",
+      "sentences": "All right. The biggest names in tennis are all paying tribute to Rafael Nadal, who has announced his upcoming retirement at the age of 38,known as the King of Clay, Nadal has won 22 Grand Slam titles and a lasting place in tennis history. Patrick Snell has more on Nadal's incredible career. (BEGIN VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:50:00",
+      "speaker": "PATRICK SNELL, CNN WORLD SPORT",
+      "sentences": "Rafael Nadal sealed his first Grand Slam title at just 19, winning the French Open on his favorite clay courtsurface in 2005. The first of a record 14 men's singles crowns at Roland Garros, where even his greatest rivals had the utmost respect for him.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:50:00",
+      "speaker": "ROGER FEDERER, PROFESSIONAL TENNIS PLAYER",
+      "sentences": "It was not clay my problem. I think it was Rafa my problem.SNELL (voice-over):  His last Grand Slam triumph came in 2022, fittingly, again at Roland Garros. Nadal overcoming debilitating pain in his foot to beat Norway's Casper Ruud and bite into the famed Coupe des Mousquetaires one last time. RAFAEL NADAL, 22-TIME GRAND SLAM CHAMPION:  In some way, I know I am in an important part of the history of the sport, you know, and that makes me feel proud, happy. SNELL (voice-over):  Throughout his career, Nadal battled a series of foot, knee, and wrist injuries. Setbacks that helped shape perspectives when he was fit and healthy.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:50:00",
+      "speaker": "NADAL",
+      "sentences": "It's true that when you are coming back after the low moments, victories are more special, more emotional. But I always know that that'snot forever. SNELL (voice-over):  Nadal, Djokovic, and Swiss legend Roger Federer thrilled fans during an unprecedented golden era of dominance for the sport's big three.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:50:00",
+      "speaker": "NADAL",
+      "sentences": "We did beautiful things together and important things for our sport. And in terms of professional tennis career, I think we push eachother to be better. SNELL (voice-over):  And nobody who saw Nadal's classic 2008 Wimbledon final victory against Federer will ever forget it. An epic five-set marathon regarded as one of the greatest matches ever played. There were the emotional moments too, as Nadal shared with CNN in 2010, after injury problems and the end of his parents' marriage a year earlier forced him to take a break from the sport.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:50:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Did you ever doubt that you were going to make that comeback? How hard did you work?",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

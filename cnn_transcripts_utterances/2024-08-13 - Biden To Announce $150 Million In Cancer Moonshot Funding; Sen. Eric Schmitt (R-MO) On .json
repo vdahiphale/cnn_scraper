@@ -1,0 +1,685 @@
+{
+  "date": "2024-08-13",
+  "headline": "CNN News Central",
+  "subHeadline": "Biden To Announce $150 Million In Cancer Moonshot Funding; Sen. Eric Schmitt (R-MO) On Trump's Claims That Harris Candidacy Could Be Unconstitutional; Putin Vows \"Strong Response\" To Ukrainian Incursion. Aired 7:30-8a ET",
+  "utterances": [
+    {
+      "timeStamp": "07:30:00",
+      "speaker": "KATE BOLDUAN, CNN ANCHOR",
+      "sentences": "Today, President Biden and first lady Jill Biden are heading to New Orleans where the president will be announcing $150 million in new federal funding for cancer research treatment and prevention. This is part of what has been dubbed Joe Biden's Cancer Moonshot initiative. And this will be Biden's first official travel since he ended his re-election bid.CNN's Kevin Liptak is at the White House, and he has more on this for us. Kevin, the Cancer Moonshot initiative -- this is personal for President Biden as well.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:30:00",
+      "speaker": "KEVIN LIPTAK, CNN SENIOR WHITE HOUSE REPORTER",
+      "sentences": "Yeah, it really is. And this event today really does give you a good indication of how President Biden plans to spend the remainder of his term, really zeroing in on these items that are so important to him.Remember, this Cancer Moonshot he actually began when he was vice president following the death of his son Beau Biden from a particularly aggressive form of brain cancer. He revived it when he returned to the White House and he has made the goal of cutting cancer deaths in half in 25 years, which is an ambitious goal, but experts say it's achievable with the right resources behind it. And that is exactly what President Biden will be doing today in New Orleans. He'll tour a medical facility at Tulane and announce $150 million in new research initiatives trying to develop technologies that would allow surgeons to develop procedures that would better remove tumors from cancer patients. It's part of an initiative that he put together with Republicans and Democrats at the Department of Health and Human Services, and it's all part of what he has called this unity agenda, trying to find areas where Republicans and Democrats can agree. And certainly, the Cancer Moonshot is one of those things. I think this is certainly something that President Biden will want to talk a lot about in the months ahead in this reshaped version of his presidency. Of course, he's no longer campaigning for president. Now he really does want to focus on things that will comprise his legacy, and this is one of those. His aides have really kind of been recalibrating what he will be working on for the next several months. Part of what he's trying to do is ensure that these initiatives have money going out the door in order to fund them, and this is certainly one of them. He'll obviously also be focused on foreign policy -- the war in the Middle East, the biggest item there. And he will also be focused on helping Kamala Harris get elected. We will see the pair of them out on the road this week in Maryland talking about the economy, Kate.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:30:00",
+      "speaker": "BOLDUAN",
+      "sentences": "Yeah, and there's a -- it's going to be a big moment for both of them.Great to see you, Kevin. Thank you -- Sara.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:30:00",
+      "speaker": "SARA SIDNER, CNN ANCHOR",
+      "sentences": "All right. Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:30:00",
+      "speaker": "LIPTAK",
+      "sentences": "Sure.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:30:00",
+      "speaker": "SIDNER",
+      "sentences": "This morning, Donald Trump and Elon Musk's big late-night chat generating some buzz because of what was not said -- nothing for more than 40 minutes. A major tech glitch delayed the start and stole some of the thunder from what Trump and Musk were finally able to say, which felt a lot like a budding bromance -- listen.(BEGIN VIDEO CLIP) DONALD TRUMP, (R) PRESIDENTIAL CANDIDATE:  Not all endorsements mean that much, to be honest. Your endorsement meant a lot.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:30:00",
+      "speaker": "ELON MUSK, CEO, TESLA, SPACEX, AND OWNER, X",
+      "sentences": "I haven't been active -- been really active in politics before and I'm just trying to point out that my track record historically has been moderate, if not moderate slightly left. And, uh, so this is to people out there who are in the moderate camp to say I think you should support Donald Trump for president.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:30:00",
+      "speaker": "SIDNER",
+      "sentences": "All right. CNN media analyst Sara Fischer joining us now.First, let's get to the glitch. Musk blamed a combination of DDoS attack and some unforced errors from X. Can you explain exactly what happened there and what this DDoS attack is?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:30:00",
+      "speaker": "SARA FISCHER, CNN MEDIA ANALYST",
+      "sentences": "Yes. So DDoS stands for Distributed Denial of Service attack. Essentially, when somebody floods your system in order to shut it down. The problem with the DDoS attack, Sara, is that it often looks very much like just a very popular event. And so, we're just sort of having to take Musk's word for it. There has been third-party reporting that suggests it wasn't a DDoS attack; it was just X's systems responding to a flood of interest in this interview. But that actually speaks to some of the success of this interview,right? It was 40 minutes of delay of glitches but once it got up and running you had -- I saw over two million people joining the space live. You had over 50 million people who viewed it. Now, views are not the same as how we count them in television, but it still got a lot of traction. And I think part of that was because people wanted to hear from the president. I think the other part is people like listening to this bromance go down. You know, Elon Musk isn't a journalist. He's not trying to press him on hard questions. And you did see some sparks fly in that conversation. At one point, the president sort of suggesting that Elon must come and join his administration. We'll see where that goes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:30:00",
+      "speaker": "SIDNER",
+      "sentences": "Let's go ahead and listen to that moment where it feels like a little quid pro quo. Hey, come on my show. I'm not going to ask you a bunch of hard questions. And then maybe -- this is what Trump says about Elon Musk joining his administration.(BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:30:00",
+      "speaker": "TRUMP",
+      "sentences": "Well, you, you're the greatest cutter. I mean, I look at what you do. You walk in and you just say, you want to quit?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:30:00",
+      "speaker": "MUSK",
+      "sentences": "Yeah.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:30:00",
+      "speaker": "TRUMP",
+      "sentences": "They go on strike. I won't mention the name of the company, but they go on strike. And you say that's OK, you're all gone. You're all gone. So every one of you is gone.And you are the greatest. You would be very good. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:30:00",
+      "speaker": "SIDNER",
+      "sentences": "\"You would be very good.\" And he's talking about, right, when Elon Musk bought Twitter and fired a bunch of people.What do you make of this relationship that is clearly budding, and whether or not you really could see Donald Trump saying hey, there's position for you here, Elon?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:06",
+      "speaker": "SIDNER",
+      "sentences": "I want to read to you what the Harris campaign said in response to all of this, especially that back-and-forth where someone's saying maybe I'd be good for the job and the other guy is saying hey, yeah.\"Trump's entire campaign\" -- this is from the Kamala Harris group -- \"is in the service of people like Elon Musk and himself -- self- obsessed rich guys who will sell out the middle class and who cannot run a livestream in the year 2024.\" What do you make of that message?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:06",
+      "speaker": "FISCHER",
+      "sentences": "Yeah, that's how they're going to try to frame all of Donald Trump's support coming from Silicon Valley, right? Oh, it's just the PayPal mafia. Oh, it's just billionaires.But Sara, the problem is that not a lot of people see it that way. People see Elon Musk -- a lot of people -- as giving a voice to the masses. As being more populist. People see Donald Trump as being more populist. And so even if the Harris campaign is going to try to convince people that this is just billionaires having fun, I think a lot of people saw it as just two regular people who are friends. That's how the American people might be looking at this.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:06",
+      "speaker": "SIDNER",
+      "sentences": "Sara Fischer, thank you so much for your analysis this morning. I appreciate your time -- John.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:06",
+      "speaker": "JOHN BERMAN, CNN ANCHOR",
+      "sentences": "All right, joining us now is Sen. Eric Schmitt, a Republican from Missouri. Senator, Great to see you this morning.One of the things that Donald Trump told Elon Musk last night was that the Democrats changing their nominee was tantamount to a coup. And last week at his news conference he called it borderline unconstitutional -- listen. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:06",
+      "speaker": "TRUMP",
+      "sentences": "But the fact that you can be -- get no votes, lose in the primary system, and that you can then be picked to run for president, it seems -- it seems to me actually unconstitutional.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:06",
+      "speaker": "BERMAN",
+      "sentences": "So, Senator, when you were attorney general in Missouri you filed election-related lawsuits, so you know the law here.What exactly, in this case, would you say would be unconstitutional? SEN. ERIC SCHMITT (R-MO) (via Webex by Cisco):  Well, I think the main point is it's completely undemocratic for the so-called Democratic Party.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:06",
+      "speaker": "BERMAN",
+      "sentences": "That's different than being unconstitutional, though. That's different than being unconstitutional. I'm sorry, do you think --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:06",
+      "speaker": "SCHMITT",
+      "sentences": "Sure, but --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:06",
+      "speaker": "BERMAN",
+      "sentences": "-- there's anything that's unconstitutional?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:06",
+      "speaker": "SCHMITT",
+      "sentences": "Right. I'm going to have to look more closely at that, but I think there are -- I think probably their superdelegates -- they've kind of rigged this system before when they were trying to thwart Bernie Sanders. This is really nothing new for the Democratic Party to sort of avoid the will of their own folks who voted.Nobody voted for Kamala Harris. And by the way, when she ran in 2020, I don't even think she got, like, six percent of the vote. Now, all of a sudden, she is the second coming and the mainstream media is sort of doing this coronation. And they'll cut -- reach its apex next week at their convention. But when that's all said and done and this honeymoon period is over, the American people are going to be left with a choice. Are they better off now than they were four years ago? And Kamala Harris has her fingerprints all over the destruction that we've had, whether it's the southern border or inflation. So I do think it's odd -- it's strange, honestly, how they got to this point. You know, right before the debate they were saying his mental acuity was great then all of a sudden, they dumped him. So, you know, it is what it is. We -- now we have the matchup, and I still feel confident in President Trump.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:06",
+      "speaker": "BERMAN",
+      "sentences": "Do you feel that it would be grounds for a lawsuit if she were to win the election in November?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:06",
+      "speaker": "SCHMITT",
+      "sentences": "I don't know about that. I think, honestly, our focus is just to make sure we win at the ballot box. And it is -- but anybody with a brain who is observing what happened understands --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:06",
+      "speaker": "BERMAN",
+      "sentences": "Would you --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:06",
+      "speaker": "SCHMITT",
+      "sentences": "-- there was a --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:06",
+      "speaker": "BERMAN",
+      "sentences": "Would you --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:06",
+      "speaker": "SCHMITT",
+      "sentences": "-- coup in the sense that Joe --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:06",
+      "speaker": "BERMAN",
+      "sentences": "Well, if it was a coup, then --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:06",
+      "speaker": "SCHMITT",
+      "sentences": "Well listen, Joe Biden --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:06",
+      "speaker": "BERMAN",
+      "sentences": "Would you rule it out? Would you rule out a lawsuit if Trump loses in November?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:06",
+      "speaker": "SCHMITT",
+      "sentences": "No, that's not -- no, that's not what -- that's not what I'm talking about. What I'm -- what I'm talking about is avoiding the will of tens of millions of voters, which is exactly what the Democrats did. They all voted for Joe Biden. Nobody voted for Kamala Harris. And so now they're going roll into this convention and install her as the nominee because his poll numbers were bad.So you talk about -- look, the Democrats have tried to jail their political opponents. They've tried to censor Americans. They're trying to convert 10 million people -- illegal immigrants into voters. Now they've installed someone who didn't get any votes. That's the real threat to democracy, John, and anybody who is observing this and is honest about it can see it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:06",
+      "speaker": "BERMAN",
+      "sentences": "I'm just trying to establish whether or not this might be a predicate for a future lawsuit. Because let's be honest, there is a history here and history you were involved with challenging election results. And I'm not sure whether you've ruled it in or out at this point, correct?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:00",
+      "speaker": "BERMAN",
+      "sentences": "I want to ask you because you were involved in helping prep Donald Trump for the debate in June on CNN. If you are going to be involved in prepping him for the September 10 debate against Vice President Harris, how do you think you would prepare him differently?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:00",
+      "speaker": "SCHMITT",
+      "sentences": "Well, those were policy discussions that I had and was honored to do so. I do think as he rolls into this we'll see if Kamala Harris actually agrees to multiple debates. She has refused now over three weeks to do any interviews, even on CNN or MSNBC or wherever that you might have a more friendly host. She doesn't do that.And so I think what you guys led into the X interview with Elon Musk yesterday -- that was an hour and a half discussion. I am confident Kamala Harris could not talk about policy coherently for an hour and a half. The American people deserve that. So I think when they roll into that debate focusing on the issues. We talk about struggling families. They're paying more at the pump. They're paying more at grocery stores. So I think obviously, tying her to her record, she was more liberal than Bernie Sanders. She was the tiebreaking vote for the American Recovery Act and the Inflation Reduction Act, which was $2.4 billion -- trillion dollars -- trillion dollars in spending. Budget-busting stuff. She's for the Green New Deal. Her record is very liberal. And then, in her first major decision, John, she chose a self-avowed socialist as her running mate. That's not really in step with real America.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:00",
+      "speaker": "BERMAN",
+      "sentences": "Um, a socialist?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:00",
+      "speaker": "SCHMITT",
+      "sentences": "Well, I think he said socialist is another term for neighborly, so I don't know what you call that. He seems to identify as a socialist.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:00",
+      "speaker": "BERMAN",
+      "sentences": "I'm not -- I'm not -- I'm not so sure about that, Senator.But you said that you're not sure that Vice President Harris would be coherent in an interview. Did you watch former President Trump's news conference last week? Would you characterize one of the first words that comes to mind be coherent?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:00",
+      "speaker": "SCHMITT",
+      "sentences": "I think his ability to stand in front of the hostile media and answer questions for over an hour is something I would love to see Kamala Harris try to do.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:00",
+      "speaker": "BERMAN",
+      "sentences": "No question --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:00",
+      "speaker": "SCHMITT",
+      "sentences": "But she won't do it --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:00",
+      "speaker": "BERMAN",
+      "sentences": "But, what I --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:00",
+      "speaker": "SCHMITT",
+      "sentences": "-- and there's a reason why.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:00",
+      "speaker": "BERMAN",
+      "sentences": "But hang on -- hang on, Senator.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:00",
+      "speaker": "SCHMITT",
+      "sentences": "Because her record --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:00",
+      "speaker": "BERMAN",
+      "sentences": "We like to ask questions --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:00",
+      "speaker": "SCHMITT",
+      "sentences": "-- her record, John, is indefensible.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:00",
+      "speaker": "BERMAN",
+      "sentences": "We'd like to ask -- we would absolutely like to ask her questions.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:00",
+      "speaker": "SCHMITT",
+      "sentences": "Yeah, really, and I'm on your show right -- listen --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:00",
+      "speaker": "BERMAN",
+      "sentences": "And I respect it. I respect it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:00",
+      "speaker": "SCHMITT",
+      "sentences": "I'm sure you would, but she hasn't done it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:00",
+      "speaker": "BERMAN",
+      "sentences": "But when you're -- but Donald Trump -- but Donald Trump, when he tells stories about people in helicopters that he was not with -- helicopters that did not crash and conversations that did not happen, how coherent is that?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:00",
+      "speaker": "SCHMITT",
+      "sentences": "Again, he's the only candidate running for President of the United States willing to stand in front of the media and answer questions. Kamala Harris refuses to do it. And, you know, she's got a Time magazine cover that came out today. She refused to do the interview for the puff piece.So I think they're very afraid that once she's actually exposed -- and John, actually, I would liken it to this. I think this is where we're at. It's like the backup quarterback, right? The backup quarterback seems like it might be a better option until the backup quarterback gets into the game and then you realize why it's the backup quarterback. So we're about ready to enter that phase I think where Kamala Harris steps onto the field. We'll see, though. Maybe she'll avoid it for another month.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:00",
+      "speaker": "BERMAN",
+      "sentences": "Yeah. All I can say, Senator, is that I'm from New England and I'm a Patriots fan, and backup quarterbacks have a decent history there if you harken back to 2001.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:00",
+      "speaker": "SCHMITT",
+      "sentences": "That worked out.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:00",
+      "speaker": "BERMAN",
+      "sentences": "It can work out from time to time.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:00",
+      "speaker": "SCHMITT",
+      "sentences": "I don't think she's Tom Brady, though.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:00",
+      "speaker": "BERMAN",
+      "sentences": "All right. Senator --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:00",
+      "speaker": "SCHMITT",
+      "sentences": "Yeah, I don't think she's Tom Brady.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:00",
+      "speaker": "BERMAN",
+      "sentences": "I look forward to continuing this conversation, Senator. It's been great having you on. Thank you -- Kate.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:00",
+      "speaker": "BOLDUAN",
+      "sentences": "We do have some breaking news overnight. Russian President Vladimir Putin is now vowing to respond, threatening and promising to hit back hard after Ukrainian forces seized dozens of -- dozens of Russian villages over the last week.Twenty-eight settlements in the Kursk region are now under Ukrainian control. Videos have come out over the past few days showing Ukrainian troops and forces taking down Russian flags in those villages, replacing them with Ukrainian flags. Its own forces -- Ukraine's forces marching miles across the Russian border in this surprise operation. CNN's Clare Sebastian has the very latest on this for us and she's joining us now. Clare, what is -- what are you learning?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:04",
+      "speaker": "VLADIMIR PUTIN, RUSSIAN PRESIDENT",
+      "sentences": "Listen, Alexey Borisovich. This is something you report to military agencies what the width and depth is. You tell us about the social economic situation and aid for the people.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:04",
+      "speaker": "SEBASTIAN",
+      "sentences": "So you heard in there actually interrupting the acting head of the Kursk region as he tried to explain how much territory is currently held or occupied -- however you want to call it -- by Ukraine. Obviously, this is Putin trying to show that he's in control while also not playing this as too big of an incident because of the humiliation, of course, of this being the first time that a foreign power has held any part of Russian territory since the Second World War -- Kate.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:04",
+      "speaker": "BOLDUAN",
+      "sentences": "That historical context very key here.It's great to see you, Clare. Thank you so much -- Sara.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:04",
+      "speaker": "SIDNER",
+      "sentences": "What a moment that was.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:04",
+      "speaker": "BOLDUAN",
+      "sentences": "Right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:52",
+      "speaker": "SIDNER",
+      "sentences": "Scorching temperatures are hitting across the country, but large cities seem to be feeling this the most.CNN chief climate correspondent Bill Weir is with us now to share his newest reporting. Boy, it's been hot.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:52",
+      "speaker": "BILL WEIR, CNN CHIEF CLIMATE CORRESPONDENT",
+      "sentences": "It has. You've been feeling it? Yeah.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:52",
+      "speaker": "SIDNER",
+      "sentences": "What have you found nationally?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:52",
+      "speaker": "WEIR",
+      "sentences": "It's really interesting. Everybody feels things are getting hotter anecdotally. But we did the data and looked at the 50 biggest cities in the United States and added up all the days 95 degrees or hotter -- 95 degrees Fahrenheit. We know those are the days you usually think well, that's when summer starts --the first really --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:52",
+      "speaker": "SIDNER",
+      "sentences": "Right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:52",
+      "speaker": "WEIR",
+      "sentences": "-- hot day of the year. We're getting a lot more of them. We're getting them a lot sooner -- earlier.Check this out. Back in '76, there were just over 1,000 days over 95 degrees in the 50 biggest cities. We have added another 800 days to that list over time, as you can see that bar graph trending up here. But here is how the graphics -- here's why the summers are getting longer. They're starting about 10 days earlier.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:52",
+      "speaker": "SIDNER",
+      "sentences": "Yeah.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:52",
+      "speaker": "WEIR",
+      "sentences": "You can get that first scorching hot day in mid-June now instead of late June. It can last all the way until mid-September these days. So, summer is lengthening. This is nationally, though, for the biggest cities.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:52",
+      "speaker": "SIDNER",
+      "sentences": "OK, you said 1,000 plus 800 now. It's almost double.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:52",
+      "speaker": "WEIR",
+      "sentences": "Exactly.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:52",
+      "speaker": "SIDNER",
+      "sentences": "Wow.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:52",
+      "speaker": "WEIR",
+      "sentences": "Exactly.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:52",
+      "speaker": "SIDNER",
+      "sentences": "All right. There are specific, though, cities that are really --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:52",
+      "speaker": "WEIR",
+      "sentences": "Really.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:52",
+      "speaker": "SIDNER",
+      "sentences": "-- feeling it the worst.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:52",
+      "speaker": "WEIR",
+      "sentences": "Exactly. And we look at cities because it's the urban heat island. It's all that heat bouncing off concrete, streets, buildings, and those sorts of things which can make them 20 degrees hotter. But you look at the cities in the deserts out West -- the ones that are really feeling it are in Nevada, Texas. Look at Las Vegas, now 83 days above 95 degrees. That's an extra 17 1/2 over the average from the past there.San Antonio, Texas -- this is crazy. In 1976, they experienced one week of extreme heat. By last year, it was 13 weeks --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:52",
+      "speaker": "SIDNER",
+      "sentences": "Wow.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:52",
+      "speaker": "WEIR",
+      "sentences": "-- an increase of 1,200 percent there.Nashville has also jumped up. Jacksonville, Florida. Atlanta is now getting 14 days -- two weeks above 95 degrees. The others in the top 10, D.C., Baltimore. We've seen a lot of heat there this summer. Charlotte and even Albuquerque out there. And then if you look at the number of days 95 degrees and hotter -- how it's jumped. Arizona is really feeling it. You saw our piece from a couple of weeks ago how they're now carrying body bags full of ice in every ambulance in Phoenix. Mesa is up there. Tucson has exploded. But that line from San Antonio -- talk about --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:52",
+      "speaker": "SIDNER",
+      "sentences": "Right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:52",
+      "speaker": "WEIR",
+      "sentences": "-- heat adaptation when you're not used to 13 weeks over 95 degrees.You just build a city and a society differently. So lessons for managers everywhere that this is here.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:52",
+      "speaker": "SIDNER",
+      "sentences": "You know, we say oh, it's summer -- it's hot. But this is scorching. This is dangerous heat. I think anything over, like, 85 is -- your body can just not handle it if you're outside for too long of a period, right?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:52",
+      "speaker": "WEIR",
+      "sentences": "And anything over 103 or so, your brain is literally cooking. Your organs are failing. So the most vulnerable folks -- the old, the young, the unhoused, folks struggling with addiction -- these are the folks who are dying as a result of this heat.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:52",
+      "speaker": "SIDNER",
+      "sentences": "That's really, really disturbing.Bill Weir, thank you so much.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:52",
+      "speaker": "WEIR",
+      "sentences": "You bet.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:52",
+      "speaker": "SIDNER",
+      "sentences": "I appreciate it -- Kate.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:52",
+      "speaker": "BOLDUAN",
+      "sentences": "So, a vocal critic of Vladimir Putin and survivor of two assassination attempts, Vladimir Kara-Murza is now home, part of the largest U.S.-Russia prisoner swap exchange since the Cold War. He spoke to CNN's Erin Burnett last night for the first time since his release.(BEGIN VIDEO CLIP) VLADIMIR KARA-MURZA, RUSSIAN OPPOSITION POLITICIAN:  They said that I had 10 minutes to get up, get dressed, and get ready. And I was absolutely certain at that moment that I was going to be -- that I would get executed. For these past two weeks, frankly, it felt as if I'm watching some sort of a film. I mean, it's a really good film but it still feels completely surreal. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "BERMAN",
+      "sentences": "All right. This morning, Axios is reporting that Donald Trump has added a weekend rally in Pennsylvania -- just more proof about how important the Commonwealth could be in the 2024 election.CNN's John King went to the suburbs there for his series \"All Over the Map\" to hear from moderate Republicans. (BEGIN VIDEOTAPE) JOHN KING, CNN ANCHOR AND CHIEF NATIONAL CORRESPONDENT (voiceover): Bucks County, Pennsylvania -- this covered bridge a local treasure. Michael Pesce often stops along the trail here to fish and to think. Not a great time to be a Reagan Republican. Pesce supported Nikki Haley but won't vote for Donald Trump, ever. And he sees Kamala Harris as more liberal than he would like.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "MICHAEL PESCE, PENNSYLVANIA VOTER",
+      "sentences": "I have doubts about her. She's going to be tied to the Biden record regardless of what she says or what she does.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "KING",
+      "sentences": "Does it impact your calculation for what you do? PESCEKING (voiceover):  Every vote counts, though, enthusiastic or not. Big margins in the suburbs around Philadelphia are critical for Democrats. Bucks is more blue-collar and of late, the most competitive of the collar counties.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "KING",
+      "sentences": "If I were here the day after the debate and I asked you do you think Biden is going to win Pennsylvania, you would have said?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "PESCE",
+      "sentences": "No way. There would have been no way.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "KING",
+      "sentences": "Do you think Harris can win Pennsylvania?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "PESCE",
+      "sentences": "I think she can. I think she can. I think the energy she's brought to the campaign and the fact that she's a woman and women's right are going to be a big deal here in Pennsylvania -- and I think that's kind of where Pennsylvania will go.KING (voiceover):  Berks County is more rural and more Trumpy, just outside the suburban collar. But margins matter everywhere in the battlegrounds. Joan London is an attorney for local government.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "JOAN LONDON, PENNSYLVANIA VOTER",
+      "sentences": "Bloom Farm zoning permit status. We had a meeting this morning -- a very productive meeting.KING (voiceover):  London cast her primary vote for Haley then switched her registration to Independent. She worries about Trump's coarse tone and what she sees as angry populism. A new worry since our last visit in May, Trump running mate J.D. Vance. No cats, but married and childless, now even more proud she left the GOP.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "LONDON",
+      "sentences": "I've led a very full life that way and to say I don't have a stake in the future of the country, I had some difficulty with that. And all I could think of was Sen. Vance, are you going to tell Ann Coulter, or Condoleezza Rice, or Elizabeth Dole they're miserable cat ladies? I don't -- I don't think so.KING (voiceover):  London plans to write in a conservative, but she leaves the Harris window open just a crack.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "LONDON",
+      "sentences": "If Donald Trump or J.D. Vance really says something so outrageously offensive, that could drive me to vote for Vice President Harris, but it's highly unlikely. She just doesn't -- she doesn't represent my values, my beliefs about policy.KING (voiceover):  Media is in Delaware County. Cynthia Sabatini knows a lot about the change here.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "CYNTHIA SABATINI, PENNSYLVANIA VOTER",
+      "sentences": "My street was rock-ribbed Republican. Now you have to shake a stick to find a Republican. KING (voiceover)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "SABATINI",
+      "sentences": "And I watch his campaign rallies. It's all about him. It's not about the country.KING (voiceover):  This is now the third campaign in which these never-Trump voters hold significant sway. In 2016, Sabatini wrote in a Republican senator. Trump narrowly won Pennsylvania. In 2020, she voted for Biden.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "KING",
+      "sentences": "Was that hard?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "SABATINI",
+      "sentences": "No, because I didn't want to see Trump elected after the chaos of the prior four years.KING (voiceover):  Sabatini says she's read things that worry her about Harris, about immigration policy and about being tough on her staff. Probably, another write-in this November. But the 2016 result still stinks.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "SABATINI",
+      "sentences": "I'm trying to keep an open mind about Harris if the rap on her, as I read, is correct.KING (voiceover):  Bala Cynwyd is in Montgomery County.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "CAROL CARTY, PENNSYLVANIA VOTER",
+      "sentences": "It was very Republican --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "KING",
+      "sentences": "But it's not anymore.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "CARTY",
+      "sentences": "-- when I was growing up and it's Democrat now.KING (voiceover):  Carol Carty is an attorney, a registered Republican. She's angry that Trump constantly attacks courts and judges, and election results.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "CARTY",
+      "sentences": "I'm now turning on '80s songs to go back to the '80s. In my lifetime, the Republican Party has changed with Donald Trump.KING (voiceover):  Clinton, 2016; Biden, 2020 -- a never-Trumper, she thought. But inflation and immigration soured her on Biden, and then she watched the June debate.",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

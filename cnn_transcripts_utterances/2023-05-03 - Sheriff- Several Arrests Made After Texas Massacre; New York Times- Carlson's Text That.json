@@ -1,0 +1,865 @@
+{
+  "date": "2023-05-03",
+  "headline": "CNN This Morning",
+  "subHeadline": "Sheriff: Several Arrests Made After Texas Massacre; New York Times: Carlson's Text That Alarmed Fox Leaders Revealed; Russia Launches New Wave Of Attacks Across Ukraine. Aired 7:30-8a ET",
+  "utterances": [
+    {
+      "timeStamp": "07:30:00",
+      "speaker": "ED LAVANDERA, CNN SENIOR NATIONAL CORRESPONDENT",
+      "sentences": "Did you -- is there any indication that he was about to leave this particular house and get on the move again?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:30:00",
+      "speaker": "CHIEF DEPUTY SHERIFF TIM KEAN, SAN JACINTO COUNTY, TEXAS",
+      "sentences": "Not when he was caught. I believe he thought he was in a safe spot.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:30:00",
+      "speaker": "REPORTER",
+      "sentences": "Has his wife said anything? Is she assisting in the investigation?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:30:00",
+      "speaker": "KEAN",
+      "sentences": "I can't talk about his wife right now.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:30:00",
+      "speaker": "REPORTER",
+      "sentences": "Can you talk about the kid? What is the (INAUDIBLE)? Did they see him outside on the property or how did that person know that he may be inside?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:30:00",
+      "speaker": "KEAN",
+      "sentences": "If you guys were out there this whole time, there was a flurry of activity on Highway 105 when we had about 30 vehicles and a helicopter go out there. We did confirm that was him on foot running but we lost track of him.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:30:00",
+      "speaker": "REPORTER",
+      "sentences": "So that was not a false alarm?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:30:00",
+      "speaker": "KEAN",
+      "sentences": "That was not a false alarm. That was him.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:30:00",
+      "speaker": "REPORTER",
+      "sentences": "When was that? On Monday?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:30:00",
+      "speaker": "KEAN",
+      "sentences": "I don't even know what day it is right now so it --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:30:00",
+      "speaker": "REPORTER",
+      "sentences": "It must have been Monday.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:30:00",
+      "speaker": "LAVANDERA",
+      "sentences": "That was Monday.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:30:00",
+      "speaker": "REPORTER",
+      "sentences": "By the landfill?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:30:00",
+      "speaker": "LAVANDERA",
+      "sentences": "Near the landfill?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:30:00",
+      "speaker": "KEAN",
+      "sentences": "When the schools got locked down it was that event, so if you were there you'll remember. It's all like one long day to me so I don't -- I don't remember.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:30:00",
+      "speaker": "REPORTER",
+      "sentences": "Were you at all surprised at how close he was? KEAN",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:30:00",
+      "speaker": "LAVANDERA",
+      "sentences": "Was he using his cell phone?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:30:00",
+      "speaker": "REPORTER",
+      "sentences": "Did you track his cell phone?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:30:00",
+      "speaker": "LAVANDERA",
+      "sentences": "Was he using his cell phone or --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:30:00",
+      "speaker": "REPORTER",
+      "sentences": "How -- what phone was he using?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:30:00",
+      "speaker": "KEAN",
+      "sentences": "He did have a cell phone.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:30:00",
+      "speaker": "LAVANDERA",
+      "sentences": "You must have picked that after --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:30:00",
+      "speaker": "KEAN",
+      "sentences": "He had another cell phone, yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:30:00",
+      "speaker": "REPORTER",
+      "sentences": "Like a burner phone.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:30:00",
+      "speaker": "KEAN",
+      "sentences": "I don't know yet.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:30:00",
+      "speaker": "REPORTER",
+      "sentences": "Is his wife one of the people arrested?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:30:00",
+      "speaker": "KEAN",
+      "sentences": "I can't go into that right now.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:30:00",
+      "speaker": "REPORTER",
+      "sentences": "Is he in this jail right now or is he still being brought in?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:30:00",
+      "speaker": "KEAN",
+      "sentences": "He's in this jail right now, probably having a hot breakfast when we aren't and we're out here talking about it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:30:00",
+      "speaker": "REPORTER",
+      "sentences": "So did (INAUDIBLE).",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:30:00",
+      "speaker": "KEAN",
+      "sentences": "Calm.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:30:00",
+      "speaker": "LAVANDERA",
+      "sentences": "Has he confessed?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:30:00",
+      "speaker": "KEAN",
+      "sentences": "I can't go into that.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:30:00",
+      "speaker": "KAITLAN COLLINS, CNN ANCHOR",
+      "sentences": "You're hearing there from the chief deputy sheriff in Coldspring, Texas. That is on the arrest of the suspected person of the -- who killed five of his neighbors in Texas.For more on this, I want to bring in CNN law enforcement and intelligence analyst John Miller. John, we're hearing from him there. He was saying, of course, this person was found in a closet in a pile of laundry not actually too far from where this shooting actually occurred -- where he was accused of shooting his neighbors. He said there I believe he thought he was in a safe space. He said he was also using a burner phone. Major questions about who else has been arrested though because he did break some news there saying there have been several other arrests. He declined to say how many -- more than one. And he said there could be more arrests to come.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:30:00",
+      "speaker": "JOHN MILLER, CNN LAW ENFORCEMENT AND INTELLIGENCE ANALYST",
+      "sentences": "So, what we're looking at here is when he fled the house towards the woods they find clothing, they find his phone. And then somehow, he makes the leap from those woods to more than 10 miles away to the home of a relative.They're looking at OK, the house he was in. There was nobody on the planet Earth who didn't know that the police were looking for him, so that's a potential harboring a fugitive charge. Then there's how did he get to that house? Did he call a friend? Did somebody give him a ride? Did he go anywhere else? So anybody who touched his travels or movements after that shooting who knew they were assisting a fugitive is in the mix for someone who could be charged. One other thing that's notable. They get this tip that he's in this house at 5:15. They hit the house by 6:30. In the fugitive hunt to execute a dynamic entry on a house, that is lightning speed. That means that the quality of that tip has to be more than an anonymous call saying check this address. It had to be highly specific. The caller had to have specific information not just that he was there but how the caller knew he was there. So right now, we're in kind of a period of trying to sort out is that call from a family member -- that's a possibility -- saying he's in this house and that's creating a danger for the family. Is it from an associate who passed through that house and was told not to say anything? But it was going to be highly specific.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:30:00",
+      "speaker": "POPPY HARLOW, CNN ANCHOR",
+      "sentences": "What was the most telling thing you just heard from the deputy sheriff?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:05",
+      "speaker": "HARLOW",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:05",
+      "speaker": "MILLER",
+      "sentences": "And when we talked about those concentric circles -- family first, friends and associates, then the public -- he played out the way we thought it would play out.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:05",
+      "speaker": "COLLINS",
+      "sentences": "Well, and one other thing he said is that they have been speaking to the suspect. What kind of questions are they asking him right, you think?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:05",
+      "speaker": "MILLER",
+      "sentences": "Well, they're asking him questions about the crime. And at some point, an attorney is going to attach when he goes before a court and they're not going to have the ability to ask him. But they would ask him about the crime first and then about who helped him escape second. It will be interesting to see how forthcoming he is about either.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:05",
+      "speaker": "HARLOW",
+      "sentences": "Thank you very, very much for your expert analysis. We learned a lot from that press conference. Thank you -- appreciate it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:05",
+      "speaker": "MILLER",
+      "sentences": "Thanks.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:05",
+      "speaker": "COLLINS",
+      "sentences": "We want to get back to that reporting overnight that we were talking about on a text message that Tucker Carlson sent that may have contributed to his firing from Fox News.Back with us now, writer-at-large for The New York Times, Jim Rutenberg, who helped break this story. We were talking about there's no -- you can't just say yes, this is ultimately what led to it. But it's also the way that this came out and how executives found out about this and were seeing this message right before they were set to go to trial. What is the impact that had of when they learned about this? JIM RUTENBERG, WRITER-AT-LARGE, THE NEW YORK TIMES, CONSULTING PRODUCER, CNN \"THE MURDOCHS: EMPIRE OF INFLUENCE\":  Well, as we understand it, the board -- the trial was supposed to start on a Monday. Going into that weekend the board had asked to see some of the redacted messages. There are negotiations about a potential settlement. The jury is coming together. So the board starts going through the messages and finds this one message that they find very troubling. Some senior executives, we're told, hadn't been focused on this message. And it's not what you want to see when you're going into trial, a jury is being impaneled, and you're negotiating what's going to be a potentially very high number to get out of this so you don't have to put something like this in front of a jury.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:05",
+      "speaker": "HARLOW",
+      "sentences": "But for this text message being revealed to the -- to the board and Fox executives the night before the trial was supposed to begin, would there have been a trial and no settlement?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:05",
+      "speaker": "RUTENBERG",
+      "sentences": "I still -- they were definitely working toward a settlement. And we were told that over the weekend, Lachlan Murdoch, one of the leaders of the company, had told his lawyers let's start moving up on the number to get out of this anyway. I mean, that trial was going to be --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:05",
+      "speaker": "HARLOW",
+      "sentences": "Disastrous.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:05",
+      "speaker": "RUTENBERG",
+      "sentences": "-- potentially disastrous on so many levels.So -- but here again, you see when it comes to Tucker Carlson --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:05",
+      "speaker": "HARLOW",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:05",
+      "speaker": "RUTENBERG",
+      "sentences": "-- the issue here is that he's playing an outsized role in terms of problems in the case for them when he's really not a huge part of the case. And that represents the trouble with Tucker Carlson to management at this point, among other things.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:05",
+      "speaker": "COLLINS",
+      "sentences": "And the questions that still remain of why they did not settle sooner because all of this damaging information came out though. Obviously, this came out as a part of good reporting.Abby Grossberg is the former Fox News producer who is now suing the network, and she was on with Anderson last night. She was talking about essentially the way things worked and when it came to the fight that we all watched play out so dramatically in Washington over Kevin McCarthy and his bid to become House Speaker. She said this is what they talked about behind the scenes. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:05",
+      "speaker": "ABBY GROSSBERG, FORMER FOX NEWS PRODUCER",
+      "sentences": "They believed that he could broker who was speaker -- House Speaker -- and he wanted to do that live on air but Kevin McCarthy said no.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:05",
+      "speaker": "ANDERSON COOPER, CNN ANCHOR",
+      "sentences": "What do you mean, he wanted to do that live on air?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:05",
+      "speaker": "GROSSBERG",
+      "sentences": "His plan was to have Kevin McCarthy come on the show. So, fast-forward to January fifth. They start asking me to book McCarthy on the show that night. I had worked with him a lot when I was at \"SUNDAY MORNING FUTURES\" and had a relationship with his team.That afternoon, Justin came in and he said here's the plan. Tucker's going to first have Kevin on, hear him beg and grovel. Then we'll bring in Matt Gaetz and Matt Gaetz will then kind of set his terms. Then Tucker will set his terms that McCarthy has to agree to.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:05",
+      "speaker": "ANDERSON",
+      "sentences": "Tucker Carlson had terms that McCarthy would have to --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:05",
+      "speaker": "GROSSBERG",
+      "sentences": "Had term, yes -- had terms. And we're going to make this whole thing happen on air and save the Republican Party.Now, fortunately, for McCarthy's sake, he said no. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:05",
+      "speaker": "COLLINS",
+      "sentences": "It speaks at the level of influence.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:05",
+      "speaker": "RUTENBERG",
+      "sentences": "I mean, that's why this is, in a way, so shocking. Look at that level of political influence that Tucker Carlson had. I mean, he was a power in the part of the party that's the tail wagging the dog right now. And so, to suddenly be cut is really amazing. But that shows also this symbiosis that could happen with the Fox primetime and people in power, particularly Republicans. We saw it with the Trump White House, so here you see it again.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:05",
+      "speaker": "COLLINS",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:05",
+      "speaker": "HARLOW",
+      "sentences": "Jim, again, as Kaitlan said, this came because of good reporting. To you and your team, kudos. Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:05",
+      "speaker": "RUTENBERG",
+      "sentences": "Thanks for having me.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:00",
+      "speaker": "HARLOW",
+      "sentences": "Happening today, Ukrainian President Volodymyr Zelenskyy paying an official visit to Finland. He arrived in Helsinki this morning. He is holding talks with the Finnish president.The surprise visit comes only a month after Finland joined NATO and also remember, part of Russia's premise for its invasion of Ukraine was to try to fend off NATO from expanding close to its borders. Meantime, more Russian attacks on residential areas in Ukraine with no apparent military targets nearby. Our chief international security correspondent Nick Paton Walsh is live on the ground in Zaporizhzhia. Nick, good morning to you. What are you seeing?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:00",
+      "speaker": "NICK PATON WALSH, CNN CHIEF INTERNATIONAL SECURITY CORRESPONDENT",
+      "sentences": "Yes, Poppy. We heard the bangs after the air raid sirens at 1Residents here said that may have contributed to nobody being killed or injured here. They managed to get themselves in a bathtub in this house, and the 7- and 9-year-old children in the neighboring house into some kind of shelter. But across Ukraine, it's not been such a good story at all. In Kherson, recently liberated from Russia, at least three killed in a strike on a supermarket there -- a hypermarket in mid-morning. A small piece of good news behind me here, though. Incredible work by volunteers that literally since being here the last three or four hours -- they've rebuilt the roof of the neighboring house and salvaged the bricks from the rubble here for rebuilding. A real sense of extraordinary community and also, too, of civilians in Ukraine every night increasingly terrified, frankly, by Russia's often inaccurate and possibly deliberately callous disregard for human life. At the same time, Ukraine hitting targets inside Russia's borders. They're not saying it publicly but it's pretty clear the acts of sabotage on railways, on the fuel depots probably have Kyiv behind them. And this, a real sense of escalation between both sides now. We've been seeing the signals potentially of a counteroffensive getting underway over the last weeks, but now these night-by-night strikes, each side on the other trying to weaken the infrastructure -- the ability to resupply suggesting possibly we may be into a new phase in this war, certainly. And in the east, areas where Russia felt safe to occupy certain areas, pressure in Bakhmut, pressure in other areas. A curfew called all the way to the east -- or the far west of areas held by Russia in Kherson. Citizens being told to stay indoors from the evening of May the fifth for nearly three whole days. That's under the premise of Ukrainian law enforcement operations. But it's just raising the sense right now that we are potentially going to see if this hot weather removes the bad weather promise issue that certainly Ukrainian officials have been saying in rare comments have slowed any moves by them down. This hot weather may bring a very, very stark change in tempo here -- Poppy.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:00",
+      "speaker": "HARLOW",
+      "sentences": "That's a very good point.Nick Paton Walsh, we appreciate your reporting there in Zaporizhzhia. Quite the scene behind you. Ahead, the Biden administration bracing for a surge of migrants at the U.S.-Mexico border. We'll take you live there.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:52:32",
+      "speaker": "COLLINS",
+      "sentences": "As Florida Gov. Ron DeSantis is gearing up for a potential, likely, White House run, several recent bills suggest that he is changing the rules in his state in his favor.One bill passed by the Republican-controlled state legislature would allow him to run for president without resigning from his job as governor. Another bill advancing to the chamber would conceal information about his travel and who he's met with at the governor's mansion, which I should note he says is a safety precaution when it comes to travel. Another bill would allow state political committees like the ones DeSantis has -- $85 million or so for his future political donations -- to then report fundraising less frequently than they have previously. Joining us now for perspective on this is the self-proclaimed Florida man, Pulitzer Prize-winning New York Times bestselling author, and humor columnist, Dave Barry, who has a brand-new novel that was just released yesterday called \"Swamp Story.\" And we have been trading our own swamp stories in the break. We have a lot to talk about when it comes to Florida. But I do wonder what you make of this because it's not every day people in Washington are paying attention -- very close attention to what the Florida legislature is doing but especially when this right- to-run bill that they're passing where he can stay as governor if he did run for president is something that everyone's been talking about. DAVE BARRY, HUMOR COLUMNIST, PULITZER PRIZE WINNER, AUTHOR, \"SWAMP STORY\":  Well, do you think he'll stay as governor even if he got elected president and just be both? I mean --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:52:32",
+      "speaker": "COLLINS",
+      "sentences": "Yes. Are they going to pass that next?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:52:32",
+      "speaker": "BARRY",
+      "sentences": "By the way, I just want to say I know we have a lot of criticism of Gov. DeSantis but he is -- and I speak as a Floridian here -- tackling the single biggest threat as we see it to the American way of life, Disney. I mean, that's what we worry about and that's what he's tackling.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:52:32",
+      "speaker": "HARLOW",
+      "sentences": "Mickey Mouse is your biggest concern, not climate change, not the erosion of your --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:52:32",
+      "speaker": "BARRY",
+      "sentences": "No. Donald Duck is not wearing pants.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:52:32",
+      "speaker": "HARLOW",
+      "sentences": "Not --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:52:32",
+      "speaker": "BARRY",
+      "sentences": "That doesn't bother you?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:52:32",
+      "speaker": "COLLINS",
+      "sentences": "Well, what if President -- HARLOW",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:52:32",
+      "speaker": "COLLINS",
+      "sentences": "President Biden, at the Correspondents' Dinner, said he had all these DeSantis jokes but he didn't need them because Mickey Mouse had already beat DeSantis up, or something like that.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:52:32",
+      "speaker": "BARRY",
+      "sentences": "Yes.You know, we -- everybody likes to make fun of Florida. We're used to that. But -- and I'm not saying we have a great government, OK? Maybe we have a corrupt, incompetent government but we're paying very little taxes for it. Here in New York, you have a corrupt, incompetent government and you're paying a fortune.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:52:32",
+      "speaker": "HARLOW",
+      "sentences": "He probably wanted to say a lot.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:52:32",
+      "speaker": "BARRY",
+      "sentences": "We are getting a better deal.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:52:32",
+      "speaker": "COLLINS",
+      "sentences": "But it doesn't bother you genuinely, as a Florida resident, to see the governor using -- which it is Republican-controlled but even some Republicans in the state legislature have said OK, it's very clear we're doing a lot of this to set him up for what could be a presidential run. I don't think it's unusual for a politician to use his office --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:52:32",
+      "speaker": "BARRY",
+      "sentences": "No.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "BARRY",
+      "sentences": "I think we kind of lost the guy. I mean, I'll be honest. There was -- there was a time and that time was the beginning of COVID when Floridians really liked what he was doing because he was basically trying to keep the state open, keep the schools open. He was quicker to do that than a lot of other states and everybody liked that.I can't speak for the whole state but I think everybody's kind of tired of the whole culture war and if he's going to run for president, let him run for president on his own time, on his own dime. Not so much -- you know. And I speak for everyone when I say this. I don't really speak for anyone, I just sort of clap loud.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "COLLINS",
+      "sentences": "You speak for Dave Barry.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "BARRY",
+      "sentences": "I speak for now.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "HARLOW",
+      "sentences": "By the way, the back of the book is so great. Every comment here is by Steve Martin.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "BARRY",
+      "sentences": "No way. There's one --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "HARLOW",
+      "sentences": "Wait, there's one by Carl. BARRY",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "HARLOW",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "BARRY",
+      "sentences": "-- and they always say nice things. They never say eh, I didn't like that.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "COLLINS",
+      "sentences": "That's all right -- five out of 10.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "HARLOW",
+      "sentences": "But the last thing --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "BARRY",
+      "sentences": "The first one is by Carl --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "HARLOW",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "BARRY",
+      "sentences": "-- and it's a real blurb.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "HARLOW",
+      "sentences": "That's true.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "BARRY",
+      "sentences": "And then I asked Steve Martin and he's busy doing a show. So he wrote -- he sent me five blurbs and I put them on.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "HARLOW",
+      "sentences": "Five. Were they like text messages?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "BARRY",
+      "sentences": "And the last one -- read the last blurb.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "HARLOW",
+      "sentences": "That's what I was going to do.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "BARRY",
+      "sentences": "OK.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "HARLOW",
+      "sentences": "I haven't read it yet but I love it, yet again.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "BARRY",
+      "sentences": "Yes. He has -- he admits he has not actually read the book but he gave me five blurbs, so --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "HARLOW",
+      "sentences": "Five Steve Martin --What do people get wrong about Florida?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "BARRY",
+      "sentences": "Well, I think people think it's one state and it's -- we were talking about this. It is not. It is -- like, I live in Miami. I moved there in 1986 from the United States.Miami is not really like the rest of the United States or even like the rest of Florida. Key West is nothing like Miami. Fort Lauderdale is nothing like Miami. Boca Raton is not -- is basically Long Island. And then you go north of the state and suddenly you're in Georgia and Alabama. There's no one --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "HARLOW",
+      "sentences": "It's all there. Even Kaitlan's home state is in your state.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "BARRY",
+      "sentences": "No one said -- so when people, like, make fun of Florida, we in Florida go yeah. Like if people say what an idiot state you live in, we go sure, we agree with that. But we don't mean us, we mean all the other Floridians. HARLOW",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "BARRY",
+      "sentences": "The crew -- it's good for the -- well, they've been drinking.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "COLLINS",
+      "sentences": "A tough crowd.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "BARRY",
+      "sentences": "They have been drinking.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "HARLOW",
+      "sentences": "They have not been drinking.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "BARRY",
+      "sentences": "OK.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "HARLOW",
+      "sentences": "But I will tell you that I want -- they're still laughing. I want to ask you this, though. I'm with -- Kaitlan knows it's fascinating about the fact that all of these businesses are moving to Florida and continue moving there in droves. Obviously, favorable tax policy but there's more they like under Gov. DeSantis, even businesses that totally don't agree with some of his social stances or culture wars, even as he's fighting Disney and taking them to court.Do you think that's going to change?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "BARRY",
+      "sentences": "What? The people want to come there?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "HARLOW",
+      "sentences": "Yes. The big businesses are just fleeing there and that just gives DeSantis and Florida more and more power.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "BARRY",
+      "sentences": "Yes, and it -- but I think basically, it just comes down to taxes and they're honestly not concerned about all the other stuff.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "HARLOW",
+      "sentences": "But Florida taxes have been favorable for a long time. Something else is going on now.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "BARRY",
+      "sentences": "Yeah, I don't know.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "HARLOW",
+      "sentences": "I don't know.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "BARRY",
+      "sentences": "It's maybe because everyone else is doing it. But --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "COLLINS",
+      "sentences": "Can we talk about Florida man --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "BARRY",
+      "sentences": "Florida Man, OK.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "COLLINS",
+      "sentences": "-- which has become -- wait. Before you get into this I just want to read a few headlines. I think everyone's pretty familiar with this --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "BARRY",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "COLLINS",
+      "sentences": "-- but these are some headlines out of Florida recently, and they're real.\"Florida man robs store dressed as Superman\" -- excuse me, as Spiderman. Let me not get the --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "BARRY",
+      "sentences": "OK, let's get it right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "COLLINS",
+      "sentences": "-- get the identity wrong.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "BARRY",
+      "sentences": "Let's not be knocking --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "COLLINS",
+      "sentences": "\"Florida man cited after authorities found an illegally poached gator foot stuck in his dashboard.\" \"Florida man slaps woman with a slice of pizza during argument.\" \"Florida man arrested after wife hit with flying chicken wings.\" \"Naked, bloody, and slippery Florida man covered in grease and peppermint oil after he was arrested breaking into homes.\"Now, I'm from Alabama and we've got our own fair share of headlines, but what do you make of this evolution of Florida man?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "BARRY",
+      "sentences": "And personally, I just want to stress that was all the same man -- no.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "HARLOW",
+      "sentences": "There is no sinkholes even in that -- in those headlines.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "BARRY",
+      "sentences": "There -- the -- this is true, OK? We have lots and lots of this. But let's be honest. There are 21 million residents in the state of Florida. Is it fair to judge all 21 million of us just because of the actions of about 19 million of us?The other thing I want to say is a lot of these people are not from Florida. They call them Florida and they have --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "HARLOW",
+      "sentences": "Are they from Alabama?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "BARRY",
+      "sentences": "I think they're from Alabama.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "COLLINS",
+      "sentences": "Don't blame us.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "BARRY",
+      "sentences": "Poppy, where are you from?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "HARLOW",
+      "sentences": "Minnesota.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "BARRY",
+      "sentences": "They're from Minnesota. We have -- we have horrible Minnesotans.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "HARLOW",
+      "sentences": "All good things. Well, you have -- we call them snowbirds.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "BARRY",
+      "sentences": "Yeah.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "HARLOW",
+      "sentences": "They leave Minnesota in the winter and they come to you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "BARRY",
+      "sentences": "Our favorite sport in Florida is sending texts to people in Minnesota when our -- when it's winter.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "COLLINS",
+      "sentences": "Dave Barry, the book, \"Swamp Story\" -- it is --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "HARLOW",
+      "sentences": "Great cover.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "COLLINS",
+      "sentences": "-- hilarious. You'll be laughing within, like, four paragraphs in. So thank you so much. Thanks for joining us this morning.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "BARRY",
+      "sentences": "Thank you. Thanks for having me on.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "COLLINS",
+      "sentences": "Yes.All right, and CNN THIS MORNING continues right now.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "HARLOW",
+      "sentences": "Good morning, everyone. We're glad you're with us. It is the top of the hour.An incredibly close call. A police officer -- that's what you just saw -- in Virginia, nearly crushed by an out-of-control car during a traffic stop. We'll tell you who was driving.",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

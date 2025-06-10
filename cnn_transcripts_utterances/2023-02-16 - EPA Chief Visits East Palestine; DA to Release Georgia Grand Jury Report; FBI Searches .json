@@ -1,0 +1,457 @@
+{
+  "date": "2023-02-16",
+  "headline": "CNN Newsroom",
+  "subHeadline": "EPA Chief Visits East Palestine; DA to Release Georgia Grand Jury Report; FBI Searches University for Biden Documents; Renewed Focus on Biden's Age; Nikki Haley Calls for Competency Tests. Aired 9- 9:30a ET",
+  "utterances": [
+    {
+      "timeStamp": "09:00:46",
+      "speaker": "ERICA HILL, CNN ANCHOR",
+      "sentences": "Good morning. Top of the hour here in the CNN NEWSROOM. I'm Erica Hill.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:00:46",
+      "speaker": "JIM SCIUTTO, CNN ANCHOR",
+      "sentences": "And I'm Jim Sciutto.This morning, the head of the EPA is now headed to East Palestine, Ohio, where hundreds of worried residents are now demanding answers. This nearly two weeks after a train derailed there releasing toxic chemicals into the air, the ground and the water. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:00:46",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "Why are people getting sick if there's nothing in their air or in the water?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:00:46",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Everybody that came here expects a hell of a lot more than what we're getting right now.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:00:46",
+      "speaker": "SCIUTTO",
+      "sentences": "Well, the rail company, Norfolk Southern, abruptly pulled out of last night's town hall citing security concerns. We're going to go live to East Palestine in a moment.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:00:46",
+      "speaker": "HILL",
+      "sentences": "We are also standing by for some major news out of Georgia this morning. Any moment now, in fact. The Fulton County district attorney is expected to release parts of a special grand jury's report on former President Trump's efforts to overturn the 2020 election. It is expected that what will be released will include concerns that the panel had about witnesses lying under oath. We are monitoring that. We'll bring you those details as soon as it's released.First, though, let's begin in East Palestine, Ohio. EPA Administrator Michael Regan set to visit the area today. Frightened, furious residents, understandably, demanding answers in the wake of that toxic train wreck. They packed a town hall meeting last night. Railroad officials, though, didn't show. As Jim mentioned, they backed out at the last minute citing employee safety concerns. But, still, they promised to somehow address residents. Well, that move, understandably, gave little reassurance to folks who feel unsafe right now in their own homes. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:00:46",
+      "speaker": "JAMI COZZA, EAST PALESTINE, OHIO, RESIDENT",
+      "sentences": "When they came to do air testing, I was demanding to know about the soil and the water that's seven steps from my porch. So, the railroad sent out his toxicologist, who deemed my house not safe. But had I not used my voice, had I not thrown a fit, I would be sitting in that house right now when they told me that it was safe.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:00:46",
+      "speaker": "SCIUTTO",
+      "sentences": "CNN national correspondent Jason Carroll joins us now from East Palestine.Jason, you're there today. You were at that town hall last night. I wonder, are folks there getting answers to any of their questions?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:00:46",
+      "speaker": "JASON CARROLL, CNN NATIONAL CORRESPONDENT",
+      "sentences": "Well, some questions, but, for the most part, a lot of people really left feeling empty-handed.The question that they're asking is, Jim, what happens when the cameras are gone? What happens a year from now, two years from now? Who's going to be out here testing the water then? Who's going to be testing the soil at that point? What about their property values? So, a whole host of questions. And a number of people that we spoke to very upset that Norfolk Railroad -- Southern Railroad was not here to answer questions. The feeling is that they simply did not want to face the tough questions that they have. And the feeling here is that it's going to take more than just one town hall to make sure that everyone's voices are heard. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:00:46",
+      "speaker": "LENNY GLAVAN, EAST PALESTINE, OHIO, RESIDENT",
+      "sentences": "Are my kids safe? Are the people safe? Is the future of this community safe?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:00:46",
+      "speaker": "CATHY REESE, NEGLEY, OHIO, RESIDENT",
+      "sentences": "I'm scared for my family. I'm scared for my town. I grew up here. I'm related to 50 percent of them.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:00:46",
+      "speaker": "CARROLL",
+      "sentences": "Do you trust them when they say that the air has been tested and it's safe?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:00:46",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "No.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:00:46",
+      "speaker": "CARROLL",
+      "sentences": "And that the municipal water is safe?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:00:46",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "The air, no.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:00:46",
+      "speaker": "REESE",
+      "sentences": "I don't trust anyone.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:00:46",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "The air, no. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:00:46",
+      "speaker": "CARROLL",
+      "sentences": "And, once again, state and local officials do say the air is safe and that the water is safe.We're standing right here, Jim, at Leslie Run. This is a creek that runs through East Palestine. Just a few days ago we saw dead fish just several miles from here in this creek. This cleanup effort is underway. The EPA says they're going to be here as long as it takes. The residents here, not so sure. Jim. Erica.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:05:02",
+      "speaker": "SCIUTTO",
+      "sentences": "CNN's Sara Murray joins us now.So, what's going to come out and what's not going to come out from this release?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:05:02",
+      "speaker": "SARA MURRAY, CNN POLITICAL CORRESPONDENT",
+      "sentences": "So, look, we're going to get the introduction of this special grand jury report, the conclusion, as well as a section where the special grand jury lays out their concerns that some witnesses who appear before their panel may have lied under oath. So, I think we're going to be looking for the tenor, we're going to be trying to read between the lines of that lying section.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:05:02",
+      "speaker": "SCIUTTO",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:05:02",
+      "speaker": "MURRAY",
+      "sentences": "But what we're not going to get are their recommendations of who, if anyone, should face criminal charges. The judge basically said it's not fair to put that out. At this point it's to premature when no one has actually been charges in this case.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:05:02",
+      "speaker": "SCIUTTO",
+      "sentences": "OK.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:05:02",
+      "speaker": "MURRAY",
+      "sentences": "And this goes back to the phone call in 2021 that Donald Trump made to Georgia Secretary of State Brad Raffensperger asking him to find the votes. So, this has been going on for some time.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:05:02",
+      "speaker": "SCIUTTO",
+      "sentences": "So - but when I see conclusion, that makes me think there's some conclusion there as to whether they charge or don't charge.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:05:02",
+      "speaker": "MURRAY",
+      "sentences": "Well, I think that's what we're going to be looking for, to sort of get the tenor of where they're going. You know, we know the names, if there are names in the conclusion, are going to be redacted. But, yes, you know, presumably this report lays out a bunch of different lines about, you know, here's the name of a person, here's why we think they should or should not face criminal charges. And then there will be some kind of conclusion summing up essentially what was months and months of their work.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:05:02",
+      "speaker": "SCIUTTO",
+      "sentences": "Right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:05:02",
+      "speaker": "MURRAY",
+      "sentences": "And what they found. So, we're going to be looking closely at that.And, you know, this is a - this is a panel that heard from 75 witnesses, including people close to the former president, like South Carolina Senator Lindsey Graham.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:05:02",
+      "speaker": "SCIUTTO",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:05:02",
+      "speaker": "MURRAY",
+      "sentences": "You know, like Rudy Giuliani, his former attorney. So, they got a lot of information.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:05:02",
+      "speaker": "SCIUTTO",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:05:02",
+      "speaker": "MURRAY",
+      "sentences": "How much of it we're going to see today, you know, is a big question.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:05:02",
+      "speaker": "SCIUTTO",
+      "sentences": "It's a remarkable witness list.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:05:02",
+      "speaker": "MURRAY",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:05:02",
+      "speaker": "SCIUTTO",
+      "sentences": "Sara Murray, thanks so much.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:05:02",
+      "speaker": "MURRAY",
+      "sentences": "Thanks.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:05:02",
+      "speaker": "HILL",
+      "sentences": "Joining us now, former federal and state prosecutor, Elie Honing.So, Elie, as we look at this, you know, as Sara just pointed out, 75 witnesses. These are recommendations, of course. Recommendations only. Not indictments. But, you know, as Sara noted, everybody will be -- reading between the lines a little bit in terms of what is released. I'm curious, what are you going to be looking for, Elie, especially when it comes to these lying witnesses we're hearing about?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:05:02",
+      "speaker": "ELIE HONIG, CNN SENIOR LEGAL ANALYST",
+      "sentences": "Yes, Erica. So, we are going to be getting the start and the end and a little bit of the middle of this report. We're going to get the introduction. We're going to get the conclusion. We're going to get this bit about potentially lying witnesses.I'm looking for -- Sara said the exact right word, what is the tenor? What is the tone that we're seeing in this grand jury report? I think we will be able to tell from the introduction and the conclusion. At a minimum, does this grand jury recommend that there is a crime here? Because we could see an introduction that say, we believe there was a criminal scheme to interfere with the election in Georgia. We could see an introduction and conclusion saying, we believe there was no crime committed here. I think it will be the former. It sounds like the grand jury has found that there was at least some crimes. It's also really important to note what we will not see today, but we know is in that report, which is a specific list of individuals and recommendations as to whether they should or should not be indicted. This other thing that's really important to keep in mind, Erica, this is all just a recommendation from the special grand jury. Ultimately, it will be up to the DA, to Fani Willis, to decide whether she wants to take this case for indictment to a regular grand jury.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:05:02",
+      "speaker": "SCIUTTO",
+      "sentences": "OK, but if this conclusion is going to say, hey - again, we don't know it's going to say this -- but it might say, we've seen this evidence and there's enough here to charge for a crime. Even if it doesn't say who specifically, that's no small thing. I mean if the special grand jury will have spoken to all these high level witnesses and concluded that there was criminal activity.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:05:02",
+      "speaker": "HONIG",
+      "sentences": "Absolutely. And that's why I'm going to go right to the conclusion and look for exactly that, Jim. And if it says, we conclude there was criminal activity, then that has to have been committed by somebody.What we do know is that the focus of this entire investigation has been Donald Trump. If you envision this whole entity as a sort of pyramid, Donald Trump sits at the top of it. Fani Willis, the DA, has made no secret of the fact that that is her focus. So, we won't know the recommendations as to any specific individual, but we should know from today's release whether the grand jury believes there was a crime committed.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:05:02",
+      "speaker": "HILL",
+      "sentences": "Real quickly want to get you on Mark Meadows, former Trump, of course, chief of staff. CNN has learned has been subpoenaed by the special counsel investigating the former president. The special council seems to be moving pretty quickly here. Is that because by the time he came in a lot of this work was done and now we're at a point where these subpoenas make sense for a Mike Pence or a Mark Meadows, or is he simply more aggressive here, Elie?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:10:02",
+      "speaker": "SCIUTTO",
+      "sentences": "Yes, here's a guy who's prosecuted war crimes before. Seems pretty tough on this.Elie Honig, thanks so much.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:10:02",
+      "speaker": "HONIG",
+      "sentences": "Thanks, guys.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:10:02",
+      "speaker": "SCIUTTO",
+      "sentences": "First on CNN, sources say the FBI conducted two searches at the University of Delaware in recent weeks. This in connection with President Biden's handling of classified documents.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:10:02",
+      "speaker": "HILL",
+      "sentences": "CNN's senior legal affairs correspondent Paula Reid joining us now with more.So, Paula, what do we know about these searches?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:10:02",
+      "speaker": "PAULA REID, CNN SENIOR LEGAL AFFAIRS CORRESPONDENT",
+      "sentences": "Well, Erica, this is the fourth location connected to President Biden that the FBI has searched in connection with this ongoing federal investigation into the possible mishandling of classified materials.We've learned that the FBI searched two locations at the University of Delaware on at least two different days. Now, one of these locations was the Senate archive. Biden has donated a lot of materials from his time in the Senate to the university. The other search was related to materials that he has sent there in recent years. We've learned the FBI did retrieve some materials from the university, though our sources say they did not appear to have classified markings and they're currently being reviewed. Now, these searches were conducted with the consent and the cooperation of Biden's legal team. But I will note, the White House, the president's legal team, they have been selective in when they have been transparent and what they have shared with the public in this investigation. And this search, along with others, and the investigation as a whole, only came to light through media reporting.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:10:02",
+      "speaker": "SCIUTTO",
+      "sentences": "As so often.Paula Reid, thanks so much.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:10:02",
+      "speaker": "HILL",
+      "sentences": "At this hour, President Biden arriving at Walter Reed Medical Center. He's there for his annual physical. This as CNN has new reporting about the conversations happening inside the Democratic Party about whether his age should be a factor in 2024. We know for one person outside the party it already is.(BEGIN VIDEO CLIP) NIKKI HALEY (R), 2024 PRESIDENTIAL CANDIDATE: America is not passed our prime, it's just that our politicians are past theirs. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:16:48",
+      "speaker": "HILL",
+      "sentences": "Moments ago, President Biden arriving at Walter Reed, the national military medical center, Bethesda, Maryland. He's there for his yearly physical. Some of those results, of course, will be released publicly. And it's all happening amid renewed scrutiny on his age. Biden is the oldest president in history at 80. And although he has not officially announced his re-election bid, the woman who hopes to be the Republican nominee in 2024 is certainly pitching herself as the younger, and therefore better, alternative.(BEGIN VIDEO CLIP) NIKKI HALEY (R), 2024 PRESIDENTIAL CANDIDATE: In the America I see, the permanent politician will finally retire. We'll have term limits for Congress. And mandatory mental competency tests for politicians over 75 years old. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:16:48",
+      "speaker": "SCIUTTO",
+      "sentences": "Digs, it seems, not just at Biden but perhaps at Trump.CNN's Isaac Dovere joins us now. Isaac, I wonder, how is the Biden camp -- I'm sure seemingly, you know, prepared for this kind of -- these kinds of questions, how are they planning to respond?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:16:48",
+      "speaker": "ISAAC DOVERE, CNN SENIOR REPORTER",
+      "sentences": "Well, look, it's not breaking news that the president is 80 years old, but he's the oldest president ever and then if he runs for re-election, he'd be 86 by the end of his second term.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:16:48",
+      "speaker": "SCIUTTO",
+      "sentences": "Wow.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:16:48",
+      "speaker": "DOVERE",
+      "sentences": "If he were to win it.They want to try to make this about wisdom and experience, is the way one Biden advisor put it to me. About the president being a contrast to the chaos that they see in the Republican Party of calm and competence. And that, yes, he's old, but he has benefitted from what has come with those years.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:16:48",
+      "speaker": "SCIUTTO",
+      "sentences": "Yes, I mean, it sounds like Reagan in 1984, right?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:16:48",
+      "speaker": "DOVERE",
+      "sentences": "Exactly. SCIUTTO",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:16:48",
+      "speaker": "DOVERE",
+      "sentences": "Right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:16:48",
+      "speaker": "SCIUTTO",
+      "sentences": "But, I mean, is there anybody inside the administration who's trying to put a hand on his shoulder and saying, you did your job?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:16:48",
+      "speaker": "DOVERE",
+      "sentences": "It doesn't seem like that is happening, but what you do see within the administration, and certainly within larger Democratic circles, is a constant worry about this, of how it could happen, how it could be talked about, how it could be a liability for him, how it just maybe people will think it's too much.What the State of the Union was for a lot of people around the president was an important moment for the president to stand up there in front of the country and not really about anything he said, but to show, look, here I am, speaking for an hour and a half, interacting with these hecklers, shaking hands in the aisle afterwards, and showing that he is a guy who is up to the job. And for a lot of Democrats that I talked to in the last week who were feeling nervous about it, they felt that speech did a lot to calm their anxiety.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:16:48",
+      "speaker": "SCIUTTO",
+      "sentences": "So, there was -- there was something to that long line of handshakes afterwards.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:16:48",
+      "speaker": "DOVERE",
+      "sentences": "Indeed.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:16:48",
+      "speaker": "SCIUTTO",
+      "sentences": "Isaac Dovere, thanks so much.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:16:48",
+      "speaker": "DOVERE",
+      "sentences": "Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:20:01",
+      "speaker": "HILL",
+      "sentences": "Scott, as we look at this in terms of Nikki Haley's message, yes, there's the - you know, she's playing on age. She also - she seems to want to distance herself from Donald Trump, but she has yet to do so. She was pressed twice by Sean Hannity on Fox about, OK, so where specifically do you differ in your policies? She dodged that question twice. She did it again this morning on the \"Today\" show when she was asked for specifics.Take a listen to that moment. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:20:01",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "President Zelenskyy has asked for F-16s. Should - should we give those to him?NIKKI HALEY (R), 2024 PRESIDENTIAL CANDIDATE: I think we give him what he needs to win, not money, but equipment.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:20:01",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "And you realize there's some daylight between you and the other declared candidate for the Republican nomination on that front.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:20:01",
+      "speaker": "HALEY",
+      "sentences": "There's some daylight between me and Joe Biden because Joe Biden was slow to take -",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:20:01",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "But to be fair, Madam Ambassador, you have to win the primary. You're talking about President Biden a lot, but there are only two candidates in the Republican primary right now. It's you and your former boss.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:20:01",
+      "speaker": "HALEY",
+      "sentences": "No, and you guys are obsessed with me talking about him. But what I'll tell you -",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:20:01",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Well, there are only two candidates.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:20:01",
+      "speaker": "HALEY",
+      "sentences": "That's OK. I don't kick sideways, I kick forward. And what I'm telling you is, Joe Biden has not led.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:20:01",
+      "speaker": "HILL",
+      "sentences": "Get used to that because we've already heard - I don't - I don't kick sideways, I kick forward, I think at least four times in the last 18 hours.When it comes, though, to this campaign, to the substance, is this campaign ready for primetime if she cannot answer a question on, how are you different from your former boss, the guy you're running against for the nomination?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:20:01",
+      "speaker": "SCOTT JENNINGS, CNN POLITICAL COMMENTATOR",
+      "sentences": "This is a great strategic question, not just for her, but for all these people who worked for Donald Trump, Mike Pence, Mike Pompeo If Donald Trump was your boss and now you're running for president and he's in the race, the people who supported Trump, why would they support you? I mean that's the key question here. And if you can't articulate some differences, that's a problem.Now, on the Ukrainian question she got, I actually think foreign policy is here her instincts are to separate and to have a more robust, you know, America engagement type foreign policy than Trump is going to espouse. He's going to probably run as more of an isolationist. But even on her answer on that, well, I think we should give them equipment but not money. Well, how do you think get equipment?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:20:01",
+      "speaker": "HILL",
+      "sentences": "How do you pay for the equipment?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:20:01",
+      "speaker": "JENNINGS",
+      "sentences": "You've got to buy it. I mean these things aren't -- these things aren't down at the five and dime. You know, you've got to pay somebody for them.So, even on that you could tell that she was trying to put a foot in both camps. I think this is going to be an exceedingly difficult dance to continue to do. You have to differentiate. She's way behind both DeSantis and Trump. At some level the people who were all way behind, which is everybody else, that you are going to have to come up with something creative and unique that separates yourself and gives people the idea that not only can you be the Republican nominee but you can beat a Democratic. She is right about one thing, we have lost the popular vote in seven of the last eight elections. And we need somebody who can try to do that because winning without winning the popular vote is really difficult.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:25:02",
+      "speaker": "HILL",
+      "sentences": "We will be watching all of it. It's going to keep all of us very busy.Gentlemen, thank you, as always. Appreciate it.",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

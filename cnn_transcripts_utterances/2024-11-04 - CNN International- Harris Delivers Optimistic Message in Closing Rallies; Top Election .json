@@ -1,0 +1,385 @@
+{
+  "date": "2024-11-04",
+  "headline": "Connect the World",
+  "subHeadline": "CNN International: Harris Delivers Optimistic Message in Closing Rallies; Top Election Official: Georgia Targeted by Disinformation; Anger Grows Over Government Response to Disaster; Democrats Encouraged by Strong Early Turnout Among Women; Harris, Trump Offer Starkly Different Approaches to Economy; Legendary Music Producer Quincy Jones Passes Away at 91. Aired 9-10a ET",
+  "utterances": [
+    {
+      "timeStamp": "09:00:00",
+      "speaker": "ERICA HILL, CNN HOST, CONNECT THE WORLD",
+      "sentences": "The countdown is officially on. A live picture there, of course, of the White House in Washington, D.C. Keepin mind at this time tomorrow, voting will be well underway in the United States on the East Coast. Of course, a number of measures on the ballot, but that presidential election getting a lot of the attention in 2024. Thanks for being with us on this Monday. It's 09:00 a.m. here in New York. I'm Erica Hill. This is CONNECT THE WORLD. Kamala Harris and Donald Trump now making their final pitches to voters as a former president really leans into election denialism as part of his. Plus, an insight into the issues younger voters are prioritizing in 2024 we'll take a look at what is bringing them to the polls. And an entertainment industry legend, Quincy Jones, has died. He, of course, produced moments for some of the biggest artists in the world, from Michael Jackson to Frank Sinatra. We're going to take a look back at his life and his legacy. Well, with one day to go here, happy election eve to all those who celebrate. This has been a tense, exhausting campaign, and at this point, the polls show this election remains in a dead heat. The candidates really using these final hours to make their final pitches to voters, offering sharply different messages and in starkly different tones. Vice President Kamala Harris telling supporters in Michigan she is ready to lead through cooperation and consensus. (BEGIN VIDEO CLIP) KAMALA HARRIS, VICE PRESIDENT OF THE U.S., (D) PRESIDENTIAL CANDIDATE: We have momentum. It is on our side. Can you feel it? America is ready for a fresh start, ready for a new way forward, where we see our fellow American not as an enemy, but as a neighbor. We are ready for a president who knows that the true measure of a leader is not based on who you beat down. It is based on who you lift up. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:00:00",
+      "speaker": "HILL",
+      "sentences": "Former President Donald Trump in Pennsylvania on Sunday, continuing to sow doubts about election integrity while repeating familiar falseclaims he made about the 2020, election. (BEGIN VIDEO CLIP) DONALD TRUMP (R), FORMER U.S. PRESIDENT AND 2024 PRESIDENTIAL CANDIDATE: They are fighting so hard to steal this damn thing. Look at what's going on. Look at what's going on in your state. Every day they're talking about extending hours and stuff. What? Whoever heard of this stuff? We should have one day voting and paper ballots. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:00:00",
+      "speaker": "HILL",
+      "sentences": "Donald Trump also complaining over the weekend about a new poll which shows that he is no longer leading in the State of Iowa. He says his ownpolling has him up by double digits. Both candidates today will be making stops in Pennsylvania. Donald Trump will also make his way to North Carolina and Michigan. Eva McKend is following the Harris campaign; she is in Pennsylvania for us. So, Eva, the Vice President, crisscrossing the keystone state today. We know here's a lot of attention on this state. Is this sort of all in on this final day, because they believe that it is Pennsylvania which is the key to those 270 electoral votes for Kamala Harris. EVA MCKEND, CNN U.S. NATIONAL POLITICS CORRESPONDENT: Well, Erica, I can tell you that they have always put a high priority on this state. You'll remember several weeks ago when they had that debate prep camp here where she was essentially camped out here for a week. So, they have always seen Pennsylvania as crucial to the path to victory here. And I can tell you what's interesting about her closing message, she didn't even mention the former president by name last night. She's really trying to, at this stage, consolidate coalitions, now that Trump has been well litigated, and focusing instead on unity. So, she begins today with some good old-fashioned door knocking over in Scranton, Pennsylvania, that, of course, is the hometown of President Joe Biden. Then she heads here to where I am in Allentown, Pennsylvania. We are on the campus of Muhlenberg College. The campaign noting that Allentown has a very heavy Latino population, more than 30,000 Puerto Ricans. And she's going over to Reading where she will campaign with Governor Josh Shapiro and Congresswoman Alexandria Ocasio- Cortez. She does a big rally over in Pittsburgh, and then another big, star-studded affair over in Philadelphia, where she will be joined by the roots Jasmine, Sullivan, Oprah Winfrey. And core to this message is telling her supporters, listen, don't sit on the sidelines. We want to wake up the day after the election feeling as though that they put it all on the line and did everything that they could, Erica.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:00:00",
+      "speaker": "HILL",
+      "sentences": "We will be watching for that as you mentioned those big names coming out to help her as well. Also, really quickly, there have been somequestions about when the vice president was going to vote? She did that by mail, correct?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:00:00",
+      "speaker": "MCKEND",
+      "sentences": "She did. She sent in her ballot, so that is enroute to California, we believe, as we speak.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:05:00",
+      "speaker": "HARRY ENTEN, CNN SENIOR DATA REPORTER",
+      "sentences": "Thank God.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:05:00",
+      "speaker": "HILL",
+      "sentences": "Because I love you too much, my friend.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:05:00",
+      "speaker": "ENTEN",
+      "sentences": "Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:05:00",
+      "speaker": "HILL",
+      "sentences": "I want to put you on the spot like that. But you do have certain polls that you're monitoring very closely here on this election eve. Walkus through those.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:05:00",
+      "speaker": "ENTEN",
+      "sentences": "Yeah. I mean, look, it's a historically tight race where nobody knows, nobody knows. You know, we're talking about those seven keybattleground states, four in the Sun Belt, three in the Great Lakes. Look, the widest lead in any of these states is Trump plus three in Arizona, but you got them plus one in Georgia, less than a point in North Carolina, less than a point Nevada. You jump over the Great Lakes; you get blue on your screen. But again, when I'm putting in this less than symbol, you know it's tight, less than a point lead in Pennsylvania, less than a point lead in Wisconsin, less than a point lead in Michigan for Kamala Harris. Let's put that onto the electoral map, and what do we get? Well, you can't get any closer than this. Kamala Harris at 270 electoral votes, when the race is to 270 and you're exactly there, that's how tight it is. It's because, of course, she carries these Great Lake battleground states, Wisconsin, Michigan and Pennsylvania. But you know, Erica, I'm a big fan of history. I like going back, so I decided to look back at the final polls of each election over the last 52 years, and project those final polls on the electoral map. If the polls were perfect right now, in 2024 the leader gets 270 electoral votes. That is the tightest, the tightest the polls have ever been going into a presidential election the last 50 years. The next closest was back in 2000 when Al Gore was projected to get 281 electoral votes. Of course, he did not ultimately reach the White House because he lost Florida, which the final polls had him winning, but by just a smidgen, Erica.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:05:00",
+      "speaker": "HILL",
+      "sentences": "All right, so we look at all that. The other thing to keep in mind as we look at all of this is, while the polls are very close there's noguarantee that the results may end up being that close.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:05:00",
+      "speaker": "ENTEN",
+      "sentences": "Exactly right. No guarantee why? What is going on here? You know, if you look at an aggregation of forecast models, you put them together, willthe 2024 winner get 300 plus electoral votes, which, in my mind, is a relative blowout. There's a majority chance, 60 percent yes, compared to the minority shot 40 percent no. What the heck is going on here? Because I just showed you all these close polls. Here's what's going on here. If you look back through history, polls are not perfect. The average error in a swing state aggregate is 3.4 points since 19,172 that is larger than all of the seven closest battleground states which are all within three points. So, what does that mean? What does that mean for the electoral map? Well, if the average error benefits Kamala Harris, what happens? She gets all the way up to 319 electoral votes, because she carries those Great Lake battleground states. She carries North Carolina and Georgia and the Southeast and Nevada and Arizona and the Southwest. Of course, the error could go the other way, and if it goes the other way, and benefits Donald Trump, he gets all the way up to 312 electoral votes because he carries those southeast battleground states. He carries those in the southwest. And more importantly, he blocks Kamala Harris' path to 270 electoral votes by winning Pennsylvania, Michigan and Wisconsin. The bottom line is this, Erica Hill, we've been together once. We've been together twice. We've been together thrice. Even more than that, I still have no idea what's going to happen. It's the one time I've had into a presidential election where I don't even have a gut. All my friends are asking me who's going to win, to which I say, if I knew the answer to that, I'd be in Vegas right now making a lot of money.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:05:00",
+      "speaker": "HILL",
+      "sentences": "100 percent at the very least, buying a lot of ticket. I mean, I said I wasn't going to put you on the spot, but I lied, Harry. I do want to askyou quickly because I'm told, we have a little bit more time with you. This Iowa Poll that came out over the weekend. Donald Trump very upset about it. He says this is not accurate. He has praised that polling in the past. I don't know that you have it in front of you, but I'm just curious when we look at that and what could or could not happen the fact that that poll has essentially flipped from the last time it was done in September now showing Kamala Harris 47 to 44 percent within the margin of error over Donald Trump. What was interesting to me is it was really independents and women that were a big part of that poll. Do you think they've been taken into account enough those groups, and especially voters over 65 in all of this polling that we've been looking at?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:10:00",
+      "speaker": "HILL",
+      "sentences": "Harry Enten, always a pleasure, my friend. Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:10:00",
+      "speaker": "ENTEN",
+      "sentences": "The pleasure was all mine.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:10:00",
+      "speaker": "HILL",
+      "sentences": "Let's get you caught on what's happening with team Trump. Alayna Treene covering the Trump campaign. She is in North Carolina this hour. So,Alayna, good to have you back with us. Donald Trump. We talked about how the vice president is really all in on Pennsylvania today. Donald Trump is in Pennsylvania, but he is also hitting in addition to North Carolina, a third state. Walk us through this final day of campaigning, what they're hoping it will do in terms of voter turnout?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:10:00",
+      "speaker": "ALAYNA TREENE, CNN REPORTER",
+      "sentences": "Well Erica, this is actually Donald Trump's fourth visit, I believe, to North Carolina in just the last three days. Hehas been hitting the state aggressively in this final stretch, which I think should tell you all you need to know. That there are concerns about his performance in North Carolina, and that in itself, is notable just given both in 2016 and 2020 Donald Trump won North Carolina sure last cycle, it was by a narrow margin. But keep in mind that we haven't seen a Democrat win North Carolina since 2008 when Barack Obama was successful here. So, very notable that he's been hitting this so much. But yes, today he is starting here in North Carolina. We're about to see him take the stage at least he's scheduled to take the stage in roughly under an hour. Then he'll have two stops in Pennsylvania and finish his day in Michigan. But I think the key thing to keep in mind is what will his closing message look like? And there is a question about that. I can tell you from my conversations with Trump's advisers, with those close to the former president, what they want the closing message to be is three key things. One, they want him to really focus on encouraging his supporters to get out and vote, to turn out tomorrow. Do not sit this out. Do not be complacent. That is the message they are trying to drill into the minds of his supporters, because, again, this is expected to be an incredibly close election. But also, they want to be talking about the policy areas where they know that he polls better than Kamala Harris, that includes the economy, that includes immigration. Now I say all this, and these are things that we've talked about Erica for months now that people have been telling Donald Trump to do this, but we did not actually see him do that yesterday. Instead, a lot of his remarks were off script. He kind of went off the rails at times where he took -- you know a series of minutes talking about, at one point, criticizing these polls that showed Kamala Harris gaining ground on Donald Trump. He talked about believing he said, I don't think I should have left to the White House back in 2020. He sowed seeds of doubt on the integrity of this upcoming election. And he also made a comment about, he was talking about the former assassination attempt on his life and the bullet proof glass that surrounded him. And said -- you know if someone wanted to get to me, they would have to shoot through the press first, and then he said, I don't mind. Now, it's that kind of inflammatory rhetoric that people are very worried about. I can tell you, behind the scenes, when I talk to Donald Trump's team, they're exhausted, but they were also exasperated. I had one ally who told us that they didn't understand why he couldn't just stay on message and say -- you know, Kamala broke this country. I will fix it. That is what they want him to be saying. But sometimes Donald Trump was unable to do that. So, I think today keep a very close eye on whether or not he is going to be able to stay on message and kind of give that rallying rhetoric that -- use that rallying language that they want him to be delivering with just one day left to go until voters take to the polls, Erica.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:15:00",
+      "speaker": "SEAN LYNGAAS, CNN CYBERSECURITY REPORTER",
+      "sentences": "Yeah, Erica, it's no coincidence that in the final days of the election, there are these fake viral videosthat are popping up in battle ground states. We had Pennsylvania a week or two ago. In this particular case, we're talking about Georgia, where there was a fake video. And we have to say fake every time, because it is utter fiction, purporting to show Haitian immigrants claiming they voted multiple times in Georgia. And this is utterly false. And in fact, the video was created out of thin air. I don't even think these are real people. And the Secretary of State of Georgia, Brad Raffensperger, was quick to call it out as likely Russian disinformation. And in fact, perhaps less than 24 hours later, the intelligence agencies, the FBI, DHS, all said it was Russian -- a Russian group, if you will, that created this video. Now we actually know a lot about this Russian network of fake accounts. CNN did an investigative story about this just last week where we trace some of these accounts to the remnants of the notorious Russian troll farm run by Yevgeny Prigozhin that interfered in the 2016 election. So, these aren't new characters for the intelligence community or for reporters who have followed it. However, the difference now, Erica, is in 2024 they're able to rapidly generate these videos, sometimes using AI, spread them on X, formerly known as Twitter, where they're often circulate freely for a while, at least. And it's hard to tell how much impact it's having on voters, but it's very concerning for U.S. officials who are trying to reinforce that, yes, the elections are free and fair, a devoid of meaningful fraud that would impact any outcome. And these videos are so cheap to make that they keep popping up like whack a mole, Erica.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:15:00",
+      "speaker": "HILL",
+      "sentences": "Yeah, I mean, the whack a mole is such an accurate -- comparison. Sean, really appreciate it. Thank you. Just ahead this hour Israel sayingit is now official. It is, in fact, banning a major refugee agency, a look at the possible consequences for millions of Palestinians. Plus, angry crowds greet the King of Spain during a visit to Valencia. The booze, throwing food. White anger is really boiling over in the wake of last week's deadly floods. (COMMERCIAL BREAK)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:20:00",
+      "speaker": "PAULA HANCOCKS, CNN CORRESPONDENT",
+      "sentences": "Well Erica, every time we hear a humanitarian aid group or one of the countries condemning this, talkingabout UNRWA. They use the word irreplaceable, the fact that this is a U.N. agency which has been on the ground for decades, which has the infrastructure to be able to help Palestinian refugees. And certainly, Palestinians who are in desperate need of food, water, shelter, humanitarian aid and medicine, the absolute basics at this point. So, there is grave concern among many countries that this is going to make it extremely difficult for those Palestinians to get the aid that they need. Now, what it means is, in about three months' time, it will be enacted, and it means that UNRWA will not be able to operate inside of Israel. It means no Israeli authority or official will be able to contact the U.N. agency, which effectively makes it almost impossible for this agency to work inside Gaza or the occupied West Bank. So, we've even heard from the U.S. State Department saying that they want this. First of all, they wanted it not to go through, but then, when it was approved in the parliament, they said they wanted the implementation to be delayed, because at this time in Gaza, there is no one else who can take over the needs of the people and the civilians who are desperately trying to survive there. Israel has long wanted this to happen. They accuse the agency of being affiliated with Hamas, something which UNRWA denies. They have also said that they believe a small handful were part of the October 7th attacks against Israel. A U.N. investigation found that nine may have had links to that attack, and they were fired immediately. But the U.N. has said that there are 13,000 employees from this group that are desperately trying to help those on the ground. In fact, more than 230 of this agency's workers have been killed during the war in Gaza. So, there is some very significant concern humanitarian aid groups on the ground as well saying they cannot pick up the slack. This is an infrastructure that UNRWA has, and it is not something, especially in the middle of a war that can be lost, Erica.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:25:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Yesterday, we were and one of the -- we don't know why the police, why the military or they don't go and so --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:25:00",
+      "speaker": "SHUBERT",
+      "sentences": "There were no police, no military there?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:25:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "No police -- no one was there.SHUBERT (voice-over): Specialized equipment is finally coming through, days late. Power and water have been mostly restored to affected areas. But for people in Valencia, it's too little, too slow and too late. Atika Shubert, CNN, Valencia, Spain. (END VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:25:00",
+      "speaker": "HILL",
+      "sentences": "Let's get you up to speed on some of the other stories on our radar. A female student detained in Iran after stripping down to her underwear inprotest outside of her university. This is video shared by Amnesty International. It shows the woman sat with her hair uncovered before walking off down the street. According to the organization, she was protesting Iran's strict Islamic dress code, which, of course, requires women to cover their hair in public. CNN has not been able to independently verify the details of that incident. Take a look at this record smog enveloping you can barely see the vehicles there, enveloping Eastern Pakistan's Punjab province over the weekend. The hazardous air pollution is a health risk in Lahore, Pakistan, that city, of course, of 14 million people. Pakistani officials are now calling for climate diplomacy with India in an effort to combat the problem. In Indonesia, at least six people are dead after a volcano erupted in the east the AP reporting it happened just after midnight on Monday, sending thick brown ash spewing thousands of meters into the air. Officials said the ash hit a nearby village where it burned down several houses, including a convent of Catholic nuns. Here in the U.S., we are just hours away from the official start to Election Day, but when and how will we know who will be the next resident there of the White House? We're going to take a look at the vote counting how it will unfold hour by hour to give you a better sense of when we may know. Plus, they are still new to politics, but they could have a major impact this election cycle. Why young voters are such a focus in 2024? (COMMERCIAL BREAK)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:30:00",
+      "speaker": "ZACHARY WOLF, CNN POLITICS SENIOR WRITER",
+      "sentences": "Yeah, we really don't know when we will know who's going to win this election, because every state counts alittle bit differently. There have been some changes since 2020 and we're not going through a global pandemic right now. So, there are going to be a lot fewer people casting ballots by mail and the mail-in ballots just literally take longer to process. States like Georgia, they're opening those ballots early. Most states do this to get them ready, so that relatively early on election night, they hope to have most of their ballots counted. Georgia is one of the first battleground states where polls close. North Carolina, they close at 07:30 Eastern. If those two states are relatively quick, maybe we'll have an idea of what's going on with the day sort of early. But the state that you referenced 2020 when it took four days. The state that put President Joe Biden over the edge in four years ago, Pennsylvania, they're not opening those mail in ballots early. So, it could take a very long time again in Pennsylvania, when they start opening the ballots tomorrow on Election Day and then wait to count them. And of course, in Georgia and North Carolina, those states, even if it's very close, having those ballots open early might not help us find out until a day or later, when we start counting things like provisional ballots, ballots from overseas further west in Nevada, they will accept mail-in ballots until November 9, as long as they were postmarked on Election Day. So, it really comes down to how close this thing will ultimately be. Does it match the polls? And if you have to count every vote in order to understand who is going to win, it could be a while.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:30:00",
+      "speaker": "HILL",
+      "sentences": "Yeah, it could be. So, buckle up and get comfortable. Zachary Wolf, appreciate it. Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:30:00",
+      "speaker": "WOLF",
+      "sentences": "Thanks.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:30:00",
+      "speaker": "HILL",
+      "sentences": "Well, as I noted, there are a number of Americans who have already voted, more than 75 million so far voting where they could early in theirstates. Our next guest, Charles Myers is Founder of Signum Global Advisors, and says there are some definite trends to be gleaned from these early voters. He joins me now. Charles, I have to say I was struck. So, the last day in my town, just outside of New York City, was yesterday. I drove by, it almost 5 o'clock last night, and there was still a big line out the door, big numbers. But is there anything you can really glean from those numbers? Because we don't know exactly how their votes were cast. CHARLES MYERS, CHAIRMAN &amp; FOUNDER OF SIGNUM GLOBAL ADVISORS: Absolutely! And Erica, thanks for having me on. There's a little bit for both sides in the early voting data. If you're a Republican, you take comfort from the fact that there is significantly higher Republican turnout early. This cycle, President Trump and all of his surrogates and the party have been encouraging Republican voters to actually vote early this time. So, you do take some comfort from that, but if you're on the Democratic side, you're taking, I'd say, a lot more comfort from the fact that we're seeing much higher turnout by women. Women turned out at 54 percent in 2020. They're turning out at exactly the same level in early voting, except in a few key swing states like Georgia and especially Pennsylvania, at 56 percent very good sign for Harris.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:30:00",
+      "speaker": "HILL",
+      "sentences": "So, when we look at where things are in this moment, this Iowa poll that came out over the weekend, obviously getting a lot of attention,because it shows essentially a flip from what they saw in September, when Donald Trump was leading with 47 percent to Kamala Harris is 43. Now we see Harris with 47 percent, Trump with 44 it's within the margin of error. But what really stands out are the independent voters there. They're now breaking for Kamala Harris, and also women, and specifically women over the age of 65, those two voting blocs. Do you think they've been underestimated up to this point?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:35:00",
+      "speaker": "HILL",
+      "sentences": "There's been a lot made of the polling, right? We know there were -- the polls were certainly off in the last two elections, when we look atthem. And there are questions about whether there's maybe some overcorrection. How do you think to this point, the polling has done? How is it stacking up?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:35:00",
+      "speaker": "MYERS",
+      "sentences": "Yes. So, I'd say, when you look back at the last two election cycles in both 2020 and 16, polling companies under polled Trump by about 4percent each time, meaning he outperformed the polling by about four points. There is a very high possibility, and it's been relatively well covered. But there's a pretty big probability, or high probability, that polling companies have now over corrected in Trump's favor, so they don't get it wrong a third time. So, if anything, the surprise this time is probably not the silent Trump voter that turns out. It's actually more silent Harris voters, which I think again, are going to be independent. And some Republican women that vote Harris, that are not getting picked up in the polls, but if anything, pulls over corrected for Trump.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:35:00",
+      "speaker": "HILL",
+      "sentences": "So, what's interesting is, I was actually have a conversation with someone over the weekend, who said they think the polling is still going tobe off, that there still is not enough of -- or pollsters have maybe not figured out the best way to get to a number of Trump supporters, because they -- some of them may be distrustful of the polling companies. Do you put any stock in that?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:35:00",
+      "speaker": "MYERS",
+      "sentences": "I think there may be an element of that, you know, on the other side of it, we -- you know, we know that young voters, for example, don'tparticipate in polls very actively either. It's not a distrust issue, it's just that they don't really, it's not sort of in their DNA to do so. I do think polling will be off again this cycle. The biggest challenge with polling is not only sample size, but it captures your sentiment towards a candidate. It doesn't capture turnout, and that's where polling has failed us consistently. It's going to be off again this cycle. The only question is, is it going to be off more in Harris' favor or Trump's favor? I'm willing to bet in Harris' favor because of women.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:35:00",
+      "speaker": "HILL",
+      "sentences": "And we will have our answer in the coming days. Charles, great to have you with us today. Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:35:00",
+      "speaker": "MYERS",
+      "sentences": "Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:35:00",
+      "speaker": "HILL",
+      "sentences": "In her last Michigan campaign stop, Vice President Kamala Harris spoke to an auditorium packed with young people. Both campaigns reallylooking to grab the attention, the confidence, and let's be honest, the votes of those young voters. CNN Chief U.S. National Correspondent John King, has been out there speaking with a number of them. (BEGIN VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:35:00",
+      "speaker": "RALPH BRENNAN, CAMPUS COORDINATOR AT MICHIGAN TRUMP TEAM",
+      "sentences": "I'm calling to ask --JOHN KING, CNN CHIEF NATIONAL CORRESPONDENT (voice-over): Michigan Republican headquarters five days out.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:35:00",
+      "speaker": "BRENNAN",
+      "sentences": "If President Trump can count on you and his support in this election.KING (voice-over): A basement phone bank shift. Ralph Brennan among the Michigan State students helping turn out the vote.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:35:00",
+      "speaker": "BRENNAN",
+      "sentences": "I think there's a red wave coming, especially Michigan, and I think people will be very surprised on how many people vote Republican thiselection. KING (voice-over): Brennan is 21, a junior economics major from Ohio, but he registered in Michigan for his first vote for president.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:35:00",
+      "speaker": "BRENNAN",
+      "sentences": "I was a sixth grader when Trump got elected in 16, and I watched him come to the White House. I watched the inauguration. I watched all thegreat things he did. KING (voice-over): Trump struggled with young voters in 2016 and 2020. Brennan predicts better numbers this time, especially among young men. And especially after Robert F. Kennedy Jr. ended his campaign and backed Trump.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:35:00",
+      "speaker": "BRENNAN",
+      "sentences": "I've heard a lot of young guys say how much -- how important RFK was to their President Trump vote. You know, ever since Trump kind ofbrought RFK onto the team, onto the campaign. A lot of young men, voters really like that kind of resonate with RFK and what he's done. KING (voice-over): In a dead heat race organization can be the difference.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:35:00",
+      "speaker": "JADE GRAY, DIGITAL ORGANIZING MANAGER OF PROGRESS MICHIGAN",
+      "sentences": "-- Yeah --KING (voice-over):  Halloween Spirit helps.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:35:00",
+      "speaker": "GRAY",
+      "sentences": "Just cookies too.KING (voice-over): Treats as well.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:35:00",
+      "speaker": "GRAY",
+      "sentences": "Will you fill out one of our pledges to vote things?KING (voice-over): Jade Gray is a progressive organizer, Former Co- President of the College Democrats here at the University of Michigan, back on campus to encourage early voting.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:35:00",
+      "speaker": "GRAY",
+      "sentences": "We know that when we vote, we win, and quite frankly, we're getting a lot of people out to vote.KING (voice-over): Gray's optimism is a big shift. This is our fourth Ann Arbor visit in a year. Back at the beginning, she was down about President Biden's prospects, and later, she was worried Vice President Harris would still lose too many young voters because of student anger over the Israel- Hamas conflict.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:40:00",
+      "speaker": "GRAY",
+      "sentences": "It was not just the candidate that switched, but it was really their whole approach to the campaign and leaning into this idea that memes andinternet culture is a, you know, a mode of communicating about politics, has totally transformed this race. And I think will be, you know, one of the biggest reasons to one of the biggest things we should credit I'm saying when, but if she wins. (END VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:40:00",
+      "speaker": "HILL",
+      "sentences": "And again, that was CNN's John King reporting in Michigan. Still to come this hour, who voters sent to the White House could, of course, impactinflation. And we are staring down a new decision on interest rates. We'll take a closer look at the economy and the election, next. (COMMERCIAL BREAK)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:40:00",
+      "speaker": "HILL",
+      "sentences": "The economy is consistently one of the top issues for American voters. And with the Federal Reserve set to make its next move on interestrates, Thursday, there are a lot of questions about what this could mean moving forward. Inflation, of course, has been cooling, which is good news. But there is still hope, another interest rate cut is, in fact, in the works. CNN's Matt Egan joining us from New York, so we're waiting to see what happens on Thursday. We're waiting to see what happens tomorrow in the election. And there's a lot of talk too about the latest inflation numbers, where everything stands. What are we expecting later this week, and what could that impact be?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:45:00",
+      "speaker": "HILL",
+      "sentences": "Yeah, it can only really work with what they know right now. I mean, to your point, though, about some of the promises that we've heard fromFormer President Trump, he has really leaned in as part of his message to saying, hey, these high prices that you see, all this inflation, this is the result of a Biden-Harris agenda, as he calls it. But you mention what he has floated out there, and especially these tariffs, it's been very clear, and certainly from a number of CEOs that CNN has just spoken with as well, that higher tariffs do get passed on to the consumer, and this could really impact the pricing of things and how much money people have on their -- in their wallets?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:45:00",
+      "speaker": "EGAN",
+      "sentences": "Yeah, absolutely! Erica, look, there's been this big dispute where Former President Trump has said again and again that China is going to paytariffs that are imposed by the United States, but that's just not the way tariffs work. Or these are levies that are imposed on imports. And the importing company has to pay those tariffs, and then they can either eat the cost, or often what happens is they pass the cost along to consumers. And some companies that make stuff that we all buy. They're already warning about the inflationary impact here. The CEO of Auto Zone said during a recent earnings call that if we get tariffs, we will pass those tariff costs back to the consumer, and that they won't wait for that to happen. There's also over 300 economists who signed a recent letter opposing Trump, and they wrote just as Mexico didn't pay for a wall in his first term, China will not pay for Trump's tariffs if he's given a second term. You will. One other company out there that is warning about the inflationary impact of Trump's potential tariffs. The CEO of Columbia Sportswear told \"The Washington Post\" that they are already buying stuff today for next fall, and that if needed, they'll just raise prices. They say it's going to be very, very difficult to keep products affordable for Americans if there are these tariffs out there. So, Erica, this is one of those other really important elements of the Trump agenda that is making some mainstream economists worried about how this could actually make the inflation situation worse.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:45:00",
+      "speaker": "HILL",
+      "sentences": "Matt Egan in New York for us. Matt, appreciate it. Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:45:00",
+      "speaker": "EGAN",
+      "sentences": "Thanks, Erica.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:45:00",
+      "speaker": "HILL",
+      "sentences": "Still ahead here, the music industry loses a giant from playing with the jazz greats to produce Michael Jackson. We remember the man knownsimply as cute, Quincy Jones. (COMMERCIAL BREAK)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:45:00",
+      "speaker": "HILL",
+      "sentences": "No matter the winner, whether it's Kamala Harris or Donald Trump, we know the outcome of the U.S. election will have major ramifications aroundthe world. For a closer look, we have our Fred Pleitgen in Berlin as well as CNN Chief Global Affairs Correspondent Matthew Chance with a closer look at how the outcome could impact the Middle East.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:50:00",
+      "speaker": "FREDERIK PLEITGEN, CNN SENIOR INTERNATIONAL CORRESPONDENT",
+      "sentences": "There's a lot of uncertainty and anxiety here in Europe about the upcoming U.S. presidentialelection, especially among the U.S. is European NATO allies. Now there are some who fear that if Donald Trump wins the presidency, that it could lead to the United States significantly scaling back its commitments to NATO and possibly even that vow to protect NATO members if they are attacked from the outside. All of this, of course, is happening in front of that backdrop of the war in Ukraine, which of course, is still a huge topic here in Europe. And there, both the Ukrainians and European NATO allies fear that if Donald Trump wins the presidency, that it could also lead to the U.S. significantly scaling back its military aid for Ukraine and possibly even stopping it altogether, which, in the end, could force the Ukrainians, de facto, into a surrender against Russia. A lot of European NATO countries have, of course, given significant military aid to Ukraine, but a lot of them are doing that knowing that the U.S. will protect them from Russia. Fred Pleitgen, CNN, Berlin.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:50:00",
+      "speaker": "HILL",
+      "sentences": "The music industry is also one of its trailblazing luminaries. Musician and producer Extraordinaire, Quincy Jones, we've learned, has diedat the age of 91 at his home in Los Angeles. His legacy includes highlights like Michael Jackson's \"Thriller\" album collaborations with some of the music industry's biggest, most sought-after stars. Here's Sara Sidner with a look back at his life and his legacy. (BEGIN VIDEOTAPE) SARA SIDNER, CNN CORRESPONDENT (voice-over): As the man behind some of music's most memorable hits, Quincy Jones was one of the most Grammy nominated artists of all time.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:50:00",
+      "speaker": "LATE QUNICY JONES, AMERICAN RECORD PRODUCER",
+      "sentences": "When you do win some love, it's not work.SIDNER (voice-over): Born Quincy Delight Jones, Jr. on the south side of Chicago in 1933, Jones found his passion for music when his family moved to Seattle in the late 40s. Jones took a job with the Lionel Hampton band as its trumpet player. He worked steadily with musical greats like Sarah Vaughan, Count Basie, Duke Ellington, Dinah Washington, and his friend Ray Charles.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:50:00",
+      "speaker": "JONES",
+      "sentences": "We didn't think about money or fame ever.SIDNER (voice-over): During the 60s, Jones began writing film scores for movies such as \"The Pawnbroker\", \"In cold blood\" and \"In the Heat of the Night\". We even crafted iconic themes for the TV shows, \"Ironside\" in Sanford and Son. The in-demand musician, even arranged and conducted his friend Frank Sinatra's second album with Count Basie. It might as well be swing. The 1964 album included \"Old Blue Eyes\" hit song, fly me to the moon.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:50:00",
+      "speaker": "JONES",
+      "sentences": "Fly me to the moon.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:50:00",
+      "speaker": "JONES",
+      "sentences": "We've had the best time like being on another planet with him. Frank would say, Q live every day like it should last, and one day you'll beright. SIDNER (voice-over): Jones suffered two brain aneurysms in 1974 that nearly took his life. He recovered and went right back to work. He produced albums for Aretha Franklin, George Benson and Michael Jackson's first solo effort \"Off the Wall\" in 1979. Jones successful collaboration with MJ also led to \"Thriller\" in 1982. It became the best-selling album of all time. The dynamic duo teamed up again in 1985 with \"We are the World\".",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:50:00",
+      "speaker": "JONES",
+      "sentences": "I like to think about the studios a place that's real sacred, you know, where magical things happen? Hopefully, that's what great records aresupposed to be about. SIDNER (voice-over): He produced his first film \"The Color Purple\", in 1985, the drama earned 11 Oscar nominations, including Best Picture. Q, as his friends called him, seemed to always have a good idea. He created Quincy Jones entertainment in 1990, the following year, he produced \"The Fresh Prince of Bel Air\" TV series starring rapper turned Actor Will Smith.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:50:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "You never think of retiring.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:50:00",
+      "speaker": "JONES",
+      "sentences": "Never when you retire, you travel and you do what you like to do, and I'm already doing it.SIDNER (voice-over): In early 2013, the Rock n Roll Hall of Fame honor Q for his exemplary contributions to music.",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

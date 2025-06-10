@@ -1,0 +1,367 @@
+{
+  "date": "2024-02-22",
+  "headline": "CNN News Central",
+  "subHeadline": "Massive Mobile Phone Disruption; Kremlin Lashes Back at Biden; Biden Eyes Executive Action for Migrants; Ex-FBI Informant Not Important Part of Biden Probe. Aired 9-9:30a ET",
+  "utterances": [
+    {
+      "timeStamp": "09:01:03",
+      "speaker": "KATE BOLDUAN, CNN ANCHOR",
+      "sentences": "Cellphone service disrupted across the country this morning. Thousands and thousands of people are waking up to zero bars essentially. What the cellphone providers are saying about what's happened and what they're doing to fix it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:01:03",
+      "speaker": "JOHN BERMAN, CNN ANCHOR",
+      "sentences": "President Biden calls Vladimir Putin a crazy SOB, And this morning, Putin does not seem to like that. The new Kremlin response.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:01:03",
+      "speaker": "BOLDUAN",
+      "sentences": "The largest health system in Alabama says that it has to stop IVF treatments, at least for now, all because of the Alabama Supreme Court ruling.I'm Kate Bolduan, with John Berman. Sara is out today. This is CNN NEWS CENTRAL.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:01:03",
+      "speaker": "ANNOUNCER",
+      "sentences": "This is CNN breaking news.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:01:03",
+      "speaker": "BOLDUAN",
+      "sentences": "And we are following this breaking news this morning. Cell phone service disrupted across the country. Tens of thousands getting hit by a massive service outage. An industry source telling CNN that there's no indication, at least now, of a cyberattack, but they are still investigating what's going on. AT&amp;T customers seem to be facing widespread issues. The company just acknowledged to CNN they're experiencing disruptions to its network, saying, quote, \"we are working urgently to restore service to them.\"Let's bring in CNN's Brian Fung, who's tracking the outage and the response as it's been kind of unfolding this morning. Also with us is senior national security analyst Juliette Kayyem. Brian, what is the latest on these outages and the disruptions?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:01:03",
+      "speaker": "BRIAN FUNG, CNN TECH REPORTER",
+      "sentences": "Yes, Kate, as of right now, we've seen tens of thousands of user reports on the website downdetector.com, mostly from AT&amp;T customers saying they're having trouble placing calls, not having service. And we've seen numerous reports from emergency services around the country saying you may have trouble reaching 911 if you're an AT&amp;T customer, recommending that you, you know, either use a different phone from another network to try and call 911 if you need to do so. All of this seems to be unfolding across the country with many markets being affected, including Los Angeles, Atlanta, Dallas, Chicago, New York, and more, with many people experiencing a loss of signal on their phones, particularly on AT&amp;T.Now, AT&amp;T says it is tracking this issue and working to resolve it. Verizon and T-Mobile say that their networks are operating normally. If you are a Verizon or T-Mobile customer and you're experiencing issues, it's likely because, at least according to these companies, that you're trying to call an AT&amp;T customer who is affected by this issue. So, as of right now, it seems like the main problem seems to affect AT&amp;T only. And again, an industry official telling CNN earlier today that this does not appear linked to any cyber or other malicious activity. Kate.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:01:03",
+      "speaker": "BOLDUAN",
+      "sentences": "Let's -- let me read that reporting once again, Juliette, and then you can let me know what you think here.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:01:03",
+      "speaker": "JULIETTE KAYYEM, CNN SENIOR NATIONAL SECURITY ANALYST",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:01:03",
+      "speaker": "BOLDUAN",
+      "sentences": "\"There's no indication that Thursday's outage was a result of a cyberattack or other malicious activity.\" That's according to an industry source. \"The issue appears to be related to how cellular services hand off calls from one network to the next.\" The source says a process known as peering.We don't need to get into maybe the minutiae of how these -- how this works, but what do you see here?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:05:00",
+      "speaker": "BOLDUAN",
+      "sentences": "Yes, and I think that's -- the to dependent bit I think is what concerns everybody so much.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:05:00",
+      "speaker": "KAYYEM",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:05:00",
+      "speaker": "BOLDUAN",
+      "sentences": "It's just a - it's a stark reminder of how much -- how all of us, obviously, rely so much on our cellphone service -- our cell phones, our cell phone service and the networks that back that up and how quickly that can feel very, very scary.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:05:00",
+      "speaker": "KAYYEM",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:05:00",
+      "speaker": "BOLDUAN",
+      "sentences": "Especially, Brian, when some of it -- some of the reports we saw this morning were that 911 service, 911 calling -- call into 911, that was also disrupted, at least in some places. Is there any word from the companies, or what you're hearing from industry sources, of when this could be fixed?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:05:00",
+      "speaker": "FUNG",
+      "sentences": "Well, not yet. You know, I think there's -- the companies are working very quickly to try and address this. You -- the very concerning issues affecting 911, obviously, make this a really pressing issue, Kate. And, you know, as you may know, AT&amp;T operates a dedicated first responder network known as First Net, and that is likely what is behind some of the issues related to 911 and preventing people from being able to reach emergency responders.So, obviously, you know, that's going to be a very high priority for AT&amp;T to get that back online and minimize the disruption if folks need to, you know, call the police or called the fire department.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:05:00",
+      "speaker": "KAYYEM",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:05:00",
+      "speaker": "FUNG",
+      "sentences": "You know, we've seen some tweets by - by fire officials saying, you know, if you -- if your fire alarm goes off, that doesn't necessarily mean that we will be notified. So, please follow up with a 911 call if your fire alarm does -- does go off because the telecommunications between your fire alarm and the fire department might be disrupted as a result of this outage.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:05:00",
+      "speaker": "BOLDUAN",
+      "sentences": "Yes, things you're not checking quickly if you - when your fire alarm goes off in your house is Twitter to see how best to reach out to 911. That's why this is so scary. And it is so urgent.Stay close, guys, because this is - we'll see what happens in the next three hours during the shelf. Really appreciate it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:05:00",
+      "speaker": "BERMAN",
+      "sentences": "Look, dystopian movies begin with this, right?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:05:00",
+      "speaker": "BOLDUAN",
+      "sentences": "That's exactly right. I was just watching one.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:05:00",
+      "speaker": "BERMAN",
+      "sentences": "They begin - \"Leave the World Behind\" on Netflix.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:05:00",
+      "speaker": "BOLDUAN",
+      "sentences": "Yes. Such a good show.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:05:00",
+      "speaker": "BERMAN",
+      "sentences": "Cell phone outage goes. You woke - I woke up this morning with \"SOS\" on my pink cell phone. Why it's pink is another issue, but -",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:05:00",
+      "speaker": "BOLDUAN",
+      "sentences": "He has a very strong opinion about cell phone covers.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:05:00",
+      "speaker": "BERMAN",
+      "sentences": "But, again, when you can't reach anybody, it can be alarming.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:05:00",
+      "speaker": "BOLDUAN",
+      "sentences": "It's true.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:05:00",
+      "speaker": "BERMAN",
+      "sentences": "And that's what thousands of people woke up to this morning.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:05:00",
+      "speaker": "BOLDUAN",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:05:00",
+      "speaker": "BERMAN",
+      "sentences": "Also this morning, a sharp escalation in name calling between the two largest nuclear powers on earth. The Kremlin just lashed back at President Biden, calling him a huge disgrace. This came after Biden, President Biden, called Vladimir Putin a, quote, \"crazy SOB\" off camera at a fundraiser in San Francisco.And it comes at an increasingly tense moment as there is new evidence that Russia is trying to influence U.S. elections. Even the investigations into President Biden and his son Hunter. And there are new questions about the mysterious death of Russian opposition leader Alexei Navalny and the failure to turn over his body. CNN's Matthew Chance following this live from Moscow this morning. Matthew, what are you hearing there?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:10:04",
+      "speaker": "BERMAN",
+      "sentences": "Matthew Chance, in Moscow. Matthew, thank you. A Hollywood cowboy. That's the response from the Kremlin this morning.Kate.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:10:04",
+      "speaker": "BOLDUAN",
+      "sentences": "Also this morning, President Biden is considering taking matters into his own hands when it comes to the border. New reporting that he's thinking about using executive action to block asylum claims as the border crisis continues and as any real fix from Congress has stalled on that front, all for political reasons, just to remind you. This possible move by Biden is actually reminiscent of a move Donald Trump made while in office. A move that was quickly challenged in court. So, what could this look like?CNN's Priscilla Alvarez is joining us. She's got much more on this. Priscilla, what are you hearing?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:10:04",
+      "speaker": "PRISCILLA ALVAREZ, CNN WHITE HOUSE REPORTER",
+      "sentences": "Kate, sources tell me that White House officials are reviewing an authority in immigration law that essentially allows the president to decide who is eligible to enter the United States. In this context, what the president could do is limit who is able to claim asylum between the ports of entries. In other words, migrants crossing the border illegally could be restricted from claiming asylum.Now, as you mentioned there, this is a move that is reminiscent of the Trump era. In 2018, former President Donald Trump also used this authority to try to block off asylum entirely on the U.S./Mexico border. That was challenged in courts and eventually a federal appeals court blocked it. And now I'm told that lawyers are reviewing this possible executive action to see whether it could stand in the courts if it's different at all. We don't have all the details as to what it will look like, but an administration official tells me it's one of many options that's being considered at the White House and that no final decision has been made. A White House spokesperson also telling me the following, quote, \"no executive action, no matter how aggressive, can deliver the significant policy reforms and additional resources Congress can provide and that Republicans rejected. We continue to call on Speaker Johnson and House Republicans to pass the bipartisan deal to secure the border.\" Of course, what the White House is referring to there is that Senate border deal that was worked on by Senate negotiators and White House officials that in part would have given extraordinary powers to the Homeland Security secretary to shut down the border if certain triggers were met. And President Biden, over the course of those negotiations, embraced those tough measures, saying that he would shut down the border if given the authority. And he appears to be doing some of that now. Of course, this also comes during an election year. Former President Donald Trump is making immigration a key part of his campaign. This has been a political liability for President Biden. So, all of that colliding in this moment as the White House considers what would be an extraordinary move if it were to move forward, that would ultimately limit who can claim asylum if they cross illegally. Kate.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:10:04",
+      "speaker": "BOLDUAN",
+      "sentences": "Yes. Priscilla, thank you so much for that reporting.John.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:10:04",
+      "speaker": "BERMAN",
+      "sentences": "All right, with us now, Democratic strategist, former executive director for the New York State Democratic Party, Basil Smikle, and Republican strategist, Shermichael Singleton.Friends, I want to play, lets predict the political response to this information just reported by Priscilla from the White House. Basil, first to you. I want to understand from you what you think progressive Democrats will say about this executive action if the president chooses to take it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:10:04",
+      "speaker": "BASIL SMIKLE, FORMER EXECUTIVE DIRECTOR, NEW YORK STATE DEMOCRATIC PARTY",
+      "sentences": "Well, I think there's going to be infighting certainly within the Democratic Party because progressives are not going to be happy with some of these -- some of these decisions. But to be honest, that probably mirrors some of the challenges that are actually happening even within the administration. There's a lot of conversation around where we - where Biden should go on this. You know, he started his presidency saying that he was going to be different from Barack Obama and Donald Trump on immigration. He's actually pushed out more executive orders than Donald Trump on immigration because of Congress' failure -- failure to act.But this is a very challenging situation in part because, yes, he will - he will face some headwinds from progressives. But we have all seen how much Republicans are using immigration as a wedge issue in -- in elections. We saw that in New York 3 in the special election with Tom Suozzi. I don't think it worked, but it doesn't mean that it's not going to continue to be something that Republicans will play against Democrats throughout the rest of this cycle.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:10:04",
+      "speaker": "BERMAN",
+      "sentences": "Just a quick follow-up because you brought up New York 3, Basil, and you used to run the New York Democratic Party. Not only did it not work for Republicans in that election, but Tom Suozzi, the Democrat, actually ran on being tough on immigration and won.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:10:04",
+      "speaker": "SMIKLE",
+      "sentences": "That's right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:10:04",
+      "speaker": "BERMAN",
+      "sentences": "So, is that a model of potential success for President Biden here?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:15:05",
+      "speaker": "BERMAN",
+      "sentences": "So, Shermichael, from your side in let's predict the political response, are Republicans going to stand up and applaud these measures and say these are exactly the kind of tough measures we've been calling for, great job, President Biden? Can we expect that?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:15:05",
+      "speaker": "SHERMICHAEL SINGLETON, REPUBLICAN STRATEGIST",
+      "sentences": "I don't think they're going to applaud the president, John, but I think some of these steps are long overdue. I mean there are several things the president could have done immediately regardless of what occurs in Congress because of the political climate. He could have immediately declared a national emergency to expedite removal of migrants. He could end catch and release policies. He could re-institute Donald Trump's remain in Mexico policy. And the president hasn't done any of those things.Now, I, as a conservative, I'm glad he's finally considering some of these policies. But from a political perspective, John, I think for most Americans, they look at this and it does worry many of them. I think it ultimately leads to a significant level of disintegration culturally and structurally, in part because native Americans see resources being redirected from them to non-Americans. And I would argue my concern here is that that does cause a significant level of concern, anger, and perhaps even resentment towards migrants. And considering the level of tribalism and division in the country with native Americans, it's certainly something that I don't think the political class would want to deal with as well. So, the president needs to take immediate action on this particular issue.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:15:05",
+      "speaker": "BERMAN",
+      "sentences": "When you're talking about native American, let's just be clear, who are you talking about what when you're talking about native Americans? You're not talking about tribal issues (INAUDIBLE), correct?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:15:05",
+      "speaker": "SINGLETON",
+      "sentences": "So, not tribal. I mean - I mean Americans or individuals born in the country, or individuals who are legally Americans. And by that I mean, struggling, hard-working people, John.For example, I watched a clip a few days ago of some folks in Chicago, African American people by the way, who were extremely outrage by the fact that the city was opening housing for immigrants. And many of the individuals there were saying, well, wait a minute here, we have been requesting additional housing. We have requested resources for many of the struggles that hard-working people are going through and now all of a sudden the resources now exist for other individuals? That leads to resentment and anger, and that's a problem.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:15:05",
+      "speaker": "BERMAN",
+      "sentences": "Basil, you were trying to get in there.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:15:05",
+      "speaker": "SMIKLE",
+      "sentences": "Well - yes. No, I would just say, I think that exchange is very important because if we think about native Americans in this country, we are all immigrants because the Native Americans, those that are really native to this country, have been -- been the subject of near genocide. And so I think that's important to note because we - we are all immigrants in this country. And what I think the Biden administration is trying to do, and as a child of immigrants I would hope that he does, is stay away from so many of those images that we've seen over the past few years, those Haitian migrants being chased by men on horses with whips, the so-called Muslim ban, if you remember that, and the chaos at our airports for that period of time. It's trying to move away from those draconian measures that have -- that have really haunted so many of us.And I'm going to -- I'm going to, you know, make a concession here. I think whether you're a Democrat or a Republican, this issue could be fixed. This is largely a result of decades of not really tackling it head-on. And here we are today. So, yes, I do think that this is a - this is an issue that's come to a head that Republicans certainly will use as a wedge, but there are ways that it can be dealt with that is more welcoming to - to those individuals that are seeking a better -- a better life here, but not to the exclusion of people who have been here and are trying also to do the same thing, to do well for their families, for their community.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:15:05",
+      "speaker": "BERMAN",
+      "sentences": "Basil Smikle -",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:15:05",
+      "speaker": "SINGLETON",
+      "sentences": "John -",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:15:05",
+      "speaker": "BERMAN",
+      "sentences": "Shermichael Singleton, great discussion this morning. Thank you both so much.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:15:05",
+      "speaker": "SINGLETON",
+      "sentences": "Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:15:05",
+      "speaker": "BERMAN",
+      "sentences": "We'll get back - I promise you, this issue - if one thing is proven certain, this issue is not going away anytime soon.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:15:05",
+      "speaker": "SMIKLE",
+      "sentences": "We'll keep talking about it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:15:05",
+      "speaker": "BERMAN",
+      "sentences": "So, thank you both for being here today.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:15:05",
+      "speaker": "SINGLETON",
+      "sentences": "Thank you, John.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:15:05",
+      "speaker": "SMIKLE",
+      "sentences": "All right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:15:05",
+      "speaker": "BERMAN",
+      "sentences": "Kate.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:24:02",
+      "speaker": "BOLDUAN",
+      "sentences": "Clean up on aisle Biden impeachment. House Republicans are trying to salvage their impeachment inquiry right now into the president after the FBI informant touted as a key witness and a key source of information was indicted for lying to the FBI and lying to the FBI about his claims that Biden was involved in a bribery scheme.So the House Oversight chairman, James Comer, who's been leading part of the impeachment inquiry, he is now trying to downplay the importance of this informant. (BEGIN VIDEO CLIP) REP. JAMES COMER (R-KY): He wasn't an important part of this investigation because I didn't even know who he was. All I knew was there was a 1023 that alleged bribery. My investigations about all the money the Bidens have taken from China, from Romania, from -",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:24:02",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "For nothing - for no - for nothing in return. For nothing in return.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:24:02",
+      "speaker": "COMER",
+      "sentences": "Kazakhstan, (INAUDIBLE) for nothing. For nothing. This guy has absolutely nothing to do with it. We got a tip. We investigated it. We couldn't figure out who it was.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:25:02",
+      "speaker": "LAUREN FOX, CNN CONGRESSIONAL CORRESPONDENT",
+      "sentences": "Well, a lot of Republicans, like Comer, are trying to downplay how foundational this 1023 was to moving forward with their impeachment inquiry.But here's just a snapshot of what Republicans have been saying over the course of the last several months about the importance of this 1023. (BEGIN VIDEO CLIP) REP. JAMES COMER (R-KY): This is from the FBI's most trusted, most credible, one of their highest paid informants in the whole bureau. The evidence here is pretty overwhelming that Joe Biden did something for the CEO of Burisma. KEVIN MCCARTHY (R-CA), FORMER HOUSE SPEAKER: Even a trusted FBI informant has alleged a bribe to the Biden family. REP. JIM JORDAN (R-OH): The most corroborating evidence we have is that 1023 form from this highly credible, confidential human source according to U.S. Attorney Scott Brady. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:25:02",
+      "speaker": "FOX",
+      "sentences": "So, the question now is, where does this leave the Republicans impeachment inquiry, their probe, their investigation that has been going on for months. Yesterday, James Biden, the president's brother, sat for a closed door interview with the House Judiciary and House Oversight committees. And after he spoke to investigators. Democrats emerged from that meeting. Jamie Raskin saying it was time to fold up the tent, go home, that this impeachment inquiry was over at this point.Now, Republicans have not said whether or not they are going to move forward with impeaching Joe Biden on the floor of the House of Representatives, but it's really important to point out that there were a number of Republicans who voted to open the impeachment inquiry but said at the time they wanted to see more evidence before they would be comfortable moving forward with a vote to impeach Joe Biden in the House. It's really unclear right now what that evidence is given the fact that after that eight-hour closed door meeting with James Biden yesterday and the Hunter Biden testimony expected behind closed doors next week, there just isn't that direct connection between the president and his son and family's business dealings abroad. Kate.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:25:02",
+      "speaker": "BOLDUAN",
+      "sentences": "Yes, sure isn't.It's good to see you, Lauren. Really appreciate it. John.",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

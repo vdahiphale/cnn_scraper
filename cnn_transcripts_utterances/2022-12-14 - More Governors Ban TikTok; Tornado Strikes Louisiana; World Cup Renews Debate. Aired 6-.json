@@ -1,0 +1,535 @@
+{
+  "date": "2022-12-14",
+  "headline": "CNN This Morning",
+  "subHeadline": "More Governors Ban TikTok; Tornado Strikes Louisiana; World Cup Renews Debate. Aired 6:30-7a ET",
+  "utterances": [
+    {
+      "timeStamp": "06:32:30",
+      "speaker": "KAITLAN COLLINS, CNN ANCHOR",
+      "sentences": "Welcome back. These are live pictures out of Jackson, Mississippi this morning.Coming up on the show, in the next few hours, we'll take you live to Farmersville, Louisiana, where a tornado hit overnight, injuring at least 20 people. Plus, how the late civil rights trailblazer and congressman, John Lewis, is going to be honored soon. Also, the stage is almost set for the World Cup final. There is a big debate before kickoff, though, is Messi the greatest of all time. We'll discuss.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:32:30",
+      "speaker": "POPPY HARLOW, CNN ANCHOR",
+      "sentences": "But first, Republican Senator Marco Rubio has announced bipartisan legislation to ban TikTok from operating in the United States. The senator is citing fears that the app could be used to spy on Americans by foreign adversaries, like China. TikTok's spokeswoman responded writing, it's troubling that rather than encouraging the administration -- for the administration to conclude its national security review of TikTok, some members of Congress have decided to push for a politically motivated ban that will do nothing to advance the national security of the United States.So, this legislation comes as a wave of Republican governors in at least ten states have now banned TikTok on government owned devices. Joining us now to talk about this, CNN anchor and correspondent Audie Cornish, CNN media analyst and \"Axios\" media reporter Sara Fischer. Great to have you guys. I just want to clarify something here. The China concern is because ByteDance owns TikTok and that is a - that is a Chinese --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:32:30",
+      "speaker": "DON LEMON, CNN ANCHOR",
+      "sentences": "ByteDance.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:32:30",
+      "speaker": "HARLOW",
+      "sentences": "That's what it's called. That's a huge Chinese tech company.But, Sara, let's just begin with you because TikTok's argument here - CFIUS is reviewing it, right? That's what they mean by Congress is still looking at this, the administration. But the -- can you explain here the facts about where this data goes vis-a-vis China?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:05",
+      "speaker": "AUDIE CORNISH, CNN ANCHOR AND CORRESPONDENT",
+      "sentences": "There's some other context here, though, which is that the Chinese government actually mandates potential access, should it choose, to the data for any of the companies that are basically Chinese owned. So, it's not a sort of unfounded fear and there have been reports about the Chinese government's attempts to get access when and where it wants.The even broader context of that is, that's kind of all apps. And there's been no real attempt, over the last 25 years, to try and regulate data privacy and security. In part because Silicon Valley and the innovation that our economy is based on is derived from that kind of lax regulation. So, the focus is on China right now, but there's also a broader conversation to be had about like, how do you control something that is also the engine for innovation under which a lot of the sort of creations of our modern apps are built on, which is us. We're the product, right? Like our data, our privacy.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:05",
+      "speaker": "COLLINS",
+      "sentences": "You know what, I'm really struck by how we talk about TikTok now based on how we talked about it when I was covering the Trump administration. Obviously Trump tweeted, you know, late one night, coming back from an event, that he was going to ban it and it freaked everybody out, especially, you know, all of the gen-c (ph) people on TikTok. But he had a real pursuit there, saying it needed to be sold. The concerns about what they were sharing. And now it's something that's just widely accepted as it is a threat and the question is what to do about it.I mean you hear Janet Yellen, the Treasury secretary, talk about it. You hear the FBI talk about it. You see the way the Biden administration says they have concerns about it. It's become, you know, a bipartisan concern about the threat that it poses potentially.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:05",
+      "speaker": "HARLOW",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:05",
+      "speaker": "FISCHER",
+      "sentences": "And I think one of the reasons for that is, in 2020, that's when TikTok started to really buy a lot of advertising, over a billion dollars' worth of ads on Meta, which is Facebook and Instagram, and on Snapchat. That's how they were able to cement their dominance here.So, in 2020, Donald Trump was waving a flag saying this could be a concern. Of course, for political reasons, him and other Republicans want to seem hawkish on China. Now fast forward. TikTok has cemented its dominance here. If you look at any third party data analysis firm they will tell you it's the fastest growing app, it's the most widely consumed app by young people. That's why the conversation has changed. It's just become a much bigger presence in our lives right now.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:05",
+      "speaker": "CORNISH",
+      "sentences": "And people use it as a search engine. I mean under the age of 30, there's a lot of research showing that people are using it to get their news, people are using it to look up information that they just want the answer to. So, it has an almost infrastructure like kind of role in some people's lives at this point.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:05",
+      "speaker": "LEMON",
+      "sentences": "Over the age of 30, too. I mean, not me. I'm talking -",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:05",
+      "speaker": "CORNISH",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:05",
+      "speaker": "LEMON",
+      "sentences": "My sister, who is five years older than me, is obsessed with TikTok.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:05",
+      "speaker": "CORNISH",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:05",
+      "speaker": "LEMON",
+      "sentences": "Every text, you know, thing that she sends is like a TikTok link and -",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:05",
+      "speaker": "CORNISH",
+      "sentences": "Well, like all algorithm-driven things, it gives you what you want and more of it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:05",
+      "speaker": "LEMON",
+      "sentences": "Yes. Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:05",
+      "speaker": "CORNISH",
+      "sentences": "There are like very nerdy concerns we can get in the weeds about, about sort of what can you do with the data, how it can inform your development with artificial intelligence, which people are talking about now because of ChatBot and Lensa, all those kind of AI devices that we're just playing with right now but they have real implications going forward.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:05",
+      "speaker": "LEMON",
+      "sentences": "Listen, I'm in a happy mood this morning, obviously because this is great. So I just have to share something my mom says. She says - love watching you guys this a.m. Audie Cornish is beautiful and her skin is flawless. She's always so calm and knowledgeable.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:05",
+      "speaker": "CORNISH",
+      "sentences": "Well, thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:05",
+      "speaker": "LEMON",
+      "sentences": "And I responded, love her. And she said, me too. And she's so smart.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:05",
+      "speaker": "CORNISH",
+      "sentences": "Oh, my God. Let me -",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:05",
+      "speaker": "LEMON",
+      "sentences": "So, there you go.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:05",
+      "speaker": "CORNISH",
+      "sentences": "What's her Venmo? Don's mom.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:05",
+      "speaker": "HARLOW",
+      "sentences": "But she's right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:05",
+      "speaker": "LEMON",
+      "sentences": "And, Sara, there will be, I'm sure, a text about you shortly.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:05",
+      "speaker": "CORNISH",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:05",
+      "speaker": "FISCHER",
+      "sentences": "Yes, I agree with your mom.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:05",
+      "speaker": "CORNISH",
+      "sentences": "But I thought your were going to - your mom sent a TikTok or something. I was like, where is this going.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:05",
+      "speaker": "LEMON",
+      "sentences": "No. Well, my sister, I can -- if I open my sister's text, it's like all TikTok.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:05",
+      "speaker": "CORNISH",
+      "sentences": "I know. The problem is, it's fun, right? You don't want to - you can't tell a bunch of people who are addicted to this thing because they think it's fun that it's a security threat.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:05",
+      "speaker": "LEMON",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:05",
+      "speaker": "CORNISH",
+      "sentences": "That is a very difficult sell from when they can and now these states are going to do it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:05",
+      "speaker": "HARLOW",
+      "sentences": "Well, let's see if they can - well, let's see if they can, with this Oracle deal, which is big.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:05",
+      "speaker": "CORNISH",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:05",
+      "speaker": "HARLOW",
+      "sentences": "They're not done with it yet. Let's see if they can make it as secure as it need to be.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:05",
+      "speaker": "FISCHER",
+      "sentences": "But if they can't, Poppy, that's why all these competitors are launching TikTok rivals.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:05",
+      "speaker": "HARLOW",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:05",
+      "speaker": "FISCHER",
+      "sentences": "So Instagram and Facebook have launched Reels. Reddit has acquired Dubsmash. You know, Snapchat has created Spotlight. They're waiting in the wings for this app to potentially get sanctioned or banned so that they can move in.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:05",
+      "speaker": "HARLOW",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:05",
+      "speaker": "CORNISH",
+      "sentences": "(INAUDIBLE).",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:05",
+      "speaker": "COLLINS",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:05",
+      "speaker": "HARLOW",
+      "sentences": "They need me to, you know, pay for - pay for the show.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:05",
+      "speaker": "LEMON",
+      "sentences": "I got you. See ya.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:05",
+      "speaker": "HARLOW",
+      "sentences": "Get to commercial.Thank you all. Agree with all the sentiments. Feel the exact same about you, Sara Fischer. Thank you. Ahead, a CNN exclusive on the advanced weaponry the U.S. plans to send to Ukraine. Plus, we are live in storm ravaged Louisiana.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:44:13",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "I'm not, you know, hurt (INAUDIBLE). Well, I'm hurt, but I'm OK because I'm still alive. I'm grateful to be alive. I'm grateful that me and my family are OK. You know, they're bringing the people out of my house that we had, you know.We just jumped -- grabbed the kids and got in the kitchen closet. I'm glad we didn't go in the hallway closet because that hallway is destroyed. The (INAUDIBLE) - everything is caved in. The (ph) dog in the wind. We opened the back door. Dog in the wind. Dog damn tornado about to take the dog. The trailer is sitting over there in the woods. Like, all this stuff you all see, over here, all this rubbish, this straight trailer was just -- everything that y'all see over here. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:45:06",
+      "speaker": "LEMON",
+      "sentences": "Derek Van Dam.Derek, be careful out there. A lot of things blowing around. A lot of debris. And we're thinking of everyone there this morning. Appreciate it. And straight ahead, comedian Jay Leno giving his first interview since his burn accident. What he remembers from that day.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:51:20",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "I can't bear to watch. Messi buries it.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:51:20",
+      "speaker": "COLLINS",
+      "sentences": "With an emphatic victory over Croatia, star forward Lionel Messi punched his ticket to the World Cup final this Sunday, renewing a very familiar debate in the soccer world. This has been happening for like a decade now. Who is better, Messi or Ronaldo? And who is the greatest player of all time? Joining us now to answer that age-old question is Sam Stejskal. He isa staff writer at \"The Athletic\" covering soccer. All right, just one answer. What's the answer? SAM STEJSKAL, STAFF WRITER, \"THE ATHLETIC\": I think it's Messi, and I think it's pretty clear for a lot of reasons.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:51:20",
+      "speaker": "COLLINS",
+      "sentences": "What about the people who disagree with you?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:51:20",
+      "speaker": "STEJSKAL",
+      "sentences": "Well, you know, I think this World Cup has really put it in pretty stark relief. You've seen Ronaldo kind of go out in - in a little bit of -- disgrace is strong, but it wasn't a great tournament for him. He ended the tournament on the bench for Portugal, not a starter, was publicly kind of almost feuding with his coach about that. It wasn't a great look.Messi, on the other hand, has been at his peak. Five goals, four assists in four games. Yesterday against Croatia in the semifinal we saw that penalty that you guys just showed. Emphatically drove that one home. But even more impressive was his assist, where he took one of the best defenders at the tournament, a Croatia center back, dribbled him the length of the entire half, rounded him in the box and set a teammate up for a tap in. And what's able to do, not just scoring goals, but setting up his teammates is pretty remarkable. And that's a - that's a difference between him and Ronaldo.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:51:20",
+      "speaker": "LEMON",
+      "sentences": "Poppy and I are like --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:51:20",
+      "speaker": "HARLOW",
+      "sentences": "Don and I just think you should continue the interview, because after Croatia lost, I'm like, I don't care.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:51:20",
+      "speaker": "LEMON",
+      "sentences": "Listen, do the stats show that, though, because Ronaldo's been around for longer, hasn't he, than Messi?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:51:20",
+      "speaker": "STEJSKAL",
+      "sentences": "Yes, a couple years. A couple years.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:51:20",
+      "speaker": "LEMON",
+      "sentences": "All right, so do the stats actually show that Messi is the greatest?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:51:20",
+      "speaker": "STEJSKAL",
+      "sentences": "So Ronaldo has more goals.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:51:20",
+      "speaker": "LEMON",
+      "sentences": "OK.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:51:20",
+      "speaker": "STEJSKAL",
+      "sentences": "But on a per game basis, Messi has more.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:51:20",
+      "speaker": "LEMON",
+      "sentences": "All right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:51:20",
+      "speaker": "STEJSKAL",
+      "sentences": "And when it comes to assists, Messi has more, period, per game overall, total, the whole deal.So, really the World Cup is the only thing that is left on his list. And we'll see on Sunday if he's able to cross it off.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:51:20",
+      "speaker": "COLLINS",
+      "sentences": "And am I right, Messi became the oldest man to score five goals in the World Cup?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:51:20",
+      "speaker": "STEJSKAL",
+      "sentences": "That -",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:51:20",
+      "speaker": "COLLINS",
+      "sentences": "Am I just making that up? I think -",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:51:20",
+      "speaker": "STEJSKAL",
+      "sentences": "That sounds right. You know, it's early for me. You guys - you guys are used to this, this (INAUDIBLE). I'm not.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:51:20",
+      "speaker": "HARLOW",
+      "sentences": "It's 6",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:51:20",
+      "speaker": "STEJSKAL",
+      "sentences": "So, but, yes, we can (INAUDIBLE).",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:51:20",
+      "speaker": "HARLOW",
+      "sentences": "Yes.What about greatest of all time, like even compared to, you know, the greatest of all time?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:51:20",
+      "speaker": "STEJSKAL",
+      "sentences": "Yes, so -",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:51:20",
+      "speaker": "HARLOW",
+      "sentences": "You know who I'm talking about.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:51:20",
+      "speaker": "STEJSKAL",
+      "sentences": "Yes. So the others that are in the conversation would be Maradona, who was Messi's Argentine countryman, and Pele, of course, the Brazilian.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:51:20",
+      "speaker": "HARLOW",
+      "sentences": "Yes, that's who I was thinking of.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:51:20",
+      "speaker": "STEJSKAL",
+      "sentences": "Maradona, you know, I think Messi has outstripped him big time on the club level. And Pele, it's tough to compare because, you know, he was playing 50, 60 years ago. And so it's different to compare across eras. It was such a different sport, such a different landscape.For me, what Messi is able to do, maybe - maybe it's because, you know, I get to see him in person and we never got to watch Pele. But for me, it's Messi, ever over him.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:51:20",
+      "speaker": "COLLINS",
+      "sentences": "All right, what's going to happen today?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:55:02",
+      "speaker": "COLLINS",
+      "sentences": "Yes, we'll excited to watch, Poppy especially.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:55:02",
+      "speaker": "STEJSKAL",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:55:02",
+      "speaker": "HARLOW",
+      "sentences": "I'll definitely be tuning in.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:55:02",
+      "speaker": "LEMON",
+      "sentences": "I'll be - so, what time is it? I'll be sleeping.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:55:02",
+      "speaker": "STEJSKAL",
+      "sentences": "It's at 2",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:55:02",
+      "speaker": "LEMON",
+      "sentences": "I need to get some sleep.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:55:02",
+      "speaker": "COLLINS",
+      "sentences": "I'll call you and wake you up.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:55:02",
+      "speaker": "LEMON",
+      "sentences": "Yes, let me know what happens. Text me.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:55:02",
+      "speaker": "HARLOW",
+      "sentences": "Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:55:02",
+      "speaker": "COLLINS",
+      "sentences": "All right, Sam, we'll be watching to see if your prediction is right. Thanks so much.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:55:02",
+      "speaker": "STEJSKAL",
+      "sentences": "Thanks. Thanks so much, you guys.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:55:02",
+      "speaker": "COLLINS",
+      "sentences": "Up next, we're going to talk about something really serious, the crisis that's unfolding on the border. How it's getting worse in recent days and also how the Biden administration is preparing for what could be a surge of migrants.And new this morning, the Ukrainian military says that it shot down more than a dozen Iranian-made drones over Kyiv.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:55:02",
+      "speaker": "LEMON",
+      "sentences": "Thank you, Kaitlan.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:55:02",
+      "speaker": "COLLINS",
+      "sentences": "We'll have more for you on the ground. That's next.He's like -",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:55:02",
+      "speaker": "LEMON",
+      "sentences": "I was -- I need sleep.",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

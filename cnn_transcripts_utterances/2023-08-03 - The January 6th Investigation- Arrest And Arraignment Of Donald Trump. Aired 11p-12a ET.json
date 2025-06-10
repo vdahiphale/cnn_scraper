@@ -1,0 +1,511 @@
+{
+  "date": "2023-08-03",
+  "headline": "CNN Tonight",
+  "subHeadline": "The January 6th Investigation: Arrest And Arraignment Of Donald Trump. Aired 11p-12a ET",
+  "utterances": [
+    {
+      "timeStamp": "23:00:00",
+      "speaker": "JAMIL JAFFER, FOUNDER AND EXECUTIVE DIRECTOR, NATIONAL SECURITY INSTITUTE, GEORGE MASON UNIVERSITY",
+      "sentences": "Reality is we are all here today because Donald Trump stood on The Ellipse and said to his supporters who he knew were armed and had weapons and said, go march to the Capitol, I'm coming with you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:00:00",
+      "speaker": "UNKNOWN",
+      "sentences": "Yeah.KRISTEN SOLTIS-ANDERSON, CNN POLITICAL COMMENTATOR:  But I think it's important to note that actually what he said on The Ellipse on January 6th is actually not what's in the indictment. And in fact, I actually worry that by calling it the January 6 indictment, that it allows this message that you heard Vivek Ramaswamy make and that many of Donald Trump's defenders will make is to make it about the First Amendment, right? He's allowed to give a political speech. He's allowed to say wrong things in his speech. I think if you are, however, a Republican running against Trump who wants to say, no, no, no, this is bad, the argument has to be it is First Amendment protected for you to say, gosh, I feel like I probably lost Georgia unfairly by 12,000 votes. You cannot call the secretary of state and say, find me 12,000 votes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:00:00",
+      "speaker": "UNKNOWN",
+      "sentences": "Right.SOLTIS-ANDERSON:  Those are different types of speech, and it'll be interesting to see if any of the Republicans in the primary actually make that argument.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:00:00",
+      "speaker": "JIM ACOSTA, CNN ANCHOR, CNN CHIEF DOMESTIC CORRESPONDENT",
+      "sentences": "And Wolf, putting all the legal stuff aside, you and I have covered a lot of these campaigns, I cannot believe that Vivek Ramaswamy is not trying to seize upon, you know, Donald Trump being arraigned in federal court to try to take advantage for his campaign. He sounded as though he is auditioning for vice president or a member of the Trump cabinet.(LAUGHTER) I mean, what kind of bizarre twilight zone world are we in right now? In other campaigns in the past, campaign rivals would be seizing on something like this. It's his third indictment. He has more indictments than he does impeachments. One would think the other candidates in this race would be seizing on that, and they're not. It's the damnedest thing, Wolf.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:00:00",
+      "speaker": "WOLF BLITZER, CNN ANCHOR",
+      "sentences": "Well, good point. All right, guys, everybody stand by. Our special coverage will continue right now.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:00:00",
+      "speaker": "LAURA COATES, CNN HOST AND SENIOR LEGAL ANALYST",
+      "sentences": "This is our primetime coverage of the arrest and arraignment of Donald Trump. I'm Laura Coates.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:00:00",
+      "speaker": "BLITZER",
+      "sentences": "And I'm Wolf Blitzer. This has been a day unlike anything we've ever seen in our history. The 45th president of the United States arrested and arraigned in a courtroom just a stone's throw from the U.S. Capitol where the plot to overturn the election exploded into deadly violence.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:00:00",
+      "speaker": "COATES",
+      "sentences": "It's an extraordinary moment, it really is, and a day of extraordinary moments. Donald J. Trump arriving in Washington, D.C. to be indicted on four federal charges related to Special Counsel Jack Smith's investigation into attempts to overturn the election of Joe Biden. The former president standing up in court today and pleading not guilty to all four charges.And despite everything laid out in the 45-page indictment, Kevin McCarthy, who was at the Capitol on January 6th, well, he's arguing that Trump is being prosecuted unfairly. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:00:00",
+      "speaker": "KEVIN MCCARTHY, SPEAKER, UNITED STATES HOUSE OF REPRESENTATIVES",
+      "sentences": "I have the honor and the privilege to serve in Congress. The building itself sits directly across from the Supreme Court. There is lady justice there. She has a scale and she had a blindfold on. That's the way justice in America is supposed to play, that it's fair and even. Right now, I think most people in America will say, it doesn't seem quite fair.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:00:00",
+      "speaker": "BLITZER",
+      "sentences": "Let's go right to our senior legal affairs correspondent, Paula Reid. Paula, another truly stunning day in our history with the former president making his initial court appearance. What happened in that room and what comes next?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:04:56",
+      "speaker": "BLITZER",
+      "sentences": "Interesting. Paula Reid, thank you very much. Laura?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:04:56",
+      "speaker": "COATES",
+      "sentences": "So, what happens next in this case? Well, it has a lot to do with what's called the Speedy Trial Act. And luckily, Tom Foreman is here to explain it all. So, Tom, with Trump appearing, as you know, obviously, the clock is starting to tick.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:04:56",
+      "speaker": "TOM FOREMAN, CNN CORRESPONDENT",
+      "sentences": "Right then.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:04:56",
+      "speaker": "COATES",
+      "sentences": "A lot is happening immediately. Tell us what's going on.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:04:56",
+      "speaker": "FOREMAN",
+      "sentences": "When he stood up in court, that started the clock and the calendar moving. Why? Well, constitutionally, we're guaranteed a Speedy Trial. But in 1974, the Speedy Trial Act came along and put finer teeth on that and said, the act establishes time limits for completing the various stages of a federal criminal prosecution.Trial must commence within 70 days from the date the indictment was filed or from the date the defendant appears before an officer of the court in which the charge is pending. That happened today, whichever is later. The reason this was put into place is because you want trials to move along quickly. Why? To keep the accused from waiting in jail. Donald Trump is not in jail, but many people are. So, you want to say you can't serve a sentence waiting to be tried, then you're found innocent, and well, you're in prison anyway. That's not right. To maintain witnesses, the memory of witnesses, the availability of witnesses, people who may be involved in accidents, you want to get to it while it's relatively fresh and to remove the cloud of suspicion. If you're an innocent person, you would want your trial to go forward as soon as you could to have it prove that you were innocent. Yes, there's a presumption of innocence, but we also know how the public reacts. So, you want to remove the cloud of suspicion by either convicting or saying they didn't do it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:04:56",
+      "speaker": "COATES",
+      "sentences": "And remember, of course, too, the public has a right. It's the United States versus. It's not just the individual victim. It's the public having a right to have their own rights vindicated and justice served. It's all pretty straightforward. I'll admit on that.But the math and, of course, today's proceedings, Tom, that would suggest, of course, that they've got a date of around what? October? Is that --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:04:56",
+      "speaker": "FOREMAN",
+      "sentences": "October 11.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:04:56",
+      "speaker": "COATES",
+      "sentences": "-- might have this?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:04:56",
+      "speaker": "FOREMAN",
+      "sentences": "October 11th, if the math were all perfect. But there are many, many exceptions in this act. For example, pretrial motions can push the calendar further down because they can be complicated. Conflicting court cases. We've already got these with Donald Trump, and there are more potentially coming. That can be a problem.The health of the defendant. Donald Trump is 77 years old. He is the same age Ronald Reagan was when he left the White House as the oldest president in history. Joe Biden is eclipsing him. But nonetheless, when you have an older defendant, there's always questions of health that may come up. Whether the case is so unusual or so complex, the argument can be made that this is very unusual. It seems kind of simple, but you can also argue it's complex because he is the president. And lastly, conflicts with the best interest of the public and the defendant. That's a really interesting one because the judge could say, yeah, the election coming up is a conflict, all the other courts are conflict. That could push it forward or back. You could have a judge saying, no, we have to get to trial because there is a vote coming up, or we can't get to trial because there's a vote coming up. That goes to the idea of being unusual and complex. So, technically, yeah, October is when this would technically, theoretically, maybe happen. But I'll buy an ice cream cone if it happens on October 11th because there are so many different ways this can be delayed despite the Speedy Trial Act of 1974.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:04:56",
+      "speaker": "COATES",
+      "sentences": "Well, I want a full Sunday, first of all, when that happens. But also, you got to add --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:04:56",
+      "speaker": "FOREMAN",
+      "sentences": "You're not getting it because it's not going to happen.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:04:56",
+      "speaker": "COATES",
+      "sentences": "The political cynics, though, will add one more thing to that and they'll say campaign donations because we know that it's actually happening as one reason to maybe delay.Tom, thank you so much.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:04:56",
+      "speaker": "FOREMAN",
+      "sentences": "Any options. COATES",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:04:56",
+      "speaker": "BLITZER",
+      "sentences": "Thank you. Our experts and analysts are here with us, and I want them all to hear how one of Trump's lawyers actually spun all of this earlier today, then hear what Trump's daughter-in-law had to say. First, the attorney.(BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:04:56",
+      "speaker": "ALINA HABBA, TRUMP ATTORNEY",
+      "sentences": "I think that everybody was made aware that he lost the election, but that doesn't mean that was the only advice he was given. As anybody understands what happens in the Oval Office, there are numerous amounts of advisors and politicians and lawyers, not just one or two, that are giving you advice and telling you what they believe is true.So, he may not agree with Mike Pence, he may not agree with one of his lawyers, but that doesn't mean that there weren't other people advising him exactly the opposite. And the president has a right, as every one of us do, to listen to several opinions and make their decision. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:10:03",
+      "speaker": "BLITZER",
+      "sentences": "Norm Eisen, what did you think?NORM EISEN, CNN LEGAL ANALYST, FORMER HOUSE JUDICIARY SPECIAL COUNSEL IN TRUMP'S FIRST IMPEACHMENT TRIAL:  Well, with respect to the multiple opinions that Donald Trump received, the majority of the credible attorneys, his own White House counsel, his attorney general, and a plethora of people told him, Wolf, that this was not legal. Asking Pence to suspend the count in Congress and send it back to the legislatures to overturn the vote in the states, he knew that was not legal. And as to his daughter-in-law's statement that he believed he won, in this indictment, Jack Smith very clearly lays out all the times that the defendant, Donald Trump, privately conceded that he lost the election. I think there's proof beyond a reasonable doubt here. He is entitled to the presumption of innocence. But Jack Smith is going to put on a powerful case knocking down the idea that there was any credible legal advice or that this man actually thought he won the election.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:10:03",
+      "speaker": "BLITZER",
+      "sentences": "Tim, you worked on the January 6 Select Committee. How do you see it?TIM MULVEY, FORMER JANUARY 6 COMMITTEE SPOKESMAN:  Well, reading through this indictment, Wolf, it really is -- it almost seems like an executive summary of the executive summary of the Select Committee's report. Anyone who paid attention to the work that the Select Committee did last year, and we know tens of millions of Americans did, this is going to be a very familiar story. And there's information that the Justice Department was able to get that the Select Committee wasn't able to. But my mind goes back to the Select Committee's litigation with who we think is unnamed co-conspirator number two, John Eastman, where he was trying to protect communications with the president, and the Select Committee made the argument then that there should be a crime fraud exception to the attorney-client privilege. And a federal judge opined then, this is a year ago last spring that it was more likely than not that federal crimes have been committed here. So, seeing this move forward, an indictment is certainly validating for the committee's work, but it's also something that, again, folks who've been watching this from the beginning shouldn't be surprised to see.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:10:03",
+      "speaker": "BLITZER",
+      "sentences": "Olivia, you worked in the Trump administration. Give us your sense. I want you to listen to what Colorado Congressman Jason Crow had to say about this. Listen to this.(BEGIN VIDEO CLIP) REP. JASON CROW (D-CO):  We're being tested to see whether our rule of law, whether our democracy can withstand someone like Donald Trump and his supporters. And to pass that test, we can't be looking at predetermined outcomes. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:10:03",
+      "speaker": "BLITZER",
+      "sentences": "Will our country pass that test?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:10:03",
+      "speaker": "OLIVIA TROYE, FORMER HOMELAND SECURITY AND COVID TASK FORCE ADVISER TO VICE PRESIDENT MIKE PENCE",
+      "sentences": "I'm concerned, to be honest. I'm worried about what the future holds. I'm worried about statements being made by people from the political party that I've supported for most of my lifetime.And look, when you're continuing to undermine the judicial system, when you're continuing to support such statements like those being made by Trump's advisors, I mean, look, there's a reason that Trump called Pence too honest. He wanted him to lie. He knew. He knew that he was lying. And he says to my former boss, you're too honest. This is a conversation that has happened in the past, by the way, when Pence was out there telling the truth at times before on other policy decisions. That was sort of the dynamic between Donald Trump. He wanted everyone to do his bidding. He wanted everyone to lie. And here's the thing about Donald Trump, when you stand up to him, we've seen the consequences. And I think we've got to get past this type of rhetoric, narratives and divisiveness because I do think that it's eroding at the fibers of our democracy, and we are in trouble if we continue to go down this path.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:10:03",
+      "speaker": "BLITZER",
+      "sentences": "Paul, what do you think?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:15:00",
+      "speaker": "BLITZER",
+      "sentences": "Rina, what do you think?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:15:00",
+      "speaker": "RINA SHAH, REPUBLICAN STRATEGIST",
+      "sentences": "You know, it's interesting you mentioned democracy because I don't hear much talk of it on the right. How important it is to have a democracy, to preserve it, and to move things forward in a manner that jives with what our founders wanted. I just don't hear that talk on the right anymore. And therefore, you can't hear the talk of upholding the rule of law and how important that was to today.So, I say this to anybody on the right that is wondering about today and it being some great conspiracy theory, look at the mismatch arguments being sold to you from Capitol Hill. That's the hardest part for me to swallow. On the one hand, I hear the election interferers today. Alina Habba spoke for the former president, saying, election interference in 2024. Hey, it's your people that are being charged with election interference in 2020. And then they go on to say, my gosh, it took so long to get here, yet they know, elected on Capitol Hill who are Republicans, they know the wheels of justice are slow and it takes time to get to an indictment like today. And they know how scathing it is, yet they go on to say, this is nothing and let's draw parallels to the crimes that Hunter Biden has been charged with, whereas nowhere in the same realm as what we saw today.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:15:00",
+      "speaker": "COATES",
+      "sentences": "I mean, you know, we're hearing a lot of these, and I think the phrase is false equivalence in many respects. And yet it has some legs. And unfortunately, perhaps for those who are seeing as you're describing, it has enough teeth that people are deciding not to speak out against that in many ways.Norm, when you look at this issue and think to yourself, you just heard from Vivek Ramaswamy, who suggested that you disband the FBI on account of his misgivings about his feelings of weaponization, why is this something that has that staying power?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:15:00",
+      "speaker": "EISEN",
+      "sentences": "Well, um, there is a segment of the population. It's not a majority of the population. And as an electoral matter, it has been a losing proposition. Twenty-eighteen in the run up to the 2020 election, the midterm were losses for Trump. Twenty-twenty, he was on the ballot. It was a referendum on Trump. He lost. In '22, he put out these election denying candidates.Alina Habba and Lara Trump are not unique. He actually found people who espoused these ideas, who ran for office on his -- this platform of election denial and democracy denial. They lost in Arizona, they lost in Wisconsin, they lost in Michigan, they were wiped out across the country. So, there is a super majority of Americans. In CNN's new poll today, 61% say yes. There is reality we're living on planet Earth. President Biden won the election. Now, you have another segment of the population, 69% of Republicans, who say, no, Biden is not the legitimate president. And there, it's a combination of multiple factors that have made them susceptible, including the unique salesmanship. Paul and I were talking in the green room. Donald Trump is able to channel the resentment and it's organic, it's natural. He speaks to those people. You know, it's a lot of dislocations over many, many decades. He channels that resentment, and now he has channeled it into this assault on the foundations of our democracy, and it is very dangerous.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:20:00",
+      "speaker": "COATES",
+      "sentences": "Many of Trump's allies are coming out to defend him, including, of course, one of his sons.(BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:20:00",
+      "speaker": "ERIC TRUMP, SON OF DONALD TRUMP",
+      "sentences": "It's sad. We're no better than some of these third world countries around the world. We are literally trying to imprison political opponents. We're better than this.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:20:00",
+      "speaker": "COATES",
+      "sentences": "Eric Trump. I'd like you to meet, well, Eric Trump. This verse different than the first verse, everyone.(BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:20:00",
+      "speaker": "TRUMP",
+      "sentences": "Maybe lock her up goes to lock him up. I don't know. It might lock him up. I don't know. I like lock her up a little bit more.If that was Don or I, or if that was anybody in the Trump family, and we lied on a federal form, we'd be in jail for the rest of our lives. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:20:00",
+      "speaker": "COATES",
+      "sentences": "Eric Trump's brother also once posed with a picture of Hillary Clinton behind bars. That picture was actually on his gun, by the way. Eric Trump's wife, well, once called it fun.(BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:20:00",
+      "speaker": "JAKE TAPPER, CNN CHIEF WASHINGTON CORRESPONDENT",
+      "sentences": "President Trump said yesterday that Michigan Governor Gretchen Whitmer needed to lift coronavirus restrictions and the crowd started chanting, lock her up.L. TRUMP:  He wasn't doing anything, I don't think, to provoke people to threaten this woman at all. He was having fun at a Trump rally. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:20:00",
+      "speaker": "COATES",
+      "sentences": "And Eric Trump's father, well --(BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:20:00",
+      "speaker": "CROWD",
+      "sentences": "Lock her up! Lock her up! Lock her up!",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:20:00",
+      "speaker": "DONALD TRUMP, FORMER PRESIDENT OF THE UNITED STATES",
+      "sentences": "Lock them all up.HILLARY CLINTON, FORMER U.S. SECRETARY OF STATE:  It's just awfully good that someone with the temperament of Donald Trump is not in charge of the law in our country. D. TRUMP:  Because you'd be in jail. UNKNOWN (voice-over):  Lock her up! D. TRUMP:  Yeah, I agree with you. I used to just be quiet. I agree with you 100%. And what about Omar, where she gets caught harvesting? What the hell is going on? I hope your U.S. attorney is involved. What is going on with Omar? I've been reading these reports for two years about how corrupt and crooked she is.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:24:57",
+      "speaker": "BLITZER",
+      "sentences": "All right, joining us now, CNN political commentator and former Trump campaign advisor, David Urban, and former Democratic governor of Massachusetts, Deval Patrick. David, let me start with you. So, Hillary Clinton, it's okay, but not if it's Donald Trump.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:24:57",
+      "speaker": "DAVID URBAN, CNN POLITICAL COMMENTATOR, FORMER TRUMP CAMPAIGN SENIOR ADVISER",
+      "sentences": "Well, Wolf, there's -- maybe Eric Trump should go back and listen to that 90s Alanis Morissette song, \"Isn't it Ironic?\" I think maybe he'd get a little -- get a good something out of it. You know, it's -- there's not much more to say about it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:24:57",
+      "speaker": "BLITZER",
+      "sentences": "David, I want to get to Deval in a moment, but you know Trump well. He's trying to make himself out to be a martyr today. What do you think his mindset is behind the scenes?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:24:57",
+      "speaker": "URBAN",
+      "sentences": "So, Wolf, you know, Jake Tapper earlier alluded to this. You know, there's a famous Seinfeld episode where George Costanza says to Jerry, you know, if you believe it, it isn't actually a lie. And I think that's the case here. I think that the prosecutors here, the Justice Department is going to have a very tough time proving the mens rea.I know there's lots of folks sitting on your panel like Norm and others who think it's going to be easier than that. But I think they're going to have a tough time proving that. And so, I think that Trump is -- the former president is probably nervous. I agree, you know, with Governor Christie's assessment that he goes to bed at night thinking, shit, I could actually end up in jail here at some point. And that's a real probability.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:24:57",
+      "speaker": "BLITZER",
+      "sentences": "It's interesting, Deval. Here's how the House speaker, Kevin McCarthy, is characterizing this historic moment. Listen.(BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:24:57",
+      "speaker": "MCCARTHY",
+      "sentences": "You're entitled to raise a question. You're entitled to question whether it was honest or not. That's the uniqueness of the First Amendment. That's the uniqueness of America. But you know what? You shouldn't be prosecuted for your thoughts. And the difference here is, when Hillary Clinton said it, nothing happened to her. When they said it in Georgia's election, nothing happened to them either.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:24:57",
+      "speaker": "BLITZER",
+      "sentences": "So clearly, he incited a mob to attack the U.S. Capitol. That's more than just the thought. How do you counter this narrative?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:24:57",
+      "speaker": "DEVAL PATRICK, FORMER MASSACHUSETTS GOVERNOR",
+      "sentences": "Well, if you're asking me, well, first of all, I think they do have more than enough proof in this so-called speaking indictment that Donald Trump knew that he had lost the election.But even if he believed he'd won the election, that doesn't justify him setting a mob on the Capitol, him trying to send fake electors to disrupt the count and install himself or continue his own power. You know, if Donald Trump believed in the Easter bunny, it wouldn't justify him, you know, raiding Easter mass and turning everybody out. It doesn't -- in some ways, it's secondary, what he believed. What he did was try to steal the election after having lost it to Joe Biden. And if our nation of laws means anything, indeed, if we are governed by laws and not by personalities, then it's important that someone who incites a coup, as Donald Trump and his co-conspirators did, face the consequences of our laws.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:24:57",
+      "speaker": "BLITZER",
+      "sentences": "You know, Deval, we learned just the other day that former President Obama privately warned Biden at a private luncheon they had not to underestimate Trump's political strength. Do you think Biden is underestimating?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:24:57",
+      "speaker": "PATRICK",
+      "sentences": "I don't know. And in a way, I don't care, Wolf. And I say that respectfully. I think President Biden is doing a wonderful, wonderful job. And I think part of his good service is to let the Justice Department do its job without interference.And I know Merrick Garland. I know his respect for the institution. I know his care. You know, I wish that this whole prosecution and particularly the assignment of the special prosecutor had come earlier than it did. But it came in many respects when it should have. And we are where we are because of the care that DOJ has taken and taken independently. And I think that's enormously important.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:24:57",
+      "speaker": "BLITZER",
+      "sentences": "Yeah, it is very important, indeed. David, 2024 Republican candidate Ron DeSantis made a promise if he's elected president. Listen to this.(BEGIN VIDEO CLIP) GOV. RON DESANTIS (R-FL):  And then on bureaucracy, you know, we're going to have all these deep state people. You know, we're going to start slitting throats on day one and be ready to go. You're going to see a huge, huge outcry because Washington wants to protect its own. But at the end of the day, this is a city that has failed this country. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:24:57",
+      "speaker": "BLITZER",
+      "sentences": "So, David, what do you make of that comment regarding the federal workforce?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:30:02",
+      "speaker": "BLITZER",
+      "sentences": "David Urban and Deval Patrick, gentlemen, thank you very, very much.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:30:02",
+      "speaker": "PATRICK",
+      "sentences": "Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:35:00",
+      "speaker": "COATES",
+      "sentences": "Mike Pence is making the best of the reference to him in the latest Trump indictment when the then vice president told his boss that he lacked the authority to change the election results and Trump told him -- quote -- \"you're too honest.\" The Pence campaign is now selling \"too honest\" branded t-shirts and baseball caps.Our panel is back. I mean, you got to love the idea of the commercialization of things these days, Tim. But let me ask you, I mean, the fact that Mike Pence is such a key person in this indictment, I mean, compare that to what happened in the congressional committee of January 6, the investigations, he was nowhere to be found there although he really has remained the 10,000, you know, foot elephant in the room.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:35:00",
+      "speaker": "MULVEY",
+      "sentences": "That's right. We would love to have known just how honest he was a year ago when the Select Committee really wanted to hear from him. But some of the details in this indictment now that obviously there's more information forthcoming from the former vice president are extraordinary. We knew in the Select Committee's investigation that the pressure campaign on the vice president was a central part of this scheme.But what we see in here, the direct pressure that the former president was putting on his vice president to violate the law, to betray his oath, it's extraordinary. I'm glad the record is becoming more complete now. We're seeing sort of the extent to which not only was the former president pushing this scheme, but he was so hands-on with it. He was -- the details of the phone calls and the vice president's contemporaneous notes, I think, really shows that this was something that Donald Trump wasn't just consenting to in terms of the scheme, but he was very much driving it himself.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:35:00",
+      "speaker": "COATES",
+      "sentences": "I mean, what do you make of his tone? It has changed a little bit, right, Olivia? I mean, obviously, he's talking about being too honest now, but many thought he was too quiet before as it came to trying to address what was the -- frankly, the obvious criticism that many wanted to level against Trump. But he didn't.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:35:00",
+      "speaker": "TROYE",
+      "sentences": "No. And look, it's been hard for me to be critical of someone that I worked with so closely for over two years, right? And I have been critical of that because I think that we would be better off as a country if Mike Pence had stood up on January 7th and said, this is completely wrong. We need to start telling the truth about what happened here, told the truth about the election in that moment. I also think that the Republican Party would be in a completely different place.And I like -- all kidding aside about the \"too honest\" thing, I think, you know, there is something to be said where we need to make lying wrong again, and I think Republicans need to take a step back and actually assess that because today, for me, when I was thinking about it throughout the day, it was a somber day, but I was thinking also about today being the culmination of all of these lies that Trump has espoused over and over again and how it finally caught up to him. Finally. But all these lies that led to the violence on January 6, lies like other things that he said, right, he has talked about anti-immigrant rhetoric, he has talked about the invasion of immigrants in the country, and today actually is the four-year anniversary of a mass shooting in El Paso, my hometown, where rhetoric like that was repeated by the shooter that went in there. He repeated the rhetoric and said it was the Hispanic invasion of Texas. Those lies like that have consequences. And so, you know, I was listening to the comment about Ron DeSantis. It enraged me to hear that, that he was already threatening government employees. I'm like I'm going to stand up for the federal workforce because I was one of those people. He may say it in a very frivolous manner, but I think he should learn a lesson from what happened to Trump today because words like that matter when you're running for office, especially the Oval Office. And I just hope that we can start to get away from that type of language and kind of hateful thing because I do think that it drives threats, it drives anger across our country. And while we may think it is hyperbole, I will say that someone out there is sitting there thinking about what next agency, what next FBI agent, what next person they're going to target because they're angry, and it's all based on lies. All of these people know it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:35:00",
+      "speaker": "COATES",
+      "sentences": "And in fact, following the execution of a lawful search warrant on Mar-a-Lago, there was, in fact, somebody who tried to attack an FBI field office.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:39:58",
+      "speaker": "SHAH",
+      "sentences": "Well, a few things here. Number one being that I have heard the counter argument. That Jack Smith actually made these broad-brush charges. Didn't include a really tough charge like seditious conspiracy for a reason. Why? Because he wanted to get this in front of a liberal judge, a Democrat-appointed judge, and then therefore get it past that judge and get it to a liberal city jury, all in D.C.This is what's being talked about in Republican circles, how Jack Smith did it this way, so he could rush it and get a jury in D.C. to make Donald Trump guilty.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:39:58",
+      "speaker": "BLITZER",
+      "sentences": "This is where the alleged crime took place.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:39:58",
+      "speaker": "SHAH",
+      "sentences": "Exactly.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:39:58",
+      "speaker": "BLITZER",
+      "sentences": "It is normally where there will be a trial, where the crime took place?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:39:58",
+      "speaker": "SHAH",
+      "sentences": "And prosecutors have no choice but to keep it where it took place. But what you hear from Republicans is, hey, move it next door to West Virginia. My home state, a place where he won by something like 40 points in 2020, that's not how justice works. You don't just move a trial to a friendly place.But again, this is what's being talked about in Republican circles. As this is getting promulgated out there, you're hearing Republican elected officials sow doubt in the minds of these Republican voters, and they're questioning the veracity of these charges.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:39:58",
+      "speaker": "COATES",
+      "sentences": "Yeah.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:39:58",
+      "speaker": "SHAH",
+      "sentences": "I expect to hear it get even worse.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:39:58",
+      "speaker": "COATES",
+      "sentences": "And by the way, Norm, do you know that you could just pick out a judge? That was the stated -- you could say, I'd like this judge today?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:39:58",
+      "speaker": "EISEN",
+      "sentences": "Well, Laura, it's just like the way that a president can mentally declassify a document simply by thinking about it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:39:58",
+      "speaker": "COATES",
+      "sentences": "Ahh!",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:39:58",
+      "speaker": "EISEN",
+      "sentences": "You know, I do want to say that there is going to be a hotly contested fight, not just what we're hearing in public in these days, from John Lauro, who I used to practice criminal defense law with.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:39:58",
+      "speaker": "COATES",
+      "sentences": "That's Trump's lawyer.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:39:58",
+      "speaker": "EISEN",
+      "sentences": "Trump's lawyer. From Alina Habba, another one of his lawyers, from Lara Trump. They are piloting the arguments. I jotted them down. Advice of counsel. Good faith belief that he won the election. We heard a lot about First Amendment defenses. There will be a version of this case that will be made, that will be argued to the jury.And to David Urban's point that he made, I don't think that's going to be a laydown. He has a top-notch team. Laura was an excellent lawyer. You are going to get a fair hearing from a D.C. jury. And Judge Tanya Chutkan, I think she'll move fast, but she is going to be tough in making the prosecution prove his case. We should expect in court a knockdown drag-out battle over these issues. I think Jack Smith has the better of it. Page seven, he lists time after -- it goes on to page eight. And it's the tip of the iceberg. Time after time that Donald Trump was told, you lost the election, and that he acknowledged privately that he lost. So, Smith will bring the evidence. The other side is going to fight. And we really have to fasten our seat belts. Olivia, if I can take slight exception to just one thing you said. It hasn't caught up to Donald Trump yet. He's innocent until presumed guilty. It won't catch up to him until these issues are litigated and a jury in the District of Columbia, maybe as soon as the first part of 2024, pronounces him guilty or not.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:39:58",
+      "speaker": "COATES",
+      "sentences": "Once a defense lawyer, always a defense lawyer, Wolf.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:45:00",
+      "speaker": "COATES",
+      "sentences": "Former President Trump left Washington immediately after his arraignment and headed right back to his golf club in New Jersey.CNN's Kaitlan Collins tells us what the mood is like for Trump in Bedminster tonight. Kaitlan?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:55:00",
+      "speaker": "COATES",
+      "sentences": "Do you have a sense about the why? Why they were trying to seize? Were they acting on the direction of somebody? Is that your allegation is? Were they doing it obviously for something nefarious?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:55:00",
+      "speaker": "HILSON",
+      "sentences": "Well, you know, they why aspect, I think, will come out as we get to the court hearings, preliminary examination and trial. But clearly, there was an attempt, an alleged attempt to get into these machines and see if, in fact, they could be manipulated.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:55:00",
+      "speaker": "COATES",
+      "sentences": "Now, I will note that in a statement, the attorney for Matthew DePerno says that his client, I'm quoting here, \"categorically denies any wrongdoing and firmly asserts that these charges are unfounded and lack merit. He also maintains his innocence and firmly believes that these charges are not based upon any actual truth and are motivated primarily by politics rather than evidence.What is your response to this idea that there's some political motivation here?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:55:00",
+      "speaker": "HILSON",
+      "sentences": "Well, if that were true, I would not have gone through the process of obtaining a citizen's grand jury to actually make the charging decision. And I would have made that decision on my own.We consciously wanted to take politics out of this investigation and this charging decision and specifically use the grand jury -- citizen grand jury statute here in the state of Michigan to assemble a group of unbiased, independent citizens to ultimately make the charging decision after being presented with evidence. COATES:  Really important to hear this perspective and to learn about the new development. Thank you so much for joining us today. It's quite an extraordinary day in terms of our thoughts on democracy and transparency and accountability in the end. Thank you so much.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:55:00",
+      "speaker": "HILSON",
+      "sentences": "Thank you for the offer. I appreciate it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:55:00",
+      "speaker": "COATES",
+      "sentences": "Well, Wolf, really, I mean, an incredible day right here in Washington, D.C. Unbelievable.",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

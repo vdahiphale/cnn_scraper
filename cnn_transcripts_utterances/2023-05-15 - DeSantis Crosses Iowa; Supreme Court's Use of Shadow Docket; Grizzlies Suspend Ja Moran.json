@@ -1,0 +1,367 @@
+{
+  "date": "2023-05-15",
+  "headline": "CNN This Morning",
+  "subHeadline": "DeSantis Crosses Iowa; Supreme Court's Use of Shadow Docket; Grizzlies Suspend Ja Morant; Recall Demanded of Airbag Inflators. Aired 6:30-7a ET",
+  "utterances": [
+    {
+      "timeStamp": "06:30:12",
+      "speaker": "KAITLAN COLLINS, CNN ANCHOR",
+      "sentences": "Florida Governor Ron DeSantis putting on an apron, flipping some burgers in old-fashioned retail politics in Iowa ahead of his expected run for the White House. The Florida governor crisscrossed the state making a last-minute stop in Des Moines.(VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:30:12",
+      "speaker": "COLLINS",
+      "sentences": "That was a 15-minute stop that DeSantis made at Jethro's Barbecue, capitalizing on former President Trump's absence, after Trump was supposed to hold an outdoor rally just a few blocks away on Saturday but his campaign canceled it due to a tornado watch in the area. Something that DeSantis' allies trolled him about. One of them tweeting, it was a beautiful evening in Iowa.CNN's Steve Contorno is covering the Florida governor and joins us now. Obviously, DeSantis is trying to draw a contrast with Trump, made this stop that, you know, I believe was pretty abruptly scheduled after it was clear that the former president had canceled his rally, right, Steve?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:30:12",
+      "speaker": "STEVE CONTORNO, CNN REPORTER",
+      "sentences": "That's exactly right, Kaitlan. And the key distinction here is that he's appeared to go after Trump in this, but he has so far avoided overt and direct attacks on the former president. You know, he likes to set up these contrasts where he shows, you know, his administration versus Trump's. He talks about how he -- there are very few leaks in his administration. There's no drama. That is obviously a comparison to a lot of the chaos that engulfed the Trump administration. He likes to talk about how he would finish the border wall, which, obviously, talks - suggests that Trump didn't finish it. Something that you brought up in the town hall with him last week.And listen to this warning he issued to Iowa voters on Saturday when he talked about the stakes in 2024. (BEGIN VIDEO CLIP) GOV. RON DESANTIS (R-FL): If we make 2024 election a referendum on Joe Biden and his failures, and if we provide a positive alternative for the future of this country, Republicans will win across the board. If we do not do that, if we get distracted, if we focus the election on the past or on other side issues, then I think the Democrats are going to beat us again. And I think it will be very defensively recover from that defeat. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:30:12",
+      "speaker": "CONTORNO",
+      "sentences": "You'll notice he did not mention President Trump there, but it was very obvious who he was talking about.And this is something we're seeing from Republicans across the board. There's a bit of a tentativeness to going directly at Trump. And that is something that we are seeing as well from Governor DeSantis while he remains not yet a presidential candidate. Kaitlan.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:30:12",
+      "speaker": "COLLINS",
+      "sentences": "Yes, it will be -- it will be notable to see how does DeSantis handle what Trump was doing last week, you know, still denying the results of the last election.And so I think one question here is, as we've seen DeSantis in Iowa, we know, of course, exactly what he's doing there. The question still is, when is he actually going to officially enter this race now that the Florida legislature has wrapped up their work? What's your sense on when that timing could happen?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:30:12",
+      "speaker": "CONTORNO",
+      "sentences": "Kaitlan, my sources are telling me there's one big box left for him to check, and that is to finish going through the state budget. He likes to go through line by line and cut spending where he can. And once he puts that behind him, then we are going to see the countdown really start. My sources suggest late May, first week in June is a - is a likely timeframe. But I have to tell you, just seeing him this past weekend in Iowa and traveling with him in Sioux Center, there were DeSantis 2024 signs. There was a bus there by a super PAC that says \"DeSantis for president.\" So, he's not a candidate yet, but all the signs are there.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:30:12",
+      "speaker": "COLLINS",
+      "sentences": "Yes. Well, we'll be watching closely when those signs are official.Steve Contorno, thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:30:12",
+      "speaker": "POPPY HARLOW, CNN ANCHOR",
+      "sentences": "Ahead, the news never stops unless it's forced to. How a cyberattack is causing major disruption at \"The Philadelphia Inquirer.\"",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:38:19",
+      "speaker": "COLLINS",
+      "sentences": "North Carolina Governor Roy Cooper vetoed a GOP-backed bill that would ban most abortions after 12 weeks. But the legislature in the state could override it after one state lawmaker switched parties earlier this year and gave Republicans a super majority. The governor, who is, I should note, is a Democrat, Cooper says that he does still believe a vote could go his way as he is urging voters to put the pressure on Republican lawmakers.(BEGIN VIDEO CLIP) GOV. ROY COOPER (D-NC): If just one Republican in either the house or the senate keeps a campaign promise to protect women's reproductive health, we can stop this ban. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:38:19",
+      "speaker": "COLLINS",
+      "sentences": "If the override does succeed, the ban will go into infect July 1st.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:04",
+      "speaker": "STEVE VLADECK, CNN CONTRIBUTOR",
+      "sentences": "Thanks, Poppy. Great to be with you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:04",
+      "speaker": "HARLOW",
+      "sentences": "So you argue in this book, this is just part of what you write, the rise of the shadow docket risks doing serious long term institution harm to the courts and as such the country. You say it could be disastrous. Not everyone agrees with you. We'll get to your critics in a moment. But why should Americans of all political stripes care?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:04",
+      "speaker": "VLADECK",
+      "sentences": "Yes, I mean, I think, Poppy, the reason why we tend to follow the Supreme Court, the reason why we give the Supreme Court so much authority over so many facets of our lives is because we expect the justices to act in a judicial manner. That means we expect them to give us principled reasons for their decision making. We're not all going to agree with the principles, but hopefully we're going to agree that they're principles.And what we're seeing on the shadow docket is unsigned, unexplained orders that are affecting everything from abortion access, immigration, Covid restrictions, even the OSHA vaccination mandate. So, it's really, I think, how the Supreme Court is affecting us without telling us.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:04",
+      "speaker": "HARLOW",
+      "sentences": "So, let's take Mifepristone as an example, the abortion pill. That's sort of the -- one of the most recent prominent ones. Explain.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:04",
+      "speaker": "VLADECK",
+      "sentences": "Yes. So, in the Mifepristone case, the judge in Amarillo, Texas, wants to revoke access to Mifepristone on a nationwide basis. The Supreme Court puts that ruling on hold. And I think a lot of folks, I'm probably one of them, think that's a good thing. But the court provided no explanation for why it put the decision on hold. So, we don't know what was the flaw. We don't know what the rules are going forward until and unless this works its way all the way through the courts.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:04",
+      "speaker": "HARLOW",
+      "sentences": "OK, but there are critics that say, look, even - even nine justices and brilliant clerks don't have time to explain everything. Justice Alito, who is one of your prominent critics, said in 2021, specifically talking about the shadow docket, and you, quote, it's like complaining about the emergency room for treating too many accident victims who come in. What are we supposed to do? Are we supposed to decline to adjudicate them? Are we supposed to impose a quota? He calls it silly criticism.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:04",
+      "speaker": "VLADECK",
+      "sentences": "Yes, I mean, I think it's - it's a bit of an effort on the justice's part to - to misstate what the criticism is. I mean Alito dissented in the Mifepristone case.So, the issue is, are we bringing people to the emergency room who have a sneeze (ph)? And that's really what we're seeing with the shadow docket is the Supreme Court has intervened more and more often in cases that really aren't emergencies.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:04",
+      "speaker": "HARLOW",
+      "sentences": "But didn't -- you wanted them to intervene in the Mifepristone case, for example.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:04",
+      "speaker": "VLADECK",
+      "sentences": "Sure. But there's a right way to do it. And I think this is where the politics and the law differ, which is that I think we can say, you know, maybe a lot of us would prefer for there to be nationwide access to Mifepristone on the same terms as two months ago. But if the Supreme Court is going to be handing down decisions with these kinds of nationwide impacts - HARLOW",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:04",
+      "speaker": "VLADECK",
+      "sentences": "They have to tell us why. And not just us. They have to tell the government, they have to tell the lower courts, because otherwise it really does look more like politicians in robes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:04",
+      "speaker": "HARLOW",
+      "sentences": "OK. Let me let our viewers listen to a little bit more from Justice Alito. Here he was specifically referring to your work, because you've been writing about this for years leading up to this book.This was him in 2021. Here it is. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:04",
+      "speaker": "JUSTICE SAMUEL ALITO, SUPREME COURT",
+      "sentences": "Professor Stephen Vladeck from the University of Texas has written and testified twice before Congress on this subject.The catchy and sinister term \"shadow docket\" has been used to portray the court as having been captured by a dangerous cabal that resorts to sneaky and improper methods to get its ways. And this portrayal feeds unprecedented efforts to intimidate the court or damage it as an independent institution. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:04",
+      "speaker": "HARLOW",
+      "sentences": "Are you trying to damage the court as an independent institution?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:04",
+      "speaker": "VLADECK",
+      "sentences": "No. I mean I think the real issue is, what is the court doing to itself? And, you know, the more that the court is going to tell us why it's intervening and when it's intervening, I think the more it's going to be possible, even for those who might not agree with the bottom lines to say, at least they're acting as judges.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:04",
+      "speaker": "HARLOW",
+      "sentences": "I'll tell you, this was a big topic of conversation in law school when I was there last year because this -- just since 2015 it's really been coined. So, I think people who care about the court and what it's doing should read this (INAUDIBLE).",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:04",
+      "speaker": "VLADECK",
+      "sentences": "Well, I hope so. But I think the - the real point I think is that the -- all of us, whether we agree with the court or not -",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:04",
+      "speaker": "HARLOW",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:04",
+      "speaker": "VLADECK",
+      "sentences": "I think are better suited by understanding everything the court does -",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:04",
+      "speaker": "HARLOW",
+      "sentences": "Fair.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:04",
+      "speaker": "VLADECK",
+      "sentences": "And not just the big merit (ph) decisions we get every spring.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:04",
+      "speaker": "HARLOW",
+      "sentences": "Fair. Before you go, something really fascinating has just happened. For thefirst time, Planned Parenthood is calling for Congress to add seats to the court and impose term limits for justices. These are two suggestions that that whole panel set up to assess the court went through in the last two years. But this is what the CEO of Planned Parenthood said yesterday. Here she is. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:04",
+      "speaker": "ALEXIS MCGILL JOHNSON, PRESIDENT AND CEO, PLANNED PARENTHOOD",
+      "sentences": "We need to see term limits. We need to see ethical, you know, reforms, raising the very questions about the fact that these - these people with lifetime appointments that are very much out of step with where the majority of people are on a variety of issues, means, that, you know, the legitimacy is, in fact, in question.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:45:01",
+      "speaker": "VLADECK",
+      "sentences": "Yes, I mean, I think -- I understand where folks like that are coming from. I think it's solving the symptom and not the disease. What we're seeing right now is a Supreme Court that is unchecked by Congress, by the president, by the people, to a degree we haven't seen in American history. Changing who's on the court, changing how long they serve might feel good in the short term. It's not going to get at the longer, broader problem that the book tries to unpack, which is that we need a healthy inner branch dynamic where Congress and the justices are having a conversation about what cases they should be deciding and how.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:45:01",
+      "speaker": "HARLOW",
+      "sentences": "But doesn't that go against separation?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:45:01",
+      "speaker": "VLADECK",
+      "sentences": "So, I think, not really. I mean the - the idea of judicial independence is not inconsistent with the idea of interbranch accountability.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:45:01",
+      "speaker": "HARLOW",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:45:01",
+      "speaker": "VLADECK",
+      "sentences": "For the first 200 years of the Supreme Court, we had this ongoing back and forth dialogue -",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:45:01",
+      "speaker": "HARLOW",
+      "sentences": "(INAUDIBLE).",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:45:01",
+      "speaker": "VLADECK",
+      "sentences": "Where Congress was regulating the court's docket, where the justices were pushing back, where Congress was regulating the court's budget.Poppy, I think a big part of why we are where we are today, whether it's in regard to the substance of these rulings or the justice's ethics, is because Congress has really taken its hands off the court.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:45:01",
+      "speaker": "HARLOW",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:45:01",
+      "speaker": "VLADECK",
+      "sentences": "And part of what I'm trying to do in the book is build the conversation for why Congress needs to get back into that ball game.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:45:01",
+      "speaker": "HARLOW",
+      "sentences": "Congratulations.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:45:01",
+      "speaker": "VLADECK",
+      "sentences": "Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:45:01",
+      "speaker": "HARLOW",
+      "sentences": "It's such a fascinating read, Steve.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:45:01",
+      "speaker": "VLADECK",
+      "sentences": "Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:45:01",
+      "speaker": "HARLOW",
+      "sentences": "Appreciate you being here.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:45:01",
+      "speaker": "VLADECK",
+      "sentences": "Thanks for having me.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:45:01",
+      "speaker": "HARLOW",
+      "sentences": "Yes.Kaitlan.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:39",
+      "speaker": "COLLINS",
+      "sentences": "This morning, the NBA is investigating Memphis Grizzlies super star Ja Morant once again. The team has now suspended him from all team activities over the weekend for another incident involving a gun on social media. The Instagram Live video that happened over the weekend appears to show Ja Morant flashing a gun while inside a vehicle. CNN has reached out to his representative and the Grizzlies and the NBA for comment on all this, I should note.Of course, it wasn't that long ago, just back in March, that the NBA had suspended Ja Morant for eight games after another incident online when he was holding a gun at a strip club near Denver. Joining us from Atlanta this morning, CNN sports anchor Coy Wire. Coy, of course, when I saw this on Saturday, I was like, didn't this just happen? Didn't he just have to talk publicly about, you know, the risk here, of being more careful online. And now here it is. It appears he's doing the same thing again.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:39",
+      "speaker": "COY WIRE, CNN SPORTS ANCHOR",
+      "sentences": "Yes, you're exactly right. You remember this story, Kaitlan. And the NBA is telling us that they're still gathering details. And aside from announcing the suspensions, the Grizzlies, the team, they're deferring to the league on how to handle this.Chandler Parsons, who played in Memphis for three years, though never teammates with Morant, he tweeted that he believes Morant shouldn't be allowed to play the all next season, Kaitlan. ESPN's Adrian Wojnarowski is reporting that Commissioner Adam Silver could start seeing increased pressure from other teams around the league to hand down a tougher and lengthier suspension to start next season. It's important to note, Kaitlan, that after he was seen flashing a gun back in March, Morant checked him into a counseling program. He admitted that he needed to get a better handle on dealing with the pressure he faces as a stair in the NBA. He'd met face-to-face with the commissioner at that time who described Morant's actions as, quote, irresponsible, reckless and potentially very dangerous, unquote. Here's what Morant said just two weeks ago, Kaitlan, after the Grizzlies were knocked out of the playoffs by the Lakers. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:39",
+      "speaker": "JA MORANT, MEMPHIS GRIZZLIES GUARD",
+      "sentences": "I just got to be better, you know, with my decision making. That's pretty it, you know. Off the court issues, you know, affected us as, you know, an organization pretty much. So, yes, just more discipline.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:39",
+      "speaker": "WIRE",
+      "sentences": "Now, Morant lost out on nearly $700,000 in paychecks from his eight-game suspension in March, Kaitlan. He has a $200 million contract set to go into effect this coming season. He's one of the most talented young stars in the league. But as he just mentioned, his off the court issues have definitely impacted the team. And that self- proclaimed need for more discipline, well, that's going to determine his future within the league.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:39",
+      "speaker": "COLLINS",
+      "sentences": "Yes. And they say they're still investigating it, but, I mean, we can all see the video and we all saw the video back in March.Coy, keep us updated on what do you here from the NBA. Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:39",
+      "speaker": "WIRE",
+      "sentences": "You got it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:39",
+      "speaker": "HARLOW",
+      "sentences": "All right, the federal government is pushing for the recall of 67 million airbag inflators. What the parts manufacturer is saying about that.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:57:27",
+      "speaker": "HARLOW",
+      "sentences": "Welcome back. The National Highway Traffic Safety Administration is demanding animmediate recall of 67 million airbag inflators because of a dangerous defect that can cause ruptures. The company that makes them is refusing to do this recall. ARC Automotive says the agency's findings do not support a large scale recall. This is rare. CNN's Vanessa Yurkevich joins us live. Obviously rare and it affects the safety and lives, potentially, of millions of folks.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:57:27",
+      "speaker": "VANESSA YURKEVICH, CNN BUSINESS AND POLITICS CORRESPONDENT",
+      "sentences": "Millions of people. There have been nine instances that the National Highway Traffic Safety Administration points to in their report, seven in the U.S., one causing a death. Sixty-seven million airbag inflator recalls would be huge. That would be a massive recall. And it stems around just what it sounds, this inflater within the airbag. And what the Safety Administration is saying is that at times, in these incidents, basically the inflator has called -- caused metal pieces to explode from the airbag, basically lacerating the airbag and then causing injury to the person.But the company is saying that this recall is simply not needed. They are saying that they have done - they've done a lot of testing on it, including testing with the safety agency itself, over 1,000 tests, saying that they've never seen this kind of problem before. This really impacts about 18 years, though, of manufacturing products within this airbag. So, that's a - that's a large portion of time that this could impact. In terms of what manufacturers could be impacted, the safety administration not saying. However, some car manufacturers are doing voluntary recalls. So, General Motors is one of them. They're going to be recalling 1 million vehicles. And I just want to give people what those vehicles are. It's the Buick Enclave, the Chevrolet Traverse, the GMC Acadia. If you've purchased those vehicles from 2014 to 2017, they'll be impacted. If you want to get your airbag fixed within that vehicle, you can take it to the dealer and they can make those changes. But, you know, this is going to be -- this is going to be a fight because the -- essentially the company is saying, we don't see a problem here. The Safety Administration saying, we've seen it firsthand.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:57:27",
+      "speaker": "COLLINS",
+      "sentences": "Is it really up for discussion?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:57:27",
+      "speaker": "HARLOW",
+      "sentences": "Right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:57:27",
+      "speaker": "COLLINS",
+      "sentences": "If they say, this is what we've seen, we believe this needs to be recalled, can they - can the manufacturer really just say, we disagree?",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

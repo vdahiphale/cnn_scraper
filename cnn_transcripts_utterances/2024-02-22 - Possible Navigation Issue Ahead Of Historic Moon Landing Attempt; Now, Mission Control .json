@@ -1,0 +1,763 @@
+{
+  "date": "2024-02-22",
+  "headline": "The Situation Room",
+  "subHeadline": "Possible Navigation Issue Ahead Of Historic Moon Landing Attempt; Now, Mission Control Monitoring Historic Moon Landing Attempt; Mission Control Says, Our Equipment Is On The Surface Of The Moon; Ex-FBI Informant Charged With Lying About Bidens Re-Arrested; Judge Rejects Trump Request To Delay Finalizing $355 Million Civil Fraud Order. Aired 6-7p ET",
+  "utterances": [
+    {
+      "timeStamp": "18:00:03",
+      "speaker": "JAKE TAPPER, CNN ANCHOR",
+      "sentences": "NASA Administrator Bill Nelson just told me that the lunar lander, which is named Odysseus or Odie, is experiencing some serious navigation issues. They're attempting a solution with experimental technology on board. We should know within the next ten or so minutes whether they're going to be able to try a landing in the next hour. Then, of course, if not, around 8This is the first time the U.S. has tried a moon landing in more than 50 years. This one, part of a public-private partnership between NASA and Intuitive Machines. Our coverage continues now with Wolf Blitzer in THE SITUATION ROOM. See you tomorrow.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:00:03",
+      "speaker": "WOLF BLITZER, CNN ANCHOR",
+      "sentences": "Happening now, breaking news. We're awaiting a historic and very risky space mission. A privately owned spacecraft is expected to attempt to land on the moon soon. But we're now learning about a possible navigation issue. Stand by for our live team coverage of this milestone event.And we'll get reaction from two icons, former astronaut, Mae Jemison, and Star Trek actor and real life space traveler William Shatner. Welcome to our viewers here in the United States and around the world. I'm Wolf Blitzer. You're in THE SITUATION ROOM. The breaking news this hour, a very suspenseful attempt to try to return to the moon. We're standing by for a U.S. spacecraft to try to land on the lunar surface, a challenge that hasn't been successfully accomplished by anyone in this country for half a century. Our space experts, Kristin Fisher and Miles O'Brien, they are both here along with the trailblazing former astronaut, Mae Jemison, and Star Trek legend William Shatner. Kristin, let's start with you. We just learned there has been a last minute adjustment of problem. What do we know? KRISTIN FISHER, CNN SPACE AND DEFENSE CORRESPONDENT:  Well, Wolf, the NASA administrator just said that this is essentially an Apollo 13 moment, although there are no astronauts on board this lunar lander. This is just a robotic lunar lander. So, of course, there is a lot less at stake here. But still, what the NASA administrator means by that, Wolf, is that, essentially, there's been a big problem with the navigation system on this Odysseus lunar lander. And so right now, the company that made and is operating this spacecraft, Intuitive Machines, is trying to come up with a fix on the fly. And what they're trying to do is use a NASA instrument, an experimental payload, to try to salvage this mission. And Bill Nelson was just on our air talking about this. That's the NASA administrator and the former senator from Florida. I'm going to let him explain exactly what's going on right now. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:00:03",
+      "speaker": "BILL NELSON, NASA ADMINISTRATOR",
+      "sentences": "Well, it's white-knuckle time. Their ability to land is not with a radar, but with light pulses called LiDAR. And it is on the blink.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:00:03",
+      "speaker": "TAPPER",
+      "sentences": "It's not working?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:00:03",
+      "speaker": "NELSON",
+      "sentences": "It's not working. But they are trying to do, since there are six NASA instruments experiments on board, one of those experiments is a LiDAR. And they're trying to patch the NASA LiDAR to the spacecraft and its control system. And so this is really one of those white- knuckle times right at the last minute.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:00:03",
+      "speaker": "FISHER",
+      "sentences": "So, Wolf, this is really a make-or-break moment for the first U.S. lunar landing mission since the end of the Apollo program in 1972.Just to get a little bit technical here, you know how radar works, right? Radar is radio waves bouncing off things. You're able to tell how far something is away from you. LiDAR is using light instead of radio waves. So, that's how this works. It's trying to bounce light off the surface of the moon so that the spacecraft and try to find a safe place to land and avoid all those craters and boulders and dead volcanoes that are all over that south pole of the moon in particular. So, two key milestones here, we've got two more possible attempts for Odysseus. First attempt is at 6:24. If that doesn't work, then it's going to take place at, or they're going to try at 8:24 two hours later because that's how long it takes to orbit the moon. And then the big question is if it doesn't happen at 6:24, what happens at 8:24? Do they crash it into the moon or does it just perhaps drift off in space? The NASA administrator said he did not know. And then finally, I should just point out, you know, we're talking about the NASA administrator a lot here. This is not a NASA mission. This is a private mission. NASA essentially sponsored this mission and is a paying customer with six payloads on board.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:05:00",
+      "speaker": "BLITZER",
+      "sentences": "So, what do we know about the fixes that Mission Control is currently exploring? Are there any other possible fixes out there or is this it?O'BRIEN:  This is it. This is all they got. These laser capabilities, the one that's on board, the Nova-C, Odysseus spacecraft, when it failed, they had this one other option. There's no way for them to know how quickly they're approaching the surface or their horizontal speed as well. And so this is going to have to work as a patch or maybe we will have to wait even longer to return to the moon.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:05:00",
+      "speaker": "BLITZER",
+      "sentences": "Yes, we'll see what happens. This is a very, very sensitive moment right now.Kristin, what happens if this experimental technology that they're thinking of trying to use right now simply doesn't work?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:05:00",
+      "speaker": "FISHER",
+      "sentences": "then this mission will likely be a failure. And we've always known that failure is an option when you're dealing with something like this.You know, Wolf, this would be the second failure of NASA's brand new Clips program. What this is is an initiative where they're trying to outsource all robotic landings on the moon to allow NASA to focus on the human landings on the moon through its Artemis program. But just last month, another private company called Astrobotic Technology, its lunar lander, tried but failed to land on the surface of the moon. It failed just a few hours after liftoff. One month later, we have our second attempt, Intuitive Machines. And now, as the NASA administrator just said, this is a white-knuckle moment for this mission. And so what happens next? It could either crash on the moon. It could drift off into space. We just don't know yet. Intuitive Machines, this is a really small team. This is a small company. They're operating on a shoestring budget, just $100 million. And they have put so much into this. You have to imagine that that Mission Control right now is just on the edge of their seat trying to scramble and figure out a solution to this.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:05:00",
+      "speaker": "BLITZER",
+      "sentences": "Let's hope they figure it out and get this NASA equipment to do what they failed to do to begin with. This is a really sensitive moment indeed.Miles, how would a failure tonight -- we hope there isn't a failure, but how would a failure tonight impact future missions to the moon? O'BRIEN:  Oh, they'll keep pressing on, Wolf. This is part of a long- running program, this commercial lunar payload services program that NASA is doing, to try to create a robust, you know, commercial enterprise on the moon. Everything they do up to possibly landing or not tonight will be chalked up as a learning experience. There are four missions ahead for this company and others as they try to land robotic systems on the moon. And as time goes on, they're going to figure this out. But as Kristin pointed out, they're doing it for pennies on the dollar. It cost us an inflation adjusted dollars, but a trillion bucks to get to the moon. It was 4 percent of the national budget. And this is a private enterprise. NASA is the main customer, and so it's speaking on behalf of Intuitive Machines a lot. But, basically, this is a smaller company trying to do something that is very bold, and each time they do it, they're going to get a little smarter. So, it's not going to be a cataclysm in that respect. I'm sure there'll be a lot of sad faces in Houston if it doesn't work out, however.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:05:00",
+      "speaker": "BLITZER",
+      "sentences": "I'm sure there will be. We're showing our viewers live pictures of Mission Control in Houston right now. Miles, stay with us. Kristin, stay with us. We're going to stay on top of this story.Joining us now, two icons who have inspired generations of space enthusiasts, the former astronaut, Mae Jemison, who became the first black woman in space back in 1992, and legendary Star Trek actor William Shatner who became the oldest person in space as a passenger aboard the Blue Origin back in 2021. Mae, let me start with you. We're waiting to see whether the Odysseus lunar lander will be able to land. Some recent moon missions have failed, as we all know. What are the challenges in pulling this off as you see it right now?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:05:00",
+      "speaker": "MAE JEMISON, FORMER ASTRONAUT",
+      "sentences": "So speaking about challenges to landing on the moon, as you've heard, it's like finding the right place to land. Whether or not you can do this autonomously makes a difference as well. What does that mean? Autonomously means that everything that happens is right there.And I think Miles O'Brien used the example and I was going to be used is that when you have a human in the loop close up, you have the opportunity to make adjustments that you didn't have before. The real challenge that we have is to find out now whether or not we can connect systems together on the fly. NASA has done that before, we've done that before as humans. And the other challenge is not to be deterred if something doesn't go absolutely correct because we learn every time. And I also heard that the comments about how much it cost to go to the moon in adjusted dollars in the past versus now and working with commercial, we have to remember that right now commercial is building up on everything that we learned through the 60s, the Gemini, the Mercury, the Apollo programs, other countries landing. We have new technology like LiDAR and other things that have been built into this much more computing power. So this is just, again, a way of understanding how we can do this, really checking this through. So, the challenges are, yes, let's make sure we have these connections and it's integrated and it's able to work, but at the same time, don't lose faith, don't lose hope or think that this is not worth it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:05:00",
+      "speaker": "BLITZER",
+      "sentences": "Those are really important points.And, William Shatner, thank you so much for joining us. I've been a big fan of yours for many years. What are your thoughts right now on seeing the U.S. potentially, potentially land on the moon for the first time in more than 50 years?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:05:00",
+      "speaker": "WILLIAM SHATNER, ACTOR, STAR TREK",
+      "sentences": "What we have in front of us is one of those exciting human moments where everything trembles in the balance, true life. This isn't reading what happened and you've got a historical point of view. You have an immediate point of view.As I am speaking, there are human beings frantically attempting to correct a technological problem. No different than Broadway shows that I've been on. The audience is waiting there for the curtain to go up and somebody, something, somewhere, something has gone wrong. Odysseus is odious. No question about it. Will us human beings be able to correct this mistake that's happening right now? It's a drama. It's incredible that we should be a party of it. We're minutes, seconds away from the luck of three legs landing.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:05:00",
+      "speaker": "BLITZER",
+      "sentences": "It really is a very, very delicate, sensitive moment right now. We're all waiting to see if they can fix this problem that has just developed. Mae, go ahead.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:05:00",
+      "speaker": "JEMISON",
+      "sentences": "I was going to say, I want to make sure that we don't just see this as luck or also mistakes. It's really about the challenge of being -- it's really about the challenge of what you need to do, all the pieces that have to fit together.It's going to be expertise. It's going to be skill. It's going to be knowledge of the systems. There will be a bit of luck in there as well, but it's not just fundamentally that. And what we're doing now in some ways is very different from some of the work that we've done before. I had the thrill of being on Star Trek as well years later in Next Generation after following the First Generation event of a Star Trek. But it's not only luck. It's a drama, it's real life and we've been going to the moon for a while and we need to continue to.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:05:00",
+      "speaker": "BLITZER",
+      "sentences": "Let me let William follow up on that. William, let me just ask you, why do you think space missions like this are so important. Why should we be involved in space exploration?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:15:05",
+      "speaker": "BLITZER",
+      "sentences": "We will find out here.Kristin, you're getting some new information. What are you learning?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:15:05",
+      "speaker": "FISHER",
+      "sentences": "Wolf, I can't believe it. They're going for it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:15:05",
+      "speaker": "BLITZER",
+      "sentences": "They're going to go for the landing?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:15:05",
+      "speaker": "FISHER",
+      "sentences": "They are going for the landing. BLITZER",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:15:05",
+      "speaker": "FISHER",
+      "sentences": "They hope so. They say they have good thrust control and they are intending to land at 24 minutes after the hour. Wolf, if this works, this is going to be incredible.NASA Administrator Bill Nelson said this is not something that they had rehearsed for to the best of his knowledge. Just to bring everybody up to speed --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:15:05",
+      "speaker": "SHATNER",
+      "sentences": "I'm going to tell you it's going to work. I'm telling you it's going to work. This is the moment. Humanity is coming to the rescue. I promise you it's going to land. I'm a believer in happy endings.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:15:05",
+      "speaker": "BLITZER",
+      "sentences": "Go ahead, Kristen.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:15:05",
+      "speaker": "FISHER",
+      "sentences": "Hey, I sure hope you're right. And, you know, I think we should just take a minute here and look at what is happening. This has never before been done by a private company. This is the stuff of things that only governments and only five governments have been able to do up until this point.And so here you have a small private company working on a very small budget. And I think we're going to listen in --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:15:05",
+      "speaker": "BLITZER",
+      "sentences": "Hold on one second. Mission Control, I want to listen in to hear what they're saying.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:15:05",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "-- to make those decisions, right? There's no human eyes, human elements deciding, okay, I see the hazard. I need to steer this way or maybe press the gas, press the brakes. This all happens autonomously and this is a huge requirement and a great call out to hear about the HRN camera system and processing those images.Right now, I am tracking. 5:16 P.M. We expect PDI to go until about 5:21, 5:22.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:15:05",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "300 seconds and breaking one.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:15:05",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Or about 300 seconds to approximate those numbers.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:15:05",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Very precise.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:15:05",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Josh, After those final series --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:15:05",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "thrust to weight is 1.7.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:15:05",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Following along after those critical maneuvers.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:15:05",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Committed thrust until 90 percent.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:15:05",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "90 percent thrust. We'll hear those call outs periodically. We started at full thrust, 90 percent full throttle.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:15:05",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Engine (INAUDIBLE) is nominal.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:15:05",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "And good performance on that engine.That's a great call out, two things there, nominal performance on this engine as well as the helium tank. So, what we haven't mentioned so far in the show is that the helium tank pressurizes that liquid methane and liquid oxygen tank. But in addition, it's also used for reaction control system. Those are the small spurts that you see at the top of the lander in the animation that control the vehicle's attitude. So, for things like landing on the moon, you really want to land at the right attitude. That way your antennas are facing back, direct line of sight to Earth, and you can get that ultimate confirmation once you do suspect that you have landed on the moon.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:15:05",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "The antenna alignment is an important element of landing on the moon, Josh. We're expecting the high gain antennas to be pointed towards Earth to confirm, but there may be a delay.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:15:05",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "We are expecting some sort of delay. I had talked to the mission directors about how quickly we could receive a positive confirmation after this landing process is through. And there was some dispute over how long. The earliest was just about 15 seconds after we see timing of when the event is supposed to happen. So, right now, we're tracking about 5",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:15:05",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Nine kilometers altitude.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:20:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Three minutes to go, breaking one.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:20:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Three minutes call.Just to wrap that up, when the lander is making those decisions, Gary, it's also very difficult to track. We've been very fortunate thus far tracking communications to this point.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:20:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "To wrap that up, Josh, three minutes, that brings us to just shy of 5So this is a throttleable (ph) liquid methane, liquid oxygen engine. We lit the engine at PDI. And while we are changing into a pitch over, vertical descent and terminal descent in that landing, that is a throttle down to the lunar surface. And when we do get out of PDI, if we hear that call of PDI complete, good burn, everything after that is going to happen in very quick succession, Gary. The time it takes to go from pitch over to landing or what we estimate landing to be. Just looking at maybe 90 seconds is what we expect nominally.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:20:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Three minutes to touchdown.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:20:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "There is some wiggle room. Three minutes to touchdown call from the mission director.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:20:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "For an on-time landing, that sets us a little after 5",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:20:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Right, our notes going into this burn 5",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:20:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "The autonomous operations, Josh, sets this to a clock. This is exactly what we got relayed before the start of --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:20:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Still processing. De-pause (ph) terrain relative navigation measurements.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:20:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Excellent call out that solution that flight controllers were working so hard on to make sure HRN was working, pulling on extra resources that weren't originally planned for from those two laser beams from NDL. It appears and sounds like that solution is working.And the people working to patch that software were certainly under pressure. The clock was ticking as we went into that extra lunar orbit. It wasn't a situation where we could just sit in lunar orbit and try to solve our problems indefinitely, and it's sounding good so far on the call.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:20:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Confirm, that looked like a pitch over gimbal.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:20:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "It sounds like we have some data that confirms pitch over this starts the HDA process. That's hazard detection avoidance throughout this show. You've heard Gary and I talking about the problem that was attempted to be solved in lunar orbit, making the decision to not only postpone the show.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:20:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "NDL indicates altitude of 1,000 meters.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:20:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "1,000 meters call out from NDL, that is coming from flight management. This is a system right now. NDL was not intended to be the primary landing system on this. Instead, we're using two laser beams from NDL and feeding that into that hazard detection and avoidance system that you see on your screen right now with the lander making autonomous decisions about where it wants to land. That is generally --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:20:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Less than one minute remaining to touch down.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:20:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Less than one minute remaining for touchdown. And, again, that's the time of a touchdown. It may take some time to actually confirm the status of the lander.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:20:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "And in this process, we do have a deployment of Eagle Cam attempting to take the third person images of Nova-C going down to the lunar surface. We are inside of one minute, Gary.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:20:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Yes, we're wheeling to blow down.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:20:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "And we're tracking here in the broadcast booth. The clock has reached the expected --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:20:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Let me take a minute for comms to be established. Stand by.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:25:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Do you have carrier lock?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:25:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "That's M.D. asking if we are getting the ground stations locked on to Nova-C.That carrier lock call, Gary, we expect that to come from ground net or comm. that conversation possibly not happening on our public channel that we have access to. We're just standing by to hear that come through the channels as we approach almost two minutes since we estimated the landing time. We did get a few call outs on the side folks coming into the room saying there was about a two-minute forgiveness in our timetables.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:25:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "We were checking our antenna reception.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:25:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Checking antenna reception.We're standing by, Gary. We're standing by just as we approach 05:26 P.M. Central Standard Time. Given those mission director's notes of the flexibility between what we were tracking, what we were given was just about 5:24. UNIDENTIFIED MALE:  All stations, this is M.D. Please look back through your logs and confirm the last information you had and we'll determine if this is a comm outage.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:25:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "And that's the mission director, Gary. These are our notes here of what we believed -- we talked about the calm outages with the lander making autonomous decisions. This is the process of going through the last bit of data that came into Nova control and working to verify, okay, this is the last bit of data. Where was the lander possibly going? How do we look for it and establish those communications? Nova-C uses four antennas placed at the top of the lander that are designed to capture these communications.But we did expect this. We talked about it, that this is a communications challenge in and of itself. And right now we're standing by to hear that communications call out.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:25:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Just a little more than three minutes from the time of the -- when the clock reads zero for Nova-C landing on the moon.And we just checked with our team here in the broadcast booth, decided to let's stay on this. All the chatter we are not hearing on this public channel, Gary, all things indicate that we are working to solve a communications -- a possible communications challenge in this moment. So, we're going to continue to stand by.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:25:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "For those following --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:25:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "(INAUDIBLE) prime one, prime one.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:25:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Go for prime.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:25:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Yes, I guess you pulled the room looking for states and we're going to go ahead and cycle the ground transmitter on Goonhilly and do some R.F. (ph) sweeps. Is that your plan?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:25:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "That's correct.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:25:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Roger, copy.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:25:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "And that's just what we had in mind in our notes, Gary, is that if we encounter a communications challenge, we mentioned how difficult it is to land on the moon and continually have those communications. What you just heard there is folks talking about using the Goonhilly Earth Station Limited dish in the U.K. to do a sweep looking for that signal.We mentioned that autonomous process of the lander reassigning itself somewhere that it believes is safe going into it. We heard that the HRN camera was functioning and able to make those decisions after what was a two hour orbit of problem solving with Intuitive Machines' TRN and HRN cameras. The laser rangefinders assigned to those, those are the ones that Intuitive Machines installed inside the navigation pods. The laser rangefinders were not activated. We went to NASA and asked to use two of the laser beams on the Navigation Doppler LiDAR. [18:30:01]",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:25:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "That's right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:25:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "And spent two hours in orbit.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:25:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Team, we're going to confirm our pointing vector with our antenna for post-landing.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:25:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Yes, we spent about two hours in orbit to solve that problem. We got good readings on the way down. And right now we are working to confirm communications on the surface of the moon, roughly around the Malapert A region. That is the south pole region of the moon.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:25:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "That's right. What we do know is the power descent initiation. We were following along on the status calls. We executed a pitch over maneuver and we're counting down the clock to a landing time of 5Well, Josh described those processes of working on the communications component to confirm data from the lander, pulsing the teams surrounding him to check the status of Nova-C and the data that they were receiving here in Nova control to confirm landing. Part of that, Josh, as you described, is communications. We're standing by.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:25:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Fido M.D. on I.M. One (ph). I'm looking at our phase plane there for the last part of the flight. Looks like we had excellent pitch and yaw control throughout, but I do see a little bit of a roll excursion. Could it be that we landed off angle and roll in the final phase?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:25:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "So, I do see head up to an eight degree excursion. We're about to begin the roll maneuver, which is terminal phase, the terminal phase which is a large roll maneuver to get to landing altitude. That's the last data point I have. But up until that point, we were really solid.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:25:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Right. So, terminal phase begins at 30 meters.Post-HDA?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:25:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Post-HDA.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:25:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Post-HDA.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:25:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "400 meters.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:25:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Very good.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:25:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "And that's a great conversation confirming.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:25:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "That's good ground network, good for box can (ph), make that go.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:25:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Yes, that was good confirmation of the process that we were very familiar with, talking about the attitude of the lander, making sure that those antennas are within direct line of sight with Earth stations -- ground stations on Earth, excuse me.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:25:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Mission director at all stations. We're also updating our pointing vector with our dishes to make sure that they're tuned in on our final landing site.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:25:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "There's a call we're searching for that communications back to the ground station. This one particularly is in the U.K. that's tracking us.And it's important to note, Gary, that we have an entire network dedicated to working these communications problems. It's been active this entire mission, and the largest, most powerful dish out of all of them is about a 64 meters dish in Australia. That time to search with that opportunity with the largest, most powerful dish. We're looking at about 12 to 13 hours after our estimated touchdown. So, this is a process that we could be looking and searching for the lander signal for confirmation for quite some time, but we're going to continue to listen in and stand by as our flight controllers are working with the ground station in the United Kingdom to work this issue, work this problem. It's another challenge very similarly to the challenge solved just to make it this far.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:25:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Signs of life, we have a return signal we're tracking.We have an onboard fault detection system for our communications that after 15 minutes, with lack of communication. We will power cycle the radios. And then after that, for another 15 minutes, it will then switch antenna pairs. So, we have some time here to evaluate. We do have signal that we're tracking. So, we'll see what happens.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:35:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "We're not dead yet.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:35:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "We're also not dead yet.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:35:00",
+      "speaker": "BLITZER",
+      "sentences": "We've been listening to Mission Control. It seems, Kristin, encouraging what we're hearing, a lot of technical material being relayed, but it sounds encouraging, correct me if I'm wrong. FISHERSo, the fact that they are able to communicate with Odysseus is a big deal in and of itself. But you also have to wonder, and you heard the flight controllers wondering what sort of condition the spacecraft is in. Did it successfully soft land, or did it perhaps tip over, which is what happened to Japan's lunar lander, the slim lander, the Moon Sniper, as it was called. It did successfully soft land, but then it kind of tipped over. So, that's something that the team is watching for right now. But if this is a success, and it is too soon to say that it's a success, let's just think about some of the firsts here. First time a private company has ever done this, the first time an American-made spacecraft has landed on the surface of the moon since 1972, if indeed it is a success. And then the other big first, this would be the first time that any spacecraft has successfully landed in that spot on the south pole of the moon. And that is significant because it's a more treacherous spot where a lot of the Apollo missions tried to land. But it's also potentially a much more significant spot because that is where scientists believe you can find water in the form of ice. And that could be used to sustain a permanent human presence and build a lunar base on the moon.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:35:00",
+      "speaker": "BLITZER",
+      "sentences": "I want to bring in Miles O'Brien, who's been monitoring what's going on. What are you hearing, Miles? Explain what's going on.O'BRIEN:  It's a mix here, Wolf. I think what you're watching, as Bill Shatner referred to, was this maestro of a symphony that is a group of engineers as they're trying to solve a problem. And it's a marvel to behold. This is kind of what they live for. Of course, they'd rather have the thing landing there and reporting back. But the idea that they've been troubleshooting their way down to the surface and even on the surface now are having to come up with ways to perhaps communicate in an alternate way. Is the craft not pointing in the right direction? Do they have to use multiple means of communication? Or is this something more serious? But what we're in the middle of is them all doing everything they can to come up with an alternative.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:35:00",
+      "speaker": "BLITZER",
+      "sentences": "You know, Miles, I'm going to interrupt for a second because we're hearing some applause in Mission Control over there. Let's listen in.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:35:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "If I could just pass on a few words to the entire team in Intuitive Machines at Super Bab (ph) and here in the Mission Control. What an astounding effort. I know this was a nail-biter, but we are on the surface and we are transmitting and welcome to the moon.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:35:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Houston, Odysseus has found his new home. UNIDENTIFIED MALE",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:35:00",
+      "speaker": "BLITZER",
+      "sentences": "We are awaiting applause, cheering going on from Mission Control, we just saw it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:40:01",
+      "speaker": "BLITZER",
+      "sentences": "We always knew. They always said it would take 15 or 20 minutes after the landing. The landing, 5",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:40:01",
+      "speaker": "FISHER",
+      "sentences": "They have confirmed that it landed. And they've also confirmed -- this is a part of a new public private-partnership with NASA. This is the first successful mission of NASA's Clips initiative.And so what they're doing is they're trying to outsource all of these robotic lunar landings to let NASA focus on the Artemis missions, the human missions, the crewed missions. And so this is really a scouting mission. And so now, for the next seven days, Odysseus is going to be on the surface of the moon testing things out and really serving as those first eyes for the Artemis astronauts.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:40:01",
+      "speaker": "BLITZER",
+      "sentences": "William Shatner is still with us, a former Space Voyage passenger himself. You predicted this, William. You said it would be successful. You seemed to be right. SHATNER",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:40:01",
+      "speaker": "BLITZER",
+      "sentences": "Yes, it's amazing when you think about it. And, Kristin, I think all of us should applaud like they did in Mission Control. It worked. That was the sign. Once we see them applauding, we know. they're happy and we're happy.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:40:01",
+      "speaker": "FISHER",
+      "sentences": "Yes, absolutely. And, you know, you have to think, know, the Apollo missions had all this money, they had all this manpower. Intuitive Machines is doing this for such a small amount of money with such a relatively small group of people. And now they have just become the first private company to land on the surface of the moon.And they believe that this is really the start of what they hope to be a lunar economy. And you heard Bill Nelson, the senator -- former senator and NASA administrator, saying that, hopefully, someday they want to use the south pole of the moon to perhaps build a gas station on the moon, use it to fuel rocket flights to the moon and beyond. They also want to use it to perhaps build a base there. So, for the folks at Intuitive Machines, this is a moment that they just hoped would happen. But you have to think these last few hours, when they switched the landing time two or three times. First, it was 5:30, then 4:30, then 6:30. They were really scrambling, trying to troubleshoot that navigation issue. And I thought Miles O'Brien brought up such a great point. During the Apollo 11 missions, obviously, those spacecraft had to be rated to fly humans. That's a totally different class of spacecrafts. But it had the advantage of having not just any human's eyes, but Neil Armstrong, the very skilled pilot's eyes, looking out the window and being able to find a safe landing spot. If it weren't for that fact, Apollo 11 would never have made it. It was coming down right on a boulder field. So, a lot of these new 21st century robotic lunar landers, they're struggling to land in these very treacherous terrain without the assistance of human eyes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:40:01",
+      "speaker": "BLITZER",
+      "sentences": "This is the south pole of the moon.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:40:01",
+      "speaker": "FISHER",
+      "sentences": "Exactly.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:40:01",
+      "speaker": "BLITZER",
+      "sentences": "Not an easy landing for anyone.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:40:01",
+      "speaker": "FISHER",
+      "sentences": "And so for Intuitive Machines, as Odysseus to have an issue with its navigation system, with its eyes, the thing that everybody was so worried about, the troubleshoot, and it's a success. Like William said, it's a book, it's a novel.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:40:01",
+      "speaker": "BLITZER",
+      "sentences": "I want to go back to William right now. William, you had a profound experience when you became the oldest person to travel to space. How are you feeling right now watching today's mission unfold?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:45:04",
+      "speaker": "BLITZER",
+      "sentences": "Really an incredible moment, that as, you know, William, this is an unmanned mission, robots dealing with what's going on over there.Would you like people -- people to return to the surface of the moon?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:45:04",
+      "speaker": "SHATNER",
+      "sentences": "Returning to the surface of the moon is a really noble activity.We build a base there. It is a base to explore space I think automatic (ph) -- with machines as against with human beings, I don't know what we're doing billions of miles out in space, which will never be able to get to and putting human beings in there. I, for one, think there should be autonomous ways of doing it. The way this has been done. If this tipped over and was a lost, no human life, we try again. It's only a piece of metal, but a human being lost is a tragedy. So -- yes, we need to, with this critically important to have this base. What we do with is -- becomes a matter of national integrity.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:45:04",
+      "speaker": "BLITZER",
+      "sentences": "Standby for a moment, William, and everybody else, I want to play for our viewers, that moment when they confirmed in mission control in Houston that this spacecraft has landed safely.Listen to this. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:45:04",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Without a doubt that as our equipment is on the surface of a moon. And we are transmitting. So, congratulations, IM team. We'll see how much more we can get from that.(APPLAUSE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:45:04",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "An excellent call from our mission director, and over to our CEO Steve Atlemus.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:45:04",
+      "speaker": "STEVE ATLEMUS, CEO, INTUITIVE MACHINES",
+      "sentences": "Yeah, if I could just pass on a few words to the entire team in Intuitive Machines, its super fab and here in -- here in the mission control. More than standing effort, I know this was a nail-biter, but we are on the on the surface and we are transmitting and welcome to the moon.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:45:04",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Houston?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:45:04",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Odysseus has found his new home.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:45:04",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "An excellent call. And this is our team of Intuitive Machines, mechanics, and their families, their friends, everyone who has sacrificed so much to make it this far.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:45:04",
+      "speaker": "BLITZER",
+      "sentences": "Really historic words. Welcome to the moon. Odysseus has found a new home.William, when you heard that, give us your reaction.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:45:04",
+      "speaker": "SHATNER",
+      "sentences": "This is a big beginning. You know, it was -- it was a shame. We've seen so many control rooms explode into, into laughter and applause. And the -- these men who had worked for year -- and women who had worked for years to make their mission possibility, land and they're filled with the joy of this, this work. We're doing something that has never been done before.Here, there's a small group, some desultory applause. We landed. But it's huge. It's -- this is a huge event. How many nations, count them, landed or attempted to land on the moon and failed? We were possibly failing but through a series of technical, technological advancement and also, I'm sorry to say it, a great deal of human luck which should be important to note because luck has many aspects. I was thrilled with the fact that this beginning is a success",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:45:04",
+      "speaker": "BLITZER",
+      "sentences": "Yeah, you're absolutely right. Once I heard the applause, it was so exciting. All of us were thrilled to hear that because we knew that would be the first really official sign that things are moving in the right direction despite this last-minute problem that developed.The exact wording. And I just want to make sure we have that exact wording. Our equipment is on the surface of the moon. So when will we really know id get pictures of all of that and the details?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:45:04",
+      "speaker": "KRISTIN FISHER, CNN SPACE AND DEFENSE CORRESPONDENT",
+      "sentences": "So we should get the first pictures 30 minutes after landing. And that'll be a picture that was taken by the lunar lander itself.And then if everything goes according to plan, if all of the equipment is functioning and intact, between an hour, and three hours after landing is when Intuitive Machines has said that we will get the first picture of the lunar lander on the moon. And the way they did that was they actually had a little pop off piece of technology, a little piece that was on the spacecraft that pops off so that when Odysseus was landing, it was able to get a shot of Odysseus, you know, with the moon in the background. So that would be even better confirmation for what exact kind of shape this lunar lander is in. You're right. It's important to point out the language that they used. Our equipment is on the surface of the moon, of course, there are still questions about what kinds of condition it's in given their communication issues, given the issues that they had with that navigation system. But the fact that you have the CEO of Intuitive Machines coming out and saying, Odysseus has a new home, you have the control room down in Houston, Texas, applauding. I think there's a certain degree of confidence that this mission has been a success. But, of course, there are some questions. And like I mentioned before, Japan's moon sniper, it was dubbed a success in terms of the fact that it made a soft landing, but then it did tip over. So there's questions about that with Odysseus as well.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:45:04",
+      "speaker": "BLITZER",
+      "sentences": "I want to bring back to the former astronaut Mae Jemison.Give me your final thoughts and what has just happened. A truly historic moment, Mae.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:56:23",
+      "speaker": "BLITZER",
+      "sentences": "There's more breaking news we're following right now. The former FBI informant charged with lying about the Bidens has been rearrested.I want to go to our senior justice correspondent, Evan Perez. Evan, a judge had just released this former informant. So why was he rearrested?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:56:23",
+      "speaker": "EVAN PEREZ, CNN SENIOR JUSTICE CORRESPONDENT",
+      "sentences": "Well, that's one of the things, Wolf, that is so strange about this case. The Justice Department obtained a new warrant for his arrest from the judge that is going to oversee this case eventually in Los Angeles, Alexander Smirnov is charged with lying to the FBI and falsifying documents.But those charges are actually filed in Los Angeles. He was arrested in Las Vegas where that detention hearing happened just a couple of days ago and where that judge decided to release him, saying that the political ramifications and all the issues that the justice department had raised were not sufficient to keep him detained. I'll read you just a part of what the lawyer said to us today. He said: Despite Judge Albregts's prior ruling, denial of the state request, and Mr. Smirnov's prior release from custody on the morning of February 22. Mr. Smirnov was arrested for a second time on the same charges, and based on the same indictment, while he was meeting with his lawyers, Wolf. So, that's what the status at this moment. Just a few minutes ago, the judge in Las Vegas just issued an order for the Justice Department to respond to a request by Smirnov's lawyers for an emergency hearing. So at this point, he's going to be remained detained while this works itself out, Wolf.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:56:23",
+      "speaker": "BLITZER",
+      "sentences": "Important development indeed. Evan, thank you very much.Meanwhile, the judge overseeing Donald Trump's $355 civil fraud case is denying the former president's request to delay the judgment and says he will sign off on it. CNN's Kara Scannell is joining us from New York right now. Kara, what can you tell us?",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

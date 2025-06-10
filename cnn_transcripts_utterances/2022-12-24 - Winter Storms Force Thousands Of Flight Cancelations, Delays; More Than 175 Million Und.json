@@ -1,0 +1,625 @@
+{
+  "date": "2022-12-24",
+  "headline": "CNN This Morning",
+  "subHeadline": "Winter Storms Force Thousands Of Flight Cancelations, Delays; More Than 175 Million Under Wind Chill Alerts; Migrant At U.S. Border Struggle To Find Shelter In Dangerous Cold; Jan. 6 Committee: Trump Should Be Barred From Holding Office Again; McCarthy Vows To Block Bills Of GOP Sens Who Voted For Spending Bill; Biden Admin Asks Supreme Court To End Title 42, With A Delay; House Passes $1.7T Spending Bill, Measure Now Heads To Biden To Sign; Tory Lanez Found Guilty Of Shooting Megan Thee Stallion. Aired 6-7a ET",
+  "utterances": [
+    {
+      "timeStamp": "06:00:28",
+      "speaker": "MARTIN SAVIDGE, CNN ANCHOR",
+      "sentences": "Good morning and welcome to CNN This Morning. I'm Martin Savidge.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:28",
+      "speaker": "WHITNEY WILD, CNN ANCHOR",
+      "sentences": "And I'm Whitney Wild. A massive winter storm is blanketing the U.S. leaving thousands without power and making a mess of holiday travel. Live pictures right now from Buffalo where a blizzard warning is in effect until tomorrow morning. All of the impacts and when we'll see some relief coming up.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:28",
+      "speaker": "SAVIDGE",
+      "sentences": "The January 6 committee lays blame for the insurrection squarely at the feet of former President Trump the key takeaways from that 845-page report and what's next in the investigation.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:28",
+      "speaker": "WILD",
+      "sentences": "Ukrainian President Volodymyr Zelenskyy is back home after an historic visit to Washington and he's warning Ukrainians they could see more Russian missile strikes over Christmas. The next phase in this war and how the just passed U.S. government spending bill could help.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:28",
+      "speaker": "SAVIDGE",
+      "sentences": "Plus, from heartbreaking tragedies to shocking courtroom revelations. We've got to look at the top 10 crime and justice stories of the year on CNN This Morning.Yes, it is Saturday, December 24. Merry Christmas Eve. Thanks for waking up with us.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:28",
+      "speaker": "WILD",
+      "sentences": "Merry Christmas to everyone. Sorry, Martin. I was just going to say Merry Christmas to everyone. I'm sure Santas working very hard to get those presents wrapped ready to go.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:28",
+      "speaker": "SAVIDGE",
+      "sentences": "It's good to be with you all. We're going to begin with that. Of course, frigid and frustrating started the holiday weekend. More than 200 million Americans are under wind chill alerts with an arctic blast. It's delivering freezing temperatures, powerful winds and heavy snow and ice. High winds produce dangerous wind chill ratings across the U.S. cities from the Midwest to the East Coast are experiencing their coldest Christmas Eve in decades. This week in Wyoming get this, the wind chills dropped to around a negative 75 degrees. In parts of Alaska, winds are gusting over 50 miles per hour.(BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:28",
+      "speaker": "LEE HENRIKSON, PALMER, ALASKA RESIDENT",
+      "sentences": "The weather in general -- I -- the weather today in general is really challenging.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:28",
+      "speaker": "WILD",
+      "sentences": "Across the country, snow ice and powerful winds caused multi vehicle crashes and left drivers stranded on roads and highways. Many spent hours in these freezing conditions. Now officials in four states are blaming the winter storm for at least 11 deaths. And they're reminding drivers, if you don't need to travel, don't travel.But it's not just the snow and ice in New Jersey and in several coastal cities across the Northeast, the storm brought major flooding. This morning, about 840,000 homes and businesses are without power. Utility companies made progress overnight though. The storm knocked out electricity to more than 1 million customers nationwide Friday.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:28",
+      "speaker": "SAVIDGE",
+      "sentences": "Meanwhile, air travelers bracing for another day of frustration. This morning, more than 1,300 U.S. flights were already canceled. That comes a day after 5,700 flights were canceled nationwide on Friday.(BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:28",
+      "speaker": "TRISHA QUIGLEY, STRANDED IN SEATTLE",
+      "sentences": "Every solution we went to, we can reach anyone. I stayed on hold actually for eight hours today and then was disconnected so that wasn't fun. Super frustrating because, you know, there's nothing they can do and there's nothing we can do.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:28",
+      "speaker": "SAVIDGE",
+      "sentences": "CNN's Omar Jimenez reports for us.(BEGIN VIDEOTAPE) OMAR JIMENEZ, CNN CORRESPONDENT (voice-over): From record snowfall in the Midwest to dangerous road conditions in the Deep South. Now, more than half of the country is under massive winter storm and wind chill alerts. A blizzard whips through Buffalo. Storms ravaged Rhode Island. Wichita experiencing a whiteout.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:28",
+      "speaker": "GREG CARBIN, NOAA WEATHER PREDICTION CENTER",
+      "sentences": "It's really hard to find where the worst weather is. It's just about everywhere from coast to coast.JIMENEZ (voice-over): The extreme weather blamed on what's being called a bomb cyclone across nearly every state from the Rocky Mountains to the south. Some temperatures freefalling, a record 30 to 47 degrees within a matter of hours on Thursday. In Denver, Colorado below zero temperatures prompted a wind chill warning.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:02",
+      "speaker": "PETE BUTTIGIEG, TRANSPORTATION SECRETARY",
+      "sentences": "I know we all want to get to our loved ones for the holidays, but please, please pay close attention to what local authorities are saying. And if they're saying it's not safe to drive, it's not safe to drive.JIMENEZ (voice-over): And that many airports transportation authorities are saying it may not be safe to fly either. More than 7,000 flights have been canceled today.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:02",
+      "speaker": "MARY HALEY, TRAVELERS",
+      "sentences": "It's changing by the minute.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:02",
+      "speaker": "ANTHONY SCHURZ, TRAVELERS",
+      "sentences": "It just by -- it was going to be a long trip and now it's just part of the adventure to get there.JIMENEZ (voice-over): Snow even disrupting travel in Seattle and creating a domino effect around the country. The frigid temperatures are expected to last throughout the holiday weekend breaking 40-year records in the Midwest and the plains. For millions of Americans, this may be the coldest Christmas they have ever experienced. (END VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:02",
+      "speaker": "WILD",
+      "sentences": "Omar Jimenez, thank you.Let's go now to Polo Sandoval in Buffalo, New York where the winter storm is bringing heavy snow and sub-zero windshield. Polo, officials there are being very clear people should not take chances with this dangerous weather. And here's the reality. It doesn't matter how good your snow tires are, a good of a driver you think you are, the wind and the snow will always win. It is so dangerous out there. What do you see?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:02",
+      "speaker": "POLO SANDOVAL, CNN CORRESPONDENT",
+      "sentences": "And on that point, Whitney, yesterday, we spoke to a couple of gentlemen that got stuck in a massive utility truck around the corner. So no matter how small or how big your vehicle is, it certainly runs the risk of getting stuck. And that's what we heard from the Erie County Executive overnight saying that even their own first responders are getting stuck in this. I will say that its visibility slightly better. For example, from our vantage point, we can see a little bit more than what we were able to see yesterday. But really that doesn't mean much because these winds have been relentless all nights. Our hotel, you could hear those windows rattling all night.I have to tell you, though, this is what the biggest concern right now, according to officials here in Buffalo and Erie County are the hundreds of vehicles that authority say were stranded overnight. These are people that apparently disregarded for one reason or another the driving ban that was put in place almost 24 hours ago. So what authorities have been doing all night, basically going to those vehicles and making sure that there isn't anybody there. However, authorities did say that they believe that there would be rescues happening overnight. But, look, even their own first responders, like I said, are getting stuck in this. So the huge -- the most important message that we're hearing from authorities is shelter in place. Whether you're in your home, even if you don't have power, you're cold, the interior -- cold interior of your house is still much safer than being stuck in this. And if you're in a vehicle, stay in that vehicle, just run it every 10 minutes for heat purposes, make sure that exhaust pipe is clear. And if you can flag a first responder that's passing by, do so or call their non-emergency number because they do expect again those rescues to continue well into the morning and these conditions again that wind is going to be the hardest part today. My face, it feels like just 1,000 needles. So it really is an extremely dangerous morning out there. And folks, according to authorities, they should resist that urge to head out this morning because travel, it's still impossible in and around buffalo. Martin, Whitney?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:02",
+      "speaker": "SAVIDGE",
+      "sentences": "Polo Sandoval, thank you very much. We feel for you, we feel for all the people in Buffalo but let's face it, it is cold just about everywhere. Thanks. Go get warm.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:02",
+      "speaker": "SANDOVAL",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:02",
+      "speaker": "WILD",
+      "sentences": "And that extreme cold is also gripping southern states that are just not used to this kind of weather. At the border, migrants left in limbo due to Title 42 are struggling to stay warm.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:02",
+      "speaker": "SAVIDGE",
+      "sentences": "CNN's Camila Bernal is in El Paso, Texas. She's got the latest for us from there.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:10:04",
+      "speaker": "SAVIDGE",
+      "sentences": "Camila Bernal, thank you very much for that.And, of course, it is shaping up to be a cold Christmas weekend for the majority of the country. Let's go now to meteorologist Allison Chinchar, she's live from the CNN Weather Center. And Allison, what are you tracking for this morning, obviously more cold.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:10:04",
+      "speaker": "ALLISON CHINCHAR, CNN METEOROLOGIST",
+      "sentences": "More cold and a very white Christmas for many people whether you wanted it or not. The good news is, we are going to finally start to see a lot of this cold air begin to recede in the coming days. But today, we still have that cold in place.Take a look at all the areas that you see here highlighted by the wind chill warnings and wind chill advisories. Still a very wide spread area. Again, it goes still from the Dakotas all the way down across portions of Florida. Again, it's not just the cold temperatures, but it's also the wind. Buffalo sustained wind of 32 miles per hour right now, but it's gusting to 56. So you take that temperature they have. You factor in that wind. And if you were outside any exposed skin that you have, is going to be dealing with that wind chill. Cleveland 25 miles per hour, Detroit around 30. Even some of these Northeastern cities also starting to see those winds tick up around that 15 to 25 mile per hour range. When you mix the wind with the snow, you end up getting blizzard conditions. So that's why you still have a pretty significant amount of blizzard warnings out even though in some of these places. It's not necessarily that any new snow is coming down. It's just picking up all of that snow that's fallen in the last 24 hours and blowing it down reducing the visibility even more. We do have some snow. Most of the snow today is going to be limited to the Great Lakes region where you've got that lake effect enhancement across portions of Michigan, areas of upstate New York, as well as Ohio. Most of these areas likely to just pick up an extra 2 to 6 inches of snow. But a couple of the spots here where you see that pink color especially around Buffalo, still not out of the question to pick up another 1 to 2 feet of snow total. Temperature is still pretty cold today. The high today in Minneapolis only 4 degrees. 13 for the high today in Chicago, even Atlanta will not reach the freezing point today. But I have good news. Warmer temperatures are on the way, just not today. We will finally start to see the vast majority of the country dealing with warm temperatures once we get to about mid next week. And then it's likely going to stay that way for at least the latter half of the week. And for Christmas, while we do still have a couple of snow showers across areas of the Midwest for tomorrow, a lot of the other areas while cold guys, we'll be dealing with some sunshine.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:10:04",
+      "speaker": "WILD",
+      "sentences": "Allison Chinchar, thank you.Coming up later this morning, we've got tips to stay safe during those cold temperatures including why it might be smart to skip that second cup of coffee.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:10:04",
+      "speaker": "SAVIDGE",
+      "sentences": "Plus, the January 6 committee makes it clear they believe the cause of the insurrection was former President Trump, the key takeaways from more than the 800-page report coming up.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:16:28",
+      "speaker": "SAVIDGE",
+      "sentences": "The House January 6 committee released its final report on the riot at the U.S. Capitol which places the blame squarely on one person, Donald Trump.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:16:28",
+      "speaker": "WILD",
+      "sentences": "The panel's 800-page document comes after nearly 18 months of interviews and investigative work that dived into the efforts by former President Trump to overturn the 2020 election. CNN's Jessica Schneider gives us an inside look into this historic report.(BEGIN VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:16:28",
+      "speaker": "DONALD TRUMP, FORMER PRESIDENT OF THE UNITED STATES",
+      "sentences": "And we fight, we fight like hell.JESSICA SCHNEIDER, CNN JUSTICE CORRESPONDENT (voice-over): The January 6 committee leaving no doubt that former President Donald Trump was the one singularly responsible for the attack on the Capitol. The 845- page report saying none of the events of January 6 would have happened without him, drawing a clear line between Trump's election denials and the violence that unfolded that day. After sending four criminal referrals for Trump to the Justice Department, the committee is also recommending that he's barred from holding government office ever again, zeroing in on a section of the Constitution that says any office holder who engaged in an insurrection can be disqualified from serving again. REP. LIZ CHENEY (R), VICE CHAIR, JANUARY 6 SELECT COMMITTEE: No man who would behave that way at that moment in time can ever serve in any position of authority in our nation again. He is unfit for any office. SCHNEIDER (voice-over): House investigators say Trump in his inner circle engaged in at least 200 attempts to pressure state officials to overturn the results, including this call with Georgia Secretary of State.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:16:28",
+      "speaker": "TRUMP",
+      "sentences": "I just want to find 11,780 votes, which is one more that we have, because we want to state.SCHNEIDER (voice-over): The report also highlighting other key players in the alleged conspiracy, identifying pro-Trump lawyer Kenneth Chesebro as the architect of the fake electors' plot and a 23-minute call between Trump and Attorney John Eastman as the genesis of the pressure campaign against Vice President Mike Pence.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:16:28",
+      "speaker": "TRUMP",
+      "sentences": "If Mike Pence does the right thing, we win the election.SCHNEIDER (voice-over): This leading the committee to recommend an overhaul of the 1887 Electoral Count Act that's close to becoming a reality as the House and Senate have each passed their own reform bills. But back in 2020, Trump did not agree with every outlandish theory his team presented.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:16:28",
+      "speaker": "SIDNEY POWELL, ATTORNEY FOR DONALD TRUMP",
+      "sentences": "The massive influence of communist money through Venezuela, Cuba, and likely China and the interference with our elections here in the United States.SCHNEIDER (voice-over): When Sidney Powell repeated these conspiracy theories in a phone call to Trump, White House aide Hope Hicks told the committee, the president muted his speakerphone and laughed at Powell, telling the others in the room, \"This does sound crazy, doesn't it?\" The committee also laying out Trump's failure to act for 187 minutes during the riot writing, \"President Trump did not contact a single top national security official during the day.\"",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:20:04",
+      "speaker": "WILD",
+      "sentences": "Jessica Schneider, thank you. Let's dig a little bit deeper now. Joining us to discuss is POLITICO White House Reporter Daniel Lippman. So, Daniel, our first question is, I mean, this is a huge report. This has been, you know, eagerly awaited by Democrats. So what is President Biden saying, and what are other White House administration officials saying about the report?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:20:04",
+      "speaker": "DANIEL LIPPMAN, WHITE HOUSE REPORTER, POLITICO",
+      "sentences": "Well, the Biden administration didn't want to look like they were writing the report themselves. They're kind of letting Congress get the glory here, because they have to be wary of looking like they were interfering in the report in the first place, because they have the Justice Department digging into whether Trump should be charged with any of these crimes that the committee referred the Justice Department to.And so, what I thought was interesting is that you can hear that many criticisms of the report from congressional Republicans that got much attention when the report came out, and also when they referred Trump to the Justice Department. Because as Trump gets weaker politically, Republicans are kind of finally breathing a sigh of relief that they don't have to -- that they're not, you know, threatened by Trump as much.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:20:04",
+      "speaker": "WILD",
+      "sentences": "All right, let's turn to what's going on among Republicans in Congress. So this week, House Minority Leader Kevin McCarthy had threatened to block the legislative priorities of Republican senators who voted for this $1.7 trillion spending package. So how serious is he about blocking that?I mean, he's -- he is in a tough spot right now. I mean, it's a really fine line here between not alienating parts of his party, but moving forward in a way that is cohesive and cooperative with other, you know, people he's going to have to work with. So how does he balance all that?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:20:04",
+      "speaker": "LIPPMAN",
+      "sentences": "Yes, he's still trying to rally up those votes for his own speakership next month. And so that has been a very tough thing for him, as he, you know, has a much smaller majority than he expected. And so, he really can't piss off any Republican, because he needs all of their votes, basically, can only lose a few people.And, you know, if not, then they might just go to Steve Scalise, as number two. And so, I don't think, you know, I think he's secretly hoping that the government stays funded. And that Congress passes this package, because he doesn't want to have to face as one of his first tasks in the new year, if he becomes speaker, trying to keep the government funded. He wants to investigate the Biden administration. He wants to, you know, focus on Hunter Biden and the border issues. And so, you know, as much as he is giving this, you know, 25-minute speech in Congress, you know, in the House of Representatives about how this is a terrible bill, I think behind the scenes, he's probably just hoping that, you know, they can take this off his chest. And, you know, he can focus on conservative issues, in terms of -- and things that are, you know, huge spending bills, they don't get as much criticism from the Republican base anymore, because it's a much more populist party that likes government spending sometimes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:20:04",
+      "speaker": "WILD",
+      "sentences": "All right, turning now to the situation at the border. The Biden administration is asking the Supreme Court to end Title 42, that allows border officials to turn migrants back at the border, but they don't want it to end quite yet, because they think they need a little bit more time to prepare for what is inevitably going to be a huge influx of people expected to cross over the border.But the reality is, we've been talking about this for months. So can you give us a sense of why they think they need more time, why they are not prepared at this very moment to handle this influx of migrants?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:20:04",
+      "speaker": "LIPPMAN",
+      "sentences": "No, I think that, you know, they have been focusing on other issues. DHS has long had, you know, kind of a huge morale issues, and they -- you know, their frontline staff doesn't like a Democratic administration sometimes because they're more hardliner. You know, they liked working with Trump, who, you know, gave them lots of love.Biden has not even visited the border. But if you, you know, you talk to people who are in favor of Title 42 ending, they say that, you know, there is no public health reason anymore to be denying these people, and that the administration has had almost two years to focus on ending this, which is a campaign promise from Biden. And that, you know, you have a legal requirement that the government -- if someone is presenting for asylum, that they at least get a hearing and then they can get denied or approved. And so, I think, you know, next year is probably -- early next year, we might see the final end of Title 42, you know, as the pandemic winds down. But they need to, you know, if you're going to get a huge surge, you need to find someplace to put these people.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:20:04",
+      "speaker": "WILD",
+      "sentences": "Yes, and that's the challenge right now. That's why there's a declaration of emergency in El Paso. I mean, it's really hard to try to find places for them to go especially in the cold weather, extremely challenging.Daniel Lippman, thank you so much.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:20:04",
+      "speaker": "LIPPMAN",
+      "sentences": "Thanks, Whitney.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:28:42",
+      "speaker": "WILD",
+      "sentences": "Good morning. Welcome back, 28 minutes past the hour. Let's take a look at some of our other top stories this morning. A massive $1.7 trillion spending bill to fund critical government agencies now headed to President Biden's desk. The House passed it Friday along with a one-week funding measure that averted a government shutdown that would have happened yesterday.Biden signed that short term bill which provides just enough time for the yearlong measure to be formally processed and sent to the President. The spending bill includes $45 billion in emergency assistance to Ukraine and about $40 billion for emergency disaster relief. Plus, there's a measure to ban TikTok from federal devices and an overhaul of the 1887 Electoral Account Act aimed at making it harder to overturn a certified presidential election.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:28:42",
+      "speaker": "SAVIDGE",
+      "sentences": "The jury in Los Angeles has convicted rapper and singer Tory Lanez on three counts related to the July 2020 shooting of fellow rapper Megan Thee Stallion. Megan said Lanez shut her in both of her feet after she got out of a car following an argument. Lanez could be sentenced to more than 20 years in prison and possibly deported back to his native Canada.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:30:00",
+      "speaker": "SAVIDGE",
+      "sentences": "Those worth the risk as this weather continues to close in, of course, the elderly and the very young. CNN senior medical correspondent Elizabeth Cohen has some tips on how we can stay safe when the conditions are so cold.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:30:00",
+      "speaker": "ELIZABETH COHEN, CNN SENIOR MEDICAL CORRESPONDENT",
+      "sentences": "Whitney, Martin, as cold temperatures grip much of the nation, there are several things we need to remember to stay healthy and safe in the cold. First of all, those who are most vulnerable are infants and older people. So dress infants warmly. If you know older people in the cold and if they're alone, check on them to see how they're doing.Also, alcohol and caffeine, it can hurt your body's ability to deal with the cold. So be careful with caffeine and be careful with alcohol. Don't drink too much. Also, when it's cold inside, if you're heat isn't working well, do not use generators, do not use any kind of stove top or anything like that in order to stay warm. That can actually be a real fire hazard and can really be a problem. Also if you find yourself catching a cold in the cold, there's a reason for that. Recent research looked at the nose. The nose is the first line of defense against germs, and what the researchers found is that cells that line the nose, that are designed to fight off those germs, they just -- they don't work so well in the cold. They kind of suffer in the cold, and that's one of the reasons why we do catch colds in the cold. Whitney, Martin?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:00",
+      "speaker": "SAVIDGE",
+      "sentences": "Now, to the war in Ukraine. President Volodymyr Zelenskyy condemned the shelling of Kherson city today as an act of terror. Authorities say at least 35 people have been injured. The Ukrainian military says that two Russian missiles struck the city of Kramatorsk in the Donetsk region. The city's mayor says that two schools, a dozen apartment buildings and three private homes were damaged there.This latest fighting, of course, comes on the heels of Ukrainian President Zelenskyy's historic visit, that is to Washington to thank the U.S. for its support, and, of course, he wants to ask for more. (BEGIN VIDEO CLIP) VOLODYMYR ZELENSKYY, PRESIDENT, UKRAINE (through translator): Your support is crucial, not just to stand in such fight, but to get to the turning point to win on the battlefield. We have artillery, yes. Thank you. We have it. Is it enough? Honestly, not really. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:00",
+      "speaker": "SAVIDGE",
+      "sentences": "And joining us now is CNN military analyst, retired Air Force Colonel Cedric Leighton who is joining us. And I want to ask you, just how well from a military perspective do you think that the president did in making his case to lawmakers and to the American people?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:00",
+      "speaker": "CEDRIC LEIGHTON, CNN MILITARY ANALYST",
+      "sentences": "Well, Martin, good morning. I think he did an excellent job outlining his needs, his requirements and his future requirements. You know, he's in a very tough position. While Ukraine has a defense industrial base, it's based on the old Soviet model in many respects.Now, they've modernized a lot of things, they've innovated in a lot of areas, and we saw a lot of that at the very beginning of this war when they used, for example, the Turkish drones and also some indigenously produced drones and other weapons to put a real dent in what the Russians were doing. But when President Zelenskyy spoke to the Congress, he made it very clear, that this is a fight that is going to continue because if it didn't continue, Ukraine would cease to exist. And I think, you know, from a political perspective as well as a military perspective, he did an excellent job in getting that point across. It's not a never-ending conflict, but it's definitely a conflict that we're in the middle of right now.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:00",
+      "speaker": "SAVIDGE",
+      "sentences": "Yes, there's no question that, that speech, the way he delivered it, the whole look, everything, extremely powerful and historic. President Biden of course, says that Zelenskyy made a very compelling case since we were just noting here. The $1.7 trillion spending bill, that is of course, waiting the president's signature includes $45 billion for more aid to Ukraine. Zelenskyy says that financial help is crucial. Take a listen.(BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:00",
+      "speaker": "ZELENSKYY",
+      "sentences": "Thank you for both financial packages you have already provided us with, and the ones you may be willing to decide on. Your money is not charity. It's an investment in the global security and democracy that we handle in the most responsible way.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:00",
+      "speaker": "SAVIDGE",
+      "sentences": "I want to ask you about Republicans in Congress, because they have said that the U.S. cannot give Ukraine a blank check. Could this be an indication that their support could be waning?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:00",
+      "speaker": "LEIGHTON",
+      "sentences": "It could be, Martin. And you know, it's one of those areas where, of course, for political purposes and also for financial accounting purposes, it becomes important to have a clear accounting of exactly what's been spent and how much is gone, and how much is supposed to go in the future.Then it's perfect sense. The problem is, it's interpreted as a signal -- as being a signal of wavering and of not being a fully committed entity and providing aid to Ukraine. So, there's kind of a fine line. You don't want a situation like we had in Afghanistan where a billion went missing and it couldn't be accounted for. But on the other hand, you want to make sure that Ukraine stands firm and is able to conduct its military operations without interruption and without risk of defeat.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:00",
+      "speaker": "SAVIDGE",
+      "sentences": "There are new weapons that are coming from the U.S. to Ukraine including the Patriot missile system. And I'm wondering if you have any concerns. This is a system that once launched can actually chase a Soviet or Russian airplanes. If a Russian plane went back into say Russian airspace, does this change the whole dynamic of U.S. involvement?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:00",
+      "speaker": "SAVIDGE",
+      "sentences": "Understood, Colonel Cedric Leighton, always good to see you, thank you very much, Merry Christmas to you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:00",
+      "speaker": "LEIGHTON",
+      "sentences": "Merry Christmas to you, too, Martin, thanks so much, it's always great to be with you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:00",
+      "speaker": "SAVIDGE",
+      "sentences": "Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:00",
+      "speaker": "WILD",
+      "sentences": "Still ahead, crime and justice front and center in 2022. A look back at the top stories of the year. That's coming up next.(COMMERCIAL BREAK)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:00",
+      "speaker": "SAVIDGE",
+      "sentences": "This year, we experienced heartbreaking tragedies and long- awaited justice for families of the children who were gunned down at Sandy Hook.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:00",
+      "speaker": "WILD",
+      "sentences": "CNN's Jean Casarez has a look at the top 10 crime and justice stories of 2022.(BEGIN VIDEOTAPE) JEAN CASAREZ, CNN CORRESPONDENT (on camera): Mass shootings, explosive revelations in court, and the pardoning of thousands of Americans. The most gripping crime and justice stories of 2022. Number 10, an inmate and his jailer together and on the run.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:45:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "She was a long-time trusted employee at our jail, and she just exploited the system.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:45:00",
+      "speaker": "CASAREZ",
+      "sentences": "On the run for 11 days, the pair were eventually spotted in Indiana.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:45:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "3A51 in pursuit --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:45:00",
+      "speaker": "CASAREZ",
+      "sentences": "Police there gave chase, which ended in the car crashing. Vicky White shot and killed herself, Casey White was charged with escape and taken back to jail in Alabama.(on camera): Number nine, thousands of convictions for marijuana up in smoke.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:45:00",
+      "speaker": "JOE BIDEN, PRESIDENT OF THE UNITED STATES",
+      "sentences": "No one should be in jail just for using or possessing marijuana.CASAREZ (voice-over): President Joe Biden pardoning Americans convicted in federal court of simple marijuana possession.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:45:00",
+      "speaker": "BIDEN",
+      "sentences": "It's time that we right these wrongs.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:45:00",
+      "speaker": "CASAREZ",
+      "sentences": "Biden also ordered a review of how marijuana is classified under federal law, which could be a first step toward easing criminal penalties.(on camera): Number eight. An author facing a decades-old death threat attacked.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:45:00",
+      "speaker": "WOLF BLITZER, CNN ANCHOR",
+      "sentences": "Salman Rushdie is still in surgery right now after he was stabbed.CASAREZ (voice-over): The award-winning author was stabbed multiple times as he prepared to speak at New York's Chautauqua Institution.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:45:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "There was a lot of screaming and crying --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:45:00",
+      "speaker": "CASAREZ",
+      "sentences": "The suspect, 24-year-old Hadi Matar was held down by the crowd until he was arrested. Rushdie lived in hiding after his novel \"The Satanic Verses\" was condemned by Iran's then supreme leader in 1989. Officials there denied any connection to the New York attack. Rushdie survived, but reportedly lost use of an eye and hand. Matar pleaded not guilty.(on camera): Number seven. Actors Johnny Depp and Amber Heard battle it out in a Virginia courtroom over defamation and domestic abuse.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:45:00",
+      "speaker": "AMBER HEARD, ACTRESS",
+      "sentences": "He sacked me again.CASAREZ (voice-over): Depp sued over a 2018 op-ed penned by Heard, saying she was a survivor of domestic violence. Heard counter-sued.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:45:00",
+      "speaker": "JOHNNY DEPP, ACTOR",
+      "sentences": "She threw the large bottle and it made contact.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:45:00",
+      "speaker": "CASAREZ",
+      "sentences": "Depp testified he was the one physically and emotionally abused. Both also denied the other's claims.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:45:00",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "I understand we have a verdict.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:45:00",
+      "speaker": "CASAREZ",
+      "sentences": "The jury found Heard liable for defamation of a public figure, a difficult thing to prove and awarded Depp $15 million in damages. They also found Depp defamed Heard in a statement made by his lawyer and awarded her $2 million. Heard appealed, but later settled the suit.(on camera): Number six. Brutal killings in a college town.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:45:00",
+      "speaker": "ANDERSON COOPER, CNN",
+      "sentences": "There are still no suspects in the killing of four college students at the University of Idaho.CASAREZ (voice-over): Ethan Chapin, Xana Kernodle, Madison Mogen and Kaylee Goncalves were stabbed multiple times likely in their sleep.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:45:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "This incident has shaken our community.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:45:00",
+      "speaker": "CASAREZ",
+      "sentences": "But the case remains unsolved. Police have not located the murder weapon or identified a suspect.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:45:00",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "Every day you just wake up and think today is the day we're going to hear something.CASAREZ (on camera): Number five. The life of a man who killed 17 in a Florida school spared.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:45:00",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "Life in prison without the possibility of parole on all counts for Parkland killer Nikolas Cruz.CASAREZ (voice-over): He pleaded guilty to killing 17 people and injuring 17 others at the Marjory Stoneman Douglas High School in 2018. Jury split on if he should receive the death penalty. Which means he will not be executed. STACEY LIPPEL, PARKLAND TEACHER &amp; SURVIVOR: You don't know me, but you tried to kill me.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:45:00",
+      "speaker": "CASAREZ",
+      "sentences": "Cruz now in prison with no possibility of parole.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:45:00",
+      "speaker": "LIPPEL",
+      "sentences": "You stole him from us and you did not receive the justice that you deserved.CASAREZ (on camera): Number 4. It is being called the deadliest human smuggling incident in American history.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:45:00",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "Human tragedy in San Antonio.CASAREZ (voice-over): Fifty three migrants died after being left inside an abandoned truck in the Texas heat. Others found alive, but barely.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:45:00",
+      "speaker": "CHARLES HOOD, SAN ANTONIO FIRE DEPARTMENT",
+      "sentences": "They were suffering from heat-stroke, heat exhaustion. CASAREZtransportation of migrants resulting in death. If convicted, they could face the death penalty. (on camera): Number three. Alex Jones must pay.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:00",
+      "speaker": "ALEX JONES, RADIO HOST",
+      "sentences": "The whole thing was fake.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:00",
+      "speaker": "CASAREZ",
+      "sentences": "For years, Jones called the 2012 shooting where 20 elementary school children and six educators died, a hoax. In Connecticut, 15 plaintiffs awarded more than $1.4 billion, and in a separate trial in Texas, two parents got nearly $50 million. Jones has filed for personal bankruptcy and his company has done the same.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:00",
+      "speaker": "ROBBIE PARKER, SANDY HOOK PARENT",
+      "sentences": "And I'm just proud that what we are able to accomplish was just to simply tell the truth.CASAREZ (on camera): Number two. An average of nearly two mass shootings every day.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Communities across the country have been rocked by more deadly gun violence.CASAREZ (voice-over): Data compiled by the Gun Violence Archives shows there were more than 600 mass shootings where at least four people were shot excluding the shooter in the U.S. in 2022.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:00",
+      "speaker": "BORIS SANCHEZ, CNN ANCHOR",
+      "sentences": "We begin today with a tragic shooting in Buffalo, New York.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:00",
+      "speaker": "CASAREZ",
+      "sentences": "Ten killed in a racist attack at a grocery store in a predominantly black neighborhood.(GUNFIRE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:00",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "Police in Highland Park are responding to a shooting at the city's Independence Day parade.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:00",
+      "speaker": "CASAREZ",
+      "sentences": "Seven died and dozens were injured on July 4th outside of Chicago.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:00",
+      "speaker": "POPPY HARLOW, CNN ANCHOR",
+      "sentences": "We are learning more about the suspected gunman who murdered five people and injured dozens more at an LGBTQ nightclub in Colorado Springs.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:00",
+      "speaker": "MICHAEL ANDERSON, BARTENDER, CLUB Q",
+      "sentences": "I saw the outline of a man holding a rifle at the entrance of the club just probably about 15 feet from me.CASAREZ (on camera): And now number one. Children killed at school, law enforcement failures, and demands for accountability.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "The scene is still unfolding there at Robb Elementary in Uvalde, Texas.CASAREZ (voice-over): Police respond quickly --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Shots fired inside the building in Uvalde --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:00",
+      "speaker": "CASAREZ",
+      "sentences": "But for over an hour, they wait, not going into the classroom to confront the gunman.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "As you stand there today, was this the right decision?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "For the benefit of hindsight, where I'm sitting now, of course, it was not the right decision.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:00",
+      "speaker": "CASAREZ",
+      "sentences": "Law enforcement eventually entered the classroom and killed the gunman, but not before 19 children and two teachers were mortally wounded. A Texas house committee described the series of failures and an overall lackadaisical approach by authorities.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "It's mind-blowing because they had a lot of time.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:00",
+      "speaker": "CASAREZ",
+      "sentences": "Robb Elementary will now be torn down, and 21 families will never be the same.ANGEL GARZA, VICTIM'S STEPFATHER: She was the sweetest little girl who did nothing wrong. (END VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:55:00",
+      "speaker": "WILD",
+      "sentences": "Bundle up in layers, probably all of the layers, football fans, because the bitter temperatures this Christmas eve just so happens to line up against a whole bunch of NFL games and it is so cold.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:55:00",
+      "speaker": "SAVIDGE",
+      "sentences": "This is the day you get to wear everything you have.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:55:00",
+      "speaker": "WILD",
+      "sentences": "Yes --",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

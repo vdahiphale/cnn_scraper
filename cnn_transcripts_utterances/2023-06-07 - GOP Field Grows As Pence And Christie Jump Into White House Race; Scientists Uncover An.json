@@ -1,0 +1,811 @@
+{
+  "date": "2023-06-07",
+  "headline": "CNN This Morning",
+  "subHeadline": "GOP Field Grows As Pence And Christie Jump Into White House Race; Scientists Uncover Ancient Species And Their Brutal Rituals; SEC Lawsuits Against Binance And Coinbase Roil Crypto Market. Aired 7:30- 8a ET",
+  "utterances": [
+    {
+      "timeStamp": "07:33:25",
+      "speaker": "POPPY HARLOW, CNN ANCHOR",
+      "sentences": "So, a live look at the smoky sunrise here in New York City -- that's right. This is because of smoke from Canadian wildfires that are making skies hazy here along the east coast and all through the Midwest.And we've just learned, actually, that all New York City public schools are open today but all the outdoor activities are canceled due to real health concerns over this air quality right here in New York City. Residents are being urged to stay inside. We'll keep following the latest.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:33:25",
+      "speaker": "PHIL MATTINGLY, CNN ANCHOR",
+      "sentences": "Well, also this morning, former Vice President Mike Pence is announcing his candidacy for the presidency in a video released a short time ago. Here it is.(BEGIN VIDEO CLIP) MIKE PENCE, (R) 2024 PRESIDENTIAL CANDIDATE:  Different times call for different leadership. Today, our party and our country need a leader that will appeal, as Lincoln said, to the better angels of our nature. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:33:25",
+      "speaker": "MATTINGLY",
+      "sentences": "Now, Pence's announcement comes just hours after former New Jersey Gov. Chris Christie also joined the race. He told his audience in New Hampshire that unlike other candidates, he's not afraid to name names or name.(BEGIN VIDEO CLIP) CHRIS CHRISTIE, (R), 2024 PRESIDENTIAL CANDIDATE:  The person I am talking about who is obsessed with the mirror, who never admits a mistake, who never admits a fault, and who always finds someone else and something else to blame for whatever goes wrong but finds every reason to take credit for anything that goes right is Donald Trump. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:00",
+      "speaker": "MATTINGLY",
+      "sentences": "Well, I'm not minimizing it, I just feel like they're there.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:00",
+      "speaker": "BARRO",
+      "sentences": "Right, and I think they are a big problem in the general election. I don't think they're going to stop him from winning a primary.I mean, I think one thing that's interesting about this primary is that Ron DeSantis is sort of rerunning the Ted Cruz playbook. He's trying to get to the right of Donald Trump on everything being Mr. conservative -- the true conservative, as the Ted Cruz people would say. He literally has much of the Ted Cruz team working for him on this. And that didn't work last time. Ted Cruz lost. And I think what Donald Trump showed you was that a lot of these Republican primary voters -- very few of them are going in with a checklist saying here are all of the ideological positions I have and I want the person who is most to the right on them. They're looking for an ethos that Donald Trump has. And so, I don't think that anyone has put together a campaign that really addresses that concern about what it is on a gut level that these primary voters are looking for.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:00",
+      "speaker": "MATTINGLY",
+      "sentences": "I mean, to be fair, in Iowa, there are people who actually have --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:00",
+      "speaker": "BARRO",
+      "sentences": "There are, and Ted Cruz won Iowa.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:00",
+      "speaker": "HARLOW",
+      "sentences": "I was just going to say it did well for him in Iowa.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:00",
+      "speaker": "MATTINGLY",
+      "sentences": "Make me smarter. What am I not seeing right now that's important in the broader scheme of things?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:00",
+      "speaker": "VAN JONES, CNN POLITICAL COMMENTATOR, FORMER SPECIAL ADVISER TO PRESIDENT OBAMA",
+      "sentences": "Of all the legal jeopardy he's in, all the different prosecutors that are looking at him, the most dangerous prosecutor for him right now is Chris Christie because Chris Christie can say whatever he wants to. He has nothing to lose. He has like zero percent chance of winning and he is a household name. So if he continues to do what he's doing he's not going to get the nomination.But you finally have somebody in this race that's not scared of Donald Trump. You finally have somebody in this race who is actually willing to not attack him based on his rhetoric. Liberals attack him on his rhetoric. He's going to attack him based on his results and his record. That has not been done in a consistent way. Pointing out that he didn't build the wall. Pointing out that he left the economy in shambles. Pointing out that he did not show real leadership. So I am munching my popcorn. I'm a Democrat. This is all fun for me. But I --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:00",
+      "speaker": "HARLOW",
+      "sentences": "Is it? Is it fun for you if John Cornyn is right -- Sen. Cornyn is right, who said yesterday that all of these people jumping in just makes it more likely that Trump wins? Because you are betting Biden can beat Trump, no question.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:00",
+      "speaker": "JONES",
+      "sentences": "I'm not betting that Biden can beat Trump.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:00",
+      "speaker": "HARLOW",
+      "sentences": "OK.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:00",
+      "speaker": "JONES",
+      "sentences": "Who took that bet?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:00",
+      "speaker": "HARLOW",
+      "sentences": "Well, I'm just saying --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:00",
+      "speaker": "JONES",
+      "sentences": "No, no, no, no.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:00",
+      "speaker": "HARLOW",
+      "sentences": "-- that you're saying you're eating your popcorn if all these people get Trump the nomination.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:00",
+      "speaker": "JONES",
+      "sentences": "Look, here's what I think. The best hope for Republicans is that if they don't want to have to deal with Donald Trump going forward is you get people in there that throw their best punches.And then what happened in our party was Bernie Sanders go out ahead. The first person that beat Bernie anywhere was Biden. Everybody dropped out and then you were able to get past Bernie. The only -- look, you could say that's good or that's bad. In this case, somebody's got to beat Trump someplace and the rest of them have got to drop out. But in the meantime, you don't know who that's going to be. And so, you might have a big kamikaze candidate right now, which is what I would say Chris Christie is likely to be -- Chris \"Kamikaze\" Christie. He is going to take Donald Trump on head-on and prosecute this guy. And he is a top-notch prosecutor. And so, Trump is going to have deal with a prosecutor on stage with him at some point, I would imagine, and that could open a lane for somebody else. Chris Christie is not going to get the nomination but I'm glad he's in the race.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:00",
+      "speaker": "MATTINGLY",
+      "sentences": "I love the fact that, like, Chris Christie is going to call Van, like, 15 minutes after the show with here's why you're wrong and I've been a kamikaze.I guess just the question is that what actually -- what Republican voters want at this point in time? Like, are they open to alternatives? Do they want to see this all play out or are they just all going to land where the polls say they are right now?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:00",
+      "speaker": "BARRO",
+      "sentences": "I mean, I think odds on, Trump is going to win the nomination. But I think if he's going to be beaten somebody has to make the case that he shouldn't be the nominee.I think it's -- I think people replay 2016 too much. In 2016, you plausibly had a majority of Republican voters who didn't want Trump as the nominee. Who were quite skeptical of him. And you had that fragmented field and it meant that he didn't need 50 percent to win -- that 40 percent or so was good enough. Now he has won over the voters of the party. He has -- he's not over 50 percent in the polls except for a handful of them, but there's a clear majority of these voters to whom Trump is acceptable. They think he was a good president and they think he could be a good president again. And so if you're going to beat him this time it's different from 2016. You have to make a case not just for yourself; you have to make a case about why should they change their mind about Donald Trump. And so I think Van is right. But it's important that Chris Christie is out there doing that even though I don't think the vote -- if he can -- if he succeeds in convincing voters that Chris -- that Trump was not the winner they thought, I don't think that means those voters are going to go to Christie himself. But I think it's right that someone needs to actually prosecute that case. If you're running against the frontrunner you can't just talk about yourself and you can't just obliquely talk about them. You have to explain why that person should not be president.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:01",
+      "speaker": "JONES",
+      "sentences": "You know, it's interesting because yes, if you're an evangelical voter you had a reason to go with Trump earlier because you needed the Supreme Court.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:01",
+      "speaker": "HARLOW",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:01",
+      "speaker": "JONES",
+      "sentences": "You wanted the judges.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:01",
+      "speaker": "HARLOW",
+      "sentences": "So you got it now.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:01",
+      "speaker": "JONES",
+      "sentences": "You've got them now. You have the Supreme Court 6-3. You've got a bunch of judges that I don't know where they came from. They came out of Cracker Jack boxes as far as I'm concerned. But you've got them all now.What is it that Trump can offer the evangelicals now that Pence can't? I think that's something that -- listen, I worked with the guy and I got you the courts. But now you're going to have to deal with somebody who is an (INAUDIBLE) to your values every day. Trump's personal behavior --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:01",
+      "speaker": "HARLOW",
+      "sentences": "It's really -- yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:01",
+      "speaker": "JONES",
+      "sentences": "-- is stench in the nostrils of God and you have no reason of justification now for supporting someone who you know defies your values. That's the space.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:01",
+      "speaker": "HARLOW",
+      "sentences": "Can you imagine Mike Pence saying something like that?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:01",
+      "speaker": "BARRO",
+      "sentences": "No.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:01",
+      "speaker": "HARLOW",
+      "sentences": "That's my question is in every interview leading up to this -- with the Jon Karl interview, in particular -- he constantly demurs when it comes to actually insulting and checking his former -- you know, the former president.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:01",
+      "speaker": "MATTINGLY",
+      "sentences": "Which I honestly think is a political position. I think that's kind of him to some degree.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:01",
+      "speaker": "HARLOW",
+      "sentences": "That's what I'm wondering. Do you -- does he -- can he ever change into a fighter?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:01",
+      "speaker": "BARRO",
+      "sentences": "It's not clear to me who he is a candidate for. I mean, if you are a socially conservative voter who doesn't care for Donald Trump -- who is put off by his personal behavior -- you have other options in this race. I mean, that is a key part of the demographic that Ron DeSantis is running squarely at. That's why he is preparing for that checklist and pushing all of these right-wing bills through the legislature in Florida so he can go to those sorts of voters and say I am your socially conservative champion.So I think that Mike Pence -- liberals have always hated Mike Pence. Lots of Republicans came to hate Mike Pence because of the events around January 6. And so I frankly don't understand why he's in this race. I just don't see who his constituency is.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:01",
+      "speaker": "JONES",
+      "sentences": "Well, I'm glad he's running. I would say a couple of things about Mike Pence. This is somebody who actually believes in something. I don't agree with him but he's a conviction politician and I think that's important. You don't -- sometimes you run because you believe in something. You believe that you have something to say to somebody. You aren't always rewarded in the polls or at the polls.But you've got to -- at some point, you're going to sit down, you're going to retire. You're going to look at your kids and you're going to look at your grandkids and go I did everything I could to advance these values. So I respect Mike Pence. I think he's got the same chance of getting the nomination that Chris does -- which Chris Christies does, which is zero. But I think it's healthy for the party and healthy for the country for him to be out there.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:01",
+      "speaker": "MATTINGLY",
+      "sentences": "You're just covering for the (INAUDIBLE). I think that's what -- you want to --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:01",
+      "speaker": "BARRO",
+      "sentences": "Yes, we're not going to talk about Doug Burgum?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:01",
+      "speaker": "MATTINGLY",
+      "sentences": "Out of time.(CROSSTALK)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:01",
+      "speaker": "HARLOW",
+      "sentences": "I don't even know what you guys are talking about but I love the last point that Van made. I love that point.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:01",
+      "speaker": "MATTINGLY",
+      "sentences": "Van Jones --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:01",
+      "speaker": "HARLOW",
+      "sentences": "Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:01",
+      "speaker": "MATTINGLY",
+      "sentences": "-- Josh Barro, appreciate it, guys. Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:01",
+      "speaker": "HARLOW",
+      "sentences": "Right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:01",
+      "speaker": "BARRO",
+      "sentences": "Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:01",
+      "speaker": "JONES",
+      "sentences": "Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:01",
+      "speaker": "MATTINGLY",
+      "sentences": "And we'll speak with the brother of former Vice President Mike Pence, Indiana Congressman Greg Pence, in our next hour.And tonight, don't forget Dana Bash will moderate a CNN Republican presidential town hall with Mike Pence. That's at 9:00 p.m. Eastern.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:01",
+      "speaker": "HARLOW",
+      "sentences": "In the meantime, another mass shooting in America -- this one at a high school graduation in Richmond, Virginia. Two people are dead, including an 18-year-old graduate. Several more were injured, including a 9-year-old little girl who was hit by a car as she was just trying to flee the scene. We have a live report ahead.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:01",
+      "speaker": "MATTINGLY",
+      "sentences": "Plus, groundbreaking new discoveries that could change our understanding of human evolution. It turns out our extinct human relatives -- they've been more similar to us than we imagined.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:46:33",
+      "speaker": "HARLOW",
+      "sentences": "A new shock to the scientific world and really to all of us. It is about the mysterious extinct human species, Homo naledi. New discoveries suggest that this species may have intentionally buried its dead and carved symbols above the graves on cave walls long before the earliest evidence of burials by modern humans.Working in incredibly tight spaces in the Rising Star cave system in South Africa, a team of researchers, last year, made these and many other discoveries about this ancient species. And our next guest was part of that expedition. Here he is describing one of the engravings just moments after he discovered it. (BEGIN VIDEO CLIP) DR. LEE BERGER, PALEONANTHROPOLOGIST, NATIONAL GEOGRAPHIC EXPLORER IN RESIDENCE, AUTHOR, \"CAVE OF BONES\":  I can't believe what we're seeing, and we're seeing scratch marks -- sort of, what we call petroglyphs, which are pictures or carvings carved into rock. But look at the scale of these things. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:46:33",
+      "speaker": "HARLOW",
+      "sentences": "Well, I'm so happy that we're joined now by the man you just saw in the tight cave, National Geographic explorer in residence and world-renowned paleoanthropologist --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:46:33",
+      "speaker": "BERGER",
+      "sentences": "Paleoanthropologist, but that's good.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:46:33",
+      "speaker": "HARLOW",
+      "sentences": "OK, paleoanthropologist. Dr. Lee Berger joins us now. He's the author of this book, but the way, that comes out in August --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:46:33",
+      "speaker": "BERGER",
+      "sentences": "August.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:46:33",
+      "speaker": "HARLOW",
+      "sentences": "-- \"Cave of Bones.\"",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:46:33",
+      "speaker": "BERGER",
+      "sentences": "It goes -- I get PTSD looking at that image, you know? I almost died coming out of that cave.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:46:33",
+      "speaker": "MATTINGLY",
+      "sentences": "That is very claustrophobic to begin with.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:46:33",
+      "speaker": "BERGER",
+      "sentences": "It was.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:46:33",
+      "speaker": "MATTINGLY",
+      "sentences": "How did you almost die?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:46:33",
+      "speaker": "BERGER",
+      "sentences": "It was -- well, to get in that you have to go down about a 40-foot shaft that is -- it gets down to 7 1/2 inches.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:46:33",
+      "speaker": "MATTINGLY",
+      "sentences": "No.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:46:33",
+      "speaker": "BERGER",
+      "sentences": "It probably averages about nine inches -- the entire line.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:46:33",
+      "speaker": "MATTINGLY",
+      "sentences": "Absolutely not.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:46:33",
+      "speaker": "HARLOW",
+      "sentences": "Guess how much weight he lost to do it?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:46:33",
+      "speaker": "MATTINGLY",
+      "sentences": "Fifty-five pounds.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:46:33",
+      "speaker": "HARLOW",
+      "sentences": "Yep.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:46:33",
+      "speaker": "BERGER",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:46:33",
+      "speaker": "HARLOW",
+      "sentences": "Because you wanted to see this so much.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:46:33",
+      "speaker": "BERGER",
+      "sentences": "I had to test some questions. We had discovered these burials, or we realized we had burials in 2018. We were on this National Geographic expedition. We were down there. I -- we -- I saw the burials. But I've only ever seen this thing through video.And we had these questions over COVID and we could not get them answered. Only 47 humans had ever been in there. And so I decided I needed to get in there and test them and when I got in there I started making these discoveries. You know, our missions were always very focused. I saw those symbols. It blew my mind.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:46:33",
+      "speaker": "MATTINGLY",
+      "sentences": "But do you know what they mean? And this is a dumb question but, like, what --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:46:33",
+      "speaker": "BERGER",
+      "sentences": "No, we don't and that's an important point.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:46:33",
+      "speaker": "MATTINGLY",
+      "sentences": "How can you conclude what you think they are?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:46:33",
+      "speaker": "BERGER",
+      "sentences": "This is not a human species. They have a brain a third the size of ours. It's about the size of a chimpanzee's.And they're carving symbols 150,000 years before humans even think of doing that. They look familiar to us -- crosses, boxes, triangles, hashtags. They don't mean Twitter -- I know that. And yet, we may never know what they mean. They were made for other naledi, not for us.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:46:33",
+      "speaker": "HARLOW",
+      "sentences": "Right. But one thing we do know that I -- that I really took away from what I read about the work that you've done on this is that what you discovered erases the belief in human exceptionalism because of the size of our brains.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:46:33",
+      "speaker": "BERGER",
+      "sentences": "You know, we have told this story since -- for thousands of years. Why are we different? We want to make ourselves different.One of the last things we had is this big brain. That just died just like the Homo naledi died. But with this evidence, that died.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:46:33",
+      "speaker": "HARLOW",
+      "sentences": "Why?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:46:33",
+      "speaker": "BERGER",
+      "sentences": "We are not exceptional.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:46:33",
+      "speaker": "HARLOW",
+      "sentences": "Can you explain that more?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:06",
+      "speaker": "MATTINGLY",
+      "sentences": "Your energy and level of energy and passion tells me that you're not by any means done. What's next --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:06",
+      "speaker": "BERGER",
+      "sentences": "Ha!",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:06",
+      "speaker": "MATTINGLY",
+      "sentences": "-- in terms of your research. Like, what are you -- how do you move this forward?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:06",
+      "speaker": "BERGER",
+      "sentences": "There is this -- firstly, we're bringing this to the world. We're going to engage the entire scientific community in how to test these hypotheses. This is science. It's ongoing. There's a lot more to discover.We're also going to be asking the world what do we do with this? What do we do with discovering the first non-human species that had archaic abilities? This is a special place for them. They took the dead of their kin into these remote areas and buried them. What should we do? Do we just destroy in the way we humans tend to or do we take care here? I think it's a special -- it's almost our first contact moment -- you know, the real first contact moment.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:06",
+      "speaker": "MATTINGLY",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:06",
+      "speaker": "HARLOW",
+      "sentences": "Yes.Paleoanthropologist --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:06",
+      "speaker": "BERGER",
+      "sentences": "Paleoanthropologist.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:06",
+      "speaker": "HARLOW",
+      "sentences": "-- Dr. Lee Berger, thank you so much.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:06",
+      "speaker": "BERGER",
+      "sentences": "Great.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:06",
+      "speaker": "MATTINGLY",
+      "sentences": "Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:06",
+      "speaker": "BERGER",
+      "sentences": "Thank you for having me.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:06",
+      "speaker": "HARLOW",
+      "sentences": "Appreciate it. Really fascinating. And congrats on the book.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:06",
+      "speaker": "BERGER",
+      "sentences": "Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:06",
+      "speaker": "HARLOW",
+      "sentences": "OK, now this.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:06",
+      "speaker": "MATTINGLY",
+      "sentences": "Well, also this morning, the SEC cracking down on the crypto market, suing two of the largest trading platforms.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:06",
+      "speaker": "HARLOW",
+      "sentences": "Someone who has become an outspoken critic of the crypto industry knows so much about it. You may know him from the hit TV show \"THE O.C.\" That was appointment television for me in college, by the way. But he is brilliant on economics and all of this crypto stuff. Ben McKenzie live in the studio next.(COMMERCIAL) MATTINGLY:  The back-to-back lawsuits against two of the world's biggest crypto enterprises -- they are shaking up the digital currency market. On Tuesday, the SEC sued Coinbase, America's largest crypto exchange, accusing it of acting as an unregistered exchange, broker, and clearinghouse. Just 24 hours earlier, the SEC sued rival platform Binance, accusing it of running an illegal exchange. A Binance spokesperson called the allegations, quote, \"unjustified,\" and that the company is being targeted due to its size and name recognition. Coinbase CEO Brian Armstrong tweeted, \"...we're proud to represent the industry in court to finally get some clarity around crypto rules.\" Some good quotes in those complaints that probably they didn't want public.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:06",
+      "speaker": "HARLOW",
+      "sentences": "Bro, bro.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:06",
+      "speaker": "MATTINGLY",
+      "sentences": "Joining us now -- bro, bro. Joining us now --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:06",
+      "speaker": "HARLOW",
+      "sentences": "There's a bro thing there, guys.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:06",
+      "speaker": "MATTINGLY",
+      "sentences": "-- is actor Ben McKenzie. You know him, of course, from his starring role on -- as Ryan Atwood on the teen drama \"THE O.C.\" but he's also an outspoken cryptocurrency skeptic. He's testified in front of Congress. I've -- we've talked about your incredible knowledge about this issue but also fluency --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:06",
+      "speaker": "HARLOW",
+      "sentences": "The brilliant economic mind.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "MATTINGLY",
+      "sentences": "Why?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "MCKENZIE",
+      "sentences": "Because the cryptocurrency market has heretofore been more or less unregulated. Cryptocurrencies are not currencies by any reasonable economic definition. They are more like securities.We have a history of this. Before the 1930s, in the 1920s, we had hundreds if not thousands of unregistered, unlicensed securities with no securities laws. The crash of 1929 led to the Great Depression and millions of Americans lost money. It's ironic, but about a century later we are effectively revisiting those times. These cryptocurrencies -- and there are some 20,000 of them -- are securities, or ought to be under American law. So we're sort of seeing the rubber hitting the road here with cryptocurrency.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "HARLOW",
+      "sentences": "Right, it's the Securities and Exchange Commission. But these companies think we're not securities -- we're different --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "MCKENZIE",
+      "sentences": "True.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "HARLOW",
+      "sentences": "-- and therein lies the problem.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "MCKENZIE",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "HARLOW",
+      "sentences": "I thought it was very interesting yesterday -- this interview that Gary Gensler, who is the top cop at the SEC -- a big critic of crypto -- that he gave to CNBC. Here is a clip of it.(BEGIN VIDEO CLIP) GARY GENSLER, CHAIRPERSON, U.S. SECURITIES AND EXCHANGE COMMISSION: We don't need more digital currency. We already have digital currency. It's called the U.S. dollar. It's called the euro. It's called the yen. They're all digital right now. We already have digital investments. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "HARLOW",
+      "sentences": "But the companies -- I'll just take Coinbase as an example -- push back and say well, you didn't give us a framework. And by the way, you allowed us to go public. You allowed us to.So what gives now?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "MCKENZIE",
+      "sentences": "OK. So one fun fact, Coinbase went public on April 14 of 2021. Gary Gensler assumed office on April 17, 2021. He literally wasn't in charge when they went public.But actually, that even misses the bigger point. Anyone is allowed to go public if you file the right paperwork. So the defense that we were allowed to go public is really not a defense. It's certainly not a defense in a court of law. Even Coinbase's own disclosures, if you read their filing, say that. So that's a P.R. move. What we will see is what the courts think of this and that, of course, is an open question at this point. How do we classify securities? The law is pretty clear. It's -- securities are defined under what's called the Howey test, which has four parts. An investment of money in a common enterprise with the expectation of profit to be derived from the efforts of others. These securities, other than Bitcoin -- Bitcoin has been classified as a commodity and that's a whole other story. These other cryptos -- they look a heck of a lot like securities to me.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "MATTINGLY",
+      "sentences": "I love the regulatory turf match elements. There's obviously lawmakers trying to set up a legal framework mechanism with this as well, which has been a cluster. You've been involved in that as well. The most fascinating thing -- and look, I understand that the SECofficials that bring these cases do this intentionally where they plug in really damning quotes --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "MCKENZIE",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "MATTINGLY",
+      "sentences": "-- including the one which was basically a top official being like we are literally operating an unregulated exchange inside this country at this point in time.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "MCKENZIE",
+      "sentences": "That's right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "MATTINGLY",
+      "sentences": "Bro, that's actually in there.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "MCKENZIE",
+      "sentences": "We are running a f-ing --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "MATTINGLY",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "MCKENZIE",
+      "sentences": "-- unlicensed securities exchange in the United States, bro.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "MATTINGLY",
+      "sentences": "So they knew --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "MCKENZIE",
+      "sentences": "Bro is the chef's (INAUDIBLE).",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "MATTINGLY",
+      "sentences": "And to be clear, they could have edited that out. They could have dropped it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "MCKENZIE",
+      "sentences": "True.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "MATTINGLY",
+      "sentences": "And props to the legal operations --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "MCKENZIE",
+      "sentences": "Sure.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "MATTINGLY",
+      "sentences": "-- at the SEC.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "HARLOW",
+      "sentences": "And they do.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "MATTINGLY",
+      "sentences": "It was like no, we're good. We're going to let that one go.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "MCKENZIE",
+      "sentences": "My other favorite is from the CFTC lawsuit against the -- against Binance where, of course, the CFTC is also suing Binance. In that one, there's a quote from one of their officials -- one of the finance guys that says -- relating to their Russian customers -- \"Come on. Like, come on. They are here for crime.\"",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "HARLOW",
+      "sentences": "Oh my God.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "MCKENZIE",
+      "sentences": "It seems kind of the --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "MATTINGLY",
+      "sentences": "It's bad -- like, it's bad to do the crime-ing if you're going to talk about the crime-ing. I feel like if we learn nothing else from '08, we should have --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "MCKENZIE",
+      "sentences": "You've got -- you've got to watch the wire, guys. Don't write it down. Don't write it down.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "HARLOW",
+      "sentences": "Well, what about for regular folks that are waking up this morning or woke up to these headlines yesterday and they're like oh my God, what does this mean for me?Matt Levine, Bloomberg columnist who we all love and admire, wrote, \"A decent rule of thumb is that all cryptocurrency exchanges are doing crimes. And if you're lucky, your exchange is only doing a process crime.\"",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "MCKENZIE",
+      "sentences": "Yep, that's right. Hopefully, you're only facilitating the deeper crimes that other people are committing. But you might be doing more than that.So, yes. I mean, look, I feel terrible for the people that have lost money. That's why I'm writing the book. That's why I wrote the book. I wrote the book for the 40 million Americans who bought cryptocurrency, the vast majority of whom have lost money. If cryptocurrency resembles a multi-level marketing scheme, which I argue in the book that it does, studies of MLMs have shown that 99 percent of people lose money and one percent goes to the top. Who is the top in crypto? It's the exchanges, it's the whales, it's the V.C. firms, and it's the high-frequency training firms --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "HARLOW",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "MCKENZIE",
+      "sentences": "-- that are able to manipulate the prices of these currencies.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "MATTINGLY",
+      "sentences": "Can I ask, crypto folks are not subtle with their views. What's it been like to be in your position? We only have about 20 seconds left.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "MCKENZIE",
+      "sentences": "Sure. I'll just say that Twitter has a mute button, which is my favorite thing in the world. I wish the mute button existed in real life. People can just scream at you and they have no idea you can't hear them.",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

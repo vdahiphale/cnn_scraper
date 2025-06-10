@@ -1,0 +1,619 @@
+{
+  "date": "2023-06-28",
+  "headline": "Amanpour",
+  "subHeadline": "Interview With Microsoft Vice Chair And President, Brad Smith; Interview With Georgian President Salome Zourabichvili; Interview With Musician Graham Nash. Aired 1-2p ET",
+  "utterances": [
+    {
+      "timeStamp": "13:00:00",
+      "speaker": "CHRISTIANE AMANPOUR, CNN CHIEF INTERNATIONAL ANCHOR",
+      "sentences": "Hello, everyone, and welcome to \"Amanpour.\" Here's what's coming up.Putin dusts off his image as commander-in-chief and the Ukrainian people pay the highest price. Then -- (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:00:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Congress cannot be half behaved like ostriches in the sand when it comes to A.I.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:00:00",
+      "speaker": "AMANPOUR",
+      "sentences": "-- as governments struggle to rein in A.I., Microsoft president, Brad Smith, joins me to weigh the risks and the rewards.Also, ahead, how an aggressive Putin looks from Georgia. Another country living under his constant threat. We hear from the Georgian president, Salome Zourabichvili. Plus -- (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:00:00",
+      "speaker": "GRAHAM NASH, MUSICIAN",
+      "sentences": "Let's make it a better life, and leave it for the kids.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:00:00",
+      "speaker": "AMANPOUR",
+      "sentences": "-- rock legend Graham Nash talks love, music, and making a better life with Walter Isaacson.Welcome to the program, everyone. I'm Christiane Amanpour in London. As the Kremlin struggles to contain the fallout from Saturday's aborted uprising, Russia continues its brutal aerial assault on Ukrainian civilians. Russian missile struck a pizza restaurant in the heart of Kramatorsk in the east, killing at least 11 people, including these 14- year-old twin sisters celebrating the end of the school year at war. And while the U.S. government is keeping its distance from the thwarted rebellion in Russia, President Joe Biden says Putin has absolutely been weakened. Correspondent Ben Wedeman is on the ground there, in Eastern Ukraine. And he's joining me now. Ben, the scenes that we saw, and from your reporting, are just horrible and brings it right back home. What is happening there, you know, now? I know you've just left the actual scene. What is going on there?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:00:00",
+      "speaker": "BEN WEDEMAN, CNN SENIOR INTERNATIONAL CORRESPONDENT",
+      "sentences": "They are still, Christiane, trying to find survivors or likely mostly bodies under therubble. Keep in mind, it's a massive concrete slab sort of fell on where the strike took place. So, it's a lot of work. They brought in heavy equipment. But while we were there, we did see rescue workers bringing out a black body bag, loading it into a van. And right there were friends and families sobbing watching this happen. And there are more people simply waiting to find out news of relatives they haven't heard from. We spoke to people who had worked in the restaurant, and they said that there are still people that are unaccounted for. By the looks of it, it looks like the missile actually hit the kitchen, and that's why so many of the restaurant workers were either wounded, killed, or are still missing at the moment. So, it's a huge amount of work. They're doing what they can. But also, the problem is that every once in a while, their work is interrupted by air raid sirens. Last night, when we were on this site, everybody was suddenly rushed away from the scene of this strike because the fear was that there was going to be a so-called double tap, where the Russians will strike a location, and then we wait until first responders come, residents come to look and then strike again. So, it is a very difficult task for this city, Christiane.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:00:00",
+      "speaker": "AMANPOUR",
+      "sentences": "Do you know the place? I mean, what can you tell us about it?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:05:00",
+      "speaker": "AMANPOUR",
+      "sentences": "And finally, do you know what hit it at first? You know, there were -- you know, obviously, the Russians had said, we just hit a militarytarget, but that's what they say about everything, including, you know, that original target in Kramatorsk, which was the train station when you are there, you know, earlier in the war. But do we know what hit it, and why it caused so much destruction?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:05:00",
+      "speaker": "WEDEMAN",
+      "sentences": "Well, let me tell you, when we arrived, we saw from the level of damage that it was clearly something very big. Now, in the evening,President Zelenskyy in his nightly address said it wasn't S-300. That is a surface to air missile that is not very precise and it doesn't carry a huge pay load. So, I -- when I saw that, I didn't -- I wasn't convinced. And in fact, it turns out it's Iskander missile. That is a hypersonic ballistic missile that -- because it is hypersonic, it's very hard for radar to pick up, it's very hard for air defenses to take down and it has a much bigger payload and it is much more precise, which one has to wonder, was this location specifically targeted? Now, Ukrainian intelligence has arrested a man they say was casing out the restaurant, had taken video and sent it to GRU, Russian intelligence. We don't know what more information they've received from him or gotten out of them. But, yes, this does look like it is perhaps a deliberate choice of target. Christiane.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:05:00",
+      "speaker": "AMANPOUR",
+      "sentences": "Ben, thank you very much, indeed. Now, of course, Putin and the Russian military lashing out after that thwarted rebellion over theweekend. It is not just governments that are backing Ukraine though, major corporations like Microsoft are also pitching in. The company reports its threat intelligence team are working to support Ukraine's defense. Artificial intelligence may open new fronts in cyber warfare, but it could also bring critical social benefits, and like other information companies, Microsoft stands to reap major profits from the fast-growing technology. That's why the company's president and vice chair says, corporations need to come together with the governments to regulate A.I. And her, Brad Smith, is here and joins me now. Welcome to the program.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:05:00",
+      "speaker": "BRAD SMITH, VICE CHAIR AND PRESIDENT, MICROSOFT",
+      "sentences": "Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:05:00",
+      "speaker": "AMANPOUR",
+      "sentences": "You know, we've just had this horrendous report from Ukraine, this horrible attack against a civilian infrastructure. And I justwondered, how you're helping them? How the technology helps, in what areas? Is it in defense, intelligence? Is it in other areas?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:05:00",
+      "speaker": "SMITH",
+      "sentences": "It's really an all those things, and it has been an extraordinary effort by, I'd say, the entire tech sector since the war began lastFebruary. It's involved, in part, in effect evacuating data, so that when cruise missiles literally destroyed Ukrainian government data centers, they could sustain their operations by relying on our data centers in other countries. But even more than, it is a daily exercise, often times, of detecting new cyberattacks, and then, in effect, disrupting them, interfering, intercepting them so that they cannot damage military or civilian targets.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:05:00",
+      "speaker": "AMANPOUR",
+      "sentences": "I mean, have you ever done that before? I mean, that's helping a military effort.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:05:00",
+      "speaker": "SMITH",
+      "sentences": "Not like this. I mean, for so long, people have worried quite rightly, we've been focused on cybersecurity but it's fundamentally been intimes of peace. Since this war began, Microsoft has provided more than $500 million of technology and financial assistance to Ukraine. I would not have imagined that we would be put in that position. I think it's the right thing to do. And what it shows is that in the world today, companies and governments really need to come together to defend their societies.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:10:00",
+      "speaker": "SMITH",
+      "sentences": "I really look at things in two ways. First, if you look at malicious attacks, trying to destroy infrastructure, delete data on computers,actually, despite formidable efforts by the Russian military the impact has been relatively minimal. And that's really because defensive technology has been stronger than offensive technology. I think we have to remember through that the Russians also engage in very sophisticated cyber influence operations, putting out disinformation. They're among the most capable governments, unfortunately, in the world in doing that. And that is not confined to Ukraine. They focus it on their own people, they focus it on Germany and Western Europe, they focus on the U.S. and other countries.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:10:00",
+      "speaker": "AMANPOUR",
+      "sentences": "How bad is A.I. for all of this?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:10:00",
+      "speaker": "SMITH",
+      "sentences": "The interesting thing is that A.I. will be used in effect both offensively and defensively. Offensively, countries like Russia, thegovernment will use A.I. to generate more content. It will probably reduce the cost of creating content. They may use it to sort of target who they're aiming or directing it at. But we will use A.I. on the defensive side as well. And I think in some ways, A.I. will favor defense over offense because when you think about it, our great strength is data. We see all of this data coming into data centers. The challenge is to find the patterns in the data that show us where a new attack is taking place. A.I. can do that faster than humans can. So, at least right now, I'm optimistic that A.I. will favor defense over offense when it comes to cybersecurity, and that is good for everyone.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:10:00",
+      "speaker": "AMANPOUR",
+      "sentences": "OK. So, that's good news. But you obviously are aware that there's a huge amount of Sturm und Drang, you know, around -- about whatA.I. could do to us all and to the human race. I mean, you know, the fears are huge, to the extent that the president is talking to the big bosses, you're all going to testify.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:10:00",
+      "speaker": "SMITH",
+      "sentences": "Right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:10:00",
+      "speaker": "AMANPOUR",
+      "sentences": "And you are here and you are going to Europe, right? I think it's probably --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:10:00",
+      "speaker": "SMITH",
+      "sentences": "Yes, that's right. Exactly.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:10:00",
+      "speaker": "AMANPOUR",
+      "sentences": "-- about the regulation piece. So, first, what are you doing here? What do you expect to achieve here in the U.K.?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:10:00",
+      "speaker": "SMITH",
+      "sentences": "Well, here in the U.K., and I was in Norway on Monday, the Netherlands on Tuesday, the U.K. on Wednesday, there really is aconversation taking place around the world about what to do about A.I. How do we maximize the benefits that will, I think, help us diagnose and cure cancers? But then, how do we regulate it so it's used safely? And I think that really does require that we in the tech sector step up, that we put in place safety protocols, and safeguards, guardrails if you will, and it will require, I think, a new era of law and regulation. And that's the conversation that somebody like me is having around the world.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:10:00",
+      "speaker": "AMANPOUR",
+      "sentences": "And now, you're continuing that to the E.U.?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:10:00",
+      "speaker": "SMITH",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:10:00",
+      "speaker": "AMANPOUR",
+      "sentences": "Is that because they are coming up with the A.I. act or the A.I. --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:10:00",
+      "speaker": "SMITH",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:10:00",
+      "speaker": "AMANPOUR",
+      "sentences": "-- protocols or something? What will -- I mean, how much hope do you have for that and what will it do?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:10:00",
+      "speaker": "SMITH",
+      "sentences": "I am optimistic that we'll strike a sensible balance. I mean, in the first instance, I think it's worth remembering that we benefit and reallytake for granted everyday technologies that could have a dangerous impact. Electricity turns on the lights, but it can electrocute you. So, we have a circuit breaker. And so, in the same way, we need to build safety protocols, safety breaks, if you will, especially if A.I. is going to be used to control critical infrastructure, the water supply, the electrical grid. And so, what we're focused on, inside a company like Microsoft, is how we put in A.I. safety guardrails, the conversation with governments is, in effect, should you, as a company, need to get a license if A.I. is going to be used in a certain way? And this is not, at this point at least, a polarized or partisan debate, everybody is sort of rolling up their sleeves and learning about A.I., and figuring out how to manage it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:10:00",
+      "speaker": "AMANPOUR",
+      "sentences": "So, why do you -- what you account -- how do you account for that, that actually it appears that all different parts of the equation arethinking along the same lines? Why? I mean, social media came and, you know, we all thought it was going to be great, you know, the Arab Spring Revolution, Twitter democracies, et cetera, and instead, it has exponentially worsened a considerable part of our public space.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:15:00",
+      "speaker": "AMANPOUR",
+      "sentences": "Let me, again, be the devil's advocate. Sam Altman, who I know you're in business with, you have a shared enterprise, OpenAI, et cetera.He basically said -- and he has been front and center in Congress, and he comes across like, you know, the knight in shining armor, but he says about, you know, the regulation and stuff, he says to the U.S. Senate, I think if this technology goes wrong, it can go quite wrong, we want to be vocal about that. We want to work with the government to prevent that from happening. But then he says that it could cease, his company could cease operating in the E.U. if it can't comply with legislation. Is he speaking out of 10 different sides of his mouth, trying to have his cake and eat it too?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:15:00",
+      "speaker": "SMITH",
+      "sentences": "No, I don't think so. I mean, OpenAI., the company that Sam has, and Microsoft work very closely together.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:15:00",
+      "speaker": "AMANPOUR",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:15:00",
+      "speaker": "SMITH",
+      "sentences": "We've been partners. And --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:15:00",
+      "speaker": "AMANPOUR",
+      "sentences": "But you want a little bit of regulation, but not too much.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:15:00",
+      "speaker": "SMITH",
+      "sentences": "Well, I think, you know, it's sort of a good thing to think about. We don't want to stifle innovation. I think that would ultimately preventsociety from reaping the benefits that this has to offer. So, it's about getting the balance right. And it's a time when the technology is advancing quickly, it's a time when people are sitting down together, and not surprisingly, some days it is easier to sort out an answer than others. What do you do see, whether you are talking about, you know, Sam Altman or Microsoft is ultimately, some convergence, you know, around a set of practical standards, and I think in some ways, benefiting from, not just a year, but a centuries' worth of experience? We all fly on airplanes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:15:00",
+      "speaker": "AMANPOUR",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:15:00",
+      "speaker": "SMITH",
+      "sentences": "We don't want them to crash, but we want to go farther than we otherwise could. We have global as well as national safety standard, safetyfeatures, testing before a plane is certified to fly, constant monitoring of aircraft after they ventured service. I think that points to the right direction. We always want better planes. We always want them to be safe. We should want the same thing from A.I.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:15:00",
+      "speaker": "AMANPOUR",
+      "sentences": "No, no, we should. But, you know, as the user and as the potential, you know, victim, we want to make sure that you're all seriousabout it and governments are serious about it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:15:00",
+      "speaker": "SMITH",
+      "sentences": "I agree.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:15:00",
+      "speaker": "AMANPOUR",
+      "sentences": "So, let me play for you and just walk you through what the president of the U.S. is doing. As you know, last week he went over there,to the West Coast, to talk to all of you, I guess. I'm not sure what he said to you, but at the same, I was speaking to the former president, Barack Obama, in Greece. And he was speaking about this, because he, you know, works on democracy, and that means equality and, you know, helping all of those jobs and trying to figure out how not to have their jobs taken away. This is what he said about this, I'd love you to respond. (BEGIN VIDEO CLIP) BARACK OBAMA, FORMER U.S. PRESIDENT: This is a powerful technology and it's coming fast. And if it kind of goes into the wild, the way social media did, without us thinking through the consequences, we could have bigger problems with A.I. We will have bigger problems with A.I. National security problems, job displacement problems, misinformation problems that undermine our democracy. And so, yes, we're going to have to regulate it in an intelligent way. If harnessed correctly, you can have A.I. teachers that much more cheaply are delivering a very good education to people in remote areas. That's a powerful thing. And by the way, if you have villages where girls have trouble getting to school, but you can get them a device and they can learn on their own, that can break down barriers as well. So, that's the upside. The danger is that if it is weaponized, it can be a very powerful tool for mischief. But potential for people who are in jobs that can be done remotely to be replaced entirely by machines, I think that is something that's going to happen fairly quickly. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:15:00",
+      "speaker": "AMANPOUR",
+      "sentences": "So, as usual, he is very considered about this. So, let's just talk about jobs. Can it put legions of people out of work?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:20:00",
+      "speaker": "AMANPOUR",
+      "sentences": "Well, before I ask you -- I will ask you, how do you use A.I. in your daily life?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:20:00",
+      "speaker": "SMITH",
+      "sentences": "I use it for research. You know, there's the Microsoft search service, Bing, it relies on GPT-4 from OpenAI. I'm able to ask itquestions, it gives me answers, it has footnotes to sources. What I fundamentally find, and I think you'll appreciate this is a journalist, when you can get an answer to the first question more quickly, you ask the next question. And so much of life actually turns out, I think, on being able to ask more questions. That's what I use it for.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:20:00",
+      "speaker": "AMANPOUR",
+      "sentences": "What if you don't know who you're talking to or who's talking to you? We've heard so much about, you know, fakes, I mean, we're in deepfakes and now, we're in a whole another realm of fakes where my voice can be imitated, my face can be imitated, I have no rights against this unless you can tell me how we have these rights. But your daughter, my son calls and says, mom, I need some money, how? How do we figure this out?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:20:00",
+      "speaker": "SMITH",
+      "sentences": "I think that's an excellent example of the kind of problem we need to solve and where we need protection against the abuse or misuse of thistechnology. I think we will see, even just in the coming weeks and months, new approaches, agreements with governments and tech companies where, for example, they will say, if you are using A.I. to synthesize, say, someone's voice or a visual image, that what you need to do is watermark it and you need to make it clear that this is produced by A.I., you need to tell somebody if they are answering the phone, and there's a computer on the other end that they are identifying themselves as a computer, rather than a human being. And I think you will see laws evolve, so that if people then violate that norm, they can be held accountable. We'll still have criminals. I mean, people do bad things. But between technology controls, responsible action, new laws and efforts by governments, that's our best bet, I think, to address that.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:20:00",
+      "speaker": "AMANPOUR",
+      "sentences": "You're talking about governments who believe in the international system and the rule of law and who sign up for various, you know, rules ofthe road. But there are others that we're dealing with right now, Russia and many, many, many others who don't and who have already assaulted our democratic systems and everything else using this in a very wily way, and the precursors as well. So, let's say half the world is going to behave and the other half isn't, what are the consequences?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:20:00",
+      "speaker": "SMITH",
+      "sentences": "I think you always start by building an alliance of like-minded allies. And the best way to get important things done is to bring peopletogether who want to get them done. And that's what we've done. For example, in the tragedy, the massacre in Christchurch, New Zealand where it was literally a mass shooting live streamed on the internet, Jacinda Ardern and the prime minister of New Zealand brought together tech companies. We were definitely one of the first -- we were the first and said, let's put in place new rules so that cannot happen again. In the same way, when you look at these threats of, you know, influence operations being waged by a country and a government like Russia, let's bring companies, civil society, NGOs, governments together and let's put in place the rules and the technology measures that will be needed to protect the public.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:25:00",
+      "speaker": "SMITH",
+      "sentences": "I think the world is full of thoughtful people with a wide range of views. I don't think it's a bad thing to imagine what is the worst thingthat could go wrong. That's the best way to prevent it from happening. But look, 150 years ago, it would look like an act of God to harness the power of electricity. You would say, my goodness, people can be electrocuted. And when electricity was first installed in our cities, you had to ensure that it was under human control. This technology is different, it feels like a different era, it's a new century, but fundamentally, we've done this as a species many times before. We took to the air. We harnessed the power of electricity. You have to look at the problem in the eye and figure out how you keep it under control.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:25:00",
+      "speaker": "AMANPOUR",
+      "sentences": "So, you're being very frank, and President Obama listed quite a lot of important things. He also said in the medicine field, it could doamazing things. But I guess the last question is, will it be under human control? Is it guaranteed to be under human control? We were told these huge massive computers can just do what they do automatically.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:25:00",
+      "speaker": "SMITH",
+      "sentences": "I believe we have the capability to ensure that it stays under human control. And this is incumbent upon the companies that are creating thesemore powerful models, but frankly, it is also is incumbent upon the companies like Microsoft, that's operating at multiple levels, to build the data centers where these A.I. systems will run. We should have multiple controls, multiple safety breaks, and frankly, strong regulations and rules to ensure that this technology always remains under human control.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:25:00",
+      "speaker": "AMANPOUR",
+      "sentences": "And just finally, do you feel that you are so committed to this and so aware of this, because of what went wrong with social media, becauseof all the good intentions that just went off the rails?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:25:00",
+      "speaker": "SMITH",
+      "sentences": "I'd like to say that we would be thoughtful enough to identify this, even if there had not been these issues, say, a decade ago, but we're allolder and wiser. That's a good thing. Let's learn from all of our experiences, and let's heed the concerns, let's reap the benefits. That's the balance we should strive for.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:25:00",
+      "speaker": "AMANPOUR",
+      "sentences": "All right. Brad Smith, thank you very much. CEO of Microsoft. Thanks for coming in.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:25:00",
+      "speaker": "SMITH",
+      "sentences": "Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:25:00",
+      "speaker": "AMANPOUR",
+      "sentences": "Now, for the people of Georgia, Russia's war in Ukraine looks all too familiar. In August 2008, Russia invaded Georgia, seized control of twoprovinces there and then, illegally recognized their independents. It was Europe's first 21st century war. Critics say a muted reaction by western powers may have egged on Putin's aggressive expansionism, including of course now in Ukraine. Now, Georgia, much like Ukraine, or even Moldova, must navigate very rocky shorelines, seeking entry to western institutions like the E.U. or NATO while also trying not to provoke the Russian bear on their doorstep. Georgian president, Salome Zourabichvili, joins me now from the capital, Tbilisi. Welcome, Madam President, to the program. Can I first start by asking you, just to give us your analysis of what you must have been watching very closely on your border what happened in Russia over the weekend? How much of a surprise was it to you, and how much of a threat do you think it really was to Putin?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:30:00",
+      "speaker": "AMANPOUR",
+      "sentences": "OK.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:30:00",
+      "speaker": "ZOURABICHVILI",
+      "sentences": "United Europe, united NATO, stronger NATO. E.U., that is again talking about enlargement that looked like a subject that nobodywanted to come back to. So, all the -- for Putin -- negative results from this different -- no success in mobilization. Russian army and, of course, the Wagner Prigozhin last act of the year is adding to it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:30:00",
+      "speaker": "AMANPOUR",
+      "sentences": "Right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:30:00",
+      "speaker": "ZOURABICHVILI",
+      "sentences": "Russian army that is completely humiliated. The generals, I can imagine, this Russian traditional army that, since the Second WorldWar, was considered as one of the major armies in the world and in Europe, certainly, now have to count in the Donetsk -- on Prigozhin.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:30:00",
+      "speaker": "AMANPOUR",
+      "sentences": "OK. Madam President, let me just interrupt you there, because that is a really interesting and valuable analysis. So, if all of this isthe case, do you, in Georgia, feel less threatened or more threatened? As we know, and we've been watching, so many, like tens if not hundreds of thousands of antiwar Russians have been fleeing to Georgia and through Georgia. But you had your own invasion in 2008, and you still, I think, are concerned about Putin's intentions. How do you feel today about that?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:30:00",
+      "speaker": "ZOURABICHVILI",
+      "sentences": "Of course, I mean, one cannot not to be concerned, especially when regime is entering an end period, and clearly, Putin is notmastering everything today. And certainly, not mastering the war in Ukraine. You can always be concerned about what can be the erratic decisions that can be taken. In our case, at this stage, I do not think that there is military stress. First of all, because we have a military occupation that is ongoing since 2008, and earlier under a different form since 1991. So, two regions are occupied with military bases of Russia. So, to say that we are fearing with a military occupation would be much. But I think that what is happening, and what could happen even more, is that Russia is testing today the resolve and testing what I call a second in front of soft power, which is propaganda, which is through these Russians that have come to Georgia, that I will repeat, need to be controlled. We cannot just let what -- or amount of Russians come to the territory of Georgia without knowing who they are. Vast majority, as you mentioned, are people that are fleeing today's Russia. So, not really pro Putin population. But when -- at the same time, we know the threats that are used by Russia saying that Russian-speaking people, if they are not protected correctly, that can be a subject and a reason for support and intervention by Russia. So, all of that is this very gray zone that can be used by the Russia.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:30:00",
+      "speaker": "AMANPOUR",
+      "sentences": "OK.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:30:00",
+      "speaker": "ZOURABICHVILI",
+      "sentences": "Which, again, I don't think -- the resources or the wish test another front to get towards the west in Georgia.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:30:00",
+      "speaker": "AMANPOUR",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:30:00",
+      "speaker": "ZOURABICHVILI",
+      "sentences": "But it can be testing a soft power policy propaganda, which after all is the usual instrument of Russia for so many years.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:35:00",
+      "speaker": "ZOURABICHVILI",
+      "sentences": "I think that we have great chances to get into the E.U. And we know that the roads to the E.U. and NATO are very parallel, and Georgiahas been very active in its relations with NATO, was part of NATO missions very actively in Iraq and Afghanistan. Has had NATO exercises all over these years, despite the fact that we had occupied territories. So, our connection to NATO is very close. But today, probably, the E.U. pass seems closer because Ukraine has, in fact, accelerated for the sweet trio associates and for others, probably, the Balkans, has accelerated the task towards European integration. In terms of NATO, it's probably more the center will be -- especially at the next summit, it will be Ukraine, we all know that, and it will be security guarantees for Ukraine. Of what type, I don't know. And that's normal. That is what the Ukraine deserves today. So, there is no -- there - - any form of competition in any way. Any advancement of Ukraine will in the end benefits Georgia. But E.U. is a very -- at a turning point. Georgia needs to get candidate status at the end of the year. We have been given the perspective which, for Georgia, was very important because that meant that geography is no longer an argument to be opposed to Georgia, which it was for many years. The next stage is to get the candidate status. And in this soft war that we have with Russia, of soft policies, soft power, I think the E.U. cannot afford any strategic decision to lose Georgia, to have the Georgian population disappointed again and to give, in that sense, an easy place to play to -- for Russia. So, it is a strategic decision that has, of course, to take into account the democratic reforms and process which maybe, in the latest stage, are not as satisfactory as they should be.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:35:00",
+      "speaker": "AMANPOUR",
+      "sentences": "All right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:35:00",
+      "speaker": "ZOURABICHVILI",
+      "sentences": "But those conditions can remain, can be added. There are a lot of possibilities with which the E.U. can find the right wording andformat. But still --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:35:00",
+      "speaker": "AMANPOUR",
+      "sentences": "OK.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:35:00",
+      "speaker": "ZOURABICHVILI",
+      "sentences": "-- with the right strategic decision.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:35:00",
+      "speaker": "AMANPOUR",
+      "sentences": "All right, Madam President, thank you very much for that. Really interesting. President Zourabichvili from Tbilisi, Georgia. Thank you somuch. Now, we turn to some music history, legendary singer Graham Nash has return to the studio. Once part of the Woodstock era supergroup, Crosby, Stills, Nash and Young, he helped define a generation with hits like \"Our House.\" (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:35:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Our house is a very, very, very fine house. With two cats in the yard. Life used to be so hard. Now everything is easy becauseof you. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:35:00",
+      "speaker": "AMANPOUR",
+      "sentences": "Now, is his first album in seven years. And Walter Isaacson reflects on an outstanding career.(BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:35:00",
+      "speaker": "WALTER ISAACSON, CNN HOST",
+      "sentences": "Graham Nash, welcome to the show.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:35:00",
+      "speaker": "GRAHAM NASH, MUSICIAN",
+      "sentences": "You are very welcome. How are you doing today?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:35:00",
+      "speaker": "ISAACSON",
+      "sentences": "Fine, thanks. I was listening to your new album, \"Now,\" last night, and you said it is your most personal album. Why is it so personal?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:35:00",
+      "speaker": "NASH",
+      "sentences": "I'm wearing my heart on both sleeves. I started the album with the sentence that, I used to think that I would never love again. And when Ireally realize that I was coming to the end of my life, and that indeed, I might not ever love again, and then I met Amy Grantham. Amy Grantham is a wonderful woman. We have been together for nine years. We've been married for four years, and I love her dearly. And I wish I would have met her many years ago.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:40:00",
+      "speaker": "NASH",
+      "sentences": "When I see something that I have to speak about, I have to intensify my research and make sure that every single word that I say is what I mean.There are two very political songs on this record. One of them is \"Golden Idols,\" which is a song I wrote when I saw an Instagram image of Donald Trump in solid gold. (MUSIC PLAYING)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:40:00",
+      "speaker": "NASH",
+      "sentences": "And I realized that there are many golden idols in this country. Now, speaker of the house, the new speaker, Kevin McCarthy, Mitch McConnell,people like Ted Cruz, there are many golden idols in this country that need to be addressed.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:40:00",
+      "speaker": "ISAACSON",
+      "sentences": "Crosby, Stills, Nash and Young, more than 50 years ago, it became the soundtrack of politics in the United States, of the protest movement inthe United States. (MUSIC PLAYING)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:40:00",
+      "speaker": "ISAACSON",
+      "sentences": "Tell me how things have changed in those 50 years in the politics and protests.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:40:00",
+      "speaker": "NASH",
+      "sentences": "We thought that Richard Nixon was crazy, but Donald Trump is way crazier than Richard Nixon would ever be. I have seen the rise of theright-wing in this country and the extremists. I have seen the rise of autocrats throughout the world, which is very disturbing. In a way, when I study history and I realize that empires are created and empires fall, and maybe, just maybe the American empire is spiraling downwards and it's very disturbing.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:40:00",
+      "speaker": "ISAACSON",
+      "sentences": "Your relationship with Joni Mitchell was tumultuous, it was pretty epic, it was the stuff of song, in fact, \"Our House,\" as the song, Ithink, you wrote about it. I was just watching her, just recently, and a few days ago at the Gorge in this comeback concert. Tell me about your relationship with her and did you watch that concert and what are you thinking?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:40:00",
+      "speaker": "NASH",
+      "sentences": "I did watch the concert. I am very pleased that Joni is still alive. I have been her friend since we parted as a couple. For all these years, Ihave sent flowers on her birthday every single year since we parted. I saw the show, we nearly lost her. I mean, she was in a coma for three days on her kitchen floor before anybody found her. I am glad that she's alive, and I am so glad that she is now making music. The last time I saw Joan, which was at the Gershwin Prize that she received recently in Washington D.C., and I asked her. I said, Joan, anything coming? Any ideas for new songs? Any ideas for a new painting? And she looked at me and she said, no, not yet. And I loved not yet, because I know that she has been thinking about what happened to her, she has been thinking about her music, and I think that at the end of the Gershwin Prize Award show, I think that Joni really realized how much she was loved worldwide. For many years, I -- Joan did not think that she was appreciated enough. She didn't think that a lot of people understood what she was doing. But at the end of that concert, I think she really understood how much she is loved.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:40:00",
+      "speaker": "ISAACSON",
+      "sentences": "Do you think you might ever play with her again?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:40:00",
+      "speaker": "NASH",
+      "sentences": "I'll never say no.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:40:00",
+      "speaker": "ISAACSON",
+      "sentences": "Yes. You wrote in your autobiography that she was the whole package. She had an elusive quality that seemed to lit from within. Tell mehow that relationship started. It was like more than 50 years ago, right?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:45:00",
+      "speaker": "ISAACSON",
+      "sentences": "You mentioned David Crosby, of course, your former bandmate. Your relationship with him has been -- had been rather tumultuous. He died, youknow, within the past year. Tell me about your relationship with him and did you ever reconcile and what thoughts do you have on him?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:50:00",
+      "speaker": "ISAACSON",
+      "sentences": "That song, that song you sang together, the three of you in front of the microphone, can you sing a few bars? Can you remind us of that song?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:50:00",
+      "speaker": "NASH",
+      "sentences": "Sure. In the morning, when you rise, do you think of me and how you left me crying? And that's the first verse.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:50:00",
+      "speaker": "ISAACSON",
+      "sentences": "What memories of David Crosby, you say we were really close to him for 50 years, you have your falling out. Did you reconcile? Are thereany memories that you shared near the end?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:50:00",
+      "speaker": "NASH",
+      "sentences": "Yes. About eight days before David passed away, he sent me an e-mail and he said, I want to talk to you. I know that I haven't not spoken to youin two years, but we need to talk. I need to apologize. And so, I set up a time to use Facetime, where we could see each other, and I set it up for 2:00 my time in New York, which would've been 11:00 a.m. in California. And I waited, and I waited for the call, and the call never came. But we were talking towards the end there. And I realized that he had to apologize for shooting his mouth off, particularly about Neil and his wife, Daryl Hannah, and me, and I'm incredibly grateful that he wanted to straighten things out between us, because we had been friends for so long and we had been through many, many things together. But David Crosby was an incredible musician. He tuned his guitar in many, many different ways. He was jazz influenced. He was Everly Brothers influenced. David Crosby was a great musician. And I will miss him, and I will think about him every day for the rest of my life.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:50:00",
+      "speaker": "ISAACSON",
+      "sentences": "What's your favorite song from all your years?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:50:00",
+      "speaker": "NASH",
+      "sentences": "That's an interesting question. Probably \"Teach Your Children\" or \"Our House.\" I think that they will last longer than -- and certainly thanI will. I mean, at 81, I realized I'm coming to the end of my life, but I will be kicking and screaming as they put me in my coffin. I want to be making music every single day for the rest of my life.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:50:00",
+      "speaker": "ISAACSON",
+      "sentences": "\"Teach Your Children,\" I mean, an awesome song.(MUSIC PLAYING)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:50:00",
+      "speaker": "ISAACSON",
+      "sentences": "It's both personal and it is political. And you've had some rocky relationship with your children too, I think. How was that informed and howdoes that resonate with a song like \"Teach Your Children\"? And I think you have one similar, if I'm right, called, \"A Better Life\" that's on the new album.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:50:00",
+      "speaker": "NASH",
+      "sentences": "We have to make this world a better place than we left it. I love Willie Nelson's quote, when he says, if you want to change the world, sortout your immediate surroundings. Pick up a piece of litter, pat a child on the head, encourage him to learn. We can leave this place a better place for our children. And in \"Teach Your Children,\" we have a lot to learn from our kids and they have a lot to learn from us. And \"Better Life\" is, in a way, an extension of that thought process. I wrote \"Better Life\" with my friend, George Merrill, wrote the number one hits for Whitney Houston, and we made a really fine record of our song.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:50:00",
+      "speaker": "ISAACSON",
+      "sentences": "Can you leave us with just a few -- singing a few bars of \"A Better Life\"?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:55:00",
+      "speaker": "ISAACSON",
+      "sentences": "Graham Nash, thank you so much for joining us.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:55:00",
+      "speaker": "NASH",
+      "sentences": "You're very, very welcome.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

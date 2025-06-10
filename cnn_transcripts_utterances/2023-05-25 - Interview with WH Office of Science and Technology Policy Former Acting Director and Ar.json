@@ -1,0 +1,517 @@
+{
+  "date": "2023-05-25",
+  "headline": "Amanpour",
+  "subHeadline": "Interview with WH Office of Science and Technology Policy Former Acting Director and Architect of the \"Blueprint for an A.I. Bill of Rights\" Alondra Nelson; Interview with \"The Sign in Sidney Brustein's Window\" Actor Oscar Isaac; Interview with \"The Sign in Sidney Brustein's Window\" Producer Jeremy O. Harris; Interview with UCSF Advancing New Standards in Reproductive Health Director Dr. Daniel Grossman. Aired 1-2p ET",
+  "utterances": [
+    {
+      "timeStamp": "13:00:00",
+      "speaker": "CHRISTIANE AMANPOUR, CNN CHIEF INTERNATIONAL ANCHOR",
+      "sentences": "Hello, everyone, and welcome to \"Amanpour.\" Here's what's coming up.(BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:00:00",
+      "speaker": "SAM ALTMAN, CEO, OPEN AI",
+      "sentences": "I think if this technology goes wrong, it can go quite wrong.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:00:00",
+      "speaker": "AMANPOUR",
+      "sentences": "The leaders of ChatGPT joined the chorus calling for regulation of super intelligent A.I.(BEGIN VIDEO CLIP) ALONDRA NELSON, FORMER ACTING DIRECTOR, WH OFFICE OF SCIENCE AND TECHNOLOGY POLICY AND ARCHITECT OF THE \"BLUEPRINT FOR AN A.I. BILL OF RIGHTS\": We have seen that self-regulation of companies doesn't work and that we need to have a different playbook for this moment. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:00:00",
+      "speaker": "AMANPOUR",
+      "sentences": "I ask Alondra Nelson, architect of the artificial intelligence bill of rights about the Biden administration's effort to regulate it.And -- (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:00:00",
+      "speaker": "KATRINA KIMPORT, MEDICAL SOCIOLOGIST AND PROFESSOR, ADVANCING NEW STANDARDS IN REPRODUCTIVE HEALTH, UCSF",
+      "sentences": "We have instances of people doing all ofthese things that they need as basic medical care under an umbrella of fear. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:00:00",
+      "speaker": "AMANPOUR",
+      "sentences": "-- as South Carolina passes a six-week abortion ban, a new study warns that health care providers are unable to meet their duties. MichelMartin talks to the authors of that study, Medical Sociologist Katrina Kimport and Dr. Daniel Grossman. Also, ahead -- (BEGIN VIDEO CLIP) (MUSIC PLAYING) (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:00:00",
+      "speaker": "AMANPOUR",
+      "sentences": "-- a forgotten treasures back on Broadway. I speak to actor Oscar Isaac and producer Jeremy O. Harris about taking on \"The Sign in SidneyBrustein's Window.\" Welcome to the program, everyone. I'm Christiane Amanpour in New York. As we enter an uncharted era of artificial intelligence, we begin with the risk of a creation turning on its creator. OpenAI, which is the company behind ChatGPT, is calling for an international regulator, much like the U.N. nuclear watchdog, to prevent a catastrophe endangering our very existence. In a statement on their website, OpenAI's three co-founders write, we can have a dramatically more prosperous future, but we have to manage risk to get there. Given the possibility of existential risk, we cannot just be reactive. The real-world impact of this technology, which is still only in its infancy, is already being felt, like the bogus A.I. image of an explosion at the Pentagon, which caused a selloff on the stock market this week. But it's also driving incredible scientific breakthroughs, like the paralyzed man who just took his first steps in a decade, thanks, in part, to A.I. technology. Alondra Nelson was acting director in the White House Office of Science and Technology Policy thereof, and the architect of the Biden administration's \"Blueprint for an A.I. Bill of Rights.\" I ask her about the threats and opportunities and the global moves to regulate A.I. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:00:00",
+      "speaker": "AMANPOUR",
+      "sentences": "Alondra Nelson, welcome to the program.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:00:00",
+      "speaker": "NELSON",
+      "sentences": "Thank you for having me.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:00:00",
+      "speaker": "AMANPOUR",
+      "sentences": "So, with all your experience as a researcher in the executive office as deputy assistant on these matters to the president, you havesaid, and I will quote you, we are living already in a time of profound uncertainty with looming risk about A.I. Lay out for us what you mean.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:00:00",
+      "speaker": "NELSON",
+      "sentences": "I mean, that we are building a powerful technology, perhaps the most powerful technology that we will have built in our time on this planetand that we need to do it with guardrails and with, you know, a real clear sense of both the pitfalls and the possibilities of these new technologies. And it's also a time in which, I think, that we can all agree that we are worried and that there are looming risks all around and that this powerful technology, automated systems, A.I., has the potential to exacerbate many things that we already are quite concerned about, including misinformation and disinformation, issues around bias, surveillance and the like.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:00:00",
+      "speaker": "AMANPOUR",
+      "sentences": "So, Sam Altman who is the CEO of OpenAI, one of the, you know, originals in this business, he testified in Congress last week, and it wasquite important because every time these CEOs go before Congress, it's an attempt, presumably, to investigate what's going on and to see how it can be protected as well. This is what he said about the road ahead.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:05:00",
+      "speaker": "AMANPOUR",
+      "sentences": "So, he wants to work with the government. We've seen this playbook before where Congress has hold social media giants, Zuckerberg andthe others, and Congress seems to be, you know, sort of a bit thrown for a loop by all of the technical geekery around it. Is Congress, is the administration prepared to deal with the looming threat of A.I.?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:05:00",
+      "speaker": "NELSON",
+      "sentences": "I think this is an incredible window of opportunity because I think Congress and the executive branch has shown that they are getting prepared.So, I think to your point, we saw the social media playbook, we've seen that self-regulation of companies doesn't work and that we need to have a different playbook for this moment. So, what's encouraging here is that conversations are happening early on in the development of a new technological sort of paradigm and we saw that most recently last week, Senator Blumenthal chaired the hearing that you show that included OpenAI CEO Sam Altman. So, we have seen the Biden-Harris administration over the last year show that it's committed to getting automated systems right and A.I. technologies right and making sure that the benefits of them are maximized and the harms are minimized, and that work has been ongoing, including with policies, laws, and regulations that are already on the books that can be expanded to sort of offer guardrails around A.I. and obviously, conversations about new ones that we need, the sides (ph). In addition, I've been encouraged to see congressional leaders, so members of Congress, who, not just the usual suspects or not just the members of Congress who have had careers of working on tech policy, but people who work in the national security space, who think about domestic policies issues as their primary portfolios also thinking about the implications of A.I. And so, I think this moment is different in part because we've got a bigger tent, I think, of congressional leadership understanding that this is really an all-hands-on-deck moment and that they all need to be engaged in learning enough about this technology to be able to offer guidance to the nation about how we can use it responsibly.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:05:00",
+      "speaker": "AMANPOUR",
+      "sentences": "So, this week we saw an irresponsible use of A.I. in a sort of a visual mechanism whereby it's gone viral, this picture of an explosion atthe Pentagon, which clearly brought back memories of 9/11 and that because it was totally fake. It did have an impact on the stock market and it shook people for a while. That is a very visual demonstration thereof. So, I want to know how dangerous you think that stuff? Is that -- that goes to the heart of the misinformation piece of this, the deepfake piece of this where anything can be faked.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:05:00",
+      "speaker": "NELSON",
+      "sentences": "That Pentagon fire deepfake was quite worrisome, on two levels. So, it was a story -- that was a (INAUDIBLE) story that was about Twitter andabout the -- effectively, the collapse of the verification regime at Twitter that would've offered at least a few signals about whether or not this was true and whether or not it should or could be believed. And so, we no longer have that system of guardrails at Twitter. So, it's worrisome in that case. And it was also worrisome, of course, because it traveled so quickly. And there are things that we could've done, I think to have made a different outcome. In addition to sort of Twitter, I think, behaving more responsibly, it's also the case that companies that make tools that allow the creation of video. So, we're not talking about deliberate bad actors who were going to try to get around these, but at a very basic baseline you should be able to mark or have to be required to identify that you are using A.I. systems in the product that you are creating, whether or not that's a visual product or voice product or it's text. And that was -- when I was working in the White House, up until a few months ago, we developed something called \"The Blueprint for an A.I. Bill of Rights\" and one of the, sort of, principles there was that you should -- there should be notification, one should know when an A.I. system is being used. And I think that's just a kind of fundamental principle that companies have the ability, right now, to exercise in the way that they are sending out these tools for consumers to use them. Again, that's not going to correct for a bad actor who is trying to create a deepfake or a misinformation or disinformation that's intended to do harm, but it could do a long way to prevent casual actors, accidental actors and consumers from being able to create these kinds of dystopian (INAUDIBLE) and using these technologies.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:10:00",
+      "speaker": "NELSON",
+      "sentences": "That's right. And I think that -- you know, President Biden actually has been quite clear about this, like it falls to the companies tomake sure that their products are safe and effective and that they are released to consumers in ways that are safe and effective and can be trusted. And so, you know, it shouldn't be left. Certainly, there are ways that the -- you know, the companies are potentially not going viable to test for every potential outcome. The tools are too broad in their potential use cases. But that is something that, you know, this misidentifying someone as being, you know, a sexual predator or having false information, you know, what we call so-called hallucinations, there's much more that can be done on the company's side before these things are released. And I think that we, you know, congressional leaders, government leaders, and the American public, frankly, should demand more.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:10:00",
+      "speaker": "AMANPOUR",
+      "sentences": "You said and you described a bit the blueprint. Now, this started, you said very, very early in the Biden administration. You alltook a year to create this blueprint, but also, you say it's not a legal obligation, you know, talking about laws. But on the books already, are there the laws to protect, in all these areas, whether it's employment, whether it's disinformation, whatever it might be, that could be employed right now? Are there laws that could be resurrected and used right now as guardrails for this, as you call, it looming threat?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:10:00",
+      "speaker": "NELSON",
+      "sentences": "It's an excellent question. There are laws and policies and regulations already on the books that are allowing us and can allow us toget traction on the sort of fast-moving pace of automated systems already. And partly what the \"Blueprint for an A.I. Bill of Rights\" was trying to do was to point to some of those. So, it is the case that the U.S. Equal Employment Opportunity Commission has the ability to regulate discriminatory uses of automated systems for -- if they're used for recruitment, for hiring, if they are discriminating against people with disabilities, it's the case of the Department of Labor can in cases of workers surveillance, when there's workers who are using their rights to organize require reporting of surveillance tools, including automated systems in those moments. Part of -- when he spun out the \"Blueprint for an A.I. Bill of Rights\" we also pointed to things that might be done. So, for example, we're thinking -- you know, there's obviously some concerns in the space of education about, you know, is ChatGPT is going to allow cheating in the like? This is, I think, another instance in which, you know, if this company with this incredible powerful tool had maybe talked to a few more teachers, I think we could've had better guidance around that.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:10:00",
+      "speaker": "AMANPOUR",
+      "sentences": "You've probably noticed that the sort of world-renowned online teacher, Sal Khan, who was the founder and CEO of the nonprofit KhanAcademy says that it could actually be the greatest positive transformation education has ever seen. He sees a future in which students and teachers, you know, use this technology to improve education and, you know, around the world. So, let's talk a little bit about the positives. Do you see that as possible despite the very real, you know, ability to cheat and use ChatGPT, et cetera?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:10:00",
+      "speaker": "NELSON",
+      "sentences": "I would agree with Sal Khan that yes, this is a possible future for the intersection of education and technology and that A.I. has anincredible role to play here, but it is also the case that it's not just going to happen and that we need this -- all of the stakeholders working in this space, including government and companies, to create that most beneficial outcome.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:10:00",
+      "speaker": "AMANPOUR",
+      "sentences": "So, you say it's not just going to happen. And again, in my mind is fixed graph that I saw in the F.T. written by a very prominent A.I.researcher warning of the pitfalls as well as the potential, you know, advantages. And it showed a huge disparity in the graph of resources going to capability versus the resources going into make it safe and so-called align this thing with our moral values. So, I wonder what you think about that, because that's happening now, a big, big, you know, disparity. And yet, the G7 leaders, the most powerful economies, actually did talk about this and what they needed to do. So, a global potential solution during the Hiroshima meeting.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:15:00",
+      "speaker": "AMANPOUR",
+      "sentences": "You mentioned the poignancy of where the G7 communique came from. Obviously, Hiroshima is where the first and then Nagasaki, the only atomicbombs to have been dropped in the whole process of mutually assured destruction. And people in A.I. now say that, you know, this is -- I mean, you know, this is like unleashing the atom again. So, I get what you are saying about the poignancy. The communique said that we should advance international discussions on inclusive artificial intelligence governance and interoperability to achieve our common vision and goal of trustworthy A.I. in line with our shared and democratic values. So, finally, that's all well and good for those who shared democratic values, but what happens with known interference and disinformation experts, China, Russia, and all of the other state actors, forget companies, state actors who will potentially not be bound by this?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:15:00",
+      "speaker": "NELSON",
+      "sentences": "Sure. I think this is very much in the space of national security questions. So, there are economic security questions. So, part of whatwe'll have to watch, of course, is sort of job disruption and disruption to how people work and live their lives. And then, there are sort of biosecurity and other kinds of, you know, nuclear security issues that need to be appreciated as well, for a more catastrophic and national security concerns that we have about how the tools might be used by, you know, malign actors, by pernicious actors who are caught intending to do harm. You know, there are -- there have been historically and there being, in the current moment, sort of sets of tools and levers that we can use. So, this include things like international treaties, this include things like export control, like sort of not sending the enabling capabilities, you know, the technical capabilities to actors that we don't think are going to use them safely, sanctions. So, it's the case that there is a whole suite of levers that can apply, I think, in the A.I. research and development space with regards to whether or not they get in the hands of other kinds of actors. But I think there's also an opportunity here for collaboration and conversation, well, be on the G7. So, you know, I think we both want to constrain, on the one hand, what could be the most dangerous uses, but also appreciate that, you know, in many cases, even our adversaries, I think, don't want the most catastrophic outcomes to the extent that they might be indeed planetary. And so, I think there are opportunities for -- to work on both sides.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:15:00",
+      "speaker": "AMANPOUR",
+      "sentences": "Well, Alondra Nelson, thank you for that detailed blueprint as it stands right now. Thanks for joining us.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:15:00",
+      "speaker": "NELSON",
+      "sentences": "Thank you for having me.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:15:00",
+      "speaker": "AMANPOUR",
+      "sentences": "And now, from the threats to American society to one of its greatest assets, theater. It's been over three years stages went quitebecause of the coronavirus, but Broadway audiences are finally back to pre- pandemic levels, that's according to the Broadway League. And a revival of a '60s play is getting rave reviews. \"The Sign in Sidney Brustein's Window,\" written by the late Lorraine Hansberry, stars Hollywood actors Oscar Isaac and Rachel Brosnahan. It follows a diverse group of friends in the 1960s Greenwich Village, New York, trying to juggle the harsh realities of life and their idealistic dreams. Oscar Isaac, known for his standout roles in \"Scenes from a Marriage,\" \"Star Wars,\" and \"Dune\" joins me from New York, and producer and playwright Jeremy O. Harris from (INAUDIBLE) to talk about it. Oscar Isaac and Jeremy O. Harris, welcome to the program. JEREMY O. HARRIS, PRODUCER, \"THE SIGN IN SIDNEY BRUSTEIN'S WINDOW\": Thank you for having us. OSCAR ISAAC, ACTOR, \"THE SIGN IN SIDNEY BRUSTEIN'S WINDOW\": Thank you. Thank you so much.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:15:00",
+      "speaker": "AMANPOUR",
+      "sentences": "Listen, I first --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:15:00",
+      "speaker": "ISAAC",
+      "sentences": "A pleasure to be here.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:20:00",
+      "speaker": "ISAAC",
+      "sentences": "Well, it had been about six years since I had last on a play, which is \"Hamlet,\" and this kind of came to me serendipitously through a friendthat I met with Anne Kauffman and we did a reading of the play, and I just found -- honestly, the feeling I had when I read it was a feeling of profound freedom. There was something about reading these words, the interaction with the other characters, the kind of exercising of a lot of fear and demons and shame and a lot of things that she talks about are placed in the world as artists and as human beings and as activists that just spoke to me in a really profound way. And also, I'm so attracted to troubled characters, characters that are prickly, characters that are not, you know, asking to be loved that seemed to be noteworthy of our attention, yet somehow, you know, breaking that shell, I find a magic trick in that.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:20:00",
+      "speaker": "AMANPOUR",
+      "sentences": "And it is magical onstage, and certainly for the audience. Jeremy O. Harris, you know, Oscars just talked about going from Shakespeare toLorraine Hansberry. What was it about her and the magic, that Oscar talks about, that puts you involved and made you bring it from essentially off Broadway at BAM to -- you know, to where it is now?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:20:00",
+      "speaker": "HARRIS",
+      "sentences": "Well, I mean, first of all, I'm so grateful that you got to see it and so I'm grateful that Oscar is a part of it. You know, because, youknow, a play can't sing without an amazing vocalist, right? And Oscar and Rachel and this entire company are amazing vocalists. And I think that, you know, seeing that she had written this complicated text, a text that's very difficult to make singing with as many harmonies that she put into it, it scene that it was singing so well at BAM told me that it needed to be in the house it was always meant to, because like the echoing, the architecture of Broadway theater specific. And, you know, Lorraine passed away when she was 34 years old. And I'm about to turn 34. I'm on the eve of my 34th birthday. I turn 34 on June 2nd. So, I feel a deep kinship to her because I had a great supernova play called \"Slave Play.\" But I also have problem plays that have happened in and around \"Slave Play\" that take a great ensemble to make singing really beautifully and it might not have been understood by critics the moment they came out. But I hope one day in the future, there will be other future Jeremy O. Harris, some other future Anne Kauffman, some other future ensemble like -- that features an Oscar or a Rachel that could help make the play singing or those other play singing. And so, the ability to facilitate, hearing this music, this sound, these voices so clearly felt pertinent to me. Because we lost one of our greatest voices much too soon.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:20:00",
+      "speaker": "AMANPOUR",
+      "sentences": "Oscar Isaac, just give us a synopsis, because it is a period play, as Jeremy O. Harris says, obviously, it's written during the heightof the civil rights movement, it was on Broadway during at that time. And as you say, it's about activism, but it's also a profound family drama very specific to that time.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:20:00",
+      "speaker": "ISAAC",
+      "sentences": "Yes. Well, I mean, really, it's changed and the nature have changed. And the brief synopsis is that there's a man, Sidney, who is leftist, anactivist -- or an ex-activist. He's kind of had it. He's put all his cards out there and the results have been subpar for him. And so, he wants to retreat up to the mountains. He has his young wife who he envisions as this very specific that he's created, and he is seeing all of these things change around his and shift right in front of his eyes, and it's like a greased pull. And so, you know, all of his friends are -- there's an apartment in the 1964 in Greenwich Village where his friends that are artists and activists come together and they start with this paper, this newspaper that he feels is going to, you know, just be able to express himself through arts and crafts now that he is done with politics. And the world starts to pull at him. And then, at the heart of it is this marriage between Sydney and Iris, that the amazing Rachel Brosnahan plays. And her, coming into her own as a woman, as a woman constrained by this particular time and this particular type of misogyny. And so, yes. So, it's dealing with all of these issues. And then, in the second act, it just breaks wide open.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:25:00",
+      "speaker": "ISAAC",
+      "sentences": "It's no good. You're world, Wally, it's no damn good. You have forced me to take a position, finally, the thing I never wanted to do, justnot being for you, it's not enough. To live, to breathe, I have to be against you. Goodbye, O'Hara. I'll see you again. Only this time, let me warn you, thanks to you, I'll be tougher, more seasoned, harder to deceive. ANDY GROTELUESCHEN, ACTOR, \"THE SIGN IN SIDNEY BRUSTEIN'S WINDOW\": Sidney, you really are a fool.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:25:00",
+      "speaker": "ISAAC",
+      "sentences": "Always have been.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:25:00",
+      "speaker": "AMANPOUR",
+      "sentences": "You know, it's all there, you know, the idealism and getting that slap around and it was quite dramatic to watch that bit. Was it a mistakefor the character to have taken on this politician who sold him the bill of goods really?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:25:00",
+      "speaker": "ISAAC",
+      "sentences": "No. I don't think it was a mistake necessarily. I think, you know, what's amazing and what's so brilliant about what Lorraine does, you know,it isn't about -- the question isn't, you know, should you do something or should you not do something, you know, or like what the right political move is, it's not so much about that because, you know, at first, he starts with, I don't want to be part of it, and then he gets convinced to, yes, be part of it. But what do you do when that fails? And, you know, the inevitable disillusionment. And she's talking about that and she talks about the world is about to crack right down the middle and all one can do is change and continue to change and continue to find new ways to change when the inevitable disillusionment is going to happen. And it just speaks so much to this time and to so many of my friends and to me who have gone through -- you know, we've gone -- the world is going through right now, and I hear so much and I've heard myself say it, like, oh, I just can't, I can't do it anymore. And even, I always have a paying of shame during the play when in that scene, Wally says to me, you know, he says, you know, you got a gift for writing, for music, you turn people on. Stay to your lane, stay in your lane, basically. You know, and often I find myself saying, well, you know, I'm a storyteller, let me just stick to that. I will do my acting and music, and I don't have to be involved. But the point is that it doesn't matter if you don't want to be involved, it's going to come to your doorstep.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:25:00",
+      "speaker": "AMANPOUR",
+      "sentences": "Yes, indeed. And so, let me ask you, Jeremy O. Harris, Lorraine Hansberry is a formidable force, was a formidable force, but you say, hercareer was cut short by illness and she died. You know, this play, I think, had been on for two to three months by the time she died. And just to situate ourselves, her husband, ex-husband, producer of the play at time said, the very day the play open, Khrushchev fell from power in the Soviet Union, he said Russia, and the Chinese set off their atomic bomb. In other words, it was happening in the midst of this global, sort of, seismic shifts in our history, not to mention what was going on inside the U.S. She was a very -- you know, and she had written \"A Raisin in the Sun,\" which was a huge, huge success. Tell me a little bit more about her. She was a very iconoclastic individual.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:30:00",
+      "speaker": "AMANPOUR",
+      "sentences": "So, I'm really hearing what you are saying, and it's clearly, you know, landing in a very personal and politically current and relevant timeright now. So, I want to ask you, Oscar, whether -- because in the program, when we all go to sit there and see the play, the program says that, you know, it didn't get a full run, and yet, all the -- you know, the big producers, the actors, Mel Brooks, Ann Bancroft and others, banded together to make sure that it kept going. And I found out that a really incredible act of collaboration and collegiality at this very fraught political time in the United States. How did that strike you?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:30:00",
+      "speaker": "ISAAC",
+      "sentences": "So beautiful. And in a way there's -- you know, there's some mirror images to what it's been like to put the play on now. It's provocative.It's antiestablishment. It's not easy, there's not an easy solution, often people are not sure, well, who am I supposed rooting for? Who's the villain? Who's the bad guy? And politically, you know, you have people transgressing in the most public horrible ways and yet, we're still asked to see them with love and see them with possibility for redemption. And so, it's incredibly rewarding and it feels rebellious to be putting it on and to know that people that are very near and dear to me that I look up to, they feel that spirit in it and that provocation.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:30:00",
+      "speaker": "AMANPOUR",
+      "sentences": "Can I just ask you quickly, you are of Guatemalan heritage, you're a Guatemalan American, as you say, and what Jeremy O. Harris --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:30:00",
+      "speaker": "ISAAC",
+      "sentences": "And Cuban as well.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:30:00",
+      "speaker": "AMANPOUR",
+      "sentences": "-- was just -- and Cuban as well. So, you've got all of that heritage, which is very political these days, with the migration, you know,crisis, with, you know, the way refugees and asylum seekers are treated, both in the United States and elsewhere around the world. That part of it, does that resonate with you as well?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:30:00",
+      "speaker": "ISAAC",
+      "sentences": "Absolutely. Absolutely. About, you know, being lost and the feeling of being helpless as well to do anything about it, not knowing what to do.And the feeling of -- the overwhelming feeling of like, what can I possibly do? And to, you know, doubled down and say, no, there must be, there must be something. Because, again, the alternative is death.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:30:00",
+      "speaker": "AMANPOUR",
+      "sentences": "Can I ask you to just reflect on \"Scenes from a Marriage\"? I want to play a clip from it because it was one of the last big things thatyou're so well-known for. And it turned the original, Ingmar Bergman story, on its head, making the woman, the -- you know, the breadwinner and et cetera, sort of turned the gender dynamic on its head. You played the husband. Jessica Chastain played the wife. Let's just play this little clip. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:30:00",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "In the beginning of the relationship, everything is thrilling and it's new.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:30:00",
+      "speaker": "ISAAC",
+      "sentences": "The research says that when the woman is the provider and the man is the caregiver, the marriage has a greater chance of success.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:30:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "You heard that, Kate?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:30:00",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "Loud and clear.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:30:00",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "You just believe that as a couple nothing can hurt you. And then you gradually start to realize that actually anything canhurt you. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:30:00",
+      "speaker": "AMANPOUR",
+      "sentences": "And that really resonated with so many people, especially successful women. Were you -- was it the sort of, you know, turningconvention on its head that was most attractive for you or what in that?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:30:00",
+      "speaker": "ISAAC",
+      "sentences": "You know, in some ways, there's some similarities with this play, it just -- it was harrowing to read it. It wasn't an intellectual idea of, oh,turning this or (INAUDIBLE) of that. In fact, maybe those things were like things that would kind of repel me from it. But the fact that when I would read it, I would shake and be afraid. And I didn't even necessarily connect so much with the character right away, it was the situations and the scenarios were just harrowing. And so, that kind of led me to constantly think about it. And when that itch starts to happen, I follow it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:30:00",
+      "speaker": "AMANPOUR",
+      "sentences": "So, finally, what is the next for you, Jeremy O. Harris, on Broadway or elsewhere?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:30:00",
+      "speaker": "HARRIS",
+      "sentences": "On the producing side and on the Broadway side, you know, I have the play just going to open at Hauser &amp; Wirth (ph) next year. And then, Ihave a new play that I am producing on Broadway that's going to be announced pretty soon, that I am very, very excited about. Because, you know, so much of my work is about celebrating writers I want to see.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:35:00",
+      "speaker": "ISAAC",
+      "sentences": "Well, it is. It is very draining and it's an incredible like athletic feat to have to do. You know, I always start the -- I start thebeginning of the week on a Tuesday like in a flow state, and already by the second show, Wednesday, I'm like, oh, just letting the architecture of the play hold me. But I am a creature of the stage. So, I do think there's more in theater, maybe not so long this time, not just a long (INAUDIBLE).",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:35:00",
+      "speaker": "AMANPOUR",
+      "sentences": "All right. Well, it's an amazing treat for anybody who gets to see it. Oscar Isaac, Jeremy O. Harris, thank you both very much indeed.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:35:00",
+      "speaker": "ISAAC",
+      "sentences": "Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:35:00",
+      "speaker": "HARRIS",
+      "sentences": "Thank you so much.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:35:00",
+      "speaker": "ISAAC",
+      "sentences": "Thank you, Christiane.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:35:00",
+      "speaker": "AMANPOUR",
+      "sentences": "Run, don't walk to see it. Now, South Carolina's governor has just signed a bill banning most abortions as early as six weeks into law.South Carolina is the latest state to tighten its grip on abortion access since Roe v. Wade was overturned last June. Now, a new study called \"Care Post-Roe\" has found that states blocking female reproductive rights are putting lives at risk. The co-authors of the report join Michel Martin to discuss how these bans are endangering women. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:35:00",
+      "speaker": "MICHEL MARTIN, CONTRIBUTOR",
+      "sentences": "Thanks, Christiane. Professor Kimport, Dr. Grossman, thank you both so much for joining us.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:35:00",
+      "speaker": "KATRINA KIMPORT, MEDICAL SOCIOLOGIST AND PROFESSOR, ADVANCING NEW STANDARDS IN REPRODUCTIVE HEALTH, UCSF",
+      "sentences": "Thank you for having us.DR. DANIEL GROSSMAN, DIRECTOR, ADVANCING NEW STANDARDS IN REPRODUCTIVE HEALTH, UCSF: Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:35:00",
+      "speaker": "MARTIN",
+      "sentences": "So, Dr. Grossman, let me just start with you and ask, what was the intention behind this study? How did it get started? What were you thinkingabout and what did you want to know? DR. GROSSMAN: Honestly, I was really concerned. As you know, these bans on abortion generally allow abortion in the cases when the pregnancy threatens the life of the pregnant person. But as a practicing physician for almost 30 years, what constitutes a life-threatening condition is just not always as clear as it might seem, it's not black and white. You know, how severe does the condition need to be, how eminent does the threat need to be? And because these answers are so unclear, I was really concerned that my colleagues in states with these abortion bans were going to be forced to hesitate, to wait to provide the care that was medically necessary. And after the Dobbs decision and these laws started going to effect, we did see some reports from the media about cases where patients have pregnancy complications but they couldn't get the care they need, even though the condition, apparently, threatened their life. And then, at the same time, we also started hearing reports that doctors were being told by their hospitals and their employers not to talk to reporters. They were essentially being muzzled. Their voices were being silenced. And so, that's really why we started this project to give doctors and nurses and nurse midwives, nurse practitioners, pharmacists, anyone who cares for a patient, an opportunity to be able to share these stories about poor quality care anonymously if they wanted to.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:35:00",
+      "speaker": "MARTIN",
+      "sentences": "So, Dr. Grossman, as a clinician, so you're interested in like what's going on in that clinical setting. Professor Kimport, you're asociologist. Tell me what you were interested in and discovering in this? Were you interested in sort of thinking about like what the patterns were?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:35:00",
+      "speaker": "KIMPORT",
+      "sentences": "Absolutely. My interest has really long been in what a patient's experience of navigating health career is and particularly, reproductivehealth care. And here, we have an instance where this is something that is not generally recognized, that there are heartbreakingly large number of ways that pregnancy can go wrong. In general, we think of pregnancy as a positive thing. Socially, people are excited about it. And we think of it as resulting in babies and family growth. But in actuality, there are a number of ways, a huge number of ways that can go wrong. And I was really interested in understanding what the patient experience is, what they're facing, what they've learn about, and what are the consequences of having a pregnancy in states that have banned abortion, and therefore, taking that tool out of the toolkit of the prenatal care providers, of maternal fetal specialists, of all the people who are supposed to take care of these patients, what happens to the patient then? And so, that's why I joined the study, and what I was interested in.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:40:00",
+      "speaker": "MARTIN",
+      "sentences": "So, Professor Kimport, then the study expanded out. And so, tell me -- or some of the other locations that you looked at, because I understandthat the purpose here was to give people an opportunity to report without jeopardizing themselves professionally or legally, but it as broadly as you can, tell me, who are some of the people you heard from in the study?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:40:00",
+      "speaker": "KIMPORT",
+      "sentences": "Exactly. So, we structured it to be fully anonymous to allow people to submit cases, even when their maybe hospital system wasdiscouraging them from speaking about it and even when they were concerned that maybe they potentially would be at risk of legal or criminalization. What we heard from, is we heard from doctors and nurses in states that have abortion bans about cases of patients who they took care of where they weren't able to offer the standard of care. And then, we also heard from physicians who were in states that were receiving these patients, right? So, when the patients weren't able to get standard medical care, many times, they would then travel to a state that didn't have an abortion ban in order to receive what they could have received before the Dobbs decision in their own hospital, from their own providers. In our study, thankfully, we didn't get any reports of deaths. That miraculously, all of the patient cases that we heard about resulted in the patient ultimately getting the care they needed. But I think the question is sort of, what -- at what cost? And what we see in these examples is they had to travel, they had to experience the both physical extension of repercussions of the delay in receiving standard medical care and they had to then be away from family and friends. And for some, they had to then fear that what they were doing was illegal, right? So, we have instances of people doing all of these things that they need as basic medical care under an umbrella of fear that what they're doing could result in them needing to go to jail, being fined, and potentially in long- term, physical repercussions.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:40:00",
+      "speaker": "MARTIN",
+      "sentences": "So, Professor Kimport, it's my understanding that you got submissions from about 50 providers across 14 states. Is that about right?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:40:00",
+      "speaker": "KIMPORT",
+      "sentences": "Correct.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:40:00",
+      "speaker": "MARTIN",
+      "sentences": "But I take it you still feel that the findings are important to highlight. You know, why is that? For people who would argue or couldquestion that that's just -- it's not a huge number, given how many practitioners there are and given how many pregnancies there are, what would you say?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:40:00",
+      "speaker": "KIMPORT",
+      "sentences": "I think the simplest way of answering that question to say that we believe this is the tip of the iceberg, right? So, these are the caseswhere somebody observed that a patient did not receive standard medical care, knew enough about our study to then be able to report it, and took the time to complete that form. We can only imagine that there are other cases and, you know, it's hard at this point to estimate what that number would be, but there are going to be plenty of cases where somebody either didn't know about the study or didn't have the time to be able to report it. So, fundamentally, what these cases represent -- and remember, they happened immediately after these legal changes went into effect. And what we are looking at is just a six-month snapshot.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:45:00",
+      "speaker": "MARTIN",
+      "sentences": "So, Professor Kimport, I was interested in the fact that many of these physicians were going out of their way to coordinate with colleaguescould potential -- some of them hundreds of miles away. I was wondering whether that affected their ability to care for people with \"more routine medical concerns.\" Like I'm just mindful of the fact that the maternal mortality rate in the United States is very high for a country as affluent as it is. And in fact, it ranks among one of the highest for a country as wealthy as the United States is and particularly among certain groups. I mean, black women, for example, have a higher far higher rate of maternal mortality than other groups do, and I just wondered if that was part of this discussion.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:45:00",
+      "speaker": "KIMPORT",
+      "sentences": "You're absolutely right. I mean, the United States has a crisis of maternal mortality, and it is particularly devastating for black and brownwomen. And it's worth noting, this is across the United States, but there's also specifics of states with even higher maternal mortality rates. So, these are women who were dying in childbirth or within a short period of time after giving birth. And it's even more devastating in many of the states that have enacted these abortion bans, right? So, these abortion bans are layered on top of a maternal mortality crisis. The people who rode in and shared their cases in our study describes going to extreme lengths, spending a huge amount of time and resources, and it is -- it absolutely follows that that meant that they are taking away time and their effort toward other patients. The other piece that's important to underscore about the effort that these physicians were taking on behalf of their patients to ensure they could get the standard of care is that many of them were relying on their personal social networks. They were contacting their colleagues and friends in other states that didn't have abortion bans. And so, what that means from a patient perspective is that your care and your ability to have standard medical care may actually depend on the social networks of your physician, right? This is something that, suddenly now, whether or not you are able to have standard of care depends on who your physician is friends with.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:45:00",
+      "speaker": "MARTIN",
+      "sentences": "Dr. Grossman, did the clinicians talk at all about the toll on themselves? Like did they talk about wanting to leave medicine, forexample? Did any of them talk about fear of criminal prosecution? Did they ever talk about the toll on themselves in the course of the study? DR. GROSSMAN: They did. You know, these laws are -- it's very scary. There's a risk that they could go to jail. And in some of these narratives, they talk about that fear, and at the same time, the moral distress that they were experiencing because they felt like their hands were tied, that they had been trained for so long to provide high quality medical care, and now, they were unable to do that. And they had to watch their patients essentially suffer or figure out a way to get them care in another state.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:45:00",
+      "speaker": "KIMPORT",
+      "sentences": "One of the things that we saw too, while not that many reported that they are intending to leave medicine altogether, there were severalwho said that they are planning to relocate. So, they were planning to move to a state that wouldn't tie their hands. And then, there were others who were committed to their community and their patients and had no intention to leave but said that they would discourage a future resident physician or a nurse from moving to the area and starting a practice. So, I think we are going to see -- maybe not immediately, but down the line, we're going to start to see a shift in the workforce, and that's going to have even more consequences for patient care.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:45:00",
+      "speaker": "MARTIN",
+      "sentences": "And here's where I have to ask both of you a question that clearly there are medical providers who do think and -- or pharmacists, otherproviders who do agree that abortion should be illegal and -- or at least, illegal in many cases. And so, I'm going to ask each of you, did any of your respondents take that view? DR. GROSSMAN: No.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:50:00",
+      "speaker": "MARTIN",
+      "sentences": "There are clearly significant numbers of people in the country, including some medical practitioners who do believe that abortion is wrong,it should not be permitted. And so, I'm going to ask you that there are those who would say that you found what you are looking for, how do you respond to that?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:50:00",
+      "speaker": "KIMPORT",
+      "sentences": "I think that a lot of these findings illustrate is the disconnect between how we think in a public setting and often in -- among politiciansand legislation how we think and define abortion is and then, what it actually means in a medical setting, and the disconnect between this idea of law and on the ground medical care. And so, this idea in law and often in our public discussion about abortion is that there is some sort of black and white setting, right, that we can say this is an abortion and this is not. And what we get into in actual medical care is a lot more gray and it becomes a lot more difficult to draw a really firm line. And what we see, in this study, is that over and over again, when people try to draw a line through the law, what ended up happening is that patients got sicker, patients were denied the care that they needed, that their physicians, their doctors and nurses knew was the best care. There really is no bright line where you can just segment off abortion and say that this is never necessary or isn't a part of reproductive health care. And instead, what we find is that abortion and the procedures related to abortion are fundamentally important tools in keeping patients safe. And doing things like ensuring their future fertility, ensuring that they have a reduced risk of complications and reduced risk of mortality. DR. GROSSMAN: I certainly recognize that people have different belief systems and may feel differently about abortion bans, and these laws restricting abortion. But I just want people to know that these laws are having an additional effect. They're causing real harm to the very pregnant women that I think we all care about and want to protect. And it just feels really important to me now to share this information about the harms that we are seeing so that people are aware of this as they're having discussion and thinking about what kinds of laws and policies they want in their state. You know, clinicians, like myself, we just want to provide the best high- quality care that we can to patients, and that's no longer possible in some of these states. And I really want people to hear about this, to learn about this and be as concerned as I am.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:50:00",
+      "speaker": "MARTIN",
+      "sentences": "And, Professor Kimport, a final thought from you, what is it that you hope that people will take away from this study, other studies like it,and this conversation?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:50:00",
+      "speaker": "KIMPORT",
+      "sentences": "I hope that it helps the conversation recognize the way that these abortion bans are really creating dangerous situations for pregnantpatients. And that it means that they are being denied standard medical care, and I think that was never a way that people talked about abortion bans or understood what their effects could be, but it's what we are seeing and it needs to be part of the conversation.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:50:00",
+      "speaker": "MARTIN",
+      "sentences": "Professor Katrina Kimport, Dr. Daniel Grossman, thank you both so much for talking to us about this.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:50:00",
+      "speaker": "KIMPORT",
+      "sentences": "Thank you so much for having me.DR. GROSSMAN: Thank you very much. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:50:00",
+      "speaker": "AMANPOUR",
+      "sentences": "An important conversation, of course. And finally, tonight, a moment to reflect on the legacy of Tina Turner in the music and beyond. Thefamous woman who spoke out early and allowed generations of other women to find their voice, because before she was the queen of rock and roll, Tina Turner was an early advocate for victims of domestic abuse. Speaking out about the violence she said she faced from her husband and former musical partner Ike Turner. Later, she told CNN why she went public with her own story. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:50:00",
+      "speaker": "TINA TURNER, SINGER",
+      "sentences": "I didn't not know what would happen at that point because it had kind of died down and the divorce was final. And my life waskind of getting back on the road and I didn't know what would happen. I didn't know what kind of mess it would stir. So, I had to really take a deep breath and make a decision. I felt somehow let -- getting it out, I guess think it was instinct that I felt that getting it out would be not suppressing it anymore and letting the world really know. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

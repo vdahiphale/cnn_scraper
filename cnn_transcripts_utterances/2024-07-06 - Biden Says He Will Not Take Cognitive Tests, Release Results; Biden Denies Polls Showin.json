@@ -1,0 +1,523 @@
+{
+  "date": "2024-07-06",
+  "headline": "CNN This Morning",
+  "subHeadline": "Biden Says He Will Not Take Cognitive Tests, Release Results; Biden Denies Polls Showing Him Losing To Trump; Project 2025 Lays Out Conservative Wish List In A Trump Presidency; Hurricane Watches Posted For Texas Coast; Iranian Voter Shares Hopes For Life Under A New President; Biden Denies Extensive Polling Showing Him Trailing In Race; United States Adds 206K Jobs In June, Unemployment Rate Hits 4.1 Percent; Canada Wins Penalty Shootout To Reach COPA Semifinal. Aired 7-8a ET",
+  "utterances": [
+    {
+      "timeStamp": "07:00:56",
+      "speaker": "VICTOR BLACKWELL, CNN ANCHOR",
+      "sentences": "Good morning and welcome to CNN THIS MORNING. It is Saturday, July 6th. I'm Victor Blackwell.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:56",
+      "speaker": "VERONICA MIRACLE, CNN ANCHOR",
+      "sentences": "And I'm Veronica Miracle in for Amara Walker. Here's what we're working on for you this morning.(BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:56",
+      "speaker": "GEORGE STEPHANOPOULOS, ABC HOST",
+      "sentences": "But it seemed like you were having trouble from the first question in, even before he spoke?JOE BIDEN, U.S. PRESIDENT: Well, I just had a bad night. You guys did bad interviews once in a while. I can't remember any, I'm sure you do.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:56",
+      "speaker": "STEPHANOPOULOS",
+      "sentences": "I've had plenty.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:56",
+      "speaker": "MIRACLE",
+      "sentences": "A defiant President Biden vows to stay in and win the 2024 presidential race. What he says about the growing calls from within his own party to drop out, whether he'll take a cognitive test and release those results to Americans, and the question that he refused to answer during a make or break interview, that's coming up ahead.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:56",
+      "speaker": "BLACKWELL",
+      "sentences": "And hurricane watches are posted for 350 miles of the Texas coastline. Now, tropical storm, Beryl, is inching closer. Meteorologist Elisa Raffa is timing out these threats that's coming up.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:56",
+      "speaker": "MIRACLE",
+      "sentences": "So, a bad night, not a bigger problem. That's President Biden's takeaway from his performance at CNN's debate last month. He sat down with ABC News' George Stephanopoulos last night in a high- stakes televised interview, his first since the debate. In addition to saying that Trump shouting over his muted mic distracted him, the president also said he wasn't feeling well.(BEGIN VIDEO CLIP) BIDEN: I was sick. I was feeling terrible. As a matter of fact, the docs with me, I asked if they did a COVID test, trying to figure out what's wrong. They did a test to see whether or not I had some infection, you know, a virus. I didn't. I just had a really bad cold. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:56",
+      "speaker": "BLACKWELL",
+      "sentences": "When he was asked about the president's health in the wake of the debate, White House Press Secretary Karine Jean-Pierre, I should say, she's there, she initially said the president had not had any medical exams since his physical in February. Now, in the interview, the president also pushed back on any concerns about his cognitive health.(BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:56",
+      "speaker": "STEPHANOPOULOS",
+      "sentences": "People have been watching, yet their concerns about your age and your health are growing, so that's why I'm asking, to reassure them, would you be willing to have the independent medical evaluation?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:56",
+      "speaker": "BIDEN",
+      "sentences": "Watch me be treated. There's a lot of time left in this campaign. It's over 125 days.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:56",
+      "speaker": "STEPHANOPOULOS",
+      "sentences": "So, the answer right now is no, you don't want to do that.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:56",
+      "speaker": "BIDEN",
+      "sentences": "No, I've already done it.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:56",
+      "speaker": "BLACKWELL",
+      "sentences": "As for the polls showing that he's falling behind, the president says most polls show that the race is a toss-up.(BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:56",
+      "speaker": "STEPHANOPOULOS",
+      "sentences": "Do you really believe you're not behind right now?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:56",
+      "speaker": "BIDEN",
+      "sentences": "I think all the pollsters I talk to tell me it's a toss-up. It's a toss-up. And when I'm behind, there's only one poll I'm really far behind. CBS poll and NBC. I mean, excuse me --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:56",
+      "speaker": "STEPHANOPOULOS",
+      "sentences": "The New York Times and NBC both have you about six points behind in the popular vote.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:56",
+      "speaker": "BIDEN",
+      "sentences": "That's exactly right. New York Times had me behind before anything happened to do with this race. Had me behind, behind ten points. Ten points had me behind. Nothing's changed substantially in the New York Times poll.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:56",
+      "speaker": "STEPHANOPOULOS",
+      "sentences": "When you look at the reality though, Mr. President, I mean, you won the popular vote in 2020, but it was still deadly close in the electoral college.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:56",
+      "speaker": "BIDEN",
+      "sentences": "I said you won votes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:56",
+      "speaker": "STEPHANOPOULOS",
+      "sentences": "Yes, but you're behind now in the popular vote.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:56",
+      "speaker": "BIDEN",
+      "sentences": "I don't buy that.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:56",
+      "speaker": "STEPHANOPOULOS",
+      "sentences": "Is it worth the risk?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:56",
+      "speaker": "BIDEN",
+      "sentences": "I don't think anybody's more qualified to be president or win this race than me.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:56",
+      "speaker": "MIRACLE",
+      "sentences": "Well, regardless of analysts takeaways from that interview, the Biden campaign considers it a success. They used it for a massive fundraising push shortly after it aired. And with us now to break all of this down, CNN's Priscilla Alvarez in Washington, D.C. Priscilla, how is the mood really within the Biden campaign?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:05:13",
+      "speaker": "BIDEN",
+      "sentences": "Everyone of them, they all said I should stay in the race, stay in the race. No one said, none of the people said I should leave.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:05:13",
+      "speaker": "STEPHANOPOULOS",
+      "sentences": "But if they do?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:05:13",
+      "speaker": "BIDEN",
+      "sentences": "Well, it's like, I'm not going to do that.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:05:13",
+      "speaker": "STEPHANOPOULOS",
+      "sentences": "You sure? BIDENget out of the race, I'd get out of the race. The Lord Almighty is not coming down. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:05:13",
+      "speaker": "ALVAREZ",
+      "sentences": "Now again, the thinking within the Biden campaign is that this interview accomplished what they hoped it would, that the debate was a fluke, that the president still has the vigor to take on this election year and take on Donald Trump.Now of course, this also is paired with that Wisconsin rally. He again targeted the former president, and also talked about his record, his accomplishments, even in showing in his age. So, of course, everyone recognizes that it's not just about what happened yesterday, it's about what happens over the next several days. And the president is scheduled to go to Battleground Pennsylvania tomorrow. He'll also have the NATO summit next week where he'll be meeting with foreign leaders and engage in a press conference. And then, his campaign says he will have a \"aggressive travel\" schedule in July, including a visit to Battleground Nevada. So, there is still a lot to come. So far, some Democrats remain unconvinced. Others are standing by him. But certainly, the president himself says he's staying in the race.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:05:13",
+      "speaker": "BLACKWELL",
+      "sentences": "All right, Priscilla Alvarez, thanks so much. With me now is Reese Gorman, a Political Reporter for Notice. Reese, good morning to you. Does it appear that this was enough to stop any of the deflation among the elected Democrats in Washington?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:05:13",
+      "speaker": "REESE GORMAN, POLITICS REPORTER, NOTUS",
+      "sentences": "Good morning, and no, it was not really, it was not enough. So, after the interview kind of aired yesterday, me and some of my colleagues spent the next couple, 30 minutes to an hour talking to Democrats, trying to figure out where they stood on this. And it did not ease concerns.I mean, if the success was to not have a kind of a debacle like Biden had at the debate, then I guess that he did do that. He was not as bad as what we saw during the debate. But Democrats, their fears are not eased. There are still concerns and significant concerns. And so, this did not do that much to kind of ease these kinds of concerns that we've been seeing Democrats have throughout the debate.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:05:13",
+      "speaker": "BLACKWELL",
+      "sentences": "Let me ask you about this virtual call that's happening, a virtual meeting that's happening tomorrow. House Minority Leader Hakeem Jeffries is meeting with senior Democrats about a path forward here. Is this a listening session? Is he trying to stop the splintering? What's the goal of this meeting?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:05:13",
+      "speaker": "GORMAN",
+      "sentences": "So, it sounds like this is kind of a listening session right now. It sounds like Leader Jeffries really kind of wants to get to the bottom of what is caucus is feeling, where they stand. And these, if you, these are the kind of people in the Democratic Party that would actually have an effect on Joe Biden. Now, this one, these people will not necessarily have the final effector the final say, but they will kind of add significant more pressure than what we have been seeing with kind of more rank and file members. These are your, in this meeting will be the ranking members, senior Democrats, these people that actually have some sway, they've been in the House for a while, and they have quite a bit of power. And so, I think this kind of meeting is something that you should watch, because these are the people that have, would have a significant effect on Biden.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:05:13",
+      "speaker": "BLACKWELL",
+      "sentences": "Listen to the president last night on potential down ballot implications of his staying in the race.(BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:05:13",
+      "speaker": "STEPHANOPOULOS",
+      "sentences": "If you are told reliably from your allies, from your friends and supporters in the Democratic Party, in the House and the Senate, that they're concerned you're going to lose the House and the Senate if you stay in. What will you do?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:10:04",
+      "speaker": "BLACKWELL",
+      "sentences": "He won't answer it. He won't answer it. You have some reporting for notice about how Republicans are going to use the debate to performance, this lack of Democratic confidence in their strategy for November. Explain what you find.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:10:04",
+      "speaker": "GORMAN",
+      "sentences": "Yes, and so Republicans are going to nail home on this. They see Biden's polls numbers dropping. They see them and some of these Democrats are running significantly above Biden. So, they're going to try to tie Biden to all of these vulnerable candidates. And that's what they're doing already. You've already seen some vulnerable Democrats, whether it's (INAUDIBLE) out of Washington, Jared Golden in Maine, come out and say, Trump's going to win.We're OK with that. That's going to happen. That's their way of distancing themselves from Biden because they are so vulnerable. Republicans are salivating right now at the idea of this kind of happening. Republicans are telling us, I've heard from many of them, that this is something that they have wanted. They have wanted, they've been trying to do this forever, but no one would believe. There's -- they're ridiculed for posting these videos online. People call them \"cheap fakes\", and now it happened right before the Americans' people's eyes on the debate stage, they're going to use this to tie basically almost all vulnerable Democrats directly to Joe Biden.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:10:04",
+      "speaker": "BLACKWELL",
+      "sentences": "Let's turn to former President Trump now, and he is attempting to distance himself from Project 2025, this really long plan from the Heritage Foundation, many things in there, cracking down on immigration, making it easier to fire these career civil servants, several other things. How credible is that considering the head of this project worked in his administration, his former HUD secretary, offered some information to the report, former deputy chief of staff, acting HHS or Homeland Security secretary. Is there real daylight or is this just the president trying to distance himself from something that may be unpopular with independents?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:10:04",
+      "speaker": "GORMAN",
+      "sentences": "So, it is hard to kind of think that there is real daylight just based solely on the fact that so many people close to the former president are working on this kind of plan, Project 25, they're a part of it -- as you mentioned, Ben Carson, Stephen Miller, just to name a few. And so, it is kind of difficult to see the daylight, but as far as concerns like Trump's personal involvement in this plan, there really has not been that much.It's not like he had a say in crafting this plan. And this was solely kind of these people, this kind of offset of Trump allies that created this plan. And so, as far as Trump creating it, there is a lot of daylight, but he is trying to distance himself quite heavily because of some controversial things that have happened with this. But it would be Heritage Foundation president saying, currently America is in the midst of a second revolutionary war -- or I mean, some of these stances on abortion within this plan go contrary to Trump's stance on abortion. And so, there is some daylight there and they're trying to separate that. And also, the thing that I reported yesterday with my colleague was that what really kind of made the Trump campaign upset was that this group of people were going around kind of promising cabinet and sub-cabinet level positions to certain people that they \"had no business there\" or offering these too. And that is solely a Trump, Trump can only offer those. And so, that really made him mad and that's kind of what brought about this disavowal.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:10:04",
+      "speaker": "BLACKWELL",
+      "sentences": "Yes, the rest of that statement from that leader of heritage was that the U.S. is in a second revolution and it will be bloodless if the left will allow it to be, which of course got a lot of attention. Reese Gorman with Notice, thank you so much.Let's turn now to the weather. And we are following breaking news out of Texas this morning. Millions of people on alert from the Brownsville area to the Houston area. Tropical Storm Beryl is getting closer.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:10:04",
+      "speaker": "MIRACLE",
+      "sentences": "CNN Meteorologist Elisa Raffa, you've been tracking it all. We've got extreme heat on one side of the country, you have the tropical storm on the other side of the country, a very busy summer.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:15:09",
+      "speaker": "BLACKWELL",
+      "sentences": "A lot to watch. Elisa Raffa, thank you. Still to come, a reformer, is the new president of Iran. Hear his message to Iranian citizens as voters weigh in on the election.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:20:32",
+      "speaker": "BLACKWELL",
+      "sentences": "New this morning, Iranian voters have elected a new president, reformist lawmaker Masoud Pezeshkian. He defeated ultra- conservative hardliner Saeed Jalili by almost three million votes. This was after a runoff.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:20:32",
+      "speaker": "MIRACLE",
+      "sentences": "Pezeshkian was the only moderate candidate allowed to run after Iran's Guardian Council banned dozens of others from even entering the race. The council has to certify the vote before Pezeshkian can take office. He's now calling for unity and support after his victory was announced just a few hours ago.CNN's Frederik Pleitgen is live in Berlin with more. And Fred, what's the reaction inside Iran to this result?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:20:32",
+      "speaker": "FREDERIK PLEITGEN, CNN CORRESPONDENT",
+      "sentences": "Hi there, Veronica. Well, first of all, I think a lot of people were quite surprised that he managed to come this far. One of the things that we heard in the first round of voting when we were actually on the ground in Iran is a lot of people thought that voter turnout needed to be really high for Pezeshkian to even have a chance to make it into the runoff, that he has now won.Well, it was really low, and yet he pulled off winning in the first round and has now pulled off winning in the second round as well. So, certainly, there are a lot of people who want a more moderate strain of politics from the candidate and from the president-elect Masoud Pezeshkian. It's quite interesting when you spoke to the voters about the issues that really interest them. Of course, a lot of it is possible social reforms but a lot of it is also about the economy and the sanctions that Iran is under. I want to listen to what some of what voters had to say after the victory of Pezeshkian was announced. Let's listen in. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:20:32",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "That prices stay still and girls and people can easily walk in the street without being anxious about anyone picking on them. That things like this do not happen. Honestly speaking, I just hope the expensiveness decreases and jobs are easily found for young people. And that's it. I do not have any other special feelings. I'm happy that Mr. Pezeshkian was elected.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:20:32",
+      "speaker": "PLEITGEN",
+      "sentences": "So, there you have that prices don't increase, inflation has been a huge issue in Iran. One of the other things that voter was talking about as well is of course youth unemployment which is also a big issue. It's quite interesting because the Supreme Leader of Iran, Ayatollah Ali Khomeini, he's already come out earlier today and also congratulated Masoud Pezeshkian and also told him that one of the things to really watch out for is to try and get jobs, especially for younger people, for the youth in Iran.Now, the president in Iran does have a considerable amount of power as far as domestic affairs are concerned, but in international affairs, we're talking, for instance, about relations with the U.S. and other countries, there are, of course, some major powerful other entities that he'll have to deal with, the supreme leader, of course, having to sign off on anything that happens in Iran, but then also the powerful military, especially the Islamic Revolutionary Guard Corps. So, that could be an uphill battle. But one of the things that voters appear to have told Pezeshkian by voting him into office is that they want better relations with countries, especially in the Middle Eastern region, to try and get some of those very crippling sanctions lifted off Iran's economy. Veronica.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:20:32",
+      "speaker": "MIRACLE",
+      "sentences": "Frederik Pleitgen, live from Berlin, thank you for that reporting.Still to come, Americans are headed home after celebrating the long Fourth of July holiday. Find out just how many people are expected to travel tomorrow. And more on Joe Biden's first TV interview following his disastrous debate performance. We're going to speak with a presidential historian about this moment in American history. Andy.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:28:39",
+      "speaker": "BLACKWELL",
+      "sentences": "Headlines for you now, a long Fourth of July holiday weekend could lead to record-breaking travel numbers tomorrow. The TSA expects to screen more than three million air travelers on Sunday, and that would make it the busiest travel day of the summer yet. AAA projects more than 60 million people expected to hit the roads on Sunday. That's up two million from last year.This morning, reports of another shark attack at a Florida beach. A 26-year-old man was bitten by a shark off New Smyrna Beach since Friday. Just a day after, another man was bitten at the same beach and in South Padre Island, Texas. Four people encountered a shark in shallow waters on July 4th. Two of them were bitten. You can see the shark right here. All the victims who were bitten were taken to hospitals for non-life-threatening injuries. They're expected to recover.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:28:39",
+      "speaker": "MIRACLE",
+      "sentences": "Well, the president for President Biden to give up his re- election bid and step aside in the wake of the debate continues to mount. In last night's interview with ABC News, he was asked about supporters' fears that he cannot defeat former President Donald Trump.(BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:28:39",
+      "speaker": "BIDEN",
+      "sentences": "Have you ever seen a group at a time when elected officials running for office aren't a little worried? Have you ever seen that? I've not. Same thing happened in 2020. Oh, Biden, I don't know man, what's he going to do? He may bring me down.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:28:39",
+      "speaker": "MIRACLE",
+      "sentences": "Joining me now to discuss the pressure for Biden to drop out of the race is CNN presidential historian and former director of The Nixon Presidential Library, Tim Naftali. Good morning, Tim.(CROSSTALK)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:28:39",
+      "speaker": "TIM NAFTALI, CNN PRESIDENTIAL HISTORIAN",
+      "sentences": "Good morning, Veronica.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:28:39",
+      "speaker": "MIRACLE",
+      "sentences": "Do you think that all of this effort by the Biden campaign to change the mind of voters will wipe away their thoughts about his debate performance?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:28:39",
+      "speaker": "NAFTALI",
+      "sentences": "Well, the president understands, as a -- as a 50-year veteran of politics, he understands the importance of momentum, both positive momentum and negative momentum. The president is trying -- clearly, trying to outlast the negative momentum from his disastrous debate performance.He is counting on the fact that the polls will stabilize and Democrats will understand there is no other place to go. He has the votes necessary to formally be nominated, and Democrats will allow him to stay the course. Basically, he said last night, the Democrats, trust me, I'm OK.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:28:39",
+      "speaker": "MIRACLE",
+      "sentences": "Well, it appears that Democrats feel there is another place to go.A new CNN poll shows Vice President Kamala Harris is actually outperforming President Biden in a head-to-head matchup with former President Trump. Take a look at this. So, he -- so, in a Trump versus Biden matchup, Trump leads with 49 percent support of voters, and Biden has 43 percent support from registered voters. But in a Trump versus Harris matchup, Trump still leads, but with 47 percent support from registered voter. Harris has 45 percent support from voters. That's two percentage points higher than President Biden. So, this situation keeps getting described as unprecedented. (CROSSTALK)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:28:39",
+      "speaker": "NAFTALI",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:28:39",
+      "speaker": "MIRACLE",
+      "sentences": "Is there something President Biden or any president, could come back from? Could he come back from this?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:28:39",
+      "speaker": "NAFTALI",
+      "sentences": "Well, yes, historically, presidents, in some cases are have very low approval ratings about a year before an election. Both Ronald Reagan and Bill Clinton had very low approval ratings a year before -- well, in Reagan's case, a year before he sought real reelection.In Clinton's case, he had three years to recover from that. Both of them were really -- had low approval ratings because of a recession, a very deep recession. The problem for President Biden right now is that he is the reason that his poll numbers are so low. It's concerned about his ability to govern. It's not because we've had -- we are in a deep economic recession, or there is an unpopular war, he is the issue. And polls like the one you just described, the CNN poll, that indicates that for some Democrats, changing the person at the top of the ticket could help the team, could help the party. If these polls continue in this direction, particularly internal polls, polling by the Democrats, you -- we will see increasing pressure on the president to change his mind. Now, he did not leave himself a dignified out last night. He made it clear that only, as he said, God Almighty could encourage him or persuade him to leave the race. Nevertheless, if the polls continue in the same direction, and if it becomes clear that Vice President Harris has a much better chance of defeating Donald Trump, then the president, there will be more pressure on him, mainly behind the scenes, but also publicly, to change his mind before everything is set at the July convention,",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:28:39",
+      "speaker": "MIRACLE",
+      "sentences": "Yes, he is tripling down, essentially, as you said.How do you think history will judge President Biden for all of his relentless just not giving in, not giving up. At one point, is he putting himself over country?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:00",
+      "speaker": "MIRACLE",
+      "sentences": "All right. Tim Naftali, thank you so much for your insight.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:42",
+      "speaker": "BLACKWELL",
+      "sentences": "New data shows job growth in the U.S. cooled down in June, just a little bit, but the job market stayed strong. U.S. economy added 206,000 jobs. The unemployment rate went up slightly to 4.1 percent. MIRACLE",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:42",
+      "speaker": "PAULA NEWTON, CNN INTERNATIONAL CORRESPONDENT",
+      "sentences": "Victor, Veronica, you know what, this jobs report actually was a very good signal for the entire economy. It was a good in many ways, July 4th report, right?It didn't have the fireworks necessarily, but certainly was a robust jobs report that every American should be looking at right now. And being thankful, because, look, this is a historic run of job creation. If we go to the June numbers, 206,000 jobs created. That's a little bit less than May, but still incredibly strong. Also important, though, is 4.1 percent unemployment rate. But in a way, that is good news, because it offers the Fed some room to maneuver here in being convinced that the job market and inflation either are not too hot, which gives them some wiggle room to lower interest rates. I want you to listen now to Fed chair Jerome Powell. This was before this jobs report came out. But I want you to listen to him and what he says about how important these jobs numbers are. Listen. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:42",
+      "speaker": "JEROME POWELL, CHAIRMAN, FEDERAL RESERVE",
+      "sentences": "The labor market is, you know, cooling off appropriately so, and we're watching it very carefully, but it doesn't look like that's -- it doesn't look like it's heating up or presenting a big problem for inflation going forward. Indeed, it looks like it's doing just what you would want it to do, which is to cool off over time, not quickly, not suddenly, not steeply. It's kind of what we've been hoping to see, and have been seeing.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:42",
+      "speaker": "NEWTON",
+      "sentences": "So, clearly, Powell, they are happy with what he is seeing in the labor market. It's not too hot, it's not too cold. It seems to be a good balance for both employers and job seekers, and that may mean that we will get that quarter point interest cut in September. Not in July. Maybe when some people want to see it, but at least September, and maybe another to go in December.That's what the economists are banking on right now, and that means lower interest rates on mortgages, car loans, credit cards, all a bit of relief for the consumers, who are already, thankfully getting a bit of a relief from inflation as well. Victor, Veronica?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:47:43",
+      "speaker": "BLACKWELL",
+      "sentences": "Canada, now just one win away from the Copa America final after a thrilling penalty shootout.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:47:43",
+      "speaker": "ANDY SCHOLES, CNN SPORTS ANCHOR",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:47:43",
+      "speaker": "MIRACLE",
+      "sentences": "Andy Scholes joins us now with more. This is surprising.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:05",
+      "speaker": "BLACKWELL",
+      "sentences": "I don't blame the umps.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:05",
+      "speaker": "SCHOLES",
+      "sentences": "Yes, yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:05",
+      "speaker": "BLACKWELL",
+      "sentences": "Because who would think that you lose it from one and grab it with the other? All right, Andy.(CROSSTALK)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:05",
+      "speaker": "SCHOLES",
+      "sentences": "No. Watch it live, it certainly looked like it hit the wall, though.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:05",
+      "speaker": "BLACKWELL",
+      "sentences": "Andy, thanks.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:05",
+      "speaker": "SCHOLES",
+      "sentences": "OK.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:05",
+      "speaker": "BLACKWELL",
+      "sentences": "All right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:05",
+      "speaker": "MIRACLE",
+      "sentences": "All right. Well, one0-third of shark species are facing extinction. Overfishing is the biggest cause, but pollution is also a major threat. The nonprofit PADI Aware is trying to fix that with its Dive Against Debris program, in today's \"IMPACT YOUR WORLD\".(BEGIN VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:05",
+      "speaker": "JACK FISHMAN, COMMUNITY CONSERVATION OFFICER, PADI AWARE FOUNDATION",
+      "sentences": "Dive Against Debris is a citizen science monitoring program, where scuba divers can remove marine debris that they find on the sea floor.And as divers, we can quickly see what is not actually supposed to belong underwater, from plastic to metal to all sorts of things that we may find underneath the waves. As plastic enters the marine environment, it breaks down over the course of time, and so, when small organisms eat that, it starts with the next level of fish, all the way up to the top of the food chain, with sharks. The most commonly found item across the world by scuba divers is plastic fishing line. And that can create a tearing effect, it can create abrasions, where it moves and starts to hurt sensitive marine organisms such as corals, and animals can find themselves entangled. Once the debris has been safely removed underwater, we sort it, we record it, and then we report it to our database. Over the past 10 years of recording data, we've actually moved more than 2.3 million pieces of marine debris around the world. When divers remove this, they are not only making the marine life underwater safer, governments can use that information to create new policies that might prevent the spread of marine debris, especially plastics, in their local community. As scuba divers, we are ocean optimists. We should not feel discouraged by the immensity of everything that's going on. But rather, we can take one small action at a time, and we can make a big difference. (END VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:57:27",
+      "speaker": "MIRACLE",
+      "sentences": "Soaring temperatures across the western U.S. are causing discomfort, danger, even deaths.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:57:27",
+      "speaker": "BLACKWELL",
+      "sentences": "The heat is also increasing the threat and intensity of dozens of wildfires burning in the West. CNN's Natasha Chen reports from Los Angeles.(BEGIN VIDEOTAPE) NATASHA CHEN, CNN NATIONAL CORRESPONDENT (voice over): The West Coast is racing toward dangerous record breaking heat this weekend.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:57:27",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "So, it's hot and we have to stay cool.CHEN (voice over): It's about 100 degrees at this pool in Northern Los Angeles County where people are waiting in line to cool off.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:57:27",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "We got here, like at 10",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:57:27",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "I've got water here and I'm freezing the Otter Pops. We're literally trying to keep people alive.CHEN (voice-over): A 69-year-old man living on the streets has died due to extreme heat in San Jose, California.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:57:27",
+      "speaker": "MATT MAHAN, MAYOR OF SAN JOSE, CALIFORNIA",
+      "sentences": "I want everybody in our community to be safe, and not all deaths are preventable. This one was.CHEN (voice over): In Arizona, a 10-year-old boy died from a heat related emergency while on a hike. The heat is also stoking dangerous wildfires. Near Yosemite National Park the fringe fire erupted on July 4th, prompting mandatory evacuations for more than a thousand residents. Evacuations are also underway in Central Washington state, where fire officials say fireworks sparked a Friday morning blaze.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:57:27",
+      "speaker": "JANELLE KINSKI, OPENED BUSINESS TO EVACUEES",
+      "sentences": "We were extremely anxious that night because we could see the fire out here coming over the ridge.CHEN (voice over): The Thompson Fire north of Sacramento is now almost half contained.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:57:27",
+      "speaker": "TIM RICHER, ASSISTANT CHIEF, CAL FIRE",
+      "sentences": "Down here in Branch 15, every resident outside of the fire perimeter has been repopulated.CHEN (voice over): But the speed of flames initially rushing through was terrifying.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:57:27",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "We've seen the fire coming from the west, and it was coming fast.",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

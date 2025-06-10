@@ -1,0 +1,397 @@
+{
+  "date": "2023-03-14",
+  "headline": "CNN This Morning",
+  "subHeadline": "Biden Administration Guarantees Deposits for Silicon Valley Bank after Its Failure; Severe Weather Impacting Northeastern United States; Parts of California Undergo Flooding Caused by Ongoing Atmospheric Rivers. Aired 8-8:30a ET",
+  "utterances": [
+    {
+      "timeStamp": "08:00:00",
+      "speaker": "GABE COHEN, CNN CORRESPONDENT",
+      "sentences": "In many cases caused by inflation, housing costs, all of these really, really big costs right now.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:00:00",
+      "speaker": "POPPY HARLOW, CNN ANCHOR",
+      "sentences": "Yes, isolation, loneliness. What do you do, right, when you're feeling down? You call mom or dad.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:00:00",
+      "speaker": "COHEN",
+      "sentences": "Mom and dad, yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:00:00",
+      "speaker": "HARLOW",
+      "sentences": "Gabe, that was great. Thank you.CNN THIS MORNING continues right now. (BEGIN VIDEO CLIP) JOE BIDEN, (D) PRESIDENT OF THE UNITED STATES:  All customers who had to deposits in these banks can rest assured, rest assured they will be protected, and they will have access to their money.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:00:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "We have an obligation with payroll. We have an electrical business, and we have to meet payroll this afternoon. So that's why I am here.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:00:00",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "Everything is insured. So we are not worried.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:00:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "I'm walking out with what I wanted. I'm going to collect my share and go home.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:00:00",
+      "speaker": "DON LEMON, CNN ANCHOR",
+      "sentences": "Wow.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:00:00",
+      "speaker": "HARLOW",
+      "sentences": "Yes, wow, right?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:00:00",
+      "speaker": "LEMON",
+      "sentences": "It's a full-on bank run. These are old-school bank runs.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:00:00",
+      "speaker": "HARLOW",
+      "sentences": "I know. Let's not scare people.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:00:00",
+      "speaker": "LEMON",
+      "sentences": "No, but I'm saying what we're seeing.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:00:00",
+      "speaker": "HARLOW",
+      "sentences": "Yes, at a few banks.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:00:00",
+      "speaker": "LEMON",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:00:00",
+      "speaker": "HARLOW",
+      "sentences": "And let's hope it's not more.Good morning, everyone. It is the top of the hour. We're glad you are with us. Customers getting their money back after the stunning collapse of Silicon Valley Bank. Concern is now growing, though, as Don was indicating, for other regional, smaller banks across the nation. Their stocks are tanking. How much danger are they really in? Investment banker, former treasury official Roger Altman is here to join us and weigh in.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:00:00",
+      "speaker": "LEMON",
+      "sentences": "And a massive winter storm slamming the northeast as we speak right now with powerful winds and up to two feet of snow. We're going to take you live inside the storm.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:00:00",
+      "speaker": "KAITLAN COLLINS, CNN ANCHOR",
+      "sentences": "Plus, a Texas judge is under the microscope for not wanting to tell the public about a very high stakes abortion rights hearing. We have more on that ahead.But we're going to begin this morning with the growing concern for America's banks. We are watching the fallout spread from the biggest bank failure since the 2008 financial crisis. Stocks of more than two dozen regional banks plummeted yesterday even after President Biden came out and took emergency action to ease the panic. We are closely watching Wall Street this morning to see if they can rebound. The credit ratings firm Moody's has now said these six banks that you see here on the screen are on watch for potential downgrades, citing, quote, \"extremely volatile funding conditions.\" Meanwhile, the Biden administration has been scrambling to contain the situation and prevent other banks from collapsing. Yesterday, Silicon Valley Bank customers, as you can see here, lined up to get their money back after President Biden guaranteed their deposits following that bank's failure. Joining us now for perspective on this is Roger Altman who served as the deputy treasury secretary in the Clinton administration and is also the founder of Evercore, which is an investment banking advisory firm, so the perfect person to be here today, and good morning. I want to get your reaction, though, first to some breaking news that we are getting. Senator Elizabeth Warren is now saying that she believes the Fed Chair Jay Powell should recuse himself from their internal review of the regulation and supervision of SVB. She argues that for it to have any credibility he must publicly and immediately recuse himself because he played a role in this, she says, by boosting their profits by loading up on risk directly contributing to these banks' failures. Do you agree with that?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:00:00",
+      "speaker": "ROGER ALTMAN, FOUNDER AND SENIOR CHAIRMAN, EVERCORE",
+      "sentences": "Senator Warren has made some good points over the past 24 hours, including her main one with which I agree, which is that the rollback of Dodd-Frank regulations, which President Trump and the Congress did four years ago, was a mistake and contributed to this period of very serious instability. I don't think Chairman Powell is personally responsible for any of this, though I don't think he should be forced to recuse himself. But the main point that she has been making, which is a different one than you just cited, I do agree with her on. We need tighter regulation, and the decision four years ago by the president and the Congress to lighten up on it and to roll back Dodd-Frank was a big mistake and had a lot to do with this.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:00:00",
+      "speaker": "COLLINS",
+      "sentences": "That was that rollback in 2018. I should note, I spoke with Gary Cohen. He says he doesn't believe that that was part of this. Do you think this there will be more regulation going forward? What should that look like?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:05:01",
+      "speaker": "COLLINS",
+      "sentences": "Yes, and we know Barney Frank was one of those who was pushing see ease those regulations. Obviously, he joined Signature Bank, which is a part of all this.I want to get your perspective, though, because one thing that I'm hearing from the Treasury Department is this is not bailout in their view. But for regular people it kind of looks like one. What do you think?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:05:01",
+      "speaker": "ALTMAN",
+      "sentences": "Well, the term \"bailout\" is, obviously, a loaded one. And I t's in the eye of the beholder. It's like one person's sees something and thinks it is a catastrophe, another person sees the same thing and things it's a small accident. But the main point here is that the rescues of 2008 and 2009 which we all remember so vividly became ferociously unpopular, one of the most unpopular things that the federal government has done in 50 or 100 years. Many people think they led to the growth of the Tea Party and the growth of the MAGA movement, and so forth. And therefore, the administration today doesn't want to get within 100 miles of that term \"bailout.\"Now, what the authorities did over the weekend was absolutely profound. They guaranteed the deposits, all of them, at Silicon Valley Bank. And what that really means, and they won't say it, and I'll come back to that, what that really means is that they have guaranteed the entire deposit base of the U.S. financial system, the entire deposit base. Why? Because you can't guarantee all the deposits in Silicon Valley Bank and then the next day say to the depositors, say at First Republic, sorry, yours aren't guaranteed. Of course they are. And so this is a breathtaking step which effectively nationalizes or federalizes the deposit base of the U.S. financial system. You can call it a bailout, you can call it something else, but it's really absolutely profound. Now, the authorities, including the White House, are not going to say that, because what I just said of course implies that they have just nationalized the banking system. And technically speaking, they haven't. But in a broad sense, they are verging on that. By the way, the shareholders in Silicon Valley Bank, obviously, lost all their money. And therefore, if you are a shareholder at First Republic or some of the other banks that you showed on your screen a few minutes ago, you are concerned because you saw that at Silicon Valley Bank the shareholders were wiped out. But the depositors at those institutions have nothing to worry about because they have just been guaranteed.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:05:01",
+      "speaker": "COLLINS",
+      "sentences": "It is a remarkable statement to hear you say that you believe the U.S. banking system has been nationalized because of this.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:05:01",
+      "speaker": "ALTMAN",
+      "sentences": "Well, no. I didn't say it has been nationalized. I said they are verging on that because they have guaranteed the entire deposit base. Usually, the term \"nationalization\" means that the government takes over the institution and runs it and the government owns it. That would be the type of nationalization we have seen in many other countries around the world. Obviously, that did not happen here. When you guarantee the entire deposit base, you have put the federal government and the taxpayer in a much different place in terms of protection than we were in a week ago.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:05:01",
+      "speaker": "COLLINS",
+      "sentences": "Yes. It does fundamentally change those aspects of it. Roger Altman, great perspective. Thank you for joining us this morning.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:05:01",
+      "speaker": "ALTMAN",
+      "sentences": "My pleasure. Thanks for having me.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:10:04",
+      "speaker": "DEREK VAN DAM, CNN METEOROLOGIST",
+      "sentences": "Poppy, it was a cold, miserable rain an hour ago. So really what a difference an hour makes. What you are seeing behind me is actually is a salt barn in Worcester, Massachusetts, and this is where they house the salt and brine that treats the roadways across the county within this area. And literally just within this past hour we have gone from a very, very cold rain to very heavy wet snowfall. You can literally see, I could squeeze out droplets of water from this as these dump trucks continue to line the plows with the available salt.Now, the concern going forward for this area is that this -- I am going to step down quickly so my cameraman can follow me, is that this is starting to accumulate so quickly. The National Weather Service saying two to three inches per hour. We are definitely realizing that here. And when you start to combine that with the 50 to 60-mile-per- hour winds that we are expecting, that is when we anticipate power outages to go up. Here are some of the salt trucks right now passing through, again, starting to treat the roadways here. And power outages already topping 100,000 for many customers across New England. We have a ground stop. Let's take you to LaGuardia so you can see what it looks like there. This is because they are busy de-icing the runways and the planes there as the cold air wraps in behind the system and we start to see this transition from what was rain to now these massive snowflakes that are piling up very fast and very furious. Just talking to the local meteorologists here on the ground, and they are concerned about that sharp gradient about who gets the impacts and who doesn't. Boston, your rain likely to stay rain the majority of this event. But you move inland and that's where the snow piles up, up two feet north and west where I am located.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:10:04",
+      "speaker": "HARLOW",
+      "sentences": "Thank you, Derek. Thank you, Derek. We're getting worried about you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:10:04",
+      "speaker": "LEMON",
+      "sentences": "It's scary. Me and Poppy here.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:10:04",
+      "speaker": "HARLOW",
+      "sentences": "Please move to the sidewalk. OK?(LAUGHTER)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:10:04",
+      "speaker": "HARLOW",
+      "sentences": "You are getting -- we are getting nervous with all the cars coming behind you. But great reporting. Thank you to you and your team. Don?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:10:04",
+      "speaker": "VAN DAM",
+      "sentences": "Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:10:04",
+      "speaker": "LEMON",
+      "sentences": "Poppy, we both were a little bit nervous. Maybe the angle, it looks like he is closer. But, I mean, Derek, we want you to be safe.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:10:04",
+      "speaker": "VAN DAM",
+      "sentences": "I'm safe. We're safe. I got a team here looking out for me.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:10:04",
+      "speaker": "LEMON",
+      "sentences": "All right, just we are concerned. Mom and dad here.OK, meantime, joining us now, Worcester city manager Eric Batista. Mr. Manager, good morning to you. Mr. Batista, thank you for joining us.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:10:04",
+      "speaker": "ERIC BATISTA, CITY MANAGER, WORCESTER, MASSACHUSETTS",
+      "sentences": "Good morning. Good morning. Thank you for having me.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:10:04",
+      "speaker": "LEMON",
+      "sentences": "So you've heard the reports. You heard our meteorologists out there. What are your biggest concerns right now for your residents?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:10:04",
+      "speaker": "BATISTA",
+      "sentences": "I think right now the biggest concern for the residents is to make sure they stay home and they stay safe. As Derek mentioned, we have about two to three inches falling every hour. That's what is expected right now. Some of the higher elevations of the city are about three to four inches already. And so we have about 350 units right now out making sure that we are plowing the streets and treating the roads as best as possible.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:10:04",
+      "speaker": "LEMON",
+      "sentences": "So you said to make sure your residents are safe. What are you doing sure to make sure to ensure that?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:10:04",
+      "speaker": "BATISTA",
+      "sentences": "Yes, so we are communicating as much as possible through our social media, social platforms, sending out any information to them. We have the fire department available if any people need assistance. Police officers are available as well. Our inspectional services department for any pipes that might be burst, any of those situations. And then we've also, one of the things that we do, we opened up our municipal garages allowing people to park for free in those spaces so they don't have to clear out their vehicles out in the --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:10:04",
+      "speaker": "LEMON",
+      "sentences": "So listen, I think that you believe that your well positioned and well prepared for this, but how long do you expect this to impact Worcester?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:10:04",
+      "speaker": "BATISTA",
+      "sentences": "We believe it's going to take up all the way to the night. If not 9",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:10:04",
+      "speaker": "LEMON",
+      "sentences": "Worcester, Mass, City Manager Eric Batista, thank you. Be safe.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:10:04",
+      "speaker": "BATISTA",
+      "sentences": "Thank you. You, as well.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:10:04",
+      "speaker": "COLLINS",
+      "sentences": "Also, this morning, we are keeping an eye on the weather. Storm ravaged California is now facing its 11th atmospheric river of the season. Once the term that many of us weren't familiar with, but now you hear, it feels like, almost every day. Evacuation warnings are now being across parts of Los Angeles amid these concerns of flash flooding and mudslides. Also, a levee burst in the Pajaro River that prompted dozens of water rescues. Cars submerged up to their rooftops. Houses sitting in newly formed lakes. This was not here before. It might be months before some of these homes can be lived in again, though.(BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:15:00",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "Now we all have to find somewhere else to stay at. We will not be able to come back home anytime soon. Look at it now.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:15:00",
+      "speaker": "COLLINS",
+      "sentences": "CNN's Veronica Miracle is live in Northern California was pounded with heavy rain overnight. We could see here literally standing and it looks like it's above your ankles. Veronica, what else is happening on the ground there? How are people dealing with this?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:15:00",
+      "speaker": "VERONICA MIRACLE, CNN CORRESPONDENT",
+      "sentences": "Well, it's incredibly difficult, Kaitlan, because about eight more inches are expected across northern and central California with this new storm coming in. Here in Pajaro, which is in Monterey County, the water level is actually receded by about a foot since yesterday, which is good news. It's because there was a second levee breach and so some of the water has actually gone into the ocean, taking a little bit of pressure off of this community.But the sheriff here, Monterey County Sheriff says that's not going to last long. This new storm coming in is going to bring those water levels right back up. About 1700 people have been displaced here in just this community alone. And over the last few days, they have had to conduct about 200 rescues some of those because people refuse to leave their homes. Others because the water levels rose just too quickly. Here's what the sheriff had to say. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:15:00",
+      "speaker": "TINA NIETO, MONTEREY COUNTY SHERIFF",
+      "sentences": "When we give you an evacuation, warning, please prepare to leave. Your pets, your medication, your valuables, and when we give you an order to get out, please get out. I get, people have storm, warning fatigue. And people think well this didn't happen in January. So, it's not going to happen this time. Like we can only give orders and warnings based on the best data we can.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:15:00",
+      "speaker": "MIRACLE",
+      "sentences": "The sheriff was gracious enough to take us out and show us kind of how the community has been impacted. They've had to obviously get families out of their homes, they have not been able to go back for the most part to get animals that have been left behind. So, really difficult situation here. Obviously, it's raining but the worst of the storm is expected in the next couple of hours. And in terms of the floodwaters. These are (INAUDIBLE) this is not expected to receive for at least another couple of weeks. Kaitlan?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:20:00",
+      "speaker": "HARLOW",
+      "sentences": "Happening tomorrow public hearing in one of the most significant national abortion cases since Roe vs. Wade was overturned by the Supreme Court. Federal judge Matthew because American Texas is overseeing a lawsuit that could restrict access to the abortion pill across the country. He announced the hearing after reports that he privately tried to keep it under wraps. Our Paula Reid has been following this very closely. So, this is one judge in Amarillo, Texas, who is going to make a decision for the whole country on the abortion pill. Explain the significance, but also why he would try to keep it under wraps.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:20:00",
+      "speaker": "PAULA REID, CNN SENIOR LEGAL AFFAIRS CORRESPONDENT",
+      "sentences": "Well, Poppy, as you know, federal courts aren't exactly famous for transparency. But here the judge wanted to wait until the last minute to announce this hearing reportedly to avoid disruptions. And put this in context. His division is a tiny federal division in Amarillo, Texas, it's hours from any other city, there's only a few direct flights. So, if he was able to wait until the last minute to announce this hearing, it would limit the ability of anyone who wanted to go and attend this hearing to actually be able to be there in person.The several media organizations push to make this announcement public, given the enormous public interest in this case, in considering what is at stake. Medication, abortion is the most common form of abortion in the United States. And here this case anti-abortion doctors and medical associations are challenging the government's approval of the drug use to terminate pregnancies. So, this case could potentially block access to that medication, even in states where it's legal. Now, the first part of this case involves a potential preliminary injunction. So, right now the judge needs to decide whether or not to suspend the approval of this drug while this case plays out. But again, this is a case with enormous national implications.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:20:00",
+      "speaker": "HARLOW",
+      "sentences": "So, if you were to grant the injunction tomorrow at the hearing that would put a pause on anyone being able to access it until it goes through the whole process, right?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:20:00",
+      "speaker": "REID",
+      "sentences": "Yes, now it is likely that any such injunction would be appealed. There are --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:20:00",
+      "speaker": "HARLOW",
+      "sentences": "Right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:20:00",
+      "speaker": "REID",
+      "sentences": "-- a lot of concerns about nationwide injunctions generally should one judge, for example, here in Amarillo, Texas.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:20:00",
+      "speaker": "HARLOW",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:20:00",
+      "speaker": "REID",
+      "sentences": "People to decide something that has been approved for decades? So, likely a lot of litigation ahead. But yes, that is the first step.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:20:00",
+      "speaker": "HARLOW",
+      "sentences": "But the Supreme Court did uphold that injunction, you know, last year when it came to sort of more broad abortion restrictions in Texas. But Paula, before you go, the Justice Department also with a big announcement on the opioid front, they're suing Rite Aid around the opioid crisis. Is that right?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:20:00",
+      "speaker": "REID",
+      "sentences": "That's exactly right. They are suing Rite Aid, arguing that they have violated the Controlled Substances Act by filling hundreds of thousands of prescriptions improperly for controlled substances, including opioids. They argue that the chain was ignoring red flags. In fact, in a statement, the Associate Attorney General Vanita Gupta said that Rite Aids pharmacists repeatedly fill prescriptions for controlled substances with obvious red flags.And alleging that Rite Aid intentionally deleted internal notes about suspicious prescribers, saying these practices open the floodgates for millions of opioid pills and other controlled substances to flow illegally out of Rite Aid stores. They say specifically, the chain ignored what is called the Trinity. Prescriptions for excessive quantities of opioids such as oxycodone, and fentanyl. Of course, hundreds of thousands of Americans have died as a result of opioid overdoses.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:20:00",
+      "speaker": "HARLOW",
+      "sentences": "Paula, thank you, for the reporting on both of those significant developments.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:20:00",
+      "speaker": "COLLINS",
+      "sentences": "Also, this morning, there's a notable shift from Florida Governor Ron DeSantis. Why he says Ukraine isn't a key foreign policy issue.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:20:00",
+      "speaker": "DON LEMON, CNN ANCHOR",
+      "sentences": "Biden administration has not been shy in its support of Taiwan. But why does the U.S. care about an island more than 7,000 miles away? Wow, Will Ripley is going to join us live from Taipei to explain all of this.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:25:00",
+      "speaker": "HARLOW",
+      "sentences": "Former President Trump took his 2024 campaign to Iowa last night where he sharpened his attacks against former -- current Florida Governor Ron DeSantis. Someone who's expected to enter the race for the White House. Listen.(BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:25:00",
+      "speaker": "DONALD TRUMP, FORMER PRESIDENT OF UNITED STATES",
+      "sentences": "Did anyone ever hear of DeSantis -- DeSanctimonious desc (PH)? So, Ron DeSantis strongly opposed ethanol. Do you know that? And we don't even know if he's running but I might as well tell you if he's not running. I'll say he was fine on ethanol, don't worry of him.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:25:00",
+      "speaker": "HARLOW",
+      "sentences": "Well, there's that, this was Trump's first visit to Iowa since he announced his bid for the White House. It follows visits by DeSantis, Nikki Haley, Mike Pence, and Senator Tim Scott.",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

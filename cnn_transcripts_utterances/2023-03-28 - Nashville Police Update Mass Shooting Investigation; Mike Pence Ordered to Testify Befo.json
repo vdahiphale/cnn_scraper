@@ -1,0 +1,451 @@
+{
+  "date": "2023-03-28",
+  "headline": "CNN Newsroom",
+  "subHeadline": "Nashville Police Update Mass Shooting Investigation; Mike Pence Ordered to Testify Before Federal Grand Jury. Aired 1-1:30p ET",
+  "utterances": [
+    {
+      "timeStamp": "13:00:00",
+      "speaker": "SAM KILEY, CNN SENIOR INTERNATIONAL CORRESPONDENT",
+      "sentences": "Certainly, the very hard-line opposition here is the sort of street protests and demonstrations that we can see here, Abby.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:00:00",
+      "speaker": "ABBY PHILLIP, CNN HOST",
+      "sentences": "Yes, it continues to be a pretty volatile situation on the streets there of Paris on a spring evening here.Sam Kiley, thank you very much. And thank you for joining us on \"INSIDE POLITICS.\" Alex Marquardt is picking up our coverage right now.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:00:00",
+      "speaker": "ALEX MARQUARDT, CNN HOST",
+      "sentences": "Hello. I'm Alex Marquardt in Washington. Thank you so much for joining us today.Fourteen minutes of terror and six lives stolen inside an elementary school. We now have more information about what happened during the mass shooting at Covenant School, that private Christian school in Nashville, Tennessee, chilling security camera footage, which you see right there, showing the attacker, 20 -- who is a 28-year-old former student named Audrey Hale, stalking the hallways armed with an assault rifle and two other firearms. That was just yesterday. Police bodycam video has also just been released showing Hale engaging with law enforcement. Hale was killed in that shoot-out. We have to warn you that some may find this footage disturbing. Take a look. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:00:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "(INAUDIBLE) going to be first floor main lobby.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:00:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "I'm making entry on the front side. (INAUDIBLE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:00:00",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "The kids are all locked down, but we have two kids and we don't know where they are.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:00:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "OK.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:00:00",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "OK?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:00:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Yes, ma'am. UNIDENTIFIED MALE",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:00:00",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "(OFF-MIKE) has fired into my windows. They're upstairs.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:00:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Hey. Give me three. Let's get three.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:00:00",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "(OFF-MIKE) End of this hall is Fellowship Hall. They're -- they just said they were gunshots down there, and then upstairs are a bunch of kids.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:00:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Let's go. I need three.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:00:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "One more. One more!",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:00:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Let's go!Metro Police!",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:00:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Open door.On me. On me. We don't know where he is.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:00:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Metro Police! Open door!",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:00:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Bathroom. Bathroom. Small bathroom. Clear.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:00:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Next. Let's go.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:00:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Door. Door. With me, with me.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:00:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Hold the door.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:00:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Next.Open it. I got it. I got it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:00:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Bathroom.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:00:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Let's go.(SHOUTING)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:00:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Let's go! Let's go!",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:00:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Let's move right. Cover. Cleft. Cover left.Take this with me. Take this. No, that's locked. Take this door. Take this door. Take it. I think it's upstairs. The (INAUDIBLE) is upstairs.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:00:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Go! Go! Go!(GUNFIRE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:00:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Gunfire!(GUNFIRE) (SHOUTING) (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:05:01",
+      "speaker": "AMARA WALKER, CNN CORRESPONDENT",
+      "sentences": "Yes, it's overwhelming, Alex. It's definitely palpable here.The families of these six victims, they're never going to be the same again. And let's talk about these victims for a moment. We now have a photo of 9-year-old Evelyn Dieckhaus, who died in this mass shooting at her school. Reportedly, she has an older sister, and she was quoted in \"The Tennessean\" at a prayer vigil last night saying that: \"I don't want to be an only child.\" Again, this is a sister of this young girl who was killed yesterday, Evelyn Dieckhaus, in this school shooting. Nine-year-old Hallie Scruggs also killed. She was the daughter of the lead pastor here at Covenant Presbyterian School. There she is. It's more of an updated photo than we have been seeing for much of the day. Also killed, 9-year-old William Kinney, 60-year-old Katherine Koonce. She was the head of school. We spoke with a friend of hers who said they were friends for 15 years. And she texted her yesterday morning as soon as she heard that there was a shooting here, and she never heard back. And when she went to the reunification center, and didn't see her friend, the head of the school at that location, which she should have been there, she realized that something was terribly wrong; 61-year- old Cynthia Peak, she was a substitute teacher, and 61-year-old Mike Hill, who was the custodian of the school. Alex, you talk about the grief in this community. And I tell you, we can feel it. When you look behind me here, there's a makeshift memorial that has been growing throughout the day. And all morning and day long, we have seen people, strangers, people from the community coming with teddy bears and flowers. There was also a small group of elderly people who walked over from a senior center just right next door to the school, the Brookdale assisted living center. They came with their walkers. They walked slowly, many of them crying. And they said that they fell in love with these children because they were coming as elementary school students every year during the holidays to sing to them. I want you to listen to what one woman, a 101-year-old elderly woman, said about what she was feeling when she arrived here. Listen. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:05:01",
+      "speaker": "QUESTION",
+      "sentences": "Can I ask you, what's on your heart right now?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:05:01",
+      "speaker": "CAROLYN MODISHER, NASHVILLE RESIDENT",
+      "sentences": "I can't tell you. I just feel so for the people there. But I love them all.But I know God is with them. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:05:01",
+      "speaker": "WALKER",
+      "sentences": "Yes, so, the irony and all this too, this is 101-year-old woman who said she's about to turn 102.And she is visiting an honoring the lives of 9-year-old children, along with their adult counterparts, but, yes, a very sad day and a day that people are still trying to process just what happened yesterday, Alex.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:05:01",
+      "speaker": "MARQUARDT",
+      "sentences": "Just so heartbreaking to see those young faces, those innocent children.Amara, as I noted, we are expecting to hear from the police in just about seven minutes' time. At least, that's what's being scheduled. We know that, of course, they are working to determine the motive, that -- what drove Audrey Hale to carry out this horrific attack. But they have said that the attack was meticulously planned.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:10:00",
+      "speaker": "MARQUARDT",
+      "sentences": "And maybe we will get some indication in just a few minutes when police provide an update. We know you will be listening very carefully.Amara, we will get back to you as soon as that happens. Amara Walker, thank you for all your terrific reporting on this very, very difficult story. Amara Walker in Nashville, Tennessee. We're joined now by a Nashville council member at large, Sharon Hurt. Councilwoman, first of all, I just want to send my condolences to you and to the community. We certainly know how difficult these circumstances are. We thank you so much for joining us today under these circumstances,. It has been just over 24 hours since the shooting took place. I just want to ask you, first of all, how is the community faring?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:10:00",
+      "speaker": "SHARON HURT, NASHVILLE COUNCILMEMBER AT LARGE",
+      "sentences": "Barely.It's been mixed emotions all over the place. Everyone is sad. Everyone is angry. Enough is enough. We have got to do something. Those are the cries I have heard from constituents who are neighbors of some of the little kids saying how they would hear the squeals and the laughs out, especially during this time of Easter. And they had Easter egg hunts. And now they will not hear them. And like some of those at the senior facility that you interviewed earlier, these are their neighbors, those that they love and who love them. The heart of the matter is that we have got to have better gun laws. I heard from some of my sorority sisters who are in these -- where I just left on yesterday right before coming to reunification center. And they said they met with Congressman Ogles, and he's saying that it's mental health issues that created this. No. The gun did not have any idea that someone with a mental health issue was behind the trigger. I think the combination is a disastrous, tragic outcome, as we witnessed on yesterday. We must have a national ban on assault weapons. The urgency is here. How many more people must die.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:10:00",
+      "speaker": "MARQUARDT",
+      "sentences": "Well, Councilmember Sharon Hurt, certainly, we hope that that conversation takes place.I apologize. We do have to leave it there. We have some breaking news. Our condolences again. Our thoughts are certainly with your community in this moment of grief and as you try to recover. Councilmember Sharon Hurt, thank you for joining us.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:10:00",
+      "speaker": "HURT",
+      "sentences": "Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:10:00",
+      "speaker": "ANNOUNCER",
+      "sentences": "This is CNN breaking news.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:10:00",
+      "speaker": "MARQUARDT",
+      "sentences": "This breaking newsLet's get straight to our reporter CNN's Katelyn Polantz. Katelyn, what more do we know?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:15:03",
+      "speaker": "MARQUARDT",
+      "sentences": "Katelyn, how much of a victory is this for Jack Smith, the special counsel?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:15:03",
+      "speaker": "POLANTZ",
+      "sentences": "It's another victory for special counsel Jack Smith. He has gotten -- he has locked up testimony from Mike Pence's top aides. He has gotten many, many rulings in his favor where Donald Trump has tried to block answers before this grand jury.I mean, this is a really crucial one because, in a lot of ways, Mike Pence is one of the ultimate victims on January 6, and so what his interactions were with Trump could be quite important to a criminal case, if that is what the grand jury is investigating right now. So, Alex, it is quite serious. It also is quite serious that the courts are diving into this question of, what is the vice president? Does he get the protections of Congress? And it looks like there is a ruling there. We will have to see if the appeals court firms up any of the law around that, though -- Alex.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:15:03",
+      "speaker": "MARQUARDT",
+      "sentences": "Yes, the special counsel, of course, also carrying out a simultaneous investigation on the classified documents, proceeding quietly, but quickly, it seems, and, as Katelyn just noted, has had a series of victories of late.Katelyn Polantz, terrific reporting. We will get back to you. Thank you so much. And with me now is CNN anchor and senior legal analyst Laura Coates and CNN senior political analyst Gloria Borger. Laura, I want to go to you first. Your reaction to this ruling.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:15:03",
+      "speaker": "LAURA COATES, CNN SENIOR LEGAL ANALYST",
+      "sentences": "I mean, it's extraordinary.We have the former vice president of the United States having to testify in a grand jury against the person that he served under, the former President Donald Trump. Remember, he has been thinking that he might have to do this quite some time. Let's delineate two things here, Alex. On the one hand, it's his role as the president of the Senate and the vice president. So what he's talking about on the floor as a member of the Senate, so to speak, in that capacity is not part of this inquiry. What is relevant here is what Trump may have said to him prior to January 6. Did he acknowledge that he'd lost the election? Did he seek to try to block certification? What specifically did he say? Was there anything threatening? What were the terms that he wanted him, Pence, to abide by? What steps were actually taken to try to disrupt the peaceful transit -- transfer of power in our American democracy? All of this extremely relevant, and yet another defeat. Remember, you got former attorneys and current attorneys of Trump who have been asked to testify in the grand jury, a federal grand jury. Now you have got somebody who was the second in command who, of course, was threatened on January 6, who was a bit of a hero for so many on that day for standing true now having to testify about things that the president said to him. This is an extraordinary moment in American history.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:15:03",
+      "speaker": "MARQUARDT",
+      "sentences": "And, Gloria, Pence is in an interesting position. He was subpoenaed. He defied the subpoena. He has at the same time been critical of President Donald Trump and his actions around January 6.Pence, of course, was in the Capitol. So what was the Pence thinking here in not -- in resisting having to testify?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:20:12",
+      "speaker": "MARQUARDT",
+      "sentences": "And, Laura, this does come on the heels of this judge also ordering other top aides, including Chief of Staff Mark Meadows, to testify in this very same case.Correct me if I'm wrong, but I think there's a sense that the classified documents investigation is nearing its end, while Jack Smith's other investigation into January 6 might not be as far along. But what does this tell us about where this investigation stands?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:20:12",
+      "speaker": "COATES",
+      "sentences": "Well, you can imagine almost the idea of a boa constrictor going around its particular victim, because it's tightening around the former president of the United States.We're almost color-coding the various investigations surrounding Donald Trump at this point in time. And now you have the loss of privileges, the executive privilege level. The attorney-client privilege has now been pierced in a variety of ways. And then you got this idea of a probably more clear-cut case about declassified documents. It's a finite universe. You know when they were supposed to be handed over. You know that they were not handed over. He has admitted to not wanting to do so and has provided some justification in his mind that is not really viable as to why he can retain them. That's a little bit more open-and-shut. Either you handed them over or you did not. Either you had your attorney do something nefarious or you did not. The January 6 one, as we all know, is a much more comprehensive and complex case to look at. It involves whether or not he gave a virtual code red. Was there a conspiracy? Was there a seditious action by a former president of the United States at the time he was the president? So it would make sense if the Jack Smith special counsel is to essentially complete one investigation that's far less complex, and then continue to build on the next one simultaneously, and I bet which is very parallel...",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:20:12",
+      "speaker": "MARQUARDT",
+      "sentences": "Laura, I have to quickly interrupt.Laura and Gloria, we have to leave her there right now. We are hearing from the Metropolitan Police Department in Nashville. Let's listen in. (JOINED IN PROGRESS)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:20:12",
+      "speaker": "DON AARON, PUBLIC INFORMATION OFFICER, NASHVILLE POLICE DEPARTMENT",
+      "sentences": "There are those who think that specific individuals were targeted by the shooter who entered the building on Monday.We have no evidence that individuals were specifically targeted. This school, this church building was a target of the shooter. But we have no information at president to indicate that the shooter was specifically targeting any one of the six individuals who were murdered. Chief John Drake will now update you on the progress of the investigation overnight and this morning, including what we know about the individual's purchases of firearms over the past couple of years. Again, this will be a brief briefing today. Chief John Drake.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:20:12",
+      "speaker": "JOHN DRAKE, METRO NASHVILLE POLICE CHIEF",
+      "sentences": "Good afternoon, everyone. And thank you again for being here.Just a brief update of what we know right now. We have interviewed the parents of Audrey Hale. And we have determined that Audrey bought seven firearms from five different local gun stores here legally. They were legally purchased. Three of those weapons were used yesterday during this horrific tragedy that happened. We know that they felt that she had one weapon, and that she sold it. She was under care, a doctor's care, for an emotional disorder. Law enforcement knew nothing about the treatment she was receiving. But her parents felt that she should not own weapons. They were under the impression that, when she sold the one weapon, that she did not own anymore. As it turned out, she had been hiding several weapons within the house. We also don't have a motive at this time. We feel that these students that were targeted were randomly targeted. There was not any particular student that they were -- that she was looking for at the time of the incident. And that's what we know as I speak, and we will take any questions that you have. (CROSSTALK)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:20:12",
+      "speaker": "QUESTION",
+      "sentences": "What was in the manifesto?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:25:02",
+      "speaker": "QUESTION",
+      "sentences": "Chief, can you clarify where exactly the victims were located?You mentioned the common area. But were they all together, the students and the adults, at the same time? Where were they in the building?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:25:02",
+      "speaker": "DRAKE",
+      "sentences": "So they were spread out in different locations.When I went into the actual church, the kids had already been transported to the hospital. Also, the -- two of the adults, I did see the head school person. And she was in the hallway by the office. And that's the only one. They were spread out.wasn't in one common area, but they were spread out. (CROSSTALK)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:25:02",
+      "speaker": "QUESTION",
+      "sentences": "... in terms of targeting other buildings, other places?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:25:02",
+      "speaker": "DRAKE",
+      "sentences": "There were some writings in the manifesto about other locations. But, as far as it being an actual target, I can't confirm that at this time.(CROSSTALK)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:25:02",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "One at a time, please. One at a time, please.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:25:02",
+      "speaker": "DRAKE",
+      "sentences": "Sorry.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:25:02",
+      "speaker": "WALKER",
+      "sentences": "Amara Walker with CNN.Just about the six victims who were killed, where exactly were they? Were they walking through the hallways when this happened? And I also heard peripherally that perhaps the head of the school may have ran towards the gun, the shooter?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:25:02",
+      "speaker": "DRAKE",
+      "sentences": "It's very possible the head of the school could have done that. I can't confirm that one way or the other. I do know she was in the hallway by herself. There was a confrontation.I'm sure -- you can tell the way she was laying in the hallway. There was the custodian, African-American. As she shot through the door to enter, she sprayed rounds through the glass, striking him. You could where he came to rest. And as far as the others, they were just spread out in different locations. (CROSSTALK)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:25:02",
+      "speaker": "WALKER",
+      "sentences": "... confrontation that you said between the head...",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:25:02",
+      "speaker": "DRAKE",
+      "sentences": "I can't say it was a confrontation, but they were met -- she met the head person in the hallway.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:25:02",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "This man right here.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:25:02",
+      "speaker": "DRAKE",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:25:02",
+      "speaker": "QUESTION",
+      "sentences": "Thank you.Chief, you mentioned the guns, the multiple guns, and that the shooter was under the care of a doctor. Is there any law in this state that would have allowed police to take those guns away from this person had it been reported?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:25:02",
+      "speaker": "DRAKE",
+      "sentences": "If it had been reported -- there's not a law for that. But had it been reported that she was suicidal or that she was going to kill someone and had been made known to us, then we would have tried to get those weapons. But as it stands, we had absolutely no idea, actually, who this personwas, if she even existed.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:25:02",
+      "speaker": "QUESTION",
+      "sentences": "Chief, can you talk a little bit about the time?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:25:02",
+      "speaker": "QUESTION",
+      "sentences": "What else did the parents say? Did they expect anything like this to happen?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:25:02",
+      "speaker": "DRAKE",
+      "sentences": "So, we know, yesterday, the -- Ms. Hale was leaving out of the residence. She had a red bag. They asked her what was in the red bag, and I think she just dismissed it because it was a motherly thing and didn't look in the bag, because, at the time, she didn't know that her daughter had any weapons and didn't think any differently.Again, they lost a child, so it was very traumatic for them. So...",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:25:02",
+      "speaker": "QUESTION",
+      "sentences": "Chief, watching the bodycam...",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:25:02",
+      "speaker": "DRAKE",
+      "sentences": "I think you were first.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:25:02",
+      "speaker": "QUESTION",
+      "sentences": "Yes.Could you talk about the police response? I know they engaged the shooter pretty quickly once they got to the school, but can you talk about the events that led up from when they got the call? What time did they arrive at the school? And could you talk about that time? Because it appears about maybe like 14 minutes or so.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:25:02",
+      "speaker": "DRAKE",
+      "sentences": "Yes.So they got the call at 10:13. About 10:24, they had engaged the suspect. As they arrived on the property, there were police cars been hit by gunfire. The suspect was in an upper level. We believe there's been some training of being able to shoot from a higher level. And her gunfire, from the video I have seen, she stood away from the glass, so she wouldn't be an easy target to be shot. But as officers were approaching the building, there was gunfire going on. They went in. They went through door by door as we clear buildings. They heard gunfire, and immediately ran to that, and then took care of this horrible situation.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:25:02",
+      "speaker": "QUESTION",
+      "sentences": "And how long did it take the officers to actually get to the school initially from when the first call came in?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:25:02",
+      "speaker": "DRAKE",
+      "sentences": "From the time it went out, from 10I know that, myself, I ran emergency. And as I got there, they were coming out bloody and all kind of things were happening. So I barely missed being able -- or being there to go in as well. So it was really quick, the response. And I think you were next. So...",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:25:02",
+      "speaker": "QUESTION",
+      "sentences": "Yes. Chief, I was just going to ask you about the two officers whosebodycam we have seen this morning. Had they ever been placed in a situation like that before?",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

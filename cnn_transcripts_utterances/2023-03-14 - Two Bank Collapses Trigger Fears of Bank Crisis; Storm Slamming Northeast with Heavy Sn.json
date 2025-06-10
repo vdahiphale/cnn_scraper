@@ -1,0 +1,253 @@
+{
+  "date": "2023-03-14",
+  "headline": "CNN Newsroom",
+  "subHeadline": "Two Bank Collapses Trigger Fears of Bank Crisis; Storm Slamming Northeast with Heavy Snow, Coastal Flooding, Strong Winds; Trump Intensifies Attacks on DeSantis During Iowa Stop. Aired 10-10:30a ET",
+  "utterances": [
+    {
+      "timeStamp": "10:00:00",
+      "speaker": "JIM SCIUTTO, CNN ANCHOR",
+      "sentences": "Top of the hour now. I'm Jim Sciutto.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:00:00",
+      "speaker": "ERICA HILL, CNN ANCHOR",
+      "sentences": "And I'm Erica Hill.A good sign for the U.S. economy at this hour, a key piece of data which tells us just how much you are paying for just about everything shows that those price increases are cooling, and the Fed will be using that information, of course, as it is weighs what to do in terms of additional rate hikes. The other bit of information that is certainly going to play a role here, that Silicon Valley Bank collapse. This hour, everything you need to know.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:00:00",
+      "speaker": "SCIUTTO",
+      "sentences": "Plus, forget frenemies, former President Trump is acting as if Florida Governor Ron DeSantis is his biggest rival in the 2024 race, even though DeSantis has not yet announced that he is actually running. The new nickname Trump using on the trail for DeSantis and the regret he says he now has.And a powerful nor'easter is now hitting hundreds of thousands of people already without power, heavy snow, winds as fast as 60 miles per hour slamming the northeast. You can see it churning there. And a lot to get to this hour. We do begin with the latest on the response to those banking fears.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:00:00",
+      "speaker": "HILL",
+      "sentences": "CNN Business Reporter Matt Egan leading us off this hour. So, Matt, the Fed, U.S. banks obviously processing all of this new inflation data, which actually met expectations? What is the new consensus this morning?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:00:00",
+      "speaker": "MATT EGAN, CNN REPORTER",
+      "sentences": "Well, Jim and Erica, this is more evidence that inflation is not gone but it is cooling off. Now, 6.5 percent increase in consumer prices over the last 12 months, that is not good. I mean, that is actually triple what is considered healthy, but everything is relative. And as you can see on the chart, the trend is going in the right direction. And this is eight straight months of cooling inflation. This is actually the smallest increase in consumer prices in 17 months, all signs of progress.If you look in and you really dig into this report, though, you can see that some things are still getting much more expensive, groceries up by 10 percent from a year ago, natural gas, pet food, airfare, all of them increasing. Now, the question, of course, is what does the Fed do. Because even heading into this month, they face an almost impossible situation of trying to get inflation under control without breaking something in the real economy or in financial markets, and now we are learning that something does appear to have broken and that is the situation in the banking market. And so if the Fed does continue to raise rates, they could potentially add pressure to the banking system, but if they don't raise the interest rates, they could end up allowing inflation to heat back up. Jim and Erica, they are facing a no-win situation here. It is not easy.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:00:00",
+      "speaker": "SCIUTTO",
+      "sentences": "Let's take a quick look at the markets now, because, earlier, they were up with a little bit, particularly with some of those regional banks that have been facing particular focus of traders here. We know the Fed did announce -- there you go. So, some of those banks hit particularly hard yesterday, they are up pretty big chunks today, some of them 40 percent, 49 percent, 12 percent. As you speak to folks, Matt, are you hearing that it looks like this is contained?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:00:00",
+      "speaker": "EGAN",
+      "sentences": "Well, listen, that is of course the hope. And the fact that we are seeing such dramatic increases in the share prices of all of those regional banks is a very nice change from just 24 hours ago when we saw dramatic declines for those stocks. And, you know, a senior treasury official told our colleague, Phil Mattingly, that, importantly, treasury officials are seeing an easing of the deposit outflows from regional banks and small banks. That maybe even more important than the stock pricing because it shows calming there, but we do need to keep a close eye on these banks and we need to make sure that people stay calm here. They remember that there are $250,000 FDIC insurance and the federal government has made clear that they want to protect depositors.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:00:00",
+      "speaker": "SCIUTTO",
+      "sentences": "Matt Egan, thanks so much.Joining us now, Jeanna Smialek, she is New York Times' Federal Reserve and economy reporter. Good to have you back on. So, I mean, listen, the Fed got a lot of data these last several days, some that they probably didn't want, I mean, the failure of two, three banks, in part because of bad investments they made with rising interest rates. Now, they have some CPI data that shows inflation continuing to cool, though, it's staying at a high rate. Does this now give the Fed, in your view, room to take a pause on interest rate hikes?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:00:00",
+      "speaker": "JEANNA SMIALEK, FEDERAL RESERVE AND ECONOMY REPORTER, THE NEW YORK TIMES",
+      "sentences": "Probably not. I think the underlying details of the inflation data that we're seeing here are actually very strong. We are seeing pretty rapid price increases across a number of measures that they really care about. So, if you are looking at services, especially services excluding rent and other housing measures, very strong inflation data there. So, I think that's what they're primarily going to be focused on here, and I think all else equal, this would have pushed them to be a little more aggressive. Given the situation in banks, most of the economists I'm talking to are saying that they are expecting a quarter point move at this upcoming Fed meeting.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:05:04",
+      "speaker": "SMIALEK",
+      "sentences": "Yes. So, it's really hard (INAUDIBLE). So, I think the way to think about the fed hitting the  brakes is when the Fed raises interest rates, it slows down the whole economy, just trickles through everything and really changes sort of the business landscape. And when that happens, you can see some real pain play out through the financial sector.And I think that's what we're seeing now with the banks. These banks got very squeezed by the rise of interest rates. They had basically planned on a low rate future, a situation where the Fed is going to keep interest rates very low for a very long time, that's not what materialized and they are really paying the cost of that. And so I think we are seeing someone go through the windshield at the moment. The question is, is it isolated or is this going to be a much broader problem.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:05:04",
+      "speaker": "SCIUTTO",
+      "sentences": "There is another question, though, should regulators have seen this before that person went through the window, right? I mean, because they were taking some risky bets given the direction of the interest rates, I mean, should this have been caught?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:05:04",
+      "speaker": "SMIALEK",
+      "sentences": "I think it is an excellent question and I think it's one that sort of falls squarely at the Fed's door, because the Federal Reserve over recent years have really sort of tried to make supervision of banking institutions less onerous. There was a real push under the Trump administration to be a little bit more transparent and a little bit less painful at how we supervise banks.I think there are going to be a lot of questions in the coming days over whether that fed into this situation, and we've already seen the Fed itself say that they're carrying out a review of what happened here, what the regulations and supervisions meant, and we are going to get the results of that early in May.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:05:04",
+      "speaker": "HILL",
+      "sentences": "Yes. And we are seeing some -- and there was some reporting just yesterday and over the weekend too about some of the signs and the concerns that were being raised even at the end of last year. Jeanna Smialek, great to see you this morning. As always, I appreciate it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:05:04",
+      "speaker": "SMIALEK",
+      "sentences": "Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:05:04",
+      "speaker": "SCIUTTO",
+      "sentences": "New this morning, the Justice Department is suing the retail drug store chain Rite Aid, saying the company, quote, knowingly filled unlawful prescriptions that contributed to the nation's opioid.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:05:04",
+      "speaker": "HILL",
+      "sentences": "So, the Department of Justice says the company also ignored obvious red flags.CNN's Paula Reid has been following these new developments for us. So, Paula, this actually began as a whistleblower lawsuit. When did all of this start? When did these alleged unlawful prescriptions begin getting filled?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:05:04",
+      "speaker": "PAULA REID, CNN SENIOR LEGAL AFFAIRS CORRESPONDENT",
+      "sentences": "Well, according to this lawsuit, Erica, between May 2014 and June of 2019, the pharmacy filled hundreds of thousands of unlawful prescriptions for controlled substances, including opioids. Now, the Justice Department alleges this includes things like excessive amounts for opioids, including Oxycodone and fentanyl and also Trinities which are opioids combined with other drugs that the Justice Department says are widely abused.Now, federal prosecutors also alleged that when some employees raised concerns about possible cash-only pill mills, other red flags, those were ignored. In a statement, Associate Attorney General Vanita Gupta said, we allege that Rite Aid filled hundreds of thousands of prescriptions that did not meet legal requirements. Rite Aid's pharmacists repeatedly filled prescriptions for controlled substances without obvious red flags, and Rite Aid intentionally deleted internal notes about suspicious prescribers. Now, last year, CVS and Walgreens, of course, two of the other biggest retailers for pharmaceuticals in this country, they paid $10 billion to settle opioid lawsuits but they did not admit any wrongdoing. As we know, Jim and Erica, hundreds of thousands of Americans have died as a result of opioid overdoses.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:05:04",
+      "speaker": "SCIUTTO",
+      "sentences": "Yes, no question, and those deaths continue. Paula Reid, thanks so much.Still ahead, former President Trump is taking digs at Florida Governor Ron DeSantis during a speech in Iowa as new CNN polling shows who Republican voters want their 2024 candidate to be.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:10:00",
+      "speaker": "HILL",
+      "sentences": "Look at that. That is Manchester, New Hampshire, massive winter storm slamming the northeast right now, some 240,000 homes and businesses without power across the region at this hour. And in some areas, the prediction is for as much 30 inches of snow.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:10:00",
+      "speaker": "SCIUTTO",
+      "sentences": "I thought it was almost springtime.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:10:00",
+      "speaker": "HILL",
+      "sentences": "No, it is New England.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:10:00",
+      "speaker": "SCIUTTO",
+      "sentences": "Exactly, New England, baby. CNN's Derek Van Dam, he is in Worcester, Massachusetts, speaking of New England.So, Derek, we've been watching it get worst each hour we speak to you. How is it there now and where is it going to go from here?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:15:00",
+      "speaker": "HILL",
+      "sentences": "Yes, which is another reminder that if you don't need to be out, to stay off of those roads. Derek, I appreciate it. Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:15:00",
+      "speaker": "VAN DAM",
+      "sentences": "Yes, just look how heavy and wet it is.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:15:00",
+      "speaker": "HILL",
+      "sentences": "Former President Donald Trump ramping up his attacks against Florida Governor Ron DeSantis during his first trip to Iowa since Trump declared his third bid for White House.(BEGIN VIDEO CLIP) DONALD TRUMP, FORMER U.S. PRESIDENT:  Okay. So, remember this. Ron DeSanctis, did anyone ever hear of DeSanctis, DeSanctimonious? Now, Ron DeSanctis strongly opposed ethanol. And he also fought against social security. He wanted to decimate it and voted against it three times. He voted against social security. That's a bad one. But you have to remember, Ron was a disciple of Paul Ryan. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:15:00",
+      "speaker": "SCIUTTO",
+      "sentences": "Some family infighting there. We should note, DeSantis has yet to officially enter the race, but Trump certainly sees him, it appears, as the biggest roadblock to the GOP nomination in 2024. DeSantis is expected to join.CNN's Kristen Holmes joins us now from Iowa. Some new CNN polling data today, Kristen, really does seem to show this is, at least for now, a two-person race.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:15:00",
+      "speaker": "KRISTEN HOLMES, CNN NATIONAL CORRESPONDENT",
+      "sentences": "Well, that's right. Look, what we have to remember is this. Former President Trump has spent the last several days lashing out at both Florida Governor Ron DeSantis as well as former Vice President Mike Pence. Right before he took the stage and made those remarks about DeSantis, he responded to his former running mate, Mike Pence, saying that history will hold Donald Trump accountable for January 6th.And, essentially, Trump seemed to shift the blame on to Pence for January 6, telling The Washington Post this. He said, had he sent the votes back to the legislatures, they wouldn't have had problem with January 6. So, in many ways, you can blame him, Pence, for January 6. And, of course, as we have reported, Pence had no legal authority to send those votes back to the state legislatures. So, those attacks on the former vice president, those attacks on Ron DeSantis, this is coming as both of these men mull a presidential run. They would be entering the field against Donald Trump. And as the 2024 field begins to take shape, and I wanted to go to poll that you mentioned, because this is showing at this early stage where the minds of Republicans and Republican-leaning independents are at this time. They were asked out of a field of nine potential candidates who they would support in 2024 for the nomination. 40 percent saying they would support former President Donald Trump compared to 36 percent who said that they would support Florida Governor Ron DeSantis. They were the only candidates who got in there at double digits. The other two that we have -- I think we have up there for you are former Vice President Mike Pence as well as Nikki Haley, both of them only hitting 6 percent. Now, I want to be clear, this is very early. We still have a year-and- a-half to go, but it does answer some questions or at least show us what the field is shaping up to be. There were a lot of questions about whether or not former President Donald Trump had been severely politically weakened. We talked about it after January 6th. We talked about it after his losses in the midterms. This goes to show you where he stands in the party, and he is still very much a force in the Republican Party. Jim and Erica?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:20:00",
+      "speaker": "HENRY LO, MONTEREY PARK CITY COUNCIL",
+      "sentences": "Good morning. Yes, thanks for having me on today.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:20:00",
+      "speaker": "SCIUTTO",
+      "sentences": "First, if I can ask you, it's been seven week weeks now but these wounds are hard to heal. How is your community doing?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:20:00",
+      "speaker": "LO",
+      "sentences": "Well, thank you for asking that question. Indeed, it has been seven weeks since Monterey Park experienced a mass shooting incident where 20 people were killed, 11 of those of our community members died. I can see that right now our community continues to struggle the challenge of persevering through this tragedy here in Monterey Park, and also here in California. Because, remember, two days after Monterey Park's mass shooting incident, another one occurred in our state in Half Moon Bay.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:20:00",
+      "speaker": "SCIUTTO",
+      "sentences": "Yes. It is a sad sort of normality in this country that you just wait for the next one once one happens, at least 100 so far this year. Do you feel that because of the frequency that the nation has moved on from your community, that it does it too quickly in these cases?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:20:00",
+      "speaker": "LO",
+      "sentences": "You know, I think it is very sobering to think about that there have been actually 100-plus mass shooting incidents since the year has started. And I think that is why it is important for President Biden to come today to Monterey Park to console our community, to demonstrate that the country has not moved on, that they hear us, they hear the pain we are going through and that we will not let these murders that happened here and elsewhere in country since the year started to go in vain.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:20:00",
+      "speaker": "SCIUTTO",
+      "sentences": "President Biden, of course, visiting your community today, he is going to announce a new executive order to ask the attorney general to at least enforce existing background checks. For a communities that's gone through this, and do you consider that a substantive change?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:20:00",
+      "speaker": "LO",
+      "sentences": "Well, you know, I commend President Biden for doing something, because I think that, yes, we do need to increase background checks, keep more guns out of the dangerous hands, by raising awareness about our red flag laws and making sure that communities know how to use them and that also means making sure that that information is also in other languages. We need to strengthen accountabilities in the gun industry and also to identify those who shouldn't be carrying firearms.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:20:00",
+      "speaker": "SCIUTTO",
+      "sentences": "Yes. California has existing laws that are already some of the toughest in the country, but law enforcement there, as they do in other states, such as New York, I have spoken to law enforcement there that say, yes, we have tough laws but it's easy to get the guns in across state borders. Because of that phenomenon, do state laws, in your view, make a big difference?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:20:00",
+      "speaker": "LO",
+      "sentences": "I think state laws still make a tremendous difference in our community. But as you pointed out, someone can easily travel to another state that does not stood up to the gun lobby and that, I think, brings up to the other point that, again, the United States has the highest homicide firearm rate in the developed world, and what is required of us federal action, congressional action, because, you're right, we have passed different state regulations, as I've said, has strong gun violence prevention laws, but we have other states that have not stood up to the gun lobby.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:20:00",
+      "speaker": "SCIUTTO",
+      "sentences": "Yes. Well, Councilman Henry Lo, we know you still got a lot of healing to do in your community. We wish you, we wish the other residents there the best.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:20:00",
+      "speaker": "LO",
+      "sentences": "Thank you so much. Thank you for having me this morning.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:20:00",
+      "speaker": "HILL",
+      "sentences": "Still ahead, the EPA proposing the first ever national standard to make drinking water safer from what are known as forever chemicals. What could that mean for your drinking water? Stay with us.(COMMERCIAL BREAK) [10:25:00]",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:20:00",
+      "speaker": "SCIUTTO",
+      "sentences": "New this morning, the EPA is now proposing guidelines to make the drinking water safer. The rules would create the first national drinking water standard for so-called forever chemicals.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:20:00",
+      "speaker": "HILL",
+      "sentences": "So, what are those chemicals? Well, they are used in non-stick cookware, personal care and other household products. They are supposed to break down over time -- rather they do break down over time, and so that's what's leaching into the water, to the soil polluting drinking water systems.CNN Senior Health Correspondent Elizabeth Cohen joining us now. So, the forever chemicals, Elizabeth, have also been linked to some pretty serious health problems and what would these new recommendations actually change?",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

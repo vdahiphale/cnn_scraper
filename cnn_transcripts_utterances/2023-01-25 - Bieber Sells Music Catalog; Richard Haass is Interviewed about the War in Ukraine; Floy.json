@@ -1,0 +1,823 @@
+{
+  "date": "2023-01-25",
+  "headline": "CNN This Morning",
+  "subHeadline": "Bieber Sells Music Catalog; Richard Haass is Interviewed about the War in Ukraine; Floyd Dean-Shannon is Interviewed about His Photo Going Viral. Aired 8:30-9a ET",
+  "utterances": [
+    {
+      "timeStamp": "08:30:55",
+      "speaker": "DON LEMON, CNN ANCHOR",
+      "sentences": "New details released today in the snowplow accident that injured actor Jeremy Renner on New Year's Day near Reno, Nevada. A sheriff's report says Renner was trying to stop the tractor, like the one you see here, from hitting his nephew, whose truck was stuck in the snow. But it also says the parking brake was not engaged and slid sideways. Quote, when Renner attempted to stop or divert the Pistenbully to avoid injury to his nephew, he was pulled under the vehicle by the track and run over.The 52-year-old Avengers star was air lifted to the hospital with more than 30 broken bones. He is now recovering.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:30:55",
+      "speaker": "POPPY HARLOW, CNN ANCHOR",
+      "sentences": "Thank goodness he's OK.All right, Justin Bieber has sold his music catalog in what \"Rolling Stone\" is calling the largest sale of any artist of his generation. The singer handed over the rights to his publishing and artist royalties to music right investment company Hypnosis. Bieber joins a growing list of artists choosing to sell their catalogs. You've got him, you've got Justin Timberlake, John Legend, notably Bruce Springsteen, whose entire catalog reportedly went for about half a billion bucks. CNN's senior data reporter Harry Enten is here.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:30:55",
+      "speaker": "HARRY ENTEN, CNN SENIOR DATA REPORTER",
+      "sentences": "I wish.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:30:55",
+      "speaker": "HARLOW",
+      "sentences": "What's the number?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:30:55",
+      "speaker": "ENTEN",
+      "sentences": "All right, this morning's number is $200 million. That's how much Justin Bieber sold his music catalog to. Not quite Bruce Springsteen level, but still given how young Justin Bieber is, it's incredibly impressive.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:30:55",
+      "speaker": "HARLOW",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:30:55",
+      "speaker": "ENTEN",
+      "sentences": "And, you know, we've seen a lot of artists been selling their music catalogs lately, so I just wanted to go through the pros and cons of it. The pros are guaranteed money up front. $200 million would be a nice payday. And it's far easier for estate planning, especially if you're old, let's say like a Bob Dylan, right, and you have a lot of people you might want to split the estate with.The cons are, less money is earned if the artist is successful over the long-term. And there is some loss of creative control, which is part of the reason why you - I don't think you'll be seeing Taylor Swift selling her catalog anytime soon.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:30:55",
+      "speaker": "HARLOW",
+      "sentences": "Yes, I don't think so. But this means - this is about what he did up until now, not what he does in the future, right?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:30:55",
+      "speaker": "ENTEN",
+      "sentences": "Correct. Correct.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:30:55",
+      "speaker": "HARLOW",
+      "sentences": "So, how do we know if it's going to be good for Hypnosis?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:30:55",
+      "speaker": "ENTEN",
+      "sentences": "Yes, this is, I think, sort of the question, right, and it's sort of a bet that they're making. But if they are looking at the same numbers I'm looking at, they're betting on something like this. Look at the all-time Spotify streams. Look where Justin Bieber is right here on this list. He's at 35 billion. He is sixth on the list. And I think what you're looking at, they're looking at something like this, and they're also looking at his popularity, which is significantly better now than it was four years ago. So, they're betting on Bieber being a good long-term thing for them.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:30:55",
+      "speaker": "HARLOW",
+      "sentences": "Yes. All right. Good for him.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:30:55",
+      "speaker": "ENTEN",
+      "sentences": "Good for him.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:30:55",
+      "speaker": "HARLOW",
+      "sentences": "OK, thanks, Harry.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:30:55",
+      "speaker": "ENTEN",
+      "sentences": "Thank you.All right. Sure.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:30:55",
+      "speaker": "HARLOW",
+      "sentences": "A Bieber believer.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:30:55",
+      "speaker": "ENTEN",
+      "sentences": "Sure.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:30:55",
+      "speaker": "HARLOW",
+      "sentences": "Yes.We are already looking forward to Rihanna headlining the Super Bowl half-time show. And now we're learning who will perform in the preshow. That lineup next.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:37:57",
+      "speaker": "LEMON",
+      "sentences": "So, we have been telling you this morning about this German - the German government announcing it is sending Leopard II tanks to Ukraine after weeks of pressure from allies. This comes after two officials tell CNN the U.S. is finalizing plans to send approximately 30 Abrams tanks as well. And Russia has vowed to destroy any military equipment that are supplied to Ukraine. And Ukraine's president, Zelenskyy, warning that Russia is preparing for revenge against Ukraine on the battlefield.So, joining us now the author of the new book \"The Bill of Obligations: Ten Habits of Good Citizens,\" which is now out, we're so happy to have him on, Richard Haass, he is the president of the Council on Foreign Relations and a veteran diplomat. Good morning.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:37:57",
+      "speaker": "RICHARD HAASS, PRESIDENT, COUNCIL ON FOREIGN RELATIONS",
+      "sentences": "Good morning.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:37:57",
+      "speaker": "HARLOW",
+      "sentences": "Yes, good morning.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:37:57",
+      "speaker": "LEMON",
+      "sentences": "We're so happy - both of us are so happy to have you on this morning.Let's start with what's happening in Ukraine. What do you think of Zelenskyy's warning there?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:37:57",
+      "speaker": "HAASS",
+      "sentences": "Look, this is -- you know, the Germans were reluctant to do this. Ukraine has wanted more arms all along. The United States has been trying to balance helping Ukraine and perhaps not provoking Russia. So, I think what we're going to find out is what can Ukraine actually accomplish with these arms? Can it be a military breakthrough? Quite possible it won't.The other part -- what it might lead to is something more of a stalemate and the Russians and the Ukrainians may gradually be inching in the direction where negotiations may become more acceptable.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:37:57",
+      "speaker": "LEMON",
+      "sentences": "So, you think negotiations and not -- does this continue, this war? You said, is it a stalemate? That means a longer war?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:37:57",
+      "speaker": "HAASS",
+      "sentences": "Yes. A longer war, but at some point, if both sides decide that they can't win militarily, and the costs of prosecuting the war with too high, then that sets up a backdrop potentially, emphasize the word potentially, for - for diplomacy. We'll see, but that's my guess.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:37:57",
+      "speaker": "LEMON",
+      "sentences": "You think Putin, through diplomacy, would ever agree to -",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:37:57",
+      "speaker": "HAASS",
+      "sentences": "I think it's - look, moment, no. He's worried that anything that looks like a defeat on the battlefield could weaken him at home.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:37:57",
+      "speaker": "HARLOW",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:37:57",
+      "speaker": "HAASS",
+      "sentences": "But at some point he's going to have to make the calculation whether -- does that flip and reverse and does continuing the war perhaps weaken him at home? We're not there yet. Maybe one day.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:40:07",
+      "speaker": "HAASS",
+      "sentences": "That's central to Russian nuclear doctrine. And that's something we've been - we, the west, have been thinking about all along. How do you help Ukraine enough -",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:40:07",
+      "speaker": "HARLOW",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:40:07",
+      "speaker": "HAASS",
+      "sentences": "And not get to that point. But also, you don't want to signal that Russian nuclear threats have real weight. What will that teach the Russians and the rest of the world, that nuclear weapons are really useful. That's why this is such a tough crisis --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:40:07",
+      "speaker": "HARLOW",
+      "sentences": "How do you walk that line? You're a diplomat.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:40:07",
+      "speaker": "HAASS",
+      "sentences": "Well, at the moment, I think you push, as we're pushing. But at some point you may say, we want to liberate Crimea, which, as you know, which is -",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:40:07",
+      "speaker": "HARLOW",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:40:07",
+      "speaker": "HAASS",
+      "sentences": "But you may not want to liberate it all militarily. And you might say, maybe that's still a role for diplomacy and sanctions. This is going to be tricky. And you're exactly right, you've got to walk a line here. The administration's been doing it all along. I think not badly. But this is - this is - this is tricky given these threats.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:40:07",
+      "speaker": "LEMON",
+      "sentences": "Richard, we spoke when I did the night show when this war started. And did you think -- one, did you think that it would last this long, that we'd still be talking about it?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:40:07",
+      "speaker": "HAASS",
+      "sentences": "Early on everyone was worried that Ukraine would be overwhelmed.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:40:07",
+      "speaker": "LEMON",
+      "sentences": "Right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:40:07",
+      "speaker": "HAASS",
+      "sentences": "We all underestimated Ukraine, overestimated Russia. By the way, we - I include Vladimir Putin. I don't think a lot of experts thought this war was going to go the way it did.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:40:07",
+      "speaker": "LEMON",
+      "sentences": "So then, six months into the future, what do you think?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:40:07",
+      "speaker": "HAASS",
+      "sentences": "It's going to look a lot like the present.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:40:07",
+      "speaker": "LEMON",
+      "sentences": "You do? OK. Why do you say that?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:40:07",
+      "speaker": "HAASS",
+      "sentences": "Because I don't see either side necessarily having enough of a military advantage to break the other. Russia's is a very dug in, defensive positions. Ukraine is getting more offensive fire power. I'm not sure it's going to be enough to fundamentally change the military balance. And I don't think either side is as yet ready to negotiate, but at some point maybe.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:40:07",
+      "speaker": "HARLOW",
+      "sentences": "Can we talk about the book?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:40:07",
+      "speaker": "LEMON",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:40:07",
+      "speaker": "HAASS",
+      "sentences": "Sure.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:40:07",
+      "speaker": "LEMON",
+      "sentences": "Let's talk about what this book is about, as a matter of fact, because we -- according to the Justice Department -- the book is called \"The Bill of Obligations",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:40:07",
+      "speaker": "HAASS",
+      "sentences": "It's actually what shocked me into writing this book.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:40:07",
+      "speaker": "HARLOW",
+      "sentences": "Really?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:40:07",
+      "speaker": "LEMON",
+      "sentences": "Go on.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:40:07",
+      "speaker": "HAASS",
+      "sentences": "The idea that - you know, I don't know about you, but I get up every morning and I worry about a lot of things. I never thought I had to worry about the fabric of American democracy, about the fabric of the United States. And what January 6th taught me is we can no longer take that for granted.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:40:07",
+      "speaker": "HARLOW",
+      "sentences": "So, in the break, I just had Richard start to sign the book. And I said, can you write it to my kids, sienna and Luca, when they're old enough, they're four and six now, because what I like about this book so much is it is - it is about preserving democracy, but you write one of the central tenets of doing that is about compromise, and can we come to compromise. And you seem hopeful, but can we?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:40:07",
+      "speaker": "HAASS",
+      "sentences": "Sure. Compromise need not be a dirty word. When John F. Kennedy wrote \"Profiles in Courage,\" some of the people he highlighted, he wrote portraits of, were people who were willing to take difficult compromises.But politicians, at the end of the day, will only do it if they get rewarded for it. In my experience, politicians aren't always responsible. They're always responsive. So they have to understand that if they make compromises, it actually will help them and not hurt them. So, it's on us. They will do the right thing only if we pressure them to do the right thing.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:40:07",
+      "speaker": "LEMON",
+      "sentences": "According to the Justice Department, more than 500 January 6th Capitol rioters have been found guilty of crimes committed that day. The members of the Oath Keepers have been found guilty of seditious conspiracy. Do you believe -- do you think that people don't realize their own obligations as citizens of a democracy?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:40:07",
+      "speaker": "HAASS",
+      "sentences": "That's -- again, that's why I wrote the book. We don't understand it. We don't study it. Think about it, you can graduate from almost any university in this country never having studied anything about American democracy. You can graduate from any elementary and high school again not having been exposed to it. Most Americans then have - if they read it, they've forgotten it, the Declaration of Independence or the Constitution. They've never read the Federalist Papers. So why do we think Americans will value democracy? Why do we think that they'll understand what it takes for democracy to work if they haven't studied it. And that's the reality.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:40:07",
+      "speaker": "LEMON",
+      "sentences": "Is that why people believe the former president's lies, as you say, because they haven't studied it?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:40:07",
+      "speaker": "HAASS",
+      "sentences": "There's that and also the information world we live in, that they're - they're on social media, they're on -- they choose to go on media that reinforces all their biases. One of the things I've been arguing for is we need to have information literacy. New Jersey just passed a law, first state in the country, to teach students how to navigate the space of information. How do you tell when it's a fact.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:40:07",
+      "speaker": "HARLOW",
+      "sentences": "The news.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:40:07",
+      "speaker": "HAASS",
+      "sentences": "How do you tell fact from opinion?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:40:07",
+      "speaker": "HARLOW",
+      "sentences": "There is a great -- the News Literacy Project, you know, does that work about teaching kids - you know, my mother - I grew up, and I'm sure your mom said this, consider the source. That is more important now than ever.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:40:07",
+      "speaker": "HAASS",
+      "sentences": "And consider the sources.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:40:07",
+      "speaker": "HARLOW",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:40:07",
+      "speaker": "HAASS",
+      "sentences": "One of the things I think is important is to multisource, not single source your information.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:40:07",
+      "speaker": "HARLOW",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:40:07",
+      "speaker": "HAASS",
+      "sentences": "I think that also really helps.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:40:07",
+      "speaker": "LEMON",
+      "sentences": "Speak of sources, or considering the source, and believing folks, are you watching this George Santos stuff? I'm sure you are.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:03",
+      "speaker": "LEMON",
+      "sentences": "\"The Bill of Obligations",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:03",
+      "speaker": "HARLOW",
+      "sentences": "Congrats.I'll let you finish now, for the kids. HAASS: OK.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:03",
+      "speaker": "HARLOW",
+      "sentences": "Congratulations. I think it's his 15th book.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:03",
+      "speaker": "HAASS",
+      "sentences": "Something like that.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:03",
+      "speaker": "HARLOW",
+      "sentences": "You've got a lot. Wow.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:03",
+      "speaker": "HAASS",
+      "sentences": "Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:03",
+      "speaker": "HARLOW",
+      "sentences": "Thank you, Richard. Congrats.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:03",
+      "speaker": "LEMON",
+      "sentences": "It's a pleasure. Thank you so much.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:03",
+      "speaker": "HAASS",
+      "sentences": "Thank you, guys.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:03",
+      "speaker": "HARLOW",
+      "sentences": "All right, take a look at this picture. It has a lot of people talking. That is Floyd Dean Shannon, a Delta Airlines flight attendant, sitting in the middle of the aisle holding a nervous flier's hand midflight. He's with us next.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:03",
+      "speaker": "LEMON",
+      "sentences": "Yes, where have you been all my life. I need him on airplanes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:03",
+      "speaker": "HARLOW",
+      "sentences": "I need - you get nervous? I get -",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:03",
+      "speaker": "LEMON",
+      "sentences": "I do. I do.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:03",
+      "speaker": "HARLOW",
+      "sentences": "What? I never knew that. I thought it was just me.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:03",
+      "speaker": "LEMON",
+      "sentences": "I don't like flying. It's not natural.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:50:01",
+      "speaker": "LEMON",
+      "sentences": "Hello. So, this morning - hi, everyone.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:50:01",
+      "speaker": "HARLOW",
+      "sentences": "(INAUDIBLE).",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:50:01",
+      "speaker": "LEMON",
+      "sentences": "This morning we still don't - we still don't know which two NFL teams will face off at Super Bowl LVII, but we know who's going to be bringing the pre-show eat.(BEGIN VIDEO CLIP) CHRIS STAPLETON, MUSICIAN (singing): You're as smooth as Tennessee whiskey. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:50:01",
+      "speaker": "LEMON",
+      "sentences": "I love me some Chris Stapleton. That voice. He's amazing.Country music star, eight-time Grammy Award winner Chris Stapleton will sing the national anthem. It is the third year in a row a country star will do the honors. Stapleton will also be accompanied by Troy Kotsur, who will perform an anthem in sign language. Kotsur won best supporting actor at the Oscars last year for his performance in \"CODA.\" (BEGIN VIDEO CLIP) BABYFACE, MUSICIAN (singing): And every time I close my eyes I thank the Lord that I've got you. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:50:01",
+      "speaker": "LEMON",
+      "sentences": "All right, Babyface, come on now. R&amp;B legend Babyface will sing \"America the Beautiful.\" The 12-time Grammy Award winner has written hits for Whitney Houston, Beyonce, Michael Jackson and many more. And Emmy Award winning actress, and my dear friend, I love her, the queen, the GOAT, Sheryl Lee Ralph will perform \"Lift Every Voice,\" making the second time what's known as the black national anthem will be sung at the Super Bowl. And, finally, Rihanna set to deliver the performance of the night. The music superstar and fashion mogul will headline the Apple Music Super Bowl halftime show.I am exhausted because there's so much talent there. That is crazy.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:50:01",
+      "speaker": "HARLOW",
+      "sentences": "Are you going? Can we go?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:50:01",
+      "speaker": "LEMON",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:50:01",
+      "speaker": "HARLOW",
+      "sentences": "Let's just go and do the show from there.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:50:01",
+      "speaker": "LEMON",
+      "sentences": "Hey, we would like to go. We'll do the show from there, you know.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:50:01",
+      "speaker": "HARLOW",
+      "sentences": "OK. Great. Thanks.OK, and now - they're going to send us. And now to a touching moment. We love this story. Capturing the hearts of so many. Take a look. This is the image that has gone viral. It shows a Delta Air Line flight attendant going above and beyond to comfort a passenger who is apparently afraid to fly. You see him there holding her hand as she - as he sits on the aisle right next to her seat. That gentleman joins us now, Floyd Dean-Shannon. You are wonderful, sir.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:50:01",
+      "speaker": "LEMON",
+      "sentences": "And you can -- we'll fly to the Super Bowl with you and I know you'll take good care of us.Good morning.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:50:01",
+      "speaker": "HARLOW",
+      "sentences": "Yes. Good morning.FLOYD DEAN-SHANNON, DELTA FIGHT ATTENDANT WHO COMFORTED NERVOUS PASSENGER DURING FLIGHT: Good morning. Good morning. How y'all doing?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:50:01",
+      "speaker": "HARLOW",
+      "sentences": "So tell us - tell us - we are -",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:50:01",
+      "speaker": "LEMON",
+      "sentences": "Better that you're here.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:50:01",
+      "speaker": "HARLOW",
+      "sentences": "Yes, better that you're here.Can you tell us -- take us to that moment? DEAN-SHANNON: So, to briefly run you through it real quick. She came on board the plane. And when she came onto the plane, she was a little nervous. And before we even took off, she started sweating real bad. And I was - you know, once we got to the elevation of two times, I went ahead and said - and got up and asked - and asked my former co- worker, my partner, I said, can you do the briefing while I go handle her? And I sat down and I said, are you OK? She said, I don't want this. I'm embarrassed. I said, it's no need to be embarrassed. I'm here. I explained everything to her from what - from what noise, from what wave turbulence we had going on. I just went ahead and just explained it to her, reassured her that safety is the key that we have. And then we want you to have a wow experience with us.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:50:01",
+      "speaker": "LEMON",
+      "sentences": "A -- you said a wild experience?DEAN-SHANNON: Wow. Wow. Wow. Wow. W-o-w.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:50:01",
+      "speaker": "HARLOW",
+      "sentences": "Wow.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:50:01",
+      "speaker": "LEMON",
+      "sentences": "Wow. W-o-w.OK. OK. I just want to make sure. DEAN-SHANNON: Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:50:01",
+      "speaker": "LEMON",
+      "sentences": "Look, there's nothing with a wild experience as well.But, listen, I've got to ask you, is it true that you've only been a flight attendant for three months? DEAN-SHANNON: Yes, it is. It's very much true that I've only been a flight attendant - I graduated October the 26th, class of 20 - 2022 20 A (ph).",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:50:01",
+      "speaker": "LEMON",
+      "sentences": "Yes, and?DEAN-SHANNON: Yes. And I've been trying to the soar to the highest mountain that I can reach. I mean, I'm here. I'm here to serve. I'm here to give my love to everybody. I love to share the love.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:50:01",
+      "speaker": "HARLOW",
+      "sentences": "Oh.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:50:01",
+      "speaker": "LEMON",
+      "sentences": "We're going to have to find out, Poppy -",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:50:01",
+      "speaker": "HARLOW",
+      "sentences": "What?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:50:01",
+      "speaker": "LEMON",
+      "sentences": "But just to fly, just like take a trip with him just because.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:50:01",
+      "speaker": "HARLOW",
+      "sentences": "We want to. LEMON",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:50:01",
+      "speaker": "HARLOW",
+      "sentences": "Should we let them in on our secret?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:50:01",
+      "speaker": "LEMON",
+      "sentences": "We've should have done this interview on the plane, right? That's our secret.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:50:01",
+      "speaker": "HARLOW",
+      "sentences": "Yes, (INAUDIBLE) - oh, our secret is, so I'm very scared to fly.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:50:01",
+      "speaker": "LEMON",
+      "sentences": "Oh, yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:50:01",
+      "speaker": "HARLOW",
+      "sentences": "People who know me well know that. And I have had moments in tears on planes. And it's been a struggle for me. And I've worked through it. But it's folks like you that really help.But Don just told me in the break he gets a little nervous too.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:50:01",
+      "speaker": "LEMON",
+      "sentences": "I don't - look, flying is obviously not natural to humans. So, I just don't -- I'm not a fan of it. I do it. But I'm OK with it. When it gets a little bumpy, I don't like it, especially when we're landing and we have to circle and it's bumping and I'm like -",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:50:01",
+      "speaker": "HARLOW",
+      "sentences": "We need you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:50:01",
+      "speaker": "LEMON",
+      "sentences": "Just land this damn thing. Come on. Let's get down there. Go.So, how do you help us? What would you do in our case? DEAN-SHANNON: So, first thing I would do is give you a mimosa to make sure it calms you down.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:55:03",
+      "speaker": "LEMON",
+      "sentences": "Where were you - where was she flying to again?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:55:03",
+      "speaker": "HARLOW",
+      "sentences": "I don't know.DEAN-SHANNON: She was flying to New York.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:55:03",
+      "speaker": "HARLOW",
+      "sentences": "No beach here. Well, not now.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:55:03",
+      "speaker": "LEMON",
+      "sentences": "Not now.DEAN-SHANNON: Not now. HARLOW: Hey, I've got to ask you before you go. The woman who posted this photo of you that went viral said you deserve a raise. And I know Delta has praised you. What -- have you talked to Ed Bastian, the CEO, yet? What have your chats with Delta been like?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:55:03",
+      "speaker": "LEMON",
+      "sentences": "Yes, Ed, call him.DEAN-SHANNON: I haven't chat to nobody from Delta yet except for Mr. Eric, which is head of communications.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:55:03",
+      "speaker": "HARLOW",
+      "sentences": "Great.DEAN-SHANNON: That's the only person. And Katherine (ph), which is my boss also. And I've been talking to former managers also, you know, and pilots.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:55:03",
+      "speaker": "HARLOW",
+      "sentences": "Great.DEAN-SHANNON: So, they do praise me. They do love me. And I know they got something great for me. And I'm just waiting.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:55:03",
+      "speaker": "LEMON",
+      "sentences": "Well, we're going to make sure that they -- we get them a copy of this segment, Floyd.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:55:03",
+      "speaker": "HARLOW",
+      "sentences": "We will.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:55:03",
+      "speaker": "LEMON",
+      "sentences": "Thank you. Thank you. It was a such pleasure. Good luck to you.DEAN-SHANNON: You're welcome. And I hope that if you all need my schedule, I'll give it to y'all personally so that way y'all can find me.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:55:03",
+      "speaker": "HARLOW",
+      "sentences": "Of course, we do. Thank you for making our day. Thank you for making Shannon's (ph) day.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:55:03",
+      "speaker": "LEMON",
+      "sentences": "Thank you. Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:55:03",
+      "speaker": "HARLOW",
+      "sentences": "We need more people like you in this world.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:55:03",
+      "speaker": "LEMON",
+      "sentences": "Yes. Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:55:03",
+      "speaker": "HARLOW",
+      "sentences": "Thank you.DEAN-SHANNON: Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:55:03",
+      "speaker": "LEMON",
+      "sentences": "Yes, thank you.DEAN-SHANNON: Thank you so much.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:55:03",
+      "speaker": "HARLOW",
+      "sentences": "What a nice -",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:55:03",
+      "speaker": "LEMON",
+      "sentences": "Thank you for making our day.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:55:03",
+      "speaker": "HARLOW",
+      "sentences": "Yes, what a nice way to end it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:55:03",
+      "speaker": "LEMON",
+      "sentences": "Yes. Right. That was awesome. HARLOW",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:55:03",
+      "speaker": "LEMON",
+      "sentences": "Yes, see you tomorrow.",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

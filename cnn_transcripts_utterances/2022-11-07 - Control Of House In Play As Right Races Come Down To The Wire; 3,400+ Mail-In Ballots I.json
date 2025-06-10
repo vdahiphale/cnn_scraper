@@ -1,0 +1,613 @@
+{
+  "date": "2022-11-07",
+  "headline": "CNN This Morning",
+  "subHeadline": "Control Of House In Play As Right Races Come Down To The Wire; 3,400+ Mail-In Ballots In Philadelphia At Risk Of Rejection; Texas County Mired In Election Misinformation Preps For Midterms. Aired 7:30-8a ET",
+  "utterances": [
+    {
+      "timeStamp": "07:31:55",
+      "speaker": "KAITLAN COLLINS, CNN ANCHOR",
+      "sentences": "New York Democratic Congressman Sean Patrick Maloney is the chair of the Democratic Congressional Campaign Committee. He's the man in charge of keeping the House majority but he is at risk of losing his seat, potentially, tomorrow. He is locked in a tight race for New York's 17th Congressional District against Republican State Assemblyman Mike Lawler who is joining us now.This is a race where Democrats are having to spend money here to save their campaign chief, and thank you for being on set with us also this morning.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:31:55",
+      "speaker": "DON LEMON, CNN ANCHOR",
+      "sentences": "Good morning.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:31:55",
+      "speaker": "COLLINS",
+      "sentences": "Don always reminds me to say good morning.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:31:55",
+      "speaker": "LEMON",
+      "sentences": "Good morning.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:31:55",
+      "speaker": "COLLINS",
+      "sentences": "I like to, like, get right to the chase.You know, Democrats that I have spoken to -- they're uncomfortable with the fact that they've had to spend money in this race. Are you surprised that it's this close, and what do you think the implications are if you win? MICHAEL LAWLER, (R) NEW YORK STATE ASSEMBLY, NEW YORK CONGRESSIONAL CANDIDATE:  I'm not surprised in the least. When I announced 5 1/2 months ago, I knew this would be a competitive race. But, Sean Patrick Maloney and Democrats have nobody to blame but themselves. Back in January of this year, he sent a memo on behalf of the DCCC to state Democrats and demanded that they gerrymander New York's districts, and they did. And the courts ultimately threw it out and appointed a special master to create a fair map. And then what he did was he pushed out the first openly gay Black man out of Congress to choose --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:31:55",
+      "speaker": "COLLINS",
+      "sentences": "Mondaire Jones.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:31:55",
+      "speaker": "LAWLER",
+      "sentences": "-- Mondaire Jones to choose this congressional seat. The problem for him is 75 percent of the district is new to him. Heonly represents 25 percent of the district. I represent 20 percent of the district in the State Assembly. So he doesn't have the built-in advantages of incumbency. And 50 percent of households in this district have a cop, a firefighter, a veteran, or a first responder living in it. So, people are hyper-focused on two issues: inflation and crime. And on both, he owns it. Democrats, for the first time in our nation's history, control everything in Washington, Albany, and New York City all at once and they've created a mess -- what we're seeing.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:31:55",
+      "speaker": "LEMON",
+      "sentences": "So what do you -- you think crime is resonating? Because it feels like in your race and other races around New York it's surprising that Republicans are doing so well. It's typically blue, right? I mean, listen, I live -- I live in --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:31:55",
+      "speaker": "LAWLER",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:31:55",
+      "speaker": "LEMON",
+      "sentences": "-- Lee Zeldin's district so I know Suffolk is --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:31:55",
+      "speaker": "LAWLER",
+      "sentences": "Right, yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:31:55",
+      "speaker": "LEMON",
+      "sentences": "Suffolk can be red.But do you -- do you believe that issue, crime, is what has resonated and has been able to lift Republicans to these --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:31:55",
+      "speaker": "LAWLER",
+      "sentences": "Absolutely. And listen, I live in the immediate suburbs of New York City. I'm from Rockland County. We pay among the highest property taxes in America. So the cost of living, coupled with crime, are one and two. And everywhere I go, no matter what community I go into, that's what voters are focused on.And like I said, 50 percent of households have a cop or a first responder, or a veteran living in it, so everybody is impacted whether it's crime in the community or because they work in the city. Because they are in law enforcement. People are very frustrated with New York's policies, especially around cashless bail.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:31:55",
+      "speaker": "LEMON",
+      "sentences": "Listen, I have to say that there's no evidence that cashless bail has had an -- had any impact on -- that's what the facts show.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:31:55",
+      "speaker": "LAWLER",
+      "sentences": "I would -- I would -- I would --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:31:55",
+      "speaker": "LEMON",
+      "sentences": "Let me get my question out.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:00",
+      "speaker": "LEMON",
+      "sentences": "Let me get my question out. Kathy Hochul was on the air and she said that the narrative around crime -- we had her on, on Friday. She said the narrative around crime is not necessarily what the stats show. Now, I know it's very real. I know it's a very real issue.Do you think there's a disconnect there?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:00",
+      "speaker": "LAWLER",
+      "sentences": "I think she's wrong, and here's the truth. Indexed crimes in New York City since cashless bail took effect are up 36 percent. Year- over-year to date, they're up 29 percent. So, the reality is that since cashless bail took effect, crime has gone up significantly. And 40 percent of those released on non-monetary bail for felony offenses have been rearrested while those charges are pending.This is serious and I think when people are saying they don't feel safe it's because they're not safe.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:00",
+      "speaker": "COLLINS",
+      "sentences": "So --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:00",
+      "speaker": "LAWLER",
+      "sentences": "People are concerned about being shoved in front of oncoming subway cars. They're being concerned about being shot in the street. This is a real problem and Democrats own it. They have done nothing to fix it and, in fact, they've made it worse with the policies that they have enacted.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:00",
+      "speaker": "LEMON",
+      "sentences": "But people would say that if someone -- you know, Lee Zeldin had the thing that happened in front of his house. Lee Zeldin is in a Republican district. If he is a Republican congressman and he can't get control of crime where he lives -- therefore --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:00",
+      "speaker": "LAWLER",
+      "sentences": "But --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:00",
+      "speaker": "LEMON",
+      "sentences": "-- is that not an issue?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:00",
+      "speaker": "LAWLER",
+      "sentences": "Policies are statewide policies that have been enacted by one-party rule. The Democrats control everything in Albany and everything in New York City. They eliminated the anti-crime unit. They have non-enforcement of petty crimes.These are serious challenges and it requires a balanced approach. We need judicial discretion. New York State is the only state in the country that does not have a dangerousness standard. We need to have a balanced approached -- a common-sense approach to crime prevention and ensuring the public safety. That is the number one responsibility of government and they have failed to do it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:00",
+      "speaker": "POPPY HARLOW, CNN ANCHOR",
+      "sentences": "So, Assemblyman, I think what Don is saying here is correlation is not necessarily causation.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:00",
+      "speaker": "LEMON",
+      "sentences": "Right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:00",
+      "speaker": "HARLOW",
+      "sentences": "But let's talk about some of the other big issues. I do want to give you chance. Sean Patrick Maloney was on another network yesterday and he made an accusation about you and your position and how you would vote, if you win, on abortion. Let's play it and let you respond.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:00",
+      "speaker": "LAWLER",
+      "sentences": "All right.(BEGIN VIDEO CLIP) REP. SEAN PATRICK MALONEY (D-NY):  My own opponent pretends there's no threat to it in New York but, of course, he voted to ban abortion when he was in the Assembly. And if he had his way, every state in the country could ban it for any reason without exceptions. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:00",
+      "speaker": "HARLOW",
+      "sentences": "I read an op-ed you wrote recently and you said, \"For the record, I am opposed to a federal ban on abortion and will vote against one.\"Can you make very clear for everyone who may vote for you --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:00",
+      "speaker": "LAWLER",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:00",
+      "speaker": "HARLOW",
+      "sentences": "-- or against you this morning what an accurate description is of how you would vote on abortion legislation?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:00",
+      "speaker": "LAWLER",
+      "sentences": "Yes. Well, I never voted to ban abortion in New York. And, in fact, abortion is legal in New York up until the moment of birth. So --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:00",
+      "speaker": "HARLOW",
+      "sentences": "No, it's legal in New York up until 24 weeks.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:00",
+      "speaker": "LAWLER",
+      "sentences": "No.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:00",
+      "speaker": "HARLOW",
+      "sentences": "And after 24 weeks, there are two exceptions.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:00",
+      "speaker": "LAWLER",
+      "sentences": "As part of -- as part of the law that was passed in 2019, they decriminalized providers who perform abortions after the 24th week. And that allows --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:00",
+      "speaker": "HARLOW",
+      "sentences": "Decriminalizing it is different than --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:00",
+      "speaker": "LAWLER",
+      "sentences": "-- that allows -- that allows --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:00",
+      "speaker": "LEMON",
+      "sentences": "Decriminalization is another word for --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:00",
+      "speaker": "HARLOW",
+      "sentences": "It's different.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:00",
+      "speaker": "LAWLER",
+      "sentences": "That allows for legalization of abortion up to the day of birth.But I am against a national ban on abortion. I have -- I am for exceptions for rape, incest, and the health and life of the mother. I have said that repeatedly. Sean Maloney has continually lied throughout this campaign about my position. And Sean Maloney is the only one who has voted for a bill to expand abortion nationwide, in Congress, up until the moment of birth, allow non-doctors to perform abortion, and ban parental notification. That is the extreme position. Eighty-one percent of Americans are opposed to late-term abortion. He supports it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:00",
+      "speaker": "COLLINS",
+      "sentences": "Can I ask you a question if you do win this seat? And we've been talking about Marjorie Taylor Greene -- what a Republican majority --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:00",
+      "speaker": "HARLOW",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:00",
+      "speaker": "COLLINS",
+      "sentences": "-- would look like. I'm curious because there is this split in the Republican Party of what tact people pursue once they get to Washington.Are you going to -- what kind of Republican do you think you're going to be if you do get elected tomorrow?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:00",
+      "speaker": "LEMON",
+      "sentences": "Because people have compared you to Peter King, sort of --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:00",
+      "speaker": "HARLOW",
+      "sentences": "You like Peter King. You like Peter King.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:00",
+      "speaker": "LAWLER",
+      "sentences": "I like Peter King a lot.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:00",
+      "speaker": "HARLOW",
+      "sentences": "You like to compare yourself to Peter King.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:00",
+      "speaker": "LAWLER",
+      "sentences": "Peter King is a great friend and he was a great congressman for New York because he stood up for --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:00",
+      "speaker": "COLLINS",
+      "sentences": "But what kind of congressman will you be?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:00",
+      "speaker": "LAWLER",
+      "sentences": "I will be like Pete King. He stood up for New York.And I was the only Republican pick-up two years ago in the State Assembly. I flipped a 2-1 Democratic district. I did that by going into every community and talking to every voter regardless of their party affiliation, regardless of their race or ethnicity, or religion. I want to represent the people that elect me so I will be a Republican that represents everyone. That goes down to Washington to fight for my district and my community, and that's why my focus will be. This district has 70,000 more Democrats than Republicans. I'm going to win tomorrow because I have talked about the issues that people are focused on and as their member of Congress I'm going to be their voice. I'm not looking to go be one of 435. I'm not looking to be a rubber stamp. I'm going to fight for what matters to my constituents.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:02",
+      "speaker": "LAWLER",
+      "sentences": "Right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:02",
+      "speaker": "LEMON",
+      "sentences": "And by -- we were -- that was maybe 15-20 minutes before it opened. And by the time it opened it was probably 40-50 --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:02",
+      "speaker": "COLLINS",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:02",
+      "speaker": "LEMON",
+      "sentences": "-- deep.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:02",
+      "speaker": "COLLINS",
+      "sentences": "Very big turnout this year. LAWLER",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:02",
+      "speaker": "LEMON",
+      "sentences": "I had on my LSU baseball cap and someone said I recognize your voice. And I said shh. Don't want to cause any --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:02",
+      "speaker": "COLLINS",
+      "sentences": "Thank you so much for joining us on set.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:02",
+      "speaker": "LAWLER",
+      "sentences": "Thanks for having me.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:02",
+      "speaker": "COLLINS",
+      "sentences": "We'll be looking to see what happens --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:02",
+      "speaker": "LEMON",
+      "sentences": "Good luck. Thank you. We really appreciate you coming on.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:02",
+      "speaker": "COLLINS",
+      "sentences": "-- in your race. We do appreciate you joining us.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:02",
+      "speaker": "LAWLER",
+      "sentences": "Thanks.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:02",
+      "speaker": "LEMON",
+      "sentences": "Thank you very much -- appreciate it.And straight ahead, why more than 3,400 ballots in Philadelphia are at risk of being rejected.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:00",
+      "speaker": "HARLOW",
+      "sentences": "Forty million of you have already voted either by mail or in person in this midterm election. In Philadelphia, election officials are alerting more than 3,400 voters whose ballots are at risk of being rejected because of incorrect information, missing dates, or missing secrecy envelopes. And this comes after the Pennsylvania Supreme Court barred local election officials from counting ballots with missing or incorrect dates on the return envelopes.So let's talk about this with the chairwoman of the Philadelphia City Commissioners, Lisa Deeley. She is part of a bipartisan board in charge of elections in Philadelphia.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:00",
+      "speaker": "LEMON",
+      "sentences": "Who better, right? She's a perfect person to --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:00",
+      "speaker": "HARLOW",
+      "sentences": "Who better?Thirty-four hundred votes -- that's a lot. What does this actually mean? LISA DEELEY, CHAIRWOMAN, PHILADELPHIA CITY COMMISSIONERS (via Webex by Cisco):  You know, 3,400 votes is a lot but even if it were one vote it's too many.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:00",
+      "speaker": "HARLOW",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:00",
+      "speaker": "DEELEY",
+      "sentences": "Pennsylvania voters should have confidence that when they cast their vote they won't be denied their right for that vote to be counted based on clerical errors or issues that should -- that have no real relevance to their ballot.Above all that, they should have clarity. So these decisions that come down this late in the game -- they really upset voters and they do more to reinforce people's mistrust in the process. And it's a real tragedy for Pennsylvania voters that this has occurred this late in the game and that we can't get common-sense clarity for our voters.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:00",
+      "speaker": "LEMON",
+      "sentences": "So there's no fix? What is the fix? A done deal?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:00",
+      "speaker": "DEELEY",
+      "sentences": "Vote -- we have the list available to voters on our website and we are urging them to come into City Hall to replace their ballots if they find their name on this list. You know, it's a couple of days before the election. For a lot of these voters, they submitted their ballots weeks ago. They may be out of town or unavailable to come in. This really creates a really unfair disenfranchisement to thousands of voters not only here in Philadelphia but across the Commonwealth.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:00",
+      "speaker": "COLLINS",
+      "sentences": "And one thing we've been trying to do here is talk about what our audience should be expecting for tomorrow night. And one of the big aspects of that is the vote counting and that it is going to take a while, especially in Pennsylvania, especially in Philadelphia.So can you kind of just brace our audience for what tomorrow night should look like? How long that vote count is going to take?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:00",
+      "speaker": "DEELEY",
+      "sentences": "Your audience should know that we are going to work around the clock, as we did in 2020, to get that count done as quickly as possible. In Pennsylvania, again, we do not have common-sense legislation that enables us to start the canvas or the count earlier. We can't begin to count those mail-in ballots until election morning.And, you know, in Philadelphia, at the same time, we are conducting a major in-person election with 1,703 precincts that we're standing up for in-person voting. So, tomorrow is a very hectic day. We're going to start at 7:00 in the morning and we're going to continue around the clock until all of the votes are counted.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:00",
+      "speaker": "COLLINS",
+      "sentences": "We know it's going to be a very busy day for you. We thank you for taking time out of your day to talk to us and really explain this to our audience this morning. We really value your time.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:00",
+      "speaker": "HARLOW",
+      "sentences": "Thanks, Commissioner Deeley.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:00",
+      "speaker": "LEMON",
+      "sentences": "Thank you, Commissioner. The next 48 hours for you -- well, longer --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:00",
+      "speaker": "DEELEY",
+      "sentences": "Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:00",
+      "speaker": "LEMON",
+      "sentences": "-- I think --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:00",
+      "speaker": "COLLINS",
+      "sentences": "Get some coffee.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:00",
+      "speaker": "LEMON",
+      "sentences": "-- you've got your work cut out -- yes. Thanks a lot.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:00",
+      "speaker": "HARLOW",
+      "sentences": "Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:00",
+      "speaker": "LEMON",
+      "sentences": "Up next --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:00",
+      "speaker": "COLLINS",
+      "sentences": "We'll talk about why election staff in one Texas county quit abruptly three months before the midterm elections.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:00",
+      "speaker": "LEMON",
+      "sentences": "And ahead, we're going to be joined by \"THE DAILY SHOW\" contributor Jordan Klepper. If you don't know this guy -- well, you know him. It's a look at his new special where he speaks to election deniers in swing states. Watch this.(BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:00",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "What does conceding mean?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:00",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "Yes.JORDAN KLEPPER, CONTRIBUTOR, \"THE DAILY SHOW WITH TREVOR NOAH\":  It means accepting loss. If you lose, would you concede?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:00",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "No.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:00",
+      "speaker": "KLEPPER",
+      "sentences": "No.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:52:54",
+      "speaker": "LEMON",
+      "sentences": "Welcome back, everyone.Election officials in Gillespie, Texas leaving their posts in the lead-up to tomorrow's election. So, who is left in charge? An election precinct judge who doesn't accept the results of the 2020 presidential contest. CNN's Ed Lavandera reports now. (BEGIN VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:52:54",
+      "speaker": "DAVID TREIBS, ELECTION PRECINCT JUDGE",
+      "sentences": "This is the auction barn most of the time. ED LAVANDERA, CNN SENIOR NATIONAL CORRESPONDENT (voice-over)Election Day, David Treibs will be here serving the voters of precinct 13 in Gillespie County, Texas. LAVANDERA (on camera):  And you have an official title?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:52:54",
+      "speaker": "TREIBS",
+      "sentences": "Yes, sir.LAVANDERA (on camera):  What is that title?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:52:54",
+      "speaker": "TREIBS",
+      "sentences": "I'm an election judge.LAVANDERA (voice-over):  Treibs' role as an election precinct judge usually wouldn't raise any eyebrows in this Texas hill country town until you hear this. LAVANDERA (on camera):  So you believe the 2020 election was stolen from Donald Trump?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:52:54",
+      "speaker": "TREIBS",
+      "sentences": "Yes, I do.LAVANDERA (on camera):  Why should someone like you serve in this kind of official capacity for an election?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "LINDSEY BROWN, ACTING ELECTIONS ADMINISTRATOR",
+      "sentences": "I've had to learn a lot of information really quickly.LAVANDERA (voice-over):  With no election team in place, it fell to the county clerk, Lindsey Brown, to serve as the elections administrator.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "BROWN",
+      "sentences": "People that have been in elections before -- people that have worked it before have tapped into their knowledge and wisdom.LAVANDERA (on camera):  I understand the Texas Secretary of State's office has sent in election trainers.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "BROWN",
+      "sentences": "Yes.LAVANDERA (on camera):  They're sending in inspectors. How valuable or how needed have those people been?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "BROWN",
+      "sentences": "Very valuable.LAVANDERA (voice-over):  Jerry Vaclav is a Gillespie County Democrat who will work as an alternate precinct judge. He attended those polling location training sessions and says what he heard from the election conspiracy theorists troubles him.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "JERRY VACLAV, GILLESPIE COUNTY DEMOCRATIC PARTY",
+      "sentences": "One of the major questions in our training session is well, what are we supposed to do with the fake I.D.s that the Biden administration is issuing to illegals when they pass -- when they cross the border? And the Secretary of State just said -- the representative just said that's not happening, and we went on.LAVANDERA (voice-over):  For now, officials are hoping for the best. LAVANDERA (on camera):  Do you feel confident that this election will go off smoothly?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "BROWN",
+      "sentences": "Yes, sir.(END VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "LAVANDERA",
+      "sentences": "And Don, that election precinct judge you heard from there at the beginning of the story -- he believes that in 2020, there were 2,000 Donald Trump votes that were flipped from Trump to Biden there in Gillespie County. This is a lie that has been peddled by the My Pillow CEO Mike Lindell. And Democrats are worried enough that for the first time in memory, they are sending out election poll watchers to various precincts around the county on Election Day tomorrow -- Don.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "LEMON",
+      "sentences": "All right, Ed Lavandera. Thank you, Ed.",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

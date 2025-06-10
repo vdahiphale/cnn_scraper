@@ -1,0 +1,199 @@
+{
+  "date": "2023-04-14",
+  "headline": "CNN Newsroom",
+  "subHeadline": "Air National Guardsman Accused Of Intel Leak Appears In Court; DOJ And Drugmaker Ask Supreme Court To Block Ruling On Abortion Pill; Rep. Robin Bartleman (D-FL) Discusses About The Six-Week Abortion Signed By Gov. DeSantis; Court Docs: Suspect, Bob Lee Appear To Have Argued Before Murder. Aired 3-3:30p ET",
+  "utterances": [
+    {
+      "timeStamp": "15:00:33",
+      "speaker": "ERICA HILL, CNN HOST",
+      "sentences": "Top of the hour here in the CNN NEWSROOM. I'm Erica Hill.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:00:33",
+      "speaker": "BIANNA GOLODRYGA, CNN HOST",
+      "sentences": "And I'm Bianna Golodryga.He was scared of getting caught transcribing classified documents at work, so what did he do? Well, he took them home. That is just one of the stunning new details we're learning about the suspect arrested and the flagrant Pentagon leak investigation. Twenty-one-year-old Jack Teixeira was charged with two federal crimes today. He did not enter a plea, but he will remain in custody until his detention hearing next week. Teixeira who was arrested yesterday at his parents' home was an IT specialist for a military intelligence unit on Cape Cod, Massachusetts.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:00:33",
+      "speaker": "HILL",
+      "sentences": "Today's affidavit are providing some more insight into why this effectively low level Air National Guardsman had such high level access to the sensitive information as Bianna mentioned, he worked in IT. He actually held top secret clearance since 2021.Starting in December, according to the affidavit, he was posting hundreds of highly classified Intel documents to a chat group frequented by gamers. Those documents later spread on social media. CNN's Chief Law Enforcement Intelligence Analyst, John Miller, is with us as well as CNN National Security Correspondent Natasha Bertrand who is joining us live from the Pentagon. So John, let's talk a little bit more about these charges. So two federal charges at this point and what do they point to?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:00:33",
+      "speaker": "JOHN MILLER, CNN CHIEF LAW ENFORCEMENT AND INTELLIGENCE ANALYST",
+      "sentences": "So these are your basic holding charges. This is unauthorized use of a government computer, improper handling of classified documents. But as the investigation which is literally today, only six days old, which is lightning speed in a classified leak investigation has to go further, which is okay, this is what we know and we think, which he was - he had his friends, they were gamers, they shared these documents in their private discord space, it was cool to have access to real secrets.What we don't have is an espionage charge. What we don't have is that he was working for a foreign government. What we don't have was he was leaking it to Russia or China. But they're not finished yet. So what we're going to see is he's arrested on probable cause. It's a complaint by an FBI agent, we're going to see an indictment and then you could see a superseding indictment, depending on where the investigation goes. At minimum for every one of the hundreds of documents that he may have posted. Each one of those could be a criminal count ...",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:00:33",
+      "speaker": "HILL",
+      "sentences": "Wow.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:00:33",
+      "speaker": "MILLER",
+      "sentences": "... that would be added to those charges.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:00:33",
+      "speaker": "GOLODRYGA",
+      "sentences": "Yes, so there could be more charges to come as you said. It's still early days.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:00:33",
+      "speaker": "MILLER",
+      "sentences": "It could be more charges. He could be facing serious time. Right now the ball is in his court, which is the key is whether or not and how much he's going to cooperate in the investigation or just - if his lawyers tell him, I'm not saying anything and we're going to fight this. These are the choices that are in their court now,",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:00:33",
+      "speaker": "GOLODRYGA",
+      "sentences": "And what more potentially investigators could find as they're doing their searches.Natasha, can you tell us more about how this suspect was able to have such a high top level security clearance and when he had access to that?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:05:03",
+      "speaker": "HILL",
+      "sentences": "Yes. Really important questions. Natasha Bertrand, John Miller, thank you both.Also with us, CNN National Security Analyst, Juliette Kayyem. She's a former Homeland Security official. Juliette, good to see you. So we should also point out that in your time in Homeland Security in the state of Massachusetts, you oversaw the Air National Guard there. As we look at all of this and everybody is trying to trying to put all the pieces of the puzzle together. I think Natasha brought up a really interesting point ...",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:05:03",
+      "speaker": "JULIETTE KAYYEM, CNN NATIONAL SECURITY ANALYST",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:05:03",
+      "speaker": "HILL",
+      "sentences": "... about oversight. So we know that he had access because he had this job where he worked in it, he was responsible for basically keeping those systems running. The fact that there didn't seem to be any sort of checks and balances in place, no oversight, based on what we know now, in terms of who may have been looking at those documents, what they could do with them, that he could print them out and bring them home.When you were there, was there any sort of oversight here? Would someone in this position have a manager who is checking to see when they're accessing certain things?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:05:03",
+      "speaker": "KAYYEM",
+      "sentences": "Yes. Right, and - yes, and there are systems in place to determine how long someone's in the SCIF, how did he get a phone in the SCIF, I mean, in other words, I'm assuming he's taking pictures off of his phone, questions about (inaudible) ...",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:05:03",
+      "speaker": "HILL",
+      "sentences": "Well, he reportedly brought it home, brought the documents home to take the pictures of them at home according to the affidavit.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:05:03",
+      "speaker": "GOLODRYGA",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:05:03",
+      "speaker": "KAYYEML",
+      "sentences": "He brought it home but also - and the pictures - okay, right. So he does that, but I think the big question right now is who owned him. And this is where my brain is right now.And what I mean by that is he is - he enters the State National Guard, Massachusetts National Guard, and is in a in a state status. That means he's essentially owned by the governor who I reported to at the time. So he is doing what we call state functions. There's a capacity in particular in Intel, in particular at this wing in which the person is what we call federalized or title 10 status. That - I don't mean to get technical here, it just means he's owned now by the Pentagon. And his reporting bypasses the governor and he goes up the Pentagon chain. It was interesting to me to say the least that at least what's been disclosed by the court yet - now, it does not at all make clear what status he was in when he had access to that information. It says he has top secret security clearance that tells me nothing. He could be either State National Guard or Federal National Guard. I believe this is the next shoe to drop. I mean, I believe as we learn more, we will either determine for reasons that are inexplicable to me that he was a State National Guard member having access to information that has almost no relevance to a State National Guard or possibly that he had been federalized under Title 10 status, in which case the Pentagon has a big problem, right? Because he is reporting up the Pentagon chain of command, and they should have had better oversight over him. In either case, let's just say it's not good.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:05:03",
+      "speaker": "GOLODRYGA",
+      "sentences": "Can you explain how the process works when somebody has top secret national security clearance? Because it seemed yesterday from that Pentagon briefing that they were really focusing on the fact that he signed an NDA and that in and of itself is sort of like the ball is in his court. He broke that agreement and he gave the analogy, the Brigadier General, that it was as if somebody's home had been locked in somebody who had a copy of the key then decided to break back into that home.I mean, is it as simple as that? Is this sort of like an honor system when it comes to national security issues?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:10:03",
+      "speaker": "HILL",
+      "sentences": "Juliette Kayyem, good to have you with us today. Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:10:03",
+      "speaker": "GOLODRYGA",
+      "sentences": "Well, the Justice Department is officially asking the Supreme Court to intervene in the battle over a widely use abortion medication. We'll tell you what comes next.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:15:08",
+      "speaker": "GOLODRYGA",
+      "sentences": "The Supreme Court has until midnight to step in and block a ruling that would restrict access to a widely used abortion pill. The Justice Department and the manufacturer of the drug have asked the justices to intervene.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:15:08",
+      "speaker": "HILL",
+      "sentences": "CNN's Jessica Schneider Joining us now with more of these details. So we are essentially on Supreme Court watch yet again. It's really what you're very familiar with, my friend. What are we looking at here? What are the details?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:15:08",
+      "speaker": "JESSICA SCHNEIDER, CNN JUSTICE CORRESPONDENT",
+      "sentences": "Well, we're expecting that the Supreme Court could act fast here because really, guys, if they don't, the entire way that this abortion pill is administered would change virtually overnight. It would still definitely be available, but there would be these drastic changes that the FDA has laid out. They're saying that they're unsure how exactly they would handle it if the Fifth Circuit ruling goes into effect. And they're saying that this is really a process that demands just a lot more than just a flip of a switch.So the DOJ has asked the Supreme Court to step in. They're laying out all of these logistical hurdles. But here is what would happen if the Supreme Court does not step in. At about 1 am Saturday morning, so just mere hours from now, a Fifth Circuit ruling, it would take effect and that ruling says that women beyond seven weeks pregnant cannot take Mifepristone. Well, up until now they've been able to get it up to 10 weeks pregnant. And also telehealth and prescription by mail options would just be eliminated. So women for the past few years, they've been able to get this prescribed online by their doctor and then get it in the mail. That however, would end overnight tonight, if the Supreme Court does not step in here. Now, DOJ has laid this all out in their filing to the Supreme Court and they're arguing right off the bat several things. They're saying, look, this drug has been approved for more than 20 years since the year 2000. It's survived five presidential administrations because of the scientific backing for this. And the World Health Organization has this drug listed on its list of essential medicines. So the DOJ is doing all they can to put all of their arguments before the Supreme Court. It is now in the hands of the Supreme Court. Erica and Bianna, we're expecting that potentially the Supreme Court might rule by the end of the business day. But really, A, they don't have to act here, although it's likely they will. And they could act all the way up until that 1 am East Coast deadline. So we'll see the clock is really ticking here and a lot is at stake, guys.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:15:08",
+      "speaker": "GOLODRYGA",
+      "sentences": "This is going to be a busy next few hours for you. Jessica Schneider, thank you so much. Keep us posted.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:15:08",
+      "speaker": "HILL",
+      "sentences": "Well, as we're keeping a close watch on what will happen in Washington, D.C., in Florida, a new law banning abortion after just six weeks when many women still don't even realize they're pregnant. Republican governor, Ron DeSantis, signing that bill late last night in his office, saying at the timeWell, the White House issued its own statement calling the new banned extreme, dangerous and out of step with the majority of people in Florida and all the United States.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:20:06",
+      "speaker": "HILL",
+      "sentences": "Can you - I know Democrats filed dozens of amendments during debate. Every single one failed. I was struck by one of your proposals, as I understand it, you worked on this proposal with several doctors, listing specific medical conditions that would allow doctors to sign off on an abortion beyond six weeks without risking their medical license.During the debate ...",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:20:06",
+      "speaker": "BARTLEMAN",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:20:06",
+      "speaker": "HILL",
+      "sentences": "... what was that discussion when it came to the life of the expectant mother, was that a consideration?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:20:06",
+      "speaker": "BARTLEMAN",
+      "sentences": "Well, this provision has not changed since last years and so we have real life situations going on right now without this bill even going into effect where doctors are afraid to make decisions. In Broward County where I am from, two women suffered from PPROM which is where your water breaks early.Anya (ph) - these brave women share their stories. She went to the hospital. She asked for help. They told her to go home and wait. She delivered the fetus in a toilet. She hemorrhaged so much that she lost half the blood in her body according to her medical records. She had her - the doctor told her husband you need to prepare for the worst and she may not be able to have children now. Shinae (ph), same situation, went to two hospitals. Nobody wanted to help her. Deborah (ph) from Lakeland (ph) had - the fetus had Potter syndrome. She could not find two doctors to sign off to terminate that pregnancy. She was forced to carry that pregnancy without amniotic fluid in her body, which is very painful, and deliver her dead baby. Now when you talk to the bill sponsors, they'll say, well, that's covered in the language. And I am saying it's not covered because we have four situations in Florida women - brave women that we know of who came forward and said no one should have to go through with this. And so my language actually put the doctors - look, we know this is going to happen, let's give you some coverage. Because the doctors now in the state of Florida, they can't make the best decision because they're faced with a third degree felony charge. They're faced with losing their license. I mean, it's crazy. So you have doctors who are playing lawyers and then you have lawyers who are playing doctors because in Deborah's (ph) situation, the hospital vetoed the decision to terminate the pregnancy. Women are going to die because of this and because they refuse to clarify that language. They're going to be more Anyas (ph), and Deborahs (ph), and Annabelles (ph) and Shinaes (ph) in this world. That could have happened to me. This is a very, very dangerous bill.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:20:06",
+      "speaker": "HILL",
+      "sentences": "Florida State representative, Robin Bartleman, we appreciate you taking the time to join us this afternoon. Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:20:06",
+      "speaker": "BARTLEMAN",
+      "sentences": "Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:28:22",
+      "speaker": "HILL",
+      "sentences": "This just into CNN, multiple outlets now reporting the Cash App founder Bob Lee, who was stabbed to death that it happened after an argument.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:28:22",
+      "speaker": "GOLODRYGA",
+      "sentences": "CNN's Veronica Miracle joins us over the phone. So Veronica, what more are we learning?",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

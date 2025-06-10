@@ -1,0 +1,313 @@
+{
+  "date": "2022-10-27",
+  "headline": "CNN Newsroom",
+  "subHeadline": "President Biden Celebrates Growing Economy After Two-Quarters of Decline; Police: Arrest Made In Break-in AZ Democratic Gov. Candidate HQ; No Update On Shooting From TX Public Safety Officials. Aired 2-2:30p ET",
+  "utterances": [
+    {
+      "timeStamp": "14:00:00",
+      "speaker": "BIANNA GOLODRYGA, CNN ANCHOR",
+      "sentences": "Hello everyone, I'm Bianna Golodryga. Welcome to CNN NEWSROOM.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:00:00",
+      "speaker": "VICTOR BLACKWELL, CNN ANCHOR",
+      "sentences": "I'm Victor Blackwell, good to be with you.12 days now until Election Day and President Biden is pushing forward to make that closing pitch on the economy next hour. He's expected to sharpen attacks on Republicans and their economic plans. The president is celebrating some new economic numbers released earlier today. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:00:00",
+      "speaker": "JOE BIDEN, PRESIDENT OF THE UNITED STATES",
+      "sentences": "Great economic report today, the GDP report. Things are looking good.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:00:00",
+      "speaker": "BLACKWELL",
+      "sentences": "Now the key economic report showed the U.S. economy grew in the third quarter after two-quarters of decline.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:00:00",
+      "speaker": "GOLODRYGA",
+      "sentences": "He was excited about that report. Now he also acknowledged that more work needs to be done to address inflation. The Federal Reserve has raised interest rates five times so far this year in attempts to combat inflation. CNN's Rahel Solomon joins us now. So, Rahel, the GDP report tells us we're not in a recession right now but what more did we learn?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:00:00",
+      "speaker": "RAHEL SOLOMON, CNN CORRESPONDENT",
+      "sentences": "Hi, Bianna. So we learned that the U.S. economy grew at an annualized rate of 2.6 percent. To put that in perspective, that was higher than most were expecting. The expectation was closer to 2.3, 2.4 percent, so some of the largest contributors to the upside were things like net exports. So essentially, we Americans just didn't buy as much things from overseas, from outside of the US so that helped on the net exports front.Government spending was pretty strong at every level, federal, local state every level government spending was strong. Business investment, also positive, so not for things like structures or buildings, but other things like equipment, intellectual property, and consumer spending. Still positive, but slowing, not for, again, physical things, but services, hotels, restaurants, that sort of thing. But it's a consumer spending that economists are spending a lot of time looking at today. Not necessarily just that headline number but what's happening with consumer spending. Because that's two-thirds of the U.S. GDP and it continues to show more slowing. So Mark Zandi, the chief economist of Moody's, he put it to me this way after the report. Essentially, the report showed fundamentally there's nothing really going on here to indicate that things are really improving at a fundamental level. He said we're basically just going sideways.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:00:00",
+      "speaker": "BLACKWELL",
+      "sentences": "Sideways. So, at least some good news on the GDP, right?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:00:00",
+      "speaker": "SOLOMON",
+      "sentences": "Yes, for sure.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:00:00",
+      "speaker": "BLACKWELL",
+      "sentences": "Let's look at the mortgage rates, though. 20-year high.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:00:00",
+      "speaker": "SOLOMON",
+      "sentences": "Not good news for anyone who is looking to buy a home, right? Good news, perhaps for the Fed. And I'll get to that. So, mortgage rates, now topping 7 percent for the first time, really, on average in 20 years, since 2002. So, this is part of the reason why, by the way, and the GDP report, we saw housing construction, really collapse. This is part of the reason why right because mortgage rates continue to go up.Remember earlier this year at the start of this year, the average 30- year was closer to 3 percent. This time last year was actually closer to 2.7 percent. So, the Fed has said -- Jay Powell has said several times now he wants a more balanced the supply and demand of homes right now. So, this is part of the plan, right? The mortgage rates are going up because of the Fed. So, this is part of their plan, but prices are still higher so it's not happening soon enough.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:00:00",
+      "speaker": "GOLODRYGA",
+      "sentences": "He did warn just a few months ago to expect paying for consumers, especially those who are looking to buy a house and they're seeing it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:00:00",
+      "speaker": "BLACKWELL",
+      "sentences": "He is.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:00:00",
+      "speaker": "SOLOMON",
+      "sentences": "No doubt, absolutely.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:00:00",
+      "speaker": "GOLODRYGA",
+      "sentences": "Rahel, Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:00:00",
+      "speaker": "BLACKWELL",
+      "sentences": "Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:00:00",
+      "speaker": "GOLODRYGA",
+      "sentences": "Well, new developments in the Arizona race for governor. Police have just made an arrest in the burglary earlier this week at the campaign headquarters for Katie Hobbs. She is Arizona's Secretary of State and the Democratic nominee for governor. A source says it's not clear what's been taken.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:00:00",
+      "speaker": "BLACKWELL",
+      "sentences": "Hobbs's campaign is blaming dangerous information and rhetoric for the break-in, but her Republican opponent Kari Lake is casting serious doubt that the crime has anything to do with the election, accusing Hobbs of desperation for trying to link the burglary to politics. CNN's Kyung Lah joins us now from Phoenix with the latest. So, this arrest just happened. Tell us about it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:05:11",
+      "speaker": "KARI LAKE, REPUBLICAN GUBERNATORIAL CANDIDATE, ARIZONA",
+      "sentences": "That is absolutely absurd. And are you guys buying that? Are you really buying that? This sounds like a Jussie Smollett part two. I can't believe that she would blame my amazing people or blame me for something like that. I don't even know where her campaign office is. I'm assuming it's in a basement somewhere because that's where she's been campaigning.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:05:11",
+      "speaker": "LAH",
+      "sentences": "That reference to Jussie Smollett clearly is Lake even questioning whether this burglary even happened, Victor, Bianna.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:05:11",
+      "speaker": "GOLODRYGA",
+      "sentences": "Kyung Lah, thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:05:11",
+      "speaker": "BLACKWELL",
+      "sentences": "There's also a new twist in the critical U.S. Senate race in Georgia. Staunch abortion opponent, Herschel Walker is facing a second allegation now that he paid for an abortion years ago.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:05:11",
+      "speaker": "GOLODRYGA",
+      "sentences": "Now, the unnamed woman says she was Walker's mistress when he was in the NFL.(BEGIN AUDIO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:05:11",
+      "speaker": "JANE",
+      "sentences": "I went to a clinic in Dallas, but I simply couldn't go through with it. I left the clinic in tears. He was upset and said that he was going to go back with me to the clinic the next day for me to have the abortion. He then drove me to the clinic the following day and waited for hours in the parking lot until I came out.(END AUDIO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:05:11",
+      "speaker": "GOLODRYGA",
+      "sentences": "CNN's Eva McKend is in Monroe, Georgia, where Herschel Walker is holding a campaign event. Eva, what is Walker saying today about this latest allegation?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:05:11",
+      "speaker": "EVA MCKEND, CNN NATIONAL POLITICS REPORTER",
+      "sentences": "We'll, Bianna, we've been with Herschel Walker all day on the campaign trail and he hasn't addressed this. So, we asked his supporters about this allegation. One woman telling us she's not all that concerned about abortion as an issue. But even if it is true, she believes that Walker has been redeemed and that he is a question.Meanwhile, another man told us that he believes it's all lies and that Democrats will do anything to capture this Senate seat. So perhaps this is why Walker is not talking about this because there seems to be no real urgency among his supporters to address this. But Walker and key campaign surrogate for Walker, South Carolina Senator Lindsey Graham, taking a really defiant tone earlier today. Take a listen. (BEGIN VIDEO CLIP) HERSCHEL WALKER (R-GA), SENATE CANDIDATE: So, come at me when you might because let me tell you, they come after me today. They're going to come out to you tomorrow. But I can tell you right now, they can take me down because I'm a bad man. I can tell you that right now. God prepared me for this moment right here and I'm ready to go. SEN. LINDSEY GRAHAM (R-SC): And if you're sick and tired of the way conservatives are being treated, you got a chance to end it here in Georgia. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:05:11",
+      "speaker": "MCKEND",
+      "sentences": "So Walker expected to take the stage here in just a little bit. He'll be joined by Texas Senator Ted Cruz. Meanwhile, Walker's opponent, incumbent Democratic Senator Raphael Warnock, he's going to be joined on the campaign trail tomorrow by President Barack Obama and a host of other Democrats. Victor, Bianna.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:05:11",
+      "speaker": "BLACKWELL",
+      "sentences": "Eva McKend for us there in Monroe, Georgia, thank you.CNN has learned that millions of federal dollars meant for election security has not been spent. This is money allocated for lighting and increased security at polling sites and offices. It's not been claimed. One clerk in Wisconsin said security at his office is a joke at a time when election officials are facing an unprecedented amount of threats.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:05:11",
+      "speaker": "GOLODRYGA",
+      "sentences": "This is really troublesome. In New York City, the NYPD is advising elevated vigilance days before midterm voting starts in the city. One police bulletin warns of a complex domestic threat environment but said there are currently no credible threats to polling sites, candidates, or poll workers in the city. BLACKWELLOlivia, let me start with you on this reporting. The millions of dollars are still on the table when there is this as we know from a top DHS official, incredibly high-threat environment. How is this possible that that money doesn't get to the places to protect the people who are doing the work we need them to do?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:10:03",
+      "speaker": "GOLODRYGA",
+      "sentences": "Well, Adrienne, the president will be out there campaigning making his final push on his legislative wins ahead of the midterms and focusing on the economy. And it's interesting because just a few months ago, you had Democrats really touting him as a modern-day FDR, LBJ pushing all this legislation through, and now many that are up on the ballot are pushing away from some of this legislation because Republicans have effectively in many ways, viewed this as an entryway to inflation and how we got here. What can the president, what can Democrats do to turn that messaging around right now?ADRIENNE ELROD, FORMER SENIOR AIDE, BIDEN 2020 CAMPAIGN: Yes. Well, Bianna, I think it is a mistake that a lot of Democratic candidates on the campaign trail are not talking about some of the accomplishments -- as you lay down historic accomplishments by President Biden. Four major economic bills in the first 20 months of his presidency, two of those bipartisan, you know, those bills do everything from lower the prescription drug costs for American families to create clean -- create clean energy jobs, so why candidates are sort of backing away from this? I mean, I guess to an extent that they think that some of these bills effects inflation, that's one thing, but they don't. So I think it's incumbent upon Democrats, anybody who is running for office, the cycle, anyone who has a platform to talk about these accomplishments. Because again, when President Biden ran for office and won, he said that he wants to -- you know, he made all these promises, and he's actually kept those promises. So I think it's incumbent on candidates to talk about these things. But I also think the president is being very smart right now by helping you know, the overall cycle of Democrats to close on the economy. He -- I just wrote a really great piece on cnn.com where he talked about, you know, the record unemployment rate under his tenure, creating, you know, 700,000 manufacturing jobs, over 10 million jobs that he's created. So he is effectively closing on the economy because he understands that still with all the (INAUDIBLE) from abortion to democracy protection out there, that is still the issue that is going to ultimately be the driving force this election cycle.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:10:03",
+      "speaker": "BLACKWELL",
+      "sentences": "And just to let everyone know what you're watching right now, on the right side of your screen, President Biden has just arrived in Syracuse. He is in the state of New York to deliver remarks, again another economic message. He will be speaking next hour. You see him there with Senator Chuck Schumer, of course, the majority leader there in the Senate, and New York Governor Kathy Hochul, who is in a tighter-than-expected race with Congressman Lee Zeldin for New York Governor. Their debate just a couple of days ago focused on crime.Olivia, let me come back to you and -- on the topic of crime. This break-in at the Katie Hobbs headquarters in Arizona. She called out specifically Kari Lake in her rhetoric and the rhetoric of her supporters. There's no evidence that there was a Lake supporter involved. There's been an arrest. We'll see where that goes. But do you think that there is a degree of culpability because of the rhetoric that Lake has used on the campaign trail?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:10:03",
+      "speaker": "TROYE",
+      "sentences": "Look, I -- yes, I think we're waiting to see. I know, there was an arrest, and we're waiting for more information on that. But I can see where Secretary Hobbs is coming from because she is facing threats for almost two years now directly. This has been an ongoing barrage of harassment for these individuals. And so I can see, you know, the saying that Kari Lake has played a role in this, she certainly has. She's an election denier. She's one of the worst of the worst.And I'll say this. I think it was incredibly just sort of disgusting, honestly, to have Kari Lake out there as a candidate to say and kind of blowing it off and say, well -- making assumptions and making statements that would lead people to believe like perhaps this didn't happen. I think that undermines local law enforcement as well, who responded. And so if I were a voter, I've been looking at that and be like, wow, is that really the way to respond to a serious incident like this?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:10:03",
+      "speaker": "GOLODRYGA",
+      "sentences": "So, Adrienne, Olivia calls Lake one of the worst of the worst, the president has labeled people and candidates like Lake as mega MAGA Republicans. Can you explain how that's an effective bumper sticker strategy going into the election?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:15:01",
+      "speaker": "BLACKWELL",
+      "sentences": "Yes. Adrienne, let me stay with you. You have obviously worked on congressional and national campaigns, in communications, director positions, and other positions as well. We heard from John Fetterman after that performance at the Senate debate in Pennsylvania. He says it was tough. Should he now release more medical records after what was a halting performance to put it generously?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:15:01",
+      "speaker": "ELROD",
+      "sentences": "Yes. You know, look, we are less than two weeks from the election. I think he probably should have released to some of his medical record -- medical records before he -- before the debate. But at this point, it's up to the voters to decide. I think it's going to be a very close race. And I give him --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:15:01",
+      "speaker": "BLACKWELL",
+      "sentences": "But, Adrienne, it's always up to the voters to decide and to give them more information helps them make that decision. You've got 12 days, and he likely needs those undecided voters, why not give them more information to help them decide?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:15:01",
+      "speaker": "ELROD",
+      "sentences": "Look, I think transparency is key in every election. I think every candidate should be releasing their medical records no matter what the circumstances are. So, I think transparency is important. But I also think at this point, there are not that many undecided voters left. I think the Fetterman campaign is one of the sharpest -- smartest campaigns being run in the cycle. So, I want to put the trust and the faith in the -- in the leadership of that campaign, including the candidate himself, that they are making the best decision with the information they have and where they are currently in this campaign.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:15:01",
+      "speaker": "BLACKWELL",
+      "sentences": "All right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:15:01",
+      "speaker": "GOLODRYGA",
+      "sentences": "Olivia Troye, Adrienne Elrod, thank you so much. We appreciate it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:15:01",
+      "speaker": "BLACKWELL",
+      "sentences": "All right, tense momenta at a hearing on the response to the Uvalde shooting. Members of that community direct questions and calls for resignation towards Texas Department of Public Safety's top official. Hear some of those heated exchanges ahead.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:21:55",
+      "speaker": "GOLODRYGA",
+      "sentences": "Families in Uvalde, Texas are once again outraged and searching for answers. They were expecting an update today on the failed police response to the Robb Elementary School massacre, but it never came. The top law enforcement official in Texas spoke as part of today's Texas Public Safety Commission meeting agenda. Colonel Steve McCraw made no comment on the report. Heartbroken members of the community spoke out in this meeting and blasted McCraw, demanding his resignation.(BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:21:55",
+      "speaker": "BRETT CROSS, RELATIVE OF UVALDE SCHOOL SHOOTING UZIYAH GARCIA",
+      "sentences": "You sir, have told lies. You're not in control of your officers nor are you the leader this great state deserves at the helm of what was once known as one of the best law enforcement agencies. You have disgraced the state, your position, and the people. The officers are still under your supervision. Maldonado, Betancourt and Kindell have been proven to have been culpable. And with new information dropping just about weekly, we know that there will be others. We'll see. But the time is now. If you're a man of your word, you'll resign. We're not waiting any longer. Our families, our community, our state has waited long enough. And playing politics will only put the lives of more Texans at risk.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:21:55",
+      "speaker": "BLACKWELL",
+      "sentences": "Well, McCraw admitted that mistakes were made but he defended his agency's response to the shooting.(BEGIN VIDEO CLIP) COL. STEVEN MCCRAW, DPS DIRECTOR: The families failed the school or failed the community of Uvalde, then, absolutely I need to go. I can tell you this right now. DPS is an institution, OK? Right now, it did not fail the community plain and simple. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:21:55",
+      "speaker": "BLACKWELL",
+      "sentences": "CNN's Shimon Prokupecz is in Austin, Texas. Shimon, what were the families expecting today, and what did they get?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:25:01",
+      "speaker": "CROSS",
+      "sentences": "The most difficult thing is not being able to just be there at home grieving because these institutions are not doing their job so we're having to do it for them, you know. Us and the media, we're having to view the tape because they won't do anything. And the only time that they start doing anything is when it gets dropped and leaked. And as infuriating as that is that we have to keep reliving it and going through it and everything, that is the only way that these people are being held accountable.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:25:01",
+      "speaker": "PROKUPECZ",
+      "sentences": "And that's the thing here, you know, Victor, that so many of these families have to relive this because they're told come to these meetings, speak at these meetings. It's cruel -- it's cruel, what's going on to them. And so much of this, so much of the pain you can see there from these families and it's going to continue. And, Bianna, a lot of them still demanding answers. They're not going to stop. They say they're going to keep coming to these meetings until they get the accountability they want.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:25:01",
+      "speaker": "GOLODRYGA",
+      "sentences": "They've been stonewalled now for so many months throughout all of this. Shimon Prokupecz, you're right. I mean, it's hard to describe it as anything but cruel. Thank you.Well, joining us now for more is CNN's senior law enforcement analyst and former Philadelphia Police Commissioner Charles Ramsey. Charles, thank you so much for joining us. Yet, another disappointing day for families and community members there Uvalde, this was the first public update from the DPS since mid-July, they were expecting to give an update on this investigation, nothing was delivered, what do you make of that?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:25:01",
+      "speaker": "CHARLES RAMSEY, CNN SENIOR LAW ENFORCEMENT ANALYST",
+      "sentences": "Well, I mean, it certainly doesn't sound like any update took place at all. And certainly, the parents and the whole community of Uvalde deserve a lot more than what they've been given so far. And the officials in Texas need to really think about where they are and what they're doing because right now, this is just ridiculous. And it's an embarrassment, not only to Texas but really to law enforcement around the country to see what's going on in Uvalde.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:25:01",
+      "speaker": "BLACKWELL",
+      "sentences": "Why is this taking so long? I mean, Shimon reminded us it's been five months. Is it reasonable to expect that an investigation that involved hundreds of members of law enforcement would take five months?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:25:01",
+      "speaker": "RAMSEY",
+      "sentences": "Well, I mean, an investigation could take five months, you want it to be thorough and complete. At the same time, don't promise to give updates if, in fact, you're not going to provide any kind of updates. They should do things as quickly as possible. Personally, I think that someone outside of Texas ought to be doing the analysis of what took place, I just simply have gotten to a point where I don't trust any authorities in Texas and I doubt if the people in Uvalde will trust whatever the results are. It's gotten that bad. But it could take, you know five months or so as long as it's thorough and complete. But in the meantime, it's like they just keep stringing people along and that's just not right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:25:01",
+      "speaker": "GOLODRYGA",
+      "sentences": "Well, and don't forget, these were the same people, the same DPS, the same officers who were quick to come out in the hours after that attack and take credit for their actions -- their heroic actions, we learned that that much of that was not true, subsequently so maybe it does indeed take this long. But to not give these families any information throughout all of this time, and for these families to be learning of any developments, largely from our reporting and Shimon's great reporting there and other reporting, do you think somebody should -- somebody should lose their job at this point, should Colonel McCraw lose his job?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:25:01",
+      "speaker": "RAMSEY",
+      "sentences": "Well, I mean, that's going to be up to the governor, ultimately, whether or not he loses his job. But I can say this, you know, people have to have confidence in your ability to lead. And that's been shaken. Now, I know, he certainly has been shaken the Uvalde. Whether or not that extends to Texas as a whole, I don't know. But I would think that it would give people you know, pause to think that this is the individual who's leading DPS, and should a similar situation occur, you know, will they get the same results?I mean, you know, accountability is something is very important to have. And right now, I -- you know, I just don't think you can trust what's going on within DPS right now. And that's just should not be me. He's still in denial saying there was no failure. Well, yes, 21 people killed. They didn't all die in the first couple of minutes like was normally the case in an active shooter situation. 77 minutes, standing around while kids are being slaughtered? If that's not failure, and I don't know how to define failure in Texas, but that is -- that doesn't fall within anything I've ever heard to be anything other than failure.",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

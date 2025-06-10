@@ -1,0 +1,85 @@
+{
+  "date": "2023-03-10",
+  "headline": "CNN Newsroom",
+  "subHeadline": "Mexican Cartel Apologized For Kidnapping, Killing Americans; Cartel Apology Is Cold Comfort To Families Of Slain Americans; Economy Added 311,000 Jobs In February, Crushing Expectations, Fueling Fears Of More Aggressive Rate Hikes; Yellen Warns of \"Catastrophe\" If Debt Ceiling Isn't Raised; World's First 3-D Printed Rocket Set To Launch Tomorrow. Aired 1:30-2p ET",
+  "utterances": [
+    {
+      "timeStamp": "13:34:13",
+      "speaker": "KRISTIN FISHER, CNN HOST",
+      "sentences": "One week after four Americans were kidnapped in Mexico, two of them killed, the cartel behind the deadly attack has apparently issued an apology.The notorious Gulf Cartel confirms its involvement in a letter and they say they're sorry to the families of the American victims and the Mexico bystander who was killed. They also handed over five members who they claim were responsible. CNN's Carlos Suarez joins us live from South Carolina where the victims are from. Carlos, I imagine an apology from a cartel is probably pretty rare. What exactly does this letter say, and how are the victims' families reacting to it?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:35:05",
+      "speaker": "SUAREZ",
+      "sentences": "And so on the sincerity of that apology from the cartel, a source in the U.S. close to this investigation says that they don't -- they don't believe the sincerity of that apology. They're still, of course, taking a look at that letter.But late word at this hour is that it does appear that the Mexican government has arrested five people in connection with this kidnapping. That brings the total number of folks taken into custody to six. One was taken, detained shortly after all of this happened earlier this week - Kristin?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:42:55",
+      "speaker": "FISHER",
+      "sentences": "A new jobs report is out today and it's a big one. Employers added 311,000 jobs in February, crushing expectations of 205,000. And that's normally always a good thing, right? But these are not normal times.So joining me now, Economist Diane Swonk. Diane, thanks for being with us. Excellent job numbers. But we're in this weird world where good news isn't always good because it gives the Fed more ammo to aggressively hike rates, which, of course, has its own consequences. So what do you make of this report that came out today?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:45:00",
+      "speaker": "FISHER",
+      "sentences": "Yes. Diane, also hanging over the economy, the debt ceiling. Today, Treasury Secretary Janet Yellen called on Congress to raise the debt ceiling without conditions, warning that a default would cause an economic and financial catastrophe.How concerned are you that Congress is going to sometimes do what Congress does and mess this up?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:45:00",
+      "speaker": "SWONK",
+      "sentences": "It is really concerning. I think the issue of the debt ceiling should not be a political pinata. I'm very concerned about what is going on.I am a deficit hawk by nature. I've been worried about the deficit for a long time, especially in a world with rising interest rates. That said, you don't use the debt ceiling, which is obligations we've already spent and just owe people, the debt that the debt ceiling would affect, we've already made that spending. That doesn't change the spending trajectory going forward. I think it's very important for us to think, at this stage of the game, the bond market has gotten jittery already. We don't want to have some kind of additional shock to the bond market that affects it in a very different way in an inflationary environment that we're in. That could cause the Fed to stop and have to reverse course and then leave us with more residual inflation than we'd like for much longer.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:45:00",
+      "speaker": "FISHER",
+      "sentences": "All right, Diane Swonk, thank you so much for helping us understand this report and the economy as it stands today. Thanks so much.So this gives a whole new meaning to the term \"model rocket.\" A company is preparing to launch the world's first 3-D printed rocket. Yes. We'll talk to the man behind the Terran 1 Project, next. (COMMERCIAL BREAK) [13:51:46] FISHER: It could be a big milestone for the space industry. The launch of the world's first 3-D printed rocket set for tomorrow. The company, Relativity Space, tried to launch the rocket, called Terran 1, for the first time on Wednesday, but the launch was scrubbed at the last minute. If it works, it will determine if 3-D printing can really be an alternative to the traditional rocket building method. Joining me now is the co-founder and CEO of Relativity Space, Tim Ellis, live from Cape Canaveral, just steps from the launch pad. Tim, I noticed a big step that your company has been building towards for many years now. First, I would like you to explain why you believe the world needs 3-D printed rockets. I believe you once called it the holy grail for automation in aerospace. TIM ELLIS, CEO &amp; CO-FOUNDER, RELATIVITY SPACE: Yes, Kristin, happy to share. I started my career as a propulsion engineer working for Jeff Bezos' company, Blue Origin, where I designed and developed rocket engines, starting from a blank sheet of paper to the 3-point conversion. As part of that process, I ended up doing the first model 3-D printing at Blue Origin and then working with Jeff and the senior executives to start the 3-D division. But very quickly, when I started Relativity seven years ago, I realized instead of printing bits and parts of a rocket, 3-D printing was a completely new approach to many constructions. That could actually replace the traditional factory, the design process and the development process, and result in rockets that have far fewer parts and are much faster and cheaper to build. That's what we've been pioneering at Relativity is this new large- scale 3-D printing approach. Seven years later, we have a rocket that is 85 percent metal 3-D printed sitting on the launch pad, ready to go, and be the first of many historic milestones for our industry.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:45:00",
+      "speaker": "FISHER",
+      "sentences": "Tim, when I think of 3-D printing, a lot of people think of 3- D printed plastic and whatnot. This is 3-D printed metals. Can you explain how this is possible and how you do this?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:45:00",
+      "speaker": "ELLIS",
+      "sentences": "Yes, of course. So 3-D printed metal, we have two different printing technologies. One uses a laser that melts metal powder, so eventually laying layer and layer of metal powder and melting the image over the process of several days.And that results in complex, detailed parts that are functional.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:45:00",
+      "speaker": "FISHER",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:45:00",
+      "speaker": "ELLIS",
+      "sentences": "So rocket engines, turbo pumps, valves, other parts. Then we have our own proprietary printing process that's very large scale. We've made the largest metal 3-D printers in the world at Relativity Space.The Terran rocket is 110 feet tall, seven and a half feet diameter. And these large-scale printers our team invented and they use an aluminum material that we created ourselves in order to build the structure for rockets.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:55:01",
+      "speaker": "ELLIS",
+      "sentences": "Yes, of course. Winds on Wednesday at the cape were blowing quite hard. That certainly caused some complications with weather.Then the second piece is the liquid oxygen and liquid methane propellants that we have on the rocket have to be cold enough to fly. They're both very cold already. They have to be cold enough. We're the first company in the U.S. to have an orbital launch attempt using liquid methane as a rocket propellant. We needed to tweak the temperatures. We made fixes to the ground system to load propellants -",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:55:01",
+      "speaker": "FISHER",
+      "sentences": "All right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:55:01",
+      "speaker": "ELLIS",
+      "sentences": "- for our test tomorrow. And that's how we're going to do it.",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

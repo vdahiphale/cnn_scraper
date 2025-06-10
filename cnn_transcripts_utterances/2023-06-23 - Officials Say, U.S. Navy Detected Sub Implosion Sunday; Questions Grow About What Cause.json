@@ -1,0 +1,277 @@
+{
+  "date": "2023-06-23",
+  "headline": "CNN This Morning",
+  "subHeadline": "Officials Say, U.S. Navy Detected Sub Implosion Sunday; Questions Grow About What Caused Sub's Implosion; Potential Legal Consequences Facing OceanGate. Aired 6-6:30a ET",
+  "utterances": [
+    {
+      "timeStamp": "06:00:02",
+      "speaker": "PHIL MATTINGLY, CNN ANCHOR",
+      "sentences": "Good morning, everyone. I'm Phil Mattingly in New York alongside Rahel Solomon. CNN's Anderson Cooper is with us live from St. John's, Newfoundland, where he has been tracking the tragic, catastrophic implosion of the ill-fated Titan submersible.Anderson, you have been there since yesterday afternoon when that news broke that all five on board would not be found alive. What are you hearing from the ground? What have you learned since?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:02",
+      "speaker": "ANDERSON COOPER, CNN ANCHOR",
+      "sentences": "Well, good morning. It's good to be with you. We are now learning secret Navy sensors detected a possible implosion on Sunday around the same time the communication was lost with the Titan submersible, as it descended on it now doomed expedition to the Titanic shipwreck. All hope, as you know, was lost obviously yesterday, five days into this really massive, multinational search when a deep-sea robot found large pieces of the Titan scattered on the ocean floor in two separate debris fields. The robot found the submersible's distinctive tail cone some 1,600 or so feet from the bow of the Titanic. The U.S. Coast Guard says a catastrophic implosion killed all five people on board.Titan's creator and OceanGate CEO Stockton Rush was piloting the submersible when disaster broke. With him on board, as you know, was the British billionaire and explorer Hamish Harding, Pakistani businessman Shahzada Dawood and his 19-year-old son, Suleman, also Paul-Henri Nargeolet, a really renowned French diver nicknamed Mr. Titanic. He completed 35 dives on the Titanic. His stepson will join us live in just a moment. After the Titan disappeared, we learned about concerns and warnings that were previously raised about the submersible's controversial and experimental design. It had not gone through safety protocols that many maritime submersibles go through. The hull was crafted from a lightweight carbon fiber instead of steel, titanium, to fit more passengers. CNN's Miguel Marquez has been following this from the start and he joins us now with more. Such a somber 24 hours it has been here in St. John's. Talk about a little bit of what we know is still going on out there.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:02",
+      "speaker": "MIGUEL MARQUEZ, CNN SENIOR NATIONAL CORRESPONDENT",
+      "sentences": "There are a lot of resources out there. Some of them are pulling back. They had a lot of medical ships out there with everything from medical personnel to decompression chambers.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:02",
+      "speaker": "COOPER",
+      "sentences": "There were nine ships yesterday.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:02",
+      "speaker": "MARQUEZ",
+      "sentences": "Nine ships. There were going to be ten in all. There are even gears still at the airport here that's never made it on to the ship to get out there to do savage work. It is unclear that they will do any major salvage work now. But there are still deep sea ROVs out there, remote operated vehicles that can go down and perhaps collect parts of this carbon fiber hull. There were concerns about it being five inches rather than seven inches. There were titanium parts that sealed everybody in and then glass as well. And I think in this world, they are very meticulous, they want to understand what happened and what happens at those depths at those sorts of pressures. My sense is they would like to bring up some of it but it is not clear how easy that would be.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:02",
+      "speaker": "COOPER",
+      "sentences": "There were questions to Coast Guard yesterday about whether they would find any bodies or the people will be retrieved? What we have learned really since then is that the force of this pressure would mean that there would be no bodies really remaining.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:02",
+      "speaker": "MARQUEZ",
+      "sentences": "It is stunning to consider that yesterday at this time sitting on this pier, we were talking about them possibly being alive and coming back home safe. And now, we are talking about not any part of them coming back at all. I think families would love to have remains of their departed to remember, but it is a real possibility that they will never be seen or heard from, that they will find nothing in that area.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:02",
+      "speaker": "COOPER",
+      "sentences": "Miguel Marquez, I appreciate it. Thanks very much.There is a lot more from here. I want to go now to Paula Newton in Halifax, Nova Scotia. Paula, talk a little bit more about the five people who were lost here yesterday that we learned about.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:02",
+      "speaker": "PAULA NEWTON, CNN CORRESPONDENT",
+      "sentences": "Yes, Anderson. As we have all learned, right, three of them adventurers, all explorers who were dedicated to going to the depths of the sea and then, again, something we can all relate to, right, a father and son going on what was supposed to be an exhilarating trip to view the wreck of the Titanic.[06:05:01] (BEGIN VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:02",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "The 24th July, 1987 was my first dive to the Titanic with two team members and it was an unforgettable moment.NEWTON (voice over):  That was Paul-Henri Nargeolet, the 77-year-old Frenchman who made more than 30 dives to the Titanic, earning him the nickname Mr. Titanic. David Gallo is Nargeolet's close friend, colleague and an oceanographer himself.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:02",
+      "speaker": "DAVID GALLO, OCEANOGRAPHER AND FRIEND OF NARGEOLET",
+      "sentences": "I'm sure he did everything he could or would do everything he could do to make sure that they had every chance of surviving whatever it was.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:02",
+      "speaker": "NEWTON",
+      "sentences": "For Stockton Rush, the chief executive of the firm behind the dive, who was also on board, the experience of those involved was always crucial to the mission.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:02",
+      "speaker": "STOCKTON RUSH, CEO, OCEANGATE",
+      "sentences": "There are five individuals can go on each dive. Three of those are what we call mission specialists. So, those are the folks who help finance the mission, but they are also active participants. So, why we're not a fan of the tourist term is because these are crew members.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:02",
+      "speaker": "NEWTON",
+      "sentences": "One of those crew members is the British billionaire and explorer, Hamish Harding, part of two record breaking trips to the South Pole, he also held a world record for the fastest circumnavigation of the globe via both poles. Last year, he went into space with Jeff Bezos' Blue Origin company.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:02",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "I've always wanted to do this and the sheer experience of looking out of the window is something I'm looking forward to.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:02",
+      "speaker": "NEWTON",
+      "sentences": "In a post on social media before the dive, he described feeling proud to be part of the Titan's expedition.Also on board, Shahzada Dawood, who comes from one of Pakistan's richest families and lived in the U.K. with his wife and two children. He'd taken his son, Suleman, just 19 years old, along with him. A family statement asked for privacy and prayers when the sub went missing. A search that was called impossible now over, the Titan and the five people on board now lie at the bottom of the ocean. (END VIDEOTAPE) NEWTON (on camera):  And Anderson, I know from the experts you've been talking to as well, look, there is a measure of comfort here and that they tell us likely they did not know what was going to happen, that the catastrophic implosion meant they likely did not suffer. Again, so many tributes coming into these five men now lost.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:02",
+      "speaker": "COOPER",
+      "sentences": "Yes. Paula, thank you.And joining us right now is the stepson of Paul-Henri Nargeolet, John Paschall. John, thank you so much for being with us. I am so sorry for your loss and your family's loss. What a remarkable man your stepfather was. Can you tell us about him? JOHN PASCHALL, PAUL-HENRI NARGEOLET'S STEPSON:  Yes. I mean, it's so easy to look online and read about all of the dives that he did, the expeditions he was on, but he was so much more than that, in my opinion. He was this big, lovable guy who's a prankster, but he cared so much about his family and everything he did in life. But I guess I was so fortunate to have him for so many years as a stepdad. He meant so much to myself, to my mom as well. And it was just such a great relationship we had. Even after my mom passed, we stayed in touch. I had last seen him in May, and we were planning on getting together in early July as well to connect. So, he's just someone that you instantly connected with and loved and shared so many great stories with.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:02",
+      "speaker": "COOPER",
+      "sentences": "You met him in high school, and I know you became close and you shared some pictures with us of when he became a U.S. citizen, which was obviously a very important milestone in his life. He drove across country to watch you graduate college. And I love this story because it was your mom and him. They were going to fly, but the flight got canceled. Can you just tell us about it?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:02",
+      "speaker": "PASCHALL",
+      "sentences": "Yes, of course. Yes, it was just an instance where they were flying out to Chicago from New York to watch me graduate. It was a really special day for a lot of reasons. One, my mom and I went to the same school, and also at the time, my mom was very sick with cancer and I'm an only child, and it was just a really big moment for her to be there.So, you can imagine the news was devastating for her in terms of the flight to cancel, not being able to book in time to get out there for it. But in their stubborn fashion, they weren't going to take no for an answer. So, they hopped into their (INAUDIBLE), drove 16 hours overnight and miraculously made it to graduation with about an hour to spare. And we're up in the bleachers and able to watch special moments for my family.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:10:00",
+      "speaker": "PASCHALL",
+      "sentences": "Yes. And, honestly, when he told me he was going back out for this expedition, when I saw him in May, I really, honestly didn't think twice about it. It's one of those things where he's been down there so much. He's been on so many different deep dives that I didn't bat an eye. I just said, okay, great, so have fun, be safe, and I'll see you in July, you know? So, it was one of those things I never asked safety questions and all that stuff. It was just, okay, I trust that he knows what's best, and, yes, I never thought twice about it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:10:00",
+      "speaker": "COOPER",
+      "sentences": "What do you think his fascination with the Titanic was?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:10:00",
+      "speaker": "PASCHALL",
+      "sentences": "I think, in my opinion, it was just a lot about the stories of the passengers down there and obviously the artifacts was one thing, but I think there were just so many things that he wanted to uncover and share with people about the Titanic, by pulling up those artifacts and providing so much information to people that still remains to this day, whether it's in a museum, an exhibition, I think the intrigue of it all.But it was just such a deep part of who he was. It wasn't everything about him. There's so much more to him. But the Titanic is something I know that he'll forever be connected with his work.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:10:00",
+      "speaker": "COOPER",
+      "sentences": "Yes. John Paschall, again, I'm sorry for your loss and your family's loss, and I wish you the best in the days ahead. Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:10:00",
+      "speaker": "PASCHALL",
+      "sentences": "Thanks, Anderson.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:10:00",
+      "speaker": "COOPER",
+      "sentences": "Let's go back to Phil and Rahel in New York. Obviously, we're learning more and more about the people who were on board the Titan, and there are obviously a lot of questions about the submersible itself, which we'll get to throughout the next couple of hours.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:10:00",
+      "speaker": "MATTINGLY",
+      "sentences": "Yes, I think it's a great point that there are so many elements of this. The legal, I think, technical, everybody trying to figure out even just about adventure tourism, but you just think demonstrated. There's also the personal here and people that are involved in this very important as well. Thanks, Anderson.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:15:00",
+      "speaker": "COOPER",
+      "sentences": "Well, this morning, the search for survivors is now turning into a search for answers, and there are a lot of questions, as investigators scoured the ocean floor for debris from the Titan submersible, they're working to establish a timeline of the final voyage that killed five people. Coast Guard officials say that the vessel suffered a, quote, catastrophic implosion. Now the company and its CEO, who is among the dead, are coming under scrutiny.CNN's Gabe Cohen joins us now live from Washington, DC. So, Gabe, what are you hearing from officials?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:15:00",
+      "speaker": "GABE COHEN, CNN CORRESPONDENT",
+      "sentences": "Well, Anderson, look, many voices in the deep sea community say that the warning signs from OceanGate were evident and obvious, and they were ignored the way the vessel was built and tested, and this was long before it plunged to that catastrophic collapse.(BEGIN VIDEOTAPE) COHEN (voice over):  This morning, former OceanGate CEO stocked in Rush and is ill-fated Titan submersible facing intense scrutiny. Rush, who perished in the Titan, had a reputation as a visionary, but also as a self-proclaimed rule breaker.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:15:00",
+      "speaker": "RUSH",
+      "sentences": "I think it was General MacArthur said, you're remembered for the rules you break. And I've broken some rules to make this. I think I've broken them with logic and good engineering behind me.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:15:00",
+      "speaker": "COHEN",
+      "sentences": "The co-founder of OceanGate, Guillermo Sohnlein, says he had complete faith in Rush and would have gone on the Titanic expedition himself if he'd had the chance.GUILLERMO SOHNLEIN, CO-FOUNDER, OCEANGATE:  There's always a risk of catastrophic implosion. It's something that we know about. It's something that we plan for, plan against, and it's just a known risk.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:15:00",
+      "speaker": "COHEN",
+      "sentences": "D.J. Virnig, who's a subcontractor for OceanGate, says Rush's experimental design passed testing for the pressures that would be found at Titanic's depth.DOUG D.J. VIRNIG, SUBCONTRACTOR:  Then the question is, well, if you do that repeatedly, then what happens? So, these are the sorts of questions that if you have a long research and development program, you start answering. But if you really are pushing the envelope, there's no time to -- you're answering those questions in real-time.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:15:00",
+      "speaker": "COHEN",
+      "sentences": "Will Kohnen, who chairs the submarine committee of the Marine Technology Society, says he wrote to Rush, concerned OceanGate wasn't following the same safety standards as other vessels. In his 2018 letter first obtained by The New York Times, Kohnen warned Rush about what he called the company's experimental approach that could have serious consequences.CNN has previously reported that two former OceanGate employees, who were not engineers, separately raised safety concerns years ago about the hull of the Titan sub. The hull was made of carbon fiber composite, the type of material used in spacecraft. Filmmaker James Cameron, who's made more than 30 dives to the wreckage of the Titanic himself, says the danger of using carbon fiber composite is known within the engineering community.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:20:02",
+      "speaker": "COOPER",
+      "sentences": "Yes. Gabe Cohen, I appreciate it, thank you very much. We're going to have more of my interview with filmmaker James Cameron later this hour. He has really a lot of fascinating things to say throughout the morning. We'll show you that.I want to send things back to Rahel and Phil in New York.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:20:02",
+      "speaker": "MATTINGLY",
+      "sentences": "Thanks, Anderson. Stick with us. We'll be back to you shortly. And definitely stay tuned for pieces of that great interview from Anderson.Right now, though, I want to bring in our panel to talk about the potential legal consequences, potential business consequences, CNN Senior Legal Analyst Elie Honig, CNN Chief Business Correspondent Christine Romans and former us Coast Guard Captain Peter Boynton. And, Captain, I want to start with you because Gabe's piece is kind of a fascinating dive into a very careful balancing act that happens in situations like this, where you need entrepreneurs, you need people to be innovative, they need to push the boundaries to be able to accomplish some of the things you've seen under the sea, and yet, there are very real risks to that. Do you feel like this was an effort that leaned far too heavy into the risk side than the perhaps ingenuity side? CAPT. PETER BOYNTON (RET.), U.S. COAST GUARD:  Well, I think we don't have all the facts yet, but I do think the Coast Guard will be pursuing their investigative arm. And in cases where there's indications that a vessel may have been operated as manifestly unsafe, then the Coast Guard does investigate, and in some of those cases, works with the U.S. attorney to pursue prosecution, and there's fairly recent examples of that.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:20:02",
+      "speaker": "SOLOMON",
+      "sentences": "Well, speaking of prosecution, Elie, I want to bring you into this conversation. There has been a lot of attention about the liability release waiver that the company has, passengers signed. I want to read for you a part of it. It says, the experimental submersible vessel has not been approved or certified by any regulatory body. Any failure could cause severe injury or death. I hereby assume full responsibility for the risk of bodily injury, disability or death.So, that's the waiver that essentially people who board this have to sign. That said, how much protection does that offer a company like OceanGate? And there are two ways to think about this, right, civilly and criminally.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:20:02",
+      "speaker": "ELIE HONIG, CNN SENIOR LEGAL ANALYST",
+      "sentences": "Right. So, liability waivers don't do as much as I think people may sometimes believe legally. I think people sometimes think, well, if you sign it, that's it, end of story. Not true. On the criminal side, a liability waiver will have no impact. It will not stop prosecutors, it will not be a defense.If we're looking at the potential for criminal charges here, and there is theoretical potential, as the captain said, I think there're some practical issues, though. If someone causes a death at sea in the maritime jurisdiction of the United States, then, yes, the federal government, U.S. Department of Justice, U.S. attorney can investigate and can charge. And as the captain correctly said, there have been federal criminal charges for essentially the equivalent of involuntary manslaughter if someone's negligence caused the death. And there are indicators, as Gabe Cohen's piece, I think, nicely highlighted. The practical issue here, though, is who could get charged? You can charge a company with a crime, but that's more of a formality than anything else. So, if it's United States versus OceanGate, the only consequence even of a conviction could be fines. Nobody goes to jail for a corporate prosecution. The CEO, tragically, has passed, and if he was the person with final say so, final authority, then the question has to be, well, who else might be criminally liable for negligence?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:20:02",
+      "speaker": "SOLOMON",
+      "sentences": "Who else potentially knew?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:20:02",
+      "speaker": "HONIG",
+      "sentences": "Yes, if you're looking at an engineer or a safety person, their defense might well be, I made my recommendations, but the CEO was the one who had the final say.So, it wouldn't surprise me if there's an invest investigation here. Civil suits, I think, are virtually certain, but criminal charges could be practically tricky.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:20:02",
+      "speaker": "MATTINGLY",
+      "sentences": "Romans I've been fascinated by my dives into the adventure tourism industry, which I think I was tangentially aware of, had no concept of just the sheer acceleration of its growth in the wake of the pandemic. One, can you explain to people that this is an actual thing? It is a massive market. And what do you think happens to the market now?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:25:04",
+      "speaker": "MATTINGLY",
+      "sentences": "Yes. The profile of the people you are describing wouldn't be affected by --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:25:04",
+      "speaker": "ROMANS",
+      "sentences": "They know that it's a risk. In fact, that's why they do it, because it is a risk. And it is such a thrill to be able to do these things that most mere mortals can never touch. I actually have no desire to go to Mount Everest, by the way and --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:25:04",
+      "speaker": "SOLOMON",
+      "sentences": "This is their busiest season, one of their busiest climbing during. So, certainly --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:25:04",
+      "speaker": "MATTINGLY",
+      "sentences": "Well, I think seven people died during that climbing season.Look, Elie has got that kind of money and that type of risk.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:25:04",
+      "speaker": "HONIG",
+      "sentences": "I'm neither rich nor a thrill seeker.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:25:04",
+      "speaker": "SOLOMON",
+      "sentences": "Thank you all stay with us. Hang around for quite a bit. But let's go now to Anderson live in St. John's, Canada. Anderson?",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

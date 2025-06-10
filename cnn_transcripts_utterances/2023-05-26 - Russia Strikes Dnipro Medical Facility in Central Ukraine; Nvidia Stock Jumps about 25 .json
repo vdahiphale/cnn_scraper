@@ -1,0 +1,355 @@
+{
+  "date": "2023-05-26",
+  "headline": "First Move with Julia Chatterley",
+  "subHeadline": "Russia Strikes Dnipro Medical Facility in Central Ukraine; Nvidia Stock Jumps about 25 Percent after Q1 Earnings Report; New Antibiotic Discovered with AI may Defeat Superbug; Valliere: House Vote could Delay any Debt Limit Agreement; Sky High Dining Experience: Eating at the Edge of Space; U.S. Beachgoers Urged to Stay Vigilant after Spate of Attacks. Aired 9-10a ET",
+  "utterances": [
+    {
+      "timeStamp": "09:00:00",
+      "speaker": "JULIA CHATTERLEY, CNN HOST FIRST MOVE",
+      "sentences": "A warm welcome to \"First Move\". Fantastic to have you with us and TGIF what a week it's been? Spanning techmarket elation to interest rate frustration to a grimmer will they default sensation I rolled enough on that this week. So, I'm substituting some emojis for our \"First Move\" Friday Wall Street pleasure playing index don't get too excited. Making investors happy more evidence that AI is the new tech growth engine chip maker Nvidia stock soaring 24 percent on buoyant demand its market cap now surpassing that of both Facebook chief Meta and Tesla and creating discomfort. Meanwhile, traders increasingly pricing in additional Fed rate hikes with a more than 50 percent chance now of a rate hike next month. And then causing serious pain, you've probably guessed the still unresolved U.S. debt ceiling crisis. Less than a week to go before the U.S. apparently runs out of cash and still no deal to raise the borrowing limit reports though, do say progress is being made on a two year deal. Both sides are set to work through the long weekend. But at least as of yesterday, that's Thursday, the U.S. had less than $50 billion of cash left on hand. That was down more than 20 billion from the day before. So clearly time is running out. And as we await new developments, I'll give you a look at this Wall Street futures and Europe higher amid reports of deal making progress. After today's close U.S. markets won't open again until Tuesday. There's a long weekend here in the U.S. That's just two days before the June 1 Treasury set deadline. A busy Friday indeed and let's begin with those debt ceiling talks. Christine Romans joins us now. Christine, you can -- now rather than me, but we do seem to be closer on reaching some kind of deal, a two year extension, which would push them beyond the 2024 election, I believe, but some concerns debate over work requirements to get federal support.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:00:00",
+      "speaker": "CHRISTINE ROMANS, CNN CHIEF BUSINESS CORRESPONDENT",
+      "sentences": "Yes, so we're seeing where there seems to be consensus coming together on spending caps exceptfor the military and for veterans. And then there's also this movement from the White House. You know, it looks like maybe offering up $10 billion in IRS funding that has been the bane of Republicans, right? They hated that the IRS got so much new funding to modernize and to be able to enforce rich tax cheats. And so maybe some of that money could be take 10 billion. I think is the number they're talking about move from that pile from the IRS enforcement pile, the IRS operations pile moved over to cover some other spending cut areas, the Democrats are find important. So maybe there that shows there's some compromises and movement, something that Kevin McCarthy can take back to Republicans. But you're right, still a lot of concern, from the left about any work requirements for food stamps and for Medicare. Look, they say that's not solving America's debt and deficits problems. That's just, you know, hurting the poor. So that's a philosophical debate that is still happening there overall, but we are seeing some movement. And I think that is what is so important. And when you look at markets, Julia, I'm worried about the calendar I'm worried about the whip whether they can whip these votes. But markets are saying failure is not an option. The United States government is not stupid enough to actually go over the line and trigger a default. I hope they're right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:00:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "Yes, I was about to say, your point about that's not solving the broader problem. Nor is this crazy debate over what's effectivelyspending on a credit card and then saying, hey, I'm not paying it back. None of these rules surrounding this makes sense for promoting further fiscal responsibility. But that's a separate point. I agree with you, investors all the way along have said, you know, you're the biggest, deepest bond market in the world, you're one of the biggest creditors in the world, debtors in the world, forgive me, don't blow it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:00:00",
+      "speaker": "ROMANS",
+      "sentences": "And it's incredibly important. And you know I worry about a loss of American prestige. I mean, they've done this in 2011, 2013 and again, now.I mean, you've heard some rumblings around the credit agencies of like, wait a minute, I mean, if this is going to be a feature, not a bug of the American political system. Does America deserve AAA credit rating, you know, or is this something is this a risk going forward? So I think that there needs to be bigger -- two big discussions, one about debt and deficits and the drivers as we know our health care, retirement, interest on the debt and tax revenues that are too low. OK, so that's take those four things, you got to figure it out, right? Maybe you need a bipartisan Blue Ribbon Commission to do that. You know, and the second thing is the debt ceiling is not as helpful as it was in terms of fiscal restraint 100 years ago, when it was put in, maybe we need to have bigger discussions about making sure the debt ceiling is not a political football. Maybe that should be taken off the field too.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:00:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "Yes, Christine, you get my vote put you in charge. -- thank you very.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:00:00",
+      "speaker": "ROMANS",
+      "sentences": "I don't want that job.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:00:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "-- that's the problem? Yes, Christine Romans have a great weekend. Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:00:00",
+      "speaker": "ROMANS",
+      "sentences": "You too.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:05:00",
+      "speaker": "SAM KILEY, CNN SENIOR INTERNATIONAL CORRESPONDENT",
+      "sentences": "Once again a night of a bombardment from Russia involving cruise missiles and drones has takencivilian lives this time in Dnipro where at least one person has been confirmed dead, several missing following this bombardment, which hit a neurological clinic. Now could have been a lot worse potentially with the attacks in the past have been focused on residential buildings with much higher death toll. So a number of people more than a dozen reportedly injured in this latest attack, as the Ukrainians have been accused of continuing cross border bombardments from their northern border area into the Russian province of Belgorod. This is a claim being made by the Russian Governor there that would be consistent with the pattern in the past in which the Ukrainians are now hitting back at cross border. Artillery strikes that they've been suffering for more than a year from that self-same area. And on top of that there has been a mysterious strike much deeper into Russia with a fire at a facility with neither side really explaining what has gone on there. But the Ukrainians are conducting a destabilizing campaign intended to keep the Russians off balance as they get underway with what may be the early stages of their summer offensive. Sam Kiley, CNN in Eastern Ukraine.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:05:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "And since I filed that report, a second person is known to have died at that medical facility. And Ukraine says Russian forces have usedaround 1200 Iranian drones since the war began. As Salma Abdelaziz reports, ships and planes have somehow found a way of making deliveries into the country largely unnoticed. (BEGIN VIDEOTAPE) SALMA ABDELAZIZ, CNN CORRESPONDENT (voice over): These calm waters are home to a secret Russia doesn't want you to know. Experts say Iran is quietly sending weapons on ships like this one across the Caspian Sea to replenish arms for Moscow's war on Ukraine. Concealing movement at sea is considered nefarious and potentially a violation of international law. But in the Caspian Sea, there are a growing number of gaps in vessels tracking data known as AIS, with a more than 50 percent increase in ships hiding their movement between August and September of 2022. According to maritime trafficking data, most of the vessels going dark are Iranian or Russian flag tankers. The timing is suspicious too, this practice picking up the last summer, just as White House officials revealed that Russia had purchased hundreds of drones from Iran. So why would these ships want to hide their movements? Maritime Security Analysts Martin Kelly tells us it is likely because of what these vessels are carrying.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:10:00",
+      "speaker": "ANISEH BASSIRI TABRIZI, SENIOR RESEARCH FELLOW AT RUSI",
+      "sentences": "I think the perception in Moscow is that Iran can teach a lot to Moscow about how to goand how to still have a significant economy, even when sanctions are imposed. ABDELAZIZ (voice over): And there is very little the U.S. and its allies can do to stop it. And more could be on the way. Intelligence officials warned in November, Iran plans to send ballistic missiles, ammunition and more sophisticated drones to Moscow. A bustling corridor potentially providing a much needed Arsenal critical to Russia's land grab in Ukraine. Salma Abdelaziz CNN, London. (END VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:10:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "And terrifying moments of passengers aboard a packed plane preparing to land in South Korea. I can barely look, just take a look atthis. Airline officials say a man on an Asiana Airlines flight appeared to open a door while the plane was still hundreds of meters in the air. Videos circulated on social media show passengers being pummeled as air rushes into the cabin. Now thankfully, the plane was able to land safely and Paula Hancocks has more details.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:10:00",
+      "speaker": "PAULA HANCOCKS, CNN CORRESPONDENT",
+      "sentences": "It has every traveler's worst nightmare and emergency door opening on the plane while still in the air. This iswhat happened to an Asiana flight today here in South Korea now it was supposed to be less than an hour in flight from Jeju to Daegu and did land safely her 12:45 pm. Now Asiana said that it was about two to three minutes before landing, the flight was still about 700 feet more than 200 meters away from ground and that is when a passenger opened that emergency door. Now you can see from the videos just how much the passengers are being buffeted by the strong gusts of wind as the flight lands. Now there were 200 people on board we understand that 12 suffered from hyperventilation, nine of the 12 went to hospital. But we're being told by officials that they were only minor injuries. But what we are hearing from aviation experts is that even though a passenger we understand opened the door, he should not have been able to do that while the flight was still going. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:10:00",
+      "speaker": "GEOFFREY THOMAS, AVIATION EXPERT",
+      "sentences": "It seems implausible that the door could be open in the first place and then against the air stream. Technicallyimpossible but somehow rather it has happened possibly some malfunction. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:10:00",
+      "speaker": "HANCOCKS",
+      "sentences": "Daegu police say they have arrested the passenger and he has confessed to opening the door but has not given any reason as to why ittook place. Now at this point, the government has opened an investigation to find out why it happened, how it happened, and why technically it was even able to happen while the flight was still in the air. Paula Hancocks, CNN Seoul.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:15:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "Welcome back to \"First Move\". Shares of U.S. chipmaker Marvel jumping 17 percent pre market on a forecast that its AI tied revenue willdouble for the year. And on Thursday this week specialty chipmaker Nvidia surged nearly 25 percent after posting a blockbuster quarter fueled by the AI boom. It stock now up more than 160 percent this year and it's not just the chip makers reaping all the benefits. Wedbush Security says, \"We estimate that this is an $800 billion market opportunity over the next decade as this AI Game of Thrones plays out across the enterprise and consumer tech space.\" And joining us now to discuss, Dan Ives, Managing Director and Senior Equity Analyst at Wedbush Securities, Dan, a pleasure happy Friday, I do think Nvidia was a wow moment for the market and highlighted the amount of interest but also money that's being pumped now into AI of all kinds.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:15:00",
+      "speaker": "DAN IVES, SENIOR EQUITY ANALYST AT WEDBUSH SECURITIES",
+      "sentences": "Look I mean, the Nvidia is the foundation. And for my opinion, 22 years covering tech, I'venever seen large cap tech company raise guidance by 60 percent ever including the bubble. And I should I think it shows, Julia. This is an AI revolution that tears. This is not a hype cycle like Metaverse, crypto and others. And I think this is really you know, what I view is sort of just the next phase of what's the Fourth Industrial Revolution playing out.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:15:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "For Nvidia, specifically, though, it's tied to the specific chips that they produce and why they're needed to help drive the tools tiedto artificial intelligence. Are there other competitors out there Dan? Or is the point here that yes, they're raising guidance by that much simply because that's the only game in town at least for now?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:15:00",
+      "speaker": "IVES",
+      "sentences": "Well, right now, they're the only game in town. I mean, if you need a chip from a GPU perspective in your -- Nvidia, but when I look at AMD, Ilook in Marvell, I look at oh, and there are a handful of other chip players. Look, I think this is really going to be so that Game of Thrones play, on not just on the software side, Microsoft, Google and others on the chip side. And I think investors right now I mean this is a green light, in terms of what I view as an $800 billion incremental opportunity over the next decade for tech.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:15:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "What could certainly put out a note this week looking at the phases of growth and monetization in AI? And they compared it to the phasesthat we went through with the mobile internet, it sort of ties to the point you're making chips first infrastructure and devices was like the next wave and then software and services Nvidia clearly is phase one of that, which is chips. Do you see this playing out in a similar way to the mobile internet? I feel like in some ways, the overlay of AI over the existing technologies that we have providers with at least more clarity to some degree of the next five to 10 years than we had with mobile internet.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:15:00",
+      "speaker": "IVES",
+      "sentences": "Yes. OK, I think you never in terms of the point, I think the first derivatives chips, then you look at names with right now Microsoft, Google,I think Meta is going to be a significant beneficiary of this. I think Apple is going to be a beneficiary because the install base. Then you start to look on the software side names like salesforce.com, MongoDB. I mean, this is really now going to start to play out you look at that Nvidia, that's the first step. But ultimately, this is really an arms race unlike we've seen probably going back to the late '90s in terms of build out of the internet.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:20:00",
+      "speaker": "IVES",
+      "sentences": "I think right now, Amazon does lie behind Google and Microsoft, from a cloud perspective in terms of AI technology, I'd be shocked if Jassy onAmazon doesn't do an acquisition in the AI space in order, just given the massive opportunity within them mode on cloud. But you could argue for Amazon, I mean, this could start to add potentially $40, $50 per share and the some of the parts to the valuation if they execute. And I think that's why right now, this is a very important time for Amazon to play catch up to Nadella on Microsoft, the out in Redmond because right now they're popping champagne, given what they're seeing on AI.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:20:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "Yes, the excitement surrounding this system monumental. To your point, we had a representative of Adobe on earlier this week talking aboutFirefly, this AI driven tool that allows you to adapt images, and I saw that you tweeted, or at least someone asked you, your view and you tweeted about them. What's your take on this? And how important perhaps this is for the company and where they're headed?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:20:00",
+      "speaker": "IVES",
+      "sentences": "Look, I think Adobe they've laid out a great strategy. And you cannot argue with the success they have. It's one of the best franchises outthere. I'm not convinced right here, that they can be as much a beneficiary of some of the cloud players. I think they got some more with the chop, they've laid out the blueprint. OK, in terms of the strategy, but it's not like the Microsoft, the Google, the Meta than the Nvidia where I've used the first derivative, if view Adobe, maybe a second, third derivative, with a little more uphill battle to get there.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:20:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "Yes. And it's interesting to get your take on some of the differences in these because I think this is what investors are trying todecide now. Do you just buy them all and ride a wave or even distinguish between some of these names today, you wrote a great primer, which I recommend people read. And one of the things that leapt out at me was the difference between ChatGPT-3.5 ChatGPT-4. And we've talked a bit about this on the show because I had Reid Hoffman on who wrote a book with ChatGPT for equivalent. 82 percent less likely to respond to requests for disallowed content. 40 percent more likely to produce factual responses and it's getting better and better incredibly, quickly done, while the good sides get better so to the dark sides. How do we best regulate this? And is this going to be a problem anytime soon for these big players?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:20:00",
+      "speaker": "IVES",
+      "sentences": "Look, regulation is going to be there and that's going to be concerned within the Beltway within Brussels and elsewhere. But ultimately,as we know regulation, and that's going to be snail's pace, right? So there's not going to keep up with the technology. There's going to be bad actors, there's going to be froth. But that's why to me stick with the winners. And when I've used the AI basket to play was really a new gold rush. And I think what we saw in the video, this is not a bubble, this is real.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:20:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "Yes. Good for investors, Dan. I'm a little bit scared for humanity at times with the darker sides. And to your point, I completelyagree with you. Good luck regulators, that's all I can say. Yes, Dan Ives, thank you so much for that, Managing Director at Wedbush Securities. Have a great weekend.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:20:00",
+      "speaker": "IVES",
+      "sentences": "Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:20:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "Now, this reminds me of the conversation we had with AI Guru and Former Google CEO and Chairman Eric Schmidt, if you remember who was onthe program last week, and this is exactly what he said, seeing huge potential benefits across various fields, including the pharmaceutical industry, just listen to what he had to say. (BEGIN VIDEO CLIP) ERIC SCHMIDT, FORMER CEO &amp; CHAIRMAN OF GOOGLE: In science, and in particular, in biology and drug discovery, people are using these technologies to advance solutions to problems that have bedeviled humanity for decades and years and centuries. This is all good. Can you imagine having a universal AI tutor that speaks to each and every child, and each and every adult in their own language, and figures out how to make them better educated, smarter, better citizens in their countries and that sort of thing? Can you imagine lifting up the standard of medical care globally, so that everyone has the access to a pretty good doctor? If there's evidence now that these systems can pass medical exams and legal exams, these are going to be incredible amplifiers for the people who are trying to help people, educate people globally. And I defy you to complain about that. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:25:00",
+      "speaker": "ELIZABETH COHEN, CNN SENIOR MEDICAL CORRESPONDENT",
+      "sentences": "Julia, if you can imagine you're a researcher in a lab without artificial intelligence andyou want to test out a bunch of different drugs, a bunch of different chemicals to see if they can work against this horrible antibiotic resistant bacteria. You want to nail those bacteria, you want to just kill it, and you're trying out one after another. It is going to take you weeks and months, maybe years to do say 100 million of those. AI in a much shorter time, and maybe days or weeks contest out way more than that, maybe even billions of chemicals. So to the point that you were making with your guests earlier, AI just makes everything go much faster. And we really need an approach for these bacteria. So these bacteria are so dangerous. Let's talk a bit about it. So it's called the Acinetobacter Baumannii sorry about that, and it develops antibiotic resistance. In other words, it becomes resistant to antibiotics. And it can cause infections in the blood urinary tract, it can cause pneumonia. It's found mostly in hospital so people with catheters, people in the ICU, people who are the most vulnerable. And here's probably the worst of it, or part of the worst of it, Julia, it clings to surfaces. So you can wash, wash, wash and scrub, scrub. But you know, if someone in a hospital misses a spot, these bacteria can just grow and grow and grow. So what these researchers did is they got a mouse, they gave it a wound infection, a skin infection with this bacteria. And they found that a particular chemical worked against it. So Julia, I want to be clear, this is a great day, if you're a mouse, it's a great day, if you're a wounded mouse. This is not going to be on the market anytime soon. But it is great proof of principle. And hopefully this will end up some being you know becoming a drug that you or I could take if God forbid we got this infection, Julia.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:25:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "Yes, that name is pretty unbearable to say as well. So I'm glad you did it, not me. So what are we talking years then before we get thesefor use and prescription from a doctor, for example? And do you think it is an avenue fit first of tailoring other forms of antibiotics to tackle other pathogens?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:25:00",
+      "speaker": "COHEN",
+      "sentences": "So I'll answer your second question first, Julia.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:25:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:25:00",
+      "speaker": "COHEN",
+      "sentences": "So absolutely, this makes the whole process much easier and much quicker. But here's why it would likely still be years before it came onthe market, you have to just because it can kill the bacteria doesn't mean you would hurt some other part of us. They have to make sure that if you're going to give this to humans, it'll kill the bacteria, but that it's not toxic in some other way. So that is a very, very long time of testing. Secondly, and you know more about this, Julia, than I do, because you're the business expert and I'm not. You have to convince a pharmaceutical company that it is worth spending money on this. This is antibiotics are not huge moneymakers. This would be used for, you know, in big picture a relatively small number of people because not tons and tons of people get this infection compared to some other bacterial infections. So you'd have to convince a pharmaceutical company to spend money on it. And both of those things can take quite a long time.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:30:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "Welcome back to \"First Move\". U.S. stocks are trading for the final session of the week ahead of the longer Memorial Day holiday weekend.You can call it a firmer Friday, at least for now investors reacting to reports of progress in those debt ceiling talks more on that in just a moment. Also today important new U.S. inflation numbers the Federal Reserve's preferred measure of inflation it's called the Core PCE Index, that keeping a little higher than expected up 4.7 percent in April, year-over-year, month-over-month prices were up too. That's actually the first rise in three months. Prices remain sticky. I think that's the bottom line and that remains a significant worry for the Federal Reserve, as we discussed earlier in the show too time running out for lawmakers to try and hammer out a deal to pay the U.S. government's bills. Sources say the White House and the GOP negotiators are moving closer to an agreement that the GOP is Republicans of course. The potential compromise could raise the debt ceiling, but limit federal spending levels for two years. To put all this into English for us Greg Valliere joins us now. He's the Chief U.S. Policy Strategist at AGF Investments. Greg, welcome to the show. Are you expecting a deal of some kind by the end of the weekend and what might that look like? GREG VALLIERE, CHIEF U.S. POLICY STRATEGIST AGF INVESTMENTS: Well, good morning, Julia. Yes, I do think there'll be an agreement in principle. I don't think there's going to be an agreement where everything is finalized, I think that'll take a few more days. They have to read the bill. That's going to take some time as well. But we're making progress. But I would add one note of caution. The real fireworks come late next week, when both houses have to approve this. And the initial reaction from the left and from the right is really hostile. I think there could be a revolt, maybe among conservative Republicans or liberal Democrats that could delay this even further.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:30:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "OK, so we have to break that down. What you're saying is you've got sort of activists on both sides. On one side, the conservatives aresaying, hang on; we need to limit spending far more than we're doing. And then on the left, you've got people saying, hang on a second, people shouldn't have to be applying for work or working in order to get federal benefits. These are sort of pretty significant sticking points, Greg?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:30:00",
+      "speaker": "VALLIERE",
+      "sentences": "Absolutely. I think that the center will hold and that McCarthy and Chuck Schumer will have the votes. I think Schumer can get this throughthe Senate. The House, though, is going to be a problem. And it's possible that speaker McCarthy might need hundred votes from Democrats to get this through the House. And you have to ask the question, are Democrats willing to stick their necks out for Kevin McCarthy?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:30:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "Well stick their neck out for Kevin McCarthy, but also for President Biden. How embarrassing if this continues to go on like this forthe Democrats. I mean, that's the sort of political balance that they have to ask themselves, and the White House has to ask itself?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:35:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "As we're pointing out, and you're making very clear, it's going to be very difficult to agree there's to get everything into legislationand passed before that. What's now become the sort of key X date in people's minds. June 1st when the treasury has said, look, the money's basically run out, and we're going to have to make some tough choices. Greg, from the people and the conversations that you're having. Do you believe that date or other sort of, there's chemistry that they can use to shift things around delay payments and push that date back?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:35:00",
+      "speaker": "VALLIERE",
+      "sentences": "You know, it's possible, Julia. They could wait until June 8th or 9th? That's not out of the question. But that's risky in my opinion. Thenumbers are terrible receipts are coming in quite weak and other set of numbers today. So I would say they really do have to get this done on the first, maybe treasury can sell some assets. There's been speculation about them selling something out of Social Security Trust Fund or the Highway Trust Fund that could get them another week or two. But I think this sets a really bad example. And the rest of the world looks at us as being really dysfunctional.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:35:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "Not for the first time, Greg and I say that with respect to my own country have its own problems. I was going to ask, do you think any ofthese matters for stock market investors, whether it's June 1st, 2nd, 3rd, 4th, 5th, 6th and 7th? Because so far, there's been an underlying belief that even if you're rolling your eyes, there is going to be a solution here?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:35:00",
+      "speaker": "VALLIERE",
+      "sentences": "Good question. I say it's likely that the markets will shrug this off. I think once this is done, and it will get done, and we're not goingto default. Let's this then we move on to two other really big stories. One is how much work does the Fed have to do? And maybe they got to hike rates one more time after today's inflation data. And then the other big, big story this summer is going to be in Ukraine. I think that the route could be on soon with Russian troops fleeing. I think there's more and more intrigue in Moscow. I think that is going to be the dominant story of the summer.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:35:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "Yes, two vitally important stories. And sadly, I'm not going to ask you about either of those. I'm going to take us to a 3rd, which was thefun and games earlier this week with Florida Governor Ron DeSantis and his campaign launch, to be the nominee for the Republicans in the presidential election, on Twitter. And some glitches, some comedy with President Biden offering a link to a funding page that he said did work, you know, there was opportunity for all. What do you make of it, because some of the numbers here are huge of people that at least saw tapped in at some point and watched?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:35:00",
+      "speaker": "VALLIERE",
+      "sentences": "You know, I think a year from now, people will have forgotten that the rollout by DeSantis was really awful and amateurish. I think hecan survive this, but he can't survive many more. I think he still looks a little bit like he's not quite ready for primetime. And he's going to have to work on that and not just on social issues. He's got to look at economic issues. He's got to look at geopolitics. It's not all about transgender people. He needs to focus on a wider range of things that people care about.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:35:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "Yes, well, the bench is deep. I'm showing the pictures here of all the announces so far, at least some choices this time around. Greg,great to have you with us thank you Greg Valliere Chief U.S. Policy Strategy at AGF Investments.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:35:00",
+      "speaker": "VALLIERE",
+      "sentences": "Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:40:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "Welcome back to \"First Move\". Taking high end dining now to new extremes a French startup is offering flights to the edge of space in apressurized capsule attached to a helium balloon. Stick with me and of course being French food is also playing a crucial part. In this experience the company called Zephalto promises the finest meals for Michelin Chefs as the capsule rises around 25 kilometers above the earth now that's far higher than passenger jets, which cruise at an altitude of between 8 and 11 kilometers. The firm says the craft will take off from a French spaceport ascend for around an hour and a half at speeds of four meters a second, before reaching an altitude of 25 kilometers where you'll spend the next three hours. You can see on the diagram plenty of time to eat and admire the view, followed by slow descent back to Earth. You can see we're very excited about this on the show. Vincent Farret D'Asties is the CEO and he joins us now. Sir welcome to the show. Very excited to talk to you just explain what inspired this firm? VINCENT FARRET D'ASTIES, CEO ZEPHALTO: Yes, thank you very much. I'm very happy to continue. What inspired was a dream? I used to say it a lot and made with moves to sail to the stars because yes to provide a little cabin space -- I wanted to fly to the southern being harmony without adding fuel to get there. So but this dream is coming true is when was the beginning of Jupiter was 2016. And now we are about to fly at 25 kilometers altitude this year for test flights.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:40:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "Wow. So you're in the testing flight phase, but you're already selling pre reservation tickets for 2024. So you're pretty confident thatyou know what you're doing and you're going to be up and running next year. D'ASTIES: Yes, its first commercial flight will be end of 2024. And we are really confident thanks to our strong partnership with French Space Agency, European Space Agency, Airbus and people really have this huge experience of flying in the stratosphere. Because French Space Agency has 60 years' experience thousands of flight up there. And we really rely on all their security safety devices. But safety is a key point for us. And yes, we can afford a thing offering this dinner at 25 kilometers in less than two years.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:45:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "Yes, you're definitely selling it. And six passengers, I believe two pilots, and you're planning to do multiple journeys each year.You've got to talk to us about the cost. Because this is the point I think, where everybody's goes, how much tell me how much it costs? D'ASTIES: So it's 120,000 Euros, so $130,000, something like that.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:45:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "Per person?D'ASTIES: Yes per person for tickets. And, of course, it's a lot of development to get to this wonderful, amazing travel among the stars, and to be fully reliable. And we have years and years of -- of course, the balloon is huge. It's something you can it's almost hundred meters high. You can put Nostradamus Statue of Liberty inside the enveloped in times balloon. So it's something huge, you have to test a lot, we will already performed three different test flights on three different prototypes in the past years. And now we will still test and test in the years to come. And of course, this is a cost. And of course having the Michelin Star Chief on board and all the exceptional comfort on board this perfect designed will be very happy to soon reveal the cost, and we're really happy to share it with a maximum of person. But for the beginning the person the happy few will work -- will do our pioneer ambassadors.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:45:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "I can't wait to see inside. I know you're also selling pre reservation tickets I mentioned for around sort of $11,000 which gives thempeople the right if they want to go on and buy a ticket. And how many of those have you sold? Can you tell me because to your point, this cost a lot of money? This industry in general costs a lot of money in the beginning. How many of those tickets have you sold? D'ASTIES: Oh, that's a -- we have begun to sell to ticket quite recently with yes, we are really happy to see that a lot of people are asking if people want to have a wedding on board to have of course dinner.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:45:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "Interesting.D'ASTIES: Yes, that's amazing. And support for the first year is really great. The first year is booked. So you have to get in a hurry, know --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:45:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "How many to get a secret. You're trying to fob me off with excitement over weddings, but you're not telling me how many?D'ASTIES: I won't tell you how many weddings we are in the first year.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:50:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "He does look at the images are amazing. And yes, you have more than emphasized the safety. So I'm convinced if you need a test on me, I'myour girl. I'd love to go up and see. You can let me know. D'ASTIES: Looking forward to it. So maybe two years a little bit more, but --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:50:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "We'll reconvene. Great to chat to you, sir thank you so much.D'ASTIES: Thank you and have a great review.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:50:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "Thank you. OK still to come, a warning for your next trip to the beach after a wave of shark attacks across the United States. That'safter the break. Stay with us. (COMMERCIAL BREAK)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:50:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "Welcome back to \"First Move\". Superstar Celine Dion has cancelled her entire world tour as she continues to back with a rareneurological health condition. And a message to her fans on Twitter the singer said \"It's best that we cancel everything until I'm really ready to be back on stage. I'm not giving up and I can't wait to see you again\". At the end of last year, Dion revealed that she's living with stiff person syndrome, a condition that causes severe and constant muscle spasms. Tickets for her concert will be refunded from their point of purchase and we wish her well. And authorities are urging U.S. beachgoers to stay vigilant in the water after several shark attacks over the past month. Recent attacks have been reported in New Jersey, Florida and Hawaii. And just this week, a three meter great white shark was spotted off the coast of South Carolina. The warning comes ahead of the Memorial Day weekend when people will be flocking to local beaches as Miguel Marquez reports.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:50:00",
+      "speaker": "MIGUEL MARQUEZ, CNN CORRESPONDENT",
+      "sentences": "Shark attacks in the last couple of years had been up across the U.S. You mentioned some of them recently. Oneof the more concerning ones that has just happened is down in the Turks and Caicos this was a couple that were on a private tour. They were on a boat. They were snorkeling off the reef so a little farther out. And a shark took off one of the limbs of the woman who is in very serious condition right now there was also a young woman who was bit down on the New Jersey coast she was surfing. And then down in Florida there was a young woman who was just sitting in the water near Fort Pierce and she was bit. Both of those individuals were not bit as bad as the woman in Turks and Caicos but here in New York, the Governor has ordered more drones in the air more boats in the water as the summer season gets going to make sure that people are safe from sharks and a few words of advice as well. If you see schools of fish if you see seals, don't go swimming with them because sometimes the sharks mistake you for lunch.",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

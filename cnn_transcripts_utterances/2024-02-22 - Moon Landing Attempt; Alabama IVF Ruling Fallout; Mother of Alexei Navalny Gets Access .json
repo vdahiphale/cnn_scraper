@@ -1,0 +1,259 @@
+{
+  "date": "2024-02-22",
+  "headline": "CNN News Central",
+  "subHeadline": "Moon Landing Attempt; Alabama IVF Ruling Fallout; Mother of Alexei Navalny Gets Access to Body; Massive Mobile Phone Service Outage. Aired 1-1:30p ET",
+  "utterances": [
+    {
+      "timeStamp": "13:00:00",
+      "speaker": "BORIS SANCHEZ, CNN HOST",
+      "sentences": "Out of service, a phone outage hitting the AT&amp;T network, no calls, no texts, no access to the apps and services that we have all come to depend on. The latest on what caused it and why it worries experts.Plus, another Alabama clinic presses pause on IVF, at least for now. The fallout from the controversial court ruling that could dramatically change family planning for millions.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:00:00",
+      "speaker": "JESSICA DEAN, CNN HOST",
+      "sentences": "And historic mission. We're now just hours away from what could be the first moon landing by an American spacecraft in 50 years.We're following these major developing stories and many more. It's all coming in right here to CNN NEWS CENTRAL.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:00:00",
+      "speaker": "SANCHEZ",
+      "sentences": "Welcome to CNN NEWS CENTRAL. A pleasure to have you this afternoon. I'm Boris Sanchez, alongside Jessica Dean in the nation's capital.And we got a serious wake-up call today for people across the country after a massive outage AT&amp;T.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:00:00",
+      "speaker": "DEAN",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:00:00",
+      "speaker": "SANCHEZ",
+      "sentences": "It meant that customers couldn't make calls, send text messages, or in some cases even access the Internet. And even 911 calls were affected in some regions.AT&amp;T says that three-quarters of its network is up and running again, but it still hasn't specifically said how this happened.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:00:00",
+      "speaker": "DEAN",
+      "sentences": "Joining us now is chief law enforcement and intelligence analyst John Miller and Lance Ulanoff. He's the U.S. editor in chief of TechRadar.It's great to see both of you. A lot of people scrambling today. John, let's just start first with you, the potential causes. What do we know about what could have caused this and where do things currently stand? JOHN MILLER, CNN CHIEF LAW ENFORCEMENT AND INTELLIGENCE ANALYST: Well, what we don't know is a cause from AT&amp;T. And they have been very slow off the mark to engage with their customers. It took them many hours to get a banner up on their Web site acknowledging what their customers already knew, which is that they were suffering from technical problems and they were trying to resolve it. And when they spoke to our Brian Fung, they didn't give him any cause, but they did say that three-quarters of the system was back up and running. AT&amp;T is not just another provider. You know, they provide the FirstNet to emergency responders. So, potential causes, environmental. Particularly with 5G, weather can affect the system. Other potential causes, technical. Sometimes, when they do an upgrade or a switch overnight, they can offset the system. And, of course, the third one is cyberattack. Now, we don't have anything to suggest that, but it has been in the conversation since early this morning.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:00:00",
+      "speaker": "SANCHEZ",
+      "sentences": "Lance, one specific issue at play here seems to be how cellular services hand off calls from one network to the next. Does that tell you anything about why this could have happened, what could have gone wrong?LANCE ULANOFF, U.S. EDITOR IN CHIEF, TECHRADAR:  Not necessarily, but it is really interesting, because, when we first looked at Downdetector, which looks at all sort of customer complaints regarding some of these networks, all of the major networks appeared to be down. But the reality was that AT&amp;T is such is a big network that, when other networks tried to contact people on the AT&amp;T network, well, they thought their network was down, so they reported that. So that's why we had reports of T-Mobile and Verizon being down and not working, because they couldn't work with the major network that was apparently offline for major parts of the U.S., a big chunk of Texas and in Virginia, Ohio, Michigan. I mean, I had so many reports from so many places where people could not get on the AT&amp;T network.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:05:02",
+      "speaker": "MILLER",
+      "sentences": "Well, and you wonder, how did that come into the conversation so early? But it's front and center when you consider potential causes ofunexplained events, because just think back to February 7, a couple of weeks ago. The FBI director, the head of the NSA, the head of CISA, the Homeland Security infrastructure group, talked about a Chinese program called Volt Typhoon. And this is a program that's been in place since 2021. It's a cyber espionage program, and Volt Typhoon's job is to get into critical infrastructure systems. Let me quote that report for a minute. This is a joint cyber bulletin, but it says: \"Volt Typhoon has compromised the I.T. environments of multiple critical infrastructure organizations, primarily in communications, energy, and transportation systems.\" This is the federal government telling us that there has been a persistent threat actor from a hostile foreign power that uses their cyber capabilities to get into water, power, communication, cellular technology, and the way they do it is, they get inside. They hide tools within the network. They try to disguise them within the normal Windows operating system. So, for people in their cybersecurity who are hunting for anomalies, it's very hard to identify it, because it's acting like the normal systems that fix, update, and change things within their network, and this is a real challenge, which is why they went public with it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:05:02",
+      "speaker": "SANCHEZ",
+      "sentences": "Lance, speaking to that challenge, what's the process like, the sort of internal investigation that a provider goes through to figure out how this happened?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:05:02",
+      "speaker": "ULANOFF",
+      "sentences": "Right.Obviously, they have to look at all their systems. They have look at, did they run a code update overnight? Did they do something that could have triggered this, which was basically -- started about 4:00 a.m.? I think here's the thing, that what AT&amp;T has to do as quickly as possible is reveal what they believe the cause was, because the problem is that conspiracy theories run rampant. And when it appeared that it was all these networks going down at once, I can understand how people thought that way. But, really, this is AT&amp;T's problem. It's their problem to solve, but also their problem to communicate about, so people have the assurance that this was not a cyberattack, this was just a tech glitch, this -- or that it was actually a solar flare, which has been one of the things that has been floated. What we need is communication from a communications company.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:05:02",
+      "speaker": "DEAN",
+      "sentences": "Communication from a communications company.(CROSSTALK)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:05:02",
+      "speaker": "DEAN",
+      "sentences": "It seems simple, but it has been challenging.All right, John Miller and Lance Ulanoff, thank you both. We really appreciate it. And we have a big development out of Russia now to tell you about. The mother of Alexei Navalny says she has viewed her son's body. In a new video, she says she was secretly taken to the morgue yesterday. That's roughly five days after the jailed opposition figure died. She says she made the video after Russian officials threatened her and tried to -- quote -- \"blackmail\" her over Navalny's burial conditions.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:05:02",
+      "speaker": "SANCHEZ",
+      "sentences": "CNN's Matthew Chance's is live for us in Moscow.Matthew, what else did she say? And how is the Kremlin responding to this?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:05:02",
+      "speaker": "MATTHEW CHANCE, CNN CHIEF GLOBAL AFFAIRS CORRESPONDENT",
+      "sentences": "Well, in terms of what Lyudmila Navalnaya, Alexei Navalny's mom said, well, she's made this video message.You can see her there. She's obviously very distressed, but she has managed to get access to her son's remains in the morgue in the far north of Russia, close to the penal colony in the Russian Arctic where he died on Friday. She said that the authorities who showed her the body secretly yesterday say that they know what caused his death. She says she signed the birth certificate, but she said there are certain conditions, unacceptable conditions, that they're placing on her about the funeral arrangements before they will release the body. Take a listen to what Lyudmila Navalnaya had to say. (BEGIN VIDEO CLIP) LYUDMILA NAVALNAYA, MOTHER OF ALEXEI NAVALNY (through translator): Yesterday evening, they secretly took me to the morgue, where they showed me Alexei. The investigators claim that they know the cause of the death, that they have all the medical and legal documents ready, which I saw, and I signed the medical death certificate. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:05:02",
+      "speaker": "CHANCE",
+      "sentences": "Right.So, I mean, she was repeating what I just told you there, but what she also said later on is that, basically, the conditions were something that they wanted to say where and when and how Alexei Navalny would be buried. Now, they -- she said that they wanted a secret burial as well. They didn't want this to be a mass public event. And that makes sense, because, even though this is a -- obviously a very difficult time for Navalny's family and for his mother, it's also an intensely political moment for the Russian authorities. [13:10:01] Alexei Navalny is a man who in life was able to attract tens of thousands of people onto the streets due to his anti-corruption campaign. And I think the big fear in the authorities right now and in the Kremlin is that, if there's a public funeral, the same may happen. And that's something that the authorities here in Russia desperately want to avoid.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:05:02",
+      "speaker": "SANCHEZ",
+      "sentences": "Yes, especially only a few weeks out from the elections there in Russia.Matthew Chance, live from Moscow. Thanks so much, Matthew. There's a new round of name-calling between the world's two biggest nuclear powers, and it's threatening to inflame an already explosive global face-off. Last night, President Biden once again spoke out against Vladimir Putin, bluntly calling him a crazy SOB. In response, the Kremlin called Biden's commons rude and shameful.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:05:02",
+      "speaker": "DEAN",
+      "sentences": "So, of course, this latest tit for tat comes amid stunning new signs of Russian meddling in U.S. politics and as America's allies and adversaries wonder how or if the U.S. will confront the Putin regime beyond 2024.CNN senior White House reporter Kevin Liptak has been traveling with the president on the West Coast. Kevin, talk us through these comments from Biden.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:05:02",
+      "speaker": "KEVIN LIPTAK, CNN SENIOR WHITE HOUSE REPORTER",
+      "sentences": "Yes, certainly is a striking thing to see the president of the United States say.And President Biden has been very critical of Putin in the past. He's called him a murderous dictator. He's called him a thug. But it is remarkable to hear just how critical the president was at this private fund-raiser in San Francisco last night. And it's remarkable against this highly fraught backdrop of U.S.-Russia relations. And the president almost slipped this into his remarks. It was something of an aside. When he was talking about the existential threat of climate change, the president said: \"We have a crazy SOB like that guy Putin and others. And we always have to worry about nuclear conflict. But the existential threat to humanity is climate.\" And so you see the president sort of sneaking that comment about Putin into his remarks. Now, this is not necessarily a controversial view among American officials and probably among European officials as well. But it is striking when you think about how Russia has really been thrust into the center of the political conversation in the United States, whether it's the debate over providing more funding for Ukraine, whether it's this back-and-forth between President Biden and former President Trump over the death of Alexei Navalny. We will see President Biden announce new sanctions on Russia tomorrow for the death of the opposition leader. And you also think about this idea of Russia potentially developing nuclear weapons in space or the idea that this FBI informant was talking to Russian intelligence officers, reporting -- providing false information about the Bidens to the FBI. It is sort of this confluence of events, that you really see this remark sticking out. Now, as he does often, President Biden is being a little more unvarnished in these behind-the-scenes fund-raisers. There were reporters there, but it's not on camera, and certainly President Biden feeling a little bit more willing to talk more candidly about some of his foreign counterparts on the global stage. Now, in the end, U.S.-Russia relations are already at an all-time low. They have really soured. But I don't think President Biden's remark is necessarily going to cause them to sour more, but certainly making clear where he stands, guys.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:18:04",
+      "speaker": "DEAN",
+      "sentences": "Today, more fallout in Alabama after the state Supreme Court ruled frozen embryos are children.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:18:04",
+      "speaker": "SANCHEZ",
+      "sentences": "Yes, today, two more fertility clinics have paused some of their IVF treatments over legal concerns, bringing the total to three.CNN health reporter Meg Tirrell joins us. Meg, what provider is pausing now?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:18:04",
+      "speaker": "MEG TIRRELL, CNN MEDICAL CORRESPONDENT",
+      "sentences": "Yes, guys, these are two of the larger providers of IVF services in Alabama, according to CDC data.We heard first from Alabama fertility specialists, which posted on their Facebook page this morning that they have -- quote -- \"made the impossibly difficult decision to hold new IVF treatments due to the legal risk to our clinic and to our embryologists.\" They say they're contacting patients now, and they say -- quote -- \"We're working as hard as we can to alert our legislators as to the far-reaching negative impact of this ruling on the women of Alabama.\" They say: \"At a time when we feel so powerless, advocacy and awareness are our strongest tools.\" They say the clinic will not close. They say -- quote -- \"We will continue to fight for our patients and the families of Alabama.\" Now, just now, we just heard from the third clinic in the state also to pause IVF services, the president -- or the chief executive officer of Infirmary Health in Mobile -- and this is a statement also from the Center for Reproductive Medicine -- said: \"The recent Alabama Supreme Court decision has, sadly, left us with no choice but to pause IVF treatments for patients. We understand the burden this place is on deserving families who want to bring babies into this world and who have no alternative options for conceiving.\" Guys, we have reached out to all the clinics in Alabama. These represent a large portion of the services being provided in the state.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:18:04",
+      "speaker": "DEAN",
+      "sentences": "Yes, there's five million people in Alabama. One in six people suffer from infertility or deal with it. There's only eight clinics.And, Meg, by that math, we're now down to five, with potentially more to come. So, broadening this out, are there any implications for reproductive rights nationwide?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:20:00",
+      "speaker": "SANCHEZ",
+      "sentences": "Yes, Meg Tirrell, thanks so much for the reporting.So, as we are broadcasting, there is an American-made phone booth- sized object zooming through space trying to do something that more often than not fails, touch down on the moon. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:20:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "And liftoff. Go, SpaceX. Go, IM-1 and the Odysseus lunar lander.(END VIDEO CLIP) SANCHEZ:  That is Odysseus, or Odie, for short, lifting off a week ago, but in a few hours from now, the lunar lander is scheduled to execute its controlled or what is known as a soft landing. And if it succeeds, it will be the first time the U.S. has landed on the moon since 1972.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:20:00",
+      "speaker": "DEAN",
+      "sentences": "It is kind of amazing. It also -- I love that we have given it a nickname, Odie. Odie is trying to reach the south pole of the moon.And experts say getting there is like hitting a golf ball in New York and having it land in a hole in Los Angeles. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:20:00",
+      "speaker": "BILL NELSON, NASA ADMINISTRATOR",
+      "sentences": "That's about it. And the south pole is particularly hard, because it is pockmarked with all of these craters.And remember that the south pole, if this is the bottom of the moon and the sunlight is coming in like this, you have got these deep, deep shadows. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:20:00",
+      "speaker": "DEAN",
+      "sentences": "It is complicated.Joining us now is retired NASA astronaut Air Force Colonel Ron Garan. He's also the CEO of ispace Technologies. It's a direct competitor of Intuitive Machines, which made Odysseus.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:20:00",
+      "speaker": "SANCHEZ",
+      "sentences": "Yes, he's the author of \"Floating in DarknessColonel, thank you so much for being with us this afternoon. What does it mean to you that this mission is being conducted by a private company not too different from yours?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:20:00",
+      "speaker": "RON GARAN, FORMER NASA ASTRONAUT",
+      "sentences": "Oh, this is great. This is a new era.This is part of NASA's CLPS program, which stands for Commercial Lunar Payload Services. And it's a really brilliant idea. It's basically leveraging the commercial industry to do things that large government space agencies did in the past.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:20:00",
+      "speaker": "DEAN",
+      "sentences": "And, Colonel, I was talking to our colleague Kristin Fisher, who is our space correspondent, and begging her to explain all of this to me so I could understand it.But she was saying that they were landing -- they're trying to land on the south pole. That's where there's ice or hope for ice, water. We also know that places -- countries like China and Russia also want to land there. Is there a sense that this is kind of a new space race or anything like that? GARAN:  Not in the sense that it was back in the '60s, I don't think, but, yes, I think there is a race to establish a permanent human presence on the moon, right? And so in order to do that, we have to establish the infrastructure that's going to enable that. And there's a lot of benefit for all of humanity for us to do that. So it's a peaceful space race, and I hope it stays that way. And it has the ability to really propel us into this new era of civilization expanding out and making the moon the Earth's eighth continent. It's really exciting times.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:20:00",
+      "speaker": "SANCHEZ",
+      "sentences": "That is quite a way to put it...",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:20:00",
+      "speaker": "DEAN",
+      "sentences": "It is.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:20:00",
+      "speaker": "SANCHEZ",
+      "sentences": "... the earth's eighth continent.Colonel, as you well know, this is a very difficult feat to accomplish. The Hakuto-R was a lunar lander made by your company. It attempted this last year. It didn't work out, as so many of these missions do. We heard the comparison of trying to hit a hole in one from New York to Los Angeles. Walk us through some of the challenges of executing something as complex as this.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:25:01",
+      "speaker": "DEAN",
+      "sentences": "It's amazing. Science is amazing.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:25:01",
+      "speaker": "SANCHEZ",
+      "sentences": "It's wild.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:25:01",
+      "speaker": "DEAN",
+      "sentences": "It is wild.But I just -- I hear your excitement just then when you were talking about this, could be the eighth continent, and how exciting of a time this is. And I think, for casual observers of space, can you help them understand? Like, give us a little more explanation about what makes this so exciting and unique?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:25:01",
+      "speaker": "GARAN",
+      "sentences": "Well, there's a lot of science that's going to come from this.There's going to be a lot of increased knowledge of our closest neighbor, the moon. Like I said, there's a lot of benefits that exist on the moon that we can use here on Earth. Odysseus has six NASA- funded scientific experiments on board. Additionally, there's commercial experiments on board. And it's going to just increase human knowledge.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:25:01",
+      "speaker": "DEAN",
+      "sentences": "It's incredible.Well, we will see how it unfolds. We're all going to be watching.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:25:01",
+      "speaker": "SANCHEZ",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:25:01",
+      "speaker": "DEAN",
+      "sentences": "Colonel Ron Garan, thanks so much. It's good to see you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:25:01",
+      "speaker": "GARAN",
+      "sentences": "It's always my pleasure. Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:25:01",
+      "speaker": "SANCHEZ",
+      "sentences": "Thanks.",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

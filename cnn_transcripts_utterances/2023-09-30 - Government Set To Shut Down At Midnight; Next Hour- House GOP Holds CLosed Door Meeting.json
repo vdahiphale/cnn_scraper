@@ -1,0 +1,481 @@
+{
+  "date": "2023-09-30",
+  "headline": "CNN This Morning",
+  "subHeadline": "Government Set To Shut Down At Midnight; Next Hour: House GOP Holds CLosed Door Meeting As Shutdown Looms; Border Towns Are Worried About a Government Shutdown; Carter Center Prepares To Celebrate Jimmy Carter's 99th Birthday. Aired 8-9a ET",
+  "utterances": [
+    {
+      "timeStamp": "08:00:58",
+      "speaker": "AMARA WALKER, ANCHOR",
+      "sentences": "Good morning, everyone. Welcome to CNN this morning. It is Saturday, September 30th. Yes, the last day of the month. I'm Amara Walker.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:00:58",
+      "speaker": "OMAR JIMENEZ, ANCHOR",
+      "sentences": "And the last day of the month going out with a bang. I'm Omar Jimenez in for Victor Blackwell. Thanks for spending part of your morning with us. We're watching a lot. Let's tell you what we're watching this morning.We are hours away from a potential government shutdown. Lawmakers still can't agree on a deal to fund the government past midnight. The last-ditch efforts underway to keep that from happening and the impact a shutdown could have on national security. Plus, floodwaters ripped through parts of New York City, submerging cars, disrupting mass transit, and prompting water rescues. We'll show you the damage left behind and where we're tracking more rain this morning.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:00:58",
+      "speaker": "WALKER",
+      "sentences": "Border security has become a major sticking point in the fight over a government funding deal. We're joined by one Texas congressman who is seeing the impacts of the migrant surge firsthand and says his city's in desperate need of help.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:00:58",
+      "speaker": "JIMENEZ",
+      "sentences": "And police make an arrest in the decades-old murder of rapper Tupac Shakur. The new evidence, they say, led to his arrest and the reaction coming from Tupac's family.Well, we are on the brink of a government shutdown. Today is the last day for Congress to pass a critical funding bill to keep the government's doors open and with less than 15 hours left on the clock, you see that there less than 16 hours. It's not looking like House Republicans will be able to do anything to get this done. We will see, though, because we're learning in the next hour, they will have a closed-door meeting, hoping to at least start the process toward a last-minute plan and to sway those hardline holdouts. This is after House Speaker Kevin McCarthy failed to get yet another stopgap bill passed on the House floor last night.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:00:58",
+      "speaker": "WALKER",
+      "sentences": "So if they cannot come up with a solution and the government does indeed shut down, it will be far and wide-reaching. We're talking about the effects. But the biggest impact will be on federal workers. Millions of people could be forced to work without pay, depending on who is deemed essential.Now, during the last government shutdown that was a couple of years ago, in 2018 to 2019, an estimated 420,000 workers worked without pay, and 380,000 more were furloughed. While we don't know exactly how many people could stop getting paid this time around, that number could be as high as 2.2 million federal employees.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:00:58",
+      "speaker": "JIMENEZ",
+      "sentences": "So we could only do this with live team coverage from D.C. all morning long. So we got the best. CNN's Priscilla Alvarez is keeping an eye on how the Biden administration is preparing at the White House. But first, let's go to CNN's Annie Grayer joining us from Capitol Hill.As I understand, Annie, you're learning about plans to get this day going. How do we expect that meeting next hour to play out?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:00:58",
+      "speaker": "ANNIE GRAYER, CNN CAPITOL HILL REPORTER",
+      "sentences": "Well, Omar, it is still unclear how this meeting is going to play out, but one member told me it's going to be more of a temperature check for Republican leadership to see how members are feeling. After last night when the House again failed to pass a short-term spending bill.There were 21 Republicans who voted against it. Just to keep a reference, only four can actually vote against the bill for it to still pass. That just gives you a sense of how far the divide is. After that vote failed last night, republicans met behind closed doors and they left still without an agreement. So we'll see in this next hour if any progress has been made since last night. But I can't emphasize enough how frustrated Republicans are. Take a listen to how some Republicans have been talking about it. (BEGIN VIDEO CLIP) MIKE GARCIA, (R) CALIFORNIA: It's a very dangerous tactic to take to say, hey, I want to shut the damn thing down, because it literally benefits no, and it especially doesn't benefit the conservative platform. STEVE WOMACK, (R) ARKANSAS: We're the governing majority. This is what we're supposed to do as a governing majority. We're supposed to lead. And it's kind of hard to lead when you got a, you know, significant number of people that are on the wrong snap count when you call a play. So that's where we are. DAN CRENSHAW, (R) TEXAS: They killed the most conservative position we could take and then called themselves the real conservatives, which is like, make that make sense. (END VIDEO CLIP) [08:05:09] GRAYER: So that's what's going on in the House. Meanwhile, in the Senate, the Senate will also be in today taking a procedural vote on their short-term spending bill. But because of how logistics work in the Senate, that won't be ready until the clock strikes midnight tonight. The bigger issue with that bill, though, is it includes funding for the war in Ukraine, which many Republicans in the House do not support. So we'll have to see what comes out of this meeting coming up at 9:30. But this just gives a sense of how uncertain things are on Capitol Hill right now.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:00:58",
+      "speaker": "WALKER",
+      "sentences": "Very uncertain. Annie Grayer, thank you. Now, President Biden is remaining in D.C. This weekend as the White House prepares for a potential shutdown. Priscilla Alvarez is at the White House. Tell us more about how the Biden administration is preparing.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:00:58",
+      "speaker": "PRISCILLA ALVAREZ, CNN WHITE HOUSE",
+      "sentences": "Well, President Biden will be briefed by his staff over the course of the day as these negotiations are underway on the Hill. But it is clear over the course of the last few days that the administration is bracing for a government shutdown. And that means federal agencies sending notices to their workforce telling them of the procedures in the event of a shutdown and also notifying some employees that they will be temporarily furloughed, while others may have to continue to work without pay being deemed essential. But that also has impacts on the services that the federal government provides.For example, the Small Business Administration will stop processing new business loans for small businesses. There will be delays and long-term disaster recovery projects. Millions of women and children could go without food assistance. And of course, as you mentioned there at the top, millions of federal workers as well as active duty troops will not get paid. And that is of concern because it does hit their pockets. And I have been talking to administration officials over the course of the week and they remain concerned about a shutdown, not only because of the work that they do, but also because it's unclear that if this happens, how long it would go. And to give you a little bit of a practical sense of what this means, at the White House, personnel also received notice this week about their instructions in the event of a shutdown. And in some cases, senior aides will have to learn the jobs of junior aides who will be furloughed to just get by in the event of a shutdown. So there are impacts on the American people as well as across the federal government and here at the White House as well as federal agencies. They are bracing for this to happen, although all trying to signal or at least provide or hope that there could be a deal that would avert this.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:00:58",
+      "speaker": "JIMENEZ",
+      "sentences": "Priscilla Alvarez a lot to keep an eye on. Thank you so much. From air travel to security, a government shutdown could affect a lot of Americans in a lot of different ways, including impacting the economy. So we've got economic analyst Rana Foroohar with us now, also columnist at the Financial Times.So we've talked on this show about how this shutdown could work politically, how it could affect air travel and everyday people. But how could this shutdown affect the economy?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:00:58",
+      "speaker": "RANA FOROOHAR, ASSOCIATE EDITOR, FINANCIAL TIMES",
+      "sentences": "Well the effect would be really broad-based. Omar, we've just heard a little bit about how it would affect workers in the know. We're talking about military air traffic controllers, lots of essential workers. But a government shutdown always ripples into the private sector.Goldman Sachs actually put out a report recently talking about the effects which they think would last for a few weeks. Could have a significant effect. You know we're at a point in the economy right now where a lot of people are wondering if we might be ready for a recession. This is the sort of thing that could push you into a recession. You know, at this point, most economists think there's about a 90% chance this is going to happen. What's interesting is how long it could last. I mean the political opinions here have become more entrenched. We saw situations like this during the Clinton administration, during the Obama administration where Republicans came in and tried to force the administration to take really conservative fiscal positions. I think this is going to last a while because the President has really been doubling down on his own plans and his own positions. Recently you see him walking in a picket line with workers. So I do think it's going to have an impact and it's unfortunate really for the American people.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:00:58",
+      "speaker": "JIMENEZ",
+      "sentences": "And to your last point there was a time when one would think keeping the government open is a given or at the very least something that would be more of a routine procedure. I know you cited some previous administrations but how did we get here to where we are right now?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:10:14",
+      "speaker": "JIMENEZ",
+      "sentences": "And there are some key economic stakeholders that of course are very concerned at the macro level. This could also have an impact in the U.S. credit rating. We know that Moody's, one of the three major credit rating agencies, said this would be a credit negative for the U.S. But specifically, they wrote it would demonstrate the significant constraints that intensifying political polarization has put on fiscal policymaking at a time of declining fiscal strength.Do you agree with that assessment? I mean, what is the broader lens here outside of course, the current political fighting that we are seeing?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:10:14",
+      "speaker": "FOROOHAR",
+      "sentences": "Yes. Well for starters, yes, I absolutely agree with this and it's a hard thing to quantify. What is a credit rating for anyone? For a government, for an individual? It's about trust, right? It's about trust that you're going to be able to repay your bills, that you're going to be able to keep your own government open. Those are kind of the basics.And we have to remember as Americans that our economic security is in large part about how the rest of the world and our creditors view us. And I will say that as we've begun to see over the last few years, really decades, these rolling shutdowns, you're seeing fewer foreign creditors wanting to buy U.S. Treasury bills. Not a huge deal yet, but you're seeing just incrementally a little bit of a pullback within the international community from really believing in the U.S. as an economic powerhouse. This kind of thing just slowly chips away at the power of the dollar, the power of the U.S. economy, and the power of America on the global stage.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:10:14",
+      "speaker": "JIMENEZ",
+      "sentences": "And of course that's at the macro level. Those are things that of course affect at the micro as well and you talked about it very much depends on how long this particular shutdown if we get there, though it looks likely is. What are the differences that people are actually going to feel in their wallets if it's a two-day shutdown versus up to what the record was, 35 days potentially?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:10:14",
+      "speaker": "FOROOHAR",
+      "sentences": "Yes. So two-day shutdown, you're probably not going to feel it in your wallet, and you may not even feel it at the macro level in global credit markets. But a few weeks, and particularly with the very ugly politics that can come during those two weeks at a time when the markets are already kind of ready for a correction, I think that could have a significant impact. Goldman Sachs again is saying with every week of the shutdown, you're looking at a kind of a 0.2% shave-off from the private sector economy. So that adds up at a time when we may be looking at a downturn anyway.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:10:14",
+      "speaker": "JIMENEZ",
+      "sentences": "Yes, well, we will see what happens. But again, at this point, all indicators, unless there's a huge breakthrough over these next 24 hours, are that we will be shut down by this time tomorrow. But, hey, you never lose faith. Rana Foroohar, thank you so much.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:10:14",
+      "speaker": "WALKER",
+      "sentences": "Still to come under 16 hours from a government shutdown. But the fallout will be felt far from Washington, as we have been discussing all morning. How the shutdown could impact security at the border. Also, more tributes pouring in for Senator Diane Feinstein. Still ahead, a look at her trailblazing career. And a state of emergency in New York City after torrential rains flood the city.(COMMERCIAL BREAK) [08:17:58]",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:10:14",
+      "speaker": "JIMENEZ",
+      "sentences": "Torrential rain in New York City has caused flash flooding, road closures, and disrupted subway service.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:10:14",
+      "speaker": "WALKER",
+      "sentences": "Yes, the pictures are pretty incredible. The rainfall, considered dangerous and life-threatening, surpassed a month's worth in just 3 hours Friday. CNN's Gary Tuchman has more.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:10:14",
+      "speaker": "GARY TUCHMAN, CNN CORRESPONDENT",
+      "sentences": "Life-threatening flash flooding in America's largest city, creating large-scale problems many houses and apartments inundated, particularly in the New York City borough of Brooklyn. One Brooklyn man said when he woke up at 08(BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:10:14",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Within, I guess about ten minutes, it was waste high water.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:10:14",
+      "speaker": "TUCHMAN",
+      "sentences": "This was the scene at one of the city's largest parks, Prospect Park in Brooklyn.(BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:10:14",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "How the (bleep) am I supposed to get cross this? Are you serious?(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:10:14",
+      "speaker": "TUCHMAN",
+      "sentences": "Cars, trucks, buses driving through floodwaters.(BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:10:14",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "Oh, my goodness.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:10:14",
+      "speaker": "TUCHMAN",
+      "sentences": "The huge New York City subway system impacted with raging rapids pouring downstairs of the station in Brooklyn. Deluge flooding some of the tunnels and causing signal issues, delaying some of the 36 subway lines and getting to airports a huge challenge for many. On the Grand Central Parkway on the way to LaGuardia Airport in Queens, flooded roadways. The New York City May are warning people earlier in the day to stay in place, whether they were at home, work or in schools which were open.(BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:10:14",
+      "speaker": "ERIC ADAMS, NEW YORK",
+      "sentences": "I am issuing a state of an emergency for New York City based on the weather conditions. And I want to say to all New Yorkers, this is time for heightened alertness and extreme caution.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:10:14",
+      "speaker": "TUCHMAN",
+      "sentences": "A state of emergency was also declared in New York State's Long Island, and the Hudson Valley north of New York City.(BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:10:14",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Wow. This is unbelievable. I had never seen this situation happen, and this is crazy.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:20:12",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "No, keep going. Keep going.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:20:12",
+      "speaker": "TUCHMAN",
+      "sentences": "The driver is fine. This flooding highly unusual, but because it's New York City, many people went on with their normal lives the best they could, like this man on his delivery bicycle.(BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:20:12",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "I thought it was three inches of water. I'm soaked. I'm soaked now. I probably got like a disease now.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:20:12",
+      "speaker": "TUCHMAN",
+      "sentences": "Gary Tuckman, CNN, New York.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:20:12",
+      "speaker": "JIMENEZ",
+      "sentences": "Look, it's a lot of water and yes, I like that line news. New York people are going to figure out a way to move forward either way.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:20:12",
+      "speaker": "WALKER",
+      "sentences": "I'm sure. Yes, but yes, there's way too much water at once.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:20:12",
+      "speaker": "JIMENEZ",
+      "sentences": "Yes, exactly. Exactly. Now the weather is expected to clear up as the storm system moves further east.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:20:12",
+      "speaker": "WALKER",
+      "sentences": "But this morning it is still raining in some parts of New York and New Jersey. CNN Meteorologist Alison Chinchar joining us now to give us the latest updates on the storm system.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:20:12",
+      "speaker": "ALLISON CHINCHAR, CNN METEOROLOGIST",
+      "sentences": "Yes, thankfully, it doesn't look like this anymore, but we do still have more rain coming down. This was seen yesterday, and this is one of many roads likely looked like this, with at least several inches of water, making it very difficult for people to drive. You've got some heavier rain bands starting to settle back in most of these areas, though, it's just light rain at this particular point in time. But places like Massachusetts, Rhode Island, Connecticut, even New York still getting some of those moderate rain bands from time to time. And that's going to be the case as we go through the morning hours.You've got flood warnings and flood advisories still in effect for a few different areas here, not necessarily in anticipation of the remainder of the rain that is expected today, but because we had so much yesterday, it takes time for that water to go away to recede, and we had a lot of it. JFK Airport breaking an all-time record yesterday, picking up over eight inches. Valley Stream, New York, topping out at over nine inches. And several other locations, not just in New York, but also New Jersey, Connecticut, surrounding areas picking up at least six inches of rain. So here's a look again going forward for the rest of the morning, we do still anticipate some light to moderate rain showers off and on throughout the morning. Most of these areas finally see an end to that rain once we push into the afternoon hours, and then finally on Sunday, a nice day with sunshine from start to finish. It's been a while since we've had one of those. Now one thing to note is we are still anticipating at least up to an extra inch of rain. That may not sound like all that much Omar and Amara, but again, on top of five or six inches, that can just exacerbate some of the already ongoing flooding.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:26:53",
+      "speaker": "WALKER",
+      "sentences": "All right. Here's a live look at Capitol Hill, where lawmakers will once again be working today to try to hammer out a deal to avoid a government shutdown. So far, they've been unable to come up with a plan that both sides can agree to, and we're specifically talking about House Republicans. So barring an 11th-hour deal, government funding will expire at midnight, and that will immediately trigger an avalanche of impacts across the country that will affect all of us. 2.2 million federal workers and more than 1 million active duty military personnel will either be furloughed or forced to work without pay.We could see major impacts at the nation's airports because of TSA worker and air traffic controller shortages. That's important to note that both of those jobs are considered essential, so those workers will be expected to show up even though they're not getting paid, leading to concerns that workers will simply call in sick and refuse to show up, just like they did in the last shutdown. Also, most national parks will close. The FDA says food safety inspections could be disrupted. Transportation and infrastructure projects in cities across the country could be put on hold. And WIC funding that's the program that provides food and nutrition benefits for women, infant, and children could immediately be at risk. According to the Biden administration, 7 million pregnant moms new mothers, and their children rely on WIC benefits every single day. Now, one thing that will not be affected by a government shutdown lawmakers paychecks. They will continue to get paid even as millions of federal workers do not, and critical services that impact every single person in this country come to a halt.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:30:00",
+      "speaker": "OMAR JIMENEZ, CNN CORRESPONDENT",
+      "sentences": "And obviously there's a huge difference between what could potentially be a two-day shutdown or one that extends much further than that. Now, you were quoted in an article this week saying we've had these delegations of congressmen come take pictures by their boat ramp or on their border patrol boats and then they go back and do absolutely nothing. I mean, do you feel the federal government has done enough here?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:30:00",
+      "speaker": "MORALES",
+      "sentences": "No, sir. No Omar. And I think more than anything, even your audience and all Americans and all Texans expect more from our leadership in Congress. And I think that they have failed us in the last 30 years. They have failed to pass effective immigration reform policies that could address this issue and we wouldn't have to be here if they had done their job.And it's unfortunate that many of them are headed towards this shutdown without any problems and they are still willing to take compensation while the shutdown is taking place. We're bigger, we're better. And I think Americans and Texans as a whole expect more from their public servants.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:30:00",
+      "speaker": "JIMENEZ",
+      "sentences": "And of course, you know, while not at the federal level, you are a public servant at the state level in Texas. Do you have a solution? As someone who has so much border in your actual district, do you have a solution that you think can work or at the very least help?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:30:00",
+      "speaker": "MORALES",
+      "sentences": "Yes, I do, Omar. So, we are heavily trying to propose this bipartisan effort at making sure that we pass the Texas secure our border migrant processing and jobs plan here at the state level. Now backing up a little bit. When the migrant search first started taking place, the mayor of Piedres Negras conducted an audit of all these migrants as they were heading in. And each one of them had in their pocket anywhere from $2,000 to $5,000 in their pockets because they know that's how much they have to pay the cartel or the human smugglers to get them across the coyotes.And so, we have created by our own very actions at the state and federal level an industry, a billion dollar industry for the cartel and the human smugglers. We need to take that industry away from them. And the state of Texas needs to take the lead, take that by the horns, and actually initiate this processing and jobs plan where we would make certain mandates and certain conditions and requirements from these migrants. First of all, we need to stop using our rivers to get them across. The program is all wrong. We need to use our dry land ports so that we can protect our law enforcement from the elements out there. And we can also treat migrants humanely. There's nothing humane about having rows and hundreds and hundreds and thousands a day crossing through the river and exposing them. We've lost migrants. We've lost law enforcement personnel as a consequence of that. And the process and the plan that would be implemented would be once they get through customs, then there would be like a Texas Department of Emergency Management or a DPS tent that would then be able to process them for the state residency. They would be able to obtain a non-voting purple in color ID card with an RFID chip in it so that it's harder to forge. We could keep track of them because that's one of the conditions. And then also we would be able to charge a $2,000 initial fee knowing that from this audit that took place that they have that money rather than paying and exposing them to the cartels and the human smugglers. Let's use the dry land ports, get them across, initiate this processing fee. Just in some years ago, were having 1,600 crossings daily just in the Eagle Pastel Rio sector alone, that would generate $3.2 million a day and over $1.2 billion annually. As you've mentioned earlier, we now have 8,000 total crossings that are taking place a day. That would generate $16 million and over $5 billion to the state of Texas. Now, I understand that this program or this plan may draw the ire of the Department of Justice, but unfortunately, I think that with the invasion clause that the Texas constitution has, we have some meat and some teeth in there to be able to say and justify ourselves why we had to take action since Congress has failed us in over 30 years in passing effective immigration reform policies. In addition, we would impose a state migrant income tax, and there would be renewal fees as well. And then we would make conditions like they couldn't get anything over a class C misdemeanor or risk deportation or Governor Abbot busing them to another state.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:35:07",
+      "speaker": "AMARA WALKER, CNN ANCHOR",
+      "sentences": "Still to come, the government shut down, throwing a wrench in plans to celebrate Jimmy Carter's 99th birthday. How the Carter Center is still planning to honor America's oldest living president.(COMMERCIAL BREAK)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:35:07",
+      "speaker": "WALKER",
+      "sentences": "Former President Jimmy Carter's 99th birthday that falls tomorrow, October 1, will now be celebrated today as a government shutdown looms. Now, the Carter Center said festivities were set for Sunday, but a midnight shutdown could affect their library as well. Carter, a lifelong Democrat, served one term as Georgia governor before being elected president from 1977 to 1981. He was a peanut farmer and a Navy lieutenant before politics.[08:40:09[ Joining us now is Public Affairs Director for the Carter Presidential Library and Museum, tony Clark. Tony, a pleasure to have you on. Good morning. Thank you so much for joining us. I see the festivities. The decorations are all up. Tell us more about what is planned for today day and will there be any events at all tomorrow?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:35:07",
+      "speaker": "TONY CLARK, PUBLIC AFFAIRS DIRECTOR, CARTER PRESIDENTIAL LIBRARY",
+      "sentences": "Well, right now what we ended up doing is the outpouring of love for President Carter has been so great. Now we decided we needed to start early.So, last week we sent out birthday books people could sign. We're already on the third one of those. We had screening of a film earlier this week on chestnut trees that President Carter is in. We had Andy Young here on Wednesday talking about their relationship. And so what we ended up doing is expanding it. Today we're just going all out. There are buttons like these for people who come here. We've got activities. Kids will be making little puppets of President and Mrs. Carter. There are birthday books, there's cake. And we're having 99 cent admission today in honor of his 99th birthday. So there are all kinds of activities. Both the Carter Presidential Library and the Carter Center were two separate organizations. The Carter Center being non-governmental, but we're all joining together for a celebration of this big event.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:35:07",
+      "speaker": "WALKER",
+      "sentences": "I love how you're making it such a family friendly event. I'm sure a lot of people are wondering how President Carter is doing. We know he and his wife, Rosalind made a rare appearance at last weekend's peanut festival in Plains, Georgia. Can you tell us a little bit about that and how he is doing?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:35:07",
+      "speaker": "CLARK",
+      "sentences": "Yes, this weekend they're having a family celebration down in Plains. They're bringing in the family is going to be there to help them celebrate. It'll be a quiet celebration, but really a joyous celebration of 99 wonderful years.I think back to a quote that he gave journalist Jim Wooten some time ago where he said, I have one life to live and one chance to make it account for something. And I think we are all celebrating the way he's made that one life account for something beautiful.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:35:07",
+      "speaker": "WALKER",
+      "sentences": "And tell us about some of the outpouring of Love and the messages and these books that were given out. What are people saying?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:35:07",
+      "speaker": "CLARK",
+      "sentences": "Well, there have been messages from all over the world. In fact, people have to come here to the Carter Presidential Center to see this giant monitor in our circle of flags. And it's a mosaic of President Carter. And each one of the little pictures comes out and you see an expression of love and admiration for the work of President Mrs. Carter. And the other night, when Ambassador Young was here, I was going to see he wrote in one of the books, you are a wonder, love and affection. Andrew Young -- Andy Young and Caroline.So, you know, we're getting all kinds of things. You may have seen. There was a concert that Peter Gabriel had the other day, and he had the audience sing Happy Birthday to President Carter. So this has been an incredible outpouring of love for the 39th president.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:35:07",
+      "speaker": "WALKER",
+      "sentences": "What a great way to describe it. And wow, what a blessing to live and see 99 birthdays with your family, your loved ones and your community. Tony Clark, a pleasure to have you. Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:35:07",
+      "speaker": "JIMENEZ",
+      "sentences": "Meanwhile, reactions are still pouring in from both sides of the political aisle for California Senator Diane Feinstein, who passed away Friday at the age of 90. Now Feinstein was a trailblazer in the Senate as the longest serving woman senator in U.S. history.With her passing, California Governor Gavin Newsom will have to appoint an interim lawmaker to serve out the rest of Feinstein's term. The late senator's office said Feinstein's legacy is, quote, undeniable and extraordinary. (BEGIN VIDEOTAPE) SEN. DIANNE FEINSTEIN (D-CA): I became mayor as a product of assassination, of the mayor being killed and the first openly gay public official being killed. UNIDENTIFIED FEMALE (voiceover): For Dianne Feinstein, tragedy paved the way for opportunity and a career in politics that would last decades.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:35:07",
+      "speaker": "FEINSTEIN",
+      "sentences": "Both Mayor Musconi and Supervisor Harvey Milk have been shot and killed.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:10",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "So help you God?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:10",
+      "speaker": "FEINSTEIN",
+      "sentences": "I will.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:10",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "In 1992, Feinstein won a special election and packed her bags for the nation's Capitol, becoming the first woman to represent California in the U.S. Senate.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:10",
+      "speaker": "FEINSTEIN",
+      "sentences": "I won among men. I won among women. Now, what that says is that to me, the fact that I'm a woman is there, but it's incidental.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:10",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "Incidental, perhaps, but hard to ignore, especially given all Feinstein has done for women of future generations. On a long list of firsts, Feinstein served as the first woman to sit on the Senate Judiciary Committee, the first female chair of the Intelligence Committee, and the first woman to chair the Senate Rules and Administration Committee.SEN. CHUCK SCHUMER (D) MAJORITY LEADER: Today, there are 25 women serving in this chamber, and every one of them would admit they stand on Dianne's shoulders.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:10",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "Feinstein fought for the issues that were important to her, like gun control. One of her more notable successes was helping push through the federal assault weapons ban in 1994.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:10",
+      "speaker": "FEINSTEIN",
+      "sentences": "There is no Second Amendment right to bear every type of weapon that you know of.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:10",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "She was also a leading voice on legalizing gay marriage and LGBTQ rights, and she helped create the nationwide Amber Alert system. Feinstein, a Democrat, had a unique ability to reach across the aisle, where she found a friend in Republican Senator Mitch McConnell.SEN. MITCH MCCONNELL (R) MINORITY LEADER: Elaine and I were actual friends of Dick and Diane.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:10",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "Feinstein was born in San Francisco in 1933 and graduated from Stanford University in 1955.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:10",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "I want to find out what was on the tape.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:10",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "Her high profile Senate career was featured in the 2019 film The Report. Feinstein was portrayed by actress Annette Bening in the film, which tackled the subject of the CIA's use of torture after 911. As chair of the Senate Intelligence Committee, Feinstein fought with the CIA for years over releasing the investigation into the agency's use of enhanced interrogation techniques.In February, she confirmed she would not run for reelection, telling CNN, the time has come. Feinstein was the longest serving woman in the U.S. Senate.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:10",
+      "speaker": "FEINSTEIN",
+      "sentences": "It's what I meant to do. And as long as the old bean holds up.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:52:07",
+      "speaker": "WALKER",
+      "sentences": "More than 25 years later, a self-professed gang member who has continuously claimed his involvement in the drive-by shooting that led to legendary hip hop artist Tupac Shakur's death officially now charged with murder.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:52:07",
+      "speaker": "JIMENEZ",
+      "sentences": "Now, this development has brought back to life an extensive investigation that had been pretty stagnant for quite some time. Let's turn to CNN's Brian Todd, who's covering the story for us.(BEGIN VIDEOTAPE) BRIAN TODD, CNN CORRESPONDENT (voiceover): After 27 years of an enduring mystery and arrest in the 1996 murder of rapper Tupac Shakur.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:52:07",
+      "speaker": "SHERIFF KEVIN MCMAHILL, LAS VEGAS POLICE DEPARTMENT",
+      "sentences": "27 years. For 27 years, the family of Tupac Shakur has been waiting for justice. While I know there's been many people who did not believe that the murder of Tupac Shakur was important to this police department, I'm here to tell you that was simply not the case. It was not the case back then and it is not the case today.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:52:07",
+      "speaker": "TODD",
+      "sentences": "Las Vegas Police on Friday arrested 60 year old Duane Keefe Davis, also known as Keefe D, for Shakur's murder. Keefe D's wife's home in Henderson, Nevada, had been searched in July as part of the investigation. Davis had long placed himself at the scene of the crime in downtown Las Vegas, once telling BET he was in the front seat of a white Cadillac that was next to Shakur's car when shots were fired from the backseat.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:52:07",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "You said the shots came from the back.DUANE KEITH DAVIS, ARRESTED IN TUPAC SHAKUR'S MURDER: Who shot Tupac the keeper for the code of the streets? It just came from the backseat.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:52:07",
+      "speaker": "TODD",
+      "sentences": "Shakur was shot four times and died six days later.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:52:07",
+      "speaker": "MCMAHILL",
+      "sentences": "Duane Davis was the shot caller for this group of individuals that committed this crime, and he orchestrated the plan that was carried out to commit this crime.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:52:07",
+      "speaker": "TODD",
+      "sentences": "Shakur was shot on September 7, 1996 after leaving a Mike Tyson fight at the MGM Grand on the Vegas Strip. Police say Shakur and Marion Suge Knight, then CEO of Shakur's record label, had been in a feud with Duane Davis and a gang that Davis was affiliated with, the Southside Compton Crips.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:52:07",
+      "speaker": "JOEY JACKSON, CRIMINAL DEFENSE ATTORNEY",
+      "sentences": "The penalties would be steep in terms of life in prison without the possibility of parole, particularly with that gang enhancement if the prosecutors pursue it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:52:07",
+      "speaker": "TODD",
+      "sentences": "On Friday, police played surveillance footage from inside the MGM Grand before the shooting, showing what they say was Shakur, Knight and others punching and kicking a man named Orlando Anderson, who was Duane Davis's nephew by an elevator bank.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:52:07",
+      "speaker": "MCMAHILL",
+      "sentences": "Little did anyone know that it is this incident right here that would ultimately lead to the retaliatory shooting and death of Tupac Shakur.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:55:00",
+      "speaker": "MCMAHILL",
+      "sentences": "The only living suspect related to this investigation is Duane Davis. All other three suspects are deceased.TODD (on camera): Tupac Shakur's stepbrother Mopreme Shakur called Duane Davis's arrest bittersweet. Mopreme Shakur said the family's been through decades of pain. That authorities have known about Duane Davis for years, that Davis has been, quote, running his mouth and quote, so why now? Mopreme Shakur for the family, this isn't over yet, and they want to know if there were more accomplices. Brian Todd, CNN, Washington. (END VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:55:00",
+      "speaker": "JIMENEZ",
+      "sentences": "Wow, almost 30 years later, that comes up. We've been through a lot this hour the past few hours, but hey, we're going to be back in an hour.",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "date": "2023-08-25",
+  "headline": "CNN 10",
+  "subHeadline": "Excessive Heat Sweeping U.S.; Austin`s Apptronik Launches Humanoid Robot Apollo. Aired 4-4:10a ET",
+  "utterances": [
+    {
+      "timeStamp": null,
+      "speaker": "ALLISON CHINCHAR, CNN METEOROLOGIST",
+      "sentences": "That`s right, Coy. It has been a brutally hot week and it`s all thanks to a heat dome. Now, essentially whatwe`ve had set up this week is a high-pressure system essentially parked over the central U.S. Now, normally we all know heat rises, but under high pressure, that`s actually pushing that air back down towards the surface, essentially acting like a giant lid, trapping that heat, keeping all of it back closer to the surface. And what that does is it allows a lot of this same area under that high pressure to just be dealing with incredibly hot temperatures. And in some cases prolonged periods of time because that high pressure system simply doesn`t move. Now over this week, we`ve had over 400 locations break, record temperatures. Again, all the way from Texas up into Minnesota and back over towards the Atlantic side of states like Georgia and Florida. Now, we are still going to continue to see those heat records continue. A lot of excessive heat warnings and heat advisories still in effect for the day Friday. But I have some good news and that is cooler temperatures are on the way, especially across the Midwest, the Mid-Atlantic and the Northeast once we get into the latter half of the weekend and into next week.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": null,
+      "speaker": "WIRE",
+      "sentences": "Ten second trivia.R.U.R. was a play published in 1920, introducing the concept of what? Robots, Records, Radio or Radon? If you said robots, put your hands up. Rossum`s Universal Robots was a check play about machines taking over. The next time you have to do chores like taking out the trash or doing the dishes. What if you could have a robot do it for you? It sounds like science fiction. It sounds like the future, but the future is apparently near. The team at Austin-based robotics startup, Apptronik believes their human like droid helpers will soon become the norm. We caught up with them to find out what all they are capable of and the potential downsides. (BEGIN VIDEO CLIP) ASHLEY STRICKLAND, CNN SPACE &amp; SCIENCE REPORTER:  What is Apollo, exactly? JEFF CARDENAS, CEO &amp; CO-FOUNDER, APPTRONIK:  Apollo is our latest humanoid robot. Sometimes you`ll hear us called a general-purpose robot. This is something that is going to be your friend. You`re going to rely on these things to do all the things you don`t want to do.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": null,
+      "speaker": "STRICKLAND",
+      "sentences": "So what are some of its capabilities?DR. NICK PAINE, CTO &amp; CO-FOUNDER, APPTRONIK:  We`ve designed Apollo with roughly human morphology, human range of motion, the same height, the same weight as a human.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": null,
+      "speaker": "CARDENAS",
+      "sentences": "We need to make robots much more versatile than what they are today. The reason that it`s humanoid is because we`ve built the world forhumans. We have a big labor shortage here in the U.S. So where Apollo`s going to start is in warehouses. Like you kind of see here, it can lift about 55 pounds. It operates on about a four-hour battery and you can change the battery out so you can keep it running 22 hours a day is what we`re targeting.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": null,
+      "speaker": "STRICKLAND",
+      "sentences": "What would you say to people who are watching this? They see Apollo and they`re worried. Apollo could take my job?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": null,
+      "speaker": "CARDENAS",
+      "sentences": "If we compare humans with robots, then the robots can take the portion of the work that drives people out of those industries. So insteadof you unloading trucks in the hot Texas sun, you`re managing a fleet of robots that`s unloading the trucks for you. And you`re learning new skills that become applicable across a range of different industries, but where we hope it to ultimately go is one day versions of Apollo could be in your home or eventually on the Moon or Mars. STRICKLAND (voice-over):  To help with those cosmic aspirations, Apptronik has teamed up with NASA.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": null,
+      "speaker": "SHAUN AZIMI, DEXTEROUS ROBOTICS TEAM LEADER, NASA JSC",
+      "sentences": "My hope and my dream is that we will have general purpose robots fielded in space withinthe next 10 years.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": null,
+      "speaker": "STRICKLAND",
+      "sentences": "But the biggest obstacle right now combining and refining mobility and dexterity, the co-founders of Apptronik are no strangers tothat. Having worked on NASA`s Valkyrie robot a decade ago.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": null,
+      "speaker": "AZIMI",
+      "sentences": "Valkyrie capable of extra manipulation and -- and walking, carrying items, opening doors, but there are limitations. For example, being able tomove very quickly and precisely. We really need systems that have more than one skill that are flexible and adaptable.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": null,
+      "speaker": "STRICKLAND",
+      "sentences": "Apptronik isn`t alone in the rush to build a humanoid robot. Tesla has a humanoid bot of its own. And Hyundai-owned Boston Dynamics hasAtlas. But Atlas relies on hydraulics for its movement.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": null,
+      "speaker": "CARDENAS",
+      "sentences": "Hydraulics are very powerful, but it`s not safe to be around. So our bet at Apptronik was that electric humanoids were going to be thefuture. So the first phase for us was to focus on performance of electric motors or actuators, and try to get them up to par with what you see with a lot of hydraulic systems. STRICKLAND (voice-over):  And they`re aiming for this everyday robot to have an everyday price. (On camera):  What would you say is the price point for Apollo?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": null,
+      "speaker": "CARDENAS",
+      "sentences": "The goal is for it to be less than the price of your standard car. These have to be affordable. They have to be accessible.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": null,
+      "speaker": "STRICKLAND",
+      "sentences": "What would you envision a future Apollo being capable of doing?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": null,
+      "speaker": "PAINE",
+      "sentences": "The next step is to build a more hardened version of this that is really kind of designed for scale manufacturing.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": null,
+      "speaker": "CARDENAS",
+      "sentences": "I think 20 years from now much like the computer, we`re going to look back and think, how do we ever get by without the help of thesemachines? (END VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

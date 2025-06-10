@@ -1,0 +1,295 @@
+{
+  "date": "2022-12-12",
+  "headline": "CNN Newsroom",
+  "subHeadline": "Yellen Believes Inflation Lower in 2023; Families Make Holiday Shopping Adjustments; Ukraine's Defense Minister Speaks about War; Lockerbie Bombmaker in U.S. Custody; Jonathan McDowell is Interviewed about NASA. Aired 9:30-10a ET",
+  "utterances": [
+    {
+      "timeStamp": "09:30:00",
+      "speaker": "JIM SCIUTTO, CNN ANCHOR",
+      "sentences": "Treasury Secretary Janet Yellen says she is doing everything possible to overt a recession and had some positive news for the new year.(BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:30:00",
+      "speaker": "JANET YELLEN, TREASURY SECRETARY",
+      "sentences": "So, I believe inflation will be lower. I am very hopeful that the labor market will remain quite healthy so that people can feel good about their finances and their personal economic situation.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:30:00",
+      "speaker": "ERICA HILL, CNN ANCHOR",
+      "sentences": "CNN reporter Matt Egan is here with more.So this is a pretty busy week. You and I were just talking about how busy a week it is for you. And we were talking about it in the break. So we have all this data, key inflation data, coming out tomorrow. Wednesday we should hear about a rate hike, right, because the Fed is meeting. We're all trying to piece this together in this sort of unprecedented moment for the U.S. economy. Do we have a better sense this morning of what direction things are headed in?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:30:00",
+      "speaker": "MATT EGAN, CNN REPORTER",
+      "sentences": "Well, Erica and Jim, there is a lot of gloom and doom out there, right, as we head into 2023. But I think the truth is, there are some real bright spots out there. I mean it's easy to forget but we are in the middle of this historic jobs boom. More than 4 million jobs created so far this year. That is more than twice the pre-Covid pace. It's actually more than any other year -- as you can see on that chart - more than any other year, except for last year, which was the all-time record. The unemployment rate is just 3.7 percent. Easy to forget but it was almost 15 percent in the spring of 2020.And not only the jobs market is strong, but some of the negatives are getting better, right? Inflation, we learned on Friday that producer prices, they went up at the slowest annual rate in 18 months. We do expect more cooling in tomorrow's consumer inflation report. Also, gas prices, right, they have plunged. The national average is down by 52 cents in just the last month. They're actually lower than they were a year ago, which is pretty amazing. And then there's the Federal Reserve, right, which has been lamming the brakes on the economy almost all year. That is why people are worried about a recession because borrowing costs are going up so rapidly. But the Fed is expected to slow the pace of rate hikes, right? Expected to deliver a 50 basis point increase on Wednesday. That would be down from 75 basis points. I think the question is whether the Fed can stop raising interest rates before it ends up slowing the economy into recession. And we don't know that yet, but that will be the story of 2023.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:30:00",
+      "speaker": "HILL",
+      "sentences": "Yes, that's what they're trying to figure out with their crystal ball.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:30:00",
+      "speaker": "EGAN",
+      "sentences": "Exactly. Right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:30:00",
+      "speaker": "HILL",
+      "sentences": "We'll see.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:30:00",
+      "speaker": "EGAN",
+      "sentences": "Right. But it won't be easy.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:30:00",
+      "speaker": "HILL",
+      "sentences": "No, it won't.Matt, appreciate it. Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:30:00",
+      "speaker": "EGAN",
+      "sentences": "Thanks.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:30:00",
+      "speaker": "HILL",
+      "sentences": "Well, while inflation may be cooling as we do head into the new year, some higher prices out there we're learning have really started to impact consumers ahead of the holidays.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:30:00",
+      "speaker": "SCIUTTO",
+      "sentences": "CNN correspondent Gabe Cohen speaks with families who say this holiday season may look a little different.(BEGIN VIDEOTAPE) GABE COHEN, CNN CORRESPONDENT (voice over): In Hyattsville, Maryland, Anya Remy, an HR professional, is Christmas shopping for her children on a stricter budget than ever before.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:30:00",
+      "speaker": "ANYA REMY, HR PROFESSIONAL",
+      "sentences": "It's a few items for the kid this year, as opposed to getting them all of the things on their list.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:30:00",
+      "speaker": "COHEN",
+      "sentences": "High inflation has made holiday budgeting a more complication equation for middle class families. A November poll found 47 percent of Americans have less savings than a year ago, and 42 percent plan to spend less on gifts this season. Only 8 percent plan to spend more. But up to now the National Retail Federation says overall holiday spending hasn't slowed. Families are just making sacrifices.Janette Duvall, a school bus driver, is relying on coupons for the first time.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:30:00",
+      "speaker": "JANETTE DUVALL, SCHOOL BUS DRIVER",
+      "sentences": "Probably not everybody will have the same quality of gift they used to have. JOE PARKER, PARENT",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:30:00",
+      "speaker": "COHEN",
+      "sentences": "Joe Parker says he won't limit spending for his family, just for himself.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:30:00",
+      "speaker": "PARKER",
+      "sentences": "They're good kids. They do what they're supposed to do, so I'm supposed to fulfill my part.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:30:00",
+      "speaker": "COHEN",
+      "sentences": "In a new poll, 55 percent of Americans say rising prices have caused financial hardship for their household.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:30:00",
+      "speaker": "LINDSAY COOK, TEACHER",
+      "sentences": "It doesn't take much.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:30:00",
+      "speaker": "COHEN",
+      "sentences": "Lindsay Cook is one of them. She's a teacher. Her husband, a school security officer. Higher prices have forced them to dip into savings the past few months.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:30:00",
+      "speaker": "COOK",
+      "sentences": "I'm living paycheck to paycheck. So, there's no sort of wiggle room. And it's kind of scary.COHEN (on camera): How has your holiday budget changed?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:30:00",
+      "speaker": "COOK",
+      "sentences": "How do you create a budget when you don't have any sort of extra income.COHEN (voice over): She decided to spend no more than $100 for each of her two children. COHEN (on camera): I sense the stress in your voice.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:30:00",
+      "speaker": "COOK",
+      "sentences": "I don't want to disappoint my kids. I don't want them to be upset. So it's just kind of sad.COHEN (voice over): Then there are parents like Karissa Warren. We met her back in March when she could barely afford gas with surging fuel prices.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:30:00",
+      "speaker": "KARISSA WARREN, PARENT",
+      "sentences": "Because if we were to fill our tanks we wouldn't have enough cash for the rest of the week to cover the rest of our bills for that week.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:30:00",
+      "speaker": "COHEN",
+      "sentences": "With gas prices down, and a raise at work, she felt more secure heading into the holidays. Then came the news. Like many Americans, she's getting laid off from her job.COHEN (on camera): What did that do to your budget?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:35:05",
+      "speaker": "WARREN",
+      "sentences": "Right. Yes. I mean that's, at the end of the day, as long as she's happy, we're all happy. We won't have gifts under the tree this year, but she will. And so that's all that really matters.COHEN (voice over): Gabe Cohen, CNN. (END VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:40:14",
+      "speaker": "HILL",
+      "sentences": "Ukrainian President Volodymyr Zelenskyy set to join a virtual meeting of G7 leaders today. Zelenskyy also held a call with President Biden overnight.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:40:14",
+      "speaker": "SCIUTTO",
+      "sentences": "The two discussed the impact of ongoing Russian strikes. And there have been a lot of them. And they've been getting more intense on Ukraine's energy infrastructure, designed to punish the Ukrainian people. Zelenskyy also tried to shore up more assistance as his country enters the cold winter months.CNN's Will Ripley is live in Kyiv. And, Will, I know you spoke with Ukraine's defense minister about those attacks on infrastructure, also the next phase of the war. I wonder, why does he say winter could be to Ukrainian forces' advantage?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:40:14",
+      "speaker": "WILL RIPLEY, CNN SENIOR INTERNATIONAL CORRESPONDENT",
+      "sentences": "Yes, it's really interesting because the United States, as you know, Jim, has been saying that they expect the fighting to slow down, but that's not the message that we got from the defense minister Oleksiy Reznikov, who we spoke with in the southern city of Odessa, which was just hit yet again over the weekend by these kamikaze drones that explode on impact. They're made in Iran but Russia's been firing them. They fired 15 of them. Ukraine shot down 10. But five of them were able to hit the power grid in Odessa, which, by the way, had just been repaired after the missile strikes last week on Monday that left the city in the dark for three days.This weekend, more than 1.5 million people, almost the entire Odessa region, once again plunged into darkness on Saturday by these drone attacks. And so that was the first thing that I asked the defense minister about. But I will say, in terms of the winter months, the ground freezing over is actually advantageous he says for these counter offensives because they can roll heavy equipment much more easily. So he expects to see the fighting actually increase in the coming weeks once the ground has frozen. But what about these attacks from the air? (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:40:14",
+      "speaker": "RIPLEY",
+      "sentences": "What's your best strategy to defend against these kamikaze drone attacks from Russia?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:40:14",
+      "speaker": "OLEKSIY REZNIKOV, UKRAINIAN DEFENSE MINISTER",
+      "sentences": "Every day we're trying to find the best solutions. They targeting our infrastructure. They're trying to ruin our energy supply, water supply, heat supply, systems, because they cannot to -- have a success against armed forces of Ukraine. They're trying to fight them with the civilian population. That's why they're trying to stop the energy, water to the houses, especially during this wintertime.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:40:14",
+      "speaker": "RIPLEY",
+      "sentences": "Another interesting thing he mentioned, Jim and Erica, is that he is confident that U.S.-made patriot missile defense systems, which are number one on their Christmas weapons list, he does believe that they will be on the battlefield here in Ukraine, but he said it's a very complex discussion. They're, obviously, expensive systems and it would, you know, also potentially, analysts say, implicate the United States and NATO if they were to provide this kind of system in the eyes of the Russians in escalating the conflict. But they say these systems are badly needed. They also asked for controversial cluster munition warheads that are made by the U.S. but there's no indication -- by the way CNN first reported this last week -- but no indication that they're going to be getting those cluster warheads.Jim and Erica.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:40:14",
+      "speaker": "HILL",
+      "sentences": "Will Ripley, appreciate it. Thank you.After more than three decades, the Libyan man accused of making the bomb that brought down Pan Am Flight 103 is now in U.S. custody and expected to make his initial court appearance in D.C. federal court later today. Thirty-four years ago, December 21, 1988, 270 people were killed when the 747 jet exploded over the small village of Lockerbie, Scotland. It remains the deadliest terror strike in British history.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:40:14",
+      "speaker": "SCIUTTO",
+      "sentences": "Yes. Sometimes justice takes time.CNN's Nic Robertson, he joins us now from London. Nic, this is a long time coming, right. It's nearly four decades. What happens next as he heads to court there?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:45:03",
+      "speaker": "SCIUTTO",
+      "sentences": "Yes. Well, remarkable.Nic Robertson, thanks so much for covering. Well, this morning, also overseas, three people are dead, at least 21 hospitalized, after an attack on a hotel in Kabul, Afghanistan.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:45:03",
+      "speaker": "HILL",
+      "sentences": "The Taliban spokesman says three suspected attackers are also dead. So, all of this happened this morning. Kabul's police say security forces are on the scene working to clear the area. Officials say all remaining hotel guests have now been evacuated safely.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:50:38",
+      "speaker": "HILL",
+      "sentences": "Happening right now, crews working to clean what has become the largest on shore crude pipeline spill in nine years. Part of the Keystone Pipeline near the state line of Kansas and Nebraska has leaked some 14,000 barrels of oil so far. And according to U.S. officials, that makes it the largest breach also of that pipeline ever recorded.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:50:38",
+      "speaker": "SCIUTTO",
+      "sentences": "Yes. There were some concerns about these in the battle over the approval. The line was shut down on Wednesday night. Officials unsure when it will be back in service. The operator, Canada based TC Energy, is now working with the EPA on clean-up, as well as the Pipeline and Hazardous Material Safety Association and Kansas officials trying to clean it all up.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:50:38",
+      "speaker": "HILL",
+      "sentences": "We'll keep an eye on that one.Well, right now, the Orion moon craft headed back to the Kennedy Space Center. This is after, of course, completing this major milestone in the mission to get astronauts back to the moon and ultimately to Mars. NASA sharing images of the Orion on its way to San Diego, you see it there, aboard the USS Portland.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:50:38",
+      "speaker": "SCIUTTO",
+      "sentences": "I mean, listen, memories of Apollo, right? I mean it looks exactly like that capsule from the late 60s and 70s.The craft made a record-breaking reentry into earth's atmosphere. A successful splashdown. You see it there on Sunday. Data from the craft will now be analyzed in preparation for phase two, which is sending astronauts to orbit the moon. I want to bring in Jonathan McDowell for his expertise. He's an astrophysicist at the Harvard-Smithsonian Center for Astrophysics. JONATHAN MCDOWELL, ASTROPHYSICIST, HARVARD-SMITHSONIAN CENTER FOR ASTROPHYSICS: Good morning.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:50:38",
+      "speaker": "SCIUTTO",
+      "sentences": "Jonathan, listen, as you know, from our conversations, I'm (INAUDIBLE) covering it and I think we should, hey, let's go as far as we can. This is a very expensive way to do it. It's using a lot of old technology to do so. By the way, it's going to the moon. We've been there. You know, 50 some odd years ago. Is it all worth it as a steppingstone on to Mars as it's described?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:50:38",
+      "speaker": "MCDOWELL",
+      "sentences": "I think it's important to regain the ability to go back and work on the moon. It's been 50 years since we did it last time, right. And the reason is that the moon's so close to earth that if something goes wrong there, you know, you can get home quickly, right, in just a few days.And so with the technology that they're developing for the Artemis program, that's designed to not just do these little vacations on the moon for a few days, but to support the infrastructure to have a permanent presence in the vicinity of the moon and to use the same technology to go further out, to the asteroids, to Mars, to wherever we want. And so I think that it is worth doing. It is a bit of a technology hodgepodge right now. We don't have the ability to land on the moon with the Orion spacecraft. So, NASA is paying SpaceX to develop a lander version of its starship to match with the Orion.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:50:38",
+      "speaker": "HILL",
+      "sentences": "One of the things, in terms of the technology, that's getting a lot of attention is this. So it's this skip entry technique. Can you put that in layman's terms for us. What does that change in terms of the re-entry? Why is it so important moving forward?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:50:38",
+      "speaker": "MCDOWELL",
+      "sentences": "Right. Well, you know, if you're just coming back from the neighborhood, from the International Space Station, you're re-entering the atmosphere at a mere 17,000 miles an hour. But coming back from the moon, you're coming in at 24,000, 25,000 miles an hour. It's really sporty. And so you want to make that entry as gentle as possible. And the little skip that it does, so it - it plunges into the atmosphere but flattens out, pops back up a little bit, just a few miles, and then back down again. And that gives you a bunch of things. It gives you a gentler ride, fewer g forces on the astronauts. Also, by just slightly changing the angle of that skip re-entry, youcan move where you land by hundreds of miles. And so you don't have to have quite as much of the U.S. Navy covering the Pacific. You can target it a bit more accurately and you can avoid the weather, as they had to do on this mission. They were already plunging back to earth when they decided to shift the landing spot from off San Diego to south off Baja.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:55:08",
+      "speaker": "MCDOWELL",
+      "sentences": "I think that's still a long way away. I think the assembly of future Artemis missions is still - is more likely to slip than to get sooner. Artemis II, which is just let's send a few people around the back of the moon and home, is officially, I think, still scheduled for May of '24, but most of us think it will be late that year, if not the following year.So, this, you know, they want to be really safe, right, and make sure that they don't skip corners. But at the same time, yes, the pace of this program is -- is not dizzying.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:55:08",
+      "speaker": "SCIUTTO",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:55:08",
+      "speaker": "HILL",
+      "sentences": "Yes. They need the pace like we're seeing on that speed with reentry.Jonathan McDowell, great to have you with us, as always. Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:55:08",
+      "speaker": "MCDOWELL",
+      "sentences": "Thank you.",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

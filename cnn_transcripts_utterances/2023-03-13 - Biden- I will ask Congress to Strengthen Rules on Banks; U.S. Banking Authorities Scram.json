@@ -1,0 +1,361 @@
+{
+  "date": "2023-03-13",
+  "headline": "First Move with Julia Chatterley",
+  "subHeadline": "Biden: I will ask Congress to Strengthen Rules on Banks; U.S. Banking Authorities Scramble to Prevent Crisis; HSBC Buys SVB's UK Business for just over $1; Meghji: Analytic Models should have Predicted Issues; Kalb: This is a Banking Problem, not a Tech Problem; U.S. Government Vows to Rescue Depositors after Two Banks Fail. Aired 9-10a ET",
+  "utterances": [
+    {
+      "timeStamp": "09:00:00",
+      "speaker": "JULIA CHATTERLEY, CNN HOST, FIRST MOVE",
+      "sentences": "A warm welcome to \"First Move\", great to have you with us this manic Monday, day where financial news istruly coming in everything everywhere all at once. Maybe Oscar worthy coverage and analysis of the global efforts to protect depositors shore up competence and prevent runs on other banks across the United States. All happening this weekend, following the collapse of Silicon Valley Bank of sinks second largest banking failure in fact in U.S. history now President Biden is set to provide what I'd call a verbal reassurance any moment now and we will bring that to you live. Rahel Solomon joins us now. Rahel, I call it verbal reassurance, but also, I think, some explanation of why they moved so swiftly in the measures that they took? What should we expect from the President?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:00:00",
+      "speaker": "RAHEL SOLOMON, CNN CORRESPONDENT",
+      "sentences": "Well, you know, Julia.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:00:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "I'm going to interrupt you Rahel, President Biden speaking, let's listen in.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:05:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Mr. President, what do you know right now about why this happened?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:05:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "President Biden speaking there to address the measures taken over the weekend to shore up confidence in the banking sector and as wewere expecting him, the first thing, the first line out of his mouth was deposits will be there when you need them to try and reassure customers, clients of banks across the United States that their deposits are protected. But also emphasizing that this isn't a bailout that no taxpayer money will be used to backstop some of these banks that are and remain a concern, Rahel Solomon is back with us. Rahel, I rudely interrupted you before. Before you could even suggest I knew exactly you're going to predict exactly what President Biden said there. What do you make of those comments? I think expected.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:05:00",
+      "speaker": "SOLOMON",
+      "sentences": "Expected but perhaps critically needed, right? I mean, the first comments out of his mouth, as you alluded to there; Julia was thatconfidence, right instilling confidence for Americans saying that Americans can have confidence that their deposits will be safe that payrolls will be safe. And Julia, as you know, part of the story about why SVB failed in spectacular fashion as the way it did in the way that it did was because of a lack of competence, right? When SVB communicated, some would argue poorly, that it needed to raise cash in order to become more liquid. Well, that really sent off a panic between investors between Founders, and we saw a traditional bank run. So we saw the federal regulators really step up in dramatic fashion and very quick fashion over the weekend to try to prevent the contagion right? Try to prevent that panic from spreading. And Julia, really quickly, I just want to provide a bit of --. I just spoke to a Founder who had her money tied up at SVB for the last five years or so she said they had actually been a really great banking partner. She didn't find it shocking in terms of what we're learning about their risk management. But she said that from Wednesday to Friday, it was sheer panic within the Founder community within the tech community, as our Founders were hearing from their investors, some saying take your money out other saying everything is OK. She said, as of Saturday, some of her business accounts were bouncing that the money was not there from her SVB line of credit. And so in the sheer confusion about what would happened to SVB, she started to move some of her expenses to her personal credit card. It really just gives you a sense, Julia, of just the range of emotions that Founders and employees, of course of the startups must have been going through this weekend. And why we saw such quick action from the federal government and why President Biden again, trying to stress that this was a limited situation, but that the government will do everything, do whatever is needed to try to prevent any contagion to try to prevent any additional fragility beyond what is already evident?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:10:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "What do you expect the divergence that we're seeing between some of the larger banks and I mentioned them JP Morgan, Bank of Americajust use a couple of examples and some of the smaller regional banks, because despite the implicit, as we've discussed, guarantee on bigger deposits for some of these banks. The fact that these banks have the ability to use some of their government bond holdings or similar assets and get money if I were a depositor, I'd still be looking at my bank account and going, everybody's saying it's safe, but I'm a little bit concerned.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:10:00",
+      "speaker": "CASSIDY",
+      "sentences": "And I think time will help with that concern. I can understand what you're saying. But we have to remember that all the deposits, and manyof these institutions, whether they're under the legal deposit insurance of 250,000, or above it, are going to be backed by the FDIC. But it's understandable why people would be concerned, particularly with some of the smaller banks whose stock prices have fallen dramatically in the last 4 to 5 trading days. But I think as we'll see with time, things will smooth out as people understand the program, and really get their arms around. So the program obviously, the President addressed it a short while ago, I think you'll see more treasury, Federal Reserve and FDIC Officials out telling everyone what the program is about reassuring the public that their deposits are safe.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:10:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "Yes, you mentioned something that I think it's critically important to understand about Silicon Valley Bank. And that is there weretwo things going on here. There was a high concentration of deposits from the tech sector. And we know there have been a huge revaluation and the need for liquidity to get cash from many of these tech startups, and also the bank itself exposure to government bonds that have lost value, at least on paper as interest rates rise. And this is virtually unique to this bank, the combination of these two stresses at this moment in time.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:15:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "And the vital point you make there is the diversification that for many of these banks, they have people who aren't lucky enough to havemore than $250,000 in their bank accounts, and that makes a difference too. This was a blind spot, though, whether for regulators, for our understanding of the vulnerabilities as interest rates rise. Are you concerned about and can regulators do better? Clearly, they can do better, but quickly do better at assessing these risks early on. So that we don't have a sort of catalyst event over the course of a week, like we just had?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:15:00",
+      "speaker": "CASSIDY",
+      "sentences": "It's a really good question, because last week at the RBC Financial Institutions Conference in New York, one of the questions I wasasking Senior Managements of coverings like Citigroup, and others, you know, interest rates have moved up so dramatically and in years past cycles past like 1994, 95. When we hit those kinds of rate moves, we had the bottles, Orange County, California filed for bankruptcy, and Mexico had the peso crisis. So I was asking these management teams, why haven't we seen the barcode? Now, unfortunately, we have 24 hours later. And I think you bring up a good point, because the - tragedy, the financial crisis, was a credit led problems. This has nothing to do with credit, this all has to do with interest rates, and a mismatch between the lengths of time that the bonds mature, versus the funds they're using to support those bonds. You have to go back to 1979 and 1980, when the first Pennsylvania Bank went under with this problem. That's how long ago, and I think what the regulator's will obviously do is now take a look at interest rate risk, as well as credit risk in assessing the bank's health.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:15:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "Which to your point, arguably, they should have been doing before. But what was the management saying to you when you were asking thisquestion?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:15:00",
+      "speaker": "CASSIDY",
+      "sentences": "They were surprised as well. No one was obviously predicting, of course, what happened 24 hours after I was asking those questions, andeverybody was surprised that something had not broken as well, because rates had moved so much. Now, I don't want to point out, I don't want to suggest regulators don't look at interest rate risk, they do. But this upside down bond portfolio problem came, you know, out of - field because of the speed in which the information was moving, which is also this is something very different that we've never seen before, to see a bank that was healthy at 3:59 pm on Wednesday. Go out of business by Friday morning was absolutely breathtaking. And so part of what needs to be addressed by the regulators is how quickly information moves and when it deals with confidence, we've got to be very careful with that. So that's another issue that will have to be addressed. Once everything settles down is how do we handle the speed in which this information can move around?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:15:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "Yes, that's actually a brilliant point. I couldn't agree more with you because we saw the panic, particularly on social media. And Ithink in the past, you wouldn't have had such a swiftly bank run situation if information weren't flowing so far. So efficiency and information can be really good in the financial sector except in this kind of situation. And very quickly, do you think there's also a problem in communication between bank management and the regulator's? I'm just trying to imagine a bank management trying to explain leveraged crypto to a regulated to ensure that they understand that what's going on and how things move with interest rates. And I'm even struggling to explain it here myself. So I'm not criticizing, I'm just saying I can imagine that there is a challenge between bank management and regulators and even understanding some of the products out there right now and the vulnerabilities.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:20:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "Yes, I just think there's risk assessments need to be more dynamic than once a year or even reporting quarterly. Yes, it's an ongoingconversation who don't we'll come back to it, Gerard Cassidy, great to have you with us sir thank you, the Head of U.S. Bank Equity Strategy at RBC Capital Markets. All right, coming up after this we'll look at the International fallout from Silicon Valley Banks downfalls. And later the CEO of One Tech Startup discusses getting caught up in the crisis. Stay with us. (COMMERCIAL BREAK)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:20:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "Welcome back to \"First Move\", the Silicon Valley Bank collapse spreading far beyond just the U.S. banking sector and efforts as you heardfrom President Biden and beyond to shore up the financial system. Over in the U.K. HSBC announcing it's buying the bank's U.K. arm for just one pound. Anna Stewart joins us now. Anna, I know you have more of the details on this, but there were tremors through the U.K. tech sector to over fears of what this bank collapse would mean?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:20:00",
+      "speaker": "ANNA STEWART, CNN REPORTER",
+      "sentences": "Big tremors I think it's been as busy a weekend for many in the U.K. as it has been in the U.S. And I think it's beenhugely concerning particularly for tech firms who banked with Silicon Valley Bank, U.K. Also, of course, for the Bank of England, and for the government and for Chancellor Jeremy Hunt, who are just days away from his big first formal U.K. budget? He's been particularly busy. He was hugely concerned. Here's what he had to say about the rescue today. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:20:00",
+      "speaker": "JEREMY HUNT, BRITISH CHANCELLOR OF THE EXCHEQUER",
+      "sentences": "We were faced with a situation where we could have seen some of our most important companies,our most strategic companies wiped out and that would have been extremely dangerous. We have built over the last decade, the third largest tech economy in the world, after only China and the United States. So it's very important to us as a country, this sector thrives. And that's why the --, The Bank of England, we're all rolling our sleeves up over the weekend to make sure we had a solution. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:25:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "Yes, it's posing all sorts of questions; I think it's also posing. Oh, my goodness, my speech today. It's also posing questions aboutwhat Central Banks are going to be able to do over interest rates, and whether this is going to make them more nervous. I think because behind the scenes, we've still got this inflation battle going on globally. So I can throw more questions at you Anna, but we're going to look to China now because SVB bank, I did it, it is also part of a joint venture over in China too.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:25:00",
+      "speaker": "STEWART",
+      "sentences": "Yes, I was dreading saying the acronym, which is SDP, SVB.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:25:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "--to you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:25:00",
+      "speaker": "STEWART",
+      "sentences": "That is extraordinary. There is a joint venture in China. So this actually further complicates the issue for us, because it's harder toreally know what's going on here. What does it mean, given there was a 50- 50 joint venture? What does it mean for SVB, Silicon Valley Banks joint ownership of the joint venture? That bit is unclear, but we have had a statement from them, which says the joint venture that is that says the bank has a standardized corporate governance structure and independent balance sheets, they say that operations are sound. Interestingly, over the weekend, we had at least a dozen Founders and companies coming out saying very clearly that either they had no exposure to SVB, or very insignificant exposure. It was a lot of reassurance going on a lot of nothing to see here. So far, that appears to be the case not seeing any huge market moves as a result of that. But very interesting response, I think, and we don't fully know what it means for that joint venture at this stage, but we may know more in the coming days.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:25:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "What was the joint venture called again?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:25:00",
+      "speaker": "STEWART",
+      "sentences": "Don't make me do SDP, SVB.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:30:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "Welcome back to \"First Move\"! And recapping our top story today the race to shore up confidence in the U.S. financial system, PresidentBiden addressed the nation a short time ago in a bid to bolster public confidence following the second largest bank failure in U.S. history. In the past 24 hours, the Federal Reserve, the U.S. Treasury and the Bank Regulator, the FDIC, have said customers of Silicon Valley Bank, including well known tech names, and startups will be able to access their cash today. That includes all uninsured deposits. So just to remind you, that's amounts over $250,000. But now, the questions really begin over how regulators failed to see this coming? Joining us now Sultan Meghji, he's Former Chief Innovation Officer at the U.S. regulator, the FDIC and now a Professor at Duke University's Pratt Engineering School. Great to have you on the show Sultan! I think what's become very clear, and we've already discussed this, on the show is concentration risk, concentration of deposits being made from startups from the tech sector but also concentration risk on the balance sheet of a bank that was investing in government bonds, mortgage backed securities that are very sensitive to interest rate rises, the combination, a perfect storm. SULTAN MEGHJI, PROFESSOR, DUKE UNIVERSITY'S PRATT ENGINEERING SCHOOL: That's exactly right. And, you know, it's not just this bank, which really, I think some of the concerns across the banking regulators, including my former agency. We have this across all of the regional banks right now to one degree or another. And in the case of Silicon Valley Bank, it was absolutely a perfect storm of interest rate hikes coupled with balance sheet value decreases that just let them right into this.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:30:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "And that's where you come in, because what I want to understand is, whether in your mind, given your experience and the role that you for ashort while played at the FDIC, you think there is a better way to assess some of the vulnerabilities. Whether hindsight is always perfect sight, but there is a way to model in a more dynamic manner, the changes in risk dynamics, particularly in an interest rate, rising interest rate environment, should we have seen this coming?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:30:00",
+      "speaker": "MEGHJI",
+      "sentences": "I believe we should have, you know, for a long time now; we've had the ability with advanced analytics, and especially machine learning to beable to see these kinds of impacts and what first and second order impacts can be far more quickly and far longer before they actually become an issue you know. Five years ago, I was having graduate students do this work using, you know, call report data, as well as open bank and market data. And we were able to predict this kind of stuff, you know, 180 days in advance. So, you know, when I was at the agency, we put a lot of effort at the time into trying to build these analytic models that were better than just quarterly call reports. And I really wish that we did more of that kind of work to stop this kind of issue from happening again.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:30:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "Wait, wait, wait, and say that again. So basically, five years ago, you had university students pulling in easily accessible data to modelwhat would happen in adjusting interest rate environments and even five years ago, you think, actually, you would have had enough data? I mean, the NASDAQ collapse that we saw at the back end of last year that would have flagged awarding the holdings of government bonds that would have flagged a warning, is that what you're saying?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:30:00",
+      "speaker": "MEGHJI",
+      "sentences": "Exactly right. You know, all of this data is generally available. It's one of the great things about living in an open democracy, you know,you can download your bank performance data directly from the FDIC, if you choose to. This is an absolutely solvable problem. And it's really just a matter of having access to the data and running, you know, fairly well, you know, understood analytics against it. And all of these would have caused me sitting in an examiner seat or sitting at a seat inside of one of these agencies to say, hey, this category of banks or this category of assets or something that we should be paying more attention to.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:35:00",
+      "speaker": "MEGHJI",
+      "sentences": "You would have to ask them.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:35:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "I think I can read between the lines there. I asked the question earlier on the show, and I'd like to get your wisdom on this,again, being careful what you say, obviously, I'm sure. How able to communicate do you think bank executives are to regulators about the financial system today, and particularly where tech startups are concerned, perhaps the needs that they have the leverage that exists in the system right now, particularly in newer sectors like crypto?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:35:00",
+      "speaker": "MEGHJI",
+      "sentences": "It is a fantast fantastic question and one that I think we should be asking a lot more. You know, the reality of the global financial systemtoday is it's a 24/7 365 real time system, and that has created entire new categories of financial products and services, entire new technologies, entire new classes of assets. And in many ways, the regulatory system still looks like it did 10, 15, 20, 30 years ago. And the disconnect there is fundamentally one of communication and engagement, you know, I really believe that the public sector and the private sector here could do a far better job of talking to each other about what one is doing to be more innovative while still playing inside the regulatory environment? And there's got to be a place for that communication to occur. But I think everybody could be doing a better job there.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:35:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "So in your mind, who's more at fault here, regulators are not spotting, again, hindsight, perfect sight clear vulnerabilities or bankmanagement, saying, we may have to be selling at some point $21 billion worth of what are perceived to be in the market is about the safest assets, you can buy mortgage backed securities, U.S. government bonds, and then trying to raise capital against it. I'm sort of wondering where the blame is apportioned here?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:35:00",
+      "speaker": "MEGHJI",
+      "sentences": "Well, I think there's a lot of blame on both sides. And it's important to remember that the way the banking regulatory environment worksis it's not prescriptive, there isn't an official list of 187 questions that the bank examiners asked their banks. This is a very nebulous area in some ways. And as just as I think it's going to be very easy for people to say, well, Bank X should have been communicating more formally, more thoughtfully, more proactively with the regulatory community and that absolutely should have happened. But also, you know, we're going to have to do a better job on the regulatory side of getting smarter about knowing what questions to ask, especially as it relates to advanced technologies and especially as it relates to this real time activity where, you know, we hear about something on a Thursday, the bank is closed on Friday. And now, you know, on Monday morning, you and I are talking about how we could have seen this comment.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:35:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "I know. Well, perhaps the FDIC or some officials are watching this interview and would be interested in seeing some of your dynamicmodeling and obviously, artificial intelligence. I know now playing into this as well. So - when would you go back to the FDIC if they asked you to come and show what is available and the capabilities that it presents?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:35:00",
+      "speaker": "MEGHJI",
+      "sentences": "Absolutely.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:40:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "Welcome back to \"First Move\"! Let me get you up to speed on what's happening on this historic day for global markets. U.S. stocksvolatile as you would expect, as investors weigh the wide array of emergency measures pushed through by U.S. regulators in the past 24 hours to help shore up confidence in the global banking system. Regulators guaranteeing the uninsured deposits that collapsed Silicon Valley Bank that's just one of the emergency measures announced. We're seeing truly extraordinary moves lower however, in U.S. bond yields 10 year yields, which had been approaching 4 percent in the United States not too long ago, now below 3.5 percent. What does this reflect? Well, the expectations that the U.S. Federal Reserve will have to reevaluate its rate hiking path in the wake of this crisis. As Jared Cassidy at RBC Capital Markets told us earlier this will help ease some pressure on U.S. banks that are currently holding treasuries, U.S. government bonds that will currently be sold at a loss if they had to raise money. Now, a number of regional banks however, under intense pressure in early trade, as we've mentioned earlier lots of these banks will probably need to raise money and where would you rather have your cash as a depositor today in a big bank, or in a small? Now as authorities raise to limit the fallout from the collapse of Silicon Valley Bank, and many businesses spent the weekend worrying about how it would impact them? Seattle based food management startup \"Shelf Engine\" uses artificial intelligence to help grocery stores reduce food waste, like many small companies that banked with Silicon Valley Bank they found themselves without access to cash, and wondering even how they would pay wages. The Biden Administration has promised the bank's customers they will have access to all their money from today. And joining us now is Stefan Kalb. He's the Co-Founder and CEO of Shelf Engine. Stefan I am sure you've had an incredibly busy weekend week. So I appreciate your time all the more. Tell me how you're feeling and what this past week has been like?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:40:00",
+      "speaker": "STEFAN KALB, THE CO FOUNDER AND CEO OF SHELF ENGINE",
+      "sentences": "Yes, absolutely. First of all, good morning Julia thanks for having me on the show. Obviously, I'mquite relieved. It was a very stressful weekend, and quite relieved with the news yesterday evening. However, I do have to say that I'm quite frustrated over the weekend; there was a narrative around tech being the problem here. And that there needs to be a bailout and I really, you know, think this is super important piece for the American public to understand that this is not because tech is risky. We are good stewards of our capital. We manage our company quite well. This is a banking problem. This is the fundamentals of banking. This is about having two small reserves in the bank. And I understand, you know, this balance between the velocity of money and risks. But nonetheless, this is really a banking problem.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:40:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "Yes, I mean, I think there'll be people watching this going hang on a second, there are parts of tech that are risky, and perhaps therewas some excessive risk taking, and there's going to be greater adherence perhaps in future too. How we're going to make profits, which may be an unfortunate thing for companies trying to grow such as you. But I do think you raised an important point about your view, which I was keeping cash in a bank, and that bank safe.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:40:00",
+      "speaker": "KALB",
+      "sentences": "Yes, that's absolutely right. This is not something that's speculative, right? This is not something that we put some money in andthink, oh, we hope that this kind of big bet. This is a bank, just like anybody who's watching the show today puts money in their bank account, and expects that to be in a safe place. That's the exact same thing that we were doing. We're keeping our money in a safe place.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:45:00",
+      "speaker": "KALB",
+      "sentences": "Yes, you know, we started looking at this late Thursday and early Friday morning, and what kind of contingency plans. Realistically weunderstood that we were going to get access to the $250,000 fairly quickly and that is $250,000 that FDIC insurers. However, a $250,000, for us is a relatively small amount of money, and would have only kept us alive for a handful of days. The other thing to understand that's really important, given that I'm the Founder and the CEO, is that if I pay employees I should say, have they worked, and I can't pay them. I am personally liable for that payroll. Even on Friday, we had a withdrawal for our 401k that the employees had already deposited, that did not go through it bounced. I'm personally liable for that. And that's a very high consideration. So $250,000 would have let us go for a handful of days. But I basically would have had to shut down the company by the end of this week. There was no other contingency plan. So over the weekend, of course, I was scrambling to find dead options and other cash options. Our investors started stepping up in a meaningful way there. So we knew we started having some options, but nothing that was going to last that long. So the news on Sunday evenings was quite relief.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:45:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "And for your 40 employees too, - not only were you personally liable, but they arguably would have been out of a job within the week,which is sort of devastating. I think that for all concerned. One of the questions I want to ask you, why did you have all of your money or that much money with SVB? Was that about the terms of doing business in accessing loans from SVB?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:45:00",
+      "speaker": "KALB",
+      "sentences": "It was. Yes, so it sounds irresponsible. Maybe asking yourself, for many people may be asking themselves, why did you have all your capital ina single bank? There's two things, first of all, those who because of the terms. It was pretty standard practice for SVB, for debt to say, hey, if we're going to give you debt, you need to put all your capital in our bank. So that was that was piece number one. But piece number two and this is one thing that's really important to understand. We don't think so today because of latest news but just you know we go Silicon Valley Bank was considered the gold standard. Silicon Valley Bank was the bank for the hot tech startups, all the way to public companies. And when your startup and you raise money, like we have, we've raised over $60 million a day; you have to have a few things, right? Have the right lawyer have the right accountant. And you have to have the right banker. And these bankers, the Silicon Valley bankers, they have the relationships with the investors. They are considered kind of top tier. And so you know, we didn't ever give second thought to having all of our capital in one bank.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:45:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "Yes. So you were better off going to investors and saying, look, we have the SVB stamp of approval than perhaps going to a differentmiddle tier bank and getting money from them or depositing with them.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:45:00",
+      "speaker": "KALB",
+      "sentences": "Yes, indeed, in fact, it would have been kind of confusing. If we hadn't gone with one of the key banks for startups or for tech, it wouldhave been kind of odd.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:45:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "Where's your money going to be now?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:45:00",
+      "speaker": "KALB",
+      "sentences": "So I think it's going to be highly diversified. That's one thing for sure. Learned our lesson on that front so on Thursday, once we heard thenews, my Co-Founder and I ran to a JPMorgan Chase, we found that to be probably the safest banks to go too opened up an account immediately. We wired the money on Thursday. But we were just a little too late, unfortunately. So the money did not get out of our Silicon Valley Bank account, and did not make it into our Chase account. Hopefully that happens today. I've been obsessively checking my email, nothing from the FDIC yet. I've been checking the website and just say that there's a technical error, and they apologize for the inconvenience. So hopefully the money will be able to be transferred shortly.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:50:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "Welcome back to \"First Move\"! A volatile stock market picture on Wall Street stocks, though well off their lows. Take a look at that theDOW now trading three tenths of a percent higher. But many bank stocks tumbling to their lowest levels in over two years nervousness uncertainty despite the moves by regulators the Federal Reserve and beyond to help shore up the banking system over the weekend following the Silicon Valley Bank collapse as well as the failure of the systemically important Signature Bank too. Richard Quest joins us now. Richard, did the tech sector just get a bailout?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:50:00",
+      "speaker": "RICHARD QUEST, CNN ANCHOR, QUEST MEANS BUSINESS",
+      "sentences": "Oh, yes, absolutely. I mean, you could dress it up any way you like. But the moment you went abovethe $250,000 limit, then yes, --, but it was under sensible bailout as long as investors and shareholders ended up growing the costs Julia I'm in Tel Aviv in Israel, where of course startup nation and the headquarters of tech globally in many ways. I've been talking to one of the top tech investors globally - Viola, the VC Group. He said to me today, it's not systemic. He had accounts with SVB. He said he's had his phone ringing off the hook with other banks offering to take the money. He thinks it is an example of banking going that got their sums and their actuarial tables and their banking if you like risk management wrong, Julia. But he says it is not in his view systemic to tech.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:50:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "So interesting, isn't it? Not systemic for tech? That's important. I think and I'm sure you'll give me your view on this. I thinkit could have been without these moves from regulators over the weekend to shore up to protect implicitly protect other banks too, the uninsured deposits, just to ensure that the uncertainty, the lack of knowledge that we have, and individuals have too. Let's be clear about--",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:50:00",
+      "speaker": "QUEST",
+      "sentences": "Julia.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:50:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "--didn't create something bigger.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:50:00",
+      "speaker": "QUEST",
+      "sentences": "Julia moral hazard--",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:50:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "Oh, Richard.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:50:00",
+      "speaker": "QUEST",
+      "sentences": "Have you forgotten moral hazard? I mean, you know, so where do you stop this bailout? These are relatively small institutions relativelysystemically to the global banking system. They are I agree, depositors have been made hold, but you have to ask what purpose? I heard your previous guest by the way, I heard your previous guest talking about the effects that would have happened if they had not been made whole above 250K. But then he was the example of moral hazard, in a sense, because the moment you make everybody oh, you basically say there's no risk.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:50:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "Well, shareholders didn't get a bailout. Bondholders didn't get a bailout. They got wiped out quite right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:50:00",
+      "speaker": "QUEST",
+      "sentences": "Quite right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:50:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "Right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:50:00",
+      "speaker": "QUEST",
+      "sentences": "That's the nature of equities.",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

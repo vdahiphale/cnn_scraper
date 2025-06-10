@@ -1,0 +1,643 @@
+{
+  "date": "2024-03-19",
+  "headline": "CNN This Morning",
+  "subHeadline": "Congress Finalizing Spending Deal, Still Facing Hurdles; Today: Key Primaries To Shape November Elections; NBA's Dunk Of The Year. Aired 5:30-6a ET",
+  "utterances": [
+    {
+      "timeStamp": "05:30:00",
+      "speaker": "KASIE HUNT, CNN ANCHOR",
+      "sentences": "All right, a live look at the Supreme Court this morning, a reminder that voters are voting but that place is going to have a huge impact on our 2024 election this time around.Good morning. Thanks for being up with us. I'm Kasie Hunt. Lawmakers once again scrambling to head off a government shutdown. Tell me if you've heard this before. Sources tell CNN that congressional negotiators are close to reaching a spending deal but there are some hurdles that still remain. They have until Friday to finalize an agreement and to write it. At stake, funding for key agencies like Homeland Security. That's been the most contentious one at a time when the southern border has become a central campaign issue. Let's bring in Jackie Kucinich. She is Washington bureau chief for The Boston Globe. And Andrew Desiderio, senior congressional reporter for Punchbowl News. Good morning to both of you. You know, I guess when I start covering -- when we're covering this again -- -- I mean, yes --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:30:00",
+      "speaker": "JACKIE KUCINICH, CNN POLITICAL ANALYST, WASHINGTON BUREAU CHIEF, THE BOSTON GLOBE",
+      "sentences": "Yeah.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:30:00",
+      "speaker": "HUNT",
+      "sentences": "-- it's another crisis week, Jackie. But somehow, like, the air is out of the crisis balloon on this in a way that seems to me to affect the politics of shutdown negotiations and things like that. It's almost as though the way Republicans handled it by splitting it up, it made the whole thing feel a little bit less impactful.I mean, do you think any of this is actually breaking through with Americans? And is there any -- you know, for Republicans who keep threatening, like, hey, I want -- we're going to shut down if you don't give me what I want -- like, is their leverage kind of gone?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:30:00",
+      "speaker": "KUCINICH",
+      "sentences": "You know, I feel like when you talk to folks non-Washington about Congress there really wasn't a lot of faith to begin with, and so not a lot has been done in the current Congress to rebuild that faith. So I think you have a lot of Republicans --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:30:00",
+      "speaker": "HUNT",
+      "sentences": "Hashtag understatement.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:30:00",
+      "speaker": "KUCINICH",
+      "sentences": "Well, right, right. There's a real sales job that's going to have to be done before November for these guys. And every time -- I mean, I don't know that they're -- that they're paying that much attention to these bifurcated spending bills that have been -- I mean, I feel like when you cover this it's hard to keep track of all the deadlines since now there's so many.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:30:00",
+      "speaker": "HUNT",
+      "sentences": "Right. If we can't keep track of it no one can.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:30:00",
+      "speaker": "KUCINICH",
+      "sentences": "Exactly. But if -- but if this does lapse that's when people start paying -- that's when they will have a problem on their hands. So --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:30:00",
+      "speaker": "HUNT",
+      "sentences": "Yeah.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:30:00",
+      "speaker": "KUCINICH",
+      "sentences": "-- it seems like this is on track.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:30:00",
+      "speaker": "HUNT",
+      "sentences": "So, Andrew, let's talk about the details here. The most complicated one has been Homeland Security. We don't -- we understand that they have reached broad agreements on this. That seems like a significant step.What have they on, and how do you think they're going to resolve this by the end of the week?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:30:00",
+      "speaker": "ANDREW DESIDERIO, SENIOR CONGRESSIONAL REPORTER, PUNCHBOWL NEWS",
+      "sentences": "Well, the root of this problem with the DHS funding bill is the fact that Republicans killed the bipartisan border security bill that was negotiated between the Senate and the White House earlier this year. So because there's no new funding for the border there aren't, sort of, updated policies and funding approaches as how to handle the crisis at the border. That's why you're seeing these last-minute negotiations.And what's fascinating is over the weekend, Democrats actually had some intraparty fighting of their own, which is quite rare on this -- on this issue -- Democrats on the Hill versus the White House. At the White House, they wanted something more of a continuing resolution basically continuing the same spending and same policies for the border. Whereas, Democrats on the Hill wanted something more in-depth. Something that actually had changes to the policies from the last one they did.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:30:00",
+      "speaker": "HUNT",
+      "sentences": "More conservative or less?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:30:00",
+      "speaker": "DESIDERIO",
+      "sentences": "Well, they wanted funding for things like detention beds and things like that, right --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:30:00",
+      "speaker": "HUNT",
+      "sentences": "Yeah.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:30:00",
+      "speaker": "DESIDERIO",
+      "sentences": "-- to increase capacity for border patrol.So I thought it was fascinating that you did see some splits with Democrats there. But it's not surprising to me that we're at this point where obviously, we're staring down a deadline. This is the most contentious funding bill -- it always is -- mostly because at this point, the Republicans killed the bipartisan border security bill.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:30:00",
+      "speaker": "HUNT",
+      "sentences": "No, it's excellent context, Andrew. Thank you for that.You also had a scoop, Andrew, about the intel chairman Mark Warner and Commerce chair Maria Cantwell holding a classified briefing on TikTok. This, obviously -- I mean, the majority leader Chuck Schumer has to decide whether to put this on the floor of the Senate. What's the purpose of this briefing, what do you think lawmakers are going to hear, and what's the future of the potential ban?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:30:00",
+      "speaker": "DESIDERIO",
+      "sentences": "So, this exact briefing is what House members got right before they voted on their TikTok bill. That bill got 352 votes so, at this point, it's basically impossible for the Senate to ignore this legislation.What I think is interesting is that you have the White House taking sort of a wait-and-see approach. The president is saying he supports the bill and he would sign it into law if it gets to his desk. That's very different than putting a concerted push behind it and trying to get it over the finish line like he has with the border security deal from earlier this year or with Ukraine aid, and things like that. And what's fascinating about this briefing, in particular, is that you have two individuals who are on opposite sides of this -- of this TikTok bill.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:30:00",
+      "speaker": "HUNT",
+      "sentences": "Warner wants to ban it. Cantwell says no?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:30:00",
+      "speaker": "DESIDERIO",
+      "sentences": "Exactly.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:30:00",
+      "speaker": "HUNT",
+      "sentences": "OK.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:35:00",
+      "speaker": "HUNT",
+      "sentences": "Where do you think Schumer lands?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:35:00",
+      "speaker": "KUCINICH",
+      "sentences": "I think Andrew is right. It's going to be really -- nothing passed -- the House cannot agree on what day of the week it is, let alone for 350 votes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:35:00",
+      "speaker": "HUNT",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:35:00",
+      "speaker": "KUCINICH",
+      "sentences": "You can't ignore that sort of broad bipartisan agreement. Maybe he will, but I find that highly unlikely.Now, whether -- what form this will take I think is kind of up in the air at this point. But this is something that's very hard to -- very hard to ignore, particularly if you're a party that has been so out front when it comes to national security and national security concerns.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:35:00",
+      "speaker": "HUNT",
+      "sentences": "Andrew, what form does the lobbying effort from TikTok take? Because, sort of, if you kind of dig into who -- especially on the Commerce Committee -- like who is Maria Cantwell hearing from on this issue -- Sen. Cantwell? Is she hearing from TikTok? What are they saying and doing behind the scenes?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:35:00",
+      "speaker": "DESIDERIO",
+      "sentences": "Well, the CEO of TikTok has made a number of trips to Capitol Hill in recent weeks, including last week. He was actually in Washington anyway for a social event, they said, and so he basically --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:35:00",
+      "speaker": "HUNT",
+      "sentences": "He just happened to be here.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:35:00",
+      "speaker": "DESIDERIO",
+      "sentences": "Yeah -- basically had the --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:35:00",
+      "speaker": "KUCINICH",
+      "sentences": "(INAUDIBLE).",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:35:00",
+      "speaker": "DESIDERIO",
+      "sentences": "Yeah. Come up to the Hill and meet with senators.A number of senators actually refused to meet with him. I talked to senators who told me that they got requests from TikTok for meetings and they basically responded and said look, I don't believe a word the guy says. I'm not going to meet with him. And I thought that was really, really fascinating because they're basically not even willing to hear out TikTok's perspective on this. And when it comes to Sen. Cantwell -- and this is also really interesting -- is that a number of her former staffers, both in her personal office and on the Commerce Committee, either work for or lobby for TikTok right now. So I think that is also an important context here as we can consider where her head is on this and the legislation she might or might not support.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:35:00",
+      "speaker": "HUNT",
+      "sentences": "Yeah.Jackie, do you think the TikTok effort -- the one that they used inside their app where they tried to get kids, basically, to call -- did that backfire?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:35:00",
+      "speaker": "KUCINICH",
+      "sentences": "I think it did. I think it did, particularly with a lot of -- with the House lawmakers that were getting calls from kids, essentially -- some of them with a really disturbing message. I mean, Congressman Auchincloss was talking -- told The Globe about just some of the disturbing things that some of these folks were saying and flooding calls and actually demonstrated the influence that TikTok does have on a lot of young people. And that is the exact concern that a lot of these lawmakers have with the app, to begin with.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:35:00",
+      "speaker": "HUNT",
+      "sentences": "Right. They're basically saying this is a national security concern because the app could influence --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:35:00",
+      "speaker": "KUCINICH",
+      "sentences": "Exactly.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:35:00",
+      "speaker": "HUNT",
+      "sentences": "-- politics in the United States. It's like --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:35:00",
+      "speaker": "KUCINICH",
+      "sentences": "And that's what they -- it did.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:35:00",
+      "speaker": "HUNT",
+      "sentences": "-- exhibit A --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:35:00",
+      "speaker": "DESIDERIO",
+      "sentences": "Yeah.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:35:00",
+      "speaker": "HUNT",
+      "sentences": "-- like TikTok created.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:35:00",
+      "speaker": "DESIDERIO",
+      "sentences": "Members who are on the fence actually said that those phone calls that they got to their office --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:35:00",
+      "speaker": "KUCINICH",
+      "sentences": "Exactly.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:35:00",
+      "speaker": "DESIDERIO",
+      "sentences": "-- actually influenced them to vote for the bill rather than against it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:35:00",
+      "speaker": "HUNT",
+      "sentences": "Yeah, that's wild.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:35:00",
+      "speaker": "DESIDERIO",
+      "sentences": "Yeah.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:35:00",
+      "speaker": "HUNT",
+      "sentences": "Jackie, while I have you I want to ask you about the Ohio Senate race because --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:35:00",
+      "speaker": "KUCINICH",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:35:00",
+      "speaker": "HUNT",
+      "sentences": "-- you're from Ohio --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:35:00",
+      "speaker": "KUCINICH",
+      "sentences": "Yeah.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:35:00",
+      "speaker": "HUNT",
+      "sentences": "-- which most of our viewers probably know -- Go, Blue! Sorry.But this is --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:35:00",
+      "speaker": "KUCINICH",
+      "sentences": "I don't know if can you hurt me this early in the morning.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:35:00",
+      "speaker": "HUNT",
+      "sentences": "This is -- I mean, this is a -- kind of a classic situation where they've tried to put Trump on the ballot.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:35:00",
+      "speaker": "KUCINICH",
+      "sentences": "Yeah.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:35:00",
+      "speaker": "HUNT",
+      "sentences": "The leading candidate -- Trump was out there campaigning for him in Ohio.Do you think he comes out on top with the Trump, Trump, Trump message he's got or how do you see the race shaking out tonight? KUCINICH:  I'm not going to make a guess in terms of that. However, I will say this is one of the last places you're actually seeing the establishment branch of the Republican Party mount a real challenge to the Trump candidates. And Democrats are trying to play on this, doing the whole -- Claire McCaskill boosting Todd Aiken because she believed that he was the weaker candidate.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:35:00",
+      "speaker": "HUNT",
+      "sentences": "Right. This is where Democrats try to boost a candidate that's --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:35:00",
+      "speaker": "KUCINICH",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:35:00",
+      "speaker": "HUNT",
+      "sentences": "-- extreme to make it easier for them to win.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:35:00",
+      "speaker": "KUCINICH",
+      "sentences": "And that's exactly what Democrats are doing in Ohio, and trying to boost Bernie Moreno because they believe he is an easier candidate for Sherrod Brown, the incumbent Democrat, to beat. Whether that will work we'll have to see tonight.But you can see the establishment branch of the Republican Party really rallying around Dolan on the other side to -- because they believe that he could actually beat Sherrod Brown and pick up that all-important Senate seat, which -- that's a really big deal for Republicans and for former President Trump if he's not able to get his candidate over the line there. He was there this weekend to try to nudge him and get his voters out for his candidate.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:35:00",
+      "speaker": "HUNT",
+      "sentences": "Yeah. It's -- again, like, control -- it's on a knife's edge control of the Senate. Any single one of these --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:35:00",
+      "speaker": "KUCINICH",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:35:00",
+      "speaker": "HUNT",
+      "sentences": "-- seats --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:35:00",
+      "speaker": "DESIDERIO",
+      "sentences": "Yeah.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:35:00",
+      "speaker": "HUNT",
+      "sentences": "-- could really change it. And Sherrod Brown is kind of one of the last Democrats standing in this kind of type of state --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:35:00",
+      "speaker": "KUCINICH",
+      "sentences": "Um-hum.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:35:00",
+      "speaker": "HUNT",
+      "sentences": "-- right?All right, Jackie Kucinich, Andrew Desiderio. Thank you, guys. I really appreciate it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:35:00",
+      "speaker": "DESIDERIO",
+      "sentences": "Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:49:22",
+      "speaker": "HUNT",
+      "sentences": "Welcome back.A pivotal day of primary voting in America. The outcome expected to have a critical impact on the balance of power in Congress come November. Republicans looking to bounce back from the expected red wave in 2022 that really turned into a trickle. Donald Trump repeatedly warning his supporters he doesn't want that to happen again. (BEGIN VIDEO CLIP) DONALD TRUMP, (R) PRESIDENTIAL CANDIDATE:  We have to win in November. We have to win by big margins. We have to win a historic victory for the Republican Party. We have to win elections. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:49:22",
+      "speaker": "HUNT",
+      "sentences": "Hmm.CNN national political reporter Arit John joins me now. Arit, good morning.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:49:22",
+      "speaker": "ARIT JOHN, CNN NATIONAL POLITICAL REPORTER",
+      "sentences": "Good morning.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:49:22",
+      "speaker": "HUNT",
+      "sentences": "It's good to see you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:45:00",
+      "speaker": "HUNT",
+      "sentences": "So he keeps saying we have to win elections, we have to win elections. Obviously, one of the main things in 2022 that Democrats would say really influenced things was abortion rights. That's not necessarily the center of primary campaigns that we're really watching today.Let's start with Ohio -- the Senate race there. Sherrod Brown is a Democrat trying to hold onto a seat in a state that has really turned red in recent years. Bernie Moreno is the candidate that Trump has been supporting there. How do you see that race playing out? What are we going to potentially learn about the electorate from this race?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:45:00",
+      "speaker": "JOHN",
+      "sentences": "I mean, one of the big things we're going to learn is how much influence does Trump still have. In 2022, we saw President Trump endorse in a lot of these races and his candidates won. We saw Dr. Oz advance and then we saw him lose in November. So the question is going to be is Bernie Moreno, his endorsed candidate, going to make it to the general. And then if he does -- like, can he beat Sherrod Brown? And this is one of three very, very -- like, the three toss-ups that will determine control of the Senate. And so, it's -- I mean, it's like crucial. And so, if Trump backs somebody who ends up losing, that's going to -- I mean, hurt him if he becomes the president and it's going to further show that maybe Republicans were -- maybe the lesson from 2022 was to not just vote for the candidate that Trump backed.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:45:00",
+      "speaker": "HUNT",
+      "sentences": "Yeah.What else are you watching? I mean, we have some House races as well in Ohio. There's also races in Illinois. What are you looking for tonight as these results come in?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:45:00",
+      "speaker": "JOHN",
+      "sentences": "I mean, a lot of these races are -- because, like, things are so polarized and (INAUDIBLE) is so polarized, there's only a handful of really competitive House races across the country.This -- there's a race in Ohio. Marcy Kaptur is up for reelection. She won last time around. The question is which of the two candidates -- two Republican candidates who have been endorsed by different members of the House of Representatives are going to go on to challenge her in November? I think -- I'm looking at Illinois. There are some competitive primaries but those are -- they're both primaries where the -- whichever Democrat makes it through the Democratic primary is going to be locked in, and whichever Republican makes it through in November. But, yeah, I'm really just looking to see broadly, like, when it comes down to it, like these five -- like, the five House races that are going to make or break the House majority. Like, who is getting elected? Are they -- does each party feel like they're electing the strongest candidate? And, yeah, where it's going to go from there.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:45:00",
+      "speaker": "HUNT",
+      "sentences": "Right.Let's talk about the abortion issue for a second because it is one that I think based on polling and based on kind of expectations, certainly, going into the midterm elections in 2022 there was this thought it was going to be a massive red wave. And ultimately, that didn't materialize and that has led to kind of the chaos you have seen in the House of Representatives with Republicans really struggling to make this tiny majority that they have functional, right?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:45:00",
+      "speaker": "JOHN",
+      "sentences": "Um-hum.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:45:00",
+      "speaker": "HUNT",
+      "sentences": "They obviously ousted Kevin McCarthy. Mike Johnson has also -- has also struggled.There -- obviously, we talk so much about the top of the ticket -- Biden versus Trump -- the rematch. But I do see the potential for abortion to be one of these critical issues that drives down-ballot races almost perhaps more even than it drives the top of the ticket. How do you see that playing out this time? JOHN:  Absolutely. I mean, like, we're going to see a court case in June on the abortion drug. And what I've heard from Democrats is that last time around, the idea of abortion was very -- I mean, if you're in a blue state like California, there is like a handful of competitive primary races there. It's hard -- it was -- 2022 was hard to say hey, this Republican is going to take away your right to abortion in California and New York. But this time around, they can say Mike Garcia voted for X, Y, Z bill that could have led to a national abortion ban. If Trump is president and Republicans take control of the House and the Senate, Democrats are arguing there could be national implications to these abortion policies. So I think -- so I think we're really going to see Democrats hitting this idea that no matter where a Republican is in the country, if you elect a Republican you risk limiting abortion access nationwide.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:45:00",
+      "speaker": "HUNT",
+      "sentences": "Yeah. And, in fact, we heard just in the last day or so from a state senator in Arizona. They have a presidential primary today. Some of their congressional primaries are later on in the year. But take a look. She told her personal story.(BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:45:00",
+      "speaker": "EVA BURCH, ARIZONA STATE SENATOR",
+      "sentences": "I wish I could tell you otherwise but after numerous ultrasounds and blood draws, we have determined that my pregnancy is, once again, not progressing and is not viable. And, once again, I have scheduled an appointment to terminate my pregnancy. I'm choosing to talk about why I made this decision because I want us to be able to have meaningful conversations about the reality of how the work that we do in this body impacts people in the real world.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:00",
+      "speaker": "JOHN",
+      "sentences": "Um-hum.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:00",
+      "speaker": "HUNT",
+      "sentences": "-- who looked straight into the camera and told her just absolutely devastating personal story. Obviously, this Arizona state senator deciding to stand up and tell hers.How does this kind of a -- the emotional around this affect politics in this way?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:00",
+      "speaker": "JOHN",
+      "sentences": "I think that it's a very -- I mean, it is a very personal issue for so many people. And I think that one thing Democrats have really emphasized is abortion is not something that just happens because somebody just wasn't being responsible. This is something -- this is a health care issue where people -- I mean, we've seen in Texas people need emergency abortions. People -- it's not a decision that people take lightly. And I think that Democrats are going to be running more ads telling more personal stories that sort of emphasize that aspect of it.And I think as we saw in Ohio last year, Republicans have sort of tried to argue that Democrats want abortion up until the moment of birth. That these health issues -- these, like, emergency situations aren't real. But we saw even in very red Ohio abortion was an issue that voters across the aisle were -- Republicans, Democrats, Independents were willing to say no, we want to protect abortion access.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:00",
+      "speaker": "HUNT",
+      "sentences": "Right. When it's -- when it's been directly on the ballot voters have answered in a pretty overwhelming way, especially in our divided -- considering how divided our politics are, it's been overwhelming margins.All right, Arit John for us. Arit, thank you very much.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:00",
+      "speaker": "JOHN",
+      "sentences": "Thanks.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:00",
+      "speaker": "HUNT",
+      "sentences": "I really appreciate it.And then there's this. Fitness guru Richard Simmons frightening his fans with this alarming social media post. It reads, in part, \"Please don't be sad. I am dying. Oh, I can see your faces now. The truth is we are all dying. Every day we live we are getting closer to our death.\" I mean, fact-check, true -- but yikes. The 75-year-old Simmons later apologized. He said he's fine. He explained his comment was meant to be a message about embracing life. Simmons rose to fame in the 80s with videos like this one. (BEGIN VIDEO CLIP) RICHARD SIMMONS FITNESS VIDEO. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:00",
+      "speaker": "HUNT",
+      "sentences": "Simmons has disappeared, basically, from public life. He did in 2014. His spokesman, though, says he is healthy and happy. Glad to hear that. We wish him the best.All right, time now for sports. What might be the dunk of the year in the NBA. Coy Wire has this morning's Bleacher Report. Coy, good morning.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:00",
+      "speaker": "COY WIRE, CNN SPORTS ANCHOR",
+      "sentences": "What's up, Kasie? You're going to put me on after Richard Simmons? How am I supposed to follow that?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:00",
+      "speaker": "HUNT",
+      "sentences": "You can't compete. None of us can.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:00",
+      "speaker": "WIRE",
+      "sentences": "Good to see you.This dunk -- Anthony Edwards flew through the air like a mythical Greek god. He reached up and rained down with Zeus's thunder. The wrath of berries (ph) but not Aphrodite because he showed no love to Utah's John Collins. Ant Man been throwing down for years but last night -- whoo, buddy. Anthony Edwards diabolical. He sent John Collins straight to see Hades. You can't do that to that man. He has a family, people who love him. KFAN radio on the call. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:00",
+      "speaker": "KFAN RADIO ANNOUNCER",
+      "sentences": "It's another Keyonte George turnover. Ed goes up for the dunk and thunder-slams it in traffic over John Collins. That was sick. He took off, launching himself to the iron.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:00",
+      "speaker": "WIRE",
+      "sentences": "Are posters still a thing because this is one?Edwards dropping 32 points in a 10-point win. But all we want to know about is that dunk and his reaction was as good as the dunk itself. Watch this. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "We've got a monitor right here and you're going to talk us through what happened on that -- on that dunk. There we go.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:00",
+      "speaker": "ANTHONY EDWARDS, GUARD, MINNESOTA TIMBERWOLVES",
+      "sentences": "Oh my God. Hey, that's the best dunk of my career. I'm not going to lie. That's -- oh --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "You've had some good ones.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:00",
+      "speaker": "EDWARDS",
+      "sentences": "Oh, oh, oh. I didn't even react because I dislocated my finger. You see it?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "On your left -- on your left hand, too.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:00",
+      "speaker": "EDWARDS",
+      "sentences": "Yeah. I couldn't react to it. I wish I could have reacted to it.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:00",
+      "speaker": "WIRE",
+      "sentences": "All right. If it weren't for Edwards, Jalen Johnson's name would have been in the running for best dunk. Opening seconds against the Lakers, the Hawks' 22-year-old big man soaring and spreading his wings, putting the Jordan logo right on Austin Reaves' face. Wrong place, wrong time for Mr. Reaves and he didn't seem very excited to talk about the facts afterwards.(BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:00",
+      "speaker": "REPORTER",
+      "sentences": "What happened on that first play? AUSTIN REAVES, GUARD, LOS ANGELES LAKERS",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:00",
+      "speaker": "REPORTER",
+      "sentences": "Nobody had your view.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:00",
+      "speaker": "REAVES",
+      "sentences": "They don't want my view.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:55:00",
+      "speaker": "NIKI MEDVED, HEAD COACH, COLORADO STATE RAMS",
+      "sentences": "For us, we try to compare a panda bear to a cockroach. And again, without getting into the weeds here, a panda lives in only a certain region of the world, a certain climate. They only eat one kind of food. Their environment has to be perfect for them to survive.And then you take a cockroach, on the other hand. You've been around them. Those guys can live through anything. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:55:00",
+      "speaker": "WIRE",
+      "sentences": "You did go deep into the weeds, Coach. But hey, I'm inspired. I'm going to go on take you on this like a cockroach.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:55:00",
+      "speaker": "HUNT",
+      "sentences": "He did get into the weeds. Not wrong about the pandas, I guess, but you know -- they're, you know -- anyway, play like a cockroach, I guess.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:55:00",
+      "speaker": "WIRE",
+      "sentences": "There you go.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:55:00",
+      "speaker": "HUNT",
+      "sentences": "Coy, thank you. I really appreciate it. WIRE",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

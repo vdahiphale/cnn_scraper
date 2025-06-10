@@ -1,0 +1,445 @@
+{
+  "date": "2023-03-23",
+  "headline": "CNN Newsroom",
+  "subHeadline": "U.S. Fed Raises Interest Rates A Quarter Point; At Least One Killed, 34 Injured In Zaporizhzhia Strikes; French Unions Calling For Nationwide Strike On Thursday; TikTok CEO To Testify On U.S. House Committee Meeting; Human Rights Groups Condemning New Legislation. Aired 12-1a ET",
+  "utterances": [
+    {
+      "timeStamp": "00:00:18",
+      "speaker": "JOHN VAUSE, CNN ANCHOR",
+      "sentences": "Hello everyone, I'm John Vause. Ahead here on CNN NEWSROOM.The end may be naive (PH), the U.S. Fed raises interest rates but makes no explicit mention of any need for future increases. Cities across Ukraine hit by multiple Russian airstrikes, many targeting residential areas and civilian infrastructure. And heavy is the head that wears the crown. French President Emmanuel Macron speaking out on the burden of raising the retirement age, someone's got to do it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:00:18",
+      "speaker": "ANNOUNCER",
+      "sentences": "Live from CNN Center, this is CNN NEWSROOM with John Vause.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:00:18",
+      "speaker": "VAUSE",
+      "sentences": "For the 9th time in just over a year, the U.S. central bank has raised official interest rates now at the highest level since late 2007.But this increase comes amid turmoil within the banking sector. Seen as a clear sign Fed Chairman Jerome Powell is determined to stay the course in his never ending quest to bring down inflation. The Fed increased the official key rate by a quarter of a point on Wednesday. Well, that came to most as no surprise. The U.S. financial markets did not respond well. The Dow was down more than 500 points, the NASDAQ and the S&amp;P each lost more than 1-1/2 percent. Let's take a look at how markets in the Asia Pacific region are faring right now. The Nikkei is down a quarter of one percent, Hong Kong up by three quarters of one percent. Shanghai basically flat and Seoul KOSPI also flat as well. Fed Chairman Powell said the banking system is sound and resilient. He rejected calls for a pause in rate hikes. Notably a statement by the Fed did not explicitly refer to any future rate hikes, instead saying further increases may be needed. More now from CNN's Rahel Solomon. (BEGIN VIDEOTAPE) RAHEL SOLOMON, CNN BUSINESS CORRESPONDENT (on camera): One says Fed announcement concludes, perhaps one of the most important Fed meetings in recent history. That's because while inflation is still a major concern, as of two weeks ago, so was bank instability. Federal Reserve Chair Jerome Powell announced that the Federal Reserve would be raising rates another quarter of a percent as most expected they would. He also reiterated what we've heard a lot from the Biden administration since the fall of Silicon Valley Bank on March 10th, that Americans should feel confidence in the banking system.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:00:18",
+      "speaker": "JEROME POWELL, CHAIRMAN, FEDERAL RESERVE",
+      "sentences": "I guess our view is that the banking system is sound, and it's resilient, it's got strong capital and liquidity. We took powerful actions with Treasury and the FDIC, which demonstrate that all depositors' savings are safe, and that the banking system is safe.Deposit flows in the banking system have stabilized over the last week. And the last thing I'll say is that we've undertaken -- we're undertaken a thorough internal review that will identify where we can strengthen supervision and regulation. SOLOMON (voice over): Since March 2022, the Fed has raised rates an extraordinary amount of 475 basis points, or 4.75 percent, including this meeting. Now, when the Fed raises rates, it makes borrowing more expensive for us consumers which leads to less spending, which ultimately brings down prices. But higher rates also makes existing treasury bonds less valuable. And that can create issues for banks that are holding a lot of these bonds if they need to sell them anytime in the near future. That's part of what happened to SVB. And there's also fear of banking concerns grow, another bank could also fall to that's the tightrope for the Fed to walk. This widespread debate about whether the Fed can walk the walk and talk the talk. Essentially, can they strike a balance and do both things simultaneously? Prevent further damage with the banks, but also address inflation. SOLOMON (on camera): Rahel Solomon, CNN, New York, (END VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:00:18",
+      "speaker": "VAUSE",
+      "sentences": "Joining us now is Catherine Rampell, CNN Economics and Political commentator, as well as a Washington Post opinion writer. Good to have you with us.CATHERINE RAMPELL, CNN ECONOMICS AND POLITICAL COMMENTATOR (on camera): Great to be here.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:00:18",
+      "speaker": "VAUSE",
+      "sentences": "OK. So this one quarter of one percent increase in rates by Jerome Powell, essentially the best outcome because any higher could spark increase fears over inflation, and a lower would indicate problems that the banking sector may have been even in more serious trouble than we've been told.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:00:18",
+      "speaker": "RAMPELL",
+      "sentences": "I think that was the strategy for Fed officials certainly that they were worried that if they paused rates outright, which a lot of people were calling for, because of fragility in the banking system, that might signal concern over fragility in the banking system. And maybe that signal would swamp whatever the, you know, more gentle effect they intended to have would have.If they raised rates more, say a half a percentage point, which is what the expectation had been before all of this bank turmoil that could be tightening too much. And actually, put stress on the financial system. So, this was their way of splitting the baby. In some ways, nobody's happy. But in some ways, I think this might have been the only option available.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:00:18",
+      "speaker": "VAUSE",
+      "sentences": "Maybe the Goldilocks increase, perhaps not too hot, not too cold.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:00:18",
+      "speaker": "RAMPELL",
+      "sentences": "Goldilocks, sure. That's much more positive.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:05:04",
+      "speaker": "POWELL",
+      "sentences": "We no longer state that we anticipate that ongoing rate increases will be appropriate to quell inflation. Instead, we now anticipate that some additional policy firming may be appropriate.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:05:04",
+      "speaker": "VAUSE",
+      "sentences": "Is he saying what I think he's saying?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:05:04",
+      "speaker": "RAMPELL",
+      "sentences": "I don't think he is. In fact, I think what he -- I think what he's saying is that they are monitoring economic and financial conditions to decide which way to err, right? Do they err on the side of more tightening to tackle inflation? Meaning that they raise interest rates more, because they're worried about price growth still being out of control. Or do they raise rates a little bit less aggressively than they might have otherwise because they're worried about a recession.So, I think that's what he's communicating there. He's saying, we're going to watch what the data does as it comes in, he keeps on using this term data dependent, the Fed is data dependent, and they are going to try to calibrate policy, depending on which risk they think is more dire at any given moment, is the risk inflation, is the risk recession slash financial turmoil. So, I think actually this is not a great situation to be in, where they have to maintain so much uncertainty about what their outlook is, and about what their likely trajectory is because they don't know where the economy -- the economy is going to end up.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:05:04",
+      "speaker": "VAUSE",
+      "sentences": "Well, thanks for the clarification, because I know what he's about to say here is not really good news. Here's Jerome Powell one more time, here he is.(BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:05:04",
+      "speaker": "POWELL",
+      "sentences": "We remain committed to bringing inflation back down to our two percent goal, and to keep longer term inflation expectations well anchored.Reducing inflation is likely to require a period of below trend growth, and some softening in labor market conditions. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:05:04",
+      "speaker": "VAUSE",
+      "sentences": "Those feel like a red flag to avoid for Democratic Senator Elizabeth Warren. This is what she had to say in response to that.(BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:05:04",
+      "speaker": "JAKE TAPPER, CNN ANCHOR",
+      "sentences": "Do you think the United States is headed for a recession?SEN. ELIZABETH WARREN (D-MA): I think that that is where Jerome Powell is trying to drive it. And he's got two different ways --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:05:04",
+      "speaker": "TAPPER",
+      "sentences": "You think he's purposely trying to drive it to a recession?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:05:04",
+      "speaker": "WARREN",
+      "sentences": "Well, what he's trying to do is get two million people laid off.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:05:04",
+      "speaker": "VAUSE",
+      "sentences": "Is he really trying to do that? Was he trying to have a soft landing and have it both ways?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:05:04",
+      "speaker": "RAMPELL",
+      "sentences": "No, he is trying to have a soft landing by which is usually meant not a recession, getting inflation wrung out of the economy without putting a lot of people out of work.Now, it would be really nice if we could get that outcome. But that outcome is not guaranteed. What Powell, among others at the Fed have tried to communicate is in order to get inflation down, and to get price growth back to its long term target of two percent, that may require some tradeoffs, including potentially some layoffs, potentially some weakening of the economy, they obviously don't want those things to happen. But again, you know, there's no free lunch here. Whatever they do, will have some negative consequences on that. Now, I don't know if they're right. It may be the case that we can get inflation out of the system without more rate hikes. But I think the path of policy and the path of inflation that we've seen so far suggests that that will be challenging. That soft landing, you know, is definitely hoped for, it is possible, but it is not guaranteed. And there may be pain that results from that, but the Fed is certainly not seeking out that pain. They are trying to sort of manage the best of a bunch of bad options.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:05:04",
+      "speaker": "VAUSE",
+      "sentences": "Catherine, thanks so much. Really appreciate the explanation and your insights and analysis. Great to be with us.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:05:04",
+      "speaker": "RAMPELL",
+      "sentences": "Thank you. Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:10:15",
+      "speaker": "VAUSE",
+      "sentences": "Matthew Schmidt is an associate professor of national security and political science at the University of New Haven. He was part of a small team tasked with reforming U.S. intelligence in the wake of the 9/11 terror attacks. As always, Matthew, it's good to have you with us.MATTHEW SCHMIDT, DIRECTOR OF INTERNATIONAL AFFAIRS, UNIVERSITY OF NEW HAVEN (on camera): My pleasure.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:10:15",
+      "speaker": "VAUSE",
+      "sentences": "OK, so here's President Zelenskyy speaking in Kharkiv on the latest deadly Russian strike, here he is.(BEGIN VIDEO CLIP) VOLODYMYR ZELENSKYY, UKRAINIAN PRESIDENT (through translator): We will certainly respond to every blow of the occupiers on our cities. Today's Russian strikes in Zaporizhzhia, the nightly attack on the Kyiv region, all Russian strikes will receive a military, political and legal response. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:10:15",
+      "speaker": "VAUSE",
+      "sentences": "It's even worth mentioning at this point that these Russian drone attacks on civilians which killed civilians are killing day after Moscow was calling for peace.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:10:15",
+      "speaker": "SCHMIDT",
+      "sentences": "Yes, it needs to be mentioned every time and it needs to be called out every time that they are war crimes. And that's exactly what Zelenskyy is saying.Every one of these attacks on every Ukrainian citizen is going to be called back, it's going to have a response, whether that response is military or legal or political. That's what he's saying, is we cannot become inured to it, we have to call it out every single time.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:10:15",
+      "speaker": "VAUSE",
+      "sentences": "But this bizarre juxtaposition that there is Xi Jinping and Putin in -- you know, in Moscow, in the Kremlin, and they're the peacemakers, and they got the 12 point peace plan, and they're ready for talks, and they're ready for peace. And then this.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:10:15",
+      "speaker": "SCHMIDT",
+      "sentences": "The only way, John, that you can get your head around this, is to understand that in Vladimir Putin's mind, the people that he is fighting in Ukraine are not human beings, right? He's fighting for Russians that he sees as Russians that happen to live in a territory of a country that we call Ukraine, and he sees everybody else as Nazis, as not human beings.And so, in that universe of his mind, what he's doing makes sense. In that universe, He can say he's fighting for peace by killing people in Ukraine, right? And then stand up and wave the peace plan. But unless you're inside his head in that way, unless you've let go, right, of our standards of things, it will not make sense. But it's important to remember that it does make sense that there is in fact, a logic to it. And then Putin is in fact, following the logic, which is to say, he's not insane and he's not crazy. Because if we think he's insane, or we think that he's crazy, then we will misunderstand what he's willing to do to carry out this logic, however twisted it is.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:10:15",
+      "speaker": "VAUSE",
+      "sentences": "Zelenskyy was talking on the same day, he met with soldiers around the Bakhmut area, which is now the epicenter of conflict right now. How important was it for Zelenskyy to make that trip, given the fact that Putin was in the Russian occupied Ukrainian city Mariupol just a few days earlier?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:10:15",
+      "speaker": "SCHMIDT",
+      "sentences": "I think it was enormously important symbolically that he showed up there, relatively close to where Mariupol is anyway. And to say, you're not coming into my territory, I'm going to go into, you know, into your territory. So you claim it here into a much more dangerous situation. And I'm going to, you know, puff my chest out and say what you did wasn't brave in Mariupol. But what I'm doing here is and my people are and we will win, because we're basically braver than you are. It's incredibly, incredibly important for him to do that for his own people.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:15:08",
+      "speaker": "VAUSE",
+      "sentences": "Recovering and reconstruction from all that devastation at least will be a little easier. There's this loan package which has come from the IMF, it's worth almost $16 billion. It's the first time a country of war has actually received an IMF loan package.And notably, the staff level agreement reflects the IMF continued commitment to support Ukraine. And is expected to help mobilize large scale concessional financing from Ukraine's international donors and partners over the duration of the program. That's an important comment by the IMF because one of the reasons why Ukraine is getting this money in the first place, is because it's showing transparency, good governance and a degree of success in ending corruption, which will then hopefully bring further loans and donations from other international donors.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:15:08",
+      "speaker": "SCHMIDT",
+      "sentences": "That's right, this is critically important because it buys Ukraine another year, it takes away the strategic hammer that Putin has been using right now, which is that it could bankrupt Ukraine, if it goes through another year of you know, 30 percent contraction in GDP. And this takes that away for at least you know, this period of time.It's also important because it shows that all of those firings, right? And everything we've been reading about the corruption in Zelenskyy's administration that he's been getting rid of, right? That that's working. It's working well enough that the IMF has agreed to do this. In fact, probably you wouldn't have the announcement today if those things hadn't happened. Zelenskyy was probably told that he had to do many of those things in order to get to today. So, this is really important to see that this communication and this handshake between Western institutions like the IMF, and the Zelenskyy government is happening so effectively.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:15:08",
+      "speaker": "VAUSE",
+      "sentences": "Matthew is always great to have you with us. Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:15:08",
+      "speaker": "SCHMIDT",
+      "sentences": "My pleasure.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:15:08",
+      "speaker": "VAUSE",
+      "sentences": "Still to come here. The French president digs in and warns the retirement age in France will increase by the end of the year as protest strikes and anger across the country set to escalate.Also, TikTok CEO prepares to defend his business practice to U.S. lawmakers. We'll break down the company's argument in a moment. (COMMERCIAL BREAK)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:20:01",
+      "speaker": "VAUSE",
+      "sentences": "Macron says the new retirement age needs to take effect by the end of the year. There have been weeks of turmoil which has snarled traffic, close schools and piles of rotting garbage now left on the streets.On Wednesday, the far right opposition leader Marine Le Pen accused Macron of turning his back on the French people. Here she is. (BEGIN VIDEO CLIP) MARINE LE PEN, LEADER, NATIONAL RALLY PARTY (through translator): He says that he respects the protesters but he insults them. And he insults all French people in general. All those who in virtue of respect of the Constitution are protesting including those who are protesting peacefully or those who are respecting the Constitution and are going on strike. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:20:01",
+      "speaker": "VAUSE",
+      "sentences": "More details now from CNN's Melissa Bell reporting in from Paris.(BEGIN VIDEOTAPE) MELISSA BELL, CNN CORRESPONDENT (voice over): The protests have been unplanned. The scuffles almost nightly ever since the French government announced it would push its pension reform through Parliament without a vote. French lawmakers in uproar as well last Thursday as the announcement was made. The government narrowly surviving two no confidence votes on Monday with the retirement age in France now one step closer to being raised from 62 to 64. MACRON (through translator): We will not tolerate any flare ups. We will make sure that life is as normal as possible in spite of those who are blocking normal life.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:20:01",
+      "speaker": "BELL",
+      "sentences": "But since the start of the year, there have been demonstrations and strikes across the public and private sector. 10,000 tons of garbage now piled high on the streets of Paris.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:20:01",
+      "speaker": "MAHER TEKAYA, SENIOR OFFICIAL, CFDT UNION",
+      "sentences": "What is sure that it was the biggest social movement we had since the beginning of the 80s. And sure, it's quite complicated. A lot of people went into strike even if it was hard in the current condition to go on strike to lose a day of wage, but probably this is pointing out other problems too come. BELLMelissa Bell, CNN, Paris. (END VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:20:01",
+      "speaker": "VAUSE",
+      "sentences": "Caught the party gate hangover, which has now put Boris Johnson's political future in peril. For three hours Wednesday, British lawmakers grilled the former Prime Minister essentially asking him if he was a liar over multiple alcohol fueled knees up held during the COVID lockdowns under his watch.One of the many scandals, but the most important one that led to his oust last year. And at Wednesday's hearing, Johnson tried his best to defend his actions. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:20:01",
+      "speaker": "BORIS JOHNSON, FORMER BRITISH PRIME MINISTER",
+      "sentences": "I'm here to say to you hand on heart that I did not lie to the house. When those statements were made, they were made in good faith and on the basis of what I honestly knew and believed at the time, I apologize.I apologize for inadvertently misleading this house. But to say that I did it recklessly or deliberately is completely untrue as the evidence shows. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:25:05",
+      "speaker": "COREN",
+      "sentences": "Chew there appealing to the 150 million American TikTok users. Now, TikTok collects roughly the same amount of data as Facebook or Twitter. But it's the links with the Chinese government that everyone is worried about.The FBI director, as well as the head of the U.S. National Security Agency who both said that TikTok could be a valuable tool for China to shape public opinion in regards to election, policymaking, even in the event of a potential war over Taiwan. Now, the Biden administration says the only way for TikTok to continue operating in the U.S. is if its Chinese owner sell their stake in the company. That John is highly unlikely according to analysts because the Chinese government views TikTok's technology as sensitive and critical to Chinese national interests. Now since 2020, the Chinese government has taken steps to ensure that it can veto any sale by ByteDance. Now, John, I should mention that to date, there is no evidence that Beijing has used TikTok's data for intelligence or other purposes but the big but, the deep mistrust obviously between China and the U.S. The awareness of Chinese espionage has certainly heightened fears of what TikTok represents, John.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:25:05",
+      "speaker": "VAUSE",
+      "sentences": "Square that circle I should say.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:25:05",
+      "speaker": "COREN",
+      "sentences": "I know what you're saying.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:25:05",
+      "speaker": "VAUSE",
+      "sentences": "I get a headache. And you ask the people at Yahoo how that works for them without handing over their data to the Chinese government.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:25:05",
+      "speaker": "COREN",
+      "sentences": "Yes, exactly.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:25:05",
+      "speaker": "VAUSE",
+      "sentences": "Anna Coren, thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:25:05",
+      "speaker": "COREN",
+      "sentences": "Good to see you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:25:05",
+      "speaker": "VAUSE",
+      "sentences": "You too. Cheers.When we come back, a warning from the White House to Uganda over its strict anti-LGBTQ Plus bill, there could be an economic price to pay if that bill becomes a law. Details in a moment. (COMMERCIAL BREAK)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:30:09",
+      "speaker": "VAUSE",
+      "sentences": "The U.N. is warning this legislation will undermine efforts to stop the spread of HIV. CNN's Larry Madowo now has details.(BEGIN VIDEOTAPE) (SINGING) LARRY MADOWO, CNN INTERNATIONAL CORRESPONDENT (voice-over): Joyous scenes in Uganda's Parliament on Tuesday after lawmakers passed a sweeping anti-LGBTQ bill.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:30:09",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Our country will only have --MADOWO (voice-over): Same-sex relations were already illegal in the conservative, East African country, with convicts risking a life sentence. Now, legislators have taken it one step further.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:30:09",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "(UNINTELLIGIBLE)MADOWO (voice-over): Anyone who identifies as lesbian, gay, bisexual, transgender or queer now faces up to 20 years in jail and the death penalty for, quote, \"aggravated homosexuality,\" a broad term used in the legislation to define same-sex intercourse with children or disabled people, rape or incest. Supporting lawmakers saying their aim is to, quote, \"Protect our Christian culture and traditional family values.\"",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:30:09",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "What we have done really is for the people of Uganda. It is viewed (ph) us as individuals.MADOWO (voice-over): And some had quite a flippant attitude towards the issue.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:30:09",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "There is nothing so sweet and so good for a man more than a woman.MADOWO (voice-over): Only a few lawmakers disagreed.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:30:09",
+      "speaker": "RACHEL MAGOOLA, UGANDAN LAWMAKER",
+      "sentences": "I do not agree with homosexuality in principle. But I don't agree with criminalizing it.MADOWO (voice-over): The United Nations called the law among the worst of its kind in the world and its passing a deeply troubling development. Human rights campaigners in Uganda have condemned the move, calling it barbaric and unconstitutional. Ugandan rights activists vowing to fight back. A human rights lawyer in Kampala told CNN that, quote, \"This regressive and draconian law promotes hatred and discrimination and institutionalizes homophobia.\"",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:30:09",
+      "speaker": "MADOWO",
+      "sentences": "Homosexuality is illegal in more than 30 of Africa's 55 nations, and Uganda's move is just the latest in a series of setbacks for LGBTQ+ rights here in the continent.MADOWO (voice-over): The legislation now waits for the Ugandan president's signature.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:30:09",
+      "speaker": "YOWERI MUSEVENI, UGANDAN PRESIDENT",
+      "sentences": "The homosexuals are deviations from normal.MADOWO (voice-over): And no one is expecting a surprise from him. Larry Madowo, CNN. (END VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:30:09",
+      "speaker": "VAUSE",
+      "sentences": "An urgent warning from the United Nations about an imminent global water crisis. Water access is already a big problem across the world. According to a U.N. report released Wednesday, water consumption has increased 1 percent every year over the last 40 years.Two billion people do not currently have access to safe drinking water. Three point six billion have access to safely-managed sanitation. Population growth, pollution, prolonged droughts fueled by climate change are making this problem even worse. Here's the U.N. secretary-general. (BEGIN VIDEO CLIP) ANTONIO GUTERRES, U.N. SECRETARY-GENERAL: Water is a human right. And the common development illuminated (ph) to shape a better future. But water is in deep trouble. We are draining humanity's lifeblood through vampiric overconsumption and unsustainable use, and evaporating it through global heating. We have broken the water cycle, destroyed ecosystems, and contaminated ground waters. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:30:09",
+      "speaker": "VAUSE",
+      "sentences": "The report estimates by 2050, the number of people in cities facing water scarcity is projected to nearly double, to up to 2.4 billion.And with Wall Street investment firms buying out remote farmland in the Western U.S., many are becoming increasingly concerned they're planning to take advantage of coveted water rights, making millions when drought forces water prices through the roof. CNN's Lucy Kafanov reports. (BEGIN VIDEOTAPE) LUCY KAFANOV, CNN CORRESPONDENT (voice-over): Cibola, Arizona, is a place few are likely to have heard of. Home to some 300 people, this windswept community is a tiny oasis in the Sonoran Desert, sustained by water from the Colorado River. But this rural corner of the American West has caught the eye of East Coast investors. Much of this farmland now belongs to Greenstone, a subsidiary of the financial services conglomerate Mass Mutual.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:30:09",
+      "speaker": "KAFANOV",
+      "sentences": "So what does an investment firm want with farmland like this?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:30:09",
+      "speaker": "HOLLY IRWIN, LA PAZ COUNTY SUPERVISOR",
+      "sentences": "They want it for the water. They want it to make money, you know, off the water rights that are attached to the land. c La Paz County supervisor Holly Irwin is fighting Greenstone's recent sale of Cibola water to a growing Phoenix suburb more than 200 miles away.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:35:01",
+      "speaker": "KAFANOV",
+      "sentences": "Wall Street firms have been snapping up properties up and down the Colorado River, not so much for the land but rather for its precious water rights. It's a growing interest in an increasingly scarce natural resource, with investors betting big on a major pay- off.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:35:01",
+      "speaker": "MATT DISERIO, PRESIDENT, WATER ASSET MANAGEMENT",
+      "sentences": "It's a trillion- dollar market opportunity.KAFANOV (voice-over): Matt DiSerio is president off Water Asset Management, an investment firm headquartered in this New York City building, which has also been buying water rights in states along the Colorado River. DiSerio describes its strategy in 2020 interviews with Institutional Real Estate and FinTech TV.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:35:01",
+      "speaker": "DISERIO",
+      "sentences": "Water, we believe, is the resource that is defining the 21st Century, much like oil defined the last century.KAFANOV (voice-over): The company did not respond to CNN's specific inquiries, issuing a statement that said it was proud of its investments and will \"manage assets in a manner that contributes to solutions to water scarcity.\"",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:35:01",
+      "speaker": "TRAVIS LINGENFELTER, MOJAVE COUNTY COMMISSIONER",
+      "sentences": "They come out West. They purchase and pick up cheap, rural, agricultural land. They sit on it for a little while. And then they're trying to sell the water.KAFANOV (voice-over): Mojave County Commissioner Travis Lingenfelter says a number off large East Coast investment firms are trying to get in on the action. His is one of three Arizona counties that sued the federal government to block the Cibola water transfer.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:35:01",
+      "speaker": "LINGENFELTER",
+      "sentences": "If they're coming after a portion of our only water supply on the river for many of our communities, we have to fight it. ANDY MUELLER, GENERAL MANAGER, COLORADO RIVER DISTRICTKAFANOV (voice-over): Andy Mueller is tasked with helping to protect Colorado's share of the river and says the full scale of the land purchases is difficult to track, because investment firms use different names to disguise ownership.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:35:01",
+      "speaker": "MUELLER",
+      "sentences": "It's a very unpopular move to come from New York and invest in real estate and irrigated agriculture, with the intent to dry it up and watch it blow away. It's all about making money.KAFANOV (voice-over): Under a pilot program, the federal government has dedicated $125 million in drought relief funds to pay Colorado River farmers and ranchers to conserve water by not growing crops on their land. Something former state senator Kerry Donovan worries investment firms will take advantage of.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:35:01",
+      "speaker": "KERRY DONOVAN, FORMER STATE SENATOR",
+      "sentences": "That's why I think we start to see this investment speculation, these outside land holders, get big dollars to grow nothing. And that's when we start to see farm and ranchers go away.KAFANOV (voice-over): Her efforts to strengthen the state's anti- speculation laws failed, leaving her and other ranchers worried about how Wall Street will influence their future.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:35:01",
+      "speaker": "DONOVAN",
+      "sentences": "It's not their land. It's not their legacy. It's their bottom line, and they're -- by law, they're responsible to make money for their clients.My family's brand is on the barn behind me. This is my family's land. It's our legacy. We work to keep it this way. That's a totally different mentality than a New York investment firm. KAFANOV (voice-over): Lucy Kafanov, CNN, Western Colorado. (END VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:35:01",
+      "speaker": "VAUSE",
+      "sentences": "Still to come on CNN, Britain's Prince William makes an unannounced trip to Poland, meeting British soldiers near the Ukrainian border.(COMMERCIAL BREAK) (BEGIN VIDEO CLIP) (ROCKET ENGINES)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:35:01",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Lift-off.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:35:01",
+      "speaker": "VAUSE",
+      "sentences": "You're looking at what's believed to be the world's first launch of a 3-D-printed rocket.Terran 1 blasted off from Cape Canaveral in Florida Wednesday night, but engine failure shortly after launch meant the vehicle failed to reach orbit. The rocket was powered by super-chilled methane and oxygen. Methane. And the company behind the launch says, well, it's a milestone. It's unclear how long it will take to right a large ship that tipped over at the port of Edinburgh in Scotland. Scottish officials say gale-force winds dislodged the ship from dry dock early Wednesday morning. We show the ship, identified as the research vessel Petrel, tipped to the side at a 45-degree angle. Thirty-three people were hurt. The 66-meter, 3,000-ton ship became famous in recent years after discovering a number of long-lost shipwrecks. Now, Petrel has been in long-term mooring since 2020. Kind of a shipwreck itself. Britain's Prince William has made a rare, unannounced trip to Poland. He met troops stationed at the Ukrainian-Polish border. The royal family has been unusually forthright about the war, offering its support to Ukraine on numerous occasions. CNN's Max Foster reports now from Warsaw. (BEGIN VIDEOTAPE) MAX FOSTER, CNN INTERNATIONAL CORRESPONDENT (voice-over): When you walked through Warsaw today, you're almost as likely to hear a Ukrainian conversation as you are a Polish one. More than 10 million Ukrainians have crossed over the border to Poland, with at least one and a half million refugees still remaining here. They've been fully integrated, including access to public services, such as hospitals and schools. If they can't find accommodation, local people take them in. Or they're given beds in centers like this one, in a converted office block, visited by the Prince of Wales. He said he wanted to come here to pay tribute to the inspiring humanity of the Polish people. Under immediate blackout, he also went to thank Polish and British troops, working together in the Southeast of the country. He recognized how they were supporting the people of Ukraine and their freedom, which he noted were also our freedoms.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:35:01",
+      "speaker": "WILLIAM, PRINCE OF WALES",
+      "sentences": "You have a really important job out here. And defending our freedoms is really important. Everyone back home is very supportive.FOSTER (voice-over): Words verging on the political. But the royal family have been unequivocal in their support for Ukraine throughout. FOSTER: On Thursday, Prince William lays a wreath at the Tomb of the Unknown Soldier here in Warsaw. And he meets with President Duda to, in his words, underline his continued support and gratitude to the Polish people. Max Foster, CNN, Warsaw, Poland. (END VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

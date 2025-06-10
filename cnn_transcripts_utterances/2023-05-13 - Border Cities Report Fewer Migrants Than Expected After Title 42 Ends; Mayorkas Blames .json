@@ -1,0 +1,613 @@
+{
+  "date": "2023-05-13",
+  "headline": "CNN This Morning",
+  "subHeadline": "Border Cities Report Fewer Migrants Than Expected After Title 42 Ends; Mayorkas Blames Congress and Humanitarian Crisis At Southern Border; Migrants Face Harsher Penalties Under Title 8 Rules; Daniel Penny Surrenders To New York City Police Friday. Aired 7-8a ET",
+  "utterances": [
+    {
+      "timeStamp": "07:00:00",
+      "speaker": "VICTOR BLACKWELL, CNN ANCHOR",
+      "sentences": "It's an important issue for the country. One consumer group says that the average Italian eats about 51 pounds of pasta each year. That's about the same weight as a piece of checked luggage allowed on the flight.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:00",
+      "speaker": "AMARA WALKER, CNN ANCHOR",
+      "sentences": "That sounds about right. That's how much I eat. I can't live without pasta. Oh my gosh.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:00",
+      "speaker": "BLACKWELL",
+      "sentences": "I don't do a lot of pasta.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:00",
+      "speaker": "WALKER",
+      "sentences": "You don't know.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:00",
+      "speaker": "BLACKWELL",
+      "sentences": "Yes, I don't.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:00",
+      "speaker": "WALKER",
+      "sentences": "Carbs, bread, and pasta. I wish -- you know, if I were born Italian, I would have been --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:00",
+      "speaker": "BLACKWELL",
+      "sentences": "Bread, yes. Pasta, no. That's so much.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:00",
+      "speaker": "WALKER",
+      "sentences": "Interesting.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:00",
+      "speaker": "BLACKWELL",
+      "sentences": "Next hour of CNN THIS MORNING starts right now.Good morning. Good morning to you. Welcome to CNN THIS MORNING. It is Saturday, May 13th. I'm Victor Blackwell.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:00",
+      "speaker": "WALKER",
+      "sentences": "And I'm Amara Walker. How could you not prefer pasta?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:00",
+      "speaker": "BLACKWELL",
+      "sentences": "You're still on the pasta?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:00",
+      "speaker": "WALKER",
+      "sentences": "It's like my comfort food.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:00",
+      "speaker": "BLACKWELL",
+      "sentences": "Yes, I just --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:00",
+      "speaker": "WALKER",
+      "sentences": "Do you like pasta?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:00",
+      "speaker": "BLACKWELL",
+      "sentences": "I mean, I can eat it. It's not like I'm going to, you know.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:00",
+      "speaker": "WALKER",
+      "sentences": "You could eat it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:00",
+      "speaker": "BLACKWELL",
+      "sentences": "I'm going to kick it out a bit, but I wouldn't invite it in. Let's just say that.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:00",
+      "speaker": "WALKER",
+      "sentences": "But bread.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:00",
+      "speaker": "BLACKWELL",
+      "sentences": "Bread.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:00",
+      "speaker": "WALKER",
+      "sentences": "Why -- I do get bread. They go hand in hand. All right, here's what we're watching this morning. City leaders along the U.S.-Mexican border say they are bracing for an influx of migrants after the COVID- era border policy known as Title 42 expired this week. CNN is with migrants on the Mexican, Mexican side of the border as they attempt to make it into the U.S.(BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "We're closer now to justice than we were a week ago. Because Daniel Penny has been arrested.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:00",
+      "speaker": "BLACKWELL",
+      "sentences": "The ex-marine accused of holding Jordan Neely in a fatal chokehold surrendered to police and face to jury -- a judge, Friday, I should say. The charges he's now facing and why lawyers for nearly his family say they are not enough.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:00",
+      "speaker": "WALKER",
+      "sentences": "Negotiations continue this weekend as lawmakers work to hammer out a deal to avoid the U.S. defaulting on its debt. We're going to break down the real-world consequences of the defaults including the impacts to millions of federal workers paychecks.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:00",
+      "speaker": "BLACKWELL",
+      "sentences": "Plus, Elon Musk hires a new CEO of Twitter after months of turmoil as head of the company what's likely to change and what's not.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:00",
+      "speaker": "WALKER",
+      "sentences": "And we begin this morning at the southern border where communities say they are seeing fewer-than-expected migrants trying to enter the U.S. after the end of Title 42. And the Biden administration is vowing tougher consequences for migrants who try to enter the country illegally.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:00",
+      "speaker": "BLACKWELL",
+      "sentences": "But U.S. officials feared the situation could still become a crisis. A federal judge blocked the administration from using a policy that would release migrants from U.S. custody on parole. Now, the parole strategy was designed to alleviate overcrowding at border facilities ahead of a potential surge.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:00",
+      "speaker": "WALKER",
+      "sentences": "And with tens of thousands of migrants reportedly waiting in Northern Mexico to cross into the U.S., Homeland Security Secretary Alejandro Mayorkas says his department desperately needs more resources. And he's urging Congress to do something about the flawed immigration system.(BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:00",
+      "speaker": "ALEJANDRO MAYORKAS, DHS SECRETARY",
+      "sentences": "The two primary constraints are as follows(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:00",
+      "speaker": "BLACKWELL",
+      "sentences": "CNN's David Culver is in Juarez, Mexico with more.(BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:05:03",
+      "speaker": "CULVER",
+      "sentences": "Most every migrant we've spoken with has told us that they are on their own schedule when it comes to crossing over into the U.S. They're not going to try to follow any sort of deadline for any U.S. policy but rather what works best for their individual cases.That said, all of them share the same goal, and that is to eventually cross. Most of them tell me legally, but others say they're willing to do it however, so long as they can ultimately get to the U.S. David Culver, CNN Ciudad Juarez, Mexico.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:05:03",
+      "speaker": "BLACKWELL",
+      "sentences": "All right, David, thank you for that report. And migrants sent -- and sleeping outside are waiting in long lines to cross the U.S.-Mexican border, they will face a deluge of rain today.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:05:03",
+      "speaker": "WALKER",
+      "sentences": "From torrential downpours to even flash flooding. Weather conditions are going to be harsh across nearly the entire state of Texas. CNN is Allison Chinchar joining us now with more. What can we expect there?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:05:03",
+      "speaker": "ALLISON CHINCHAR, CNN METEOROLOGIST",
+      "sentences": "Right. And it's not just the rain, too. I want to talk about the lightning because that is equally as dangerous, equally deadly, and look at how much lightning you have with all of these thunderstorms right now across portions of Texas. And it's not just one area -- you've got several clusters here, bringing some very intense strong to severe thunderstorms across this area.And yes, a lot of lightning not only across the border, but also some inland areas: San Antonio, Corpus Christi, a lot of these other areas also dealing with the lightning and thunderstorms. But the rain, look at this map, this is just in the last 24 hours of all the rain. You can see some of these areas, specifically Del Rio down to Laredo area, and then also South Texas, you're talking about two to four inches that has already fallen. Now, we're expecting more today, which is why you have those flood watches in effect, because it's the compounding nature of this. Rain from yesterday. More rain today. More rain the next day. When you look at the total amount of all of that rain, it's going to lead to pretty tremendous, tremendously high amounts. You also have the potential for severe storms not just along the border, but really up to the eastern portion of the state of Texas, also areas of Oklahoma and western portions of Arkansas and Louisiana. The main threats here are going to be damaging winds and the potential for some large hail. But again, a lot of lightning with these storms and its multiple rounds -- that's going to be the thing. Even if you get some morning thunderstorms, it doesn't mean that you're not going to have some in the afternoon or a yet again in the evening. So, you've got several rounds of the showers and thunderstorms. A lot of them pop up in nature. So, it's really hard to determine exactly where they'll pop up. And then in addition to that, you also have the potential for an extra three to five inches of rain on top of what they've already had.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:05:03",
+      "speaker": "WALKER",
+      "sentences": "Oh, gosh, tough situation there. Allison Chinchar, thank you. And although the border remains calm at the moment, a number of U.S. cities there have declared states of emergencies in preparation for a potential surge of migrants in the coming days. For more on this, is Andrew Seele, he is the President of the Migration Policy Institute.Andrew, good morning. Thank you so much for joining us. You know, first off --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:05:03",
+      "speaker": "ANDREW SEELE, PRESIDENT, MIGRATION POLICY INSTITUTE",
+      "sentences": "Good morning, Amara. Good to be with you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:05:03",
+      "speaker": "WALKER",
+      "sentences": "-- officials were bracing, thank you. Officials were bracing for this historic surge of migrants. But what we saw instead was more of I guess, a steady surge of people crossing or trying to cross the border. Do you expect to see a much bigger surge to come in waves or spread out over several months? What do you the impact to be of Title 42 expiring?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:10:39",
+      "speaker": "WALKER",
+      "sentences": "So, what, what do you think of this strategy that then that's being employed by the Biden administration, because it does seem to be a balance of carrots and sticks, right? I mean, the Biden administration is at least trying to also encourage people to, you know, apply legally, provide a legal pathway with these regional processing centers. But at the same time, you've got, you know, Title 8, which is going to turn away migrants if they don't try to apply at least in that third country first.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:10:39",
+      "speaker": "SEELE",
+      "sentences": "That's right, they've got you know -- what they've done is combined a much tougher measure at the border, so many more deportations back to countries of origin, a ban of coming in for five years, a very high bar to get asylum unless you make an appointment in the port of entry, which is hard to get.And but on the other hand, this opportunity to, to apply for protection, or for legal pathways, and they've stretched as far as they can, the number of legal options to come the United States. It's still probably far too, too insufficient for the labor demand in the U.S. and for the demand of people that want to come to the U.S., but they've stretched as far as they can. The centers aren't yet operational, but they're hoping that they'll have them scattered across Latin America later this summer, starting in Colombia, and possibly Guatemala, and then other countries later on. And that people can go into those or actually make a virtual appointment, even see what options they have. If they need protection, you know, get a determination there, get flown to the United States, instead of having to get a smuggler and head up to the border. And if they have other legal options to come into the U.S. or family through work, be able to get a visa right there and then head legally to the border.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:10:39",
+      "speaker": "WALKER",
+      "sentences": "You know, when you hear from the local officials, though, the mayors and the people running those border cities. I mean, they're there already -- they've been feeling overwhelmed for some time. And, you know, they are asking and begging and pleading for federal resources.And, you know, the Biden administration obviously saw this coming for some time now, right? I mean, the lifting of Title 42, the end of this pandemic, this pandemic-era policy. Do you think the, the President could have better prepared for this, at least putting more federal resources in place, months and months ago?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:10:39",
+      "speaker": "SEELE",
+      "sentences": "Yes. I mean, they have put resources into border communities, but it's insufficient. A lot of this planning happened at the last minute. It was, you know, became I think when President Biden started focusing on this, maybe a month, month and a half ago, it started to become a whole of government issue.And so, I'm hopefully you're going to see more resources going to border communities because they need it. And hopefully, more resources, hopefully, Congress is going to put more resources in, you know, to the -- into CBP, into Customs and Border Protection, into Health and Human Services that manages unaccompanied minors, all the agencies that are at the border as well, because they, they need that as well, as well as these, these processing centers in the hemisphere. So, you know, there's a lot of need -- if this system is going to turn around and create fewer incentives for people to come to the border, and more incentives for people to try and apply early and see how they can come to the country before they get a smuggler, that requires the, you know, Congress and administration take this seriously.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:10:39",
+      "speaker": "WALKER",
+      "sentences": "Yes, and Congress to take this seriously as well and find some common ground when it comes to comprehensive immigration reform. Andrew Seele, we're going to leave it there. Thank you very much.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:10:39",
+      "speaker": "BLACKWELL",
+      "sentences": "A New York man who held a homeless street performer in a fatal chokehold is now out on bail. 24-year-old, Daniel Penny, surrendered to police on Friday morning. He's charged with second- degree manslaughter in the death of Jordan Neely last week. CNN's Athena Jones has details.(BEGIN VIDEO CLIP) ATHENA JONES, CNN CORRESPONDENT (voiceover): Daniel Penny, surrendering to face criminal charges and the death of homeless street performer, Jordan Neely. THOMAS KENNIFF, DANIEL PENNY'S ATTORNEY: He did so voluntarily and with the sort of dignity and integrity that is characteristic of his history of service to this grateful nation.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:10:39",
+      "speaker": "JONES",
+      "sentences": "The 24-year-old former Marine, seen in a widely circulated video holding Neely in a chokehold for several minutes on a New York subway on May 1st, now stands accused of second-degree manslaughter for recklessly causing his death. The Manhattan District Attorney's office bringing the charge after numerous witness interviews, a review of photo and video footage and discussions with the medical examiner.The prosecutor telling the court witnesses observed Neely making threats and scaring passengers, adding Penny approached Neely from behind and placed him in the chokehold, taking him down to the ground. When the train arrived at the next stop, Penny continued to hold nearly in the chokehold for several minutes. Two other men helping to restrain his arms. At some point, Mr. Nearly stopped moving, the defendant continued to hold Mr. Neely for a period and then released him. Penny's lawyers argue he risked his own life and safety to protect himself and fellow New Yorkers, resulting in the unintended and unforeseen death of Mr. Neely, adding they're confident Penny will be absolved of any wrongdoing once all the facts are known. Lawyers for the Neely family hailing Penny's arrest.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:10:39",
+      "speaker": "LENNON EDWARDS, NEELY FAMILY ATTORNEY",
+      "sentences": "We're closer now to justice than we were a week ago. Because Daniel Penny has been arrested.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:10:39",
+      "speaker": "JONES",
+      "sentences": "Even as they argued he should be charged with murder.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:10:39",
+      "speaker": "EDWARDS",
+      "sentences": "There was no attack. Mr. Neely did not attack anyone. He did not touch anyone. He did not hit anyone. But he was choked to death. And that can't stand. That can't be what we represent.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:10:39",
+      "speaker": "JONES",
+      "sentences": "Neely's killing sparked days of demonstrations in New York City. With protesters demanding Penny's arrest. Meanwhile, a legal defense fund set up by Penny's supporters had raised more than $400,000 by Friday afternoon.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:10:39",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Daniel, did you do it?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:10:39",
+      "speaker": "JONES",
+      "sentences": "Now, prosecutors must prove their case.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:10:39",
+      "speaker": "JONES",
+      "sentences": "Before being released, Daniel Penny was ordered to turn over any passports he has, and he'll have to ask permission from New York state if he wants to leave the state. His next court date is set for July 17. And Penny faces up to 15 years in prison if convicted. Athena Jones, CNN, New York.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:10:39",
+      "speaker": "BLACKWELL",
+      "sentences": "Thanks, Athena. Negotiations continue this weekend on a plan to keep America from defaulting on its debt. Coming up, we'll explain how a default could impact you, including the risk to your paycheck and 401(K).",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:21:17",
+      "speaker": "BLACKWELL",
+      "sentences": "Talks between the White House and Congressional Staffers continue throughout the weekend as the U.S. inches closer and closer to potentially defaulting on its debt. Now, the Congressional Budget Office on Friday, reinforced Treasury Secretary Janet Yellen is warning that the federal government will no longer be able to pay all of its obligations by the first two weeks of June if Congress does not act. The President Biden and congressional leaders have been negotiating for several days but two sources involved in the talks tell CNN there's still a long way to go.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:21:17",
+      "speaker": "WALKER",
+      "sentences": "New numbers confirm Americans are still concerned about the economy. The University of Michigan released data showing consumers' sentiment tumbled nine percent in May. CNN is Matt Egan walks us through what this data means.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:21:17",
+      "speaker": "MATT EGAN, CNN CORRESPONDENT",
+      "sentences": "Victor and Amara the mood on Main Street is getting even gloomier. U.S. consumer sentiment has tumbled so far this month to a six-month low. That is according to a new survey from the University of Michigan. Now, this survey describes consumers views on the economy as \"dismal.\" Two big things that stand out to me from this reportConsumers have also marked up their long-term inflation expectations to 13-year highs. That is exactly the opposite of what Federal Reserve officials want to see as they try to push inflation back down to healthy levels. Now in high inflation, of course, is a big reason why consumers are not happy right now. Consumers' sentiment plunged to record lows last June, as gasoline prices spiked above $5.00 a gallon nationally. Now, as gas prices dropped, sentiment did improve but not by much. And consumer sentiment remains well below pre-COVID levels. Even though inflation has cooled off, recession fears, of course, persist and there have been new problems that have emerged along the way, including the banking crisis, and more recently, the standoff in Washington over the debt ceiling. In fact, the University of Michigan blamed the latest drop in consumer confidence, in part, on the debt ceiling uncertainty. And they warn that this low level of consumer sentiment only magnifies the risk to the economy if Congress fails to lift the debt ceiling in time. Victor and Amara.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:21:17",
+      "speaker": "BLACKWELL",
+      "sentences": "Thank you, Matt. So, at the CNN town hall this week, former President Trump encouraged Republicans to just let the U.S. default on its debt. If Democrats don't agree to cuts. He also downplayed just how serious to default would be. Watch.(BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:21:17",
+      "speaker": "DONALD TRUMP, PRESIDENT OF THE UNITED STATES",
+      "sentences": "I say to the Republicans out there, congressmen, senators, if they don't give you massive cuts, you're going to have to do a default.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:21:17",
+      "speaker": "KAITLAN COLLINS, CNN ANCHOR",
+      "sentences": "The U.S. defaulting would be massively consequential for everyone in this room --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:21:17",
+      "speaker": "TRUMP",
+      "sentences": "You don't know -- you don't know. It's psychological. It's really psychological more than anything else. And it could be very bad. It could be, maybe nothing. Maybe it's a -- you have a bad week or a bad day.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:21:17",
+      "speaker": "BLACKWELL",
+      "sentences": "Well, J.P. Morgan Chase CEO, Jamie Dimon, sharply criticized former President Trump. He said, the Trump just does not understand the debt ceiling and what's at stake. He also said defaulting on the U.S. debt would be potentially catastrophic.So, here is what happens if there is a default. First, it would almost immediately trigger a recession. The U.S. stock market would likely tumble, unemployment would jump, 401(Ks) could plummet, borrowing cost would increase -- that's on top of increased cost Americans are already facing from the Federal Reserve rate hikes. Social Security payments to about 66 million Americans could be delayed. Medicare payments to hospitals, to doctors, health insurance plans could all be affected. Millions of federal civil workers, civilian workers and active-duty military members could see their paychecks delayed. The United States has never defaulted on its debt. And it's unlikely to do that now, in part because the stakes are enormous. [07:25:37]",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:21:17",
+      "speaker": "WALKER",
+      "sentences": "All right. Still ahead, Israel is ramping up attacks on Palestinian militants as it tries to stop retaliatory strikes from Islamic Jihad. The latest on the fighting and the toll it's taking on civilians,(COMMERCIAL BREAK)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:30:09",
+      "speaker": "BLACKWELL",
+      "sentences": "Palestinian officials say at least 33 people have been killed so far, including militants and civilians, and Israeli medical services. Rocket hit a residential building there this week. One person was killed, five were hurt.CNN's Ben Wedeman is live in southern Israel, near Gaza for us. Ben, what's the situation this morning?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:30:09",
+      "speaker": "BEN WEDEMAN, CNN SENIOR INTERNATIONAL CORRESPONDENT",
+      "sentences": "Yes, Victor, what we've seen so far this morning is that there have been a variety of volleys fired out of Gaza.Volleys of missiles, some to the north, some just over our head in the direction of Sderot. Others to the southeast. We've also seen a variety of Israeli airstrikes. Many of them in this area just behind me in the northern part of the Gaza Strip, where according to Palestinian sources, two homes were hit. We have no information at this point about casualties. Now, this latest round of strike and counter strike is now in its fifth day. The Egyptians have been trying to mediate between Israel and Islamic Jihad, but so far, to no effect. (BEGIN VIDEOTAPE) WEDEMAN (voice over): Revenge of the free that's what the Palestinian militant group Islamic Jihad is calling this. A barrage of rockets fired from Gaza, and for the first time in this most recent flare up, towards Jerusalem.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:30:09",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Yes, shrapnel coming down.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:30:09",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Did you see the pieces falling right over there.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:30:09",
+      "speaker": "WEDEMAN",
+      "sentences": "Our team in Sderot, Southern Israel, witnessed Israeli air defenses intercepting around 20 incoming rockets on Friday, before taking shelter from the debris.Israeli strikes, meanwhile, hitting across Gaza. Cellphone footage obtained by CNN shows a house exploding in the city of Khan Yunis. Another video shows fire raging in Gaza City on day four of what is the worst escalation of violence between the Israeli army and Palestinian militants in months. It also claimed militants had launched nearly 1,000 rockets since the latest violence began. In Israeli settlements in the occupied West Bank on Friday, people ran for cover as sirens rang out. A day after one person was killed in the Israeli city of Rehovot, when a rocket fired from Gaza hit this building. Forensic experts today examining the scene. Meanwhile, at least 33 Palestinians had been killed in Gaza in less than a week. And there are more than two million civilians caught inside Gaza, whose lives are now on hold and in mortal danger, desperate for a ceasefire. (END VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:30:09",
+      "speaker": "WEDEMAN",
+      "sentences": "Now, a diplomatic source yesterday told CNN, however, that those negotiations for a ceasefire are in his words on ice at the moment.Now, in addition to what's going on Gaza, there has been an Israeli raid on the Balata refugee camp, south of Nablus, in the northern West Bank. In that instance, it appears that two Palestinians were killed. Hamas put out a long statement. So, we assumed that they were, in fact, Hamas members. But this is -- appears to be an operation that at least in Balata, that might have been focused on Hamas, which has been accepted from the Israeli strikes on Gaza. Since this began last Tuesday, Israel has been focusing exclusively on Islamic Jihad, even though Hamas controls the Gaza Strip is the de facto government there, but until now, they have not been targeted by Israeli forces. Amara.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:30:09",
+      "speaker": "WALKER",
+      "sentences": "All right. Ben Wedeman, appreciate it. Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:38:46",
+      "speaker": "WALKER",
+      "sentences": "Today, the already tense competition between Donald Trump and Florida Governor Ron DeSantis is expected to intensify even more. Trump and DeSantis who could potentially become Trump's top opponent for the Republican nomination next year. We'll head to Iowa where they will hold dueling speeches.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:02",
+      "speaker": "BLACKWELL",
+      "sentences": "Yes. BOYDHelping Ukraine farmers. We provided them with seed and fertilizer, and farm equipment. Things I've been asking him this administration to do right here to help black and other farmers of color, and they refuse to do nothing to help us.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:02",
+      "speaker": "BLACKWELL",
+      "sentences": "So, you're saying nothing to help us. Is this the case when you started with the president has dropped the ball, is this the president has tried --(CROSSTALK)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:02",
+      "speaker": "BOYD",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:02",
+      "speaker": "BLACKWELL",
+      "sentences": "The administration has tried, and because of political realities has not been able to get the money to black farmers.Of course, we know of the repeal of the monies in the American Rescue Plan. There was something that was supposed to be replacing that. Or is he not trying from your perspective?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:02",
+      "speaker": "BOYD",
+      "sentences": "He is not trying. If he was trying, Victor, the first thing they would do is grant the meeting.I mean -- I mean, come on, here is the -- a leading activists that went out next to 120,000 black farmers to vote for you. And I can promise you almost 99 percent of them did. First of all, you have to open up the lines of communication that hasn't been one meeting with the Agriculture Secretary Tom Vilsack. Since he's been confirmed, the communication isn't there, they want to, in my opinion, isn't there to fix this. And the administration can do a lot better if we stop helping others and start taking a hard look up the hardships that we have right here in the United States to help American farmers stay on the farm. In this case, black farmers stay on the farm. We have farmers out in Colorado, who are being terrorized the Mallerys. We have black farmers in the state of Tennessee that are getting their land confiscated for a $5 billion footprint. These are real issues that are facing black farmers, and the White House is not helping us address them. And this president, hasn't granted the meeting. And as my daddy would say, Victor, you either do what you say you're going to do, or you went back on your word. (CROSSTALK)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:02",
+      "speaker": "BLACKWELL",
+      "sentences": "OK. So, you --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:02",
+      "speaker": "BOYD",
+      "sentences": "Now, the president gave me -- said that he would have this meeting, and it hasn't happened.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:02",
+      "speaker": "BLACKWELL",
+      "sentences": "So, you say you didn't get the meeting? And let me quote the president here because, I think, in this case, it is -- it is applicable.The president often says, \"Do not compare me to the Almighty, compare me to the alternative.\" Now, I first interviewed you during the Trump years. And if you and the organization were active far before that.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:02",
+      "speaker": "BOYD",
+      "sentences": "Oh, yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:02",
+      "speaker": "BLACKWELL",
+      "sentences": "If you're not endorsing President Biden, I can't imagine, based on our conversations that a Trump endorsement is coming. Will you campaign against the president, will you endorse someone else? Where do you stand and -- since you were influential and trying to help the president get elected in 2020.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:00",
+      "speaker": "BLACKWELL",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:00",
+      "speaker": "BOYD",
+      "sentences": "And the presidential conversation.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:00",
+      "speaker": "BLACKWELL",
+      "sentences": "All right. John Boyd, Jr., thank you for joining us, and we'll keep in contact to see if the communication lines reopened. Thanks so much for your time.We'll be right back. (COMMERCIAL BREAK)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:00",
+      "speaker": "WALKER",
+      "sentences": "Twitter, now getting a new CEO, months after current chief, Elon Musk, promised to step down.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:00",
+      "speaker": "BLACKWELL",
+      "sentences": "Musk tweeted that his replacement will be Linda Yaccarino, the now-former head of advertising for NBC Universal.CNN's Brian Todd has more. (BEGIN VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:00",
+      "speaker": "ELON MUSK, CHIEF EXECUTIVE OFFICER, SPACEX AND TESLA",
+      "sentences": "(INAUDIBLE)BRIAN TODD, CNN CORRESPONDENT (voice over): From the moment he took over with a stunt where he carried an actual sink into the building.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:00",
+      "speaker": "MUSK",
+      "sentences": "You can't help, but that's OK.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:07",
+      "speaker": "TODD",
+      "sentences": "The flamboyant, eccentric billionaire, now, stepping aside as CEO of the platform, and naming Linda Yaccarino to take his place.Yaccarino comes from NBC Universal, where she was chief of global advertising.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:07",
+      "speaker": "SARA FISCHER, CNN MEDIA ANALYST",
+      "sentences": "I think in hiring Linda, Elon Musk is, for the first time, since he took over Twitter conceding a major role. And he's doing that because he knows that the future of Twitter depends on it. That, I think, will empower Linda to make a lot of strategic changes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:07",
+      "speaker": "TODD",
+      "sentences": "One of the biggest crises at Twitter, among many during Musk's stewardship has been the exodus of advertisers. According to the marketing analysis firm, Pathmatics by Sensor Tower, 625 of the top 1,000 Twitter advertisers had pulled their ad dollars from Twitter as of late January.Brands like Coca Cola, Jeep, Wells Fargo, and Merck. Revenue plummeted. Analysts say that's where Yaccarino can turn things around.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:07",
+      "speaker": "FISCHER",
+      "sentences": "Linda Yaccarino is considered one of the foremost leaders in advertising in the entire industry, both media and technology. There is now going to be a person at Twitter who will actually speak to these companies in a way that they like to be spoken to.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:07",
+      "speaker": "TODD",
+      "sentences": "Advertisers had been concerned about the massive staff cuts at Twitter under Musk. They'd worried about his reinstatement of users who had previously been banned and the rise of hate speech on Twitter, as reported in recent months by groups like the ADL and the Center for Countering Digital Hate. IMRAN AHMED, CHIEF EXECUTIVE OFFICER, CENTER FOR COUNTERING DIGITAL HATE",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:07",
+      "speaker": "TODD",
+      "sentences": "Musk also eliminated the verification system at Twitter, which caused pandemonium. Someone was recently able to impersonate New York City's official Twitter account. He alienated mainstream media outlets.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:07",
+      "speaker": "TUCKER CARLSON, FORMER HOST, FOX NEWS CHANNEL",
+      "sentences": "Hey, it's Tucker Carlson.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:07",
+      "speaker": "TODD",
+      "sentences": "And now, former Fox News host and right-wing agitator Tucker Carlson, claims he'll soon launch a new show on Twitter. Although, Musk hasn't confirmed that.How might Linda Yaccarino handle Carlson?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:07",
+      "speaker": "FISCHER",
+      "sentences": "So, let's say Tucker Carlson does launch a show on Twitter, it's people like Linda, who are going to make sure that the Olympics is also streamed. That red carpet events, that sporting events are also streamed on the platform, which can hopefully balance it out.(END VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:07",
+      "speaker": "TODD",
+      "sentences": "So, Elon Musk steps aside, but he is not gone, gone. He says he is taking on a new position at Twitter as executive chair and chief technology officer, overseeing products, software, and systems operations.Analysts say that could be worrisome to advertisers who will be watching to see if he holds Linda Yaccarino back for making some critical changes. Amara, Victor?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:57:16",
+      "speaker": "BLACKWELL",
+      "sentences": "The Food and Drug Administration is creating conditions for more gay and bisexual men to donate blood.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:57:16",
+      "speaker": "WALKER",
+      "sentences": "Officials finalized new risk-based recommendations this week in which prospective donors will be asked the same set of questions regardless of their sex or sexual orientation.CNN's Meg Terrell has more. MEG TIRRELL, CNN MEDICAL CORRESPONDENT: Well, Victor, Amara, these guidelines had really been in place since the earliest days of the HIV epidemic to try to avoid the HIV virus being spread through the blood supply. (BEGIN VIDEO CLIP) TIRRELL (voice over): But what is changing now is that for the first time in 40 years, the FDA has solidified these recommendations to make the risk screening to be the same for everybody, based on individual risk factors, regardless of sexual orientation, sex, or gender. And this really brings the United States in line with other countries like the U.K., and Canada. Now, this is something that had started way back in 1985, when the FDA had put a lifetime ban in place for men who have sex with men donating blood because of those concerns. So, that was in place really until 2015 when they said they can donate, but only after a period of absence of a year. Now, they shorten that during the pandemic, when there was a crisis in the blood supply in 2020. And now, of course, are changing the recommendations so that they will be the same for everybody. This is something that a lot of organizations like the American Medical Association have been calling for, for some time, and they lauded this move this week from the FDA. Organizations like GLAAD, also came out in favor of it, calling it, \"The beginning of the end of a dark and discriminatory past rooted in fear and homophobia.\" Now, GLAAD also pointed out that there are still limitations that they see with this, specifically the exclusion of users of prep, the antiviral drug to prevent HIV infection. They call that, \"continuing to erect barriers to LGBTQ blood donors.\" And now, of course, there is a hope that this could contribute to the number of people who will be donating blood. According to the American Red Cross, just three percent of age eligible donors in the United States donate blood yearly. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:57:16",
+      "speaker": "TIRRELL",
+      "sentences": "So, really, anything that can start to contribute to keeping supplies higher will be welcomed. Victor, Amara.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:57:16",
+      "speaker": "BLACKWELL",
+      "sentences": "Thank you, Meg.See how streaming changed the music industry in a new episode of the CNN original series, the 2010s. Here is a look. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:57:16",
+      "speaker": "STEPHEN WITT, AUTHOR, HOW MUSIC GOT FREE",
+      "sentences": "At the beginning of the decade that music industry had functionally collapsed, piracy had destroyed. It was possible to believe that in 10 years that music industry might not exist at all.They were scrambling, they were panicking, and they had to do something different.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:57:16",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "Get set to enjoy Spotify, the highly acclaimed music streaming platform from Europe is launching in the U.S.",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

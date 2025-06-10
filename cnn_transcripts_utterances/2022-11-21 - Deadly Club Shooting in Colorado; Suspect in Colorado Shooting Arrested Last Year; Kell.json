@@ -1,0 +1,415 @@
+{
+  "date": "2022-11-21",
+  "headline": "CNN Newsroom",
+  "subHeadline": "Deadly Club Shooting in Colorado; Suspect in Colorado Shooting Arrested Last Year; Kelley Robinson is Interviewed about the Colorado Shooting; Iger Returns to Disney; Schiff Defends Special Counsel Appointment in Trump Probe. Aired 9-9:30a ET",
+  "utterances": [
+    {
+      "timeStamp": "09:00:22",
+      "speaker": "JIM SCIUTTO, CNN ANCHOR",
+      "sentences": "A very good Monday morning to you. I'm Jim Sciutto.And we begin this morning with new developments in the mass shooting at an LGBTQ nightclub in Colorado Springs. Officials say now at least five people were killed, more than 25 injured. This after a 22-year- old gunman opened fire inside Club Q late Saturday night. Police say the violence lasted just minutes. It did end when two people inside the club took down the suspect, holding him until police arrived. Officials are now investigating whether the attack was a hate crime. Devastated witnesses say the club was a haven for the LGBTQ community. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:00:22",
+      "speaker": "JOSHUA THURMAN, WITNESS",
+      "sentences": "This is our home. You know, this is our space. We come here to just enjoy ourselves. And this happens? It was so scary. I heard shots, broken glass, bodies. It was -- how? Why?(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:00:22",
+      "speaker": "SCIUTTO",
+      "sentences": "How? Why? Such familiar questions.We begin this morning with CNN correspondent Rosa Flores. She is in Colorado Springs, Colorado, this morning. Rosa, we're learning so much. Walk us through exactly what happened during these deadly minutes and what we know now about the suspect.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:00:22",
+      "speaker": "ROSA FLORES, CNN CORRESPONDENT",
+      "sentences": "Well, here's what we know about the suspect. He's been identified as 22-year-old Anderson Lee Aldrich. And according to police, the first 911 call came in at about 11But as you mentioned, according to police, it was the heroic efforts of patrons inside Club Q that saved lives. That's how they put it. That's how officials here put it. That it was their efforts. Because by the time police arrived, the suspect was subdued. Police say that they've recovered two weapons. One of them a rifle. Unclear the full details of the other weapon. As for motive, while investigators are not revealing everything that they know, the district attorney saying that it is being investigated through the lens of a hate crime. But let me take you to those intense moments when the gunshots were fired. There was a bartender there, Michael Anderson. He spoke to CNN's Don Lemon this morning about those intense moments. And he takes us through when the gunman entered Club Q. Take a listen. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:00:22",
+      "speaker": "MICHAEL ANDERSON, BARTENDER WHO WITNESSED SHOOTING",
+      "sentences": "I saw the outline of a man holding a rifle at the entrance of the club, just probably about 15 feet from me. And then, you know, it took a moment to register what was happening. But it hit me this was actually happening in real life to me and my friends.I ducked behind the bar. And, as I did, that glass began to spew everywhere, all around me. But after about a minute and a half, I decided I needed to get out of there. So, I got up and when I went inside I saw what I believed was probably the gunman lying on the ground getting beat up and kicked and yelled at by two very brave people who I still don't know the identity of those two people, but I hope I can find out one day because I truly believe those two people saved my life. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:00:22",
+      "speaker": "FLORES",
+      "sentences": "Now, authorities have not identified the victims in this case, but Michael Anderson says he knows at least one of the victims and he -- this individual has been identified by his parents. We have his picture. This is Daniel Aston -- Daniel Aston, telling \"The Denver Post\" that their son moved to Colorado, moved to Colorado Springs, to be close to them, close to that family.And, again, Jim, hearts are just heavy here as people begin to realize just the devastating tragedy that unfolded here. Jim.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:00:22",
+      "speaker": "SCIUTTO",
+      "sentences": "Yes. Of course, they would be.Rosa Flores, good to have you there. Thanks so much. Joining me now to speak, CNN national security analyst Juliette Kayyem. She's former assistant secretary at the Homeland - Department of Homeland Security. Juliette, it's good to have you here -",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:00:22",
+      "speaker": "JULIETTE KAYYEM, CNN NATIONAL SECURITY ANALYST",
+      "sentences": "Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:00:22",
+      "speaker": "SCIUTTO",
+      "sentences": "In a conversation you and I have had I can't count how many times following an incident like this.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:00:22",
+      "speaker": "KAYYEM",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:00:22",
+      "speaker": "SCIUTTO",
+      "sentences": "But let's talk about the specific circumstances here. One that stands out to me are those two people who took this gunman down.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:00:22",
+      "speaker": "KAYYEM",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:00:22",
+      "speaker": "SCIUTTO",
+      "sentences": "We often hear, you know, that mantra, run, hide, fight, right?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:05:04",
+      "speaker": "SCIUTTO",
+      "sentences": "If you can do nothing else, fight. And that's -- that appears what - what these two people did. May have made an enormous difference.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:05:04",
+      "speaker": "KAYYEM",
+      "sentences": "Yes, absolutely. And this is my most recent piece in \"The Atlantic\" is that a lot -- we are seeing more and more cases where I think we are beginning to rethink run, hide, fight. It's not for every circumstance. But certainly if you look at Pulse, if you look at what - at the Pulse Nightclub, if you look at other incidents, and then, of course, what happened at Club Q, that it was people who engaged the shooter that were able to minimize the harm. This is what we - you know, this is the world we live in, in which the standard of success is, did fewer people die. It is clear he, the killer, had ammunition to kill lots more people and he was stopped.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:05:04",
+      "speaker": "SCIUTTO",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:05:04",
+      "speaker": "KAYYEM",
+      "sentences": "So, in these confined areas where there's no exit, you know, sometimes running, sometimes hiding are not an option and you have these heroes come forward and really essentially end what would have been a -- what would have been clearly a massive slaughter given what I've seen about the interior of this club. There was no place to run.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:05:04",
+      "speaker": "SCIUTTO",
+      "sentences": "Well, listen, I mean it's an enormous amount to ask from someone, right?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:05:04",
+      "speaker": "KAYYEM",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:05:04",
+      "speaker": "SCIUTTO",
+      "sentences": "Because we've seen other instances where people do fight, confront and they die.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:05:04",
+      "speaker": "KAYYEM",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:05:04",
+      "speaker": "SCIUTTO",
+      "sentences": "I'm thinking, for instance, of the security guard in that Buffalo supermarket.We often ask about how folks got the weapon, the kind of weapon, but also how folks were not -- or had previously been aware, at least authorities had been aware of these people.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:05:04",
+      "speaker": "KAYYEM",
+      "sentences": "Yes. SCIUTTO",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:05:04",
+      "speaker": "KAYYEM",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:05:04",
+      "speaker": "SCIUTTO",
+      "sentences": "Colorado has a red flag law. Did it not work here?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:05:04",
+      "speaker": "KAYYEM",
+      "sentences": "It did not -- it has to be invoked. They're not self-invoking. And so someone has to show enough concern for the suspect, for Aldrich, to notify the police and then for the police to be able to do something. This is why family members, community members have to imagine -- cannot ignore what's going on in their community. You have to -- they don't want to think about it. But if the next move is potentially a mass shooting, they have to speak up.Here's what - what -- you know, as someone who knows -- you know, how does someone go from being, you know, violent towards their mother to an active -- a mass killing in an LGBTQ club? That doesn't happen overnight. So, we're looking at, what is that process. I know we're being careful about what the motive is. We are starting with a hate crime.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:05:04",
+      "speaker": "SCIUTTO",
+      "sentences": "Oh, yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:05:04",
+      "speaker": "KAYYEM",
+      "sentences": "I mean, whatever people are saying, you're starting with a hate crime. I understand why they want to be not sure about it or vague about it because -- not just because of what's going on in the world and in the United States in terms of attacks, but because this club was known to be a gay club. I heard the governor, Governor Polis, last night saying he knew the club. This was a well-known club.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:05:04",
+      "speaker": "SCIUTTO",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:05:04",
+      "speaker": "KAYYEM",
+      "sentences": "It wasn't some random club someone found on the street.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:05:04",
+      "speaker": "SCIUTTO",
+      "sentences": "Just quickly, the attorney general of Colorado as well as the witness we played earlier here, said that the suspect had a long rifle.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:05:04",
+      "speaker": "KAYYEM",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:05:04",
+      "speaker": "SCIUTTO",
+      "sentences": "We don't know yet -- hasn't been confirmed exactly what kind of rifle it is. But can you just briefly explain how that would give the shooter greater ability to kill more people in a short span of time.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:05:04",
+      "speaker": "KAYYEM",
+      "sentences": "Right. And this is what you're looking at now, how fast can someone kill and in what period of time until you can get public safety there. That's why run, hide, fight needs to be reassessed. So, if you just look at the timeline I'm looking at, you have -- you have the shooting started. Two minutes later -- two to three minutes later the police arrived. You already have -- the suspect is now detained. You already have five dead. And you have over a dozen with bullet injuries. So, this is lucky that we think none of them are going to die. So, I'm looking at, you know, maybe 23, 24 potential fatalities in,what, three or four minutes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:05:04",
+      "speaker": "SCIUTTO",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:05:04",
+      "speaker": "KAYYEM",
+      "sentences": "So, when they say long rifle, there is not many long rifles that can do that kind of killing.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:05:04",
+      "speaker": "SCIUTTO",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:05:04",
+      "speaker": "KAYYEM",
+      "sentences": "And so no matter how much effort we put into supporting law enforcement and backing the blue in these instances, two minutes and - and you're - and you have five already dead and many more injured. And - and the community --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:05:04",
+      "speaker": "SCIUTTO",
+      "sentences": "So often - yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:05:04",
+      "speaker": "KAYYEM",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:05:04",
+      "speaker": "SCIUTTO",
+      "sentences": "So often those are the circumstances, it all happens in a matter of seconds or a couple of minutes.Juliette Kayyem, thanks so much, as always.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:05:04",
+      "speaker": "KAYYEM",
+      "sentences": "Thanks, Jim.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:05:04",
+      "speaker": "SCIUTTO",
+      "sentences": "Well, Club Q in Colorado Springs, it opened in 2002. Until recently, it was the only LGBTQ club in that city. Now investigators -- as investigators try to determine if this shooting is, in fact, a hate crime, you heard Juliette's view there, members of the LGBTQ community say they simply don't feel safe.So, joining me now to speak about this, this morning is the incoming president of the Human Rights Campaign, Kelley Robinson. Kelley, good to have you on this morning.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:05:04",
+      "speaker": "KELLEY ROBINSON, INCOMING PRESIDENT, HUMAN RIGHTS CAMPAIGN",
+      "sentences": "Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:10:09",
+      "speaker": "ROBINSON",
+      "sentences": "There are no words. This is unimaginable. We've said it so many times, but there are so few places where LGBTQ Plus people can go to feel safe, to feel celebrated, to feel joy. And it's in one of those very places that lives were taken. They were stolen.So, we are experiencing a crisis. A crisis at the national level with this epidemic of hate and violence. But also at the personal level. I know I'm holding my family as tight as possible and I'm thinking of all the young people, all the people that have gone to bars to feel safe, to feel community, to feel joy that don't have that today. This is what fear looks like in this country. This is what terror looks like when it's inflicted upon black and brown folks, when it's inflicted upon queer people.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:10:09",
+      "speaker": "SCIUTTO",
+      "sentences": "You said in your statement that anti-LGBTQ Plus hate is on the rise. Nearly one in five of any type of hate crime is now motivated by anti-LGBTQ bias.Tell us how you see this manifest itself and what do you believe is behind it?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:10:09",
+      "speaker": "ROBINSON",
+      "sentences": "Absolutely. We're living in a culture of extremism right now. Not only are the issues happening when it comes to anti-LGBTQ violence, but we're also seeing a range of political attacks and violent rhetoric against our community. And all of that is fueling real life violence. We've seen this now play out at Club Q in a devastating way, but this larger context, we're seeing threats to drag queen story hours, we're seeing attacks on trans youth, we're seeing bomb scares at children's hospitals. Our community has a right to be afraid. We're afraid in the day to day of places that we can go to actually feel safe, but we're also afraid that the longer our political threats are having against our communities that are the context that we're living in.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:10:09",
+      "speaker": "SCIUTTO",
+      "sentences": "We have seen a growing number of incidents, and I wonder why you believe we're in a moment of extremism in this country, right? What is it that makes attackers like this -- and there are more details to be learned about the specific motivations of this attacker here -- but what is it that makes them, in your view, feel empowered to carry out attacks of violence like this?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:10:09",
+      "speaker": "ROBINSON",
+      "sentences": "I think that this is a devastating reality that too many of our communities experience. Today we are talking about the acute threat to the LGBTQ Plus community. But whether you are black, brown, Jewish, Muslim, if you find safety in church or in the nail salon or at the grocery store, we are all under attack. So, I'm really urging people to understand that today we are acutely being targeted, the gay and queer community, but all of our families, all of our communities are at risk right now. We all collectively have to stand up against this extremism, this rhetoric of hate, whether it's happening in the public space, in political arenas or online.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:10:09",
+      "speaker": "SCIUTTO",
+      "sentences": "There is the hate and there's what people can do with that hate and how they can arm themselves, right, to carry out acts of hate here. In addition to standing with the community and standing up to this trend of hate that you're discussing here, what changes in gun laws would you like to see?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:10:09",
+      "speaker": "ROBINSON",
+      "sentences": "I think there are a variety of political intervention that need to take place. And every elected leader at every level of government needs to be addressing it. And also, as community members, we need to say that this is immoral and not who we are as Americans. Solidarity isn't just a statement, it's not just a social media post, it's showing up and actually getting policy change that can make a difference in people's lives.So, yes, that means gun violence reform, it means ending the political attacks against LGBTQ Plus folks in states, particularly trans youth, and there's also a role to play online to eliminate bullying and harassment that's taking place that's targeting our community.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:10:09",
+      "speaker": "SCIUTTO",
+      "sentences": "Kelly Robinson, thanks so much for joining us, granted under sad circumstances.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:10:09",
+      "speaker": "ROBINSON",
+      "sentences": "Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:18:52",
+      "speaker": "SCIUTTO",
+      "sentences": "Major changes and a familiar name this morning at Disney. In an unexpected turn of events, chief executive Bob Chapek is stepping down after just two years on the job, and former CEO Bob Iger is returning to lead the company. That move effective immediately.The shakeup comes amid a 41 percent drop in the company's stock price this year, as well as backlash and criticism of several of Chapek's management decisions. CNN business reporter Matt Egan has more on this. And, Matt, Iger, he led Disney for 15 years. Chapek was his chosen successor. Things didn't go so well for Chapek. So what is Disney saying about this transition and how long they expect Iger to be at the helm.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:20:01",
+      "speaker": "SCIUTTO",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:20:01",
+      "speaker": "EGAN",
+      "sentences": "And the last two years have shown that won't be easy.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:20:01",
+      "speaker": "SCIUTTO",
+      "sentences": "Ten percent jump in the stock price. That is a pretty big welcome back.Matt Egan, thanks very much. Well, a top Democrat in Congress is defending the attorney general, Merrick Garland, and his decision to appoint a special counsel, Jack Smith, to oversee Trump-related investigations. Not just into the January 6th insurrection, but also the missing classified documents found at Trump's Mar-a-Lago estate. House Intelligence Committee Chairman Adam Schiff called the move, quote, the right thing to do, after former President Trump said the decision was politically motivated in his view. CNN's senior crime and justice reporter Katelyn Polantz has been following this for us. So, Katelyn, I'm curious what reactions you're hearing, but also for folks watching at home, what does this mean for the timeline and the progress of the DOJ's work?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:20:01",
+      "speaker": "KATELYN POLANTZ, CNN SENIOR CRIME AND JUSTICE REPORTER",
+      "sentences": "That's a huge question, Jim. The timeline really is a big question. But one of the things that we are hearing in this reaction, and also as this discussion has bubbled up that, will there, won't there be a special counsel. A lot of people have wondered, is this really needed? And the reaction that I've heard after this announcement from the attorney general has largely been that it appears so in that Garland is sending a signal here on the significance of these two investigations, right? These aren't just run-of-the-mill obstruction investigations that implicate maybe some lawyers, some political advisers. This really is about Donald Trump. It puts Donald Trump under investigation. And now, as you mentioned, the question is pace. Garland and Jack Smith are both pledging that things are not going to flag as he comes in and takes over at these existing investigations. But that really is top of mind.Adam Kinzinger was on our air yesterday speaking about this. He's a Republican and he's on the House Select Committee. So he's been looking at these issues.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:20:01",
+      "speaker": "SCIUTTO",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:20:01",
+      "speaker": "POLANTZ",
+      "sentences": "Here he is.(BEGIN VIDEO CLIP) REP. ADAM KINZINGER (R-IL): Because I don't know where the Justice Department is in their investigation. Let's say, for instance, they were very close to indictment and then they switched to this because he's running for office, then I think that's an unnecessary delay. But I think what we're going to be able to judge this by is what the ultimate outcome is. Will he - will this special prosecutor get to -- or independent counsel get to a belief that he was guilty or not will be based on the evidence and what will be the result of Donald Trump. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:20:01",
+      "speaker": "SCIUTTO",
+      "sentences": "To the point he raises there, what is the outcome, do folks you speak with tell you this indicates he's further along or close to some ultimate decision on whether or not to charge?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:20:01",
+      "speaker": "POLANTZ",
+      "sentences": "Well, I have spoken to some former Justice Department officials, really high-level people who say that this does make the situation much more possible that Donald Trump could be indicted, that they would be looking at charges for him specifically.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:20:01",
+      "speaker": "SCIUTTO",
+      "sentences": "Wow.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:20:01",
+      "speaker": "POLANTZ",
+      "sentences": "But, of course, there's always going to be a political reaction. And as we saw in the Mueller investigation, it's not just a prosecutor coming in and doing their job.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:20:01",
+      "speaker": "SCIUTTO",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:20:01",
+      "speaker": "POLANTZ",
+      "sentences": "There's thumbs up, thumbs down, is he doing the right thing politically? We're already seeing reaction from Republicans wanting a special counsel related to, say, Hunter Biden, Trump calling this another witch-hunt.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:20:01",
+      "speaker": "SCIUTTO",
+      "sentences": "Right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:20:01",
+      "speaker": "POLANTZ",
+      "sentences": "And so we're just going to have to see how this plays out once Smith gets into place.",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

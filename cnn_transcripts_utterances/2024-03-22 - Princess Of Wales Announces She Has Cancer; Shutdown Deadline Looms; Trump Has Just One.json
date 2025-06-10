@@ -1,0 +1,475 @@
+{
+  "date": "2024-03-22",
+  "headline": "Laura Coates Live",
+  "subHeadline": "Princess Of Wales Announces She Has Cancer; Shutdown Deadline Looms; Trump Has Just One Business Day Left To Get $464 Million Bond; DOJ Sues Apple; Deal Is Reached To Avert Government Shutdown. Aired 11p-12a ET",
+  "utterances": [
+    {
+      "timeStamp": "23:00:00",
+      "speaker": "ABBY PHILLIP, CNN SENIOR POLITICAL CORRESPONDENT",
+      "sentences": "And Michael --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:00:00",
+      "speaker": "MOORE",
+      "sentences": "Why isn't it working?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:00:00",
+      "speaker": "PHILLIP",
+      "sentences": "That is the question of the hour. That's all we've got time for tonight. We appreciate you as always, Michael Moore. Thank you so much.And thank you for watching \"NEWSNIGHT.\" LAURA COATES LIVE starts right now.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:00:00",
+      "speaker": "LAURA COATES, CNN HOST AND SENIOR LEGAL ANALYST",
+      "sentences": "The latest on the Princess of Wales's cancer diagnosis. Plus, the legendary co-founder of Apple, Steve Wozniak, Woz, because we're friends now, is here. What he thinks about the lawsuit that may change the way a billion people use their iPhones.All that, and does he or doesn't he, does he have the cash he needs this coming Monday in order to pay off that bond? We'll talk about it in just a moment right here on LAURA COATES LIVE. A shocking revelation today after many weeks now of speculation, of thousands of conspiracy theories online and otherwise. The Princess of Wales, otherwise known as Kate Middleton, has cancer. She made the announcement sitting on a bench, alone, wearing a striped sweater, saying that she is in the early stages of treatment and describing her diagnosis as a huge shock. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:00:00",
+      "speaker": "CATHERINE, PRINCESS OF WALES",
+      "sentences": "This, of course, came as a huge shock, and William and I have been doing everything we can to process and manage this privately for the sake of our young family. As you can imagine, this has taken time. It has taken me time to recover from major surgery in order to start my treatment. But most importantly, it has taken us time to explain everything to George, Charlotte, and Louis in a way that's appropriate for them, and to reassure them that I'm going to be okay.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:00:00",
+      "speaker": "COATES",
+      "sentences": "Now, obviously, we all know her as part of British royalty and a princess, the future Queen of England. But as she mentioned, at the core, she is the mother of three young children. And frankly, any mother can understand what maybe might be going through her mind and what she has been feeling these last several weeks, thinking of her children.But there are also so many unanswered questions. We don't know. Sitting here right now, we don't know what kind of cancer. We don't know what her prognosis is. And we're likely not to know because Kensington Palace is likely not to tell us any other and further medical details. But as the news comes, as her father-in-law, King Charles, is being treated for also an unspecified cancer. Joining me now, royal reporter Ellie Hall and professor of oncology and epidemiology at Johns Hopkins University, Dr. Otis Brawley. Thank you both for being here. This has been something that has captivated the world for many weeks now. I mean, it goes from the salacious online gossip to the extraordinary empathy and concern that people are showing right now, given what we're talking about here. Ellie, Kensington Palace, when they released this video, she's by herself, but talking about the support she has and her husband and beyond. What was her reaction to how she presented in that moment, telling the world what she had been diagnosed?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:00:00",
+      "speaker": "ELLIE HALL, FREELANCE ROYAL REPORTER",
+      "sentences": "It was obviously extraordinarily brave of her, and not just because of the diagnosis, because no one was expecting it. Back when she first was hospitalized, Kensington Palace said that her condition was non-cancerous.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:00:00",
+      "speaker": "COATES",
+      "sentences": "Uh-hmm.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:00:00",
+      "speaker": "HALL",
+      "sentences": "So, this was a huge surprise, this diagnosis, to absolutely everyone. And I think she wanted to own it. I think she wanted to show that she is going to stand there and face the world and take care of herself.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:00:00",
+      "speaker": "COATES",
+      "sentences": "You know, I wonder if they were throwing everyone off the scent to provide some privacy for her as well and not saying that it was initially, when they ultimately may have known that she, in fact, had this cancer diagnosis.Dr. Brawley, I turn to you for that, because this is a woman who is just 42 years old, very young. The idea of a diagnosis at any age, of course, is heartbreaking and tragic. But when you hear what she has unfolded and revealed, a major abdominal surgery, the discovery of cancer, chemotherapy, and a request for the privacy thereafter, what went through your mind?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:00:00",
+      "speaker": "OTIS BRAWLEY, PROFESSOR OF ONCOLOGY AND EPIDEMIOLOGY, JOHNS HOPKINS UNIVERSITY",
+      "sentences": "Well, the first thing I thought was I was so grateful that she mentioned other cancer patients in her video.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:00:00",
+      "speaker": "COATES",
+      "sentences": "Uh-hmm.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:05:00",
+      "speaker": "COATES",
+      "sentences": "When you look at, you know, the area where the cancer is found, I mean, there's a range of possibilities and none of us, without the diagnosis, are equipped to know with specificity what has happened. But when you hear about the chemo in particular, we haven't heard about the stages, we haven't heard about what area of her abdominal area that actually had the surgery or beyond, it could run the gamut.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:05:00",
+      "speaker": "BRAWLEY",
+      "sentences": "That's right. That's right. And we always try -- whenever a celebrity gets a disease, we always try to take something good at it, make it into a public health lesson.In this instance, she could have a number of gynecological malignancies, endometrial cancer, ovarian cancer, fallopian tube cancer. She could have colon cancer. We don't know. But what we need to tell people is, you know, you should stay up to date on appropriate screens for age, colon cancer starting at the age of 45, for example, cervical cancer screening starting at 25. We should all try to stay healthy and eat five to nine servings of fruits and vegetables per day, try to maintain a normal body weight, not smoke. Those are all the things that we all can do, and that's what we should take from this, and then hope that she does well, and we need to try to make sure that everybody gets the high-quality care that she's getting.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:05:00",
+      "speaker": "COATES",
+      "sentences": "That's a very important point, especially with screenings and beyond. And also, there is, frankly, in this country and countries all across the world, there are inequities in the type of care that is provided, and what a tremendous opportunity she has in this platform to have spoken about other cancer patients as well.The timeline for her return to the public eye prior to knowing this had been after Easter, after corresponding with her children's vacation and beyond. Do we know anything about the timeline now?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:05:00",
+      "speaker": "HALL",
+      "sentences": "No. And like you said about the diagnosis, we're not likely to. I think Kate today told us all that we're going to get until she decides to come back and resume her royal duties. And I think we're especially not going to see her for the next month.This announcement was timed for her -- the beginning of her children's school holiday. And I think that was purposeful because she could get them out, and they can go on and stay at their home in Norfolk and just be together as a family. So, I think we're really going to see them staying together, staying out of the public eye.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:05:00",
+      "speaker": "COATES",
+      "sentences": "That's so important at any time, and just thinking about where they are now. I do wonder, you've been covering the royals for a long time, King Charles, you know, dealing with and living with cancer right now. You also have now Princess Kate. What is the response been like in the short window of time we've learned to this royal news?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:05:00",
+      "speaker": "HALL",
+      "sentences": "Well, of course, the way that the king's diagnosis was ruled out was a little quicker than this, obviously.The main reaction I've seen today is complete shock and empathy and a little bit of remorse, online particularly, because as you said at the beginning, there have been a lot of conspiracy theories, and there have been a lot of speculation that maybe wasn't the nicest, especially now that we know what the diagnosis is. So, I think a lot of people are thinking about their actions and thinking about what they've done over the past week or so and really, you know, feeling sorry for her.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:05:00",
+      "speaker": "COATES",
+      "sentences": "Dr. Brawley, really quick, I know we're out of time, but when you hear about the chronology of what she's speaking about, surgery, then chemo and beyond, does that give you any insight as an oncologist?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:05:00",
+      "speaker": "BRAWLEY",
+      "sentences": "Yeah. It actually makes a great deal of sense to me. It happens all the time. People go to get a surgery for what is thought to be something that is not cancerous. A day later, the pathologist says there's cancer in the specimen that was resected out.We very frequently will have someone who has had a surgery, and they have no evidence of disease, but we think there's a chance there's disease left behind, and we will give chemotherapy after that. That's commonly done in colon cancer, commonly done in endometrial, as well as ovarian and fallopian tube cancers.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:05:00",
+      "speaker": "COATES",
+      "sentences": "Really important. Well, we are thinking of her and her family, of course, as she is living with and dealing with this diagnosis. Thank you both so much, Ellie Hall, Dr. Otis Brawley.Well, in her video revealing her cancer diagnosis, Princess Catherine also had these poignant words that we've been discussing for others who are also facing cancer. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:05:00",
+      "speaker": "CATHERINE",
+      "sentences": "At this time, I'm also thinking of all those whose lives have been affected by cancer. For everyone facing this disease, in whatever form, please do not lose faith or hope. You are not alone.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:09:55",
+      "speaker": "TRISHA GODDARD, ROYAL EXPERT",
+      "sentences": "I thought her message was -- oh, gosh, I mean, I really felt for her. I think it speaks a lot to where she gave that message. In a garden, surrounded by nature, not in a stuffy room, wearing fairly casual clothes. She is owning -- I hate that phrase, but you could say she's owning it.Of course, this comes hot on the heel of the news that several employees of the London clinic, where both she and Charles were treated, probably accessed her health record. So, you kind of have in the U.K. this tabloid sort of Damocles hanging over your head. You know, who's going to leak it? What are they going to say? How are they going to report it? So, you know, instead of waiting for that, grabbing back a little bit of power, how scary it might be, and she clearly felt she's as ready as she can be to divulge the news. Plus, of course, it's the school holidays. So --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:09:55",
+      "speaker": "COATES",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:09:55",
+      "speaker": "GODDARD",
+      "sentences": "-- anything that does come up, if there are any lurid headlines, she and William are there to explain to the children, to talk to the children, to comfort the children. They don't get to hear it from, say, a school friend. You know, my mom said, you know, and so on and so forth.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:09:55",
+      "speaker": "COATES",
+      "sentences": "That's so important. I mean, I'm a mother myself, and she is 42 years old. We're about the same age. She is the mother to three young children who obviously were her priority here. Obviously, the rest of the world had their own timeline for when they wanted to understand what was going on.But she was focused primarily on her children and spoke about her husband as being a real comfort. He was not present next to her. I did notice that.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:09:55",
+      "speaker": "GODDARD",
+      "sentences": "That's right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:09:55",
+      "speaker": "COATES",
+      "sentences": "And she had it in her stoicism and also reliability in that moment. But help us understand what it's even like to learn of such a diagnosis and how one tells your family about it, the language to use.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:09:55",
+      "speaker": "GODDARD",
+      "sentences": "Oh, my gosh. I mean, how do you explain, you know, what it's like to get a diagnosis like that? You know, because we all hear these statistics. None of us actually think we're going to be a statistic. And, of course, it depends on what ages your children are.But being a mother, you always want to protect your children. You want to protect everyone around you. So, you can often obsess and get really stressed out about how you tell them. And as a mother, you are kind of ready to -- you know each child and each child has a different personality. So, you might not tell each child, I certainly didn't with my kids, tell them in the same way. And you also know they're going to react very differently. And then you always feel guilty. You know, many, many -- remember, one in two of us, one in two of us will get cancer sometimes. I mean, there are millions of people living with cancer, thanks to all of the wonderful medical breakthroughs that are being made and the charities that support them. But, you know, the issue is cancer has almost become a part of life. I hate to say that. I think what we really need to do is to get ourselves, the journalists, the media, up to speed on how we talk about cancer. As you know, I'm very active in the mental health area.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:09:55",
+      "speaker": "COATES",
+      "sentences": "Uh-hmm.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:09:55",
+      "speaker": "GODDARD",
+      "sentences": "And we've done a lot of work. I've done a lot of work with media about, you know, not reporting people as crazy and things like that. And I think we need to do the same with cancer because this, you know, battling cancer, winning the battle, losing the battle, all of those words either -- they make you feel weak. Oh, I'm losing the battle because you might have had a setback or something.So, I think, you know, the words that Princess Catherine used were really well thought out. She didn't talk about battling. She talked about people living with, you know. And, you know, I really commend her for doing that at a very, very scary time.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:14:56",
+      "speaker": "GODDARD",
+      "sentences": "You're so welcome.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:14:56",
+      "speaker": "COATES",
+      "sentences": "Trisha Goddard, thank you so much. A partial government shutdown is just minutes away. We've got a live report from Capitol Hill next. And is Apple breaking the law? Well, the DOJ says yes. I'll ask Apple co-founder, the one and only Steve Wozniak, because Woz is here.(COMMERCIAL BREAK)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:20:00",
+      "speaker": "MELANIE ZANONA, CNN CAPITOL HILL REPORTER",
+      "sentences": "We can pretty much say with certainty right now that they are not going to vote on this spending package before the midnight deadline after lawmakers failed to come to an agreement on timing amid a squabble over amendment votes, which means we are indeed headed for a government shutdown in just about 40 minutes from now.Now, we should point out this would only be a partial government shutdown because Congress did at least fund six government agencies earlier this month. And it would only be a temporary and brief shutdown because when this does come to the floor, potentially on Sunday, it is expected to pass. But, Laura, it is a shutdown nonetheless and just another example of Congress's struggles to govern. Remember, they were supposed to have funded the government back in October but instead, they decided to kick the can down the road, they passed temporary patches after temporary patches, and then they finally did release this massive bill, over a thousand pages, at 3 a.m. yesterday, so they did not give themselves a lot of time to read these bills and to get them through both chambers. But this is what happens when you leave things to the last minute. So, some would say this is a very fitting and not too surprising end for what has been a tortured six-month process. Laura?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:20:00",
+      "speaker": "COATES",
+      "sentences": "I mean, it's like the fourth or fifth time we've been in this shutdown, showdown experience on Capitol Hill. It's pretty unbelievable. So, this is not going to be the vast shutdown, but a shutdown nonetheless at least until Sunday. Melanie Zanona, thank you so much.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:20:00",
+      "speaker": "ZANONA",
+      "sentences": "Uh-hmm.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:20:00",
+      "speaker": "COATES",
+      "sentences": "Well, Monday is a deadline not for a shutdown, but maybe the smackdown. That is if Donald Trump cannot secure the bond for that $464 million judgment against him in the New York civil fraud case.Now, separately, he'll also be in court Monday for a critical hearing in his hush money trial before the Manhattan D.A.'s office with Alvin Bragg. That could finally see the judge set a trial date, a firm one. It was supposed to start, remember, on March 25th. We now know it will be sometime after April 15th. Joining me now, former Trump attorney, Jim Trusty. Jim, welcome. Thank you so much for joining us. Everyone has been watching to see what might happen on Monday with this bond. There is new reporting out that Trump is furious and scrambling to secure that. But then I saw a post on Truth Social that he has half a billion dollars in cash and property. First of all, is that part true?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:20:00",
+      "speaker": "JIM TRUSTY, FORMER TRUMP ATTORNEY",
+      "sentences": "Oh, I have no way of knowing. I mean, you know, it takes a while to count that much cash. So maybe that's what's going on.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:20:00",
+      "speaker": "COATES",
+      "sentences": "True.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:20:00",
+      "speaker": "TRUSTY",
+      "sentences": "But, you know, look, I think it's a little bit -- it feels like a little bit of an unintentional undercut of the process. He's trying to go through with an emergency stay. You know, right now, you're still trying to get the courts, the higher courts or the appellate courts to say a half a billion-dollar bond on this case is excessive and that it should be considerably lower.So, you know, it's not all that helpful to suddenly say, but I have it if I have to pay it. But I think the attorneys can still chug along and have a lot of good facts on their side in terms of talking about the overreach of that sort of bond because it effectively prevents any sort of appeal and eliminates -- practically eliminates the benefit of an appeal if he is to win.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:20:00",
+      "speaker": "COATES",
+      "sentences": "Meaning, of course, in order to pursue that appeal, he has to first post that bond. That's one of the key issues he's pointing out, that you're foreclosing most people's ability to do so if they've got to essentially pay the entire judgment before everything is wrapped up, which is not normally the case in perhaps other areas of the law.But on that point about undercutting probably what his lawyers are trying to say, he's not going to be able to have bankruptcy as a way to get out of it, but just saying, look, everything's tied up, I can't liquefy assets. Having cash is a problem for him. There was also a point here where there was a question asked of Alina Habba, I believe, just on Fox News the other day about whether or not they would pursue foreign sources for the money. Do you think that's a possibility?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:25:07",
+      "speaker": "COATES",
+      "sentences": "Well, the judge doesn't agree that it's victimless, right? That's part of the conundrum that Trump's team is facing now in their particular findings of fact. Letitia James does not believe it's the case and that the fraud that resulted did harm at least the jurisdiction and perhaps otherwise as well.But there is one other way to talk about this in terms of how one gets the money, so to speak. I mean, his media company, we understand, it's officially going public, which could net him shares worth about $3 billion at current market prices. But some actors (ph) are telling CNN that that number, three and a half billion, so to speak, is inflated. Plus, Trump can't necessarily turn around and just sell those shares and then get that amount of money instantly. Is this something, though, that the attorney general, Letitia James, could even seize if this does, in fact, result in some large windfall to Trump?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:25:07",
+      "speaker": "TRUSTY",
+      "sentences": "Well, I think that part is probably too fast moving or too late breaking, I guess would be the way to put it, for possibly for either side to capitalize on. I'm not sure that the president will be able to kind of turn it around quickly enough if Monday stays as the deadline. And similarly, I don't think Miss James will be able to get her hands on it that quickly either.So, I think, you know, one aspect here that could kick in by Monday is pure delay, just looking for time to pull things together. The other would be to substantively go after the price tag that has been put on this appeal. And, you know, look, when I was a prosecutor, which I did for a long time, we used to say behind closed doors, bad facts make bad case law. What that meant is you might be able to stretch a case before a friendly judge or a jury to get a result that you're comfortable with. But if it's really creative and if it's really out of whack with the body of law in that issue, you eventually find out the hard way with an appellate court. I think there's a solid chance, depending on how well Trump's team preserved the issues, there's a solid chance of this whole price tag being dramatically lowered. COATES:  Yeah. And preserving the issue for everyone out there, in order to have something argued on appeal, you have to at the trial court level have raised the issue first, so the appellate court is able to actually evaluate what it is down the line. And then, of course, you've got the novelty of the Eighth Amendment that I know has been argued by some on social media. Likely his team will do the same about this being an excessive fine. But the court will consider a number of factors and proportionality will be a really big one. I'm sure his Truth Social post isn't helping in some respects. Jim Trusty, thank you so much for joining. We'll see what happens on Monday, including whether the judge says you got more time. Anything could happen. Thank you so much.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:25:07",
+      "speaker": "TRUSTY",
+      "sentences": "All right.  Sure thing. See you, Laura.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:35:00",
+      "speaker": "COATES",
+      "sentences": "So, what would happen to Apple if the lawsuit is successful?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:35:00",
+      "speaker": "FUNG",
+      "sentences": "Yeah, that's a great question. So, we're seeing already in Europe how they're having to -- how Apple is being forced to change its business models. We could see potentially some of the same things here if this lawsuit succeeds.In Europe, you're seeing Apple being forced to allow things like the ability to install apps from third-party app stores. So, imagine if Google could open up an app store on the iOS app store. That would be a huge change, big impacts for Apple's business model. You know, other potential changes include potentially having to allow others to build digital wallets that can tap into Apple's tap-to-pay chip that are on the iPhones.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:35:00",
+      "speaker": "COATES",
+      "sentences": "I mean, you said watch. You're looking at my Apple watch, weren't you? Because part of the lawsuit talks about maybe making it more difficult for competitors' smartwatches. But don't worry. I got to stand up now. Hold on a second. It's yelling at me anyway. Thank you so much, Brian Fung.Well, I want to bring in someone who, frankly, knows Apple better than most, if not all. One of the company's co-founders, Steve Wozniak, joins me now. So exciting to have you here. I can't think of a better person to have this conversation with, Woz. I'm so glad you came. How are you? STEVE WOZNIAK, CO-FOUNDER, APPLE:  Oh, my gosh, I'm really good. We're on a long, long road trip vacation. We got a free month. And so, I'm so happy to be able to do this. COATES:  Oh, me, too. I hope you have a good road trip. I'm jealous, frankly, that I'm not traveling along with you. But I'm sure you're going to have lots of stories to tell, and you'll have to share it with us someday. But, look, I know you're not a lawyer, so let's avoid the legal perspective. I can bring that in a different realm. Maybe not on a Friday night. But, look, Apple stock, it has gone up nearly 5,000 percent since the launch of iPhone, the one sitting right next to me, by the way. Just from a business standpoint, I'm really wondering what you make of the DOJ's antitrust allegations. Is this a really just smart business decisions for Apple or something more?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:35:00",
+      "speaker": "WOZNIAK",
+      "sentences": "Well, we've been talking about it for a long time. I have all my life kind of been for the little guy, the consumer, versus the powerful people with all the power that just want more power. Antitrust is something that has been important to me, especially from the Microsoft judgment back when. I mean, I read every single page of it and, you know, this is very similar in a lot of ways.I am always for more openness. And I wish Apple were more open. Share what you have with others. It's kind of like -- more like free trade when you're open that way. Make it easier for people to make a choice and even sometimes leave Apple. But, you know, Apple wants to close it up. That's one way of doing business. I'm not a businessman. I'm an engineer.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:35:00",
+      "speaker": "COATES",
+      "sentences": "Well, you know, I'm also not a businesswoman. I'm a lawyer. But I've got to tell you, when I look at it, I do wonder, what do you think is the business sense of why to keep it less transparent, not to share it? I mean, obviously people want to protect what they have created, and they want to explore it to the end, in the nth degree. Is that what you think is happening?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:35:00",
+      "speaker": "WOZNIAK",
+      "sentences": "Sure. But you know what? You can't sort of be an executive in Apple and say, I want to be a nice guy. I really want to make, you know, texting wide open with others and share it. I want to let them run their own wallet apps.Well, the reason you can't do that is even if you're a nice person and you want to, you're not the owner. You have bosses. The bosses are the owners, and it's average people like you and me who bought the stock. And we don't care about if Apple is a good guy. We just want stock to go up. We just want profits.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:35:00",
+      "speaker": "COATES",
+      "sentences": "If only I had bought the stock once I had an Apple IIc as a young child. If only I had done so, we'd be in a very different world, I got to tell you.But when you think about that, is it clear to you then where Apple's interest in, say, privacy and also security, which they often talk about, a really big issue, they want to have this, I think the phrase is a walled garden effect where they want to be able to protect the end user from having security breaches and otherwise, is that -- is there a disconnect between those endeavors for privacy and security and then, of course, self-interest? WOZNIAK:  I think there are things you can say on all sides of it. I'm kind of glad for the protection that I have for my privacy and for not getting hacked as much. Apple does a better job than the others in tracking you. Tracking you is questionable but, my gosh, look at what we're accusing TikTok of, and then go look at Facebook and Google, and that's how they make their business. I mean, Facebook was a great idea, but then they make all their money just by tracking you and advertising. And Apple doesn't really do that as much. I consider Apple the good guy.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:35:00",
+      "speaker": "COATES",
+      "sentences": "Hey, what do you think about the fact that Congress has that prospective ban on TikTok? When you first heard about that, did you have a visceral reaction of any kind?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:40:00",
+      "speaker": "COATES",
+      "sentences": "There are a number of people, I'm sure, who are looking up to you right now and thinking, how could I be the next Woz? What could I do to enter into the wild, wild west and the novelty of it all?And one of the areas, of course, is AI, as you can imagine, because that seems to be the next frontier of how people are thinking about ways to use technology. And there are rumors now of Apple potentially getting in bed with Google for their generative AI software. Why does it seem like Apple isn't going full steam ahead with their own AI? Have they lost a step by not seeking out the Woz's of the future?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:40:00",
+      "speaker": "WOZNIAK",
+      "sentences": "I don't look at it that way because Apple has brought such a wonderful world of technology to those of us who use it. And they did it largely by, well, some people on the outside, maybe in the university. They make a lot of acquisitions every year. Find the good stuff, acquire it, bring it in, fine-tune it, and present it to the users in the most satisfying way.AI is one of these current categories, and maybe it takes an awful lot of effort to catch up with those who are already out there in the field. So, I don't look at it like it's some kind of negative comment about Apple. I'm glad they're going to get in and try to use AI. I hope they are the most responsible AI users and providers that there is. AI has real problems. You know, you don't really know why it generates what it does a lot of times. Even the people that create it don't know and say it's going to be five years before we have real AGI. And I hope that Apple gets into attribution. If you read something that came from AI, you can click on a word and see where on the internet, out of which article or which research paper that particular thing came from.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:40:00",
+      "speaker": "COATES",
+      "sentences": "You are currently involved in a lawsuit against YouTube, and you say they're responsible for hosting videos on their platform that have doctored videos of you, I believe, shilling cryptocurrency. Why do you think that YouTube is at fault?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:40:00",
+      "speaker": "WOZNIAK",
+      "sentences": "Well, I wouldn't say that.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:40:00",
+      "speaker": "COATES",
+      "sentences": "What would you say?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:40:00",
+      "speaker": "WOZNIAK",
+      "sentences": "I wouldn't say that they're responsible for hosting it. That's not the problem. It's not the problem. Section 230 says they can host it. We all agree with that. It's that they are, A, they're not responsive. When we report some of these crimes going on, obvious crimes, they won't even speak. You can't even get to a human to speak to anyway.But then if you take one down, it takes you 20 minutes filling out forms, and then 20 more pop up. And all YouTube would have to do is have one person assigned to a few of these cases. Maybe there's 50 of them going on now. Hire a team of five people to just all day long look for those 50. When they get posted, take them down instantly or write some software that doesn't allow something coming in saying, you know, Wozniak will send you two Bitcoin if you send me one. Yeah, so, I mean, if you saw that, you know, oh, you'll send one Bitcoin to Steve Wozniak, he'll send you back two, you might not do it. I mean -- but it's an obvious crime. And YouTube should be a good citizen. Good citizens should help absolve the crimes. We couldn't even talk to them or reach them. They didn't pull anything down until we filed a lawsuit.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:40:00",
+      "speaker": "COATES",
+      "sentences": "Wow. Well, we'll be following along. Thank you so much for joining us today.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:40:00",
+      "speaker": "WOZNIAK",
+      "sentences": "Oh, good being here.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:45:00",
+      "speaker": "COATES",
+      "sentences": "We have some breaking news on Capitol Hill. Let's bring in CNN's Melanie Zanona. Melanie, what can you tell us about what's going on right now?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:50:01",
+      "speaker": "ZANONA",
+      "sentences": "Well, the deal itself was bipartisan. It was hashed out between Speaker Mike Johnson, Chuck Schumer, the White House. It did have buy-in from all corners, but it was at the very top level. So, this was done with the top congressional leaders and the White House. The rank-and-file members were not very involved in this process.And that's why you had this last-minute drama at the very end, because members said they wanted time to read the bills. They wanted their opportunity to offer their amendment votes. They said this is a reasonable request, given this is a thousand-page bill.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:50:01",
+      "speaker": "COATES",
+      "sentences": "Right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:50:01",
+      "speaker": "ZANONA",
+      "sentences": "So that's why you saw this hang up at the very last minute. But in terms of looking ahead, remember, because they're already halfway through the fiscal year, they're going to have to do this all over again come September 30th. So that's going to be right before an election year. That's when the new fiscal year starts.So, they, again, don't have a whole lot of time before they have to start turning to the next round of government funding, which seems to be a never-ending issue around here, Laura.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:50:01",
+      "speaker": "COATES",
+      "sentences": "I mean, Melanie, this is nine minutes away from the deadline of midnight. There will be some type of a shutdown, although not extensive, if they're able to get it done relatively soon after that deadline. But what impact could this immediately have?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:50:01",
+      "speaker": "ZANONA",
+      "sentences": "Well, because it is over the weekend, it would be a very minimal impact. Most federal workers don't show up until Monday anyway. So, the American people aren't going to see a real impact. But I do think it is a statement on just the dysfunction in Congress, particularly in the House and among House Republicans.If you recall, the reason why Kevin McCarthy, the former speaker, was ousted in the first place was because he tried to put a stopgap funding bill on the floor. So, this has just been something that has really vexed Congress over the past few months, Laura.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:50:01",
+      "speaker": "COATES",
+      "sentences": "So, we're looking right now at live pictures of the Capitol as we are learning tonight that they have reached some deal in principle to avert this government shutdown in the Senate now. They will begin to vote shortly. Do we know -- are all the members present to be able to, A, get that quorum and to, B, actually get this over the hurdle?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:50:01",
+      "speaker": "ZANONA",
+      "sentences": "Well, luckily, lawmakers had not left. A lot of them were milling about. I caught some of them on their way to the floor. Some of them were in their offices nearby. Some of them were at their homes, which aren't that far away, a few blocks away from the Capitol. So, no one had left Washington yet. So, the expectation is they are going to be able to come back here and vote. It's going to take some time, though. Things do tend to move a little slow in the Senate. You heard Chuck Schumer there also in his announcement say we need everyone in their seats voting, we don't want this to drag out. So, he's clearly going to try to crack the whip here and try to get this going as quickly as possible.But it is going to take some time. Again, you're looking at the clock, and we're almost to that midnight deadline. So, this is going to be a process for them, potentially an hour, even a couple hours here, to get through all of those votes. And some of those votes might be contentious. Republicans had been pushing for votes on things like immigration and border, and there was resistance from Democrats who don't want to take these potentially tough votes, especially those vulnerable members, ahead of election year. Again, those amendments are not going to pass. If they did pass, that would be a whole new problem because they'd have to send it back to the House and send it back to the Senate. But this was more of a messaging exercise and more of members wanting to have their opportunity to try to put their stamp on the bill with these amendment votes. So that's what's going to go down here tonight before they move on to final passage, Laura.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:50:01",
+      "speaker": "COATES",
+      "sentences": "And those amendments that you say might be contentious, are there any in particular that we should be looking out for, listening out for tonight?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:50:01",
+      "speaker": "ZANONA",
+      "sentences": "There was some talk of trying to pass some sort of the Lake and Riley Act. That was the House bill that passed in response to a woman who was murdered, allegedly, by an undocumented immigrant in Georgia. So, there might be an amendment related to that. There's a whole host of other border and immigration-related amendments that they're pushing for as well.And Democrats also want their own amendments, so we'll have to see what they come up with. They're about to start voting on that very soon. Even if they don't pass, though, this is often used in the election. Sometimes, these tough votes that Democrats or Republicans have to take can be used in campaign ads, which is another incentive for sometimes why they want those votes in the first place.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:55:01",
+      "speaker": "UNKNOWN",
+      "sentences": "The CBP One app is a downloadable app to schedule appointments with CBP at a land port of entry. Under our existing asylum laws, noncitizens may apply for asylum at our nation's ports of entry.Using this app improves security because it provides CBP with advanced notice of who's arriving and those individuals have already passed security checks. About 1,400 appointments a day occur through the app. By providing people with advanced travel -- (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:55:01",
+      "speaker": "COATES",
+      "sentences": "Let's go back to Melanie Zanona as we're hearing about the CBP, of course, Customs and Border Patrol as they're talking about this app and national security, of course, immigration, top of mind in many of these amendments and discussions going forward. What's the latest now?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:55:01",
+      "speaker": "ZANONA",
+      "sentences": "Yeah, I mean, you just heard, they were talking about some of the amendments that they're going to be voting on. You heard Mike Lee. He's a conservative. He had been one of those Republicans who, railing against the deal itself, but wanting amendment votes, particularly on the issue of border and immigration.And it's important to keep in mind that a lot of those Republicans voted against a bipartisan border deal that had been worked out earlier in the year, but they are still eager to show that they are trying to do something to address the issue of the border because they have constituents, too. So, it's not just the politics on the Republican and Democratic side. They have these elections that they're thinking about. Again, a lot of the motivation here behind some of these amendment votes tonight.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:55:01",
+      "speaker": "COATES",
+      "sentences": "So, what do you think led to -- I mean, we were talking earlier this evening, many people opined that this would not likely happen tonight. It would maybe happen by Sunday in a vote. What do you think suddenly expedited it and gave this light, this fire under the feet of members of the Senate?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:55:01",
+      "speaker": "ZANONA",
+      "sentences": "There's something called jet fumes around here, which is when they just want to leave.(LAUGHTER) And like I said, there is supposed to be a two-week recess coming up. There's a lot of these congressional delegations. These are these big trips, usually overseas, that members from both parties and both chambers go on. There's a lot of those scheduled to come up. So that's another motivating factor. Easter is next weekend. And also, just the idea that they did not want to drag this into an actual shutdown, even though it's going to go past the midnight deadline. It's not going to have any impact. But if it were to go to Sunday or potentially even Monday, that would have an impact, and that would be a very negative headline that no one wanted to see in either party. So, I think they were very motivated by the idea they were so close. They knew this was going to pass anyway. And so, at the very end, they finally relented. They came to this agreement and decided to just get it done tonight. And that is a huge reason why they finally decided to just cave and have all these amendments and get out of town, Laura.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:55:01",
+      "speaker": "COATES",
+      "sentences": "People who are just tuning in right now, the deal has been reached in the Senate to avert a government shutdown. The deadline, three minutes or so away. They're going to be voting shortly. They're already talking about the amendments right now. So, Melanie, for those just tuning in, what happens now? The House has already said that this is going forward. Now, it's up to the Senate to decide. And then what?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:55:01",
+      "speaker": "ZANONA",
+      "sentences": "Yeah, so, right now, it's in the Senate's hands. They're going to vote on a number of these amendments. And then they will turn to final passage. But this process can take a while. It's not a quick vote like they are in the House. They can take a little bit longer. They also have to get everyone to the floor right now, because not everyone is around. They were either in their offices or off campus nearby. So, they're doing this quorum vote, which is going to basically get everyone in the chamber. And then once that happens, they can turn to the vote series.But it's going to take some time. Schumer was already admonishing people, telling them they need to stay in their seats and be voting and trying to move this quickly because everyone wants to get home. So, it could be an hour or a few hours before they finally turn to the final vote series here. But once they do, it is expected to pass. Remember, it is a 60-vote threshold also for these amendments that they're going to be voting on. So those are not expected to be added to the final bill. If they did, then they would have to ping-pong it back to the House. So really, these amendment votes, keep in mind, are just messaging exercises. So that's what's going to play out over the next hour or so here before they finally turn to this massive bill to fund the rest of the government.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:55:01",
+      "speaker": "COATES",
+      "sentences": "So, first, they'll have these amendments, they'll have people speaking on the floor, addressing likely what they want their constituents to hear them talking about, then they'll move on to the ultimate vote on the substance of it. That is expected to pass, and the government will be averted in terms of the shutdown?",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

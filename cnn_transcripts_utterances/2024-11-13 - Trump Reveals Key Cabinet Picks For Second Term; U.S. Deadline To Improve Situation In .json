@@ -1,0 +1,643 @@
+{
+  "date": "2024-11-13",
+  "headline": "CNN Newsroom",
+  "subHeadline": "Trump Reveals Key Cabinet Picks For Second Term; U.S. Deadline To Improve Situation In Gaza Passes; Judge Delays Ruling On President- Elect Trump's Conviction In Hush Money Case; Authorities Regain Control After Inmate Classes Kill 15; Israel Not In Violation of U.S. Law, Gaza Aid Will Be Monitored; U.N. Meets as Experts Warn of Famine in Northern Gaza; Beijing and Moscow Grow Closer to Counter U.S. Influence; 35 Killed in China's Deadliest Known Attack in a Decade; Interview with UNICEF Global Spokesperson James Elder; U.N. Chief Warns \"Final Countdown\" to Limit Global Warming, Scientists Fear Glacial Melt's Impact on Volcanic Eruptions; Archbishop of Canterbury Resigns over Child Abuse Case. Aired 1-2a ET",
+  "utterances": [
+    {
+      "timeStamp": "01:00:22",
+      "speaker": "PAULA NEWTON, CNN ANCHOR",
+      "sentences": "Hello, I'm Paula Newton. Ahead right here on CNN Newsroom. U.S. President-elect Donald Trump is quickly filling positions in his new administration, including defense secretary and CIA chief.The U.S. deadline for Israel to improve humanitarian conditions in Gaza has passed as aid organizations say the situation is only getting worse. And China is bolstering ties with Russia ahead of the incoming Trump administration and showing off its military modernization.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:00:22",
+      "speaker": "ANNOUNCER",
+      "sentences": "Live from Atlanta. This is CNN Newsroom with Paula Newton.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:00:22",
+      "speaker": "NEWTON",
+      "sentences": "So one of the major questions about the incoming Trump administration has finally been answered. What role will Elon Musk play? Well, the U.S. president-elect has announced that the Tesla CEO and Vivek Ramaswamy will lead what he calls the Department of Government Efficiency.Trump says they will be in charge of cutting bureaucracy, excessive regulations and wasteful speech spending. Musk released a statement saying, quote, this will send shockwaves through the system and anyone involved in government waste, which is a lot of people. Trump, meantime, says a smaller government with more efficiency and less bureaucracy will be the perfect gift to America on the 250th anniversary of the Declaration of Independence. I am confident they will succeed. Now, the incoming president has also announced a number of other picks for his cabinet and administration. He has asked Fox News host Pete Hegseth to be his defense secretary. Hegseth served in the U.S. Army in Iraq and Afghanistan and is known for his work as a veterans rights advocate. Trump has chosen John Radcliffe to be his CIA director. The former Republican congressman from Texas served as director of national intelligence for part of the first Trump administration. The president-elect has picked longtime friend Steve Witkoff as special envoy to the Middle East. Real estate developer is also a chair of Trump's presidential inaugural committee. And Trump has announced Mike Huckabee as his choice for U.S. Ambassador to Israel. The former Arkansas governor has a long history of supporting Israel, including its claims to the West Bank. And he made this controversial comment about Palestinians in 2008. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:00:22",
+      "speaker": "MIKE HUCKABBE, FORMER ARKANSAS GOVERNOR",
+      "sentences": "Basically, there really is no such thing as I have to be careful in saying this because people really get upset. There's really no such thing as a Palestinian. There's not. You have Arabs and Persians. And there's such complexity within that. But there's really no such thing that's. That's been a political tool to try to force land away from Israel.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:00:22",
+      "speaker": "NEWTON",
+      "sentences": "Now, I spoke earlier with Ron Brownstein, CNN senior political commentator and senior editor at The Atlantic. And I asked him if this is the cabinet Americans voted for.(BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:00:22",
+      "speaker": "RON BROWNSTEIN, CNN SENIOR POLITICAL ANALYST",
+      "sentences": "This time he is picking people he believes are personally loyal to him. There are many choices that are probably causing heads to scratch elsewhere in the Republican Party. The defense secretary, for example, Elon Musk and Vivek, you know, being asked to overhaul the federal government. Trump does not believe he really needs to give ground to anyone inside the GOP. And this cabinet reflects that.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:00:22",
+      "speaker": "NEWTON",
+      "sentences": "And let's get to that nominee for the defense secretary position. Fox host, now former, I guess, and military vet Hegseth. I want you to listen to what he said just a few days ago. Listen.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:00:22",
+      "speaker": "BROWNSTEIN",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:00:22",
+      "speaker": "PETE HEGSETH, AUTHOR AND FOX NEWS HOST",
+      "sentences": "I'm surprised there hasn't been more blowback on that already in the book because I'm straight up just saying we should not have women in combat roles. It hasn't made us more effective, hasn't made us more lethal, has made fighting more complicated.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:00:22",
+      "speaker": "NEWTON",
+      "sentences": "You know, according to CNN reporting, Ron, many even around Trump were surprised at this appointment. What do you think it means for the Defense Department and for military strategy going forward?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:05:00",
+      "speaker": "NEWTON",
+      "sentences": "Yes, exactly, which is a good point because some of this does have to be approved. Getting to the Department of Government Efficiency, Elon Musk. Ron, he may be an inventor, but you and I both know this is not an original idea. Al Gore did it first in 1993. Take a listen to him with the Letterman Late Night.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:05:00",
+      "speaker": "BROWNSTEIN",
+      "sentences": "OK.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:05:00",
+      "speaker": "AL GORE, FORMER VICE PRESIDENT OF THE UNITED STATES",
+      "sentences": "It's costing taxpayers a lot of money. That's why we want to get --DAVID LETTERMAN, HOST, \"LATE NIGHT WITH DAVID LETTERMAN\": Testing procedure is what's costing the money.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:05:00",
+      "speaker": "GORE",
+      "sentences": "The way we buy the government buys stuff like this is crazy.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:05:00",
+      "speaker": "LETTERMAN",
+      "sentences": "I guess I just don't understand politics.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:05:00",
+      "speaker": "NEWTON",
+      "sentences": "So that was, you know, the ashtray addition.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:05:00",
+      "speaker": "BROWNSTEIN",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:05:00",
+      "speaker": "NEWTON",
+      "sentences": "You know, Al Gore was making a point saying, look, the government spends too much. I mean, look at the heart of it. Do you believe this is a stunt or perhaps worse, a purge of the federal government? Or can Elon Musk actually do what Americans want him to do, which is cut the fat from government?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:05:00",
+      "speaker": "BROWNSTEIN",
+      "sentences": "You know, it's not even Al Gore. That's the full precedent. Paula, do you remember, I don't know if anybody remembers the name Peter Grace. Peter Grace was an American CEO who was named by Ronald Reagan to lead his Elon Musk, Vivek Ramaswamy Department of Efficiency. And when Reagan named Peter Grace in March of 1982. He said, we want your team to work like tireless bloodhounds. Don't leave any stone unturned in your search to root out inefficiency.And you can see how effectively inefficiency has been rooted out in the federal government here, 43 years later. You know, there's a long history of people in business thinking that they can bring kind of those approaches to the federal government. The history is, you know, that these efforts, while they may find some inefficiencies, they cannot fundamentally, you know, restructure federal operations, both because all sorts of rules, but also because the vast majority of federal money is not wasted. You know, the biggest thing the federal government does is provide retirement security to seniors through Medicare and Social Security and Medicaid for long term care. You know, it's been described as an insurance company with an army. And so, yes, you can squeeze here and there, but there is no way to radically reduce federal spending along the magnitude that Ronald Reagan promised or that Donald Trump and Elon Musk are now promising without significantly changing what it does. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:05:00",
+      "speaker": "NEWTON",
+      "sentences": "And our thanks there to CNN senior political commentator Ron Brownstein. New York prosecutors and attorneys for Donald Trump will have another week to hash out how to proceed in Trump's hush money case. The judge's latest decision is raising questions about whether Trump will ever be sentenced for his 34 felony convictions. CNN's Paula Reid reports.(BEGIN VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:05:00",
+      "speaker": "PAULA REID, CNN CHIEF LEGAL AFFAIRS CORRESPONDENT",
+      "sentences": "Judge Juan Merchan has delayed his decision about whether President elect Trump's conviction, the hush money case earlier this year on 34 counts of falsifying business records should be tossed out after the Supreme Court ruled that presidents have some immunity for their official acts, including the fact that you cannot use official access evidence in a case, which is exactly what happened in the Manhattan case.Now, the reason the judge decided to delay this is because both sides of prosecutors and defense attorneys agreed that they need more time to figure out exactly how they address the questions in this case now that Trump is headed back to the White House and is president-elect. CNN has previously reported that the Trump team will now argue that as President-Elect Trump cannot be sentenced, that he has constitutional protections from either being indicted or prosecuted or even sentenced by state actors. Now, it's unclear if that will be successful, but the judge has at least one more week before he has to make any decision in this case. And we can expect both sides will likely weigh in with their thoughts on this over the next. Paula Reid, CNN, Washington. (END VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:05:00",
+      "speaker": "NEWTON",
+      "sentences": "Joining us now, Corey Brettschneider. He's professor of political science at Brown University and author of the recent book \"The Presidents and the PeopleAnd we need to start there in that New York courtroom once again, the so called hush money trial. I mean, Judge Juan Merchan again delayed any kind of ruling on this until at least next week. But if we look at it in broad terms, at the end of the day, this is still a former president, now a president-elect convicted felon. Many challenges on this case that are absolutely unprecedented.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:10:06",
+      "speaker": "NEWTON",
+      "sentences": "And you make very good points that we will get to after I actually point out to everyone it is not just the New York case. I mean, just to remind everyone of the cases that are up. It isn't just the federal one, as I was saying, but also cases in these states. So we want to talk about the case right here in the state of Georgia. We've got that was an election interference, but we also have the Department of Justice and the special counsel weighing in on both election interference and the classified documents case.At the end of the day, do you expect any of this to really hit a courtroom in the way it is intended right now?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:10:06",
+      "speaker": "BRETTSCHNEIDER",
+      "sentences": "Unfortunately, no. I think that these cases are winding down and likely either to go away or be postponed, hopefully postponed if justice is to be served until after Trump is out office, which of course might or might not happen if he lives that long.But the idea here really is more directly about the policy of the Department of Justice. And since the Nixon administration, and it was affirmed during the Clinton administration, the Department of Justice has had a policy that says sitting presidents cannot be prosecuted. And so that is running head on into the Jack Smith investigations, both in the January 6th case and as well in the documents case. And he's seeing that looming policy and thinking I better wind this down because I can't have an ongoing trial when Trump is president of the United States.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:10:06",
+      "speaker": "NEWTON",
+      "sentences": "I do want to weigh in, though, as well. I want you to weigh in on this issue of immunity that now the Supreme Court has ruled on that. And whether you agree with it or not, at the end of the day, that is the Supreme Court of the land who has bestowed on any president, not just President-Elect Trump, an immunity that will continue to really play a role in any of these cases. Right? BRETTSCHNEIDERhow that decision, even though it is a Supreme Court decision, is itself a lawless decision. It isn't based in the Constitution's text. There is a case about civil immunity which is very different than criminal immunity. And so they really have made it up. They've created this immunity. And let's talk about what's so dangerous about it. They've created it in regard to the moments in which the President is most dangerous. The official duties of a president are the ones in which they might actually destroy democracy. And after all, January 6th was an attempt at a self-coup, an attempt at to destroy democracy. Now, Jack Smith had ways around it. He was arguing that it wasn't just official duties. But to my mind, the decision is actually flawed. And of course, in the United States there are ways to push back against the Supreme Court. We could have legislation that narrows the immunity decision. We could have a constitutional amendment that overturns it. And that's what citizens really need to do now is not just take this decision as is, but think about fighting back against it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:10:06",
+      "speaker": "NEWTON",
+      "sentences": "Well, it is a point that no matter which side of the argument you're on here, checks and balances, right? That is what was supposed to be in play throughout all of this. We're going to have to leave it there for now, but I'm sure a continuing discussion. Professor Brettschneider, thanks so much. Appreciate it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:10:06",
+      "speaker": "BRETTSCHNEIDER",
+      "sentences": "Thanks so much. Thanks for having me.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:16:22",
+      "speaker": "NEWNTON",
+      "sentences": "Authorities in Ecuador say they have regained control of one of the country's largest and most dangerous prisons. Violent clashes between inmates at the penitentiary in the coastal city of Guayaquil left at least 15 people dead and 14 injured early Tuesday.The attorney general's office says at least nine inmates will face murder charges. In the past three years, more than 130 people have been killed at the prison during an uprising and clashes between rival gangs. The Dutch parliament will hold a debate in the coming hours on the violence against Israeli soccer fans in Amsterdam. Dutch police detained several people on Tuesday who had defied a ban on protests that was put in place after violent clashes last week between Israeli football fans and pro-Palestinian supporters. Violent protests continued this week with protesters setting a tram and bus on fire Monday. Israel's far-right finance minister has sparked condemnation after ordering preparations for the annexation of settlements in the Israeli occupied West bank. That move likely to heighten tensions amid a surge in Israeli settler violence against Palestinians in the West Bank. CNN's Nic Robertson with our report. (BEGIN VIDEOTAPE) NIC ROBERTSON, CNN INTERNATIONAL DIPLOMATIC EDITOR (voice-over): This is the face of Israeli settler intimidation in the occupied West Bank.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:16:22",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Next time I won't be nice.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:16:22",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "This is my house. Don't touch my cows.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:16:22",
+      "speaker": "UNDIENTIFIED MALE",
+      "sentences": "This is my house.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:16:22",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "I don't fucking care if this is your house. This is my house now.ROBERTSON (voice-over): It was early August. Hamdan Blall is the Palestinian farmer they'd come to intimidate.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:16:22",
+      "speaker": "HAMDAN BLALL, PALESTINIAN FARMER",
+      "sentences": "I was asleep under this grapeseed tree. I was asleep there.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:16:22",
+      "speaker": "ROBERTSON",
+      "sentences": "This is your farm here?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:16:22",
+      "speaker": "BLALL",
+      "sentences": "Yes. And when I wake up, I saw the cows grazing.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:16:22",
+      "speaker": "ROBERTSON",
+      "sentences": "The settlers cows?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:16:22",
+      "speaker": "BLALL",
+      "sentences": "Yes, the settlers.ROBERTSON (voice-over): Not for the first time. The settler threatening him, putting his livestock on Blall's hand.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:16:22",
+      "speaker": "BLALL",
+      "sentences": "They bring the sheep to grazing in our field. The plan is. It's like to steal our land when they destroyed everything.ROBERTSON (voice-over): A plan to take his land and farm that he says accelerated when the Gaza war began.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:16:22",
+      "speaker": "ROBERTSON",
+      "sentences": "All those outposts have been built since October 7th.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:16:22",
+      "speaker": "BLALL",
+      "sentences": "Yes.ROBERTSON (voice-over): On this occasion, the settlers getting closer and more aggressive. The day with the cows worse than previous.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:16:22",
+      "speaker": "BLALL",
+      "sentences": "Touch my cows. Touch my cows. I dare you. I dare you. UNIDENTIFIED MALEyour phone, lower your phones.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:16:22",
+      "speaker": "BLALL",
+      "sentences": "You threaten me in my house Shem Tov? This is my house. This is my house. You cover your face, but we know you.ROBERTSON (voice-over): The settler whom Bilal says he recognizes, claiming God gave him the land.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:16:22",
+      "speaker": "BLALL",
+      "sentences": "This is my house.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:16:22",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "I was given it by God. And Abraham, Isaac, Jacob.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:16:22",
+      "speaker": "ROBERTSON",
+      "sentences": "When the settlers are here and threatening you, what's going through your mind?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:16:22",
+      "speaker": "BLALL",
+      "sentences": "I can't explain it, how I'm feeling. It's like broken me.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:16:22",
+      "speaker": "ROBERTSON",
+      "sentences": "Did you call the police?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:16:22",
+      "speaker": "BLALL",
+      "sentences": "I called the police. I talked with them. It's like seven minutes.ROBERTSON (voice-over): Bilal says the Israeli police didn't come. They declined to comment to CNN. Things really got ugly after that call.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:16:22",
+      "speaker": "BLALL",
+      "sentences": "What do you want?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:16:22",
+      "speaker": "UNDIENTIFIED MALE",
+      "sentences": "I want to dance you man.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:16:22",
+      "speaker": "BLALL",
+      "sentences": "Dace with me?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:16:22",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "I want to dance with you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:16:22",
+      "speaker": "BLALL",
+      "sentences": "I am not your bitch.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:16:22",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "You are my bitch and you look sweet.ROBERTSON (voice-over): Then, in Hebrew, he threatens to rape Blall.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:16:22",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Rape in the name of God they say. You get what I am saying?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:20:10",
+      "speaker": "MUKHTAR AHMED, RELATIVE OF DECEASED",
+      "sentences": "I question the Netanyahu and the government of Israel, why killing?ROBERTSON (voice-over): And the conclusion they are coming to is that Netanyahu's government feels it can act with impunity.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:20:10",
+      "speaker": "MUNTHER AMIRA, POPULAR STRUGGLE COORDINATION COMMITTEE",
+      "sentences": "The government is trying to show the international community that they are taking some settlers. But it was clear yesterday a Palestinian have been killed here. We know that the settlers who have been, you know, shooting toward our houses.ROBERTSON (voice-over): Back at Hamdan Bilal's farm, I asked Israeli peace activist Shai Parnes, whose group, B'Tselem, released the video of the settler attack why is settler violence up? SHAI PARNES, B'TSELEM SPOKESPERSON: They just don't hide anything anymore. That's what's really changed.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:20:10",
+      "speaker": "ROBERTSON",
+      "sentences": "And why don't they hide it anymore?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:20:10",
+      "speaker": "PARNES",
+      "sentences": "Because this is part of their ideology and they don't care because they see nothing happens to them. They bombard Gaza for 10 months with tens of thousands of Palestinian casualties, and still Israel has total impunity.ROBERTSON (voice-over): He says he believes authorities know who threatened Bilal, a nearby settler, Shemtov Lusky (ph).",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:20:10",
+      "speaker": "ROBERTSON",
+      "sentences": "So, why isn't he arrested?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:20:10",
+      "speaker": "PARNES",
+      "sentences": "Because that's always Israel policy, state violence, as well as settler violence, is to expel Palestinians, make their life miserable, and to steal their land.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:20:10",
+      "speaker": "ROBERTSON",
+      "sentences": "Hi, this is Nic Robertson with CNN. Is this Shemtov?ROBERTSON (voice-over): I call Lusky (ph).",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:20:10",
+      "speaker": "ROBERTSON",
+      "sentences": "I want to talk to you about the video of you threatening farmer Hamdan Blall and Susir (ph). Was that you?ROBERTSON (voice-over): At first, he denies it was him. SHEMTOV LUSKY (ph), SETTLER: No.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:20:10",
+      "speaker": "ROBERTSON",
+      "sentences": "It wasn't you?LUSKY (ph): It wasn't me. ROBERTSON (voice-over): I play him the video.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:20:10",
+      "speaker": "ROBERTSON",
+      "sentences": "You recognize this?LUSKY (ph): Next time we won't be nice. You understand this. Don't touch me.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:20:10",
+      "speaker": "ROBERTSON",
+      "sentences": "You recognize that? That's your voice. That's your voice.LUSKY (ph): OK. It's my voice. ROBERTSON (voice-over): I want to ask to meet for an interview that he hangs up. LUSKY (ph): Go fuck yourself. ROBERTSON (voice-over): I call again LUSKY (ph): All day long, they're telling the cops I was here. ROBERTSON (voice-over): When I ask him to tell me more about his conversations with the police, he changes the subject. LUSKY (ph): I didn't do anything because I am free and because I didn't do anything wrong to anybody. So --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:20:10",
+      "speaker": "ROBERTSON",
+      "sentences": "Shemtov (ph), listen, we both know this is you. We both know this is you. So, let's sit down and do an interview politely together.LUSKY (ph): Nic.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:20:10",
+      "speaker": "ROBERTSON",
+      "sentences": "Yes, sir.LUSKY (ph): First of all, I don't care what you think. Second of all, I don't care what anybody in your country think of me. ROBERTSON (voice-over): I ask again to meet him. He wants money. LUSKY (ph): Five-minute interview, $10,000. OK. OK. Bye-bye.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:20:10",
+      "speaker": "BILAL",
+      "sentences": "I will die here.ROBERTSON (voice-over): Blall knows Lusky's (ph) apparent impunity isn't just putting his land on the line, but his life too.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:20:10",
+      "speaker": "BLALL",
+      "sentences": "If he will kill you, he will take it. If you accept that, he will take it in any way that you feel in his voice, he has like powerful, big powerful behind him.ROBERTSON (voice-over): Nic Robertson, CNN, Susya, the occupied West Bank. (END VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:27:13",
+      "speaker": "NEWTON",
+      "sentences": "And welcome back. You are watching CNN Newsroom. I'm Paula Newton. The families of U.S. hostages captured by Hamas are now hoping that President-Elect Trump will be able to bring their loved ones home. The families met with Biden administration officials at the White House on Tuesday. They have yet to meet with Mr. Trump or his running mate, J.D. Vance, but they're hoping Trump will prioritize their family members still trapped in Gaza.(BEGIN VIDEO CLIP) RUBY CHEN, FATHER OF SLAIN ISRAELI-AMERCIAN HOSTAGE ITAY CHEN: I would give the Biden administration an A on effort and relationship with the families, but at the end of the line, we're still here after 400 days. So they have not succeeded in delivering what they should, which is bringing back U.S. hostages out of Gaza. We have hope again that President-elect Trump recently said at the RNC conference that he puts a high priority on hostages. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:27:13",
+      "speaker": "NEWTON",
+      "sentences": "Meantime, protesters in Israel are also demanding their government keep their attention on the hostages and bring them home. There have been growing concerns that Qatar announced that after Qatar announced it has paused its role as mediator for Gaza ceasefire and hostage release talks due to the lack of willingness by Israel and Hamas to reach an agreement.The U.S. says Israel is not in violation of U.S. law and has made some progress in improving the humanitarian situation in Gaza. These comments from the State Department come on the 30-day deadline for Israel to have taken steps to improve the situation in the enclave. But not everyone agrees with the US assessment. Eight Humanitarian aid organizations say Israel has failed to meet the U.S. criteria. At the United Nations Tuesday the U.S. ambassador to the U.N. stressed there's more work to do. (BEGIN VIDEO CLIP) LINDA THOMAS-GREENFIELD, U.S. AMBASSADOR TO THE UN: Israel has taken some important steps, including restoring aid deliveries to the north. Still, Israel must ensure its actions are fully implemented and its improvements sustained over time. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:27:13",
+      "speaker": "NEWTON",
+      "sentences": "The U.N. Security Council meeting comes as experts warn of a strong likelihood of a famine in northern Gaza, or an Israeli military offensive is still underway. One top U.N. official had this to say about the dire situation.(BEGIN VIDEO CLIP) JOYCE MSUYA, U.N. ACTING UNDERSECRETARY-GENERAL FOR HUMANITARIAN AFFAIRS: Most of Gaza is now a wasteland of rubble. What distinction was made and what precautions were taken if more than 70 percent of civilian housing is either damaged or destroyed. We are witnessing acts reminiscent of the gravest international crimes. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:27:13",
+      "speaker": "NEWTON",
+      "sentences": "CNN's Alex Marquardt has details now from Washington.(BEGIN VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:30:00",
+      "speaker": "NEWTON",
+      "sentences": "Now, as Donald Trump works on building his new administration, Europe is bracing for what his next presidency could bring.Secretary of State Antony Blinken is in Brussels right now where he's expected to meet with NATO Secretary General Mark Rutte ahead of a wider meeting with European officials in the coming hours. The agenda will undoubtedly focus on future support for Ukraine, the NATO alliance and the issue of tariffs. Mr. Trump has suggested he would only support NATO's mutual defense commitment for countries he feels are contributing enough of their annual budgets to defense. China and Russia are drawing closer together, both militarily and economically, in order to counter what they see as growing threats from the West. And they're trying to capitalize on the uncertainty that the new Trump administration in the United States will bring. CNN's Fred Pleitgen is in Moscow for us. (BEGIN VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:30:00",
+      "speaker": "FREDERIK PLEITGEN, CNN SENIOR INTERNATIONAL CORRESPONDENT",
+      "sentences": "Jet fighters streaking across the skies at China's largest air show, aiming to show just how fast the People's Republic is modernizing its massive military.China's main partner is Russia. The head of the Russian national security council, Sergei Shoigu in Beijing, praising ever closer ties. \"We are not a military political alliance like the ones formed during the Cold War\", he says. \"Relations between our countries are superior to those forms of inter-state ties.\" This, as China shows off its brand-new stealth fighter called the J- 35A for the first time ever. While the Russians were showcasing their own stealth jet, the SU-57, which has already been used in combat operations. Russia and China have dramatically expanded their military cooperation in recent years, with regular exercises like these major naval drills, the Russians say were the largest in more than 30 years. This, as Vladimir Putin says he wants what he calls a new world order with less U.S. influence and more power in the hands of countries like Russia and China. \"Russian-Chinese cooperation and world affairs act as one of the main stabilizing factors in the global arena,\" he said. And China's Xi Jinping added, \"In the face of the turbulent international situation and external environment, the two sides should continue to uphold the original aspiration of friendship for generations to come.\" All this as relations with the U.S. grow ever more adversarial. Washington concern about Chinese territorial claims and military expansion in the South China Sea. President-elect Donald Trump vowing to rein Beijing in. DONALD TRUMP, PRESIDENT-ELECT OF THE UNITED STATES: There are certain countries I can tell you, everyone. I can give you from top to bottom, China is the toughest of all. But we're taking care of China with the tariffs.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:34:48",
+      "speaker": "PLEITGEN",
+      "sentences": "The U.S. also believes more than 10,000 North Korean soldiers are currently fighting on Russia's side in its war against Ukraine.Russian political analyst Sergei Markov telling me the alliances forged by Vladimir Putin will be a major issue for the new administration.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:34:48",
+      "speaker": "SERGEI MARKOV, RUSSIAN POLITICAL ANALYST",
+      "sentences": "All this coalition has a major goal, to support each other in the only one thing -- sovereignty.And because the challenge to the sovereignty comes first of all from the United States and general west coalition, it moves them automatically as a little bit anti-American.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:34:48",
+      "speaker": "PLEITGEN",
+      "sentences": "Fred Pleitgen, CNN -- Moscow.(END VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:34:48",
+      "speaker": "NEWTON",
+      "sentences": "China is grappling with the country's deadliest known attack on the public in a decade. People are leaving flowers and candles in the southern city of Zhuhai for dozens of victims of a car crash, which appears to have been deliberate.Police say 35 people were killed and 43 were injured on Monday when a man drove an SUV into the crowds who were exercising at an outdoor sports center. Police caught the 62-year-old driver as he tried to flee the scene. CNN's Marc Stewart has been following the story for us in Beijing. It is absolutely heartbreaking and quite frankly, what's been posted online is just shocking. And obviously there's profound grief, not just in southern China but throughout the country.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:34:48",
+      "speaker": "MARC STEWART, CNN CORRESPONDENT",
+      "sentences": "No question, Paula.This is happening in southern China but there is this collective feeling of sadness all across China. And of course people want answers. They want explanation. And at this point, police are saying that this man, the 62-year-old man, may have been upset about some aspects of his divorce settlement. They want to question him, but as of last night he was unconscious, unable to communicate with investigators. They say he harmed himself as he was trying to flee. They found a knife in his vehicle. He has a lot of injuries to his neck. His neck is injured, so that is adding to the difficulty in all of this. But it is certainly raising a lot of questions about the current environment in China. Right now, there is a lot of economic hardship, and in several cases over the past year, we have seen instances where people do mass harm, whether it be at a recreation type center, as we saw here in front of a school. There was a situation earlier this year where a bus plowed in front of a crowd, in front of a school. Guns are very difficult to get here. Knives often are used in attacks like this as well as motor vehicles. This is also a place where there is a lot of surveillance. So people, I don't want to use the word \"deter\" or deterred from, from doing things like this. But it's just not something we see all that common. But there is some increased awareness as to what is happening -- to what is happening here. Statistically speaking, violent crimes like this, for the most part, have been very rare in a population of more than a billion people. What has transpired though, over the last 48 hours, is certainly catching the attention of government officials. Not a surprise, some of the images, ranging from the aftermath, to even some of memorials to an extent, have been censored in Chinese media. A way for the government to try and keep a very clear direction of this message. Chinese President Xi Jinping also weighing in, Paula saying that all needs to be done to help the victims and their families.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:34:48",
+      "speaker": "NEWTON",
+      "sentences": "Yes, absolutely.Mark, I really appreciate you following the story for us live from Beijing. Now we want to go back to one of our top stories. The U.S. State Department says Israel has made progress in providing humanitarian aid in Gaza. Joining us now from Beirut is James Elder. He is the global spokesperson for UNICEF. And good to speak with you again, James. I mean, what do you think of the U.S. assessment, given what you know is happening on the ground in Gaza.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:39:46",
+      "speaker": "ELDER",
+      "sentences": "That's why we now see children die unnecessarily, not just under rubble, because emergency workers can't get to them, Paula, but also in hospitals, as I saw last month. They just don't have the medical equipment.So Paula, we've reached a place where suffering stretches the limits of what we thought was possible. But things can get worse and things are getting worse because aid is not allowed in. Aid is not allowed to move freely. And the level of bombardment is also at levels that Gaza has not seen in quite a long time, particularly the north, particularly the north. But in the south where winter is coming, where the rains have started, we've been able to get in around 10 percent of what people need in terms of tents, tarpaulins, blankets, because they had homes and now they're in tents. So winter is a terrifying time for those people in the south of Gaza.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:39:46",
+      "speaker": "NEWTON",
+      "sentences": "And unfortunately so depressing. This sounds familiar obviously to what people had already gone through last year at this time, with the rains coming.I want to ask you, though, the United States says that there has been improvement. Has there been improvement and how would you estimate in terms of the impact it's had on the ground in Gaza if you do think things have improved at all?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:39:46",
+      "speaker": "ELDER",
+      "sentences": "Yes, if we look -- without being privy to exactly the letter, if we look to the -- to the level that was needed, the level that was asked and absolutely no, not to a level that will save lives that are required.And I know we hear -- we hear statements all the time in terms of, you know from those with the legal responsibility here -- Israel is that occupying power. But look, Paula, truth has long been a casualty of this war and history will be very clear and it will be utterly (ph) damning on those that have enabled this to happen, that those with influence have enabled these atrocities. You don't get to thousands and thousands and thousands of girls and boys being killed without, you know, without a level of indiscriminate attacks that have been consistently denied. And it's not just -- it's interesting, it is tragic to note -- not just aid coming in, which is costing lives for a population who can't leave. It's also, you know there are 2,500 children who somehow survived, somehow survived a bombardment, got pulled from the rubble, and I've seen these children and they are denied the ability to leave, to medical care that is literally hundreds of kilometers away. I know Paula. Every day I get messages of another child who, you know, tomorrow will now have another arm amputated because the medical care is not there. So the reality is, as brutal as it is to speak of on those three things that matter most. Hostages, if there was a serious desire to get hostages free, and those that that imagine that suffering and those people in Israel and those family members, that torment. When there was a ceasefire, when there was serious negotiations Paula, a year ago, more than 100 hostages went home. Since then, under military means that's seen the devastation we've got now less than ten. So on all fronts -- aid coming in, wounded children, children coming out and hostages -- there has not been a serious effort to protect civilians and this is getting worse.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:39:46",
+      "speaker": "NEWTON",
+      "sentences": "James, what responsibility does Hamas have here at this point? Because, you know, the IDF says that a lot of that aid goes to the terror group.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:39:46",
+      "speaker": "ELDER",
+      "sentences": "You know, obviously -- you know there is no doubt they have a responsibility in terms of what happened on October 7th and that now we are in a situation, of course, where having been in Gaza so many times in any theater of war, does some aid get diverted? Yes.Can I safely say, can all U.N. agents say -- U.N. agencies safely say that the vast majority of aid goes to the 2.2 million civilians who require it? The medicines, the anesthetics, the tents, the tarpaulins -- all these things are required by civilians. And it is another utter distortion that we consistently hear that the reason aid is blocked. So we have to choose -- either aid is blocked or restricted, or as we are told by the occupying power, it's allowed in, but it's taken. The level of falsehoods is so great that it's unclear as to what reason is given. What we know is civilians on the ground are dying because of bombardments. They're dying because of a lack of aid. Polio occurred because the health system was devastated. These realities are facing 2.2 million civilians not however many combatants we talk about.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:44:34",
+      "speaker": "NEWTON",
+      "sentences": "The third day of the United Nations' Climate Change Conference, COP29, is now underway. Tuesday kicked off the world leaders Climate Action Summit where the U.N. Secretary General Antonio Guterres issued a dire warning on the urgency to act.(BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:44:34",
+      "speaker": "ANTONIO GUTERRES, UNITED NATIONS SECRETARY GENERAL",
+      "sentences": "The sound you hear is the ticking clock. We are in the final countdown to limit global temperature rise to 1.5 degrees Celsius and time is not on our side.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:44:34",
+      "speaker": "NEWTON",
+      "sentences": "Meanwhile, the president of Azerbaijan, the host country, pushed back on what he called the West's double standards, rejecting the label of a petro state and defending his country's right to use any and all available natural resources, including oil and gas.(BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:44:34",
+      "speaker": "ILHAM ALIYEV, PRESIDENT OF AZERBAIJAN",
+      "sentences": "It's a gift of the gods, every natural resource, whether it's oil, gas, wind, sun, gold, silver copper -- all that are natural resources. And countries should not be blamed for having them and should not be blamed for bringing these resources to the market because the market needs them. The people need them.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:44:34",
+      "speaker": "NEWTON",
+      "sentences": "The impact of climate change on Iceland's rapidly melting glaciers is well known, but what about on its volcanoes?CNN meteorologist Elisa Raffa reports on the science (ph) that's working to find out whether melting glaciers can make for far more explosive volcanic eruptions. (BEGIN VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:44:34",
+      "speaker": "ELISA RAFFA, CNN METEOROLOGIST",
+      "sentences": "A land of ice and fire. Iceland is renowned for both its stunning volcanoes and glaciers. But scientists are now studying whether climate change is affecting the balance between these two natural wonders.Around 2 million tourists visit Iceland each year, many hoping to see an active volcano showering red hot lava or get a glimpse of a cool blue glacier thousands of years old. But researchers say there could be a connection between melting glaciers which are shrinking because of rising global temperatures and the frequency of volcanic eruptions.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:44:34",
+      "speaker": "MICHELLE PARKS, VOLCANOLOGIST",
+      "sentences": "Iceland is essentially one of the best places in the world to study this. It's a natural laboratory because we have both volcanism and glaciers.So at the moment about 10 percent of Iceland is covered by glaciers, and we have over 32 active volcanoes here.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:49:50",
+      "speaker": "RAFFA",
+      "sentences": "But with recent eruptions in Grindavik, a town in southwest Iceland which not only put on a spectacular lava show but also forced the evacuation of the town's residents, scientists are eager to learn more about what's triggering such volatility.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:49:50",
+      "speaker": "FREYSTEINN SIGMUNDSSON, GEOPHYSICIST, UNIVERSITY OF ICELAND",
+      "sentences": "There are many benefits of volcanoes. All these geothermal -- geothermal heat, the heat of the houses is geothermal so lots of benefits.But now with the activity in southwest Iceland, where a lot of property has been destroyed and people have need to move out, we are again reminded about how hazardous volcanoes are.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:49:50",
+      "speaker": "RAFFA",
+      "sentences": "Preliminary results in one study show that in the last three decades, magma beneath Iceland was produced at a rate 2 to 3 times what it would have been without ice loss. A possible pressure cooker lurking in one of the world's most picturesque places.Elisa Raffa, CNN. (END VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:49:50",
+      "speaker": "NEWTON",
+      "sentences": "Marine scientists in California have made a new discovery in the ocean's midnight zone. Details on the glowing mystery mollusk, next on the CNN NEWSROOM.(COMMERCIAL BREAK)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:49:50",
+      "speaker": "NEWTON",
+      "sentences": "In the hours ahead, the media empire of an American conspiracy theorist will be up for auction in a court-mandated sale that has already attracted seven figure bidders. Alex Jones owes the families of the Sandy Hook Elementary Schoolshooting victims more than $1 billion. The sale of Infowars is to help them pay up. But the fate of the platform is uncertain. Some bidders including Trump adviser Roger Stone, might allow Jones to continue broadcasting. Others may be hoping to shut down the site altogether. Now the archbishop of Canterbury, the church of England's most senior leader, has resigned. A report found that Justin Welby covered up a serial child abuse case. CNN Vatican correspondent Christopher Lamb has the details. (BEGIN VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:54:53",
+      "speaker": "NEWTON",
+      "sentences": "There are growing calls to save an award-winning building in northern England from being demolished. The Centenary Building was built for Salford University in Greater Manchester.It was awarded the Royal Institute of British Architects' Stirling Prize for best new building in 1996, but has sat vacant for years. Now the school (ph) says it's quote, \"aging infrastructure\" no longer meets safety standards and requirements. Architectural experts and preservationists have been trying to save the building though. Efforts to repurpose it and receive historic protection have so far failed. A rare flower in bloom in Australia and thousands of people lined up to see it, yes, and smell it. Visitors have described the corpse flower's aroma as dead animals, lovely, or a smelly pond. The flower rarely blooms, sometimes just once a decade and only for up to two days. Thousands of visitors have stopped by the Geelong Botanic Garden to catch a whiff. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:54:53",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "I thought it might have been smellier. It wasn't bad.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:54:53",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "A little bit of a (INAUDIBLE) stench.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:54:53",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "The rainforest right now.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:54:53",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Something you see on an \"Alien\" movie maybe but yes, really good.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:54:53",
+      "speaker": "NEWTON",
+      "sentences": "Now this particular plant has been on bloom watch for years. Native to the Indonesian rainforest, the Amorphophallus titanum, that's my message for the day to try and pronounce that, is endangered due to deforestation.Ok so deep below the surface of the Pacific Ocean, scientists in California have discovered a new species of sea slug in an area untouched by sunlight. McKenna Yuen (ph) has the details. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:54:53",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "(INAUDIBLE) Monterey Bay Aquarium Research Institute have discovered a new species of sea slugs. It lives in some of the deepest parts of the ocean.The new species is nicknamed \"mystery mollusk\". It's the first known sea slug to swim in parts of the ocean that are 1,000 to 4,000 meters below the surface and untouched by sunlight. Scientists describe the new sea slug as having a gelatinous hood, a flat tail with finger like projections and colorful organs in the middle. It can also light up with bioluminescence to scare off predators. Researchers say they first spotted the species in February of 2000 off of California's Monterey Bay. It was during a dive with a robotic camera, and they've been studying it ever since. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

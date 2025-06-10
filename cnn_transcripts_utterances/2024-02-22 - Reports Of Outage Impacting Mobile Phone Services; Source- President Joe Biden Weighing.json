@@ -1,0 +1,325 @@
+{
+  "date": "2024-02-22",
+  "headline": "CNN This Morning",
+  "subHeadline": "Reports Of Outage Impacting Mobile Phone Services; Source: President Joe Biden Weighing Asylum Crackdown At Southern Border; Interview with Rep. James Clyburn (D-SC). Aired 8-8:30a ET",
+  "utterances": [
+    {
+      "timeStamp": "08:00:57",
+      "speaker": "ANNOUNCER",
+      "sentences": "This is CNN breaking news.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:00:57",
+      "speaker": "POPPY HARLOW, CNN ANCHOR",
+      "sentences": "And we start with breaking news this morning, an outage impacting cell phone customers now for more than four hours, service -- several carriers, I should say, are affected. People with AT&amp;T appear to be having the most trouble this morning. We're talking about tens of thousands of people coast-to-coast that have been reporting trouble making any calls on their phones.Take a look at this map. Those red states and the cities name, those are the most affected this morning according to DownDetector.com. The outage also impacting 911 services in many cities as well. Several police departments from San Francisco to Virginia say they have not been able to get calls.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:00:57",
+      "speaker": "PHIL MATTINGLY, CNN ANCHOR",
+      "sentences": "And right now, the service tracking website DownDetector.com is reporting an increase in outage reports, more than 61,000 in just the last hour. Some reporting no signal at all and being unable to receive or answer calls.Now, CNN has reached out to AT&amp;T and other providers to find out more information. But over the course of the last several hours, still waiting to hear back about what exactly is going on here.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:00:57",
+      "speaker": "HARLOW",
+      "sentences": "So many questions this morning. With us at the table, CNN Law Enforcement Analyst John Miller and Lance Ulanoff, editor-in-chief of TechRadar.John, let me just start with you. The most concerning thing, obviously is in the case of an emergency. And you've got from San Francisco, Louisville, Virginia. I mean, Tennessee, West Virginia, all these police departments saying like, we cannot get your calls. So, what's your reporting this morning?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:00:57",
+      "speaker": "JOHN MILLER, CNN CHIEF LAW ENFORCEMENT AND INTELLIGENCE ANALYST",
+      "sentences": "Well, I spoke to the NYPD, the NYPD says that they're getting their calls into 911, including from AT&amp;T customers. But that's what they know about which is what's working. There's no way to gauge from the NYPD's perspective.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:00:57",
+      "speaker": "HARLOW",
+      "sentences": "Who can't get through.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:00:57",
+      "speaker": "MILLER",
+      "sentences": "Who's not getting through. They also say that their systems, their phones are working.Now, AT&amp;T is interesting among carriers because AT&amp;T also runs FirstNet. FirstNet is the emergency responder's telephone network. So, even in crisis, even when things aren't supposed to be working, this is the network that's supposed to have priority, so first responders and emergency services can communicate during crisis. According to NYPD at least, that's working. Spoke to FBI, their cyber people are monitoring this. But they don't know that there's anything nefarious going on. It's just something they would monitor because, as we heard the FBI director testify, just a couple of weeks ago, along with General Nakasone from the NSA, you know, foreign governments have literally spent years incrementally trying to get further and further into critical infrastructure. Now, there's no indication that there is anything here that isn't technical. But that always looms in the background. So, all these things are happening at once.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:05:05",
+      "speaker": "ULANOFF",
+      "sentences": "Sunspots, right. Something, I mean --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:05:05",
+      "speaker": "HARLOW",
+      "sentences": "Wouldn't that generally affect multiple networks?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:05:05",
+      "speaker": "ULANOFF",
+      "sentences": "Well, that's an idea. Certainly, that's possible. It would be nice to know somebody, I've heard no reports about this. I've heard no reports about sunspots.So, again, without the network stepping forward to give us some detail, usually on social media, they will at least say, we're aware that some of you are experiencing network issues, we're working on resolving the problem. This indicates the fact that they haven't over many hours that they don't necessarily know what the problem is. And that again, CUP (ph) says, well, where, go find out what's going on.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:05:05",
+      "speaker": "MILLER",
+      "sentences": "I think that's one of the problems too, you go in the AT&amp;T website right now, they're trying to sell you a phone. There's no box on the side that says, we understand, you know, thousands of customers are having issues. We're working to identify and resolve it.If you go on the Department of Homeland Security, CISA, the critical infrastructure website, you know, there's no alert there. This is a 24-hour day service. And it's a 24-hour day problem. They need to have a 24-hour a day public posture to respond. It's not the kind of thing you'd kind of sit out till 9:30 after the morning meeting and figure out what to say about it, they need to do better.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:05:05",
+      "speaker": "ULANOFF",
+      "sentences": "The other thing to keep in mind is that more people are switching away from landlines. So, they used to have the fallback of, well, my cell phone isn't working, I'll use my landline. Guess what, many people don't have them anymore.So, they're really -- they can be cut off. Cut off from calls and from work because everyone hotspots with their cell phone.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:05:05",
+      "speaker": "HARLOW",
+      "sentences": "Well, we should remind people if they do have Wi-Fi at home, they can make calls with like a FaceTime audio.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:05:05",
+      "speaker": "ULANOFF",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:05:05",
+      "speaker": "HARLOW",
+      "sentences": "Situation.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:05:05",
+      "speaker": "ULANOFF",
+      "sentences": "They should be and from what I'm hearing, there are no issues on the internet side.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:05:05",
+      "speaker": "HARLOW",
+      "sentences": "Wi-Fi.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:05:05",
+      "speaker": "ULANOFF",
+      "sentences": "The internet backbone, nothing going on there. So, this is really on the cell network side.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:05:05",
+      "speaker": "MILLER",
+      "sentences": "And tech seems to be working in a lot of places. I mean, if we're talking about urgent matters, have text to 911. Some don't. My experience today on my AT&amp;T phone when I called the deputy police commissioner about this issue was, call didn't go through. Call the FBI, call didn't go through. Switch to the hard line on my desk, both calls went through.So, you know, this is still going on.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:05:05",
+      "speaker": "MATTINGLY",
+      "sentences": "Lance, can I ask you, corporate communication strategy is always interesting to me as a reporter, and I think we probably have all have lots of stories about them. But in terms of dealing with these companies, in particular, is it normal for them to take a lot of time if something is happening with them? I'm trying to understand, like, what -- whether this is out of character, or this is kind of their normal (INAUDIBLE) process?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:05:05",
+      "speaker": "ULANOFF",
+      "sentences": "No, it's fairly in character, because basically what we will do as reporters is try and go directly to them, and sometimes call them out on social media to try and get them to respond.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:05:05",
+      "speaker": "MATTINGLY",
+      "sentences": "Right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:05:05",
+      "speaker": "ULANOFF",
+      "sentences": "But they're really adverse to responding directly to sort of what they call just blanket suggestions of comment.And also, they're not often real time, partly because they don't want people in the corporate communication to deliver the wrong information. So, they'd be worried about saying, you know, any, or having someone say, oh, we think it's this, they can't. So, it's more of what we'll get from them I'm guessing is a post mortem, unless this continues for hours longer.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:05:05",
+      "speaker": "HARLOW",
+      "sentences": "Just take a look at your screen. So, you see all the big carriers on your screen, right? And then the red line underneath, what you're seeing is the uptick in the last four, 4.5 hours of the disrupted or just cut off service. And Lance, to your point, I mean, it's AT&amp;T to smaller providers, to T-Mobile, to Verizon, this is across the board with a similar trend line, that tells you what?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:05:05",
+      "speaker": "ULANOFF",
+      "sentences": "Well, first of all, it all started at the same time across the major carriers.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:05:05",
+      "speaker": "HARLOW",
+      "sentences": "It was like 4",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:05:05",
+      "speaker": "ULANOFF",
+      "sentences": "Yes, that to me is very interesting because they're not -- you know, AT&amp;T, Verizon, T-Mobile these guys are not using the same equipment.Now, the smaller guys, the Boost and Consumer and Straight Talk, they're running on the Verizon and AT&amp;T networks, they're using the same stuff, that's fairly common. But it's those big guys. It's those all of them that when it's rare to see a trend line across three major competitors start at the same time. And also you'll notice the trend is all in tandem, because now --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:05:05",
+      "speaker": "HARLOW",
+      "sentences": "Except for FirstNet, look at that.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:05:05",
+      "speaker": "ULANOFF",
+      "sentences": "Yes, well --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:05:05",
+      "speaker": "HARLOW",
+      "sentences": "It went down. I know it's small. I'm just saying --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:05:05",
+      "speaker": "ULANOFF",
+      "sentences": "Yes, it's small and I'm guaranteeing they don't run their own network. I mean, that's --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:05:05",
+      "speaker": "HARLOW",
+      "sentences": "It's built with AT&amp;T.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:05:05",
+      "speaker": "MILLER",
+      "sentences": "FirstNet is an emergency responder, so that shouldn't be affected. We are told it's not affected. But remember, that's only a how many people.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:05:05",
+      "speaker": "HARLOW",
+      "sentences": "Hold on just second. I'm just hearing from the control room. Can you say that again? What is -- T-Mobile saying that they did not experience an outage, their network is operating as normal again. T- Mobile saying in a statement just to CNN, they did not experience an outage, they believe their system working as normal, waiting to hear back from the other big carriers. John, sorry to interrupt, go ahead.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:10:02",
+      "speaker": "HARLOW",
+      "sentences": "OK. Stay with us.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:10:02",
+      "speaker": "MATTINGLY",
+      "sentences": "Thank you guys very much.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:10:02",
+      "speaker": "HARLOW",
+      "sentences": "So, President Biden now looking at a possible significant crackdown at the southern border as he tries to tackle one of his biggest political weaknesses heading into the election.Sources tell CNN this morning, the president is considering what would be really sweeping executive action to block migrants from seeking asylum if they cross into the United States illegally.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:10:02",
+      "speaker": "MATTINGLY",
+      "sentences": "It's similar to what Donald Trump did in office. Now, if President Biden decides to go through with the executive action, he's likely to face intense backlash from immigration advocates and progressive Democrats.Immigration, of course, has been a huge liability for Biden with an unprecedented surge of migrants overwhelming the border. A new poll this week underscores the political risks here, only 26 percent of Americans approve of the president's handling of immigration. oining us now to discuss this and much more is South Carolina Congressman James Clyburn, he is the national co-chair for the Biden 2024 Campaign. Congressman, we always appreciate your time. I'm interested when you look at both the collapse of the bipartisan immigration talks, driven largely by former President Trump and the Biden administration's decision to start considering something that Trump did while in office. Are you concerned that the pledge for a humane immigration system is giving way to kind of political necessity here? REP. JAMES CLYBURN (D-SC): Well, thank you very much for having me. Yes, I am concerned about politicizing this issue. This issue has been around long, long, long time. I remember way back before I came to Congress during the Reagan years, we had this problem. When I first came to Congress, I worked with Xavier Becerra, who's now in the candidate, and we had an issue that we thought would resolve all of this, we sat there on the House side, waiting on the Senate to send us the legislation. At the last minute, Republicans stepped in, withdrew their support and they collapsed. We went to the same survey just a few weeks ago, we thought we had a very good bipartisan deal. House waiting on the Senate. Senate gets to where it needs to be. And then the House Republicans decided to politicize the issue. So, they have been wanting, the Republicans wanted to keep this immigration issue as a political issue, rather than try to solve the problem. I would hope that President Biden will go forward with his executive order. And I would hope that the executive order will stay within the four corners of this agreement that was reached on the Senate side, because I think there is extensive support in the House on what the Senate came to. So, let's hope that we can do a better thing, a deal going forward.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:10:02",
+      "speaker": "MATTINGLY",
+      "sentences": "On the politics, I think immigration is one element. But when you look at the coalition that President Biden put together to win by seven million votes in 2020, there's big questions about whether or not that coalition will come back. One of them I think will be tested next week in Michigan, with the Democratic primary there.How concerned are you about the durability of the ethic opposition to the president by Arab-Americans, Muslim, Muslim-Americans and progressives, particularly in state like Michigan?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:10:02",
+      "speaker": "CLYBURN",
+      "sentences": "Well, that's a very -- that is a concern. It's very disconcerting. The fact of the matter is, just because he has concerns, it doesn't mean that he thinks it's not going to work out.So, you raise your concerns. You try to work with people to try to get both sides to reconcile their differences. And that's what we're trying to do. This is a very, very sticky issue. We know that it's been around since biblical days, I grew up in the parsonage. And so I am very familiar with these conflicts and how far they go back. They are trying to get this resolved. I hope that we will get to the point that the president will be comfortable with what the Congress is doing so that we can move forward on this issue.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:10:02",
+      "speaker": "MATTINGLY",
+      "sentences": "Congressman, the president in the White House, they listen when you talk, they watch when you're on T.V., they're very cognizant of what you say.A couple of weeks ago, I remember they were asking, you're being asked about what messaging needs to change, what should they be talking about? You said, student loans. They should talk about what they've done on student loans. And they should tell everybody what they've done. Just yesterday, the president announced another $1.2 billion in loan forgiveness and sent e-mails to everybody who is receiving forgiveness. So, they checked that box for you. What's next? What's the next thing that you think they need to be doing right now?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:15:00",
+      "speaker": "MATTINGLY",
+      "sentences": "And it's clearly an issue that resonates with the administration, making clear to your point that they want to continue to focus on it.Another part of the coalition obviously is Black voters is a cornerstone for any Democratic coalition, but certainly, for the president's as well. There's an issue that has cropped up that has a public health component, a political component, and is really kind of rattling Washington a little bit and this is on the issue of banning menthol cigarettes.  There's conservative groups that I think CNN reported back in January, trying to mobilize off this issue to hurt President Biden's support among Black Americans, a ban I think would save thousands of lives, according to studies. Have you talked to the White House about this? Do you have any idea about how this is going to play out? It's really kind of hanging in the balance right now.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:15:00",
+      "speaker": "CLYBURN",
+      "sentences": "No, I have not discussed this with the White House, and this has been around for a long, long time. I have had discussions on this issue in the past, but I have not discussed this with the White House at all.I am hopeful that we will get these issues resolved. I know that the other side will try to play politics with it. I know -- I live in the part of the country that this will affect tremendously. And so I am hopeful that these talks will resolve this issue in a way that both sides can feel that they've got something out of the talk. Nobody's going to get everything they want. What we need to do is try to close the gap and move forward on this very sticky issue, which I think is going to be with us for a long time.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:15:00",
+      "speaker": "MATTINGLY",
+      "sentences": "Congressman Jim Clyburn, always appreciate your time, sir. Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:15:00",
+      "speaker": "CLYBURN",
+      "sentences": "Thank you very much for having me.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:15:00",
+      "speaker": "HARLOW",
+      "sentences": "Ahead, President Biden taking aim at Vladimir Putin not mincing any of his words, how Putin is responding this morning.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:21:52",
+      "speaker": "MATTINGLY",
+      "sentences": "Well, as the world prepares to mark two years since Russia began its brutal invasion of Ukraine, the US is now trying to reassure the world it will support democracies when they are threatened.This morning, in Taiwan, a congressional delegation emphasized how the US handles the fight in Ukraine, more Ukraine aid will affect perception of America on the global stage when other threats emerge. (BEGIN VIDEO CLIP) REP. RAJA KRISHNAMOORTHI (D-IL):  You can't be tough on China and weak in your support of Ukraine. You can't. You can't -- you can't be inconsistent. And so that's why I'm telling everybody in good faith on both sides of the aisle, we've got to get this done now. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:21:52",
+      "speaker": "HARLOW",
+      "sentences": "But efforts to approve any additional aid -- military aid or humanitarian aid for Ukraine are stalled in Congress. Meanwhile, Ukraine is denying Kremlin claims that Russia captured another key village on the eastern front. It comes after the fall of Avdiivka which the White House is blaming directly by the way on Congress not acting to pass more aid for Ukraine.Our chief international anchor, Christiane Amanpour spoke to a Ukrainian sergeant who says they are facing a catastrophic shortage on the battlefield. Watch this. (BEGIN VIDEOTAPE) CHRISTIANE AMANPOUR, CNN INTERNATIONAL ANCHOR (voice over):  Snow falls softly on new recruits for the Ukrainian Army Third Assault Brigade. (UNIDENTIFIED MALE speaking in foreign language.) AMANPOUR (voice over):  Drill sergeants push them through their paces with urgent basic training for the trenches, urban warfare and assault maneuvers. Every woman and man counts now for a battle that seems to have returned to the dire days at the start. Twenty-eight-year-old, Sergei (ph) he came back from Lithuania to serve two weeks ago, despite his health. What's wrong with you?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:21:52",
+      "speaker": "SERGEI, UKRAINIAN SOLDIER",
+      "sentences": "It's asthma. But right now, we need to take our best man. And no matter what, I will -- I will serve my country until the winter.AMANPOUR (voice over):  The brigade says it's training professional fighters not cannon fodder like Russia. Their soldiers helped evacuate survivors of the battle for Avdiivka where Russia has now raised its flag, but many of their wounded were left behind. Just watch this video call between a severely injured soldier, Ivan (ph) and his panic-stricken sister Katarina (ph). (IVAN speaking in foreign language)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:21:52",
+      "speaker": "TRANSLATION",
+      "sentences": "Everyone left. Everyone retreated. They told us that a car  would pick us up.I have two broken legs, shrapnel in my back. I can't do anything. (KATARINA speaking in foreign language.)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:25:00",
+      "speaker": "AMANPOUR",
+      "sentences": "\"We couldn't get out for a long time because we were under very heavy fire,\" she tells me. \"To be honest, we were ready to die there. The attacks were so close and we were thinking, this was the end.\"Olga Rudneva is CEO of the center, which is supported by a Ukrainian businessman and the American philanthropist, Howard Buffett. Eighty percent of the patients are military, many of the multiple amputees and that's because Olga says, the wounded cannot get out of the battle zone during the so-called golden hour to save their limbs.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:25:00",
+      "speaker": "OLGA RUDNEVA, CEO, SUPERHUMANS CENTER",
+      "sentences": "People are educated for 10 hours by comrades very often because the Russians are shelling our medics. So by the time they arrive at stabilization point, we have to cut them high because of the tourniquet, so that's why we have multiple amputations.AMANPOUR (voice over):  Not only are they outmanned, they are also outgunned. The gridlock in Congress over military aid is showing up at the front and time is not their friend. We reached Sergeant Mykola (ph), who's also serving now on the Zaporizhzhia region frontline. AMANPOUR (on camera):  Do you have enough weapons? Do you have enough people? Do you have enough ammunition? (SERGEANT MYKOLA speaking in foreign language.) AMANPOUR (voice over):  \"Of course, we don't,\" he says. \"There is a catastrophic shortage of people, the same with weapons. There aren't enough shells for artillery and tanks or the tanks and artillery themselves.\" On a brief hiatus in the rear, they've had to buy their own mortar, small caliber just for self-defense, problem is no ammunition. Anastasia practices perfecting her balance, her endurance, regaining the strength to shoulder her weapons and she wants to go back to the front. (ANASTASIA SAVKA speaking in foreign language.) AMANPOUR (voice over):  \"I think anything is possible,\" she says. \"But whatever happens, we all need to fight this together because the enemy is advancing.\" No one wants their children to still be fighting the war they and their parents have been fighting ever since Putin's first invasion a decade ago. (END VIDEOTAPE) AMANPOUR (on camera):  Anastasia also told me that we cannot advance against the Russians carrying just assault rifles. And others have said that they have had to decide these days, how to ration the ammunition that they have. In other words, they can't just keep, you know pounding their enemy. They absolutely have to leave that to the last minute and the height of danger, and then choose how many shells they can actually afford to spend at any one time. It is that dire on the front.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:25:00",
+      "speaker": "MATTINGLY",
+      "sentences": "Yes, it's not an academic debate. In Washington, there's a tangible effect here.Christiane, I do want to ask you. President Biden was at a fundraiser in San Francisco last night, he made very clear his frustration about that ongoing Washington debate, but he also called out Vladimir Putin directly and called him a \"crazy SOB.\" I was interested in your take on that.",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

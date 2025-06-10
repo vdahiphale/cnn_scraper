@@ -1,0 +1,421 @@
+{
+  "date": "2023-09-07",
+  "headline": "Quest Means Business",
+  "subHeadline": "US Lawmakers Calls For Restriction On Exports; Chip In Huawei Smartphone Prompts Concern In US; At Least Six People Killed In Catastrophic Floods; Search For U.K. Terror Suspect; New Elon Musk Biography Revelations; Former FTX Executive Expected To Plead Guilty; John Kerry On Climate Crisis; Mexico Decriminalizes Abortion. Aired 3-4p ET",
+  "utterances": [
+    {
+      "timeStamp": "15:00:30",
+      "speaker": "ELENI GIOKOS, CNN INTERNATIONAL HOST",
+      "sentences": "A divided day on Wall Street. The Dow is up. NASDAQ is dragging.Let's take a look at how those markets are faring right now. As you can see, it's a mixed day, but the Dow is on the front, but only just a bit. Well, those are the markets and these are the main events. Apple is set to lose $200 billion in market value in two days after reports of an iPhone ban at government agencies in China. A dramatic rescue is underway to save a man trapped 1,000 meters underground in a Turkish cave. And new revelations from a biography about Elon Musk. The book says he disrupted a Ukrainian sneak attack on Russia by turning off the Starlink network. Live from Dubai, it is Thursday, September 7th. I'm Eleni Giokos, I'm in for Richard Quest, and this is QUEST MEANS BUSINESS. A very good evening and welcome to the show. Tonight, two tech giants are caught in the geopolitical crossfire between the US and China as the rival nations spar over cell phones and semiconductors. The latest flashpoint is Huawei's new Mate 60 Pro. It is apparently powered by an advanced chip that is believed to have been made by SMIC, a Chinese company cut off from US technology. The breakthrough surprised industry experts and US officials. US lawmaker, Mike Gallagher, chair of the House Committee on China is now calling for tighter restrictions against the chipmaker. SMIC shares closed sharply lower in Hong Kong. Now fears that China is cracking down on Apple devices is taking a toll on that company's stock. Its shares are down more as you can see, three percent, that's on the heels of the worst single day drop in a month on Wednesday. China is reportedly banning government workers from using iPhones. Now, the country is an important market for Apple and the company gets about a fifth of its revenue from sales in China. CEO, Tim Cook made a high profile visit there back in March. So much happening within the tech space, the chipmaker space. We've got Anna Stewart, with us to break it all down for us. Apple shares dropping significantly, losing so much market value. Look, it's no surprise in terms of what the government officials in China are doing in terms of banning iPhones, but take us through the intricacies of the story.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:00:30",
+      "speaker": "ANNA STEWART, CNN REPORTER",
+      "sentences": "It's been an interesting week, and I feel like all the stories are beginning to sort of collide into one at this stage. But for Apple, four percent down yesterday, three percent down today, that is as you say $200 billion wiped off its valuation, and that is because China is such an important market to it.So we have the first report from \"The Wall Street Journal,\" suggesting that state officials would no longer be allowed to use iPhones making official what apparently was already a trend unofficially within the government. Then there was a follow up report from Bloomberg saying actually this ban was going to be extended for state backed firms as well. No response from China on why they would, but it's not hard to guess. Huawei phones and equipment of course are banned by the US and restricted by many Western nations. And then of course, you think about the timing next week. There's this event which is the Apple expected launch of the iPhone 15, and I did enjoy a note from Bank of America analysts saying the timing was interesting. This is a big blow for Apple. Of course China, as you say is a very important market for it. That said, last year, their sales in China were hit by all sorts of things, COVID-19 protests in factories so actually even with this, analysts still think for Apple compared to last year, they will do all right. But there is another iPhone maker and China -- not iPhone maker, phone maker in China, which is also looming large over sales.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:00:30",
+      "speaker": "GIOKOS",
+      "sentences": "It is indeed.Okay, so I want to talk about Huawei and this advanced chip now. You know, I know we've been covering this story. You know, the US banned the sales of any new communications equipment from various Chinese companies including Huawei, and remember ZTE as well, that came through the end of 2022. But give me a sense of why this advanced chip is worrying officials in the West.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:05:10",
+      "speaker": "GIOKOS",
+      "sentences": "Yes. It has indeed. Anna, great to have you on the story. Thank you so much.Well, the advanced chip in the new Huawei phone was discovered by researchers at Tech Insights. Carrie MacGillivray is that company's managing director of reverse engineering and she joins me now. It was you and your team that discovered this advanced chip. I want you to tell me how you discovered it and what your concerns are right now.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:05:10",
+      "speaker": "CARRIE MACGILLIVRAY, MANAGING DIRECTOR OF REVERSE ENGINEERING, TECH INSIGHTS",
+      "sentences": "Well, it was -- it has been an exciting few days, needless to say.The chip was launched earlier last week during Gina Raimondo's visit to Beijing, and our sourcing team went to work to get our hands on one of the Huawei Mate 60 Pros. And with a flurry of activity, we were able to get one to our headquarters in Ottawa, Canada, where we had our lab technicians and engineers ready to do a teardown of the device, which involved receiving the device in Ottawa and within seven hours, we were able to go through the very rigorous process of tearing down the device and also using some of our very proprietary research capabilities in the lab to reveal the device inside the Huawei Mate 60 Pro.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:05:10",
+      "speaker": "GIOKOS",
+      "sentences": "So what is it about this chip that is concerning, that is advanced? I know that you know when the Mate Pro was announced, and it was talking about being able to make satellite calls, but offering no real information about its capabilities.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:05:10",
+      "speaker": "MACGILLIVRAY",
+      "sentences": "Right. So the story really is about the chip that's inside the phone right now. A year ago, SMIC, a semiconductor manufacturing international corporation revealed their seven nanometer process, which means that they had been able to build a chip at a very small capability, and a year later, they're bringing to market a more capable chip. But the chip itself allows for a lot more processing power.And as for your question around satellite calls, that is something that we are continuing to do in our analysis to ensure that that capability is as advertised.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:05:10",
+      "speaker": "GIOKOS",
+      "sentences": "Look, the West US lawmakers are very concerned about what this advanced chip means. And I mentioned this earlier, that the US had actually banned any new communications technologies from various Chinese companies including Huawei and the likes of ZTE last year.So I want you to give me a sense of why and how this should be concerning for the West.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:10:07",
+      "speaker": "GIOKOS",
+      "sentences": "Carrie, great to have you on. Thank you so much.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:10:07",
+      "speaker": "MACGILLIVRAY",
+      "sentences": "Yes. Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:10:07",
+      "speaker": "GIOKOS",
+      "sentences": "Yes, I mean, really, really fascinating. Great to have you on. Thank you so much for your time, Carrie. I'm going to get this right -- MacGillivray, managing director of reverse engineering at Tech Insights. Thank you so much for joining us.Catastrophic flooding is taking a deadly toll in Greece. Officials there say the rising floodwaters are unprecedented. Look at the devastating effects from the weather, and what it means for Greece's future, that's coming up on QUEST MEANS BUSINESS. Stay with CNN. (COMMERCIAL BREAK)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:10:07",
+      "speaker": "GIOKOS",
+      "sentences": "At least six people have been killed in what is being described as unprecedented flooding in Central Greece. Torrential rains have damaged buildings and washed away roads and bridges in Thessaly region, leaving people in some villages trapped with no means of escape.Rescue teams that are working to free dozens of people with helicopters. The catastrophic storm even reached the Greek capital, flooding metro stations and highways across parts of Athens. Joining me now to talk about it is Michalis Diakakis, assistant professor for Natural Disasters at the University of Athens. Michalis, thank you so much for joining us. Great to see you. You know, the last time you and I spoke, I was in Athens in Parnitha, covering the wildfires and we spoke about the consequences of wildfires and the potential of flooding and what that means going forward for Athens. Now, we're seeing flooding right now. It is not directly linked to the wildfires. But I want you to give me a sense of what is going on right now because this is in so many parts of Greece and we're seeing harrowing images right now.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:15:17",
+      "speaker": "GIOKOS",
+      "sentences": "How much of this is due to climate change? Because, frankly, the frequency of wildfires, the frequency of this type of flooding is increasing over the years, and is this going to be the new reality for the region?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:15:17",
+      "speaker": "DIAKAKIS",
+      "sentences": "Well, it's very early to tell if this event is linked to climate change, but there is certainly a very high possibility of this happening. What we see is really an acceleration of these very extreme events.We had a very difficult summer, very difficult last few weeks with extreme fires, extreme mega fires in Greece, and now, we see an extreme opposite type of weather. It is interesting, and it's very worrying the fact that back in 2007, when we had this very bad summer with 80-plus fatalities due to wildfires, a group of climatologist said that this weather could be very frequent in 2050 or 2070. And right now, it seems that these difficult summers with very high temperatures, record breaking temperatures are pretty much the new reality for us.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:15:17",
+      "speaker": "GIOKOS",
+      "sentences": "Yes, and I mean, we're talking about decades too early, right? This is now the reality.Copernicus came out with some harrowing information in terms of it being the hottest summer on record. How concerned are you about the next few years, and specifically what that means for the city of Athens? Because we saw it disrupting the tourism sector at the islands, so huge disruptions economically because of wildfires?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:15:17",
+      "speaker": "DIAKAKIS",
+      "sentences": "Well, you're exactly right. The issue is that as forests burn around Attica, that region that hosts Athens, huge quantities of forests is disappearing and this is most likely heading to increasing temperatures around Athens. And it's very concerning what this would mean to visitors and to local population during the summers. So if summers are really high temperature in this part of the Mediterranean, it's very concerning for the tourism industry as well.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:15:17",
+      "speaker": "GIOKOS",
+      "sentences": "Yes, and as you say, two extremes. You've got flooding now and you have hot and record temperatures, which are a huge risk.Michalis, great to see you, thank you so much for joining us.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:15:17",
+      "speaker": "DIAKAKIS",
+      "sentences": "Thank you very much.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:15:17",
+      "speaker": "GIOKOS",
+      "sentences": "Much appreciate it.Well, rescue operations are underway in Turkey to retrieve a US man trapped in a deep cave. Mark Dickey, a cave specialist suffered internal bleeding and is unable to climb out on his own. Turkish cave officials said that international teams are at the Morca sinkhole right now, and it is not only a rescue, but also medical mission to get Dickey out. (BEGIN VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:15:17",
+      "speaker": "GIOKOS",
+      "sentences": "It's an operation that is bought 150 rescuers from across the globe to here. The Morca sinkhole, Turkey's third deepest cave to help evacuate a caver who fell ill on a research expedition.Forty-year-old US national, Mark Dickey is an experienced caver and instructor at the National Cave Rescue Commission. These photos posted on his Facebook page just last month. The Turkish Caving Federation says Dickey fell ill more than 3,600 feet into the cave. He is currently at base camp, Camp Hope. Rescuers say he suffered gastrointestinal bleeding, and has had six liters of blood delivered to him. UNIDENTIFIED MALE (through translator): We contacted the necessary people, the doctors gave medicine that was taken down to the cave. His treatment has started and I'm positive, our friend will set out on his own after getting stronger in a few days.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:15:17",
+      "speaker": "GIOKOS",
+      "sentences": "Dickey is now said to be stable and according to the Turkish Caving Federation can walk on his own. But experts say getting to the surface could take 15 hours for an experienced caver in ideal conditions, and some saying the rescue could take days.(END VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:20:26",
+      "speaker": "CARL HEITMEYER, PUBLIC INFORMATION OFFICER, NEW JERSEY INITIAL RESPONSE TEAM",
+      "sentences": "I heard some of your lead in and I hope that's the case, but that seems a little more optimistic than I am.Yes, Mark, after spending several days immobile is feeling much better and he is walking around. However, that is a very deep depth and if you've done some caving, you understand how difficult it is to move through tight passages where you have to twist and turn and bend your body. And then there's water-filled passages. And then there's waterfalls in some of the drops when you're on rope, and a thousand-meter climb takes a considerable effort.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:20:26",
+      "speaker": "GIOKOS",
+      "sentences": "Yes, it is. And it's cold and it's wet and there are just -- there are so many things that you have to take into consideration.You're a friend of Mark. have you been in contact with him? Do you know how he's doing? You're saying he's doing a little bit better, but do you think he'll be able to make it out on his own with a bit of assistance, but at least being able to get through those narrow passages?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:20:26",
+      "speaker": "HEITMEYER",
+      "sentences": "I'm confident Mark is going to make it out. But he is going to require assistance. And I just think it's going to take a little bit longer. With the suspected internal injuries, I'm just very concerned about moving that body around so much and trying to contort and do all that effort. So I remain hopeful. But like I said, it's a difficult, very difficult position he's in.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:20:26",
+      "speaker": "GIOKOS",
+      "sentences": "Yes, absolutely. Look, there are 150 rescuers right now on the ground. You know, how difficult logistically would you say would it be to expand those narrow passageways, the rigging that will be required. I mean, clearly, a lot of planning needs to go into this.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:20:26",
+      "speaker": "HEITMEYER",
+      "sentences": "Yes. And I have not heard as much direct communication from the surface since the Turkish military took over. However, I understand their organization and command and control has really improved.I saw their initial plan for assigning teams to different levels of the cave, they broke it down into seven levels, and international teams from five different countries were each assigned a section and they were working on cave enlargement, as you mentioned, and they were working on hardening the rigging, you know, adding bolts and more rope because of the anticipated double load of a patient with a rescuer having to be hauled up.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:20:26",
+      "speaker": "GIOKOS",
+      "sentences": "Yes, and that's the thing. I mean, they're talking about potentially using a stretcher, and as you've just painted the picture of the difficulty of these narrow passageways, how viable is using a stretcher, at least in certain parts where it's easy?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:20:26",
+      "speaker": "HEITMEYER",
+      "sentences": "Well, I think the structure is going to be very helpful in certain parts, and in others, it's going to be useless and he's going to have to come out of it. And they'll have a hard time just moving the empty stretcher through that.I'm not certain what stretcher they're using. Some of them are collapsible like a sked stretcher is one we use here in the States, S-K-E-D. But it's definitely going to be of assistance at certain parts of the rescue, and somewhat of a hindrance in others.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:20:26",
+      "speaker": "GIOKOS",
+      "sentences": "So I mean, I was looking at how deep it is, right? We're talking 3,300 feet. If you look at the Empire State Building, it's almost three times that. So you get a sense of just how deep that is.You know, under these circumstances, and you compare it to other cave rescues. In terms of difficulty, where would you rate this right now? I mean, we've seen other cave rescues in the past.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:25:14",
+      "speaker": "GIOKOS",
+      "sentences": "Yes, and look, Mark is highly experienced. He has done this so much in his life, so we wish him all the best. And Carl, thank you very much for joining us today and giving us some insights and we wish you all the best.Thank you so much, sir.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:25:14",
+      "speaker": "HEITMEYER",
+      "sentences": "Thank you for your concern. And there is a GoFundMe site to help reimburse the rescuers responding.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:25:14",
+      "speaker": "GIOKOS",
+      "sentences": "Thank you. Thank you very much.Well, Elon Musk is threatening to sue the Anti-Defamation League for lost advertising over their claims about hate speech on his platform. The head of the ADL responds, and he'll be with me next. (COMMERCIAL BREAK)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:31:02",
+      "speaker": "GIOKOS",
+      "sentences": "A new biography by Walter Isaacson claims the billionaire Elon Musk intentionally cut internet services provided by his Starlink system last year, all to disrupt a Ukrainian counteroffensive off the coast of Crimea.The author says the decision was driven by the fear that Russia would retaliate with nuclear weapons. All of this is raising concern about how much power Elon Musk has on the global stage. Oren Liebermann is with us. It's interesting, I mean, look, when Starlink went to Ukraine and, you know, Elon Musk was talking about how he's intervening and assisting Ukrainians with communication and then hearing this story and his ability to change perhaps the course of an attack, it's truly fascinating.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:35:00",
+      "speaker": "LIEBERMANN",
+      "sentences": "He said he would simply pay for it himself and take the hundreds of millions of  dollars of losses.Perhaps what's more surprising is that the SpaceX president says the Pentagon was going to hand him a check and then Musk announced on Twitter that he would keep paying for Starlink. That shows how critical one person can be in this war where Starlink was such a critical communications platform for Ukraine as they continue to try and carry out their counteroffensive.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:35:00",
+      "speaker": "GIOKOS",
+      "sentences": "Indeed. Oren Liebermann, thank you so much.Well, on top of that, Elon Musk is picking a fight with the Anti-Defamation League. He's blaming the group for a drop in advertising revenue at X, the platform formerly known as Twitter. He says the group's statements about hate speech on the platform are driving away customers. On Monday, Musk threatened to sue the ADL and said, if he won, he would insist on renaming them the Defamation League. X has not responded to CNN's request for comment. Jonathan Greenblatt is the CEO of the Anti-Defamation League and he joins us now. Thank you so much for joining us. Elon Musk threatening to sue the ADL. What's the latest now, have you had any engagement with Elon Musk and his lawyers? JONATHAN GREENBLATT, CEO AND NATIONAL DIRECTOR, ANTI-DEFAMATION LEAGUE:  Well, ADL is the oldest anti-hate organization in America. We've been fighting against all forms of bigotry for 110 years. We've been attacked over the generations by people on the Left, people on the Right, religious fanatics and political extremists. And now this by a billionaire. The fact of the matter is that ADL has been engaged with Twitter long before Elon Musk acquired the company. Social media is a super spreader of anti-Semitism and bigotry. So we've worked with Twitter before and since the acquisition. In fact, this attack was precipitated by a meeting that I had with the CEO of the company. So while we haven't yet heard from Elon's lawyers per se, we've read what he's saying online. But the accusations are entirely untrue. We've never said that Elon Musk was an anti-Semite. We never said that the company itself is anti-Semitic. And we're not pressuring advertisers, trying to, quote, \"strangle Twitter.\" These things are just patently untrue.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:35:00",
+      "speaker": "GIOKOS",
+      "sentences": "So what you're doing is basically calling out anti-Semitism and hate speech on the platform, right?So that's one of the big roles that you play, which you've always done. So why is Elon Musk so upset with what you're doing right now, where he's blaming you for loss in advertising?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:35:00",
+      "speaker": "GREENBLATT",
+      "sentences": "Well, look, I mean, in some ways, I might say your guess is as good as mine. The truth is that, as I learned, as you learned, as the world learned over the weekend, apparently their revenue's down 60 percent.I understand why that would have him deeply concerned. But the idea that the ADL or the Jewish community is responsible for this is absurd and offensive. I mean, the fact of the matter is, these claims that we're running a pressure campaign are entirely false. We've done nothing of the sort. Now we did say, after the acquisition, when all of the trust and safety team was fired at Twitter, when the company started replatforming white supremacists and extremists, bringing them back on, we expressed our concern and were one of 60 organizations that called for a pause on advertising. However, we're not running an active campaign. And why Elon has chosen to focus on only us one of 60 organizations and suggest that somehow the ADL, the watchdog of anti-Semitism is causing anti-Semitism is offensive and ugly and wrong.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:35:00",
+      "speaker": "GIOKOS",
+      "sentences": "But this is one of the criticisms of X right now and of Elon Musk, that hate speech has increased and it's running amok. And at the same time, there's a #BanTheADL which has been amplified by Elon Musk.What effect has that had on you?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:40:00",
+      "speaker": "GREENBLATT",
+      "sentences": "Look, ADL's had to invest --(CROSSTALK)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:40:00",
+      "speaker": "GIOKOS",
+      "sentences": "-- haven't reached out --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:40:00",
+      "speaker": "GREENBLATT",
+      "sentences": "-- because of that.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:40:00",
+      "speaker": "GIOKOS",
+      "sentences": "-- you haven't -- you haven't reached out to any advertisers --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:40:00",
+      "speaker": "GREENBLATT",
+      "sentences": "No.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:40:00",
+      "speaker": "GIOKOS",
+      "sentences": "-- encouraging them to stop advertising on Twitter?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:40:00",
+      "speaker": "GREENBLATT",
+      "sentences": "No, we have not.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:40:00",
+      "speaker": "GIOKOS",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:40:00",
+      "speaker": "GREENBLATT",
+      "sentences": "We have not.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:40:00",
+      "speaker": "GIOKOS",
+      "sentences": "So I'm also -- I mean, we have so many stories out today about Elon Musk, what do you make of the news out from the book, an excerpt from the book, that basically says that Elon Musk, you know, cut communications on attack that was going to happen in Crimea?Essentially, perhaps, shifting the fate of the war in many ways or has the power to do so, what is your sense of this? And many say that one man yields so much power?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:40:00",
+      "speaker": "GREENBLATT",
+      "sentences": "Well, look, I can't wait to read Walter's book, he's an amazing author, it's incredible that he got this story.But I'm not a geopolitical and military strategist. I'm focused on fighting anti-Semitism and hate. We've seen record levels of anti-Jewish attacks in the U.S. and really around the world. We've seen Nazis marching out in the open in America in the last few days. So that's what I'm worried about. That's what I'm focused on and that's why I would like Elon Musk to de-escalate and to realize that the ADL is not the cause of his problems and maybe we can work together to make his platform better.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:40:00",
+      "speaker": "GIOKOS",
+      "sentences": "Yes. Jonathan, great to have you on. Thank you so very much for your insights.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:40:00",
+      "speaker": "GREENBLATT",
+      "sentences": "Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:40:00",
+      "speaker": "GIOKOS",
+      "sentences": "Jonathan Greenblatt.All right, so coming up, new CNN polling -- and it doesn't look so good for incumbent U.S. President Joe Biden. We're going to break down the numbers, coming up next. (MUSIC PLAYING) (COMMERCIAL BREAK) (MUSIC PLAYING)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:45:00",
+      "speaker": "KARA SCANNELL, CNN CORRESPONDENT",
+      "sentences": "As you said, he's the fourth top executive of FTX pleading guilty in this case. And he is likely to be called as a witness at the trial of Sam Bankman-Fried, which is set to begin on October 2nd in New York.His guilty plea hearing is underway right now. We'll learn a bit more information about what specifically he's pleading guilty to. But in a criminal case, when prosecutors are looking to build a case and tell a story to a jury, where they're going to have to explain some complicated topics, particularly involving cryptocurrency, something that many people have a hard time getting their head around, they will have insiders to walk them through what happened at the company and to cut through the jargon and explain what they were doing. Because these people have pleaded guilty, they're going to admit what they did wrong and put blame on Sam Bankman-Fried. He's been accused of many different schemes in the case, including taking money from FTX to prop up a hedge fund which was a sister hedge fund called Alameda Research. And he was also accused of using straw donors to make political donation to both Republicans and Democrats in the U.S. to try to influence policy toward cryptocurrencies. And Salame is somebody that prosecutors pointed to, saying that they had evidence that he sent a private message to a family member, saying that he was the straw donor that Bankman-Fried used. So that's the sense of how he will fit into the case. But certainly having the cooperation of numerous top executives to explain the story is very powerful for prosecutors.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:45:00",
+      "speaker": "GIOKOS",
+      "sentences": "It gives you so much insight into what happened in FTX that rocked the crypto space. Other plea bargains involved in this, you have executives pleading guilty on a high-profile case.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:45:00",
+      "speaker": "SCANNELL",
+      "sentences": "These are the top four executives. One of them was an engineer responsible for the code. And another was the head of this hedge fund. And she's had many private conversations that she recorded at the time of her dealings with Bankman-Fried.Then the co-founder of FTX, interestingly, these people all worked with him but they also seemed like friends. They lived in a house together in the Bahamas, where they were running this business. They will shed so much insight into Bankman-Fried. There'll usually be a key cooperator to explain it to the jury. But this really seems so significant to have four top insiders, not just executives but really within his inner circle, to tell the story for prosecutors. Bankman-Fried has pleaded not guilty and he's working on building a defense. Very interesting to see how he lays that out and how he counters what these cooperating witnesses will tell the jury.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:50:00",
+      "speaker": "GIOKOS",
+      "sentences": "The Biden administration is cancelling seven oil and gas leases in Alaska. The move will protect 30 million acres. It reverses a Trump era effort to expand drilling in the region. President Biden said in a statement he will continue to take bold action on climate change.John Kerry said the U.S. is doing a lot to help other countries fight climate change as well. The U.S. special presidential envoy for climate spoke to Julia Chatterley earlier in Nairobi this week. He said he's working to make sure that the carbon transition is as fair as possible to all countries. (BEGIN VIDEO CLIP) JOHN KERRY, U.S. SPECIAL PRESIDENTIAL ENVOY FOR CLIMATE:  The nations that are lucky enough to have strong economies around the world have been trying to help other nations. The United States is, I'm proud to say, the largest humanitarian donor in the world. And we are trying to work a way to make this transition as fair as possible to everybody. But in the terms of the losses and damages and the fund that was agreed upon by everybody, we have to make sure that that is getting input from everyone and that it is not unfair in itself. We made it very clear that we're not opening up some channel of liability and compensation but we are trying to provide help to people who need that help for reasons that are no cause of their own. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:50:00",
+      "speaker": "GIOKOS",
+      "sentences": "New CNN polls shows U.S. President Joe Biden is losing support among his fellow Democratic voters. The poll shows U.S. voters have concerns about his age, his handling of the economy and his son's alleged criminal activity.Two out of three Democrats say they want someone else running for U.S. president in 2024. Some Democratic U.S. senators are calling on Biden to sharpen his message after the dismal poll numbers. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:50:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "I think the people, basically have spoken loud and clear, they're not happy with the two choices and only two choices.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:50:00",
+      "speaker": "MANU RAJU, CNN CHIEF CONGRESSIONAL CORRESPONDENT",
+      "sentences": "So there could be a third party campaign?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:50:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "I think that's up to the public to decide that.SEN. RICHARD BLUMENTHAL (D-CT), MEMBER, SENATE JUDICIARY COMMITTEE:  The more the better in terms of pushing that message and making the American people aware of President Biden's achievements. Yes, more aggressive earlier and, more widely, I think is the right way to go.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:50:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Maybe we don't do a good enough job messaging about the things like the infrastructure bill and the PACT Act and things like that.SEN. ELIZABETH WARREN (D-MA):  I think that every time Donald Trump opens his mouth, he draws that contrast pretty starkly. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:50:00",
+      "speaker": "GIOKOS",
+      "sentences": "Well, the U.N.'s human rights chief is calling on Mexico to immediately guarantee abortion rights. The country's supreme court declared the government's abortion ban unconstitutional on Wednesday. CNN's Rafael Romo has more on the landmark decision.(BEGIN VIDEOTAPE) RAFAEL ROMO, CNN CORRESPONDENT (voice-over):  The effort to decriminalize abortion in Mexico has been going on for years, especially in Mexico City where abortion rights groups have taken to the streets to say my body my decision. In fact by the time the Mexican supreme court issued a ruling Wednesday decriminalizing abortion at the federal level, 12 out of 32 states had already invalidated laws banning abortion. MARIA ANTONLETA ALCAIDE, IPAS-MEXICO AND CENTRAL AMERICA:  Our reaction was of pure joy and celebration but also have been very proud of being part of this green wave, this movement that have been working to advance the abortion agenda.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:50:00",
+      "speaker": "ROMO",
+      "sentences": "In a statement, the court said that banning an abortion is unconstitutional because it violates the human rights of women and people with the capacity to gestate. Anti-abortion groups in Mexico blasted the ruling.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:55:00",
+      "speaker": "GALVAN",
+      "sentences": "-- from the moment of conception until natural death.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:55:00",
+      "speaker": "ROMO",
+      "sentences": "The supreme court first ruled that it was unconstitutional to criminalize abortion in 2021. Same day the ground shook in Mexico. The earthquake was filled for about a minute but the shockwaves sent across the nation by that court's ruling are still being felt.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:55:00",
+      "speaker": "GALVAN",
+      "sentences": "It is a black day for Mexico. The country's mourning. The supreme court of Justice, the highest level institution in the country. they want in charge of watching over justice and human rights, both betray the first human rights without which no other human rights can exist life.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:55:00",
+      "speaker": "ROMO",
+      "sentences": "Back in 2021, the court issued a decision on a law enacted in the northern state of Coahuila, which said that women who get an abortion may get punished with up to three years in prison and a fine.ROMO (voice-over):  Exactly a week before Wednesday's ruling, Aguascalientes had decriminalized abortion becoming the 12 states to do so. Mexico City was the first jurisdiction to end the ban on abortion in the country back in 2007, starting a trend in the still mostly conservative country where more than three quarters of the population identify as Catholic. Abortion rights groups say even before the ruling, Mexico had already become a destination for some American women seeking an abortion.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:55:00",
+      "speaker": "ALCAIDE",
+      "sentences": "Before, Mexican women used to go to the U.S. to look for abortion services. And now Mexico, more and more American women are coming to Mexico for services.ROMO (voice-over):  And while no woman can be prosecuted any longer for having an abortion in Mexico, there are still 20 states where the procedure remains illegal. But the ruling paves the way for the federal health care system to start providing abortions. (END VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:55:00",
+      "speaker": "GIOKOS",
+      "sentences": "Rafael Romo there reporting for us.Well, we've got moments left to trade on Wall Street and we'll have the final numbers as well as the closing bell right after this. (MUSIC PLAYING) (COMMERCIAL BREAK) (MUSIC PLAYING)",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

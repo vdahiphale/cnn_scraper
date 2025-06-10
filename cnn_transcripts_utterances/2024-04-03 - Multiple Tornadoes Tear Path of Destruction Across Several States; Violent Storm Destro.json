@@ -1,0 +1,169 @@
+{
+  "date": "2024-04-03",
+  "headline": "CNN Newsroom",
+  "subHeadline": "Multiple Tornadoes Tear Path of Destruction Across Several States; Violent Storm Destroys Ohio Elementary School; AI-Generated Voice Concerns; OpenAI's New Tool \"Voice Engine\" Mimics Human Voices; Preparing for the Path of Totality; 2024 Total Solar Eclipse Across America. Aired 10:30-11a ET",
+  "utterances": [
+    {
+      "timeStamp": "10:30:00",
+      "speaker": "JIM ACOSTA, CNN NEWSROOM ANCHOR",
+      "sentences": "Tornadoes reported, we'll bring you the latest from the ground, next.(COMMERCIAL BREAK)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:30:00",
+      "speaker": "ACOSTA",
+      "sentences": "Some very dangerous weather is sweeping across a big section of the country. Take a look.(BEGIN VIDEO CLIP) (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:35:00",
+      "speaker": "ATHENA JONES, CNN NATIONAL CORRESPONDENT",
+      "sentences": "Hi, Jim. Well, as you mentioned, the Ohio Valley has been struck by two damaging storms back-to-back starting Tuesday morning and continuing into the night. I want you to look at some of the wind damage we have seen in spots across the county.This is a historic bridge, the Kirker Bridge, it dates to the 19th century. And until this storm last night, this bridge had a roof. But as you can see, a lot of that roof has fallen down, blown around. It's going to take a lot of work to get this bridge looking like it once did. And you can see part of the roof here, blown into the creek. And over here on the other side, we see some of the broken tree branches and tree limbs, the kinds of things that are leading to so many power outages in the region. We know 18,000, 19,000 customers are without power in Kentucky and in Ohio. More than 100,000 people remain without power in West Virginia. We've seen this, the high-water levels begin to go down, but flooding was also an issue. Now, there were reports of tornadoes, overnight, touching down here in Adams County where we are right now. We don't have confirmation of that yet. National Weather Service teams are going to be out today assessing the damage. And so, we'll have to wait for -- to hear from them for confirmation of whether tornadoes did touch down. As of right now, one good thing is that while some injuries have been reported from incidents across the region, no deaths have been reported so far. But still a very strong system that has led to damages -- damage in various places across the state of Ohio here in Adams County. The schools are going to be closed because of the extensive damage. And again, many businesses remain without power. So, folks beginning to get a sense of the damage this morning and thankful that at least, so far, no deaths reported. Jim.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:40:00",
+      "speaker": "ACOSTA",
+      "sentences": "A brand-new artificial intelligence tool is providing both hope and caution for mimicking human voices. OpenAI is working on a tool called Voice Engine that can create natural speech with just 15 seconds of audio. One of the applications offers reading assistance to children and non-readers. What you're about to hear is a real human speaking. Take a listen.(BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:40:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Force is a push or pull that can make an object move, stop, or change direction.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:40:00",
+      "speaker": "ACOSTA",
+      "sentences": "All right. Now, listen to the AI generated replica of that person's voice.(BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:40:00",
+      "speaker": "AI RENDERING OF UNIDENTIFIED MALE VOICE",
+      "sentences": "Some of the most amazing habitats on Earth are found in the rainforest. A rainforest is a place with a lot of precipitation and it has many kinds of animals, trees, and other plants.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:40:00",
+      "speaker": "ACOSTA",
+      "sentences": "Not much of a difference. Let's bring in CNN Digital Producer Jon Sarlin. Jon, I mean, that was very close. Tell us more about this Voice Engine, the good it can do, and I guess, obviously, there's going to be a downside to all of this stuff. So, tell us about that as well.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:40:00",
+      "speaker": "JON SARLIN, CNN DIGITAL PRODUCER",
+      "sentences": "That's right. So, this is Voice Engine. This is from OpenAI, the company behind ChatGPT. This is not a product that they're releasing to the public yet. They say, they have been working on it since 2022. Now, what does it do? As you said, from only 15 seconds of a source audio, it can build a voice synthesis, an A.I. model of someone's voice. They can say anything in any language that you type into it.Now, this is something that other companies have out there. There's ElevenLabs, Google, pretty much anyone working in the A.I. space has some kind of model on it. What's different here is that 15-second input or really small amount of input you need to build a powerful Voice Engine. Now, obviously, there are concerns that come along with this. And these aren't some, kind of, theoretical concerns about how it can be misused in the future. We're already seeing how voice, deep fakes can be misused right now. You've got with Joe Biden, the Robo call in New Hampshire that happened that wasn't his voice. Scammers are using this technology. OpenAI says, they're aware of those. They're not releasing this to the public yet, but they say there's good this technology can do as well. One thing they say is, as you mentioned, reading to children, a reading assistance tool. Another way, building someone's voice who lost their voice due to an accident, they posted a clip of a girl who lost her voice due to a tumor, rebuilt her voice using her previous voice using this technology. Take a listen. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:40:00",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "Hi, everyone. This is what my voice sounds like using OpenAI's new text to speech model called Voice Engine.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:40:00",
+      "speaker": "AI RENDERING OF UNIDENTIFIED FEMALE VOICE",
+      "sentences": "Hi, everyone. This is what my voice sounds like using OpenAI's new text to speech model called Voice Engine.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:40:00",
+      "speaker": "ACOSTA",
+      "sentences": "Jon, you're back.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:40:00",
+      "speaker": "SARLIN",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:40:00",
+      "speaker": "ACOSTA",
+      "sentences": "Yes, tell us about that. What we just listened to there.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:40:00",
+      "speaker": "SARLIN",
+      "sentences": "Right. So, that is a girl lost her voice due to a brain tubing -- tumor. OpenAI took a sample of her voice before the accident and built that so she can type in using her natural voice. [10",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:40:00",
+      "speaker": "ACOSTA",
+      "sentences": "Yes, John. I mean, you know, there's obviously going to be a downside to some of this. One has to think. I mean, if you could just take a clip of somebody's voice like we saw with the Biden Robo call and replicate it, there -- I mean, there are obvious implications here for a lot of political mischief.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:40:00",
+      "speaker": "SARLIN",
+      "sentences": "Right. And, you know, this is not a theoretical concern, as I mentioned before.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:40:00",
+      "speaker": "ACOSTA",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:40:00",
+      "speaker": "SARLIN",
+      "sentences": "And when you look at other AI generation models, like photo, like video, voice right now is the most accurate in that you can create something that is imperceptible to a human ear. This is really powerful technology already.So, on that note, OpenAI says they're not comfortable releasing this to the public at large yet like they have done with ChatGPT. They say they're cautioning people about where this technology is heading, making specific recommendations like banks should move away from voice, you know, voice authentication in their systems. In a statement, they say they're taking a cautious and informed approach to a broader release due to the potential for synthetic voice misuse. We hope to start a dialogue on the responsible deployment of synthetic voices and how society can adapt to these new capabilities. We recognize that generating speech that resembles people's voices has serious risks, which are especially top of mind in an election year. We are engaging with U.S. and international partners from across government, media, entertainment, education, civil society and beyond to ensure we are incorporating their feedback as we build.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:50:00",
+      "speaker": "ACOSTA",
+      "sentences": "The total solar eclipse is just five days away. On Monday, millions of us will have a clear view of the moon completely blocking out the sun. There's a countdown right there. You know, we would like to do countdowns at CNN. There's one right there. The event is expected to be a huge boost for tourism in the path of totality as it's being described, which stretches across the U.S. from Mexico to Canada.And joining me now from the Fernbank Science Center in Atlanta is astronomy instructor Mark Lancaster. Love the Fernbank Center. Mark, thank you so much for being with us. Really appreciate it. So, tell us what are we going to see on Monday? I guess -- now, I want to start looking at my weather forecast in D.C. because it's always terrible in D.C. this time of year. So, I wonder if I'm going to even see it. But tell us about this eclipse and how much of us -- how many of us are going to see it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:50:00",
+      "speaker": "MARK LANCASTER, ASTRONOMY INSTRUCTOR, FERNBANK SCIENCE CENTER",
+      "sentences": "OK. Well, the eclipse's path of totality, as you mentioned, is going to run from Mexico through Texas and then just draw a line on the -- to the northeastern United States. Millions of people in the path this time. As you suggested, clouds are going to -- are looking like they may be a problem in many parts of the country, but we're hoping that's going to clear up. But in that path of totality, just expect if you can see totality, one of the most magnificent, spectacular things you can ever possibly imagine.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:50:00",
+      "speaker": "ACOSTA",
+      "sentences": "Yes, it's going to be amazing. And let's talk about how rare this is, because people will say, oh, I've seen this before. What's the big deal? You know, I know not to look up at the sun, but this one's rare. This one's really rare.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:50:00",
+      "speaker": "LANCASTER",
+      "sentences": "They're -- all total eclipses are rare. To give you an idea, on average, any given spot on Earth we'll see a total eclipse about every 350 years. So, they do not happen very often. And that's one thing we were very lucky to have two eclipses in just a few years over the United States. It's going to be another 20 plus years before we have one again.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:50:00",
+      "speaker": "ACOSTA",
+      "sentences": "And you know, I've seen -- when I've seen these before, you see folks, I mean, you're kind of tempted to look up there. You're not supposed to do that. What's -- give us a -- bit some tips here.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:50:00",
+      "speaker": "LANCASTER",
+      "sentences": "Yes, safety is definitely a top priority. You need eclipse glasses unless you are in totality. During totality, you can remove those eclipse glasses. But even with coverage of 99.9 percent of the sun, it's too bright. It can still damage your retina. It could still do -- it could cause permanent blindness. So, you've got to be very careful with how you're viewing the sun. And there are other ways of doing it indirectly if you don't have eclipse glasses.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:50:00",
+      "speaker": "ACOSTA",
+      "sentences": "And this is going to be one of those events where you just have -- I mean, so many people across the country watching this. I mean, that -- it's one of those events that just sort of brings people together. I have to imagine schools are going to, you know, for the kids who are watching at home, you're going to be able to miss out on a couple of classes, I would think on Monday because everybody's -- if your teacher is making you stay in the classroom during a total eclipse, man, please report that teacher to the principal. Everybody should be outside watching this, right?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:50:00",
+      "speaker": "LANCASTER",
+      "sentences": "It's absolutely something that you will never forget. The, again, totality, if you can get to that path and find a clear place, the difference between 99 percent and 100 percent literally is night and day. And pictures, words cannot describe a total eclipse.",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "date": "2023-01-11",
+  "headline": "Inside Politics",
+  "subHeadline": "Thousands Of Flights Delayed, Cancelled After FAA System Issue; Buttigieg: We Have To Understand How This Happened In The First Place; Dem Lawmaker Says FAA Has Outdated Tech, Needs More Funding; Garland Faces Decision Over Launching Criminal Inquiry Into Biden; Senate Intel Leaders Want Access To Material Found In Biden Office; Timeline: Biden Attorneys Discovered, Turned Over Material On Nov. 2; House GOP Makers First Moves In Hunter Biden Probe; GOP House Oversight Chair Seeking Info On Biden Family's Finances. Aired 12-12:30p ET",
+  "utterances": [
+    {
+      "timeStamp": "12:00:00",
+      "speaker": "JOHN KING, CNN HOST",
+      "sentences": "Hello, and welcome to Inside Politics. I'm John King in Washington. Thank you for sharing your day with us. Coast to coast chaos. A nationwide system outage delays every single morning flight across the country. Right now, yes, planes are back in the air but too little runway, too little airspace means thousands of travelers are stuck.Plus, court surprise. President Biden says he doesn't know how classified documents found their way into his private office. And enough, influential New York Republicans call for one of their own Congressman George Santos to resign that after a drip-by-drip dismantling of his campaign lies and shady accounting. We begin though with a morning of travel hell and demands that the government get its act together. The FAA says right now its flight control system is back online and it is working. But an early morning outage grounded all flights earlier today. In all, that means more than 6,000 flights were delayed and as a result, more than 1,000 were canceled. Today's masks comes of course, just weeks after the Southwest Airlines holiday season meltdown that led it to cancel 16,000 flights. So front and center, questions about the technology running America's airlines and its air traffic. Just moments ago, right here on CNN, the Biden Transportation Secretary Pete Buttigieg, offering his first pass on an explanation of what happened. The secretary says, the CSI still ongoing. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "12:00:00",
+      "speaker": "PETE BUTTIGIEG, UNITED STATES SECRETARY OF TRANSPORTATION",
+      "sentences": "Now we have to understand how this could have happened in the first place. Why the usual redundancies that would stop it from being that disruptive, did not stop it from being disrupted this time and what the original source of the errors or the corrupted files would have been.(END VIDEO CLIP) KING: Let's get some on the ground reporting. CNN's Amara Walker joins us now live from the always busy Atlanta Hartsfield-Jackson Airport. Amara, what do you see? AMARA WALKER, CNN ANCHOR &amp; CORRESPONDENT: Well, John, the FAA may have lifted its ground stop and operations, and many airports across the country are resuming as normal, including here at Atlanta International Airport. But of course, the delays and cancellations are continuing. There's a huge backlog of passengers who need to be rebooked on flights. As you mentioned, according to FlightAware, nearly 7,000 delays in airports across the country, including more than 1,000 cancellations. As you'd imagine a huge headache for so many passengers with a lot of them telling me what's on the back of their minds is the mayhem that some of them had to deal with over the holidays. And we saw the Southwest Airlines meltdown. Listen to what one passenger in Charlotte, North Carolina told us about missing her connecting flight or missing her flight in general. And now she won't be able to get to Costa Rica. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "12:00:00",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "Well, my original flight was supposed to take off at 9(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "12:00:00",
+      "speaker": "WALKER",
+      "sentences": "Back out live here at Atlanta Hartsfield-Jackson International Airport. The spokesperson just told me a few moments ago that, you know, operations are back to normal, no substantial impact on operations here, but of course, the delays and cancellations continue.And again, some passengers telling me that yes, they are frustrated. One gentleman telling me that he was heading up to New York, he was supposed to. The flight was delayed by two hours, which meant that he has now missed a family funeral. John?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "12:00:00",
+      "speaker": "KING",
+      "sentences": "That is the personal fallout from all of the summer. Walker, grateful for the live reporting. On the ground, again, travelers are asking questions. Lawmakers are asking questions. And just moments ago right here on CNN, the transportation secretary says the usual redundancies in the system failed. Pete Buttigieg, the Transportation Secretary saying, there's no direct evidence right now of any cyberattack.Let's get straight to the White House, CNN's Arlette Saenz. Arlette, the transportation secretary talking, the president also wants some answers.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "12:05:00",
+      "speaker": "KING",
+      "sentences": "Arlette Saenz for us live at the White House. Arlette, thank you. Let's get some perspective now from a colleague who is someone with a very deep understanding of both domestic and global travel challenges. CNN's Richard Quest. Richard, happy for your time today and your insights. So, is this a leadership question? Is this a technology question? Is it both? Why does this happen?RICHARD QUEST, CNN EDITOR-AT-LARGE: Oh, I don't know. And that's half the problem. You see the reality is there should be a ton of redundancy in the system as the secretary made clear and they need to look at what went wrong. Now, I'm not going in circles here, John, because the FAA has received billions of dollars in new generation investment. But it's all gone into things like air traffic management, spacing of aircraft, all the own route commands. The bit that's gone wrong here. The no towns is to an extent crucial and vital, but it's the Cinderella part of it. It's the bit where they tell I'm an pilots, you know, well, there's a runway out here. This ILS is broken there. You'll have to go slow over here. It's not the sort of own route bit, whichever where the attention has been. And that's going to be the core question. How did something as basic but crucial managed to fail? And when it did so, John, take the whole system down with it. KING: And so, in the early hours, we pressed for answers. And sometimes the answer you get today is a different answer than you'll get in a week or two when they actually have more data. But let's listen to the Transportation Secretary Pete Buttigieg, this is on his watch. This is his department, he says, here's what we know so far. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "12:05:00",
+      "speaker": "BUTTIGIEG",
+      "sentences": "We have to understand how this could have happened in the first place. Why the usual redundancies that would stop it from being that disruptive, did not stop it from being disrupted this time.KATE BOLDUAN, CNN ANCHOR &amp; HOST AT THIS HOUR: Any indication that there was a cyberattack involved?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "12:05:00",
+      "speaker": "BUTTIGIEG",
+      "sentences": "There's been no direct evidence or indication of that.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "12:05:00",
+      "speaker": "KING",
+      "sentences": "So that's comforting, if true, that it's not a cyberattack. But you still have the question. You mentioned the redundancies in the system. And you also talk Richard, and you understand this better than most. A lot of investments, yes, but perhaps maybe done in the wrong way. Obviously, you want passenger safety, you want the safety, any new safety thing you can put into the system, you want put into the system right away.But in the digital age, where you can pick up your phone and find out where your package is that's being shipped from London to the United States, or from California to Costa Rica, and you can pick up your phone and see where it is. Why can't we do a better job of lining up the planes to get them to take off and as you note, having a plan B, a plan C and a plan D if you need redundancies?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "12:05:00",
+      "speaker": "QUEST",
+      "sentences": "Now that is because of a lack of previous investment. Absolutely, the U.S. has needed to update because not only do you need a safe system, which is what you've got, but you need an efficient system, one that can cope with the increased dramatic increase in capacity. So, billions are being spent. And arguably, it is not enough. That is the simple truth.No matter how much they're spending, they probably need to spend more because the system is groaning as anybody who's flown on a weekend, or the rush hour knows you're parked for miles in terms of planes waiting to take off. In terms of the no time in terms of the investigation, the fear, the worry, the concern will be that it was cyber. Now the secretary says there's no direct evidence. They're going to want to look a great deal closer to make sure there's no indirect evidence of that either.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "12:10:00",
+      "speaker": "QUEST",
+      "sentences": "I leave the politics to you, John. I'll give you the economics and the infrastructure. Yes, yes and yes again. Look at the money spent in Qatar. Look at the money spent in China. Look at the money spent in all the new major airports. Adding runway capacity, adding infrastructure so that more planes can fly in the same airspace safely and efficiently. The United States is not falling back dramatically, but there is more money that needs to be spent. That's politics. That's back to you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "12:10:00",
+      "speaker": "KING",
+      "sentences": "I'll deal with that part, Richard. That's always great to see you. I appreciate your perspective. Thank you, sir. Up next for us. President Biden says, he does not know how classified documents ended up in a private office. Well, the Justice Department is now investigating, and Congress wants answers too.(COMMERCIAL BREAK)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "12:15:00",
+      "speaker": "EVAN PEREZ, CNN SENIOR JUSTICE CORRESPONDENT",
+      "sentences": "We don't know exactly what those are. And whether there's been any recommendation necessarily for the next steps. It appears what this is, is simply, here's what we found attorney general, it's now in your hands, right? And so that's a big question for the attorney general. He could order a full-blown investigation where this definitely takes a lot longer to resolve.One of those paths, of course, could lead through a special counsel, which is a dirty word in for the White House, which is why I think you hear the president saying in Mexico City, you know, you're going to hear a lot more, everything's fine. You know, it's sort of suggesting that he believes they should be over soon. That might be wishful thinking, because certainly for the Justice Department, for the FBI, the question, I think is a lot more complicated. The issue is, you know, if they close this out, right? If they say, nothing to see here, then they're going to get killed by the Republicans on the Hill who say, well, you're treating him so much differently from Donald Trump. I mean, obviously, we know that there are two different circumstances much different. The other issue here, John is, you know, certainly for the FBI, I think one of the things they still have questions on is, you know, is it possible that there are other documents at other locations? And that's a big question. That's something that's still hanging over Donald Trump right now. And so, you know, should you do searches of other places that the president was hanging his hat during the time - during the last four years.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "12:15:00",
+      "speaker": "KING",
+      "sentences": "Well, if you have a good inventory of the records, you would know if there's anything missing, that's one of the questions. But well, let's leave the Trump part aside for a second. If you were back in the Justice Department with your national security expertise, what are your questions? What do you need to know? I assume it starts with chain of custody, how long were these documents there? When were they removed from the government vault where they were supposed to be? And then what?CARRIE CORDERO, CNN LEGAL &amp; NATIONAL SECURITY ANALYST: Right, so there's questions. And I think the time difference here is significant and makes it a little bit more complicated for the Justice Department and the FBI, because these are documents that came from the current president status when he was vice president. So, there's a gap of years. And what the FBI and the Justice Department want to know is, how did those documents get from where they were rightfully, originally during the Obama presidency? How did they get to the Biden office that he was using downtown? Who handled those documents? What happened to those documents when they were in that office? Did anybody ever see them? Was it a box that's been closed for years? Or was there someone who had access to them? Who are the people who had access to them? So, there is questions about who had access to the information that moved it into this unsecured location? And then who, if anybody? And the answer might be, no one had access to this classified information in the ensuing years.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "12:20:00",
+      "speaker": "SEUNG MIN KIM, WHITE HOUSE REPORTER, ASSOCIATED PRESS",
+      "sentences": "All right. They sort of need to resolve that at this point because I think you kind of need to know what they are to know how damaging or sensitive they are. And I think that's a good example of, in terms of the politics here, obviously, we have talked at nauseam about the key factual differences between this case, and the case involving the former president.But I do think Democrats need to be careful about not being too much. There's nothing to see here. And I think the approach that, for example, Mark Warner, the Chairman of the Senate Intelligence Committee, has been a measured and sober one. He does point out the differences between the two. But he also says, we're going to be briefed, this is a matter of national security, and we need to know what's going on.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "12:20:00",
+      "speaker": "KING",
+      "sentences": "But based on what we know now, this is a and z, not excusing anything Vice President Biden did or President Biden did, it's wrong. It's wrong. And he's supposed to be smart enough to know how to protect these records. It's wrong. And the questions should be answered by Congress, and by the attorney general and everybody else. But what we know about Trump, having done proactively taking documents to Mar-a-Lago, having your lawyer certify that all been returned when they had now been returned. This is a in z. One, people who don't seem to care are Republicans, including the new speaker of the House.(BEGIN VIDEO CLIP) REP. KEVIN MCCARTHY, (R-CA) HOUSE SPEAKER: This was discovered before the last election, why weren't they rated? Why didn't they have the FBI coming in? Why didn't he in 60 minutes say, well, I understand that because I bet, I have the same problem. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "12:20:00",
+      "speaker": "KING",
+      "sentences": "A number of things there. This was discovered before the last election. Kevin McCarthy is absolutely right. It's a fair question to the White House. Why didn't you disclose this as soon as it happened? A, because it's important, and B, understanding the Trump politics. That is a very fair question. Why weren't they rated? Why didn't the FBI coming in?And then why did he on 60 minutes say, he criticized Donald Trump on the 60 minutes interview, but that interview was in November, the interview, I'm sorry, the interview was in September. The documents were found in November. So, we have no evidence that the president knew anything about it in a 60 minutes interview, but Kevin McCarthy doesn't care about the facts. NIA-MALIKA HENDERSON, CNN SENIOR POLITICS ANALYST: That's right. And listen, politics often doesn't care about the facts or nuance and the key differences here, and that's why you see a Republicans really pouncing on this. And they're likely going to be more investigations from the House into this. It is inconvenient for this White House, for this president. It was a great contrast. I think if he had before, being the person who had all of this experience, and Donald Trump, obviously not having that experience in handling the documents in the way that he did. He wants to be on script as much as possible on this. I mean, when he was in Mexico, it almost looked like he was on script talking about it. So, they going to be careful. And Democrats, at this point, have to see what comes out as well.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "12:20:00",
+      "speaker": "KING",
+      "sentences": "And in terms of Justice Department to button this up, we don't know. We know Merrick Garland now has decisions. We think we have notions of Dante (Ph).",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "12:20:00",
+      "speaker": "PEREZ",
+      "sentences": "We don't know. No, no, and certainly, but I think they've got to be thinking that they got to do something soon, right?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "12:20:00",
+      "speaker": "KING",
+      "sentences": "Do they have to cooperate with Congress? Or can they say, we have to wait, we need more, we have to wait till we're done?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "12:20:00",
+      "speaker": "CORDERO",
+      "sentences": "I suspect that they should brief the intelligence committees about something that they know about the documents, or at least the status of their investigation. I think the rightful place to communicate with Congress would be the intelligence committees.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "12:20:00",
+      "speaker": "PEREZ",
+      "sentences": "The minute they close it, they have to brief.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "12:25:00",
+      "speaker": "KING",
+      "sentences": "House Republicans moving quickly now to launch long promised investigations, including new steps just today that a key chairman says will help expose questionable conduct by members of the president's family. The Republican oversight committee is now looking to the Treasury Department and former tech officials for some information.Let's get some new reporting from CNN's Sara Murray, who joins us now. With that, what are they looking for Sara?",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

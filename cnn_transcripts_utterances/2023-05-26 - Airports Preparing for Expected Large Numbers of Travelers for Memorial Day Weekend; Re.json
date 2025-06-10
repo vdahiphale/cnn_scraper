@@ -1,0 +1,379 @@
+{
+  "date": "2023-05-26",
+  "headline": "CNN This Morning",
+  "subHeadline": "Airports Preparing for Expected Large Numbers of Travelers for Memorial Day Weekend; Reporting Indicates Former President Trump Moved Boxes of Papers at Mar-a-Lago Estate Day Before FBI Agents Came to Collect Classified Documents; White House and Congress Yet to Reach Deal to Raise U.S. Debt Ceiling; Texas House Panel Recommends AG Ken Paxton Be Impeach; Missile Strikes In Ukraine Overnight, Russia Also Reports Shelling; Senator Tuberville Holds Up Nominations Over DOD Reproductive Rules. Aired 8-8:30a ET",
+  "utterances": [
+    {
+      "timeStamp": "08:00:00",
+      "speaker": "POPPY HARLOW, CNN ANCHOR",
+      "sentences": "I was like, you can go to the grocery store. You can hem my pants, go to the dry cleaner, let's see how much.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:00:00",
+      "speaker": "ERICA HILL, CNN ANCHOR",
+      "sentences": "He does tailoring?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:00:00",
+      "speaker": "HARLOW",
+      "sentences": "No, I want him to.(LAUGHTER)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:00:00",
+      "speaker": "HARLOW",
+      "sentences": "I'm so happy to have my friend Erica Hill here with me today and next week. Here's what we are watching this morning.Sources do tell CNN the White House and Republican negotiators are moving closer to a deal on the debt limit, but a growing number of past Republicans and Democrats are warning they might not support the agreement even if they reach one.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:00:00",
+      "speaker": "HILL",
+      "sentences": "Airlines, meantime, facing a critical stress test this Memorial Day weekend. AAA expects air travel to be busier than it's been in nearly 20 years.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:00:00",
+      "speaker": "HARLOW",
+      "sentences": "Also, \"The Washington Post\" with quite an exclusive report this morning that workers at Mar-a-Lago moved boxes a day before the FBI came to pick up classified documents last year. How that evidence could determine potential obstruction.And one of the most powerful Republicans in the state of Texas is now facing possible impeachment by his fellow Republicans. A GOP led committee of state lawmakers wants Attorney General Ken Paxton removed for alleged bribery, fraud, and abuse of public trust.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:00:00",
+      "speaker": "HILL",
+      "sentences": "And big basketball headline for you this morning. The Boston Celtics staying alive with a dominant game five, winning against the Heat in the eastern conference finals. And the LSU Women's Basketball champs heading to the White House today. This hour of CNN THIS MORNING starts right now.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:00:00",
+      "speaker": "HARLOW",
+      "sentences": "But we begin with your, hopefully, long holiday weekend. Memorial Day travel, airports are going to be very busy, actually the busiest in nearly two decades as America bounces back from the pandemic, that is according to AAA. Take a live look at O'Hare in Chicago. Demand for flights has been skyrocketing. AAA predicts nearly 3.5 million people will fly just this weekend. That's, of course, an increase from last year. It's also up from 2019 before COVID struck.Pete Muntean joins us near the nation's capital at Reagan this morning. Good morning. How's it looking?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:00:00",
+      "speaker": "PETE MUNTEAN, CNN CORRESPONDENT",
+      "sentences": "A huge test for airlines, Poppy. In fact, the TSA says that just yesterday we set a pandemic era air travel record, screening 2.66 million people at airports nationwide, besting the record set just past Friday. This is so interesting because last Memorial Day really kicked off the summer of meltdowns for airlines. Airlines insist this time around they are ready, and we will see if that is the case this weekend.(BEGIN VIDEO TAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:00:00",
+      "speaker": "MUNTEAN",
+      "sentences": "It is the start of a summer of tests for air travel, with the Transportation Security Administration planning to screen 10 million passengers between Thursday and Monday. The world's busiest airport in Atlanta will be even busier than normal with officials there anticipating 300,000 passengers a day.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:00:00",
+      "speaker": "MAYOR ANDRE DICKENS, ATLANTA",
+      "sentences": "Many of us are still trying to make up for the time we lost during the pandemic.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:00:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "From TSA's perspective, we are ready.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:00:00",
+      "speaker": "NICHOLAS CALIO, CEO, AIRLINES FOR AMERICA",
+      "sentences": "We are up over, finally over pre-pandemic levels.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:00:00",
+      "speaker": "MUNTEAN",
+      "sentences": "Delta Airlines says holiday weekend ticket sales are up 17 percent from last year. American Airlines says it alone will serve 2.9 million passengers. United Airlines says this will be the busiest Memorial Day holiday in more than a decade.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:00:00",
+      "speaker": "PETE BUTTIGIEG, TRANSPORTATION SECRETARY",
+      "sentences": "This weekend will be a test of the system.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:00:00",
+      "speaker": "MUNTEAN",
+      "sentences": "Transportation Secretary Pete Buttigieg says flight cancelations are down after last summer's repeated meltdowns. Airlines insist they are right-sized, operating fewer flights on larger airplanes, and right staffed. A CNN analysis shows the industry has hired nearly 48,000 new workers in the last year.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:00:00",
+      "speaker": "BUTTIGIEG",
+      "sentences": "We are doing everything we can to press airlines to deliver that good service. And if there is an issue, we have your back.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:00:00",
+      "speaker": "MUNTEAN",
+      "sentences": "Though airlines worry it's the federal government that could cause delays. Two in ten air traffic controller jobs are empty. That's 3,000 positions nationwide. This week back-to-back staffing issues in Denver forced the FAA to slow flights. United Airlines CEO Scott Kirby calls air traffic control shortages his number one concern.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:00:00",
+      "speaker": "SCOTT KIRBY, UNITED AIRLINES CEO",
+      "sentences": "That doesn't just impact those flights. That bleeds over to the whole system for the rest of the day.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:00:00",
+      "speaker": "MUNTEAN",
+      "sentences": "For now, the FAA has opened up 169 new more efficient flight routes up and down east coast. Even limiting space launches to off- peak times. For passengers, all that matters is getting where they want to go, knowing one snag could slow the start of summer.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:00:00",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "If things run smoothly, people do their jobs efficiently, then it's a great trip.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:00:00",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "Pack your patience. Come prepared.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:05:04",
+      "speaker": "HARLOW",
+      "sentences": "Pretty good. Pretty good. We will take it. Thanks, Pete.(LAUGHTER)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:05:04",
+      "speaker": "HILL",
+      "sentences": "Two people working for former president Donald Trump moved boxes of papers at his Mar-a-Lago estate the day before FBI agents came to collect classified documents last year. That's according to \"The Washington Post,\" which cites people familiar with the matter. \"The Post\" reporting investigators have come to view the timing as suspicious and an indication of possible obstruction, and adds that last May, before Trump even received a subpoena for the classified documents, he and his team held a dress rehearsal for moving papers that he didn't want to hand over to the feds. Sources also say prosecutors have evidence that Trump left some classified documents out in the open and even showed them to people. Those new details show a broader timeline and possible extent of obstruction than previously reported. The former president, for his part, has denied any wrongdoing and claims he declassified the documents at Mar-a-Lago simply by removing them from the White House.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:05:04",
+      "speaker": "HARLOW",
+      "sentences": "Also this, a judge in Washington has sentenced the founder of the oath keepers to 18 years in prison for leading that attack on the capital. This is the longest sentence yet for a January 6th defendant, the first handed down for that very high charge of seditious conspiracy. Prosecutors argued that Stewart Rhodes spent weeks coordinating efforts to overturn the 2020 election. They say his plotting to lead his followers to the capitol. The judge said Rhodes showed no remorse and before sentencing told him this, quote, \"I dare say, Mr. Rhodes, and I have never said this to anyone I have sentenced, you pose an ongoing threat and peril to our democracy and the fabric of this country.\"",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:05:04",
+      "speaker": "HILL",
+      "sentences": "Sources tell CNN White House Republican negotiators are moving closer this morning to a deal on raising the debt limit, but, and this is an important but, the calendar is not in their favor. Just six days left to prevent a potential catastrophic default that could crash the economy. A growing number of lawmakers on both sides of the aisle are warning they may not vote for the deal, even if there is one. And 35 hardline Republicans have sent additional demands to Speaker Kevin McCarthy. Those demands include scrapping funding for new FBI headquarters. And several House Democrats, meantime, are warning the White House they will not support the agreement if it includes things like stricter work requirements for food stamps, Medicaid, and other benefits for low-income Americans.Christine Romans is here to break it down just how dangerous the situation is for our economy right now. Lauren Fox is on Capitol Hill. Lauren, let's begin with you. Where do things stand this morning in terms of negotiations? Any moment?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:05:04",
+      "speaker": "LAUREN FOX, CNN CONGRESSIONAL CORRESPONDENT",
+      "sentences": "Well, the negotiations right now are basically moving closer to where they believe they could get an agreement, but like you noted, the outstanding issues here are many. One of them a key issue that came up last night was this question about work requirements. Republicans still pushing very hard to include those requirements on programs like Medicaid, on programs like food stamps and other social safety net programs.There is also still a lot of discussion around how much money the federal government is going to spend over the next several years. That is a critical piece of this agreement. We have said over and over again, there is a question of whether or not there is going to be less spending next year than there currently is. They believe they are moving closer in the caps agreement, but there still is no hard agreement at this time. We should note that they believe that they could raise the debt ceiling for potentially two years as part of any agreement, but as you noted, there is still a lot of heartburn from both conservatives and progressives who are warning that they have concerns about the shape of the deal that is coming together behind closed doors. Part of this issue is that these negotiators have been working very quietly, not communicating broadly with their conference because of the sensitivity of these talks. But that's starting to create the sense that people don't know what is coming together, people don't know if they are going to be comfortable voting for it. And the reality is even if they get a deal, you still have to have 218 votes coming out of the House of Representatives. Likely that's going to come from the middle of the Republican conference, from the middle of the Democratic caucus. It's probably not going to come from progressives and hardline conservatives. But you still have to quell any major rebellion that might be forming right now because people just don't feel like they have a good sense of what's going to be in this deal. Erica?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:05:04",
+      "speaker": "HILL",
+      "sentences": "Lauren, appreciate it. So Christine, when we look at where we stand in this moment on this Friday morning with that clock ticking, there are very serious implications here that loom.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:10:00",
+      "speaker": "HARLOW",
+      "sentences": "Lauren, back to you on Capitol Hill, one of the potential off-ramps here, maybe a break glass measure, would be the president trying to invoke the 14th Amendment and basically saying the Constitution allows me to unilaterally raise the debt ceiling because we cannot default. But the administration just seemed to take that completely off the table this morning in this interview we just did with the deputy treasury secretary. Listen.(BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:10:00",
+      "speaker": "HARLOW",
+      "sentences": "Final question on the 14th Amendment. Both the president and Secretary Yellen have said legally it would be very challenging to invoke, especially at this point. But if there is no deal as we approach next Thursday, will the administration attempt to invoke the 14th Amendment?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:10:00",
+      "speaker": "WALLY ADEYEMO, DEPUTY TREASURY SECRETARY",
+      "sentences": "The president and the secretary, the 14th Amendment can't solve our challenges now. Ultimately the only thing that can do that is Congress doing what it has done 78 other times, raising the debt limit. We don't have a plan b that allows us to meet the commitments that we have made to our creditors, to our seniors, to our veterans, to the American people. The only plan we have is the one that's worked more than 200 years in that country, which is the United States of America needs to pay all of its bills and pay them on time. And Congress has ability to do that, and the president is calling on them to act on that as quickly as possible.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:10:00",
+      "speaker": "HARLOW",
+      "sentences": "Is that a no?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:10:00",
+      "speaker": "ADEYEMO",
+      "sentences": "So the question was whether the United States would use the 14th amendment. I think the president and the secretary have been clear that will not solve our problems now. So, yes, that is a no.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:10:00",
+      "speaker": "HARLOW",
+      "sentences": "I don't think we heard them say it that definitively before, have we, Lauren? And if that's a no, then there is no break glass plan b?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:10:00",
+      "speaker": "FOX",
+      "sentences": "That's right, Poppy. I think this is sending a message to some of the Democrats, some of the progressives on Capitol Hill who have been urging the administration to consider using the 14th Amendment, because, in part, they don't like the contours of the deal they feel like is starting to come together in these negotiations. They have been warning very clearly to the White House that they are not going to be compelled to vote for just any deal that they reach. So to me that was really sending a clear message to Democrats, the only option right now is what we are negotiating in the room. That is the only way we are getting out of this debt ceiling crisis that could come and befall this country in less than a week at this point, Poppy.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:10:00",
+      "speaker": "HARLOW",
+      "sentences": "Final thoughts to our chief business correspondent who always makes us feel better?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:10:00",
+      "speaker": "ROMANS",
+      "sentences": "I would say the other break glass moment is a TARP-like event. Remember the bank bailout that didn't get passed, stock market tanked, they turned around, they went back to work, and then they passed a bank bailout. I am not predicting that could happen but that would be something that you would see that maybe if markets forced them back to the table to do either a clean increase or an increase along with maybe a commission, you know, to talk about the long-term drivers of our debt. That would be another kind of break glass moment, I think.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:10:00",
+      "speaker": "HARLOW",
+      "sentences": "We will be watching. Christine and Lauren, thank you both.Now this. This morning a Texas House committee is unanimously recommending that the State Attorney General Ken Paxton be impeached and removed from office. This panel has been investigating allegations that Paxton abused his office to benefit a multimillionaire donor. Paxton has denied any wrongdoing. Rosa Flores has been following it. It's really interesting because it's so rare to have articles of impeachment invoked this way. But this is Republicans going after the Republican A.G. in the state of Texas.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:15:00",
+      "speaker": "ERIN EPLEY, LEAD COUNSEL FOR THE INVESTIGATING COMMITTEE",
+      "sentences": "An inquiry found the evidence of a dereliction of duty, and of a lack of transparency. Specifically, a failure to disclose information that General Paxton had a duty to disclose. The Texas ethics commission records established that General Paxton had failed to report his connection to boards and as a receipt of various gifts.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:15:00",
+      "speaker": "FLORES",
+      "sentences": "Now, Ken Paxton firing back saying that all of this can be disproven. Saying in a statement, in part, \"four liberal lawyers put forward a report to the House General Investigating Committee based on here say and gossip, parroting long-disproving claims.\" He goes on to say this process provided no opportunity for rebuttal or due process. They even refused to allow a senior attorney from my office to provide the facts.The articles of impeachment are House Resolution 2377. It has to go before the full House of Representatives. A simple majority would move this forward to an impeachment court in the Senate. And, Poppy, here is an interesting part of all of this. Angela Paxton is a senator in the state of Texas. If that last name sounds familiar, you are thinking the same. She is Ken Paxton's wife.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:15:00",
+      "speaker": "POPPY HARLOW, CNN ANCHOR",
+      "sentences": "Right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:15:00",
+      "speaker": "FLORES",
+      "sentences": "It is going to be very interesting how that is handled, Poppy.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:15:00",
+      "speaker": "HARLOW",
+      "sentences": "Wow. Yes. I didn't know that. Rosa Flores, thank you for the reporting.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:15:00",
+      "speaker": "ERICA HILL, CNN ANCHOR",
+      "sentences": "Happening overnight, Russian strikes on a medical facility in Ukraine as a counteroffensive begins to take shape.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:21:03",
+      "speaker": "HARLOW",
+      "sentences": "Overnight, a series of drone and missile strikes reported across Ukraine including in the capital region of Kyiv. President Zelenskyy says a medical facility was hit in the central Ukrainian city of Dnipro. At least two people were killed. More than a dozen injured. And military officials say they downed most of Russia's 17 cruise missiles and 31 attack drones.Meanwhile, in Russia, a large explosion was heard overnight in the city of Krasnodar, and a building was damaged there. The governor of Belgorod is also reporting shelling. He says four homes were damaged. There were no casualties reported yet.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:21:03",
+      "speaker": "HILL",
+      "sentences": "President Joe Biden is nominating Air Force General Charles Q. Brown to be the next chairman of the Joint Chiefs of Staff.(BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:21:03",
+      "speaker": "JOE BIDEN, PRESIDENT OF THE UNITED STATES",
+      "sentences": "CQ is a fearless leader and an unyielding patriot. I know I will be able to rely on his advice as a military strategist and as a leader of military innovation dedicated to keeping our armed forces the best in the world.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:21:03",
+      "speaker": "HILL",
+      "sentences": "If confirmed, this would be the first time that both the Defense Department's top positions, the secretary of defense and chairman of joint chiefs will be held by black Americans. Brown's confirmation, however, is now joining several others -- hundreds actually, of military promotions and nominations which are being held up by one senator, Alabama Republican Tommy Tuberville who is protesting a memo to Defense Secretary Lloyd Austin sent in the wake of the overturning of Roe v. Wade which said the military would leave, and reimburse transportation costs for travel for troops and their families to receive reproductive health care including abortions.(BEGIN VIDEO CLIP) SEN. TOMMY TUBERVILLE (R-AL): We have had an abortion policy, but they just went around Congress, said hey, we are going to do this on our own. That's not how you do things in Washington, DC. It's not how they are going to do things with me with the ability to put a block and holds on their nominees. And I told them that before, that if you do this, I'm going to block them. So, they were -- they were warned in advance, but they did it anyway, and -- but they could care less. They are trying to run, you know, this country from the White House without going through Congress and I'm not going to put up with it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:21:03",
+      "speaker": "HILL",
+      "sentences": "Secretary Austin has said he believes they are on firm legal ground. Joining us to discuss the nomination and more, the Department of Defense deputy spokesperson Sabrina Singh. Good to see you this morning.As we look at where things stand as Senator Tuberville's spokesperson said he does -- this hold does apply to General Brown. He wrote this weekend an op-ed to the Washington Times, \"no job is going unfilled. The military keeps officers in place until replacements are confirmed. All these jobs are being done.\" He says not a problem. People will just keep doing what they will be doing while we wait. Can the military continue to operate in that manner?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:21:03",
+      "speaker": "SABRINA SINGH, DEPUTY SPOKESPERSON, DEFENSE DEPARTMENT",
+      "sentences": "Well, thanks, Erica, so much for having me this morning. I'm -- Unfortunately, I think Senator Tuberville has a fundamental misunderstanding of how the military works. We need our general and flag officers that are Senate confirmed in these positions. We can't just have our other officers fill in for roles in an acting position indefinitely.Between now and the end of the year, we have 650 general and flag officers up for Senate confirmation that Senator Tuberville put a hold on, including the chairman of the Joint Chiefs of Staff who was nominated yesterday by the president, General CQ Brown. And so, this has an impact on our readiness on our national security. When we don't have a person that has been Senate confirmed in these positions, that sends a message to our adversaries and to our allies all across the world and here in the department as well.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:21:03",
+      "speaker": "HILL",
+      "sentences": "What is that message specifically?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "02:25:06",
+      "speaker": "HILL",
+      "sentences": "IT'S interesting. Senator McConnell telling reporters recently, he doesn't support putting a hold on military nominations, comments which were dismissed by Senator Tuberville. We'll continue to watch that situation.You brought up the war in Ukraine, talking about --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "02:25:06",
+      "speaker": "SINGH",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "02:25:06",
+      "speaker": "HILL",
+      "sentences": "-- what is and isn't being done there in terms of how they are being armed. For months, we've heard the Biden administration say no when it comes to F-16s in Ukraine. NATO allies now set to provide them. What does this do for U.S. thinking?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "02:25:06",
+      "speaker": "SINGH",
+      "sentences": "Well, again, yesterday, the secretary held the 12th Ukraine defense contact group here where he convened allies and partner nations. Over 50 participated in that. And that group is really there to help arm Ukraine with what it needs in this unprovoked war started by Russia.At the beginning of the war, we were giving -- surging supplies and capabilities to Ukraine that started with stingers and javelins. Over time that started, we knew -- we -- as the battlefield changed, we knew -- we knew that we needed to adjust our capabilities that we were providing so you saw us provide tanks and HIMARS. And now, as the battle continues, we are looking to provide longer-term capabilities which include training for F-16s. The United States supports that. The Netherlands and Denmark have agreed to be the leaders in that training. And so, the U.S. is supportive of that. But again, the F-16s are not something that the Ukrainians will be able to use as they launch their counteroffensive. This is a long-term commitment as we know that they will need a strong capable air force to continue to defend not just their airspace but their country in the long term.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "02:25:06",
+      "speaker": "HILL",
+      "sentences": "And to your point, we're listening to what they need. We have been hearing this is what they see as a need from the very beginning, as you point out, the training will happen. I do also just want to get your take.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "02:25:06",
+      "speaker": "SINGH",
+      "sentences": "Sure.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "02:25:06",
+      "speaker": "HILL",
+      "sentences": "Florida Governor Ron DeSantis who, of course, is now a candidate for president was asked about the military. He is arguing it's too \"woke,\" a term which has come to signify -- I'm not sure what these days the way that it's thrown around. But he talked specifically about what he sees in terms of the direction of the U.S. military under President Biden. Take a listen.(BEGIN VIDEO CLIP) GOV. RON DESANTIS (R-FL): Well, first, I think what we need to do as a veteran is recognize that our military has become politicized. You talk about gender ideology, you talk about things like global warming that they are somehow concerned about, and that's not the military that I served in. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "02:25:06",
+      "speaker": "HILL",
+      "sentences": "He says he has seen a change since President Biden took office. How does the Department of Defense respond to that characterization?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "02:25:06",
+      "speaker": "SINGH",
+      "sentences": "Well, labels like that certainly further polarize our political environment and the military which is a nonpartisan entity. I am proud to work here every day with men and women in uniform and our civilians who are laser-focused on the task at hand that the secretary set out -- the president set out to defend the homeland, to take care of our people, to strengthen our partners and ally relationships all across the world. That is what the military is focused on every day.We are not focused on labels being thrown at us by others across the aisle. We are focused on the mission which is to continue to defend the homeland and make sure that we remain the most combat-capable ready military that the world has ever seen. And so, again, that's the focus that this building has, that the men and women that I work with everyday honor, and we're going to keep doing that every day.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "02:25:06",
+      "speaker": "HILL",
+      "sentences": "Sabrina Singh, I appreciate your time this morning. Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "02:25:06",
+      "speaker": "SINGH",
+      "sentences": "Thank you, Erica.",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

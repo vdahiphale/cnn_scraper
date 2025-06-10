@@ -1,0 +1,589 @@
+{
+  "date": "2024-02-29",
+  "headline": "CNN NewsNight with Abby Phillip",
+  "subHeadline": "Scores Dead After Israel Opens Fire At Food Line In Gaza; Special Counsel Seeks July 8th Trial In Trump's Documents Case; President Biden And Former President Trump Appear At The Border To Amplify Their Stances On The Issue; Speaker Mike Johnson Decides To Pass Another Short Term Spending Bill With The Help Of Democrats. Aired 10-11p ET",
+  "utterances": [
+    {
+      "timeStamp": "22:00:00",
+      "speaker": "ASHLEY CHOHLIS, SUPERINTENDENT, UVALDE CONSOLIDATED INDEPENDENT SCHOOL DISTRICT",
+      "sentences": "And our goal is to present a beautiful plan to put the community back together through the kids. And so we're going to do that in a very connected way. And I'm looking forward to doing that work with them, so.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:00:00",
+      "speaker": "KAITLAN COLLINS, CNN ANCHOR",
+      "sentences": "Ashley Chohlis, quite a job that you have. Thank you for joining us to talk a little bit about it. We hope you'll come back in the future.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:00:00",
+      "speaker": "CHOHLIS",
+      "sentences": "Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:00:00",
+      "speaker": "COLLINS",
+      "sentences": "Thank you all so much for joining us. CNN NEWSNIGHT with Abby Phillip starts right now.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:00:00",
+      "speaker": "ABBY PHILLIP, CNN ANCHOR",
+      "sentences": "Carnage and catastrophe in black and white. That's tonight on NEWSNIGHT.Good evening, I'm Abby Phillip in New York. What is it like to watch chaos unfold at your feet, unable to stop it, unable to do anything but watch? Well, tonight, the world knows. This is video from the Israeli Defense Forces and that swarm, that buzzing nucleus, those are people, desperate Gazans surrounding aid trucks who are carrying food and supplies. Now this hour, 112 of those people are now dead. Hundreds more are injured as cameras caught a clear-eyed view of what this war is doing to innocents inside of Gaza. All of what you're about to watch is disturbing and it's shocking and we thought long and hard about whether to show this to you. But the brutality of what happened is inescapable. This was the scene that was surrounding that aid convoy before the disaster intervened. Palestinians huddled. Their chatter, you could hear it there over the din of the fires that they had set to keep warm, as they waited. They just wanted to eat. They wanted to feed their kids and their parents. The World Food Program was last able to deliver aid to North Gaza more than a month ago. Now, after a month without food and months scrambling for just the tiniest morsels, this convoy, 30 trucks in all, offered a rare glimmer of hope in the pitch black darkness that is now life for Palestinians in Gaza. But hope is, of course, the most fragile of things and soon the bullets shattered it. That crackle of IDF gunfire came around 4:00 in the morning. The bursts killed 20 people, and according to local journalists who were on the scene, that triggered a chain reaction, a deadly stampede of people running from danger only to stumble into even more. Some were trampled, some were run over by the trucks themselves. Now, daylight brought clarity on the catastrophe, the painful and unnerving clarity of it all. Men used donkeys to cart away corpses. From the pictures, it's hard to discern who died from Israeli gunfire and who died by stampede. When donkeys weren't an option, bystanders loaded the bodies onto pallets. They dragged them, carrying them. Men were suddenly turned into pallbearers. Inside of Gaza City, near its already hollowed out hospitals, the scale of this slaughter gets even more obvious. The floor is now a triage table. And for others, they arrived simply beyond saving. Any able-bodied person who was nearby is now a makeshift medic, blood soaking through the clothes of those trying to help, even if helping means ferrying bodies draped in white sheets. Others crouched down, heads hung in sorrow, at a row of people who help could not reach in time. This man, whose identity CNN does not know, is already beyond the grasp of that outstretched hand, seeking to give him just one more moment of comfort. CNN cannot fully confirm the Israeli account of this incident, nor can CNN confirm the Palestinian version of events. But without question, what happened here is a stain on humanity. This is how Israel has described what happened in that crowd. (BEGIN VIDEO CLIP) LT. COL. PETE LERNER, IDF SPOKESPERSON:  The trucks went through. They were surrounded by hundreds of people, thousands of people, perhaps. And as they were trying to loot the goods on the trucks, it appears that the trucks continued to move forward. And this is the unfortunate reality, a mass casualty event that actually has very little or nothing to do with Israel. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:00:00",
+      "speaker": "PHILLIP",
+      "sentences": "Nothing to do with Israel. Unfortunate is what the Israeli government says. But you can't disconnect this war, first, of course, sparked by an act of brutality from Hamas, from the widespread famine that is currently occurring inside of Gaza where people, children, are simply wasting away. [22(BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:00:00",
+      "speaker": "NEMA ABU SULTAN, WITNESSED GAZA STAMPEDE",
+      "sentences": "Our children die of hunger. They went to get a bag of flour in order to feed their children. Some were run over, others were be shot.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:00:00",
+      "speaker": "PHILLIP",
+      "sentences": "And now Palestinians don't even want the help. They say they would rather starve if it means watching their children die is the cost of eating.(BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:00:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "These individuals were not injured in war. Rather, they were harmed while trying to provide for their families. The situation is surreal and chaotic. If aid is to come to us this way, we don't want it. We don't want to live on the blood of our children.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:00:00",
+      "speaker": "PHILLIP",
+      "sentences": "Again, as a reminder, Palestinians have lived through 145 days of near nonstop death. They've now had to watch more people die. The only question tonight is, is this a tipping point or will this get lost in the fog of wars, just another day, another unfortunate series of events that ended with death and without change?Joining me now, Mehdi Hasan, he's the founder of Zeteo News. It launches on Substack next month. And his book, Win Every Argument, is also out now on Paperback. Mehdi, thanks for joining us tonight. It's good to see you. Look, Israel, as we just laid out in the last few hours, have tried to frame this as a tragedy, but just not one that is their fault. The IDF says it fired warning shots to try to disperse the crowd around that convoy. Do you lend any credibility to that explanation? And from the eyes of the world, does it matter what the explanation is for what we saw unfold? MEHDI HASAN, EDITOR-IN-CHIEF AND CEO, ZETEO:  Well, Abby, thanks so much for having me on the show, and thank you for that very important, very powerful intro you did just there. In terms of believing the Israelis, I would say that it took multiple innocent black people to die at the hands of police in this country, whether it's Breonna Taylor, whether it's Freddie Gray, whether it's George Floyd, for people in our industry, Abby, to start saying, well, maybe we shouldn't just blindly believe police statements after shootings happen. And I feel that we still haven't quite reached that point in the Middle East with the Israeli military. The Israeli military tend to say things that turn out not to be true, both before Gaza, when they killed Shireen Abu Akhle, a U.S. citizen, and lied about it, or during this conflict, so many lies the Israeli military has told about, you know, a terrorist guard list under the Rantisi Hospital, a command and control center under the Al-Shifa Hospital, a documentary in Lebanon that they claimed was Palestinians faking their own wounds, so many, you can't even count. And now we are told today, well, actually, it was just a stampede, even though eyewitnesses, Abby, say that the Israelis opened fire, Israeli tanks opened fire, without warning, according to one eyewitness in the Washington Post. Doctors say that the bodies they got at the hospital, you showed the pictures of people on donkeys, were mostly bullet wounds, not stampede wounds. The Israelis opened fire on hungry people trying to get flour, it's being called a flour massacre for that reason. And you asked, is it a tipping point? I mean, in any normal world, it should be. In any other conflict, it would be, Abby. When Putin did stuff like this in Ukraine, we condemned him. When Assad did stuff like this in Syria, we condemned him. When Israel starves hundreds of thousands of people and then shoots people who go to get flour, where's the condemnation from the United States government? The State Department spokesman would not condemn Israel today. So, it's a tragedy. Is it a tipping point? I wish it was. I suspect it isn't.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:00:00",
+      "speaker": "PHILLIP",
+      "sentences": "What President Biden has said is that he has acknowledged the events that happened and says it will likely complicate the negotiations that they've been working on for a temporary ceasefire. From Biden's perspective, do you think this could be the incident that pushes him to actually rethink how he approaches this relationship with this particular Israeli government and this war?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:10:00",
+      "speaker": "PHILLIP",
+      "sentences": "Do you think, Mehdi, that there is -- look, I think you understand that President -- you say President Biden can just pick up the phone and cut it all off. You also understand he probably won't do that. So, if you were to give him advice today, knowing what he is likely to be able to get to a yes on, what is the one thing that you think he should do today that would make this better, marginally better tomorrow for Gazans?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:10:00",
+      "speaker": "HASAN",
+      "sentences": "It simply is get a ceasefire. And it is within his power to get a ceasefire. It's within the power of the U.N. Security Council to get a ceasefire. Remember, the rest of the world wants a ceasefire. It's America that has blocked us at the U.N. Security Council. Even other western nations have backed a ceasefire. It's Biden blocking it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:10:00",
+      "speaker": "PHILLIP",
+      "sentences": "So, if he's able to get that ceasefire that he's been discussing over the weekend, you would view that as progress?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:10:00",
+      "speaker": "HASAN",
+      "sentences": "Anything at this point is progress when hundreds of people are being killed every day. But I would point out, you used the right word, marginally better. A new study came out this week that said, even if you get a ceasefire tomorrow, 6,500 Palestinians will die in the next six months from the public health conditions. And if you don't get a ceasefire tomorrow, 58,000 Palestinians will die over the next six months. We will be complicit in that. It's our weaponry, it's our money, it's our diplomatic support, and our president can stop this, and I hope he does.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:10:00",
+      "speaker": "PHILLIP",
+      "sentences": "Real quick --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:10:00",
+      "speaker": "HASAN",
+      "sentences": "But I don't think he will.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:10:00",
+      "speaker": "PHILLIP",
+      "sentences": "-- before you go, I mean, obviously you know this has become a major political issue for the president. Do you think that if it does cost him the presidency, that it should, given his decisions on this war?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:10:00",
+      "speaker": "HASAN",
+      "sentences": "What I would say is that Joe Biden has rightly said for the last few years that Donald Trump poses an existential threat to our democracy. The idea that he would risk not only his own presidency, but the future of American democracy for the sake of Benjamin Netanyahu and Itamar Ben-Gvir, and Bezalel Smotrich and the rest of the fascists in Israel is bizarre and inexplicable to me.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:10:00",
+      "speaker": "PHILLIP",
+      "sentences": "All right. Mehdi Hasan, thank you very much for all of that.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:10:00",
+      "speaker": "HASAN",
+      "sentences": "Thanks, Abby.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:15:00",
+      "speaker": "PHILLIP",
+      "sentences": "As doubts rise that Donald Trump's election interference case will happen at all before the election, the trial over his classified documents, well, that very well might, that's if Jack Smith gets his way.Now, tonight, the Justice Department is asking for a July 8th start date. But with Trump's immunity claims in the hands of the Supreme Court, it seems that's unlikely. But we are also tonight getting a look at the fight between Trump's lawyers and the special counsel over what questions can actually be asked of people who might be on that jury. The first, do you believe 2020, the presidential election was stolen? Prosecutors want that one. The defense does not. The next question, also facing the objection from the defense, do you have any opinions, feelings or beliefs about the U.S. Department of Justice or the FBI? Prosecutors also want to know where jurors get their news. On the defense side, lawyers want to ask the jury about their personal politics. Are you registered to vote? Are you registered with a particular party affiliation? Did you vote in the 2020 presidential election? Now, Jack Smith doesn't like any of those questions, along with this, do you have any negative views about law enforcement, including the FBI, federal prosecutors, criminal defense attorneys, judges and politicians? Joining me now to discuss this, Tim Parlatore, he's a former attorney for Donald Trump, and Elie Mistal, Justice Correspondent and Columnist for The Nation, as well as host of the new podcast, Contempt of Court. So, Elie, what do these juror questions tell you about the strategy on the prosecution side?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:20:01",
+      "speaker": "PHILLIP",
+      "sentences": "I mean, Tim, it's an important point. There's a clear answer to the question, do you think the 2020 election was stolen? And if you answer wrongly, even if that is 40 percent of the country or whatever that number is, I mean, do you think that that should be on the table here?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:20:01",
+      "speaker": "TIM PARLATORE, FORMER TRUMP ATTORNEY",
+      "sentences": "You know, I mean, I don't think it's a mental competency question, but it is something that you do want to know. I think that, you know, it surprises me that the defense doesn't want that question on there because, ultimately, the point of jury selection is to try and weed out any prejudices that the jurors may hold that would prevent them from hearing the case fairly.And so, you know, that question -- none of these questions really strike me as necessarily being absolute disqualifiers because any one of those questions can then be rehabilitated through while even though you think, you know, whatever about the election or you register for whatever party or whoever you voted for, can you set that aside and hear this case fairly, which is some of the questions that the defense have proposed in the final questions. And, really, the whole point of, you know, jury selection, you want to try and find these things out and have a full picture because the last thing you want to do is to see the jury and then find out later that somebody had some prejudice that prevents them from hearing the case fairly.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:20:01",
+      "speaker": "PHILLIP",
+      "sentences": "Yes. I mean, they not just want to find it out, but, I mean, presumptively, Elie, they also want to be able to weed people out, perhaps based on how they answer some of these questions. Given how polarized some of these questions are, you know, the media that you consume, do you have a negative view of politicians, the 2020 election questions, how hard do you think it's going to be, Elie, to find a jury that is acceptable to both sides on all of those fronts?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:20:01",
+      "speaker": "MISTAL",
+      "sentences": "Well, that's going to be the whole ball game, right? Like it is going to be difficult in our polarized nation to find a jury that both sides that everybody thinks is fair. I think it's possible, but it's going to be hard.My question more, Abby, is like I wish we could ask these questions of the judges, right? I'd like to know, Aileen the MAGA Cannon's answer to some of these questions. I'd certainly like to know Chief Justice John Roberts' answer to some of these questions, right? So, like while we're sitting here kind of investigating whether or not we can get a fair jury, I feel like we're slightly missing the ball that the judges and the prosecution itself might be biased, might be tainted and might be unfair based on the history that we've seen from these Republican-appointed justices over the past few months.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:20:01",
+      "speaker": "PHILLIP",
+      "sentences": "Well, speaking of just that, since you brought it up, Elie, you're getting some attention for what you said recently about why you think the justices are taking up this immunity case, the Supreme Court justices, that is. Why do you say that they are hoping for Trump to actually win?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:20:01",
+      "speaker": "MISTAL",
+      "sentences": "Because they're doing everything they can to delay his reckoning so that he has an opportunity to reinstall himself as president of the United States. Looking at the Supreme Court's own history, we see that when they want to move fast, they move extremely fast.They heard the Colorado immunity case within 51 days of that decision being entered in against Trump. Why? Because it didn't help Trump. Now, with the immunity case in D.C., we see that it's going to take them at least 130 days before they even think about hearing the case. Why? Because in that situation, delay helps Trump. And we can go back throughout history. We can go back to Bush v. Gore. We can go back to lots of different cases. We can go back to the Texas bounty hunting abortion ban thing. When the Supreme Court wants to move quickly, they move. When they don't, they don't. And it is totally fair to ask why. Why is it that when it helps Trump, they all of a sudden want to slow walk it. They move like an ant. But when it helps -- when it's something that could hurt Trump, they move like a fighting Uruk-Hai.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:20:01",
+      "speaker": "PHILLIP",
+      "sentences": "What do you think about all that, Tim?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:25:04",
+      "speaker": "PHILLIP",
+      "sentences": "Go ahead, Elie. MISTAL",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:25:04",
+      "speaker": "PHILLIP",
+      "sentences": "And, Tim, real quick, I mean, why wouldn't the court take that? Yes, but why wouldn't the court take that into consideration?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:25:04",
+      "speaker": "PARLATORE",
+      "sentences": "Right. Because that is something courts are not allowed to do. They're not supposed to be engaging in election interference and, you know, really trying to figure out you have something to take the decision away from the will of the people.And that's the reason why Jack Smith didn't offer a reason. He was noticeably silent on that for a reason because what Elie is saying you may be true for what Jack Smith wants but Jack Smith can't write that because it's totally impermissible to say, judge, we need this case done now before the election because if we don't do it before the election, then he might win. That would be totally improper. And the Supreme Court cannot set their schedule just based on one political party once it's done and the other one doesn't.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:25:04",
+      "speaker": "PHILLIP",
+      "sentences": "All right, Elie --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:25:04",
+      "speaker": "MISTAL",
+      "sentences": "Shouldn't both political parties want to know if -- shouldn't have both political parties want to know if one of the major party nominees is a criminal? Isn't that information that we can just write both out?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:25:04",
+      "speaker": "PARLATORE",
+      "sentences": "But all of that information has been brought out through the January 6th hearings, through everything else. the voters can decide because they've seen all this so all that information has been out.And here's another thing Jack Smith Jack -- this is a problem that I was going to make, he dragged -- Jack Smith dragged his feet. Jack Smith dragged his feet. You got to remember I was part of this case during the investigative phases. They could have brought this indictment much earlier. They didn't. You know, at the time, we had Mar-a-Lago which was going very fast, a lot of activity. January 6th, which was sitting there pretty much at a standstill. All of a sudden, he brings the snap indictment. And all of the sudden the next few weeks realized, oh shoot, I forgot to interview a whole bunch of witnesses. The timing of the indictment was something that was solely within Jack Smith's control.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:25:04",
+      "speaker": "MISTAL",
+      "sentences": "That's kind of another thing. PHILLIP",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:25:04",
+      "speaker": "PARLATORE",
+      "sentences": "The DOJ shows (INAUDIBLE).",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:25:04",
+      "speaker": "MISTAL",
+      "sentences": "I think you're confusing Jack Smith (INAUDIBLE).",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:25:04",
+      "speaker": "PHILLIP",
+      "sentences": "We'll leave it there with the two of you on that one. Because that's a longer conversation I think you would create.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:25:04",
+      "speaker": "PARLATORE",
+      "sentences": "To a lawyer, it doesn't matter. It's DOJ.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:30:00",
+      "speaker": "PHILLIP",
+      "sentences": "The general election hasn't officially started, but it definitely felt like it did today. And before I tell you about the duel that played out on the border, just keep this context in mind. There was a bipartisan bill to help undeniable crisis out there, one most called by conservative immigration legislation in years, one that even President Biden said that he would sign until Republicans killed it because Donald Trump wanted them to.Now, he didn't want Biden to have a win this election year. So, with that in mind, the two men, they both appeared at the border hundreds of miles apart from one another to amplify their stances on this issue, which obviously couldn't be further apart. (BEGIN VIDEO CLIP) JOE BIDEN, U.S. PRESIDENT:  It's real simple. It's time to act. DONALD TRUMP, FORMER U.S. PRESIDENT, REPUBLICAN PRESIDENTIAL CANDIDATE:  This is a Joe Biden invasion. This is a Biden invasion.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:30:00",
+      "speaker": "BIDEN",
+      "sentences": "Bipartisan Border Security Deal is a win for the American people.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:30:00",
+      "speaker": "TRUMP",
+      "sentences": "The United States is being overrun by the Biden migrant crime.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:30:00",
+      "speaker": "BIDEN",
+      "sentences": "It's time for the Speakers and some of my Republican friends in Congress who are blocking this bill to show a little spine.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:30:00",
+      "speaker": "TRUMP",
+      "sentences": "This is like a war. It's a military operation.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:35:00",
+      "speaker": "PHILLIP",
+      "sentences": "Some of that, though, is driven by the reality that there is a lot of illegal border crossing happening right now. I mean, that's happening, people who are in the country seeking asylum are now being sent far from the border. You mentioned Donald Trump and this migrant crime issue. He's using examples from some recent high profile cases, including last week's murder of a Georgia nursing student.This is ground that I think a lot of candidates have trod in the past. They do it because scaring voters generally works. Are you worried that this is actually something that can be effective and will be the frame for which Republicans attack Biden and Democrats going into this next election? CASTRO:  I think the politics of fear and resentment, time and again, not only in the United States, but in other places around the world, has shown itself to be effective sometimes. And you can try to instill fear and resentment in people. And what folks will do is take one or a few examples of immigrants who have committed crimes and imply or outright suggest that every single person is like that, that every immigrant is coming to harm Americans, to kill Americans. That is what Donald Trump is doing. And that is what has been done to other groups in this country previously. And so, they're trying to win elections that way. And we've got to be careful. And the media and politicians need to push back on it and tell the truth.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:35:00",
+      "speaker": "PHILLIP",
+      "sentences": "But what about President Biden? I mean, did he miss an opportunity by not going down to the border sooner, addressing this issue sooner before it got to this point?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:35:00",
+      "speaker": "CASTRO",
+      "sentences": "You know, I have not talked to the White House about how they made their decision on timing. You know, I'm just glad he had a chance to be in Brownsville today.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:35:00",
+      "speaker": "PHILLIP",
+      "sentences": "What about what his role is in all of this? He talked a lot about what Republicans haven't done. That Border Bill that he discussed today is effectively dead. Do you think President Biden has a responsibility to use any power that he might have as the Executive -- the Chief Executive of this country, to do more on immigration right now?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:35:00",
+      "speaker": "CASTRO",
+      "sentences": "Well, I think that the Executive Branch, whether it's President Biden or another President, should always look at ways that they can be helpful, whether it's this issue or another issue. And quite honestly, because the Congress has been gridlocked on many big issues for a while, we've seen Presidents do exactly that.But what Speaker Johnson and other Republicans are asking of President Biden is to reissue orders that Donald Trump issued, which were deemed by the courts to be illegal. So, if the question is, should President Biden take executive actions that were deemed illegal before? No, I don't.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:35:00",
+      "speaker": "PHILLIP",
+      "sentences": "Actually, I mean, that's actually not the question. I mean, the question is, should he take any -- I mean, what's the solution on the Democratic side if you know Congress is not going to act? What is this President, who is a Democrat, who, you know, I think you believe is closer to your side of this issue, what is he going to do right now? Is the answer nothing or is it something?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:35:00",
+      "speaker": "CASTRO",
+      "sentences": "Well, no, the President should look at what he can do legally through executive actions. But what they're wanting him to do are not legal. Doing what Donald Trump did was declared illegal. And so --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:35:00",
+      "speaker": "PHILLIP",
+      "sentences": "You don't think there's anything that he can do that is not what Republicans are asking him to address the current immigration crisis? Nothing?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:35:00",
+      "speaker": "CASTRO",
+      "sentences": "Well, I mean, what are you suggesting exactly?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:35:00",
+      "speaker": "PHILLIP",
+      "sentences": "No, I mean, I'm asking you what -- what are the policies that are available to this President? Are there any or are there none?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:35:00",
+      "speaker": "CASTRO",
+      "sentences": "No, I mean, the Republicans haven't even said, have not specified what exact policies they would ask him to do, except the ones that Donald Trump did. And those have been deemed illegal.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:35:00",
+      "speaker": "PHILLIP",
+      "sentences": "All right. Congressman Joaquin Castro, we appreciate your time tonight. Thank you very much.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:35:00",
+      "speaker": "CASTRO",
+      "sentences": "Good to be with you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:45:00",
+      "speaker": "PHILLIP",
+      "sentences": "But how is this Kevin McCarthy's fault? I mean, this Speaker, Mike Johnson, he's been in the job for several months. He's now done this, what, three times past a short term extension. How is that on Kevin McCarthy at this point?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:45:00",
+      "speaker": "GOOD",
+      "sentences": "Well, literally, by the time Speaker Johnson was elected Speaker at the end of October, he was a month after the deadline for all 12 spending bills to have been brought to the floor for a vote when only four had been brought to a vote before he became Speaker. So, my point is that he inherited a difficult situation that we should not have been in when he became Speaker.However, we should not have been passing these CRs. I voted against all of these CRs, of course. I've condemned or criticized this current CR that we should have done a CR that goes through September 30. All Republicans should have voted for that. We should have sent it to the Senate with border security attached to it. And then if the Senate want to shut down the government rather than let the caps go into place that they voted to approve and the President signed a year ago and they refused to secure the border and let that be on the Senate, they shut down the government.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:45:00",
+      "speaker": "PHILLIP",
+      "sentences": "So some of your other colleagues are not quite as patient as it sounds like you are with the current Speaker. Chip Roy and Matt Gaetz both accused Mike Johnson of punting and kicking the can down the road and in their words, acting as if Republicans don't have the majority.In fact, Gaetz said all Republicans offer is, quote, \"low energy and low T\" -- T stands for testosterone. Do you agree with anything that they said there?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:45:00",
+      "speaker": "GOOD",
+      "sentences": "Well, I do agree with those statements. And that's why I said I voted against the CR. We should have done the CR. We shouldn't be passing major spending legislation with predominantly Democrat votes. They would never do that if they had the majority. I don't think they ever have done that when they've had the majority.So, I believe that is a failure for us to continue to do that. And again, I would not have brought this bill to the floor. I would have sent the Senate something that triggered, again, the spending caps, a hundred billion dollars in savings if we did a CR through September 30. And I would have attached H.R. to our border security provision for it. President says he wants to secure the border. Let's have him tell Chuck Schumer to pass our bill.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:45:00",
+      "speaker": "PHILLIP",
+      "sentences": "So, Congressman, look, Mike Johnson now has done this past the CR with Democratic support three times. Kevin McCarthy did do it once. Is the Speaker's job in jeopardy?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:45:00",
+      "speaker": "GOOD",
+      "sentences": "Well, the Speaker serves the pleasure of 218 members. The only people that I hear talk about him not serving that capacity are media members who ask me that question almost every day. But I'm confident that if the previous Speaker was here, we would have already done an omnibus at the end of the year, like what happened two years ago or a year before that, I should say.So, you know, again, we should not -- we need to cut our spending. We need to do a 30 full year CR through September 30. We need to attach border security to it. I would also attach funding for Israel paid for and FISA reforms that protect America's constitution. That's what I would do.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:45:00",
+      "speaker": "PHILLIP",
+      "sentences": "So --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:45:00",
+      "speaker": "GOOD",
+      "sentences": "That's what the Speaker should do.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:45:00",
+      "speaker": "PHILLIP",
+      "sentences": "It sounds like --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:45:00",
+      "speaker": "GOOD",
+      "sentences": "That's why I voted against the CR today. And I spoke on the House floor in the debate before the vote against the bill, just alongside my colleagues that you mentioned, Chip Roy and Matt Gaetz.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:45:00",
+      "speaker": "PHILLIP",
+      "sentences": "It sounds like -- it sounds like what you're saying is no, his job is not in jeopardy as of right now. You and your colleagues, it doesn't take very much of you to put it on the line, are not willing to do that at this moment. Is that right?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:50:00",
+      "speaker": "PHILLIP",
+      "sentences": "What happens if the Senate picks one of the Johns -- Barrasso, Cornyn or Thune to replace him? Are any of those names acceptable choices to you?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:50:00",
+      "speaker": "GOOD",
+      "sentences": "Well, I'd love to see someone like Rick Scott who challenged Mitch McConnell most recently. I think you'll see more senators willing to vote for a conservative option. Someone has to get 25 votes if the Republicans have the majority or actually with the 49 votes right now to select the minority leader.So, I'd like to see someone like Rick Scott. I think Mike Lee, Ron Johnson, Rand Paul, Ted Cruz are also will be outstanding candidates. But the Senate is going to do what the Senate is going to do. Unfortunately, I don't have a vote on that.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:50:00",
+      "speaker": "PHILLIP",
+      "sentences": "All right, Congressman Bob Good. Thank you. We appreciate you --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:50:00",
+      "speaker": "GOOD",
+      "sentences": "Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:50:00",
+      "speaker": "PHILLIP",
+      "sentences": "-- answering our questions tonight.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:50:00",
+      "speaker": "GOOD",
+      "sentences": "Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:55:00",
+      "speaker": "PHILLIP",
+      "sentences": "How would you describe the state of today's GOP party? Well, CNN Political Commentator and conservative S.E. Cupp has a few words in tonight's op-ed. S.E.S.E. CUPP, CNN POLITICAL COMMENTATOR:  Just a few words. So, let's just call them the \"No Solutions Party\". Republicans have gone from pushing limited government to no government at all, it seems. Today's GOP lawmakers seem utterly convinced that among their many expectations as members of Congress, solving problems simply isn't one of them. Division, purity tests, owning the libs, keeping their base angry and afraid, prostrating to former President Donald Trump, unleashing the culture wars and getting re-elected are just some of the things that Republicans have decided are far more important than governing. On immigration, Republicans infamously just passed on a bipartisan deal that would have given them more than they've ever gotten on border security, including things that they've insisted are an urgent matter of national security. After Trump's Supreme Court overturned Roe v. Wade, Republican lawmakers had no plan for addressing the reproductive health concerns of millions of women and families. And now, as that ruling also threatens to throw IVF access into a state of limbo, Republicans still have no answers other than fend for yourselves. On gun violence, Republicans have blamed everything but guns to avoid bringing any real solutions to the table. On climate change, an issue which many younger Republican voters are worried about, GOP lawmakers are more interested in removing the issue from federal oversight completely rather than on any solutions that the public sector might be able to offer. Now, we can blame Trump for a lot of this, but the party is now responding to voters that just want their grievances amplified. Being angry at the problem and explicitly not solving it has become the Republican Party platform. It's a strategy that hasn't resulted in many electoral wins over the past few years. But in running Trump again and digging in their heels, it seems the no solutions GOP is tripling down on its commitment to proudly do nothing.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:55:00",
+      "speaker": "PHILLIP",
+      "sentences": "Well, I see, you know, first of all, I buy it. However --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:55:00",
+      "speaker": "CUPP",
+      "sentences": "Does that track?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:55:00",
+      "speaker": "PHILLIP",
+      "sentences": "However, I mean, it hasn't been, you know, huge electoral wins for Republicans, but it hasn't been a full denunciation either. I mean, this is a 50-50 country still.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:55:00",
+      "speaker": "CUPP",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:55:00",
+      "speaker": "PHILLIP",
+      "sentences": "This presidential race is virtually tied. If voters were punishing Republicans for it, wouldn't we see that?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:55:00",
+      "speaker": "CUPP",
+      "sentences": "They're not. And that's a really important point. You can blame the GOP and their intransigence. They're responding to their voters and their voters are not demanding solutions to problems. You know, if you look at someone like Marjorie Taylor Greene, right, Georgia, what's her claim to fame? Impeaching Joe Biden 7000 times. You look at Matt Gaetz, Florida. What's his claim to fame? Ousting Kevin McCarthy.How is this serving their folks at home in their districts and yet the folks at home in their districts are not demanding better? Like I said, they want their grievances amplified, but they're not demanding solutions for them.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:55:00",
+      "speaker": "PHILLIP",
+      "sentences": "So, what will it take for that to change? I mean, for actual issues to be on the table, for actual solutions, for actual compromise, which, by the way, is required if you are going to get things done.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:55:00",
+      "speaker": "CUPP",
+      "sentences": "Yes. I mean, compromise. That's way too lofty a goal at this point. At this point, what voters need to start demanding is solve some problems for me at home. And the immigration battle is a perfect example of Republicans screaming about a problem, a real problem, by the way, and rightly, you know, concentrating on it for years, months. And then when given the opportunity to solve it, they punch, they pass on it because it's too politically profitable to leave things broken. It's really disappointing.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:55:00",
+      "speaker": "PHILLIP",
+      "sentences": "Yeah. I mean, look, but is there a structural problem here? We were just in the break talking about the New York race and Tom Suozzi just won.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:55:00",
+      "speaker": "CUPP",
+      "sentences": "Right. Right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:55:00",
+      "speaker": "PHILLIP",
+      "sentences": "Okay, if there were more districts where both sides had to actually fight for the actual middle --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:55:00",
+      "speaker": "CUPP",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:55:00",
+      "speaker": "PHILLIP",
+      "sentences": "What would happen in this country?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:55:00",
+      "speaker": "CUPP",
+      "sentences": "Well, there's that. That's great. There's the problem with redistricting is I think, serious. But there's also the primary problem. The primaries don't draw a lot of, you know, middle of the road voters.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:55:00",
+      "speaker": "PHILLIP",
+      "sentences": "It's the extremes by nature.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:55:00",
+      "speaker": "CUPP",
+      "sentences": "Yes. And listen, this problem is asymmetrical. I'm not both sidesing. But I do want to say on the left, Democrats for a long time, pretended that the economy, the border and crime were all fine. And it's only recently that they've started to realize, no, these are problems and we need to start talking about them. That's kind of a different thing. Republicans are fetishizing inaction. They're absolutely fetishizing, not governing, because that's not what they're there to do.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:00:00",
+      "speaker": "CUPP",
+      "sentences": "It's outrage. And keeping people angry and afraid has become their bread and butter. And as long as they're angry and afraid, which they'll stay if you don't solve problems, then they're going to line up to vote for these figures. So, it's sort of a cycle that kind of never ends.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:00:00",
+      "speaker": "PHILLIP",
+      "sentences": "A vicious, vicious cycle.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:00:00",
+      "speaker": "CUPP",
+      "sentences": "Yeah.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:00:00",
+      "speaker": "PHILLIP",
+      "sentences": "S.E. Cupp, thank you for all of that.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "23:00:00",
+      "speaker": "CUPP",
+      "sentences": "Thank you. Sure.",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

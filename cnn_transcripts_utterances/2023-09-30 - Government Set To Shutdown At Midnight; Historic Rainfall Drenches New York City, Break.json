@@ -1,0 +1,595 @@
+{
+  "date": "2023-09-30",
+  "headline": "CNN This Morning",
+  "subHeadline": "Government Set To Shutdown At Midnight; Historic Rainfall Drenches New York City, Breaks Records; Cybersecurity Officials Prep For Possible Vulnerabilities; DHS Says Nearly Three-Quarters Of Its Workforce will have to Work Without Pay; Auto Workers Strike Expands Against GM And Ford; Retiring General Mark Milley Takes Apparent Swipe At Trump. Aired 6-7a ET",
+  "utterances": [
+    {
+      "timeStamp": "06:00:39",
+      "speaker": "AMARA WALKER, CNN ANCHOR",
+      "sentences": "And good morning to you, everyone. Welcome to CNN this morning. It is Saturday, September 30th, the last day of the month. I'm Amara Walker.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:39",
+      "speaker": "OMAR JIMENEZ, CNN ANCHOR",
+      "sentences": "October is almost here. And I'm Omar Jimenez in for Victor Blackwell. Thanks for spending part of your morning with us. And Amara, it's good to be back with you so close, but so far away.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:39",
+      "speaker": "WALKER",
+      "sentences": "I feel pretty close to you. Same to you. Great to see you, Omar. We're watching a lot of news this morning. In fact, here we are again. We are just hours away from a government shutdown. Lawmakers still can't agree on a deal to fund the government past midnight. We're specifically talking about the House right now. The last-ditch efforts are underway to keep that from happening. And the impact of a shutdown could have a huge impact from our national security to clean drinking water. We will discuss.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:39",
+      "speaker": "JIMENEZ",
+      "sentences": "And floodwaters ripped through parts of New York City, submerging cars, disrupting mass transit. Look at those images there. And prompting water rescues. We'll show you the damage left behind and where we're tracking more rain this morning.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:39",
+      "speaker": "WALKER",
+      "sentences": "Police make an arrest in the decades old murder of rapper Tupac Shakur. The new evidence that they say led to his arrest and why he's just now being charged, even though he admitted his role in the murder years ago.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:39",
+      "speaker": "JIMENEZ",
+      "sentences": "And outgoing Joint Chiefs Chairman Mark Milley delivers a fiery speech during his retirement ceremony. The apparent swipe he took at former President Trump on his way out, coming up.We are on the brink. Congress has less than 24 hours to pass a bill to extend government funding. At midnight, that funding will expire, and the government will shut down if nothing is done, the impact of that shutdown could be huge. WALKER: That's right. Millions of people may have to work without pay, and hundreds of thousands of government workers could be furloughed. Air travel could be disrupted if unpaid TSA workers don't show up, which has happened before. So we're talking about some delays at airports. And about 10,000 low-income children will immediately lose access to head start early childhood education programs. Also, FDA food safety inspections could be disrupted. And the list just goes on from there. Now, on Friday, in a last-ditch effort, House Speaker Kevin McCarthy suffered yet another defeat when his chamber failed to advance a stopgap bill. So today, in a rare move, the House and the Senate will convene again to try to salvage something before tonight's critical deadline.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:39",
+      "speaker": "JIMENEZ",
+      "sentences": "Try is the key word there. We have live team coverage all morning long as that deadline approaches. We're joined now by CNN's Annie Grayer and Priscilla Alvarez. Good to see you both. Good early morning to you. So, Annie, I want to start with you. Both chambers in session today on Capitol Hill, what can we expect to happen?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:39",
+      "speaker": "ANNIE GRAYER, CNN CAPITOL HILL REPORTER",
+      "sentences": "Well, Omar, it is still unclear. After the House failed to pass the stopgap measure last night, members met behind closed doors for hours, and sources in the room told me that they left feeling like they still didn't have a plan. Now, I can't emphasize how high the tension is in the House right now because members in the House can agree on how to fund the government. Listen to how some Republicans in the House are feeling about this.(BEGIN VIDEO CLIP) REP. MIKE GARCIA (R-CA): It's a very dangerous tactic to take, to say, hey, I want to shut the damn thing down, because it literally benefits no, and it especially doesn't benefit the conservative platform. REP. STEVE WOMACK (R-AK): We're the governing majority. This is what we're supposed to do as a governing majority. We're supposed to lead. And it's kind of hard to lead when you got, you know, a significant number of people that are on the wrong snap count when you call the play. So that's where we are. REP. DAN CRENSHAW (R-TX): They killed the most conservative position we could take and then called themselves the real conservatives, which is like, make that make sense. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:03",
+      "speaker": "WALKER",
+      "sentences": "Yes. They can meet in this rare move, but what will they be voting on? That is the question. Annie, thank you. Let's head over now to Priscilla Alvarez at the White House. Obviously, Priscilla, the White House is bracing, has been bracing for this shutdown, and they've already begun furloughing some personnel. Tell us more about how the Biden administration is preparing for this.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:03",
+      "speaker": "PRISCILLA ALVAREZ, CNN WHITE HOUSE REPORTER",
+      "sentences": "Well, the White House and the administration at large is bracing for this. Over the course of the week, we saw federal agencies send notice to their workforce telling them that they could be temporarily furloughed, as well as noting that those employees who will be considered essential and will have to still work without pay will be notified as well.Now, of course, the White House has spent the last few days sending out releases as to what this would mean for Americans in addition to the federal workforce. And that includes, for example, the Small Business Administration having to stop processing new loans for small businesses, delays in long term disaster recovery efforts, risk of millions of women and children not getting food assistance, and going back to those federal workers, millions of federal workers not getting paid over the course of this time. In fact, just yesterday here at the White House, officials received notice in their inboxes about the instructions if they are furloughed, and just a little glimpse as to what that looks like. Some senior aides have to learn the jobs of junior aides because they might not be here. Now, of course, President Biden and White House officials have laid blame on Republicans, saying it is incumbent on them to avoid a shutdown. And the President saying in an interview with ProPublica that it's House Speaker Kevin McCarthy who made, quote, a terrible bargain. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:03",
+      "speaker": "JOE BIDEN, PRESIDENT OF THE UNITED STATES",
+      "sentences": "The speaker has made a terrible bargain in order to keep the speakership. He's willing to do things that I think he knows are inconsistent with constitutional processes, number one. Number two, I think it says that there is a group of MAGA Republicans who generally want to have a fundamental change in the way the system works. And that's what worries me the most.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:03",
+      "speaker": "ALVAREZ",
+      "sentences": "Now, the President is going to be briefed on this over the course of the day and the days to come as we barrel toward a government shutdown, but it is clear that their eyes are on House Speaker Kevin McCarthy and whether or not he can corral his conference to reach some sort of support and union.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:03",
+      "speaker": "JIMENEZ",
+      "sentences": "Well, we will see what happens. The day is young. Priscilla Alvarez, Annie Grayer, thank you.Joining me now to break this all down is CNN political commentator and political anchor at Spectrum News, Errol Louis. Good to see you. Good morning. We are less than 24 hours away from a shutdown. I mean, looking at our little countdown, 17 hours 52 minutes and 20 seconds away. Is there a way to avoid a shutdown at this point?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:03",
+      "speaker": "ERROL LOUIS, CNN POLITICAL COMMENTATOR",
+      "sentences": "Good morning, Omar. In theory there is. But the reality is, as long ago as a week back, people were saying, members of Congress that I was talking to were saying there's going to be a shutdown, you know. This is a stalemate. There are about 20 members of the Republican House Conference who have voted over and over again, procedurally and substantively, for going in the direction of a shutdown, and they will not take yes for answer.Some of them wanted action on impeachment hearings against Biden. They got that. They had the hearing this week. Some of them wanted deep, deep cuts to non-military discretionary spending. That's the procedural bill that McCarthy put up just yesterday, 30 percent cuts across the board. They wouldn't vote for that. So until they get to a point where there's something that you can actually bargain with, there's almost no way to avoid the shutdown. And it's unfortunate to have to say that, but a lot of folks saw this coming, and it doesn't look like there's any way to avoid it at this point.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:03",
+      "speaker": "JIMENEZ",
+      "sentences": "And look, I mean, clearly the frustrations have boiled over based on the reality that you just mentioned reporting of shouting matches behind the scenes. We know after a House GOP stopgap bill failed yesterday. There was also some frustration among Republican members of the House. Take a listen to what Republican Congressman Mike Lawler told reporters after that effort failed.(BEGIN VIDEO CLIP) REP. MIKE LAWLER (R-NY): There's only one person to blame for any potential government shutdown, and that's Matt Gaetz. He's not a conservative Republican. He's a charlatan. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:10:00",
+      "speaker": "LOUIS",
+      "sentences": "Well, this is very tough language. And what you're hearing there, Omar, is the existential nature of this. Matt Gaetz is said to be interested in running for governor of Florida and so he's positioning himself in a particular direction. Mike Lawler on the other hand, is one of the 18 Republicans elected in districts that Joe Biden also won. These are candidates, Mike Lawler one of them, who to be seen as moderate that they can't afford to go down the path of closing down the government or trying to impeach Biden and so forth because they'll get voted out office.And so the political needs and desires of about 20 Republicans who are on Gaetz's side and about 18, including Lawler, are really just at odds. And that's the tug of war that has led us to this shutdown.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:10:00",
+      "speaker": "JIMENEZ",
+      "sentences": "And, you know, Congressman Matt Gaetz for his part has said he wants single subject spending bills passed and is against any stopgap measure an all encapsulating one. Otherwise he says he'll bring a motion to vacate the speakership and that's the tension here. And McCarthy obviously doesn't agree with that. And so politically there's a lot writing on the line I should say, for McCarthy in this. Can he politically survive this now imminent shutdown?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:10:00",
+      "speaker": "LOUIS",
+      "sentences": "I'm not so sure. There was some reporting which of course Matt Gaetz has denied. But there was some reporting that Gaetz has been talking quietly with Democrats about ousting McCarthy as the speaker. Now if that's the case, then that might be what this is really all about. Because again, you know, it's really sort of stunning to see McCarthy give this faction of his conference everything, every single thing that they've asked for and they're still sort of tying him up in knots.Even this question about whether or not we should move away from continuing resolutions to full year appropriations, the House is actually doing that right now. They've moved forward, I think, four of the 12 bills. And so again when you hear people not taking yes for answer, you start to think maybe there's something else going on here and that something else might be an attempt to depose McCarthy as speaker of the House.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:10:00",
+      "speaker": "JIMENEZ",
+      "sentences": "Yes. And I want to shift news -- shift gears slightly to the other breaking news we've been following on Capitol Hill was California Senator Dianne Feinstein passed away Friday. She was a trailblazer icon in the Senate. What do you feel will be her lasting impact on Congress and American politics and where does California Governor Gavin Newsom go from here?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:10:00",
+      "speaker": "LOUIS",
+      "sentences": "Well, for a lot of us of a certain age, Omar, she'll always be the person who stepped in when the mayor of San Francisco was assassinated inside City Hall and stepped in. She was the President of the Board of Supervisors and became the first woman mayor of San Francisco. That was way back in the 70s. Since then, of course, she's done quite a lot of legislating and has quite an impressive legacy.Look, Governor Newsom has said that of the many people who were already planning to run for this seat, he's not going to name any of them. And so I think what we'll see is the governor playing some of his own California politics, rewarding somebody who's not in the current group of ambitious legislators who were running for this seat. And it'll probably be him, I would think, playing to part of the base of the Democratic Party. Maybe name a Latina, maybe name somebody from the Asian American community to sort of work his local politics. It'll be almost ceremonial because there's going to be a very tough race and we'll have a new senator by the end of next year.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:10:00",
+      "speaker": "JIMENEZ",
+      "sentences": "A lot to follow in Congress these days, per usual. Errol Louis, thank you so much.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:14:08",
+      "speaker": "WALKER",
+      "sentences": "So now we are less than 18 hours away from the United States first government shutdown since 2019. And if that deadline comes and goes, well, the impacts will be significant, from national security to the military. We'll have much more on the ramifications throughout the morning.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:14:08",
+      "speaker": "JIMENEZ",
+      "sentences": "Another story we're following. States of emergency in both New Jersey and New York after torrential downpours caused widespread flooding.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:14:08",
+      "speaker": "WALKER",
+      "sentences": "Yes. The water rose so quickly, turning street into rivers, that it caught a lot of people off guard. CNN's Polo Sandoval has more now from Brooklyn.(BEGIN VIDEOTAPE) POLO SANDOVAL, CNN CORRESPONDENT (voice-over): Chaos in New York City as heavy rain pounded the five boroughs and the surrounding areas. And more is yet to come. Brooklyn saw a month's worth some 4.5 inches in only three hours.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:14:08",
+      "speaker": "JOEL REYES, NEW YORK RESIDENT",
+      "sentences": "Wow. This is unbelievable. I had never seen this situation happen, and this is crazy. I don't know how they're going to get this water up.SANDOVAL (voice-over): Knee deep water flooded streets.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:14:08",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Within I guess, about 10 minutes, it waste high water.SANDOVAL (voice-over): Forcing some residents to abandon their cars and others to create makeshift barriers to protect their homes and businesses. Flooded subway stations in Brooklyn with at least 10 lines suspended. And even buses taking on water while still in service.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:20:04",
+      "speaker": "ADAMS",
+      "sentences": "This administration operates as a team. And I want my commissioners, my deputy commissioners, the leaders of this team who are closest to the ground of a situation to communicate throughout this administration. We have good team leaders that are competent, that understand the subject matter and they know how to lead. The leadership is not only the mayor, it is all of those who are placed in those positions. And that's what you saw.SANDOVAL (voice-over): According to \"The New York Times,\" Adams attended a campaign fundraiser Thursday to celebrate his 63rd birthday earlier this month. He did not declare a state of emergency until shortly before noon on Friday, just before the press conference and hours after the deluge of rain had begun. Officials said Friday marked the wettest day on record in the city since Hurricane Ida two years ago warned that it's not over yet. GOV. KATHY HOCHUL (D-NY): Our priority once the immediate -- in the immediate aftermath of this first wave of the storm, it could come back again. (END VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:20:04",
+      "speaker": "SANDOVAL",
+      "sentences": "During the height of the storm, one New York City official said that what we experienced on Friday offers a window into the future, that these kinds of events can happen more frequently. The officials saying that climate change is moving faster than the infrastructure can respond. Amara, Omar?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:20:04",
+      "speaker": "WALKER",
+      "sentences": "Polo Sandoval, thank you. Now, the weather is expected to clear up as the storm system moves further east.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:20:04",
+      "speaker": "JIMENEZ",
+      "sentences": "But as Polo mentioned, it's still raining in some parts of the Northeast at this hour. And it's why we've got CNN meteorologist Allison Chinchar joining us now to give us the latest updates on the storm system. All right, so what are we looking at here?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:20:04",
+      "speaker": "ALLISON CHINCHAR, CNN METEOROLOGIST",
+      "sentences": "Right, unfortunately, more rain, which is the last thing this area needs. This is a look at what it looked like yesterday on not just this road, but so many roads across New York yesterday, just covered in water. You can see we still have some rain pushing across the Northeast, sprinkles right now across much of New York, but you've got some heavier bands making their way across Connecticut, Rhode Island and even portions of Massachusetts.We do still have the bulk of the heaviest rain out to sea, but likely still going to be seeing at least some showers as we go through the morning hours. Most of this should wrap up by about lunchtime today. We do still have some flood warnings in effect. Those aren't necessarily for the rain that's expected to come, but how much rain fell, because it takes time to lose all of that rain, and we've had a ton of it. As Polo mentioned, yes, JFK airport breaking an all-time record, picking up over eight inches of rain yesterday. And they were not the only spot that picked up quite so much. You had numerous locations picking up six, seven, even as much as nine inches. That's correct. At Valley Stream, New York just crossing over that nine inch threshold. So for the rest of the day today, again, you've still got a lot of these showers that are going to be coming from some of those outer bands of the system, but it will gradually make its way east, farther out to sea and taking with it the moisture. So the good news is, by the time we get to Sunday, we will finally have a day with sunshine from start to finish. We've just got to get through the rest of the day today. Overall, though, we're not expecting anywhere near the amount of rain that we had yesterday. Most of these areas likely picking up about a half of an inch, up to one inch at best. But again, when you've already had six, seven, or even eight inches of rain, even one additional inch is likely to cause some problems because it takes time for that water to go away, and that ground is very saturated at this point. Another concern, too, is going to be coastal flooding. You've still got some of those across New York, New Jersey and even Delaware. Also, too, if you plan to head out to the beach, be aware of rip currents along the coast as well.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:24:13",
+      "speaker": "WALKER",
+      "sentences": "So the clock is ticking, and we are less than 18 hours away from the U.S. government shutting down. House Speaker Kevin McCarthy's last ditch stopgap bill failed last night.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:24:13",
+      "speaker": "JIMENEZ",
+      "sentences": "Yes. He says aid for Ukraine proved to be a major sticking point. You're taking a live look at Capitol Hill, where house GOP leadership says further votes are expected later today. But it's not clear what the chamber will vote on, and House Republicans aren't in agreement. So if there is a shutdown, only essential government employees will still be clocking in.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:24:13",
+      "speaker": "WALKER",
+      "sentences": "Without getting paid, of course. And that's got some cybersecurity officials on high alert. CNN's Sean Lyngaas explains how the government is already preparing to make sure we are as protected as possible.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:30:10",
+      "speaker": "WALKER",
+      "sentences": "All right, Sean Lyngaas, thank you. So, the outlook for Homeland Security employees is pretty grim. The department says nearly three-quarters of its workforce will have to work without pay. And that could leave us less safe as a result. Here now is CNN senior national security analyst and former assistant DHS Secretary Juliette Kayyem, the perfect person to talk to this morning. Thank you so much for getting up --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:30:10",
+      "speaker": "JULIETTE KAYYEM, CNN SENIOR NATIONAL SECURITY ANALYST",
+      "sentences": "Thank you --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:30:10",
+      "speaker": "WALKER",
+      "sentences": "With us. So, Juliette, I mean, I first want to get your reaction because you worked in the government. You know that this is --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:30:10",
+      "speaker": "KAYYEM",
+      "sentences": "Yes --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:30:10",
+      "speaker": "WALKER",
+      "sentences": "Something that lawmakers are very aware of that this deadline, this fiscal deadline comes up every year at this time. We're in a very extraordinarily polarized situation right now. I mean, is this frustrating to -- for you to see this play out again?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:30:10",
+      "speaker": "KAYYEM",
+      "sentences": "Absolutely. I actually was furloughed in one of these during the Clinton administration, and you're required to work. You're not getting paid. It is frustrating. It is scary. I didn't have kids at the time. It is -- it is, you know -- you need life to go on, be able to pay the bills, and yet you're being required to work.So it is distracting, it is frustrating, it is also -- there's like -- you know, it's like a value. People value their work, and we show value through committing to a -- to a budget process. That's Congress' job. It's the house majority's job to get a budget. And so, all of those things will factor into essentially, you know, mood and commitment and focus --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:30:10",
+      "speaker": "WALKER",
+      "sentences": "Yes --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:30:10",
+      "speaker": "KAYYEM",
+      "sentences": "Which is most important in the national security arena.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:30:10",
+      "speaker": "WALKER",
+      "sentences": "So tell us how this makes our national security --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:30:10",
+      "speaker": "KAYYEM",
+      "sentences": "Yes --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:30:10",
+      "speaker": "WALKER",
+      "sentences": "More vulnerable.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:30:10",
+      "speaker": "KAYYEM",
+      "sentences": "Well, I mean, one is -- so, I'm looking at the number here. At last count, 185,000 people will still be working for DHS but not getting paid. So all the issues around the stress, the distraction, the frustration of telling employees to keep their job. They have to pay -- but were not required to work -- but we're not required to pay you is absolutely ridiculous.I mean, this is -- it's absurd because this goes to things like border enforcement, maritime security, aviation security. The second batch we should focus on is, of course, the Coast Guard. The Coast Guard is overseen by DHS, but it's a military asset. The Coast Guard will be required -- Coast Guard personnel will be required to still work, not get paid, and then here is the wrinkle for them, because they have military status, they also cannot apply for unemployment benefits. And that's different than government civilian workers, so they're literally stuck. The third piece, of course, is related to disaster management. You were just doing a segment on New York. The disaster management apparatus to pay funds to satisfy claims, to get homeowners and those who are victims, the money and support that they need will be lacking. So --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:30:10",
+      "speaker": "WALKER",
+      "sentences": "Yes, especially when --(CROSSTALK)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:30:10",
+      "speaker": "KAYYEM",
+      "sentences": "This is how we're going to feel it --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:30:10",
+      "speaker": "WALKER",
+      "sentences": "Right now, right? Because we heard that from --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:30:10",
+      "speaker": "KAYYEM",
+      "sentences": "Yes --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:30:10",
+      "speaker": "WALKER",
+      "sentences": "Deanne Criswell --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:30:10",
+      "speaker": "KAYYEM",
+      "sentences": "Right --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:30:10",
+      "speaker": "WALKER",
+      "sentences": "With all these disasters that's happened this year, they're running out of money -- KAYYEM",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:30:10",
+      "speaker": "WALKER",
+      "sentences": "Let's focus on border security for a moment, because we know --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:30:10",
+      "speaker": "KAYYEM",
+      "sentences": "Yes --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:30:10",
+      "speaker": "WALKER",
+      "sentences": "There's so many agencies that fall within DHS. One of which is the Customs and Border Protection.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:30:10",
+      "speaker": "KAYYEM",
+      "sentences": "Yes, OK --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:30:10",
+      "speaker": "WALKER",
+      "sentences": "So border security is going to be impacted by this obviously as you said. House Republicans as you know, they're demanding that border security be a part of any package. Yet, if they fail to coalesce around any kind of measure or stopgap bill.The government is going to shut down, and ironically, you're going to have, what? Nineteen thousand border patrol agents who won't get paid. What does this mean? And what exactly will happen at the border if the government --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:30:10",
+      "speaker": "KAYYEM",
+      "sentences": "Right --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:30:10",
+      "speaker": "WALKER",
+      "sentences": "Should stump.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:00",
+      "speaker": "WALKER",
+      "sentences": "Yes --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:00",
+      "speaker": "KAYYEM",
+      "sentences": "This is -- this is not fair to the hundreds of thousands of employees who are going to essentially beat that. They have to work, they cannot --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:00",
+      "speaker": "WALKER",
+      "sentences": "Yes --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:00",
+      "speaker": "KAYYEM",
+      "sentences": "Complement their income and they won't get paid.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:00",
+      "speaker": "WALKER",
+      "sentences": "And obviously, this could also lead to longer lines when it comes to the airports, right?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:00",
+      "speaker": "KAYYEM",
+      "sentences": "Yes --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:00",
+      "speaker": "WALKER",
+      "sentences": "Because of TSA, also falling under DHS --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:00",
+      "speaker": "KAYYEM",
+      "sentences": "Right --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:00",
+      "speaker": "WALKER",
+      "sentences": "Juliette Kayyem, really appreciate --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:00",
+      "speaker": "KAYYEM",
+      "sentences": "Yes --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:00",
+      "speaker": "WALKER",
+      "sentences": "You, thank you so much.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:00",
+      "speaker": "JIMENEZ",
+      "sentences": "Welcome back. Let's take a look at your other headlines this morning. United Auto Workers are expanding their strike again against two of the big three at the Ford assembly plant in Chicago and GM's plant in Lansing, Michigan, but not against Stellantis, which the union says they're making some progress at the bargaining table. Total walk-offs now stand at 25,000.(BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:00",
+      "speaker": "SHAWN FAIN, PRESIDENT, UNITED AUTO WORKERS",
+      "sentences": "Sad reality in all this is, they could double our wages right now and double our benefits and they would still -- and not raise the price of vehicles, and they would still make billions in profit. That's the big lie that's going on right now.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:00",
+      "speaker": "JIMENEZ",
+      "sentences": "Union President Fain also fired back at Ford executives, saying their comments about significant progress in talks were overly optimistic.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:00",
+      "speaker": "WALKER",
+      "sentences": "A grand jury has indicted a 60-year-old man in the 1996 murder of rapper Tupac Shakur. Police say Duane Keith Davis admitted his role in the murder back in 2009 but could not be charged because of an earlier agreement that prohibited any statements from being used against him. Officials describe Davis as the ring master of the plot to kill Tupac, but it was his public bragging about the incident that provided evidence leading to his arrest on Friday. Police say he is the only living suspect linked to Tupac's murder. Three other suspects have passed.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:00",
+      "speaker": "JIMENEZ",
+      "sentences": "And a Michigan judge has ruled that Oxford High School shooter Ethan Crumbley can be sentenced to mandatory life in prison without parole. Despite being only 15 years old when he murdered four of his classmates and injured seven others, it's the harshest punishment the state can hand down. Crumbley already pleaded guilty to multiple felonies including four counts of first degree murder. His sentencing is set for December 8th.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:00",
+      "speaker": "WALKER",
+      "sentences": "A deputy police chief and three other officers in Baton Rouge are facing criminal charges after allegedly hitting and tasing a suspect during an arrest in 2020, and then covering it up. That is according to the police chief.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:00",
+      "speaker": "JIMENEZ",
+      "sentences": "Yes, his charges coincide with other investigations into the so-called brave cave where officers of the now disbanded street crime unit have been accused of misconduct and a lawsuit is pending. CNN's Ryan Young takes a closer look at these cases.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:00",
+      "speaker": "RYAN YOUNG, CNN NATIONAL CORRESPONDENT",
+      "sentences": "Amara and Omar, there's a lot of fallout from the Brave Cave and all the conversations that's being had in Baton Rouge about the investigations that are ongoing. There's an FBI investigation, and there's also at least three current investigations outside that. But the police chief told us something different on Friday.There's nine administrative investigations in total and four officers have been arrested. That's actually connected to another case. In September of 2020, a man was arrested and brought to a police department building, and when officers wanted to conduct a strip search because they believed he had some drugs, the man was struggling. Those officers brought out their tasers, they started to tase the man several times, but they didn't realize that activated their body cameras. Later on, a supervisor became aware of how this went down. They watched what happened through an app and tried to have the body camera destroyed, according to the chief, that way the video wouldn't be logged into a server. Now, those four officers face charges for this. This goes deep into this community, the Baton Rouge mayor is speaking out. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:00",
+      "speaker": "MAYOR SHARON WESTON BROOME, BATON ROUGE, LOUISIANA",
+      "sentences": "To put it in terms that you can relate to. This is not a time for just an annual checkup. This is time for a full-body MRI, to diagnose and reveal any dysfunctions or wrong doings.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:00",
+      "speaker": "YOUNG",
+      "sentences": "Yes, Omar and Amara, in another incident, a man claims he was beaten by officers, her grandmother says she was forced into a body cavity search at the Brave Cave. This is now all in an area where people are concerned about what's going on with this police department.The police department for its part says look, homicides have gone down over the last two years, the chief already said that he's stepping down, but this investigation continues as people look into what exactly happened with these officers over the last few years.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:45:00",
+      "speaker": "WALKER",
+      "sentences": "A final salute to a pillar of America's military.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:45:00",
+      "speaker": "JIMENEZ",
+      "sentences": "Mark Milley; the chairman of the Joint Chiefs of Staff got all praises as he turned over his command officially. Milley advised two Presidents, Donald Trump and Joe Biden. Through tests, both foreign and domestic, COVID, the murder of George Floyd, January 6th, the Afghanistan withdrawal, Russia's war in Ukraine, just to name a few things.Milley delivered a passionate speech in which he seemingly criticized former President Donald Trump, asserting that the U.S. military does not pledge allegiance to someone aspiring to be a dictator. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:45:00",
+      "speaker": "MARK MILLEY, FORMER UNITED STATES JOINT CHIEFS OF STAFF",
+      "sentences": "We don't take an oath to a country. We don't take an oath to a tribe. We don't take an oath to a religion. We don't take an oath to a king or a queen or to a tyrant or a dictator. And we don't take an oath to a wanna-be dictator. We don't take an oath to an individual. We take an oath to the constitution.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:45:00",
+      "speaker": "WALKER",
+      "sentences": "Milley also used the ceremony meant to honor him to honor his brothers and sisters in arms and their sacrifices. And speaking of the military, a government shutdown would have a significant impact on countless families and active duty troops.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:00",
+      "speaker": "JOANNA NICOLETTI, SPOUSE OF ARMY SOLDIER",
+      "sentences": "We have child-care costs. We have student loans. We have bills to pay. We have a mortgage to pay, and where is that money going to come from?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:00",
+      "speaker": "LIEBERMANN",
+      "sentences": "Shutdown would leave Nicoletti's family and 1.3 million other active duty service members without pay, even as they have to keep working. For Nicoletti and her army spouse, a recent family emergency makes it even harder.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:00",
+      "speaker": "NICOLETTI",
+      "sentences": "We were not anticipating this on top of an already financially-challenging time.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:00",
+      "speaker": "LIEBERMANN",
+      "sentences": "Ginger Gerrish lost her husband's paycheck during the last shutdown in 2018 to 2019. At the time, Congress made sure the military got paid except for the Coast Guard, where her husband serves, which falls under the Department of Homeland Security. This time, there's no such measure to pay troops.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:00",
+      "speaker": "GINGER GERRISH, SPOUSE OF COAST GUARDSMAN",
+      "sentences": "It's difficult when you can't count on your elected officials to protect you when you are literally protecting them and your country.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:00",
+      "speaker": "LIEBERMANN",
+      "sentences": "It's not just military paychecks that would stop during the shutdown. Some Defense Department child care centers will close and on-base commissaries could close if this goes on too long. A quarter of all active duty service members already experienced food insecurity in recent years, according to a study commissioned by the Defense Department.A shutdown would only make things harder, especially for junior enlisted. Organizations like the Armed Services, YMCA are ready to offer more help now.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:00",
+      "speaker": "DORENE OCAMB, CHIEF DEVELOPMENT OFFICER, ARMED SERVICES YMCA",
+      "sentences": "Making sure that if we need to, we are adding food distribution events either through our branches or through our partner organizations to ensure that at least once a week, there will be a food distribution in those areas where possible.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:00",
+      "speaker": "LIEBERMANN",
+      "sentences": "Melissa Shaw says service members in her husband's unit have put on a brave face about a potential shutdown, but the concern is real.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:00",
+      "speaker": "MELISSA SHAW, SPOUSE OF SPACE FORCE GUARDIAN",
+      "sentences": "Over the last 24 hours in particular, we've had a chat thread going with many of the families in our unit, and what they're telling us is that right now, they're choosing to be optimistic. They're choosing to hope for the best and plan for the worst.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:00",
+      "speaker": "LIEBERMANN",
+      "sentences": "A military life requires the willingness to make sacrifices for the country like facing the challenges of deployments and moves. But a shutdown is different. Not a threat from an enemy, but a self-inflicted wound.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:00",
+      "speaker": "MEGAN BROWN, SPOUSE OF ARMY SOLDIER",
+      "sentences": "It's always a sacrifice. And this is just another way that we are potentially being forced to sacrifice so that my spouse and our family can serve.(END VIDEOTAPE) LIEBERMANN:  In previous shutdowns, Congress has acted to make sure that military service members get paid. Even if and when the government gets shut down, but at least, to this point, that hasn't happened in this case. Which means we are a very short time away from 1.3 million active duty service members having to work without pay. Omar and Amara?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:55:00",
+      "speaker": "WALKER",
+      "sentences": "The final weekend of the Major League Baseball regular season is here, and there are still five playoff spots on the line.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:55:00",
+      "speaker": "JIMENEZ",
+      "sentences": "Look, a lot to talk about, a lot to get into. CNN sports correspondent Carolyn Manno joins us now, all right, this is coming down to the wire here.",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

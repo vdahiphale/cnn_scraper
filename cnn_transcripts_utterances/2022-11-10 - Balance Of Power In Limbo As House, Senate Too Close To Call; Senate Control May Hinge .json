@@ -1,0 +1,883 @@
+{
+  "date": "2022-11-10",
+  "headline": "CNN This Morning",
+  "subHeadline": "Balance Of Power In Limbo As House, Senate Too Close To Call; Senate Control May Hinge On Two States With Election Deniers; Georgia Race That May Decided Senate Heads To Runoff In December; Biden Declares \"Good Day\" For Democracy After Midterms; Pence: Trump Chided Me For Being \"Too Honest\" In Coup Attempt; Cruz: Too Many GOP Candidates Made Races About Personality. Aired 5-5:30a ET",
+  "utterances": [
+    {
+      "timeStamp": "05:00:30",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "The country is finally united under e. It was a strange night. It's not often you hear someone excitedly say, it's OK, we only lost the House.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:00:30",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Yesterday was Election Day and late night is now projecting the Democrats will pick up at least one seats at Thanksgiving dinner.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:00:30",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Democrats were riding high today even though they probably lost the House could still lose the Senate. It's like, great news. We didn't get beaten as badly as everyone expected us to.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:00:30",
+      "speaker": "DON LEMON, CNN ANCHOR",
+      "sentences": "Good morning, good morning. After the marathon, still going on. We could use a little humor, use a little humor. Good morning. We're so happy that you could join us this morning.The balance of power in Congress still undecided at this hour, control of the House at this hour is still up in the air on the Senate side. We'll go there first. The race now hangs on two states and a run off talking about Arizona, Nevada, that run off of course, in Georgia. Which party will win control here.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:00:30",
+      "speaker": "POPPY HARLOW, CNN ANCHOR",
+      "sentences": "Also President Biden hailing the midterm results as a, quote, good day for democracy. Remember that was his closing arguments. This is Democrats did outperform expectations across the country. And the big question now, what does this all mean for 2024?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:00:30",
+      "speaker": "KAITLAN COLLINS, CNN ANCHOR",
+      "sentences": "Timing is everything and former Vice President Mike Pence seems to be taking advantage of what happened on Tuesday, reflecting now in a new op ed on his new book that's coming out, on his final days in office with former President Trump. We'll tell you what he said about what went down behind the scenes. LEMONBut take a look at the closely watched House race in Colorado's Third Congressional District. Republican Lauren Boebert is in jeopardy there, losing her seat behind Adam Frisch, by just 64 votes. Race was not expected to be this close at all. And now you can truly say it's down to the wire. It is a cliche, but this one, it really matters and it is true. Harry Enten, our Senior Data Reporter is here with the very latest. Good morning.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:00:30",
+      "speaker": "HARRY ENTEN, CNN SENIOR DATA REPORTER",
+      "sentences": "Good morning.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:00:30",
+      "speaker": "LEMON",
+      "sentences": "Can Boebert hang on? Can Dems win the House? What's going on?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:00:30",
+      "speaker": "ENTEN",
+      "sentences": "Oh, I was not expecting this at all. I was quite surprised. I don't -- I've never been in a situation where we haven't been able to call the House. You know, as you start -- as you were saying, starting off, you know, Republicans right now projected to win 209 seats, the Democrats 191.When we look where the parties are at, look at this, 220 to 215. How much closer could you possibly get? I guess you could get a little bit closer. But let's go into that Colorado race that you mentioned, right? Lauren Boebert, 64 votes, 64 votes. She's behind. She has been closing. So it's possible that you could lose. But with some of those late arriving ballots, don't be shocked if she does, in fact, eventually pull ahead. But this is just an indication of how close these races truly are done. And it just gives you an indication that this is such a divided country. I mean, 220 to 215, my goodness, gracious, Don.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:00:30",
+      "speaker": "LEMON",
+      "sentences": "Yes. And what about -- that was a House. What about the Senate, Harry?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:05:04",
+      "speaker": "LEMON",
+      "sentences": "Yes, and watch your language this morning. My goodness gracious at 5",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:05:04",
+      "speaker": "ENTEN",
+      "sentences": "I know, I know. I have to be more appropriate.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:05:04",
+      "speaker": "HARLOW",
+      "sentences": "That made me smile.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:05:04",
+      "speaker": "LEMON",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:05:04",
+      "speaker": "HARLOW",
+      "sentences": "That made me smile.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:05:04",
+      "speaker": "LEMON",
+      "sentences": "Thanks, Harry.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:05:04",
+      "speaker": "ENTEN",
+      "sentences": "Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:05:04",
+      "speaker": "HARLOW",
+      "sentences": "For the second time in less than two years, Georgia is preparing for a runoff election that could decide the balance of power in the Senate. Democrat Raphael Warnock and Republican Herschel Walker both failing to secure 50 percent of the vote.Eva McKend in Atlanta for us for CNN this morning. Again, here we are, four weeks away from the runoff. How is the state preparing? What will this look like?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:05:04",
+      "speaker": "EVA MCKEND, CNN NATIONAL POLITICS REPORTER",
+      "sentences": "Oh, Poppy, right now the state is prepping ballots to be sent to counties. So those can get signed off on by November 14. The absentee ballot process also open if people want to vote that way. And then lastly, we have learned that early voting could begin here as early as November 26.So people actually won't have to wait until December 6, they will be able to vote early if they choose. That was really key in the general election. We saw more than 2 million Georgians get out vote and early, very popular to do so here. So Georgians will have the opportunity to do so again.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:05:04",
+      "speaker": "HARLOW",
+      "sentences": "I think everyone is asking the question of, where did those 2 percent plus of votes that went to the Libertarian candidate? Where do they go, right? Do they go to Warnock? Do they go to Walker? I wonder what people on the ground are saying. MCKENDAlso Governor Kemp will not be at the top of the ticket. And so many Republicans were sort of hopeful going into election night that Herschel Walker would be boosted by Governor Kemp. So now not having Governor Kemp at the top of the ticket, not having the Libertarian candidate on the ballot, just a very different scenario. And it doesn't matter that Senator Warnock, you know, emerged with the most votes. They're basically back to square one here, Poppy.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:05:04",
+      "speaker": "HARLOW",
+      "sentences": "They are indeed. Eva, I means a lot of work for you and our teams there over the next month. Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:05:04",
+      "speaker": "COLLINS",
+      "sentences": "So as Eva noted, there are still races too close to call. It is safe to say Democrats did though outperform expectations even their own on this midterm election Tuesday night. President Biden touted his party's performance yesterday. He even talked about his own political future and maybe abroad in 2024.(BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:05:04",
+      "speaker": "JOE BIDEN, PRESIDENT OF THE UNITED STATES",
+      "sentences": "While we don't know all the results yet, least I don't know them all yet, here's what we do know. While the press and the pundits are predicting a giant red wave, it didn't happen. Our intention is to run again. That's been our intention, regardless of what the outcome of this election was.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:05:04",
+      "speaker": "COLLINS",
+      "sentences": "Joining us now is CNN Political Commentator Ashley Allison. She worked on President Biden's campaign. Thanks for getting up so early with us. I want to talk about that comment --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:05:04",
+      "speaker": "LEMON",
+      "sentences": "You're awake?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:05:04",
+      "speaker": "COLLINS",
+      "sentences": "-- from President Biden.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:05:04",
+      "speaker": "ASHLEY ALLISON, CNN POLITICAL COMMENTATOR",
+      "sentences": "I'm not a morning person but I'm here.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:05:04",
+      "speaker": "LEMON",
+      "sentences": "Butu you are now. You're here.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:05:04",
+      "speaker": "ALLISON",
+      "sentences": "I am now.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:05:04",
+      "speaker": "COLLINS",
+      "sentences": "I think all Democrats are awake after what happened --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:05:04",
+      "speaker": "ALLISON",
+      "sentences": "That's right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:05:04",
+      "speaker": "COLLINS",
+      "sentences": "-- on Tuesday night.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:05:04",
+      "speaker": "ALLISON",
+      "sentences": "Yes, I'm feeling good. COLLINS",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:05:04",
+      "speaker": "ALLISON",
+      "sentences": "Yes, I mean, history tells us that Dems should not have done this well, this week. I have always felt that Dems were going to overperform because something different has happening in Washington right now, where politicians are starting to actually do their jobs and deliver for the people.The first year of Biden's term, he could not get a lot of big legislative victories outside of COVID relief, but couldn't get voting rights, couldn't get police reform, but they tried. And I think the voters saw that. And then he took some of the executive power in this last final stretch around student loan debt, decriminalizing -- or looking to decriminalize marijuana, and really just meeting the American people where they are. And I think that it was refreshing. And most importantly, I think people had to pick who they were going to trust at the end of the day to get us into a better economic situation. And it -- honestly the Dems, when you had people still denying the election, voters just wanted to go with something different (ph).",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:05:04",
+      "speaker": "LEMON",
+      "sentences": "There's a lot to unpack there, because two things that I noticed, the President out there speaking yesterday, the American people want to see more of that. I know the press would like it, but I think that he did a good job.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:05:04",
+      "speaker": "ALLISON",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:05:04",
+      "speaker": "LEMON",
+      "sentences": "People want to hear from the President more and it may be an opportunity for him to be able to tout his accomplishments. I'm hearing people say, look, this is going to be the most -- one of the most successful presidents. But that's not the narrative that you're hearing about President Biden. And secretly, if you look at the history, as you said, he's winning.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:10:01",
+      "speaker": "LEMON",
+      "sentences": "He's winning. And people is saying, oh, should he run in 2024? The Democrats are not accomplishing anything. We were saying, is it the closing message right? But he got something, right?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:10:01",
+      "speaker": "ALLISON",
+      "sentences": "He understood the complexity of voters. We receive information. I've been saying this for a while, particularly on the backside of COVID. I know it's still real issue, but people are in real life. We're here, we're doing this.And voters are calculating their decisions in a more complex way. You cannot ignore Roe, and what that did. People always underestimate young voters. Young voters are so disappointed in the older generation there.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:10:01",
+      "speaker": "COLLINS",
+      "sentences": "It really turned out on Tuesday.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:10:01",
+      "speaker": "ALLISON",
+      "sentences": "They're turned out and they're saying, we turned out and we're going to hold you accountable. And I think we saw that in the last two years and we're going to see that more. Now, whether or not he runs on '24, I appreciate him pacing it, and saying he was going to wait until next year.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:10:01",
+      "speaker": "LEMON",
+      "sentences": "Why is it -- why, why, why, why?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:10:01",
+      "speaker": "COLLINS",
+      "sentences": "He's definitely pacing it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:10:01",
+      "speaker": "ALLISON",
+      "sentences": "Well, because I don't think you should be pressured by anyone to make a decision to run for president. It's a big choice.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:10:01",
+      "speaker": "LEMON",
+      "sentences": "OK.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:10:01",
+      "speaker": "HARLOW",
+      "sentences": "Tom Friedman's op ed this morning is great. He starts out by saying, you can hold off moving to Canada, you know, you don't have to call the Embassy in New Zealand about how to become a citizen there. But his argument is not about sort of one side or the other. His argument is about democracy.And he says it survived. A little dinged up, but it survived. On the Biden front, I wonder if you think this was more an approval of Biden, because the exit polls didn't show that or rejection of election denialism.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:10:01",
+      "speaker": "ALLISON",
+      "sentences": "I think it's the end.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:10:01",
+      "speaker": "HARLOW",
+      "sentences": "End.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:10:01",
+      "speaker": "ALLISON",
+      "sentences": "I don't think it's just like, I don't think voters only voted for the economy and only voted for Roe. They looked at all the issues and made a combined decision.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:10:01",
+      "speaker": "LEMON",
+      "sentences": "And it depended on the candidate. Because one candidate didn't -- it wouldn't work in another -- works in one place, it didn't work in another place.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:10:01",
+      "speaker": "ALLISON",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:10:01",
+      "speaker": "LEMON",
+      "sentences": "Look what happened with Sean Patrick Maloney.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:10:01",
+      "speaker": "ALLISON",
+      "sentences": "That's right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:10:01",
+      "speaker": "LEMON",
+      "sentences": "So it depends. You have to pick the candidate that's right for where you are.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:10:01",
+      "speaker": "ALLISON",
+      "sentences": "And I think I have also said that there's likely to be split ticket voting --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:10:01",
+      "speaker": "LEMON",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:10:01",
+      "speaker": "ALLISON",
+      "sentences": "-- if you look. People didn't believe that there was a Kemp- Warnock voter, but there was. And so that also says that people are going beyond party and really looking at -- I love Stacey, and I think she was a great candidate. But it's hard to beat an incumbent.I will say, though, on democracy, we're not done yet. Because we still have secretary of state races in Arizona, in Nevada, and they're election deniers. Kari Lake is, I find quite dangerous for our democracy and is a rising star. So we want to make sure every vote is counted in those two states. And then it'll be interesting to see what happens in this Georgia runoff. I think Warnock is going to pull it out. But we'll see.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:10:01",
+      "speaker": "COLLINS",
+      "sentences": "I'll be fascinated to see if President Biden goes to Georgia because he didn't go --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:10:01",
+      "speaker": "ALLISON",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:10:01",
+      "speaker": "COLLINS",
+      "sentences": "-- to campaign for him. Trump also has not been in Georgia a month.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:10:01",
+      "speaker": "ALLISON",
+      "sentences": "Right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:10:01",
+      "speaker": "COLLINS",
+      "sentences": "So that's something --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:10:01",
+      "speaker": "LEMON",
+      "sentences": "I think he's going to go. I think there's a little bit of swagger after this.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:10:01",
+      "speaker": "COLLINS",
+      "sentences": "Yes, maybe.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:10:01",
+      "speaker": "LEMON",
+      "sentences": "And I think Democrats have learned their lesson. And it's kind of -- it's the same lesson, I believe, or a similar lesson to Al Gore.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:10:01",
+      "speaker": "ALLISON",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:10:01",
+      "speaker": "LEMON",
+      "sentences": "Who distanced himself from Bill Clinton and then realize, oops, that was the wrong thing to do, because that's where -- the American people weren't there.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:10:01",
+      "speaker": "ALLISON",
+      "sentences": "And it's like, look at that image of Pennsylvania when you had Shapiro, Fetterman, Obama and Biden. I think you could see a Biden, Obama, Warnock stage in Georgia and meet the moment.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:10:01",
+      "speaker": "LEMON",
+      "sentences": "Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:10:01",
+      "speaker": "COLLINS",
+      "sentences": "We'll see. Thanks so much for getting up very early with us.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:10:01",
+      "speaker": "ALLISON",
+      "sentences": "Anytime.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:10:01",
+      "speaker": "HARLOW",
+      "sentences": "You can go back to bed.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:10:01",
+      "speaker": "ALLISON",
+      "sentences": "I will.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:10:01",
+      "speaker": "LEMON",
+      "sentences": "Yes. Here's a secret though, don't drink too much coffee because you can't go to sleep after this.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:10:01",
+      "speaker": "ALLISON",
+      "sentences": "I haven't had one drop.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:10:01",
+      "speaker": "COLLINS",
+      "sentences": "All right, he predicted a red tsunami. Now Senator Ted Cruz is trying to explain why Republicans --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:10:01",
+      "speaker": "LEMON",
+      "sentences": "Look at that picture.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:10:01",
+      "speaker": "COLLINS",
+      "sentences": "-- fairly made this (ph) lash in the midterms. That picture is perfect.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:10:01",
+      "speaker": "COLLINS",
+      "sentences": "And --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:10:01",
+      "speaker": "LEMON",
+      "sentences": "Go ahead. Go ahead, Kaitlan, please.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:10:01",
+      "speaker": "COLLINS",
+      "sentences": "Former Vice President Mike Pence on his last days in office with Trump. Did he just tell his former boss, I told you so?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:18:08",
+      "speaker": "LEMON",
+      "sentences": "Well, Texas Republican Senator Ted Cruz weighing in on the election. He says he's disappointed by the lack of decisive, a decisive red tsunami especially since he said that it would happen.(BEGIN VIDEO CLIP) SEN. TED CRUZ (R-TX): I think we're going to see a wave election. I think it's going to be a tsunami. I think Republicans are going to retake both the House and Senate. I think in the House, we could easily end up with the majority of 30, 40, 50 votes in the Senate. I think we're going to retake the majority. I think we'll end up with about 53 Republicans in the Senate.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:18:08",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Wow.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:18:08",
+      "speaker": "LEMON",
+      "sentences": "All right, well cut to now, that was now this is then Cruz's addressing why his tsunami prediction ended barely with a ripple.(BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:18:08",
+      "speaker": "CRUZ",
+      "sentences": "But I'm going to say right now the majority should have been bigger. And I think we need to have some real questions about what mistakes were done on the Republican side that didn't get as a bigger majority. I think too many of these Republican races became personality battles. In too many of these races, it became about the personality and not about the issues that impact the kitchen table, the kids, the family, the safety, the security that impact the people.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:20:08",
+      "speaker": "SUNLEN SERFATY, CNN WASHINGTON CORRESPONDENT",
+      "sentences": "That's absolutely right, Poppy. Timing, so interesting. And certainly, the new revelations in this book are interesting too. We have certainly reported on many of the details, the lead up and the pressure campaign Trump put on Pence to not certify the 2020 election before. We reported a lot of these details, but it is so powerful to hear it firsthand from the former vice president himself in this new book excerpt.In one anecdote he shares how he was flying on Air Force Two to visit family and friends over Christmas. And a tweet came in during that trip from the President. He says, quote, \"President Trump retweeted an obscure article titled, 'Operation Pence Card'. It alluded to the theory that if all else failed, I could alter the outcome of the election on January 6. I showed it to my wife, Karen, and rolled my eyes.\" And the language he uses quoting Trump is really striking here, too. He multiple times quotes the former president, as calling him a wimp, saying, they don't wimp out and that he go down in history, Poppy --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:20:08",
+      "speaker": "HARLOW",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:20:08",
+      "speaker": "SERFATY",
+      "sentences": "-- as just as somebody if he went on to not to certify the results of the election, which, of course, he did.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:20:08",
+      "speaker": "HARLOW",
+      "sentences": "The last exchange between the two of them where he said, I will still pray for you is also really --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:20:08",
+      "speaker": "SERFATY",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:20:08",
+      "speaker": "HARLOW",
+      "sentences": "-- fascinating. Sunlen Serfaty on the Hill, thanks very much.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:20:08",
+      "speaker": "SERFATY",
+      "sentences": "Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:20:08",
+      "speaker": "COLLINS",
+      "sentences": "All right. So let's bring in CNN Political Commentator, and the Host of PBS's Firing Line, Margaret Hoover.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:20:08",
+      "speaker": "MARGARET HOOVER, CNN POLITICAL COMMENTATOR",
+      "sentences": "Good morning.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:20:08",
+      "speaker": "COLLINS",
+      "sentences": "We got a lot to talk about this morning.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:20:08",
+      "speaker": "HOOVER",
+      "sentences": "Good morning. Here we go. COLLINS",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:20:08",
+      "speaker": "HOOVER",
+      "sentences": "No, it wasn't. You know, one of the things that has actually been so interesting to me over the last 48 hours, is the amount of admonition and eating crow that has happened on the right. Because conservatives and Republicans tend not to admit when they were wrong. I don't know if you've noticed this trend, Don Lemon.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:20:08",
+      "speaker": "LEMON",
+      "sentences": "No, hadn't at all.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:20:08",
+      "speaker": "HOOVER",
+      "sentences": "But time after time, op ed after op ed, admission after admission on podcasts, I mean, I really troll the conservative podcast ecosystem so you don't have to, and it's -- there is real recognition that they got it wrong. Now, what's different is that nobody has once in any of the podcasts or op eds, or any of the analysis, cited the jobs decision, cited that out -- overturning of younger voters and women voters.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:20:08",
+      "speaker": "HARLOW",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:20:08",
+      "speaker": "LEMON",
+      "sentences": "They can't.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:20:08",
+      "speaker": "HOOVER",
+      "sentences": "They've said, well, it's just interesting that the economy wasn't the predominant issue.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:20:08",
+      "speaker": "LEMON",
+      "sentences": "Yes, because everyone thinks that they know everything. And I thought it was interesting, even over on the Fox propaganda channel, the night of. They were saying -- was it last night? Whenever, I can't remember, because we've been up for so long.It's like -- what has happened, folks over there saying this was a routing of Republicans, even though they will probably win the Congress, they may take the Senate, but they still thought it was a rallying of Republicans. And they were also -- which was more surprising to me that I've seen from conservatives, I've seen on the air, conservative media radio, they are turning against the former president.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:20:08",
+      "speaker": "HOOVER",
+      "sentences": "There is a wedge. I mean, that's -- the one thing that people can agree upon it seems to me is that Trump was on the ballot and where Trump was on the ballot in key places that Republicans needed to pick up for the tsunami, he lost.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:20:08",
+      "speaker": "HARLOW",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:20:08",
+      "speaker": "HOOVER",
+      "sentences": "And that does give a little bit of an opening for, enter Mike Pence, enter the conservative Republicans who actually see themselves as an alternative to Donald Trump, and will also have the courage to run (INAUDIBLE).",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:20:08",
+      "speaker": "HARLOW",
+      "sentences": "Let's talk about one of them maybe.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:20:08",
+      "speaker": "LEMON",
+      "sentences": "Can I just stick to -- I want to get to Ted Cruz, stick with Ted Cruz because she was mentioning it. Ted Cruz speaks out of both sides of his mouth, because he's talking about -- he says, this should not be --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:20:08",
+      "speaker": "HOOVER",
+      "sentences": "Really?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:20:08",
+      "speaker": "LEMON",
+      "sentences": "-- this should not be about personalities, when he hugged Trump, the man who insulted him --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:20:08",
+      "speaker": "HOOVER",
+      "sentences": "He's about to go on Herschel Walker.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:20:08",
+      "speaker": "LEMON",
+      "sentences": "And that he is the -- a cult of personality if you look in the dictionary and encyclopedia which we, you know, whatever. That's how old I am. He's a cult of personality. If you -- Herschel Walker, same thing, Herschel Walker has no political chops, and he's campaigning for him. So he's saying, well, you know, we should get away from this cult of personality, that is more hypocrisy added on top of hypocrisy. So, what gives?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:20:08",
+      "speaker": "HOOVER",
+      "sentences": "I mean, you can't -- nothing. Ted Cruz is just saying words. He's trolling Mitch McConnell right now. Every single person knows responsible Republicans in the Senate had no interest in Mehmet Oz or Herschel Walker or any other of these other --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:20:08",
+      "speaker": "LEMON",
+      "sentences": "Mehmet Oz is another personnel, yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:20:08",
+      "speaker": "HOOVER",
+      "sentences": "Any of these other, frankly, people who are hugging Donald Trump and supporting his election lies.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:20:08",
+      "speaker": "LEMON",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:20:08",
+      "speaker": "HOOVER",
+      "sentences": "They had no interest in those guys being the candidate if they hadn't been the candidates. This today would look very different for Republicans.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:20:08",
+      "speaker": "LEMON",
+      "sentences": "Sorry, Poppy, sorry.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:25:09",
+      "speaker": "HOOVER",
+      "sentences": "Look, I think the timing actually has much more to do with the fact that he has a major book, which is the first time he's spoken publicly and put his account on the record coming out next Tuesday.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:25:09",
+      "speaker": "LEMON",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:25:09",
+      "speaker": "HOOVER",
+      "sentences": "The timing that's actually funny and totally trolling is Donald Trump decided he's going to announce his candidacy for president on the same day that his vice president releases his book and begins his book tour. That's actually the trollish timing.You know, there's been some Trump staffers who have suggested that Donald Trump should wait now at this point until after December, after at least the Georgia election because that could be not one Georgia Senate seat, but the second time around that Donald Trump loses it. So nobody wants Donald Trump anywhere near there. Mike Pence, I had continued to believe is the hero, the -- and one of the unsung heroes of January 6.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:25:09",
+      "speaker": "LEMON",
+      "sentences": "He's not a hero.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:25:09",
+      "speaker": "HOOVER",
+      "sentences": "We have seen that now.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:25:09",
+      "speaker": "LEMON",
+      "sentences": "He's not a hero for doing that stuff.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:25:09",
+      "speaker": "HOOVER",
+      "sentences": "I know you don't believe that, but you know what? I have all sorts of time.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:25:09",
+      "speaker": "LEMON",
+      "sentences": "How are you hero for doing your job?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:25:09",
+      "speaker": "HOOVER",
+      "sentences": "I have all sorts of time for people who stood up for the Constitution in President Trump's face and in the face of January 6 on that day Capitol --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:25:09",
+      "speaker": "LEMON",
+      "sentences": "But that does mean that they're a hero. That means that they did their jobs. The bar is that low where you consider someone who does their job? That's what -- he took an oath to the American people. And how -- Margaret, how can you say he's a hero for following what his oath said that he was supposed to do? It's what the law says.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:25:09",
+      "speaker": "HOOVER",
+      "sentences": "He -- Mike Pence upheld his oath. The President of the United States did not.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:25:09",
+      "speaker": "LEMON",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:25:09",
+      "speaker": "HOOVER",
+      "sentences": "You and I know that upholding your oath and just doing your job under --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:25:09",
+      "speaker": "LEMON",
+      "sentences": "It's the bare minimum.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:25:09",
+      "speaker": "HOOVER",
+      "sentences": "-- extraordinary cricumstances.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:25:09",
+      "speaker": "LEMON",
+      "sentences": "It's the bare minimum though.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:25:09",
+      "speaker": "HOOVER",
+      "sentences": "Unprecedented circumstances.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:25:09",
+      "speaker": "LEMON",
+      "sentences": "It's still the are bare minimum and he's selling a book. This is about how much of this is about reputation rehab, than -- because again, Mike Pence is selling a book, and doing what his oath said and doing what his job said, what he promised the American people is not --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:25:09",
+      "speaker": "HOOVER",
+      "sentences": "You and I bot know --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:25:09",
+      "speaker": "LEMON",
+      "sentences": "-- hero behavior.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:25:09",
+      "speaker": "HOOVER",
+      "sentences": "-- that if there was a mob that day that had breached the Capitol and found Mike Pence, we would all be in a very different situation.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:25:09",
+      "speaker": "COLLINS",
+      "sentences": "And if Pence had been a different person, if there has been a different person --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:25:09",
+      "speaker": "LEMON",
+      "sentences": "And who's fault is that. That is a fault of his own making.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:25:09",
+      "speaker": "HOOVER",
+      "sentences": "I don't blame this -- any of this on Mike Pence. I blame this on Donald Trump.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:25:09",
+      "speaker": "COLLINS",
+      "sentences": "It'd be really interesting to see this book come out the day that Trump was to announced his presidential run. We'll be watching all of that very closely, and also hearing your input on it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:25:09",
+      "speaker": "HOOVER",
+      "sentences": "All right, see you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:25:09",
+      "speaker": "LEMON",
+      "sentences": "Thanks, Margaret. Appreciate it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:25:09",
+      "speaker": "LEMON",
+      "sentences": "So concerns growing over continued aid to Ukraine if Republicans take control of the House. President Biden says support from the U.S. will not stop.",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

@@ -1,0 +1,523 @@
+{
+  "date": "2024-08-23",
+  "headline": "CNN This Morning",
+  "subHeadline": "Nearly 20 Million Under Heat Alerts, Hone Nears Hawaii; Harris Eyes Critical Swing States With Economic Message; Harris Addresses War In Gaza During DNC Speech. Aired 5:30-6a ET",
+  "utterances": [
+    {
+      "timeStamp": "05:30:00",
+      "speaker": "KASIE HUNT, CNN ANCHOR",
+      "sentences": "Let's get straight to our weatherman Van Dam -- the -- our meteorologist. Derek, you have the latest. What's going on?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:30:00",
+      "speaker": "DEREK VAN DAM, AMS METEOROLOGIST",
+      "sentences": "Hey, yeah. I think, Kasie, there's a little bit of confusion in Mother Nature. She's got a tropical storm in the Pacific, she's stuck in September along the East Coast, July- August in the central parts of the country, and more like October- November over the Pacific Northwest. So we've got a full scale of weather impacting the country.This time we're focusing in on the temperatures, and I know you've been getting outside and enjoying these cool, cool mornings we've had. And they're well below average for this time of year from Green Bay all the way to New York, Philadelphia, and Boston, but that is going to come to an end today. We start to see the temperature climb through the course of the weekend. And part of the reason why you've experienced these cool fall-like temperatures is because of the dry air that's been in place over the eastern half of the U.S. And notice how that blue and green gets replaced with more reds, yellows, and oranges. That's because the humidity levels will slowly creep up through the weekend for the Eastern Seaboard as well. Well, it's been downright hot and feeling very summerlike for central Texas. That continues today. The feels like index around 110 for many locations over the central parts of the state. Here's Tropical Storm Hone. Now it's still well to the south and east of the Big Island of Hawaii. Forty-five mile per hour winds with this tropical storm. Newly issued tropical storm watches for the Big Island as this system is anticipated to slowly strengthen and slide just south of the Hawaiian Islands. It will produce a lot of wind -- 60 to 70 mile per hour gusts from Lahaina northward into Maui County and much of the Big Island. But it certainly will be a rainmaker for this area. Good news, Kasie, because much of Hawaii has been in drought. Back to you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:30:00",
+      "speaker": "HUNT",
+      "sentences": "Hmm, fascinating. All right, Derek Van Dam for us this morning. Derek, thank you very much. I appreciate it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:30:00",
+      "speaker": "VAN DAM",
+      "sentences": "OK.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:30:00",
+      "speaker": "HUNT",
+      "sentences": "All right. Straight ahead here on CNN THIS MORNING, holding up the blue wall, the message that Kamala Harris is sending to voters in three critical swing states that could decide the election.Plus, a look back at some of the most memorable moments from the fourth and final night of the DNC. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:30:00",
+      "speaker": "KERRY WASHINGTON, ACTRESS",
+      "sentences": "And what are you here to do?AMARA HARRIS, VICE PRESIDENT KAMALA HARRIS' NIECE:  To teach you how to say your auntie's name.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:30:00",
+      "speaker": "WASHINGTON",
+      "sentences": "OK. So how do you pronounce it?A. HARRIS:  First you say comma, like a comma in a sentence. LELIA HARRIS, VICE PRESIDENT KAMALA HARRIS' NIECE:  Then you say, 'La,' like lalalala.\"",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:37:03",
+      "speaker": "HUNT",
+      "sentences": "All right, it is 4Good morning, everyone. I'm Kasie Hunt. It's wonderful to have you with us. Three states will likely decide who resides in the White House next year. They are Michigan, Pennsylvania, and Wisconsin. Ron Brownstein, of The Atlantic, writes this. \"If Harris can sweep those three -- Michigan, Pennsylvania, and Wisconsin -- and hold every state that President Joe Biden won by three percentage points or more in 2020, and win the congressional district centered on Omaha in Nebraska, she would reach exactly the magic number 270 electoral votes.\" The Harris campaign has clearly done the math. Last night, the vice president made sure she sent a message to voters in those blue wall states, trying to say she has their backs. (BEGIN VIDEO CLIP) KAMALA HARRIS, VICE PRESIDENT OF THE UNITED STATES, (D) PRESIDENTIAL CANDIDATE:  I will bring together labor, and workers, and small businessowners, and entrepreneurs, and American companies to create jobs, to grow our economy, and to lower the cost of everyday needs like healthcare, and housing, and groceries. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:37:03",
+      "speaker": "HUNT",
+      "sentences": "The blue wall swing states were very well represented on the closing night. Plum speaking slots went to senators facing tough re- election bids.(BEGIN VIDEO CLIP) SEN. TAMMY BALDWIN (D-WI):  Wisconsin's state motto is \"Forward.\" And my friends, that's where we're headed. SEN. BOB CASEY (D-PA):  The people I'm talking to from Allentown to Erie -- they don't tolerate being ripped off. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:37:03",
+      "speaker": "HUNT",
+      "sentences": "Ron Brownstein is, of course, here with us. You --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:37:03",
+      "speaker": "RON BROWNSTEIN, CNN SENIOR POLITICAL ANALYST, SENIOR EDITOR, THE ATLANTIC",
+      "sentences": "Yeah.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:37:03",
+      "speaker": "HUNT",
+      "sentences": "-- famously coined the phrase \"blue wall\" some years ago to describe this phenomenon here. Let's dig into --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:37:03",
+      "speaker": "BROWNSTEIN",
+      "sentences": "Yeah.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:37:03",
+      "speaker": "HUNT",
+      "sentences": "-- where this race stands right now in these states.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:37:03",
+      "speaker": "BROWNSTEIN",
+      "sentences": "Yeah. So look, I mean, when I coined the \"blue wall\" it referred to the 18 states that ultimately voted Democratic in every election from '92 to 2012, which was the most states the party had won that often since the formation of the modern party system in 1828.Donald Trump, in 2016, famously dislodged Michigan, Pennsylvania, and Wisconsin from the blue wall. And I think when most people say blue wall now, they actually think about the three bricks that fell out of the wall.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:37:03",
+      "speaker": "HUNT",
+      "sentences": "Yeah.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:40:04",
+      "speaker": "HUNT",
+      "sentences": "Margaret Talev, we talked to some undecided voters in Pennsylvania about Harris'",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:40:04",
+      "speaker": "MARGARET TALEV, SENIOR CONTRIBUTOR, AXIOS, DIRECTOR, INSTITUTE FOR DEMOCRACY, JOURNALISM AND CITIZENSHIP, SYRACUSE UNIVERSITY",
+      "sentences": "Yeah.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:40:04",
+      "speaker": "HUNT",
+      "sentences": "-- speech last night. Let's --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:40:04",
+      "speaker": "BROWNSTEIN",
+      "sentences": "Yeah.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:40:04",
+      "speaker": "HUNT",
+      "sentences": "-- take a look at what some of them had to say and I'll ask you about it on the other side -- watch.(BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:40:04",
+      "speaker": "SCOTT, PENNSYLVANIA VOTER",
+      "sentences": "I thought she looked very confident. I liked how she spoke from her heart. I liked her message of unity.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:40:04",
+      "speaker": "DONNA, PENNSYLVANIA VOTER",
+      "sentences": "And she hit all the points that I wanted to know about. I wanted to know more about her, her economic policies. She sounded presidential and I think she's going to be a unifier.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:40:04",
+      "speaker": "BRIAN, PENNSYLVANIA VOTER",
+      "sentences": "She wasn't clear enough on the policies. She did speak a lot of her personal history -- on her personal history, which was great. But I still don't feel like she's ready. It was just not moving for me.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:40:04",
+      "speaker": "HUNT",
+      "sentences": "Hmm. Margaret Talev, an interesting range of perspectives and it hit on some of what we were talking about, right, like the presentation mattered a lot but there were some people who had some questions about the policies.Where do you think Pennsylvania stands right now? Republicans certainly think it is the entire ballgame. That if they can take Pennsylvania, obviously there's no path for Kamala Harris to win this. At the same time, there are some differences between where voters are right now in Pennsylvania and Michigan. And to Ron's earlier point, not out of the realm of possibility we could see a split in this blue wall -- sort of, a trio if you will. How do you look at it right now and where do you think it stands?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:40:04",
+      "speaker": "TALEV",
+      "sentences": "Obviously, Pennsylvania is hugely important because of its size. Is it 19? Do the math for me.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:40:04",
+      "speaker": "BROWNSTEIN",
+      "sentences": "Nineteen, 19.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:40:04",
+      "speaker": "TALEV",
+      "sentences": "And so -- but I think, like -- I think this race is a margin of error race. That's why for all the enthusiasm in here tonight, the conversations in the hallways and at the bars, and everything that's not with a camera and a microphone is Democrats saying you know, they're worried that this -- it doesn't mirror what's actually going on in some of the states where this is going to be decided, and that voters are -- like, it's an economy race. It's an economy race. It's an economy race.So I do think that potentially, what makes this a little bit different is that Kamala Harris is an African American woman and there are a couple of states in the Sun Belt, Georgia and North Carolina, where if you can really energize the African American vote, if you could really bring voters out to the polls and the restrictions passed by governors in those states don't make it that much harder to vote, et cetera --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:40:04",
+      "speaker": "BROWNSTEIN",
+      "sentences": "Hmm.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:40:04",
+      "speaker": "TALEV",
+      "sentences": "-- that you could have sort of Obama-style levels of turnout.But I think it's not a sure thing at all --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:40:04",
+      "speaker": "HUNT",
+      "sentences": "Right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:40:04",
+      "speaker": "TALEV",
+      "sentences": "-- for them.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:40:04",
+      "speaker": "HUNT",
+      "sentences": "Well, you're also talking about cutting margins. I mean --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:40:04",
+      "speaker": "BROWNSTEIN",
+      "sentences": "Yeah.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:40:04",
+      "speaker": "HUNT",
+      "sentences": "-- Trump had cut into -- was cutting into Democratic margins in -- among especially the Black vote -- Milwaukee -- in the blue wall states at will.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:40:04",
+      "speaker": "BROWNSTEIN",
+      "sentences": "Well --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:40:04",
+      "speaker": "HUNT",
+      "sentences": "Philadelphia --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:40:04",
+      "speaker": "BROWNSTEIN",
+      "sentences": "-- yeah, and what's happening --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:40:04",
+      "speaker": "HUNT",
+      "sentences": "Detroit.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:40:04",
+      "speaker": "BROWNSTEIN",
+      "sentences": "-- right?Democrats are improving in the white-collar suburbs of these states. The margins for Biden in the suburbs of Philadelphia and Detroit, and even Milwaukee, which is the most Republican-leaning white-collar suburb left north of the Mason-Dixon Line, improved Democratic margins in the -- in the big cities, particularly in the Black community, decline. But the pivotal question. These are states where the blue-collar whites are a bigger share of the vote than they are nationally.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:40:04",
+      "speaker": "HUNT",
+      "sentences": "Um-hum.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:40:04",
+      "speaker": "BROWNSTEIN",
+      "sentences": "And I think the principal battleground between now and November is how many of those blue-collar white voters, especially women, can Trump peel away from Harris by making the argument she's soft on crime and immigration and she's not going to help you with your cost of living?Because if he can't do that, the likelihood is that improvement in the white-collar suburbs post-Dobbs -- don't forget, Dobbs had not happened yet in 2020.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:40:04",
+      "speaker": "HUNT",
+      "sentences": "Yeah.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:40:04",
+      "speaker": "BROWNSTEIN",
+      "sentences": "Very hard for -- you know, this is the ballgame.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:40:04",
+      "speaker": "HUNT",
+      "sentences": "Yeah.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:40:04",
+      "speaker": "BROWNSTEIN",
+      "sentences": "By the way, Tad Devine, the longtime Democratic strategist, calls the three states \"Mipawi.\" Like, he basically says they are the biggest swing states that's left. Forty -- you know, 44 Electoral College votes. They tend to move together. That's why they are so --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:40:04",
+      "speaker": "HUNT",
+      "sentences": "Yeah.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:40:04",
+      "speaker": "BROWNSTEIN",
+      "sentences": "-- important in deciding these races.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:40:04",
+      "speaker": "HUNT",
+      "sentences": "The fact that you can say things like it's the most Republican white-collar suburb north of the Mason-Dixon Line --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:40:04",
+      "speaker": "BROWNSTEIN",
+      "sentences": "Yeah, it --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:40:04",
+      "speaker": "HUNT",
+      "sentences": "-- it's exactly why we have you here, Ron.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:40:04",
+      "speaker": "BROWNSTEIN",
+      "sentences": "Yeah, it's true.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:40:04",
+      "speaker": "HUNT",
+      "sentences": "Ron Brownstein.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:40:04",
+      "speaker": "BROWNSTEIN",
+      "sentences": "And so, WOW counties.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:40:04",
+      "speaker": "HUNT",
+      "sentences": "Very grateful to have you on the show --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:40:04",
+      "speaker": "BROWNSTEIN",
+      "sentences": "Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:00",
+      "speaker": "HUNT",
+      "sentences": "Kamala Harris addressing one of the Democratic Party's biggest divisions this election cycle, the war in Gaza.Protests outside the DNC served as the backdrop to the convention this week as pro-Palestinian activists pushed for a bigger role in the convention. A group of uncommitted delegates who have been opposed to the Biden administration's support for Israel in its war on Hamas led a sit-in outside the United Center. Leaders of the group said DNC organizers denied their request to have a Palestinian American address the convention. But CNN reports that those uncommitted delegates did enter the venue for Harris' speech last night, effectively ending the sit-in. Harris touched on both the suffering in Gaza while also underscoring her support of Israel. (BEGIN VIDEO CLIP) K. HARRIS:  Let me be clear. I will always stand up for Israel's right to defend itself, and I will always ensure Israel has the ability to defend itself because the people of Israel must never again face the horror that a terrorist organization called Hamas caused on October 7. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:00",
+      "speaker": "HUNT",
+      "sentences": "All right, our panel is back, and we're joined by Marc Morial, the president and CEO of the National Urban League.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:00",
+      "speaker": "MARC MORIAL, PRESIDENT AND CEO, NATIONAL URBAN LEAGUE",
+      "sentences": "Hey, Kasie. Good to have you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:00",
+      "speaker": "HUNT",
+      "sentences": "Mark, good morning. It's wonderful to have you here.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:00",
+      "speaker": "MORIAL",
+      "sentences": "It's wonderful to be with you. Good early morning.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:00",
+      "speaker": "HUNT",
+      "sentences": "I heard you didn't go to bed, so we really appreciate it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:00",
+      "speaker": "MORIAL",
+      "sentences": "No, I could not. I was afraid I'd miss you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:00",
+      "speaker": "HUNT",
+      "sentences": "Very grateful to have you, sir.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:00",
+      "speaker": "MORIAL",
+      "sentences": "Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:00",
+      "speaker": "HUNT",
+      "sentences": "It's nice to see you again.Look, the -- let's start with this. This has obviously been a very difficult issue for the Democratic Party. It was a very difficult issue, anyway, for President Biden. It does seem to me that perhaps those uncommitted delegates coming in here and not wanting to miss Kamala Harris' speech may say everything about where this issue is going with Harris at the top of the ticket. How are Harris and Biden different on this?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:00",
+      "speaker": "MORIAL",
+      "sentences": "Well, I think she articulated the balance, and the balance is support for Israel while expressing horror at the suffering in Gaza and the reaffirmation of a solution that includes two states. And that's been longstanding American policy.And perhaps she was much more adept than President Biden may have been in stating the fundamental American policy, which I think is what many Americans want to know -- where does this end? What is the end goal? And I think that articulation, I think, was brilliantly done in her speech last night.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:00",
+      "speaker": "HUNT",
+      "sentences": "Marc, you spoke on the floor of the DNC --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:00",
+      "speaker": "MORIAL",
+      "sentences": "Um-hum.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:00",
+      "speaker": "HUNT",
+      "sentences": "-- from the stage last night. Let's play a little bit of what you had to say. I know your focus and --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:00",
+      "speaker": "MORIAL",
+      "sentences": "Um-hum.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:00",
+      "speaker": "HUNT",
+      "sentences": "-- and a lot of what you spent your time is housing. Let's watch this.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:00",
+      "speaker": "MORIAL",
+      "sentences": "Um-hum.(BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:00",
+      "speaker": "MORIAL",
+      "sentences": "Kamala Harris has a plan to build more housing, keep rent prices fair, and help more people own homes. Donald Trump, you denied Black people the American dream, and Kamala Harris is creating a future where every family -- yes, every family has a place to call home.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:00",
+      "speaker": "HUNT",
+      "sentences": "So considering you framed it that way, I'm interested to hear why you think it is that Donald Trump has made inroads with Black Americans considering how you view the housing policies that are different between the two of these --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:00",
+      "speaker": "MORIAL",
+      "sentences": "So let me state those inroads, which were reflected in some polling, they'll evaporate by Election Day. Those early polls --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:00",
+      "speaker": "HUNT",
+      "sentences": "You think they'll completely evaporate.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:00",
+      "speaker": "MORIAL",
+      "sentences": "-- they have never been accurate. Black people are hard to poll. They may not be truthful with pollsters. That -- those numbers are going to erode to some extent.There's always been eight, 10, 12, sometimes 15 percent of African Americans who voted Republican. That's nothing new. That is nothing new. Now, Obama's numbers may have gotten higher. And Biden's numbers were higher in 1990 in reaction to the four years of Donald Trump and his disparaging comments about African Americans, his non-policies, his non-diverse judicial appointments, his non- diverse cabinet, and his attacks on African American athletes. So this number has always been there, but I think it will evaporate. Now, notwithstanding that, the Harris campaign has work to do and that work is to move into communities, talk to voters, talk to disaffected voters, and to some extent, it's encouraging them to vote -- to participate and to have confidence that a president can make a difference in their lives or that government can make a difference in their lives. That's one of the challenges with many Americans. It's a disaffection with the system. Sometimes you're reading it as a disaffection with candidates but it's also a disaffection with voting per se. And I think that's the challenge in front of the Harris ticket, particularly in those communities that are going to be pivotal -- Milwaukee, Atlanta, Philadelphia, states -- cities in North Carolina.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:00",
+      "speaker": "HUNT",
+      "sentences": "Yeah.Shermichael, this has been something you've been really focused on. I'm interested for you to weigh in on this and if you have a question.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:55:00",
+      "speaker": "MORIAL",
+      "sentences": "Um-hum.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:55:00",
+      "speaker": "SINGLETON",
+      "sentences": "We know that.But when you look at the crosstabs it's the low propensity Black men under 40 where Trump appears to do well. If he can turn them out, and that is a big question -- it's a fair question. If he can turn them out, that could have an impact in a state like Pennsylvania. What are your thoughts on that?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:55:00",
+      "speaker": "MORIAL",
+      "sentences": "Well, I think it could have an impact. But, you see, a lot -- I've listened to the discussion. What people miss is the difference between 2016 and 2020.In 2016, you had two third-party candidates who ran very aggressive campaigns and picked up four to five percent of the vote. You also had depressed African American turnout in Philadelphia, Detroit, and Milwaukee. In 2020, you did have a third-party candidate and turnout was elevated. And I think sometimes people miss where the swing vote in these swing states is not only these Independent voters, it's also voters who don't consistently turn out. And so I think that the factor of the third-party candidates is very interesting. Robert Kennedy seems to be on his way out of the race.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:55:00",
+      "speaker": "HUNT",
+      "sentences": "Yeah.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:55:00",
+      "speaker": "MORIAL",
+      "sentences": "If he exists the race then you really have a binary choice that's much clearer, more like 2020 than 2016.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:55:00",
+      "speaker": "HUNT",
+      "sentences": "Very interesting. Great conversation, guys. Thanks to all of you for being here --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:55:00",
+      "speaker": "MORIAL",
+      "sentences": "Thank you.",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

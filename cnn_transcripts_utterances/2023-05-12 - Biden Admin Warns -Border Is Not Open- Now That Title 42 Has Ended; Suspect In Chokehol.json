@@ -1,0 +1,205 @@
+{
+  "date": "2023-05-12",
+  "headline": "CNN News Central",
+  "subHeadline": "Biden Admin Warns \"Border Is Not Open\" Now That Title 42 Has Ended; Suspect In Chokehold Death Surrenders, Faces Manslaughter Charge; 1 Of 2 Inmates Who Escaped Philadelphia Prison Recaptured. Aired 11-11:30a ET",
+  "utterances": [
+    {
+      "timeStamp": "11:00:00",
+      "speaker": "JOHN BERMAN, CNN ANCHOR",
+      "sentences": "First hours of the post-Title 42 era, some of what our reporters are seeing, perhaps unexpected.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:00:00",
+      "speaker": "SARA SIDNER, CNN ANCHOR",
+      "sentences": "A reversal of fortunes. Ukrainian forces are now making gains and the besieged city of Bakhmut. Ahead, the incredible new video that shows the intense fighting.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:00:00",
+      "speaker": "KATE BOLDUAN, CNN ANCHOR",
+      "sentences": "The CDC calls it a substantial public health problem. But make no mistake, it is a crisis, where researchers have found about the mental health of America's children. This is CNN News Central.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:00:00",
+      "speaker": "BERMAN",
+      "sentences": "This morning for the first time in more than three years, U.S. border officials are processing migrants without Title 42, the policy that allowed for quick almost instant expulsion that expired overnight. So over the last few days, there have been historic numbers at the border. But today, so far, it is important to note that our reporters there tell us they are seeing long but orderly lines and no real change from the last few days. Not the chaos so far that had been fear. But the challenges remain and administration officials say it could get worse.This was Brownsville Texas last hour. You can see all those buses lined up. They were being filled with migrants who had just crossed there. CNN's Rosa Flores across the state in El Paso this morning. Rosa, give us a sense of what you're seeing.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:00:00",
+      "speaker": "ROSA FLORES, CNN CORRESPONDENT",
+      "sentences": "You know, you're exactly right. We've been monitoring the situation here on the ground. And everything so far looks under control, I talked to the city of El Paso, they say that they have 150 migrants in their shelters right now. That's a very small number. They are prepared to shelter more than 1,000 individuals. But let me show you exactly what we're talking about here when it comes to the numbers. Take a look at this video that was shot yesterday. This is from our drone.You can see this is the area where I am right now. But yesterday and you can see that the crowd is a lot bigger there. According to the U.S. Border Patrol chief, a few days ago, there was up to 2,500 migrants that were in this area. And within 48 hours, about 1,500 of them were processed. Now take a look at the drone footage now. Now these are live images of what it looks like on the ground. And you can see that the lines are a lot shorter. There's fewer people on the other side of the border wall. And according to the chief yesterday afternoon, there was about 1,000 migrants waiting and you can see from that line that is fewer than 1,000 migrants. And his point was and according to Secretary Mayorkas this morning, on CNN this morning, what they're doing, what they're focusing on is processing, transporting these migrants as quickly as possible. Then you can see behind me there's a bus back there, those buses have been going in and out of this area. They load the migrants onto those buses, and they take them over to processing facilities. And John, one point that I want to make and the mayor of this city made this point, these migrants are here, but this is just the gateway, they're really going to cities and states around this country.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:00:00",
+      "speaker": "BERMAN",
+      "sentences": "You know, Rosa, I just want to make clear those pictures you just showed us because I hadn't seen that imagery before the crowds in previous days based on that drone footage, much larger than the crowds, at least so far we're seeing today on the other side of the border?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:00:00",
+      "speaker": "FLORES",
+      "sentences": "You're absolutely right. According to the U.S. Border Patrol chief there was about 2,500 people just a few days ago. And so they've been really focusing on transporting these migrants out of this area very quickly. And one of the plans that the Biden administration had in place for the lifting of Title 42 is something called decompression. And that's a really fancy word for moving migrants from an area that is at capacity like El Paso to other areas along the border to make sure that they are transported to areas where they can be processed very quickly. John?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:00:00",
+      "speaker": "BERMAN",
+      "sentences": "All right. Again, Rosa Flores in El Paso, thank you so much for terrific reporting. This is giving us a window into what's going on right now. Obviously it could change but an important perspective. Thank you, Rosa. Kate, Sarah?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:05:00",
+      "speaker": "PRISCILLA ALVAREZ, CNN WHITE HOUSE CORRESPONDENT",
+      "sentences": "Sara, what they warned about that this is going to be a challenge is coming to fruition. That's been the case this week and it's certainly the case today after that ruling from a federal judge last night in Florida, which essentially at least temporarily blocked the administration from releasing migrants without a court date.Now, the Homeland Security Secretary Alejandro Mayorkas had said that this would only apply to a fraction of people, but it was an important measure to alleviate overcrowding in facilities. So now the administration is having to contend with that lawsuit as it sets other preparations and plans in motion. But look, I spoke to a source this morning who told me litigation was to some degree baked into their planning. They anticipated that there was going to be some difficulty in putting these plans in motion because there have been lawsuits as there have been over the course of the Biden administration over border policy. So that is what they're currently contending with as they continue to manage what is happening at the border going back to those decades old protocol and more consequences, which is what the secretary underscored on CNN this morning. Take a listen. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:05:00",
+      "speaker": "ALEJANDRO MAYORKAS, HOMELAND SECURITY SECRETARY",
+      "sentences": "We've been very, very clear that there are lawful, safe and orderly pathways to seek relief in the United States. And if one arrives at our southern border, when it's going to face tougher consequences, and that is what we are going to deliver.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:05:00",
+      "speaker": "ALVAREZ",
+      "sentences": "Administration officials tell me that what is top of mind is how long a search could last and what it will look like moving forward. That is what they're looking, those are the numbers that they're looking at in the hours and days to come. But as you heard there from the Secretary, the onus is on Congress to pass immigration reform.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:05:00",
+      "speaker": "SIDNER",
+      "sentences": "Priscilla Alvarez, thank you so much for that. Kate?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:05:00",
+      "speaker": "BOLDUAN",
+      "sentences": "Thank you so much. Joining us right now is John Sandweg. He is the former acting director for Immigration and Customs Enforcement and former acting general counsel to the Department of Homeland Security. John, thanks for being here. So we were hearing from Priscilla Alvarez there as well as Rosa Flores on right along the border. And what Rosa seeing there so far, John, is smaller crowds today, at the -- on the other side of the border of people waiting to try to cross over and come in then we saw even just yesterday.Do you see that as a sign of success in these early hours? Or when do you think you'll have a good sense of whether the Biden administration and federal officials have a handle in this post-Title 42 era? JOHN SANDWEG, FORMER ACTING DIR., U.S. IMMIGRATION &amp; CUSTOMS ENFORCEMENT: Well, I think they have to be thrilled with the images we're seeing now, right? That said, I'm not terribly surprised. Remember the Biden's strategy was kind of a carrot and stick approach. We'll create these alternative pathways, the CBP One app where you can schedule an appointment. We'll open the migrant processing centers which are not yet open, but hopefully will be soon. But in exchange, if you show up unlawfully, you're going to be subject to a much harsher asylum rule that's going to make it very difficult, if not impossible for you to get asylum in the United States. They message that very hard. It seems to be successful. I think what happened is they created a fear in the migrant populations that were sitting in Mexico waiting for the end of Title 42, that they actually need to come now that if they don't come now, they'll be subjected to this harsher asylum rule. This is exactly what the administration wanted to try to lower the numbers, especially between the ports, and push people to these orderly pathway. So for the moment, I think they absolutely have to be thrilled. I think the question will be does this hold for the next few days? And at what point I think, does the American public's are wondering, how does this all end? When does this surge of people to the border really stop? And that's going to be a difficult question to answer.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:05:00",
+      "speaker": "BOLDUAN",
+      "sentences": "Absolutely. And also, on the other end of this process is an important part of this that you've been talking, I feel like you and I've been talking about this for years now, which is the backlog in immigration courts in and of themselves. The backlog is now stands, according to the government right now. And more than 2 million cases of asylum claims being put before immigration judges. And you've said -- what I've heard -- the way you've put it that kind of hit me was that until -- unless and until there are more immigration judges put to this problem to process claims, this is not going to end. Why hasn't this happened?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:10:15",
+      "speaker": "BOLDUAN",
+      "sentences": "What do you think that of the judge's ruling out of Florida that kind of I don't know if you call like a wrench in the plans of what the Biden administration says they needed to do kind of for decompression purposes of letting people out of detention facilities without necessarily having a court date yet, but though they say there's process in place, what do you think this does to this already mess -- that you -- mess of a system?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:10:15",
+      "speaker": "SANDWEG",
+      "sentences": "Yes. Kate, you know, right now for Border Patrol and the administration and DHS, CBP at large, it's about time. You're getting 10,000 people a day. We have capacity, short term capacity of about 5,000 beds with CBP, about 40 to 50,000 beds for longer term capacity at ICE. Those beds are all full. So it's about how quickly can you process these individuals. The idea there was by avoiding writing what's called an NTA, or the document you serve on them to start the court process, you can save a little bit of time and release the individuals.I don't think that is going to put too big of a wrench in the administration's plans. Yes, it cost them some more time. That means more time that is spent on a migrant, more time for potential, you know, problems that happen right, overcrowded facilities, other backlogs, that kind of form. I don't think that one's a big deal. I will tell you the one thing that I think was scaring the administration is whether the challenges have been filed last night to the new asylum rule. And if a court enjoys that role, now you're going to have some problems, because I think that's what's creating a deterrent for more people crossing the border right now. They're waiting to see how that new role plays out.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:10:15",
+      "speaker": "BOLDUAN",
+      "sentences": "Let me also ask you this, because another issue underlying the whole crisis that isn't -- that hasn't been addressed, necessarily, is the misinformation that people in South and Central America are getting about what will happen once they reach the border. A city official in El Paso, he was on the show with us yesterday. And the way he put it is what he's hearing from migrants that are arriving El Paso is that they say they have been told, once you get there, you'll get automatic citizenship. Let me play for you what he says.(BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:10:15",
+      "speaker": "BRIAN KENNEDY, EL PASO CITY REPRESENTATIVE",
+      "sentences": "In my personal opinion, I think some of this is people that are just trying to make money off the horrible conditions in South America, Central America, and they figure well, if I just tell them this, they'll pay me all their life savings to get up to the border. And I think that's something we need to do a really better job on trying to inform people of what the real story is.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:10:15",
+      "speaker": "BOLDUAN",
+      "sentences": "So federal officials, I mean, they've cited this as a real problem as well, John, how do you combat that?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:10:15",
+      "speaker": "SANDWEG",
+      "sentences": "You know, Kate, it's really hard. Everything is driven by smugglers. None of this is happening by accident. I think people need to understand that. These professional smuggling organizations who work with or for the drug cartels are controlling everything that's happening at that northern border. They're actively recruiting individuals and telling lies throughout Central America. They are the reason why there's this mass migration up here.Now the administration is trying and you hear Secretary Mayorkas' messaging, right, kind of sending a strong message. There is, you know, there is no open door at the border, right? He's talking to these groups, and he's trying to combat the smuggling message. Believe it or not, the department will spend a lot of money advertising in Latin America, trying to counter the message of the smugglers. It's hard, though. You know, to be honest with you, they have a very effective sales pitch. They're very effective at, you know, kind of spreading these false narratives. And sadly, they induce a lot of people, they exploit them every step of the way, that gouge them for every dime that they have. They'll even exploit them once they're in the U.S. and ransom more money from them. But unfortunately, they have a -- they are very effective at spreading these narratives, and it's hard to counter them.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:10:15",
+      "speaker": "BOLDUAN",
+      "sentences": "Yes. It's great to have you on, John, thank you so much.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:10:15",
+      "speaker": "SANDWEG",
+      "sentences": "Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:10:15",
+      "speaker": "BOLDUAN",
+      "sentences": "Sara?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:15:00",
+      "speaker": "BERMAN",
+      "sentences": "Sara, Penny's lawyers have said that he risked his life to protect the other passengers on the train. That is their claim. But witnesses say Neely did not harm or attack anyone. We are expecting to hear from Jordan Neely's family, very shortly. CNN's Omar Jimenez is outside the police precinct where we just saw Daniel Penny leaving. Omar, give us the latest and what we expect to see today.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:15:00",
+      "speaker": "OMAR JIMENEZ, CNN CORRESPONDENT",
+      "sentences": "Yes, so right now, Daniel Penny, he left here not too long ago in handcuffs. It was an image that many protesters and even members of the Neely family have wanted to see since this happened. And today was that actual day. Penny headed over to the courthouse. His arraignment is expected to begin any moment now momentarily this morning, so we're going to be listening for what comes out of that arraignment process.But I want you to take a listen to his lawyers who spoke briefly when he first turned himself in this morning and gave us maybe a little bit of a hint of how they plan to defend Daniel Penny. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:15:00",
+      "speaker": "THOMAS KENNIFF, ATTORNEY FOR DANIEL PENNY",
+      "sentences": "It is dealing with the situation, like I said, with the sort of integrity and honor that is characteristic of who he is, characteristic of his honorable service in the United States Marine Corps and you know, he has held them.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:15:00",
+      "speaker": "JIMENEZ",
+      "sentences": "So obviously, that's on one side of things. But I briefly mentioned the other side were protesters and what the Neely family had been calling for. They had been calling for charges. Some may even ask for ones more severe than this. But this is what the district attorney's office has come back with. For now, he's expected to face a second degree manslaughter charge. We're also hearing from the Neely's family this morning, take a listen to some of what they are saying in reaction to this.(BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:15:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "So who are we to look at someone and say, they were houseless. So they must be a bad person. They were houseless so they must have been about to attack us. They must have been about to hurt us. So we had the right to take his life because our life matters more. That's not the situation we want to live in. That's not the community we want to have.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:15:00",
+      "speaker": "JIMENEZ",
+      "sentences": "And that's the crux of the controversy here that many people feel no matter what happened in the moments leading up to the chokehold that this shouldn't have ended in death. But of course, that's part of what is going to be hammered out in court as these now judicial proceedings move forward. As we've mentioned, Penny's attorneys have said that he was trying to protect not just himself but the other people on the car, on the train car from what they believed was a threat.On the other side, people who have seen Neely's case and what his life became over years to put him in this situation. They saw someone who needed help, who needed, who said he was hungry, who said he was thirsty, who basically portrayed a situation of desperation. So that is a controversy that has played out. That is why things have been so polarized when they look at this case. But of course now that it's in court, we will have more answers very soon.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:18:38",
+      "speaker": "BOLDUAN",
+      "sentences": "Now, Philadelphia police they recapture one escaped inmate yet one other man still on the run and the woman they've now arrested connected to the jailbreak. Egypt's effort to broker a ceasefire between Islamic militants operating in Gaza and Israel has failed. A live report coming up as another round of airstrikes are launched overnight. And a big red flag from the CDC when it comes to young girls and their mental health. We have the new research for you.(COMMERCIAL BREAK)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:25:03",
+      "speaker": "BOLDUAN",
+      "sentences": "U.S. Marshals have captured an inmate who escaped to Philadelphia Correctional Facility this weekend. He escaped through a hole in a fence, a second prisoner escaped along with him. This one, this man linked it to four murders. He though is still on the run. Police say he is also armed and dangerous. CNN's Danny Freeman is following all of this for us.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:25:03",
+      "speaker": "DANNY FREEMAN, CNN CORRESPONDENT",
+      "sentences": "Kate, a lot of developments in the story since we first brought it to you earlier this week. Two prisoners escaped, two arrest had been made. But still one of those inmates is on the loose right now. But I want to tell you about the arrest that was made last night by U.S. marshals, 24-year-old Nasir Grant, he was arrested around 10Now, as I mentioned before, there was a second arrest this week actually, in this particular case, 21-year-old woman Xianni Stalling. She was also arrested and she's accused of actually helping these two inmates escape back on Sunday, but at this point, we still don't have many details as to how she may have helped these two inmates escape. I should say she faces four felonies including the crime of escaped, but at this point her defense attorney has not offered any comment. And finally we're talking about Ameen Hurst as that final inmate 18- year-old. He's the one who's still on the loose at this time, according to law enforcement. He is the one who was in jail originally facing four homicide counts. And at this point law enforcement and U.S. Marshals they're saying that he is still armed and dangerous. But the U.S. Marshal said that while it has been an exhausting week searching for these two escaped prisoners, now that one is back behind bars, they can devote all of their resources and all of their energy into finding that final escaped inmate. Kate?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:25:03",
+      "speaker": "BOLDUAN",
+      "sentences": "Danny Freeman on it for us. Thank you. John?",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

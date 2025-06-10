@@ -1,0 +1,361 @@
+{
+  "date": "2023-06-05",
+  "headline": "CNN This Morning",
+  "subHeadline": "Peter Kafka is Interviewed about Apple's Announcement; Joran van der Sloot to Transfer to U.S.; FBI Brings Document to Capitol Hill; Concertgoer Numbers Growing. Aired 8:30-9a ET",
+  "utterances": [
+    {
+      "timeStamp": "08:34:00",
+      "speaker": "TIM COOK, CEO, APPLE",
+      "sentences": "If you look back at a point in time, you know, zoom out to the future and look back, you'll wonder how you led your life without augmented reality. Just like today you wonder, how did people like me grow up without the internet.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:34:00",
+      "speaker": "POPPY HARLOW, CNN ANCHOR",
+      "sentences": "That is quite a bet, right?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:35:08",
+      "speaker": "SOLOMON",
+      "sentences": "OK. KAFKA",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:35:08",
+      "speaker": "HARLOW",
+      "sentences": "I thought this was interesting, you wrote in your piece, but this one feels different, talking about, you know, their announcements.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:35:08",
+      "speaker": "KAFKA",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:35:08",
+      "speaker": "HARLOW",
+      "sentences": "The coming headset reveal seems deflated and muddled without anyone - anything like the anticipation that accompanied earlier products.But then you go on to say, in the best case scenario, it's an early version of tech that hints at the promise to come when we get better, cheaper and lighter, because this thing's going to be like three grand we're hearing.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:35:08",
+      "speaker": "KAFKA",
+      "sentences": "That is the reported purchase price that we keep hearing about over and over. And it's not going to be cheap whatever it is. I mean Meta has a version of this thing that they've announced is going to be $500, but it won't be anywhere near as advanced. And we think what Apple is saying here is, this is the future, so you can take a very early stab at it starting wherever these things actually go on sale. But down the line is when these things are really going to be mainstream, hopefully, if you're Apple.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:35:08",
+      "speaker": "SOLOMON",
+      "sentences": "So, why do you think the anticipation or the buzz has been more muted. Is it that it's kind of clunky and bulky and, as you say, uncool looking? Is it the cost or is it that it's too early days?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:35:08",
+      "speaker": "KAFKA",
+      "sentences": "You know, we've seen there -- there are headsets out in the wild. You can buy them today. They're not enormously popular. And I think that is part of the reason that people aren't overly excited about this one, like, they've seen headsets before. They're not sure they want to own one that Apple puts out. It will have to be something amazing. And, again, you won't be able to see how amazing it is until you actually strap this thing on your head.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:35:08",
+      "speaker": "HARLOW",
+      "sentences": "But when I think about why Apple has been so successful, it's because every big launch that's taken off, whether it was the Mac or whether it was the iPhone or the iPod or the -- is it called iWatch, I don't know, I don't have one, the Apple Watch.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:35:08",
+      "speaker": "KAFKA",
+      "sentences": "You can call it an Apple Watch.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:35:08",
+      "speaker": "HARLOW",
+      "sentences": "Is because it made our lives easier. How does this make our lives easier? Is it just entertainment based? Like Tim Cook seems to be saying, you're going to need this as much as we need the internet.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:35:08",
+      "speaker": "KAFKA",
+      "sentences": "Yes, Tim - people -- everyone was trying to figure out how to sell these things. Meta has tried to say these things are for work and for collaboration, but also they're gaming. Apple doesn't seem to be playing up the idea it's a gaming devise. Again, $3,000 is a very expensive gaming device. Tim Cook had did an interview with \"GQ\" earlier this year and sort ofplayed up the idea that this is something you can work with people using.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:35:08",
+      "speaker": "HARLOW",
+      "sentences": "Right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:35:08",
+      "speaker": "KAFKA",
+      "sentences": "I think they're all sort of casting about for a use case for it, and that's pretty worrisome.If you're an Apple bull, by the way, you say everything you just said. You said, they lunched - they launch -- in the past they've taken devices that other people have made and they've made a better version of that.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:35:08",
+      "speaker": "HARLOW",
+      "sentences": "Better.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:35:08",
+      "speaker": "KAFKA",
+      "sentences": "That's the best argument for Apple.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:35:08",
+      "speaker": "SOLOMON",
+      "sentences": "I think - I think one thing that could help is understanding the real applications of it. Are we talking about when you say work, perhaps using it and then you are transported into a meeting with your colleagues in Los Angeles. I mean help me understand sort of some of the applications.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:35:08",
+      "speaker": "KAFKA",
+      "sentences": "That's the theory is you're - you strap these things on. I'm looking at a virtual version of you. Again, I keep saying Meta over and over. But Meta has been sort of proselytizing on behalf of Apple in way here saying, here is how you could use these things. The problem is, no one is using these things.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:35:08",
+      "speaker": "SOLOMON",
+      "sentences": "Right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:35:08",
+      "speaker": "HARLOW",
+      "sentences": "What's the whale in the school gym thing? Do we have video of this? OK, watch - everyone should watch this as we talk about it. This is sort of like one example of something. It's cool.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:35:08",
+      "speaker": "KAFKA",
+      "sentences": "That's -- by the way, that's not Apple. That's a company called Magically (ph).",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:35:08",
+      "speaker": "HARLOW",
+      "sentences": "Right. And so the idea is that Apple's tech would make things like for -- what these companies are creating more accessible?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:35:08",
+      "speaker": "KAFKA",
+      "sentences": "Well, this was an earlier version of a headset, which didn't really pan out. An enormous amount of money invested in it. No one used it. Still exists, by the way. But, again, lots of these things sort of still exist basically on someone's shelf.But that is the pitch, right, is that you can look at reality, I could look at you guys and I could also have an alien or a whale appear -- I don't know why I'd want that, but in theory we could do that.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:35:08",
+      "speaker": "SOLOMON",
+      "sentences": "I mean I think for now it's just nice to just look at you hear at the desk and you here at the desk.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:35:08",
+      "speaker": "KAFKA",
+      "sentences": "I much prefer in person.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:35:08",
+      "speaker": "SOLOMON",
+      "sentences": "Thank you, Peter. We'll see.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:35:08",
+      "speaker": "HARLOW",
+      "sentences": "Thank you. Nice to have you.This morning, the FBI is bringing a Biden-related internal document to Capitol Hill. Why lawmakers on the Oversight Committee want to see it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:42:55",
+      "speaker": "SOLOMON",
+      "sentences": "Welcome back.The prime suspect in the 2005 disappearance of American teenager Natalee Holloway will be transferred into U.S. custody this week. Peruvian officials say they will hand over Joran van der Sloot on Thursday. He's set to stand trial for allegedly extorting Holloway's family years after her disappearance. CNN's Jean Casarez joins us live. So, Jean, what more do we know about this transfer?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:07",
+      "speaker": "HARLOW",
+      "sentences": "But not for murder?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:07",
+      "speaker": "CASAREZ",
+      "sentences": "Not for murder. No jurisdiction in the U.S. for murder here.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:07",
+      "speaker": "HARLOW",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:07",
+      "speaker": "SOLOMON",
+      "sentences": "But for extortion.Jean Casarez, thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:07",
+      "speaker": "CASAREZ",
+      "sentences": "Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:07",
+      "speaker": "HARLOW",
+      "sentences": "The body of Branden Colvin Sr. has been recovered from that six-story residential building collapse in Davenport, Iowa. You'll remember when that happened last Sunday. Officials say they informed the family on Saturday. On the same day his son graduated from high school. Look at the juxtaposition of those two pictures there. The 18- year-old slept on the pavement near the building and refused to leave despite the risk of the falling structure. Nine survivors were rescued from the rubble. Officials say two other residents are still missing.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:07",
+      "speaker": "SOLOMON",
+      "sentences": "Well, this morning, the FBI is bringing in internal documents for House Oversight leaders to review on Capitol Hill today. Some Republicans expect this to shed light on a claim that then Vice President Biden accepted a bribe of $5 million from a foreign national in exchange for a policy outcome. The document contains allegations made by an unnamed whistleblower, which the FBI and the prosecutors could not corroborate.CNN's Sara Murray joins us now. So, Sara, why is the FBI bringing the document to Capitol Hill now?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:07",
+      "speaker": "SARA MURRAY, CNN CORRESPONDENT",
+      "sentences": "Well, look, James Comer, the House Oversight chair, had subpoenaed the FBI for this document and he has threatened to hold FBI Director Chris Wray in contempt. So, this is sort of the attempt at a compromise for the FBI to come and share this document with Comer, as well as the top Democrat on this committee.You know, it allegedly has these allegations that Joe Biden was involved in a bribery scheme when he was vice president. The White House has denied this and dismissed this as political attacks. And the FBI has urged caution in this in some of their letters to the committee, pointing out that the kind of document that they're going to show these lawmakers today shows information that comes from a confidential source, but it's information that's unverified, that's unsubstantiated. And we've learned from sources that these allegations sort of stem back to the kind of thing that Rudy Giuliani was sharing with the Justice Department back in 2020. At that time, DOJ was led by Bill Barr. This was during the Trump administration. And DOJ was pretty skeptical with these allegations. A lot of the information was coming from Ukrainian sources. And as you pointed out, when FBI and prosecutors started to review this information, they couldn't corroborate the claims. So, I think for Republicans, it's going to be sort of a heavy lift to try to prove to the American people if there's anything in this that is actually true. But, again, they want to move this process forward. They want to see this document today. And I suspect we're going to continue to hear James Comer sort of banging the drum of potential contempt because what he really wants is a copy of this document to be shared with Congress.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:07",
+      "speaker": "SOLOMON",
+      "sentences": "All right, more to come here.Sara, thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:07",
+      "speaker": "MURRAY",
+      "sentences": "Thanks.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:52:16",
+      "speaker": "SOLOMON",
+      "sentences": "You're welcome. Nothing like a little Beyonce in the morning. She is, of course, in the middle of her Renaissance Tour. And you may have noticed while scrolling through social media, or maybe just talking to friends, it does seem like everyone is attending more live concerts these days, doesn't it? From Taylor Swift, to Beyonce, to Bruce Springsteen, concertgoers flocking to music events regardless of the cost.CNN senior data reporter Harry Enten live with this morning's number. Harry, it's like the summer of live events. Good morning.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:52:16",
+      "speaker": "HARRY ENTEN, CNN SENIOR DATA REPORTER",
+      "sentences": "It's the summer of live events. It's like the spinoff of the summer of George.OK, Live Nation ticket sales in 2023 projected to be $600 million or more. That breaks the all-time record which was back last year when it was $551 million. And why are so many people going out to see concerts? Because of all these great artists who are putting on these concerts. Look at this, Bruce Springsteen, 90 this year. Taylor Swift, at last 60. Beyonce, look at this, 57. So, a lot of great artists and people are going out to see them.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:52:16",
+      "speaker": "HARLOW",
+      "sentences": "What other live events are rebounding post-Covid?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:52:16",
+      "speaker": "ENTEN",
+      "sentences": "Yes, so what other live events? Perhaps something a little bit more my speed. Major League Baseball attendance. This is the average attendance through about 880 games so far league wide. Look at this, a little bit south of 27,000 on average. That beats last year, it was closer to 25,000. It even slightly beats the 2019 by about 100 folks. So, we're really seeing people going out to see baseball as well.I've already seen my first game. How about something a little bit more local.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:52:16",
+      "speaker": "HARLOW",
+      "sentences": "Oh, my God, this is your favorite hangout spot for people who don't know.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:52:16",
+      "speaker": "ENTEN",
+      "sentences": "That's correct. And I actually asked for the numbers on this. So, New York City's Comedy Cellar turned away many because the shows sold out. Look at this. Guess how many people they turned away the first Saturday of June 2023?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:52:16",
+      "speaker": "SOLOMON",
+      "sentences": "Wow.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:52:16",
+      "speaker": "ENTEN",
+      "sentences": "A little bit more than 13,000. That beat June of 2022 where it was about 9,000. And June of 2019, when it was a little bit less than 7,000. So, a lot more people are coming out, seeing comedy.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:52:16",
+      "speaker": "HARLOW",
+      "sentences": "They turned away 13,000 people in a day?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:52:16",
+      "speaker": "ENTEN",
+      "sentences": "In a day. A single day. So, if you want to go with me, Poppy, it's a hot ticket, but I can bring you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:52:16",
+      "speaker": "HARLOW",
+      "sentences": "Do you - Mike Brobiglia (ph), me, we can just hang out at the Comedy Cellar and I'll laugh at all your jokes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:52:16",
+      "speaker": "ENTEN",
+      "sentences": "What -- yes. You're laughing at them right now, so I don't know if I need to take you out, but we'll do it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:52:16",
+      "speaker": "SOLOMON",
+      "sentences": "Harry, thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:52:16",
+      "speaker": "ENTEN",
+      "sentences": "Thanks.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:52:16",
+      "speaker": "HARLOW",
+      "sentences": "OK, wait, this is my favorite story of the morning.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:52:16",
+      "speaker": "SOLOMON",
+      "sentences": "It's a great one.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:58:59",
+      "speaker": "HARLOW",
+      "sentences": "Favorite story of the morning. A hero bus driver saving all 37 students on her bus before it went up in flames.Watch this. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:58:59",
+      "speaker": "IMUNEK WILLIAMS, HERO BUS DRIVER",
+      "sentences": "Oh, my God. This is my bus.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:58:59",
+      "speaker": "HARLOW",
+      "sentences": "Smoke and flames billowing out of that school bus. The pregnant bus driver says it happened about two hours into her normal route. This was last Wednesday. She tells CNN she smelled smoke and then she jumped into action.(BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:58:59",
+      "speaker": "IMUNEK WILLIAMS, HERO BUS DRIVER",
+      "sentences": "And my -- I felt in my heart something was going to happen. Like, it wasn't going to turn out good. So that's why I pulled over and I just told the kids, like, hey, let's get off. Grab your stuff, and let's -- let's go.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

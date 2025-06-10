@@ -1,0 +1,205 @@
+{
+  "date": "2024-10-11",
+  "headline": "CNN News Central",
+  "subHeadline": "Israeli Strikes Hit Residential Building in Beirut, Killing at Least 22; Navy: Drownings of 2 Navy SEALs Were Preventable; Tesla Stock Falls After Robotaxi Debuts. Aired 3:30-4p ET",
+  "utterances": [
+    {
+      "timeStamp": "15:30:00",
+      "speaker": "KEILAR",
+      "sentences": "This is the scene today in central Beirut, rescue workers searching for survivors in the smoldering wreckage of what was a residential building. A Lebanese security source telling CNN the structure was leveled in a deadly Israeli airstrike.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:30:00",
+      "speaker": "BORIS SANCHEZ, CNN HOST",
+      "sentences": "At least 22 people are confirmed dead in the blast, the deadliest in Lebanon in over a year. CNN's Nic Robertson is in Tel Aviv with more on this. Nic, what's the latest?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:35:00",
+      "speaker": "KEILAR",
+      "sentences": "And troops, Israeli troops, also today, Nic, firing on the headquarters of U.N. peacekeepers in southern Lebanon. What can you tell us about that?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:35:00",
+      "speaker": "ROBERTSON",
+      "sentences": "Drawing heavy criticism, not just from peacekeeping officials at the U.N., but it seems a rebuke or a caution, if you will, from Secretary of Defense Lloyd Austin to his counterpart Yoav Gallant, the defense minister here, reminding him of the importance of the safety of peacekeepers. The head of the peacekeeping mission at the U.N. said that the safety of peacekeepers was in jeopardy. The IDF said that they were targeting a threat and had warned the U.N. peacekeepers on the base to be in a place of safety.But nevertheless, two peacekeepers were injured today. This was after two were killed through IDF action yesterday. And one of those injured today receiving serious shrapnel wounds to his stomach, apparently, and has been medevacked to hospital.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:35:00",
+      "speaker": "SANCHEZ",
+      "sentences": "Nic Robertson, live for us in Tel Aviv. Nic, thank you so much.Let's get some perspective now with retired U.S. Air Force Colonel Cedric Leighton. Colonel Leighton, thank you so much for being with us. It wasn't that long ago that we were talking about strikes like this in central Beirut being uncommon, and now we're seeing them with more and more frequency. What's the significance of this latest one? COL. CEDRIC LEIGHTON, CNN MILITARY ANALYST: So what we're seeing, I think, Boris, is that the Israelis have moved their targeting into central Beirut, and the reason they've done that is because Hezbollah has moved into central Beirut. Hezbollah is normally in the southern suburbs and in places like the Dahiyeh Quarter. But since the attacks on Nasrallah and others, the IDF has basically cleaned out, if you will, that particular area of Hezbollah fighters, at least they think they've done that, and they know that Hezbollah has moved into other areas, more centrally located. And of course that puts a large portion of Beirut's population at significant risk at this point in time.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:35:00",
+      "speaker": "KEILAR",
+      "sentences": "How bad is this IDF strike on the U.N. peacekeeping base? I mean, they're facing so much criticism for this.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:35:00",
+      "speaker": "LEIGHTON",
+      "sentences": "Yes, and I think rightly so, Brianna. One of the key things about this is that when the Israelis target something, they go after that particular target, regardless of what's in the way of that target, and they believed that there was a Hezbollah weapons area near the U.N. installation, and the U.N. installation happened to be in the way, and the Israelis just went ahead and attacked anyways. It is true, as Nic mentioned, that they had warned, at least they say they had warned the U.N. peacekeeping forces to take cover, but nonetheless, two of them were still injured.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:35:00",
+      "speaker": "KEILAR",
+      "sentences": "Can we just be clear about that? How do you take cover from that kind of fire?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:35:00",
+      "speaker": "LEIGHTON",
+      "sentences": "It's very difficult. I mean, they have bunkers, the U.N. forces have bunkers, they can go in those bunkers, but those bunkers might not offer the kind of protection that you really need in a situation like this, especially with the kinds of weapons the Israelis are using.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:35:00",
+      "speaker": "SANCHEZ",
+      "sentences": "Yes, so the conflict with Hezbollah in Lebanon is one front in this sort of greater regional struggle. It's clear that Israel has plans for Iran in response to that ballistic missile attack from a week or so ago. Our reporting indicates that they've not yet made a determination, the Israelis, over how exactly to respond, but we're also learning that the U.S. and Israeli positions on how to respond have now narrowed. It seems like there's some convergence on what the response should look like. What do you think?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:40:00",
+      "speaker": "KEILAR",
+      "sentences": "Colonel Leighton, thank you so much.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:40:00",
+      "speaker": "LEIGHTON",
+      "sentences": "You bet, Brianna.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:40:00",
+      "speaker": "KEILAR",
+      "sentences": "Still ahead, a Navy investigation says the drowning deaths of two Navy SEALs off Somalia were preventable. We'll talk about what happened according to a new report next.(COMMERCIAL BREAK)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:40:00",
+      "speaker": "KEILAR",
+      "sentences": "The drownings of two Navy SEALs off the coast of Somalia this past January were preventable, that is the finding of a just released Navy investigation.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:45:00",
+      "speaker": "OREN LIEBERMANN, CNN PENTAGON CORRESPONDENT",
+      "sentences": "Boris and Brianna, the investigation found that the root cause of the drowning of these two elite members of the Navy SEALs was, quote, negative buoyancy. That is, they were unable to float and drown because they were loaded up with gear. Compounding that problem, the Navy found, was insufficient training and unclear guidelines on buoyancy.Here is a picture of the two SEALs, that is 37-year-old Chief Special Warfare Operator Christopher Chambers and Naval Special Warfare Operator First Class Nate Ingram. The two were posthumously promoted. They deployed to the waters of the Middle East with SEAL Team 3 in early December. They carried out two intercepts in December. And it was this third intercept where this incident occurred in heavy seas, in eight foot seas, near the maximum for an operation like this, especially at nighttime. First, Chambers fell in, according to the investigation, as he was trying to board. Then Ingram dove in after him trying to save him, as is essentially standard operating procedure when something happens to a Navy SEAL, according to how they operate. The entire incident, however, lasted less than a minute. The two men, even with all of their training, their physical fitness and their expertise, were unable to stay on top of the water and were unable to breathe. Within a minute, both of them were lost at sea. After a 10-day search and recovery effort, that search and recovery was called off, having searched some 48,000 square miles of ocean, and they were effectively laid to rest at sea. Now, part of the problem here was that there aren't clear Navy guidelines on buoyancy. Some Navy guidelines reference positive buoyancy, that is being able to float on top of the water. Others recommend neutral buoyancy, which is essentially hovering, neither sinking nor floating. And in the end, the investigation found that it was up to each individual team member to determine their buoyancy. On top of that, there was a lack of clear training on buoyancy and on emergency equipment to assist in floating should something like this occur. The investigation recommended that and more be improved -- Boris and Brianna.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:50:00",
+      "speaker": "KEILAR",
+      "sentences": "Look, Ma, no hands. I don't know. Elon Musk unveiled the new self-driving Tesla Robotaxi last night. Musk says that these vehicles will be on the road someday, sometime in the future. But Tesla stock actually fell sharply after the event, signaling that Wall Street is not yet impressed.CNN business writer Clare Duffy is with us on this. That's kind of interesting. Clare, investors clearly signaling their disappointment. Why?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:50:00",
+      "speaker": "CLARE DUFFY, CNN BUSINESS WRITER",
+      "sentences": "Honestly, I think what's really missing here is a sense of how much any of this is actually tethered to reality and something that we might see on the road within the next few years. It looks really cool. You have this very sci-fi looking, self-driving taxi that doesn't even need to be plugged in to be charged.And Musk said that he expects the cyber cab to be in production by 2026. But here's the thing. Elon Musk is sort of famous for making these timeline predictions that he doesn't deliver on. It was five years ago that he said he expected his fleet of Robotaxis to come within a year. And yet we're only just seeing them and seeing them in this really controlled demo environment, whereas you have competitors like Google's Waymo already driving people around major cities. I was in a Waymo in San Francisco just a few weeks ago. That also doesn't require a driver. And so I think that's the main question for investors now and why you're seeing the stock down almost 9 percent today after this event. I also think there were some questions about design choices. Why does it only have two seats? And you look at those butterfly doors. They look pretty cool, but I don't know how well they would work here in New York City traffic.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:50:00",
+      "speaker": "KEILAR",
+      "sentences": "Good point.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:50:00",
+      "speaker": "SANCHEZ",
+      "sentences": "Yes, I didn't think of that. It wasn't just a driverless taxi, Clare, what else did Musk unveil?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:50:00",
+      "speaker": "DUFFY",
+      "sentences": "We also saw this driverless Robovan that could drive up to 20 people around, although we didn't get very much detail beyond that. And then we saw Musk unveil this fleet of humanoid robots called Optimus that he said could be a personal friend and helper to their users, something like a personal R2D2 for people. He said they could do things like get your mail, walk your dog, maybe even babysit your children, and eventually that they could cost less than a car.But again, we got very few details about the production rollout for these things and when they might actually be available to consumers.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:50:00",
+      "speaker": "KEILAR",
+      "sentences": "My kids are not going to want to snuggle with that robot.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:50:00",
+      "speaker": "SANCHEZ",
+      "sentences": "That's kind of scary",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:50:00",
+      "speaker": "KEILAR",
+      "sentences": "Tempting as it is, though.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:50:00",
+      "speaker": "SANCHEZ",
+      "sentences": "I've seen too many movies to ever let any future children I may have around those robots.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:50:00",
+      "speaker": "KEILAR",
+      "sentences": "Clare, fascinating report. Thank you so much.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:50:00",
+      "speaker": "DUFFY",
+      "sentences": "Thanks.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:55:00",
+      "speaker": "SANCHEZ",
+      "sentences": "Pure unfiltered magic. That's how one viewer described the northern lights over Waterford, Connecticut last night, sun flares making the dazzling display of fuchsia, green and red hues visible farther south than the northern lights typically appear.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:55:00",
+      "speaker": "KEILAR",
+      "sentences": "But the National Weather Service warns that the severe solar storm responsible for the awesome spectacle, well here's the downside. It could disrupt communications, the power grid, satellites. That's the bummer part.But look at this. Oh, my goodness. The aurora making for quite a treat across a wide swathe of the country Thursday, even as far south as San Antonio. And if you live across the northern part of the country, you can still see them tonight. Remember, though, if the auroras don't appear visible to your naked eye, use your smartphone, just turn that thing up to the sky and you might be able to see it that way.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:55:00",
+      "speaker": "SANCHEZ",
+      "sentences": "Or Google northern lights and you can see them that way as well.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:55:00",
+      "speaker": "KEILAR",
+      "sentences": "That's --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:55:00",
+      "speaker": "SANCHEZ",
+      "sentences": "A lot of videos online. You didn't see them in D.C.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:00:00",
+      "speaker": "SANCHEZ",
+      "sentences": "Totally",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:00:00",
+      "speaker": "KEILAR",
+      "sentences": "-- visual displays like this. And these two times recently that this has happened in D.C., I really wanted to see it. I might just have to get myself to Iceland. SANCHEZ",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

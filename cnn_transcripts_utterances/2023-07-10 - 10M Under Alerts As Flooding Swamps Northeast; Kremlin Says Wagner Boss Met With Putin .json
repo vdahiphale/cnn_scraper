@@ -1,0 +1,325 @@
+{
+  "date": "2023-07-10",
+  "headline": "CNN News Central",
+  "subHeadline": "10M Under Alerts As Flooding Swamps Northeast; Kremlin Says Wagner Boss Met With Putin After Mutiny; Ex-USA Gymnastics Doc Larry Nassar Stabbed In Prison. Aired 2-2:30p ET",
+  "utterances": [
+    {
+      "timeStamp": "14:00:00",
+      "speaker": "JIM SCIUTTO, CNN ANCHOR",
+      "sentences": "Half a foot of rain in just hours causing historic flooding and tremendous damage. Comes as millions elsewhere faced threats from dangerous heat as well. We're going to have more on the extreme weather that is quickly just becoming the norm. That's just ahead.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:00:00",
+      "speaker": "BORIS SANCHEZ, CNN ANCHOR",
+      "sentences": "And from mutiny to a meeting. He's the guy who just posed a serious threat to Vladimir Putin's power and lives to tell about it. And now, Russia says the Wagner chief sat face to face with the Russian president. We're following these major developing stories and many more, all coming in right here to CNN NEWS CENTRAL.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:00:00",
+      "speaker": "SCIUTTO",
+      "sentences": "The Northeast is just getting pummeled by rain today. Over 10 million people are under flood watches and landslide alerts. The National Weather Service recorded a once-in-a-thousand-year storm.In West Point, New York, more than seven and a half inches of rain fell in just six hours. Some drivers were forced to swim out of their cars as the water rose so quickly. Others like these residents in Pennsylvania just had to watch their cars get swept away. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:00:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Wow.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:00:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Man, I don't want to watch my car just swim away.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:00:00",
+      "speaker": "SCIUTTO",
+      "sentences": "Goodness. And those waters, they come up so quickly. You got to remember that. CNN's Polo Sandoval is live in Stony Point. Polo, bring us up close to how damaging these waters were.And what we can show you here, Jim, in Stony Point, New York, which is about a 45-minute drive north of New York City, it will give folks north of here a preview of the potential -- the damaging potential of the storm. Well, I take you back to yesterday when this what is usually a babbling brook basically overflowed its banks. And all of that debris large and small was pushed up against some of the -- against some of the area homes. The good thing is for these two homes here, according to their owners. They told me really the flooding was contained to the basements so the damage was limited. But still going to be quite the cleanup process. The house behind me, an 80-year-old man that has lived there for 55 years. He said he's never seen it like this. But yet, he considers himself lucky even with a really tough cleanup task ahead. That's because just north of here, according to authorities, an Orange County woman was -- sadly lost her life. She was trying to evacuate -- swept away as she was trying to evacuate her home with her fiance and her dog. And sadly did not make it. We heard from New York Governor Kathy Hochul today saying that right now, it's all about damage assessment looking at communities like this one here in Rockland County and the neighboring ones as well to get a better idea of what it will take to make some of those repairs. But again, to be clear, this is a preview of just the damaging potential of the storm system as it continues to threaten millions of Americans north of here. For New York State, it's about cleanup today, Jim.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:00:00",
+      "speaker": "SCIUTTO",
+      "sentences": "Gosh. And the waters came so close to those houses too. Polo Sandoval, there in upstate New York, thanks so much.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:05:05",
+      "speaker": "SANCHEZ",
+      "sentences": "So, it's not just getting worse, it's not moving so the conditions in certain areas are exacerbated. And on that point, we just showed a graphic where temperatures are reaching all-time highs across the map. And there was a report in May from the World Meteorological Organization that argued that by 2028, we would see a record-high global temperature.It didn't take long. It was last week, we saw the planet's hottest day ever, four consecutive days in a row. So the record was broken on multiple days. Where's all this going to lead, Michael?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:05:05",
+      "speaker": "MANN",
+      "sentences": "Yes. So, you know, we actually do expect that to happen. As we continue to warm up the planet, what's going to happen is, over time, every summer, it gets a little bit warmer. And then you get an El Nino event, which we have right now.This building El Nino event, which is adding extra heat, extra fuel to the fire. They combine, and what you get as new record levels of heat at the planetary scale, but also these heat domes and these epic rainfall events. And so, all of that, you know, in the absence of human-caused warming from fossil fuel burning, we simply wouldn't be seeing these extreme events. And we wouldn't be seeing the steady warming of the planet. Those are conspiring. They're combining. The steady warming combines with an El Nino. Extreme weather events related to those changing Jetstream conditions. It all comes together if you will, in a perfect storm of consequences, which translates to truly devastating and deadly weather extremes that we're dealing with here right now.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:05:05",
+      "speaker": "SANCHEZ",
+      "sentences": "Michael Mann, we very much appreciate your perspective. Thanks for sharing it with us.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:05:05",
+      "speaker": "MANN",
+      "sentences": "Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:05:05",
+      "speaker": "SANCHEZ",
+      "sentences": "Jim?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:05:05",
+      "speaker": "SCIUTTO",
+      "sentences": "Listen to those warnings. They're important. Well, overseas now. A secret meeting in Moscow just days after that failed Wagner mutiny.The Kremlin now says that Vladimir Putin sat down face-to-face with a man behind that brief insurrection, Yevgeny Prigozhin, along with some of Putin's top military commanders. And during that three-hour meeting, Putin apparently offered Wagner options for future deployments. It's remarkable. CNN's Ben Wedeman. He is in the Ukrainian capital of Kyiv. Ben, it's a remarkable meeting here because you have a Russian leader who almost certainly is looking for folks who might have challenged him but at the same time here, is offering Wagner a path back in. What's going on?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:10:00",
+      "speaker": "SCIUTTO",
+      "sentences": "And we should note, you know, this bit as well as me. There are multiple militias in Russia today. Everybody seems to have their own private army. Even the national gas company does. All these power centers are highly armed and deeply unstable. Ben Wedeman, in Kyiv, thanks so much. Boris.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:10:00",
+      "speaker": "SANCHEZ",
+      "sentences": "Now, let's get the view from NATO. President Biden landed in Lithuania a short time ago. And CNN's Natasha Bertrand is there for us. So, Natasha, what is President Biden hoping to accomplish during this NATO Summit?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:10:00",
+      "speaker": "NATASHA BERTRAND, CNN NATIONAL SECURITY REPORTER",
+      "sentences": "Boris, there are a number of key items on the agenda over the next two days and all are pretty major. So, essentially, the biggest question here is whether Ukraine is going to have a path to NATO membership. And if so, how fast is that path going to be, and what is Ukraine going to have to do to actually get that membership in NATO that has sought for so long? That is one of the biggest questions going into the summit tomorrow. And it is something that President Zelenskyy has made a really big priority, something that he has said he's not doing for fun, just you know, attending the NATO Summit if he does, in fact, end up doing that. He's not just coming here for talks. He's coming here for concrete plans as to how Ukraine is going to one day become a member of NATO.Now, the allies are not unanimous on this at this point. President Biden in an interview with CNN over the weekend said that he does not believe that Ukraine should be a member of NATO right now. Of course, Zelenskyy doesn't necessarily believe that either. He has acknowledged that it is very unlikely that Ukraine is going to become a full- fledged member of NATO while it is at war with Russia because that would imply that the United States and other NATO Allies would have to go to the frontlines and fight this war for Ukraine. And so, this is something that he has realistic expectations about. But the U.S. and other allies are still not on the same page about what this is actually going to look like in terms of timing. A concrete timetable for Ukraine's potential membership here. Now, of course, there are also questions looming about the U.S. and NATO's support for Ukraine, practically the kinds of weapons that they will continue to provide and how long they can continue to produce the level of weaponry, including ammunition that we have seen them provide over the last year. Of course, now, the U.S. says that it's running low on ammunition. So, these kinds of practical things will be at play. And then, of course, another major topic will be Sweden's accession to NATO. Turkey has been blocking that. They were hoping this would be resolved by tomorrow. It doesn't look like that's going to happen, Boris.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:10:00",
+      "speaker": "SANCHEZ",
+      "sentences": "Now, there will be a one-on-one meeting we understand between Recep Erdogan and President Biden. We look forward to details from that. Natasha Bertrand, from Lithuania, thanks so much. Jim?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:10:00",
+      "speaker": "SCIUTTO",
+      "sentences": "It was a year ago that NATO welcomed Sweden or so they wanted Sweden into the Alliance. No progress there. Let's discuss the stakes of Biden's trip to NATO further.My next guest joins us from Kyiv, Ukraine. Michael Bociurkiw is a former spokesman for the Organization for Security in Europe. He's now a senior fellow at the Atlantic Council. Good to have you on, Sir. On Biden's statement on Ukraine's NATO membership, I've spoken to multiple European officials who said privately now is not the time for Ukraine to be in NATO because of the mutual defense agreement that would in effect put the Alliance at war -- in direct war with Russia right now. I mean, was Biden saying out loud what is effectively the official NATO position here?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:10:00",
+      "speaker": "MICHAEL BOCIURKIW, FORMER SPOKESMAN, ORGANIZATION FOR SECURITY IN EUROPE",
+      "sentences": "Good to be with you. Well, if there's one thing during this war, Biden has said one thing, for example, no jets for Ukraine. And then they change their decision. But on admitting Ukraine, it's very strange. Because just a couple of hours ago, Ukrainian foreign minister Dmytro Kuleba tweeted that a consensus has been reached among NATO allies to lift the so-called Membership Action Plan for Ukraine, which will basically expedite its entry into the alliance.So, we haven't heard much else from many other Alliance members, but I don't call up as a pretty straight shooter. And he wouldn't have said something like that if it wasn't happening. So, that's a positive sign for Ukraine. But yes, there were a lot of fears among Alliance members that should Ukraine become a member while it's at war, this could escalate things with Russia. And that has been a big factor that's been determining NATO leaders for a long time in this war is provoking Russia further.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:10:00",
+      "speaker": "SCIUTTO",
+      "sentences": "Yes. What will a path to membership is different from joining the Alliance today? I mean, are there any circumstances where if Ukraine were to become a member before the end of the war, Russia invaded Ukraine, the NATO -- the NATO pact says anybody is attacked, it's an attack on everyone. How could you join under those circumstances and not put the other NATO Alliance members, including the U.S. at war with Russia?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:15:06",
+      "speaker": "SCIUTTO",
+      "sentences": "Well, the other irony here, right is that Ukraine's army is arguably the best equipped and by many measures, much bigger than several armies of NATO members today. It certainly earned its keep so far.Let's talk about another issue events in Russia today. It is a dicey time in Russia, to say the least. You had an open insurrection. You still have the person who led that around at least. What is Prigozhin's status now? Can he -- can Wagner actually survive this, or is Putin in a meeting like this looking for the plotters in effect?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:15:06",
+      "speaker": "BOCIURKIW",
+      "sentences": "You know I'm going to stick to my line that I think the Kremlin is still scripting this that they're playing us. Look. Putin and Prigozhin are codependent on each other. Maybe not as much anymore in the war on Ukraine, but definitely, commercially, helping to fund Putin's war machine from the extraction of gold and diamonds in Africa, but also being an extension of Russian foreign policy. Providing security assistance to certain governments in Africa. So, I think the other thing that might be happening here is Putin kind of sending a signal through the so-called coup, that there are other people worse than me -- other con men worse than me in the form of Mr. Prigozhin, so I'm going to dangle them out a bit. But what a head- scratcher. And quite a meeting too, as well, right?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:15:06",
+      "speaker": "SCIUTTO",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:15:06",
+      "speaker": "BOCIURKIW",
+      "sentences": "More than 30 people something like three hours. But where -- we haven't seen the end of this drama play out.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:15:06",
+      "speaker": "SCIUTTO",
+      "sentences": "Can the plotter coexist with the target of the plot as a practical matter, for any length of time?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:15:06",
+      "speaker": "BOCIURKIW",
+      "sentences": "Right. Well, you know, maybe it wasn't that much of a plot. Maybe again, it was something scripted by the Kremlin to throw people off course.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:15:06",
+      "speaker": "SCIUTTO",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:15:06",
+      "speaker": "BOCIURKIW",
+      "sentences": "I think there was a lot of wishful thinking at the time, genuine wishful thinking that this could be the start of the end of Putin. You know, there are a lot of what-ifs in this.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:15:06",
+      "speaker": "SCIUTTO",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:15:06",
+      "speaker": "BOCIURKIW",
+      "sentences": "And, of course, the other thing Prigozhin did was put out the first kind of chick in Putin's armor in terms of calling this real war rather than a special military operation, that sort of thing. And also taking aim at Russian military leaders for the intense corruption for sending their kids to Western schools and beaches and that sort of thing.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:15:06",
+      "speaker": "SCIUTTO",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:15:06",
+      "speaker": "BOCIURKIW",
+      "sentences": "So, it -- what a -- what an incredible plot one that even Hollywood probably couldn't have scripted.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:15:06",
+      "speaker": "SCIUTTO",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:15:06",
+      "speaker": "BOCIURKIW",
+      "sentences": "But something the Kremlin seems to be pretty good at.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:15:06",
+      "speaker": "SCIUTTO",
+      "sentences": "He also took aim at the justification -- Putin's justification for war. Michael Bociurkiw --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:15:06",
+      "speaker": "BOCIURKIW",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:15:06",
+      "speaker": "SCIUTTO",
+      "sentences": "Thanks so much. As always.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:15:06",
+      "speaker": "BOCIURKIW",
+      "sentences": "My pleasure.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:15:06",
+      "speaker": "SCIUTTO",
+      "sentences": "Boris.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:22:26",
+      "speaker": "SANCHEZ",
+      "sentences": "One of the most prolific sexual predators in the sports world has been attacked in federal prison. An official from the Corrections Workers Union says that Larry Nassar was stabbed 10 times. The former doctor for USA Gymnastics is serving a 60-year sentence on federal child pornography charges. Civil court records show that he victimized more than 330 girls and women.CNN's Carlos Suarez is live for us with more details. So, Carlos, what happened in prison?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:22:26",
+      "speaker": "CARLOS SUAREZ, CNN CORRESPONDENT",
+      "sentences": "Well, Boris, Nassar is recovering in a hospital in Central Florida after he was assaulted and stabbed by another inmate 10 times. That according to a union president for the corrections officers just northwest of Orlando. We're told that Nassar was stabbed two times in the neck, two times in the back, and six times in the chest.Now, back in 2018 that Nassar admitted to sexually assaulting athletes while he was in Michigan State University. And while he was the USA Gymnastics doctor. Among some of the athletes that he admitted to sexually assaulting, we're talking about famous Olympians, Aly Raisman as well as Simone Biles. Now, during his sentencing trial back in again 2018, more than 150 women and girls, they all testified. They all describe how Nassar sexually assaulted them after they went to him for sports-related injuries. He assaulted them and told them that it was all a form of treatment. Now, Nassar who is essentially serving life in prison, he also pleaded guilty to child pornography charges. Boris, again, he is right now at this hour recovering in a hospital just northwest of Orlando after he had some sort of altercation with another inmate that ended with him being stabbed 10 times, Boris.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:22:26",
+      "speaker": "SANCHEZ",
+      "sentences": "Carlos Suarez, thank you so much for the update. Jim?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:22:26",
+      "speaker": "SCIUTTO",
+      "sentences": "All right, let's turn now to someone who knows that prison well. Jose \"Joe\" Rojas is the local president of the union representing the employees at the penitentiary. Joe, good to have you on here. I understand you're the person who told CNN the number of times Nassar was stabbed in this attack. Do we know who carried out this attack?JOSE \"JOE\" ROJAS, UNION PRESIDENT OF PRISON WHERE NASSAR STABBED: Right now, it's still under investigation. And it will come up probably within a day or two.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:25:08",
+      "speaker": "ROJAS",
+      "sentences": "The problem with the with -- the Bureau in whole is the staffing crisis we've been having. Like, for instance, about three weeks ago, we had an informational picket to let this -- the community know about our staffing issues. We had over 145 vacancies within the complex. 44 alone at pen two.So, that's how it can happen. When you don't have the staffing, we don't have the support from the central office -- the administration, things like this happen. When you have offices working doubles, 16 hours back to back to back three days in a row --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:25:08",
+      "speaker": "SCIUTTO",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:25:08",
+      "speaker": "ROJAS",
+      "sentences": "-- it might see the weaknesses.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:25:08",
+      "speaker": "SCIUTTO",
+      "sentences": "How about getting a weapon in like this, or is it possible someone could make their own?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:25:08",
+      "speaker": "ROJAS",
+      "sentences": "I've worked at the state and federal prisons for over 30 years. Inmates are very (INAUDIBLE) -- very intelligent. They can make weapons out of anything. So, it is not far-fetched that a metal object they can find anywhere and they're made into a homemade weapon -- a homemade knife.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:25:08",
+      "speaker": "SCIUTTO",
+      "sentences": "In your experience, what leads an inmate if that's what this turns out to be to attack another one? Does it tend to be personal grievances? I know there's something of a hierarchy in prison. Certain crimes are looked at worse than others, including attacking children. Do you have a sense of what could have been behind this particular attack?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:25:08",
+      "speaker": "ROJAS",
+      "sentences": "I don't know the motive for this attack because where he was secured was a programming unit. And usually in the programming unit, those inmates are well-behaved because they -- we give them good programs. So, it could be a number of things. Like you said it could have been based on his criminal background.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:25:08",
+      "speaker": "SCIUTTO",
+      "sentences": "Well, Joe Rojas, thanks for helping us try to understand this a bit better. We appreciate you taking the time.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:25:08",
+      "speaker": "ROJAS",
+      "sentences": "Thank you so much for the time.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:25:08",
+      "speaker": "SCIUTTO",
+      "sentences": "Boris.",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

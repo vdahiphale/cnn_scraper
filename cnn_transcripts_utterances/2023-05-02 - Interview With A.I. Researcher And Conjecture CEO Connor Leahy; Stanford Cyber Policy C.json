@@ -1,0 +1,655 @@
+{
+  "date": "2023-05-02",
+  "headline": "Amanpour",
+  "subHeadline": "Interview With A.I. Researcher And Conjecture CEO Connor Leahy; Stanford Cyber Policy Center International Policy Director And Former European Parliament Member Marietje Schaake; Interview With Cellist Yo-Yo Ma; Interview With \"Traffic\" Author Ben Smith. Aired 1-2p ET",
+  "utterances": [
+    {
+      "timeStamp": "13:00:00",
+      "speaker": "CHRISTIANE AMANPOUR, CNN CHIEF INTERNATIONAL ANCHOR",
+      "sentences": "Hello everyone, welcome to AMANPOUR. Here's what's coming up.The godfather of artificial intelligence sounds the alarm about his own dangerous creation. Is A.I. a major threat to humanity or a world saving breakthrough? I ask a senior A.I. researcher and the head of Cyber Policy at Stanford University. Also -- (BEGIN VIDEO CLIP) (MUSIC PLAYING) (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:00:00",
+      "speaker": "AMANPOUR",
+      "sentences": "-- an ode to mother nature. World renowned cellist Yo-Yo Ma tells me about his new project. The harmony between music and our naturalworld. Then -- (BEGIN VIDEO CLIP) BEN SMITH, AUTHOR, \"TRAFFIC\":  We didn't want to write things that weren't true, and we were trying to do a kind of a traditional journalism in a new form. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:00:00",
+      "speaker": "AMANPOUR",
+      "sentences": "-- Walter Isaacson asked the co-founder of \"BuzzFeed News,\" Ben Smith, where the billion-dollar race to go viral went wrong.Welcome to the program, everyone. I'm Christiane Amanpour in London. The man known as the godfather of artificial intelligence is now scared of the very technology that he helped pioneer. Geoffrey Hinton has left Google to warn the world about the dangers of A.I. Hinton's decades-long research has shaped the A.I. products and systems that we used today. And in 2018 he was a co-winner of the Touring Prize, a sort of Nobel for computer science. Now he says, he regrets his work. And here he is speaking to the BBC. (BEGIN VIDEO CLIP) DR. GEOFFREY HINTON, ARTIFICIAL INTELLIGENCE EXPERT:  The issue is, now that we've discovered it works better than we expected it a few years ago, what do we do to mitigate the long-term risks of things more intelligent than us taking control? (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:00:00",
+      "speaker": "AMANPOUR",
+      "sentences": "And Hinton joins a growing chorus of experts worrying that bad A.I. could conceivably even lead to the extinction of the human race.Today, Samsung banned its staff from using tools like ChatGPT, citing security concerns. Meanwhile, the I.T. giant, IBM, announced that it will pause on hiring for roles that A.I. could potentially fill, which puts nearly 8,000 jobs at risk in the next five years. So, how do we innovate and protect our future by ensuring the so-called moral alignment of this expanding technology? We'll discuss public policy in a moment, but first, to an expert. The CEO of the A.I. company, Conjecture, Connor Leahy, joining me now here in London. Welcome. Thank you very much indeed. Do you share Geoffrey Hinton's worries? CONNOR LEAHY, A.I. RESEARCHER AND CEO, CONJECTURE:  Absolutely.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:00:00",
+      "speaker": "AMANPOUR",
+      "sentences": "Do you believe, as he thinks, because I'm quoting him, that it is not inconceivable that it could actually lead to the extension of thehuman race?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:00:00",
+      "speaker": "LEAHY",
+      "sentences": "Not only is it not inconceivable, I think it is quite likely unfortunately. And I'm not just the only one saying this, more and morepeople, such as Hinton, who is really the godfather of this field, as you have already said, the closest we have to Einstein in the field of A.I., is now taking this risk extremely seriously and going to the public to actually speak about them.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:00:00",
+      "speaker": "AMANPOUR",
+      "sentences": "OK. So, this is very dystopian. I mean, you say, you know, not just conceivably, it could do. How? In layman's terms, what is the currentdanger and the nature of this technology that is so dangerous for us?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:00:00",
+      "speaker": "LEAHY",
+      "sentences": "Companies that are working on this technology, you know, Google, OpenAI and other ones, explicitly in their goals, for what they state theyare trying to do, is to build god-like intelligence. They are not trying to build just an auto complete system. This is explicitly their goal, explicitly stated in their founding documents.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:00:00",
+      "speaker": "AMANPOUR",
+      "sentences": "And it means what, god-like?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:00:00",
+      "speaker": "LEAHY",
+      "sentences": "It means something that outstrips humans in every form of capability. It does better than humans at every type of reasoning task,every type of physical task, at some point every type of skill-based task, more creative in every way. I believe that if we create a system of any kind that is just vastly more intelligent than the human race, I don't expect that to end well.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:00:00",
+      "speaker": "AMANPOUR",
+      "sentences": "So, what can be done now? So, some of these people, I think Geoffrey Hinton may have been one of them, big A.I. and tech giants, namesthat we recognize, signed, I think a couple of months ago, a letter, more than 1,000 or nearly 2,000 of them, to call for a pause. Do you remember that?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:00:00",
+      "speaker": "LEAHY",
+      "sentences": "Yes",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:05:00",
+      "speaker": "LEAHY",
+      "sentences": "So, the point of that letter was to call for a moratorium, at for least six months, I personally push for longer, on the development oflarger and more powerful A.I. systems that have been built so far. So, I think it's quite important to explain quickly that the difference between A.I. systems and software system. A traditional software system is you write code. So, you write code, a programmer writes code which solves a problem. You have a problem, you wanted to do something and you write the code to make it do that. A.I. is very different. A.I.s are not really written. They are more like grown. You have a sample of data of what you wanted to accomplish. You don't know how to solve the problem, you just have a description like or samples of the problem, and then you use huge supercomputers to crunch these numbers, to kind of like organically almost grow a program that solves these programs. And importantly, we have no idea how these programs work internally. They are complete black boxes. We don't understand at all how their internals work. This is an unsolved scientific problem and we do not know how to control these things.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:05:00",
+      "speaker": "AMANPOUR",
+      "sentences": "OK. So, this is the bit that I don't understand. Because human beings are making the stuff, right, the hardware, the bits. So, how do younot know? This is the bit that I find very difficult to comprehend. How do you not know, and therefore, how are you not able to, you know, control it?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:05:00",
+      "speaker": "LEAHY",
+      "sentences": "This is a great question. And so, we could take examples of synthetic evolution and biology. So, in biology, sometimes you would like abacterium that produces better milk, for example, right? We don't really know how all the genes work in the bacterium, but we could select for good milk bacteria. You know, we can have -- we can make -- try different bacteria and keep the ones who make really good milk. And then, we breed those and then, we get some more and so on and so on. It's quite similar to this. It's not exactly like this. But basically, instead of us writing a program, we just try an incredible number of programs and we search for the ones who are -- that are the best, that are the best programs. But the way these programs are written is not in human language, it's not in code. It's in what's called neural weights, which is you can kind of imagine like a -- some massive list of numbers, like billions of numbers. Now, like billions of knobs on a box, and you have a big supercomputer that twiddles all the knobs, you know, billions and billions and billions of times, really, really fast. And then, eventually, finds some setting up the knobs that works. But what do those knobs mean? It's unclear.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:05:00",
+      "speaker": "AMANPOUR",
+      "sentences": "Can you, for those who are not critics of this, give an idea of how it can be used to the betterment of humanity? Can A.I. solve worldpeace? Can it solve the, you know, war in Russia? Can it solve -- you know, between Israel and the Palestinians?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:05:00",
+      "speaker": "LEAHY",
+      "sentences": "Well, at this point, definitely not. But I do think it's very important to be clear like what makes humanity great to a large degree isour intelligence, you know? The reason we are not chimps is we have intelligence. We developed all these wonderful technology around us. We have language. We have culture. You know, we developed societies and art and all these beautiful things. These are all wonderful things. I love intelligence. You know, I love being human. I love all my human friends. But -- and A.I. can help us with this, of course. We're seeing now, you know, a revolution, you know, tools that allow us to automate simple tasks or complex tasks, it also generates new forms of art or media that allow us to, you know, translate text much better than any previous method allowed us to. You're really like starting to break down the barriers between languages to a pretty surprising degree often. So, you know, can intelligence, at some point, solve these problems you've described? Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:05:00",
+      "speaker": "AMANPOUR",
+      "sentences": "And global hunger?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:05:00",
+      "speaker": "LEAHY",
+      "sentences": "I mean, yes. I mean, probably. I don't know, obviously. Definitely not current systems. But, you know, if we have a system which is superiorto humans in every conceivable facet, then I expect it to be capable of solving problems that we humans currently can't solve.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:05:00",
+      "speaker": "AMANPOUR",
+      "sentences": "Currently, what is its main positive? I mean, we hear the word efficiency, which to many means replacing humans, as we just saw, IBMmight, with whatever A.I. is.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:10:00",
+      "speaker": "AMANPOUR",
+      "sentences": "In some of the reading I've done, it appears that what's kind of scary is that the amount resources put into the capability of this A.I. faroutstrips -- and the graph is getting wider -- the resources put into the safety aspect of it, what they call the moral alignment to make sure it's not bad and destructive. Can you see that continuing like that?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:10:00",
+      "speaker": "LEAHY",
+      "sentences": "It seems completely unsustainable to me. Billions of dollars, and you know, thousands, tens of thousands of our brightest engineers andscientists are working day in and day out to create, you know, every war powerful systems. Well, the number of people who work full-time on like the alignment problem is probably less than 200 people, if I had to guess.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:10:00",
+      "speaker": "AMANPOUR",
+      "sentences": "The alignment means making it safe, the moral alignment?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:10:00",
+      "speaker": "LEAHY",
+      "sentences": "Yes. Like the controlling a very, very powerful engines (ph). So, the A.I. safety field in general, which also includes other concerns, is abit larger, not very much larger, but it is a bit larger. But the A.I. alignment field, the question of if we have superhuman intelligence, if we have superintelligence, if we have god-like A.I., how do we make that go well is a very, very important -- and very importantly, this is a scientific problem. A scientific problem, an engineering problem that we have to understand. And also, a political problem to a large degree. But the number of people working on this and the amount of funding accessible to them is extraordinarily small.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:10:00",
+      "speaker": "AMANPOUR",
+      "sentences": "Can you put the genie back into the box or how do you regulate? I know you are concerned about regulation. And what does your company do onthis?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:10:00",
+      "speaker": "LEAHY",
+      "sentences": "This is a great question. So, my feeling on regulations here, in general, is -- you ask a good question, can you put the genie back in thebottle? And honestly, the truth is, I don't know. I don't know. I hope you can. I think this is going to be necessary to some degree. I think if we continue at this pace, and we just continue to let the bottle, you know, have smoke billowing out of the bottle, this is not going to end well. What I think is the first step I would advocate for is that I think the public deserves to know what is going on. I think this is still a topic that is -- people have been talking about these things for years. You know, like people that are the heads of these labs have publicly stated that they think there are extinction risks from these things, some of them as far back as 2011 is. These are these are old discussions that the public is not informed about. I think that -- you know, I think that parliament and Congress in the U.S. should call upon these labs to testify under oath and actually state what is going on, how risky do you think these things actually are and what can we do about it? I think this is the first step towards any kind of sensible regulation. And then, we also have to talk about, how do we put the genie back in the bottle? How do we progress safely? I think there are ways to do this.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:10:00",
+      "speaker": "AMANPOUR",
+      "sentences": "These is this model -- and I just want to know also what your company is doing -- you know, the CERN model, the biggest particle physicslab in the world operates not necessarily on a profit module, but it's intergovernmental to do their experiments and research in sort of an island, not in the public until they have developed the right things.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:10:00",
+      "speaker": "LEAHY",
+      "sentences": "I would absolutely love this. I think this would be fantastic. I would love if governments, especially intergovernmental bodies, could get -- come together and control A.I. and AGI research in particular. I think there's many small applications of A.I. which do not pose significant risks. But the type of superintelligence research, which is exactly what these large companies currently are doing, like -- let me be very frank here, there's currently more regulation on selling a sandwich to the public than there is to building potentially god-like intelligence by private companies. There is no regulatory oversight, there is -- there are no audits, there are no licensing processes, there is nothing. Anyone can just grab the billion dollars of easy money, big supercomputer, and start doing, you know, cutting-edge work on this and release it on the internet and no one can stop them.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:10:00",
+      "speaker": "AMANPOUR",
+      "sentences": "Why did that six-month call for the six-month pause by the big giants of this, why did it go nowhere? What happened?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:10:00",
+      "speaker": "LEAHY",
+      "sentences": "That's a good question. I would like to ask this question generally to the regulators and the wider people in the world. I think a lot ofpeople are just not informed. So, there's a very funny dynamic that happens very often when we talk to other people in this field. People suspect that, oh, we can stop this. There's nothing we can do. People don't care. But I think people do care. This is something that affects all of us. This not something that a few, you know, tech people, you know, like the people at the head of this company, or even me, should be able to decide upon. This is something that affects all of us. This is something that affects all governments, all people. And this is not something far away. You know, even, you know, people -- Geoffrey Hinton himself has said that he used to think this was decades away and he no longer thinks this. This is something that will probably affect you and me and definitely our children.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:15:00",
+      "speaker": "MARIETJE SCHAAKE, INTERNATIONAL POLICY DIRECTOR, STANFORD CYBER POLICY CENTER AND FORMER EUROPEAN PARLIAMENT MEMBER",
+      "sentences": "Right. So, I think whatwe're seeing is this race between companies that are really looking more at their competitors for how quickly they can turn out products and updates and really release very under researched A.I. applications into society just like that. And I think they've -- the companies, Microsoft, Google, are losing track of the real issue here, which is the societal risk that we need to focus on. And the fact that these companies have so much power and agency to experiment in real-time with all the risk that the experts are pointing to is unacceptable. And so, it is important that democratic lawmakers step up, both in terms of which laws already apply. I don't agree with the notion that it is entirely a lawless space. For example, discrimination is illegal. And so, when an A.I. application discriminates, that is still illegal. But the question is, will we find out? Can we look in the inner workings of the apps that companies build to see whether we have been mistreated? And part of that is known, that there are systemic biases built into the way that data sets are formed and the way in which products are built on top of those data sets discriminating against black people, for example. But part of it we may never know, because all of this powerful technology, all the insights into it are in the hands of private companies. And that, in and of itself, are is a risk to the rule of law.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:15:00",
+      "speaker": "AMANPOUR",
+      "sentences": "OK. OK. So, let me play this from the Google -- sorry, Apple co- founder, Steve Wozniak, who spoke on CNN this morning. You say private companies, he's one of the co-founders. He is talking out about this. I'mjust going to play this little bit. (BEGIN VIDEO CLIP) STEVE WOZNIAK, CO-FOUNDER, APPLE:  Look at how many bad people out there just hitting us with spam and trying to get our passwords and take over our accounts and mess up our lives and -- you know, now, A.I. is another more powerful tool and it's going to be used by those people, you know, for basically really evil purposes. And I hate to see technology being used that way. It shouldn't be. And some -- probably some types of regulation are needed. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:15:00",
+      "speaker": "AMANPOUR",
+      "sentences": "So, it really is interesting that the actual developers of all of this are the ones sounding the largest and the loudest alarm. So, isthere anything underway right now by countries, intergovernmental or individual, like the E.U.? Is anything happening to regulate right now?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:15:00",
+      "speaker": "SCHAAKE",
+      "sentences": "Absolutely. The E.U. is actually in the final stages of concluding and A.I. act, a law, that applies to A.I. applications the waythey are used, for example, in screening people's CVs when they apply for a job or when they apply for college, but also, when there might be fraud detection through A.I. systems. Very complicated and consequential applications where the E.U. says there is a risk attached to how A.I. can make decisions about one's liberties, one's rights, one's access to information or education or employment. And in that context, there needs to be mitigating measures in place depending on the level of risk. And so, I think the question is, what will the final A.I. act look like? It's the final stages of negotiation, some last-minute changes, not in the least because of all of these generated A.I. developments that happened since the process of this law started have taken place. So, the E.U. is definitely leading when it comes to developing laws specific to A.I.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:15:00",
+      "speaker": "AMANPOUR",
+      "sentences": "So, you are now head of the Cyber Policy Unit at Stanford University. What is the United States doing, which frankly is the leader inall of this tech innovation?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:20:00",
+      "speaker": "AMANPOUR",
+      "sentences": "I mean, it is extraordinary. And as you say it just sounds absurd that serious people, like yourself, these tech people, can say --can talk about the end of the human race, it really -- it's concentrates the mind. In the meantime, the threat to democracy, you've seen the deepfake A.I. generated or A.I. generated Republican ad that was launched to -- you know, in response to Joe Biden's presidential, you know, reelection campaign. You probably may have come across some of these things that have been commissioned apparently by the president of Venezuela, or at least his people. There were some deepfake accounts trying to confuse everyone with fake anchors, fake news about how wonderful Venezuela is, how great the economy. I mean, everything that it's not right now in terms of infrastructure and political dysfunction. YouTube then took them down. And the company in question then said that they would ban people using their A.I. for that kind of behavior. Is that enough, self-regulation?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:20:00",
+      "speaker": "SCHAAKE",
+      "sentences": "Unfortunately, it's not because there are no many, many companies that are offering synthetic media options. So, ways in which people canjust start creating things at home. Many of the viewers have probably experimented with creating images or creating text. All the concerns we've heard about ChatGPT making people's homework or academic papers, or writing code. And so, it's increasingly easy to generate synthetic media and the quality will become better and better. And, indeed it will erode trust, it can amplify and make it much easier to generate a lot of disinformation at a moment where we really don't need more undermining of trust or confusion in our democratic societies. So, I think that that is definitely a source of concern. And we heard people talking about, oh, we must be careful that bad actors don't get their hands on these technologies. But the point is, of course, that it's a very political question, what is good? What is bad? What is morally just? And those are political questions that are now all being answered by companies. And I take issue with the notion of calling it a god-like capability, because we shouldn't forget, these are not effects that fall from the heavens above. These are effects that are sought after, designed, improved, tested by people over and over again, day in and day out, and I think it's quite concerning the lot of the people that have invested in this technology, that have researched this technology have actually pushed the frontier to come to the point of where we are now only to suddenly realize, my goodness, what a risk it is, too so many parts, including democracy. So, it is definitely concerning. And I wish I had a good solution to make sure that people could detect synthetic media, but it will be incredibly difficult for people to discern authentic from computer generated.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:25:00",
+      "speaker": "AMANPOUR",
+      "sentences": "That is beautiful in sound and vision. And Yo-Yo Ma joins me now from Chicago. Welcome to our program. Welcome back, Yo-Yo Ma.YO-YO MA, CELLIST:  Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:25:00",
+      "speaker": "AMANPOUR",
+      "sentences": "I just wonder, before we talk about your antidote to this craziness that we've just been discussing, what do you think? Does it comeacross your desk as well, the threat of A.I.?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:25:00",
+      "speaker": "MA",
+      "sentences": "Well, I was fascinated listening to a little bit of your last conversation because your last interview we talked about the erosion oftrust, which makes me think about what it is that we, as humans, what our purpose is and -- from looking at nature or talking about A.I. or music, and all the technical means that we have to achieve something in music, we talk about -- music starts to happen when we transcend technique. And right now, we're talking about the technique of A.I. And -- but we're -- what we are not talking about is what is our common human nature --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:25:00",
+      "speaker": "AMANPOUR",
+      "sentences": "Right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:25:00",
+      "speaker": "MA",
+      "sentences": "-- that -- and purpose. And so, in music, again, another value that I come -- that comes to me from music is the idea that you're working towardssomething that's bigger than yourself.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:25:00",
+      "speaker": "AMANPOUR",
+      "sentences": "And that is the title. And --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:25:00",
+      "speaker": "MA",
+      "sentences": "So, right now, we're talking about --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:25:00",
+      "speaker": "AMANPOUR",
+      "sentences": "Yes. Sorry. That's your, project isn't it?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:25:00",
+      "speaker": "MA",
+      "sentences": "Yes. Go ahead.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:25:00",
+      "speaker": "AMANPOUR",
+      "sentences": "Our Common Project -- Our Common Nature project, rather. And you have been performing in these amazing landscapes. I mean, the Grand Canyonand Smoky Mountains, as I've said, and elsewhere. So, what motivates you? What made you think of going out and doing that there now?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:25:00",
+      "speaker": "MA",
+      "sentences": "Well, Christiane, I have to admit, I'm a city boy. I'm an urban dweller. I lived in, Paris, New York, Boston, you know, and this is -- andlately, I have realized that the time that I spent in nature is what brings me back to something much bigger than myself. And I'm going to ask you a question, it brings me to wonder. So, here's a question for you. Who said this? A shaman, a scientist or an artist? Nature has the greatest imagination, but she guards her secrets jealously. Who said that?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:25:00",
+      "speaker": "AMANPOUR",
+      "sentences": "OK. I'm going to say it was a scientist.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:25:00",
+      "speaker": "MA",
+      "sentences": "You are so right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:25:00",
+      "speaker": "AMANPOUR",
+      "sentences": "Quizzed by Yo-Yo Ma.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:25:00",
+      "speaker": "MA",
+      "sentences": "A plus.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:25:00",
+      "speaker": "AMANPOUR",
+      "sentences": "OK. So, what is your message?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:25:00",
+      "speaker": "MA",
+      "sentences": "Richard Feynman.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:25:00",
+      "speaker": "AMANPOUR",
+      "sentences": "Yes. Go ahead.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:25:00",
+      "speaker": "MA",
+      "sentences": "Well, Richard Feynman is the physicist that said that.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:25:00",
+      "speaker": "AMANPOUR",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:30:00",
+      "speaker": "AMANPOUR",
+      "sentences": "So --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:30:00",
+      "speaker": "MA",
+      "sentences": "If we find ourselves as part of nature, then we start to care for it the way that we try to care for ourselves.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:30:00",
+      "speaker": "AMANPOUR",
+      "sentences": "So, let's give another beautiful example. We have cut some of your performance in Kentucky, which was just this past weekend. So, let'ssee you there at the Mammoth Cave National Park. (BEGIN VIDEO CLIP) (MUSIC PLAYING) (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:30:00",
+      "speaker": "AMANPOUR",
+      "sentences": "I mean, it's extraordinary. I mean, we're looking at this incredible picture. It's all dark and you got the lights over the music andwe can see the audience behind. What -- you have said that this is not transactional for you. You're making relationships. You're not going to end these relationships, you're going to pursue this and maybe go on to other places, Antarctica or wherever. But what are you getting from the people who you encounter in these outdoor natural environments?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:30:00",
+      "speaker": "MA",
+      "sentences": "Well, first of all, community building. I think everybody that we talked to, Teddy Abrams, the conductor of Louisville Orchestra, you know,Devon Hines, the great singer, and Zach Viniker (ph), the staging director, everybody, to the park rangers, to the citizens around, to the guides said, oh, my, gosh you must do this for 1,500 people standing around with new performances, you need to tell the story of those caves, millions of years old, 5,000 years of history with people from natives, indigenous people, to what its story is written in -- right in there, but it takes a musical narrative to bring it into the heart and minds to the people who are listening. The war of 1812, all the ammunition, Jefferson said, would be available from the salt peter dug out from that cave. It was the second largest visitor site in the United States in 1800s after Niagara Falls.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:30:00",
+      "speaker": "AMANPOUR",
+      "sentences": "Wow.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:30:00",
+      "speaker": "MA",
+      "sentences": "At 400 miles of caves. And so, the descendants of both the owners of the land and of slaves as well as seven generations of slaves are theguides who are friends and leading thousands of people who go into the caves every month, and it tells a story of our country's history. But much more so, it goes way beyond. So, that's one way concretely using culture to show and to make us feel what a country's history is, but in relationship to our planet. And I think, you know, to have that in concrete form, I think changes lives and gives us a different perspective.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:35:00",
+      "speaker": "MA",
+      "sentences": "I think I am just, first of all, trying to explore what I am interested in. And I think at my age, I think I'm very much interested inmeaning and purpose. And I think, you know, if we go back to the founding of nations, which by the, way isn't a human invention, we need to examine, what our purpose and what is meaning and what is our relationship to each other as well as to the world around us?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:35:00",
+      "speaker": "AMANPOUR",
+      "sentences": "Amazing.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:35:00",
+      "speaker": "MA",
+      "sentences": "If we can find that, then we can solve the problems of A.I. and other things. But it's through building trust, searching for truth, and makingsure that what we discover is for the service of us. Very much like the CERN model that you talked about --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:35:00",
+      "speaker": "AMANPOUR",
+      "sentences": "Yes. OK.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:35:00",
+      "speaker": "MA",
+      "sentences": "-- earlier on.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:35:00",
+      "speaker": "AMANPOUR",
+      "sentences": "Amazing. Really, thank you so much, Yo-Yo Ma.Now, the social media news revolution appears to be coming to an end. BuzzFeed News, one of the first to harness social media's influence is shutting down. While Vice Media are also reporting -- reportedly for bankruptcy. Ben Smith was the founding editor-in-chief of BuzzFeed News, and he explores this crisis in his new book, and he's joining Walter Isaacson to discuss what the past decade of digital news has shown us. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:35:00",
+      "speaker": "WALTER ISAACSON, CNN HOST",
+      "sentences": "Thank you, Christiane. And, Ben Smith, welcome to the show.BEN SMITH, AUTHOR, \"TRAFFIC\":  Thanks so much for having me.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:35:00",
+      "speaker": "ISAACSON",
+      "sentences": "So, your great book, \"Traffic,\" coming out this week is all about BuzzFeed, Gawker, that era of the internet where everybody waschasing traffic. It kind of feels like in the past few months that era may be ending, that BuzzFeed News, for example, which you were part of, has closed down. Tell me, is this the end of an era and what do you think about what's happening now?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:35:00",
+      "speaker": "SMITH",
+      "sentences": "Yes. I mean, I think this era that was defined by social media in the 2010s, which is really what the book is about, you know, it felt -- Iwould say, you know, when Joe Biden got elected, in a way, to me, that was a sign that people were tired of all the drama and the conflict that was, to me, defining that era. But I do think in the last -- really the last few weeks it has felt really, like, OK this is drawing to a close and it's time to figure out what is next.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:35:00",
+      "speaker": "ISAACSON",
+      "sentences": "You helped found BuzzFeed News, the news division. What happened? Why did BuzzFeed News close?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:35:00",
+      "speaker": "SMITH",
+      "sentences": "I mean, you know, there are a lot of reasons. And it's something I'm really heartsick about. The reason was that, you know, our goal was tobuild kind of a new news channel for the social web. We imagine that these new platforms like Facebook and Twitter, they were the new cable. And in the way that CNN had built itself on this new pipe called cable, we would that on these social media platforms. These platforms, I don't think are proving enduring the way cable did. The whole era is changing and ending and people -- consumers are moving away from them. And so, I think the biggest -- you know, the biggest problem was just that we were building for an age that never really arrived or that came and went. But we also never -- you know, there were -- there was -- media companies imagine that they would be the ones who made money off of this, ultimately, Facebook and Twitter. You know, Facebook in particular, you know, was the only company that got really rich off Facebook.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:35:00",
+      "speaker": "ISAACSON",
+      "sentences": "Well, you talk in your book about Jonah Peretti, who you worked with, a wonderful guy who starts BuzzFeed. His rivalry with Nick Denton,who starts Gawker, tell me about the two of them and their personalities seem so different when you read the book.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:35:00",
+      "speaker": "SMITH",
+      "sentences": "Yes. You know, so when I went back to try to figure out like what's the origin moment of this whole era, it did seem to me that it was in thisdowntown media scene in Manhattan in the early 2000s. And with these -- among others, these two guys, one of whom had this very basically optimistic positive view of a kind of internet that would, you know, ultimately produce Barack Obama, among other things.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:35:00",
+      "speaker": "ISAACSON",
+      "sentences": "And that's Jonah Peretti?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:35:00",
+      "speaker": "SMITH",
+      "sentences": "And that's Jonah Peretti who started BuzzFeed. And the idea was, well, you know what, the kinds of things people are going to share onFacebook are ultimately would be more positive, more constructive than the old media. And this -- and Nick Denton, his rival, who's founded Gawker, whose basic premise was this new internet journalism is going to allow people to express the things they wouldn't express before, not the kind of polite old truisms of old media, but the kind of real things that journalist would say to each other in bars, and by the way, the things that people would be too embarrassed to buy at the newsstand but could -- but really the kind of like (INAUDIBLE) and the gossip and the pornography that they really wanted.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:35:00",
+      "speaker": "ISAACSON",
+      "sentences": "What was Jonah's insight about going viral? Because that seems to be the core insight that drives this decade?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:40:00",
+      "speaker": "ISAACSON",
+      "sentences": "But wait. Didn't really turn out to be neutral or did it add just into, as Steve Bannon says in your book, more enragement, moreengagement?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:40:00",
+      "speaker": "SMITH",
+      "sentences": "Yes. Well, it edged in a lot of different ways, and I think it began actually with a lot of very sweet, harmless stuff mostly. And by themid-2010s, partly because of the systems, the platforms, particularly Facebook and Twitter, have themselves set up, and the rules of the game as they had written them. The -- what was most successful was the most, yes, \"engaging thing.\" And by engaging, it tended to mean, I say something unbelievably insulting to you, you replied it by telling me to kill myself. And then, we have a 15, you know, comment exchange, and the platform, says, fabulous, these people are engaged.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:40:00",
+      "speaker": "ISAACSON",
+      "sentences": "Is that inevitable that the algorithms you talk about in social media had to inflame us and enrage us and engage us or could the algorithmshad been written in a way that Jonah Peretti would have wanted, which is to connect us and make us feel better about ourselves?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:40:00",
+      "speaker": "SMITH",
+      "sentences": "I don't think these were inevitable. I think there were technical choices. But they also certainly -- you know, elements of human nature arenot avoidable. And I think the -- you know, and I do think that some of us -- some of Jonah, but I think me, like a lot of people in the early days of the internet imagined, you know, that people are basically better than they are, that people would never go out and publicly say the sorts of things that you see every second on the internet.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:40:00",
+      "speaker": "ISAACSON",
+      "sentences": "The relationship between BuzzFeed, BuzzFeed News, and Facebook, and Jonah, Mark -- Jonah Peretti and Mark Zuckerberg, seem to drive thisbook. Tell me about how Facebook's decision affected the decade?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:40:00",
+      "speaker": "SMITH",
+      "sentences": "Yes. I mean, Facebook's, you know, engineers were making -- were trying to figure out, how do we get people to use our platform and click onads on our platform and come to something called newsfeed, that's all these mixed-up interesting stuffs that, you know, baby pictures and hard news stories and everything and funny memes? And for a while that felt kind of delightful to consumers. And as it started to bleed into very, very controversial difficult politics, Facebook got freaked out about it, Facebook started taking tons of criticism from people like you and me about, you know, what the hell is happening on this platform? And started to try to figure out, you know, how can we, you know, keep our business, keep it really sticky, but -- and -- but engage people in things that don't make them feel horrible about themselves, and they just made -- and they made a series of -- I mean, they would now say, also, mistakes in how they run about this.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:40:00",
+      "speaker": "ISAACSON",
+      "sentences": "Like what? What was a big mistake, you think?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:40:00",
+      "speaker": "SMITH",
+      "sentences": "The most -- I mean, the biggest was shifting after Donald Trump was elected and they felt that their platform was -- had been poisoned bypolitics. They said, you know what, people are engaging in ways that are not meaningful to them, that are sort of ephemeral and they feel bad about, and we're going to switch to a technical measure called meaningful social interaction that is about -- you know, about signs, like writing a comment that mean you really care about this thing that you saw. And really, what it did was inflame the absolute worst and most divisive stuff. And there's an e-mail in there from 2018 that Jonah had sent to -- that Jonah Peretti, the founder of BuzzFeed, send to a senior person at Facebook saying, hey, I don't know if you guys see what you're doing here, but we are finding that the things that spread most on Facebook are sort of inside jokes about race in particular that escape that inside. You know, the post in particular was a post that was like, you know, things white people like to do. That was like a funny joke among friends that if it spread widely enough became -- people interpreted as insulting and offensive. And Facebook was seeing people being insulted, being offended, and saying, wow, this is so meaningful. This is great engagement. Let's show it to more people. And was amplifying, in particular, the most racially divisive content they could find",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:40:00",
+      "speaker": "ISAACSON",
+      "sentences": "You know, you look at Jonah Peretti and the BuzzFeed crowd and Kenny Lerer and yourself, it was generally trying to find a way that ourcountry could be better, it was sort of a Barack Obama hope moment. And yet, it ends up producing, not only a populism of the far-left and far- right, but a Donald Trump. How did that happen?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:45:00",
+      "speaker": "ISAACSON",
+      "sentences": "You talk about Andrew Breitbart, and in your book, there's a wonderful chapter on Matt Drudge. And in some ways, he's the godfather ofall of that because he is just aggregating little things that people can click on but doing it with a political slant. And I remember, and you certainly talk about it, a seminal moment in internet history. When I was at \"Time\" magazine, \"Newsweek\" was beating us on the story of Monica Lewandowski, but nobody was publishing it yet because we hadn't pinned it down. And after \"Newsweek\" doesn't publish it one Saturday night, Drudge publishes is on a Sunday, and it just changes everything. There are no longer gatekeepers in the news business. Tell me about how that affected all this?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:45:00",
+      "speaker": "SMITH",
+      "sentences": "Yes. I mean, I think that the early beginnings of this were this assault on the gatekeepers and who -- and certainly in the case of \"Gawker\"and I think in the way that I saw my work at \"BuzzFeed.\" And remember, this was soon off the Iraq war. And I think the gatekeepers were seen as sclerotic (ph) and corrupt and having -- you know, having really profoundly messed up the most important story of that generation. And so, there was this real kind of positive energy around, we can't -- you know, we can't -- we got to build a new media that is more transparent, that's open to outside voices, that's going to listen to the people who say there are weapons of mass discussion, even if they're not -- they don't have the rank in the White House. And I think that was actually feeding a lot of that energy. I mean, I think, if you look back now, you say, wow, we really did a number on these institutions, and they're in terrible shape and the project now is, we've got to, you know, buttress the remaining ones and build new ones.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:45:00",
+      "speaker": "ISAACSON",
+      "sentences": "Do you actually feel that, that maybe this whole thing did help undermine our institutions and you are kind of sorry for that?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:45:00",
+      "speaker": "SMITH",
+      "sentences": "Yes, I do. I mean, I think that the institutions -- I mean, it's complicated, right? I mean, the pendulum swings. These institutions hadearned their undermining. I think that, you know, the anger at the mainstream media after the Iraq war was totally justified. And I think it was very healthy for them to face a challenge. That said, you know, 15 years later, the damage -- and I don't think this is about -- what a few blogs attack on media particularly, right, like all institutions in society have been really shaken and eroded by a number of different factors. But I do think that if you think about where we are now, the project is about building institutions, it's about, you know, trying to buttress and strengthen the existing ones that came under this incredibly fierce assault, in part from social media, and in a way that was kind of wraparound social media.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:45:00",
+      "speaker": "ISAACSON",
+      "sentences": "So, one of the most self-reflective chapters in the book is about this deal, dossier. And you've been sort of a minor character throughthe book. I love the way you sort of handle your role. But suddenly, you are the central player, and you publish this dossier that tries to connect, not only Trump campaign to Russia, but has all sorts of salacious things, and it turns out not to be fully vetted or fully true, other journalist hadn't published it. BuzzFeed News does it. Tell me in retrospect what you feel whether you did not right or not.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:45:00",
+      "speaker": "SMITH",
+      "sentences": "You know, in retrospect, I do, as I wrote, think that we should have published it. And I don't think it was -- I think that the specificsmatter these stories. I do think that probably the reason that we publish it rather than somebody else is that we did have this instinct and this tendency borne of the internet to say, hey, like, we're not gatekeepers. Our --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:45:00",
+      "speaker": "ISAACSON",
+      "sentences": "Well, wait. Let me push back for a moment --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:45:00",
+      "speaker": "SMITH",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:45:00",
+      "speaker": "ISAACSON",
+      "sentences": "-- because it was wrong. It was misinformation.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:45:00",
+      "speaker": "SMITH",
+      "sentences": "Oh, yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:45:00",
+      "speaker": "ISAACSON",
+      "sentences": "What --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:50:00",
+      "speaker": "ISAACSON",
+      "sentences": "But --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:50:00",
+      "speaker": "SMITH",
+      "sentences": "-- you can't sit there and say, I have in my hand a list of communists, I'm not going to show you the list. Once you have justcharacterized the document, as a court later found in part, you -- the notion that it should just sit there and that you and I should say to your viewers, to my readers, hey, we've seen it, it would burn your eyes out if you saw it. We don't really trust you, doctor, lawyer, teacher to look at it. I just think isn't -- actually, it's just not tenable. That said, when we published it, we wrote that we hadn't -- we've been trying for weeks to report on the allegations in Moscow and Prague, we hadn't been able to stand up or knock down the key ones, but that we found errors in it. There were just some little descriptive stuff about Moscow that was wrong, Alfa-Bank was spelled wrong. And we wrote a kind of caveat emptor, published the story with the caveat. We publish the document in the caveat and it went and totally -- and the caveat was sort of cast aside, the document became this symbolic element of gospel. And I don't know if it would've made that much of a difference if we tried to staple them together better, but I do regret that.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:50:00",
+      "speaker": "ISAACSON",
+      "sentences": "The fundamental structure of this era you've talked about, the traffic era, we'll call it, or going viral era, it's trying to capturepeople's attention. But there are only a certain number of eyeballs in the whole world that you can capture, and there's only a certain amount of advertising. Was there something structurally wrong about this business model?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:50:00",
+      "speaker": "SMITH",
+      "sentences": "Yes. There was a core mistake about traffic, which was, I think, the people who first discovered it was, wow we can get people to click onour website, we can sell advertising, thought they had kind of struck digital oil. The more we get, the more money we're going to make. And by the way, this thing is in its infancy. You know, even 2003 we're selling these very rudimentary ads for $9 for a thousand views, like we're going to be selling a thousand times more of them 4,000 times more per view. And actually, it was not like oil, because oil is scarce and traffic is plentiful, and it's not a commodity. And in fact, the price of an -- today, the price of the kinds of ads that they were selling in 2003 is lower than the price they were selling for in 2003. Not adjusted for inflation. And so, the core notion that you could sell limited attention just was swallowed by the scale, in particular, of Google and Facebook who had infinite access to people's eyeballs and more sophisticated things they could do with those eyeballs.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:50:00",
+      "speaker": "ISAACSON",
+      "sentences": "The new business model that seems to be emerging, once again, you're helping to lead it. Semafor, your new publication, seems to be a newway of looking how do you do valuable enough journalism that people will pay for, not totally beholden to clicks and advertising revenue? Explain what you're doing with Semafor, you and Justin Smith, and how a few others seem to be saying, this is the next wave?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:50:00",
+      "speaker": "SMITH",
+      "sentences": "Well, I think in this new moment, kind of amid the rubble of social media and all the things that we built and the -- what consumers want is sodifferent. So, what we're trying to do is hire journalists who really know what they're talking about, who can really be fair, but who are also transparent about their own opinions. And you can say, here is what I've reported, here's the scoop, here's what I think about it. And by the way, here's what somebody who disagrees with me thinks about it, and here's some other pieces, views from around the world, from other perspectives, that we're going to pull all together in one place for you so you don't have to read a story, wonder if it's true, Google, 11 other stories on the same time to kind of triangulate the truth, which I think is how a lot of people try to navigate at this moment.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:50:00",
+      "speaker": "ISAACSON",
+      "sentences": "Thank you for being with us, Ben",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:50:00",
+      "speaker": "SMITH",
+      "sentences": "Thank you so much, Walter.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

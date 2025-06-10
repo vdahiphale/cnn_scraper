@@ -1,0 +1,355 @@
+{
+  "date": "2023-03-03",
+  "headline": "CNN Newsroom",
+  "subHeadline": "Murdaugh to Be Sentenced Today; Storms Pummel South; Storm Moves Across U.S.; Russia Blows up Key Supply Bridge; Investigation into George Santos. Aired 9-9:30a ET",
+  "utterances": [
+    {
+      "timeStamp": "09:00:33",
+      "speaker": "JIM SCIUTTO, CNN ANCHOR",
+      "sentences": "A very good Friday morning to you. I'm Jim Sciutto.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:00:33",
+      "speaker": "ERICA HILL, CNN ANCHOR",
+      "sentences": "And I'm Erica Hill.This hour, convicted murderer Alex Murdaugh, the disgraced former South Carolina attorney, will be sentenced after a jury found him guilty of killing his wife Maggie and his 22-year-old son Paul. The jury deliberating less than three hours Thursday afternoon. This follows more than a month of testimony. They convicted Murdaugh on two counts of murder, two counts of possessing a weapon while committing a crime. One of those jurors speaking out on ABC this morning. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:00:33",
+      "speaker": "CRAIG MOYER, JUROR IN ALEX MURDAUGH MURDER TRIAL",
+      "sentences": "And about 45 minutes later we -- after all our deliberating, we figured it out.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:00:33",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "That's really fast.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:00:33",
+      "speaker": "MOYER",
+      "sentences": "The evidence was clear.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:00:33",
+      "speaker": "SCIUTTO",
+      "sentences": "The state says it is not seeking the death penalty. Instead, prosecutors are pushing for life in prison without the possibility of parole. The judge denied a defense motion to declare a mistrial, saying there was overwhelming evidence to convict Murdaugh. The main prosecutor also spoke after the verdict was read.(BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:00:33",
+      "speaker": "CREIGHTON WATERS, LEAD PROSECUTOR",
+      "sentences": "Justice was done today. It doesn't matter who your family is, it doesn't matter how much money you have or people think you have, it doesn't matter what you think, how prominent you are, if you do wrong, if you break the law, if you murder, then justice will be done in South Carolina.(END VIDEO CLIP) SCIUTTO: We begin this hour with CNN national correspondent Dianne Gallagher. She is outside the courthouse in Walterboro, South Carolina. So, we have sentencing today coming up this hour. Tell us how these events will proceed from here, including victim statements.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:00:33",
+      "speaker": "DIANNE GALLAGHER, CNN CORRESPONDENT",
+      "sentences": "That's right, Jim. So we anticipate around 9Now, look, Judge Clifton Newman will make the ultimate decision. The attorneys can sort of plead their cases. He is facing between 30 years as a minimum and life in prison without the possibility of parole as a maximum for those two murder convictions, killing his wife, Maggie, and his son, Paul. Now, we do anticipate to hear victim impact statements. And, look, some of what is unfortunately unique about this case is that many of the defendant's family members would also then give those victim impact statements because this is the case of a husband being convicted of killing his wife and his son. His surviving son, Buster, we are waiting to see if he will be here, if he will speak. There is also, of course, Maggie's family as well, maybe even some of Paul's friends. Again, we do not know at this point who is going to speak. You know, during this nearly six-week trial, we heard from more than 70 witnesses. We had all sorts of data and forensic evidence. But according to that juror that you heard from there, it was the video. That video that was on Paul Murdaugh's phone. It wasn't found for more than six months until the U.S. Secret Service was able to get into his iPhone that placed Alex Murdaugh at the kennels minutes before Maggie and Paul, according to the state, were shot and killed in that exact location. And according to that juror, that's what it was about. Alex Murdaugh got on the stand trying to tell the jury that he had lied about that, but it was because of paranoia from drug abuse and long-term addiction that he had suffered to opioids, but the juror says they didn't buy it. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:00:33",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "Do you feel like he was a liar?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:00:33",
+      "speaker": "CRAIG MOYER, JUROR IN ALEX MURDAUGH MURDER TRIAL",
+      "sentences": "A good liar. But not good enough.I didn't see any true remorse or any compassion or anything.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:00:33",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "Even though he was - he cried a lot on the stand. MOYER",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:00:33",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "He never cried? What do you mean by that?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:00:33",
+      "speaker": "MOYER",
+      "sentences": "All he did was blow snot.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:00:33",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "Did you not see tears?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:00:33",
+      "speaker": "MOYER",
+      "sentences": "No tears.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:00:33",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "How did you know he wasn't crying?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:00:33",
+      "speaker": "MOYER",
+      "sentences": "Because I saw his eyes. I was this close to him.(EC)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:05:06",
+      "speaker": "SCIUTTO",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:05:06",
+      "speaker": "HILL",
+      "sentences": "All right, Dianne, we know you're going stay with us. We'll be checking back in with you shortly.Joining us now to discuss a little bit further, Joey Jackson, criminal defense attorney, and Sarah Ford, former prosecutor and the current legal director for the South Carolina Victim Assistance Network. It's good to have both of you with us this morning. Joey, if we could pick up actually where Dianne just left off, what we heard from that juror and the reaction from the juror to Alex Murdaugh's testimony and his demeanor in court. How impactful do you think that was overall on this jury and their ultimate decision that he is, in fact, guilty?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:05:06",
+      "speaker": "JOEY JACKSON, CNN LEGAL ANALYST",
+      "sentences": "Yes, Erica, good morning to you, Jim, Sarah.Listen, the reality is this, is that that jury sat there for a period of six weeks listening to testimony day in and day out. The judge reminds a jury and instructs them constantly, don't deliberate, don't speak about the case, keep an open mind. When he took the stand, that is Alex Murdaugh, that was his opportunity to state his claim. It was a very hard sell, however, in as much as you deny, deny, deny being at the kennels, you took the stand because it came out that you were there. Cellphone data put you there. Car data put you there. In addition to the fact that your own voice put you there by virtue of what your son recorded. Now you're trying to explain that. I think the narrative really, Erica, was that, you lied to your clients, you took money from quadriplegics, you took money from minors, you took money from teenagers, you looked them in the eye like you looked the jury in the eye. What is to say you're not lying to us? I think by virtue of what that juror said, clearly he was of the view, that juror, that he was continuing to lie.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:05:06",
+      "speaker": "SCIUTTO",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:05:06",
+      "speaker": "JACKSON",
+      "sentences": "The evidence was clear, and that he was guilty. Very compelling. Very powerful. And I think that told the whole story and tale.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:05:06",
+      "speaker": "SCIUTTO",
+      "sentences": "Sarah Ford, to your credit, you were predicting on this broadcast that a conviction was likely here.To Joey's point, the juror who has spoken out so far said it was that video, to hear the voice of Alex Murdaugh in that time period when prosecutors say the murder took place, and to have Murdaugh say, after having denied it, that is indeed my voice, was key. The defense argument was, in effect, that, you know, the window of death was boarder than that period of time as prosecutors described it. Are you surprised that that piece of video seemed to be the damning evidence here?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:05:06",
+      "speaker": "SARAH FORD, FORMER PROSECUTOR",
+      "sentences": "I'm not surprised, Jim. You know, it's very -- it's clear to see, from those of us who have watched the trial from the beginning, how each piece of evidence built upon each - each piece built upon each additional piece of evidence. And, you know, that video was absolutely damning to him. And he really had no choice other than to take the stand and clarify that. And, you know, the jury did not buy that clarification. He was lying long before he walked into that courtroom, long before he took the stand, and that jury believed that he was lying to them on that stand.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:05:06",
+      "speaker": "HILL",
+      "sentences": "Sentencing set to start just over half an hour or so from now.Sarah, as I understand it, part of what you do is actually help those who will be giving victim impact statements. So, we're still waiting to see who, in fact, we will hear from this morning. But as you're speaking with people in a moment like this, what is that direction, what is that counsel you give them in terms of making sure that they get across the message that they want to deliver?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:05:06",
+      "speaker": "FORD",
+      "sentences": "It's essential for victims when giving an impact statement to talk about who they are, not who they were after the victimization, but who they were and how this has affected them. And humanizing themselves or their - you know, for survivors of homicide, humanizing the victims, talking about them as people, and really drawing a light to their life.And then asking the court for what they want to see. It's essential for victims, they have the right to ask the court, just like the defense has the right to ask the court for what they want to see, and victims need to advocate for that. So, really humanizing the victim and making clear to the judge what they - what they feel is important and what they want the sentence to be.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:05:06",
+      "speaker": "SCIUTTO",
+      "sentences": "Joey Jackson, this was fairly fast, less than three hours of deliberations before the jury returned this verdict. I didn't talk to a lot of people who expected that. Now you have a judge with a decision on sentencing, prosecution seeking life sentence without parole. Does the swiftness of the jury's decision, based on the weight of evidence as well, what you've seen here, do you expect the prosecution to get what they want in terms of a sentence here?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:10:04",
+      "speaker": "SCIUTTO",
+      "sentences": "Wow.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:10:04",
+      "speaker": "HILL",
+      "sentences": "Multiple life sentences. I mean, that is -- yes. It will be interesting to see.Also, you know, interesting to note, too, the judge, last night, very clear when denying that mistrial motion, he called the evidence overwhelming. There will be a lot to cover as we wait for this. Joey, Sarah, I know you're going to stay with us for that. And, again, that sentencing expected to begin just about 20 minutes from now. We'll be bring that to you live.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:10:04",
+      "speaker": "SCIUTTO",
+      "sentences": "We are watching several other major stories this morning. Tornado watches in effect right now in five states as we get images, like this one, funnel clouds spotted in Texas and Louisiana. That is a scary sight to see coming your way. We're live in Shreveport with a look at the damage, details as well on where the storm is headed next. Plus dramatic images of a bridge that served as a main supply route toUkrainian forces on the front lines, destroyed in a Russian attack. CNN is in eastern Ukraine as the battle for the town of Bakhmut rages on.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:15:55",
+      "speaker": "SCIUTTO",
+      "sentences": "A storm system that spawned tornadoes, powerful winds and golf ball sized hail -- that can hurt -- in Texas and Louisiana is now heading northeast, threatening to bring more severe weather.(BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:15:55",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Holy (EXPLETIVE DELETED).",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:15:55",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "Where's it going?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:15:55",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "That way.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:15:55",
+      "speaker": "SCIUTTO",
+      "sentences": "Lord. I mean, those things move so quickly. If you see that coming, please get in your basement. The video was from northwest of Dallas. At this hour, more than 92,000 homes without power in Texas, just over 10,000 waking up in darkness in Louisiana.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:15:55",
+      "speaker": "HILL",
+      "sentences": "As that system moves, tornado watches are now in effect across multiple states. You can see just the size of that system there. High wind and flood alerts impacting millions on this Friday morning.We do have team coverage. CNN meteorologist Chad Myers following the system first from Atlanta, and also CNN's Carlos Suarez in Shreveport, Louisiana. Carlos, first, just walk us through what you're seeing. We see a little bit of the damage behind you. But, of course, now that you have full daylight, I imagine it's revealed a lot more.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:15:55",
+      "speaker": "CARLOS SUAREZ, CNN CORRESPONDENT",
+      "sentences": "Yes, that's exactly right. So that tornado was on the ground for a relatively short time. We're talking about well under a minute. And the worst of the damage really was in this one neighborhood in Shreveport. This tornado damaged several businesses, a gas station, an insurance business, as well as this laundry mat.This is the worst of the damage we've seen. You can see exactly what I'm talking about. There are three cars that are parked in this parking lot. They were all damaged by this debris. Most of this debris came from the roof of that business. The sign of this place, this laundromat, fell in this middle car. And as you can imagine, folks that were inside at the time, they were quite worried about what was going on because that emergency alert went out shortly before 6:00 in the afternoon telling everyone to take shelter. There was one man who was inside of the business. He said he was talking to another woman whose kids were in one of these cars. And that's when they decided whether or not to go ahead and grab them from the car. But he said it was just too dangerous. .It was far too windy. It was not safe for them to do so. Here's what he told our CNN affiliate here in Shreveport. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:15:55",
+      "speaker": "DAVID LANGSTON, SHREVEPORT, LOUISIANA, RESIDENT",
+      "sentences": "That's when the winds started picking up and this lady said, my babies are in the car. And she wanted me to help her. And I said, let's go. But then all of a sudden the wind got so bad, I said, no, ma'am, don't go out, and that's her car underneath that sign. If we hadn't go - if we'd gone out there that baby -- I mean we would have been hit by that sign.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:15:55",
+      "speaker": "SUAREZ",
+      "sentences": "And so the rebuilding effort, the recovery effort, at least on this stretch of block here in this neighborhood, is well underway. Folks have already started to pick up their debris. Some insurance adjusters are out here. And police have closed off a good part of this neighborhood only because they're trying to get traffic out of the way.The good news in all of this is that there were no serious injuries reported across the Shreveport area. And at last check, in this neighborhood alone, about 1,000 customers or so are still without power. But the expectation is -- the hope is they're going to be able to get a lot of these folks back online because this tornado was on the ground for a relatively short period of time and so the damage right now does seem to be pretty much contained. We were able to drive around the neighborhood earlier this morning. We saw a couple of homes that had some downed fences, as well as some damage to their roof.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:15:55",
+      "speaker": "SCIUTTO",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:15:55",
+      "speaker": "SUAREZ",
+      "sentences": "But, again, the good news at this hour is that it does not appear anybody was hurt in any of this.Guys.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:15:55",
+      "speaker": "SCIUTTO",
+      "sentences": "It's amazing. They're lucky.Carlos Suarez, thank you. Chad Myers, in the Weather Center. Chad, I feel like every other day we talk to you about a powerful storm moving across the country.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:15:55",
+      "speaker": "CHAD MYERS, AMS METEOROLOGIST",
+      "sentences": "That's right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:15:55",
+      "speaker": "SCIUTTO",
+      "sentences": "Tell us where this one's headed.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:20:01",
+      "speaker": "SCIUTTO",
+      "sentences": "Wow. Rutland, Sugar Bowl, I mean, we'll take the snow here. Anything natural that people in the east can ski on is better than the ice that they make.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:20:01",
+      "speaker": "HILL",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:20:01",
+      "speaker": "SCIUTTO",
+      "sentences": "Yes. Want to keep some of them open.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:20:01",
+      "speaker": "HILL",
+      "sentences": "Yes, but you - yes. Yes. But, you know, when you're born from ice and you learn to ski in the East Coast, Chad, you can ski anywhere. MYERS",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:20:01",
+      "speaker": "SCIUTTO",
+      "sentences": "She's - as always she's -",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:20:01",
+      "speaker": "HILL",
+      "sentences": "Says this New Englander.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:20:01",
+      "speaker": "SCIUTTO",
+      "sentences": "As always, she's tougher than both of us, Chad.Thanks so much. We appreciate it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:20:01",
+      "speaker": "MYERS",
+      "sentences": "You bet.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:20:01",
+      "speaker": "SCIUTTO",
+      "sentences": "We'll continue to watch.Overseas now. Right now Russian forces are advancing, trying to on Bakhmut after they blew up a key bridge for Ukrainian forces overnight. It's the last main supply route from Bakhmut to a nearby village, which means the Ukrainian military and civilians are now forced to use dirt roads for evacuation and supplies.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:20:01",
+      "speaker": "HILL",
+      "sentences": "Those Russian advances come as President Biden is hosting the German chancellor today at the White House, where he is expected to announce additional military aid for Ukraine.CNN's senior national security correspondent Alex Marquardt is live in eastern Ukraine. So, as you look at things this morning, and what has played out, is there any sign at this point, Alex, of a Ukrainian withdrawal?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:20:01",
+      "speaker": "ALEX MARQUARDT, CNN SENIOR NATIONAL SECURITY CORRESPONDENT",
+      "sentences": "Good morning, Erica and Jim.Well, no signs of a mass withdrawal. And certainly no announcement. But if you are reading the tea leaves carefully, there are some indications that it could be under consideration. A well-known reconnaissance brigade, they were immediately pulled out overnight. Their commander saying on social media that they weren't given a reason why. A railway bridge in eastern Bakhmut was blown up by the Ukrainians. It had already been damaged, but they blew it up, essentially it looks like, to make sure that the Russians couldn't use it. There is no doubt that the Ukrainians right now are in a tough spot. They are surrounded on three sides, to the south, to the east and to the north. They are trying to be encircled by those Russian forces. As you mentioned, there is really only one main supply route west out of Bakhmut. I was on that road yesterday. It was very heavily trafficked with military vehicles going up and down. And in - overnight, we learned that a missile, according to a soldier in Bakhmut, had taken out that bridge, effectively severing that road and the ability of Ukrainian forces to supply their forces to withdraw if that's what they plan on doing and to pull people out. If they're going to do that now, they're going to have to do it across muddy fields or dirt roads. That, of course, is very difficult. You need certain types of vehicles. You leave yourself quite exposed. So, the Ukrainians in a very tough spot. They say that they are going to keep fighting. We did hear from the leader of the Wagner forces, of Yevgeny Prigozhin and his forces have been leading this fight for the Russian side in Bakhmut. He called on President Zelenskyy to withdraw his forces, essentially to save their lives. He says that they'll be fully surrounded in one or two days. That, of course, has not been announced but it has to be something that they - that they are considering. We've also seen the head of Ukrainian forces in the eastern part of the country visiting the front line very recently. So, Ukrainians appear to be trying to stand their ground, knowing that if Bakhmut were to fall it would be a major victory for the Russian side and that they would try to use that as a jumping off point to drive deeper into eastern Ukraine. Erica and Jim.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:20:01",
+      "speaker": "SCIUTTO",
+      "sentences": "Alex Marquardt, thanks so much.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:25:04",
+      "speaker": "SCIUTTO",
+      "sentences": "CNN's Melanie Zanona joins us now from Capitol Hill.This is significant for a couple reasons. One, McCarthy has said that if it is found that Santos broke the law, he would remove him with significant, potential political consequences. But also ethics committee, in the past, has had some teeth.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:25:04",
+      "speaker": "MELANIE ZANONA, CNN CAPITOL HILL REPORTER",
+      "sentences": "Yes, absolutely. This is a very serious threat to Congressman Santos' political career and it could wind up with him being kicked out of Congress.So, a little bit of context here. The House Ethics Committee is a bipartisan panel. It's made up of equal number of Republican and Democratic lawmakers, so their work is bipartisan. They aren't bound by any sort of timelines, but they do have the power to move quickly if they want to. And in the end, depending on what they find, they can make recommendations for disciplinary action, whether that's something like censure or something as far as expulsion. Now, it still would be up to the full House to act on any of those recommendations. Expulsion would require two thirds of the House in order for it to work. But it would be very hard for members of Congress, including GOP leadership, to ignore those bipartisan findings, especially because Santos has been under such scrutiny up here on Capitol Hill. And I want to read for you everything that the House Ethics Committee is looking into because it is a pretty long list here. So they are investigating the following. They're looking into whether Santos engaged in unlawful activity with respect to his 2022 congressional campaign. They're looking into whether he failed to properly disclose required information on statements filed with the House. They're looking into whether he violated federal conflict of interest laws in connection to his role in a firm providing fiduciary services. And finally they are looking into whether he engaged in sexual misconduct towards an individual seeking employment in his office. So, Santos, for his part, says he is fully cooperating but will not be commenting further at this time. Jim and Erica.",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

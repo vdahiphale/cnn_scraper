@@ -1,0 +1,301 @@
+{
+  "date": "2022-11-04",
+  "headline": "CNN Newsroom",
+  "subHeadline": "Kyrie Irving Suspended; Better-Than-Expected October Jobs Report; Final Midterm Push. Aired 1-1:30p ET",
+  "utterances": [
+    {
+      "timeStamp": "13:00:03",
+      "speaker": "JOHN KING, CNN HOST",
+      "sentences": "This quick programming note.On election night, join us here at CNN for special coverage. We start Tuesday, November 8 -- that's Election Day -- at 4:00 p.m. Eastern. Learn what's happening in your state and around the country. Thanks for your time today on INSIDE POLITICS. Have a fantastic weekend. Ana Cabrera picks up our coverage right now.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:00:03",
+      "speaker": "ANA CABRERA, CNN HOST",
+      "sentences": "Hello, and happy Friday. I'm Ana Cabrera in New York.Who will control Congress? It all comes down to Tuesday, four days, one final weekend for midterm candidates and their big-name backers to get voters to the polls. Heavyweights are hitting the trail with closing messages, as key races tighten, Biden, Obama Trump all ending up in Pennsylvania, a high-stakes Senate race there up for grabs, as the woman who made Dr. Oz famous endorses his rival. Maybe you have heard of her? (BEGIN VIDEO CLIP) OPRAH WINFREY, PRODUCER/PHILANTHROPIST:  If I lived in Pennsylvania, I would have already cast my vote for John Fetterman for many reasons. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:00:03",
+      "speaker": "CABRERA",
+      "sentences": "Elsewhere, today is the last day of early voting in some states seeing historic turnout, more than 34 million ballots already cast.Plus, talk about a tease. Donald Trump addresses the 2024 elephant in the room. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:00:03",
+      "speaker": "DONALD TRUMP, FORMER PRESIDENT OF THE UNITED STATES",
+      "sentences": "I will very, very, very probably do it, again, OK, very, very, very probably.(CHEERING AND APPLAUSE) (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:00:03",
+      "speaker": "CABRERA",
+      "sentences": "Let's get out to the trail now.CNN's Dianne Gallagher and Omar Jimenez are with us. Dianne, first to you. It's the last day of early voting in battleground Georgia. Tell us what you're seeing.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:00:03",
+      "speaker": "DIANNE GALLAGHER, CNN NATIONAL CORRESPONDENT",
+      "sentences": "You can probably see the line behind me right now, Ana, that's completely wrapped around the building.This is typically the most robust day of early voting, the first and last days. And, look, we're talking about just astronomical, even record-breaking numbers for a midterm. Starting today, there were still more than two million, 2.6 million -- 2.26 million votes that were cast. That's about a quarter more than we saw in 2018 at the same time. But, Ana, I just saw a tweet right now from Gabriel Sterling with the secretary of state's office. He says that that number has gone up even more as of noon today. We're talking more than 2,335,000 votes that have already been cast. And we still have hours to go today. Now, polling tells us that the economy is the number one issue for most voters across the country. And that's true for a lot of the voters that I have talked to around Georgia over the past month as well. But when we talk to people at this particular polling place, which is in a heavily Democratic area, they had different ideas about what their main issue was going into the ballot box today, something that would likely excite Democratic candidates when they hear it. Take a listen. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:00:03",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "It's abortion rights. It's jeopardizing voting itself.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:00:03",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Issue-wise right now, it's related to women's health and women's reproductive rights.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:00:03",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "A candidate's stance on Roe v. Wade and the overturning is probably a big factor for me.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:00:03",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "So, I'm a current medical student right now. And just the hospital closings that we have been seeing in Georgia lately have really been affecting not only my classmates, but just the work force in general. And so that's what I'm really big on.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:00:03",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "Especially abortion rights, being a future physician, not being able to advocate for my patients is definitely a big issue for me. UNIDENTIFIED MALEbehind that. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:00:03",
+      "speaker": "GALLAGHER",
+      "sentences": "Now, of course, the candidates themselves out on the trail trying to get those last-minute early voters or make sure that people have a plan to go and vote on Election Day, Ana.Again, polls close today here in Georgia at 7:00 p.m., so still several hours for people to get those early votes in or send back in their mail-in ballots.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:00:03",
+      "speaker": "CABRERA",
+      "sentences": "And the lines continue, again, even before Election Day.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:00:03",
+      "speaker": "GALLAGHER",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:00:03",
+      "speaker": "CABRERA",
+      "sentences": "Let's head to Wisconsin now, where a Senate race there is also garnering a lot of attention.Omar, fill us in.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:00:03",
+      "speaker": "OMAR JIMENEZ, CNN CORRESPONDENT",
+      "sentences": "Yes, well, we're just a few days out to the election at this point.And all of these candidates are in their final stretch bus tours. We're at an event for Mandela Barnes right now. He's going to do an event with LeVar Burton. But Senator Ron Johnson just done an event in a place called Kronenwetter, Wisconsin, where he was asked whether he would accept the results of the 2020 -- of Tuesday's election, I should say, and he didn't outright say yes. This is what he said. (BEGIN VIDEO CLIP) SEN. RON JOHNSON (R-WI):  I sure hope I can. But I can't predict what the Democrats might have planned. We're not trying to do anything to gain partisan advantage. We're just doing whatever we can to restore our confidence. It sure seems like there's an awful lot of -- in the past, a lot of attempt on the part of Democrats to make it easier to cheat. We want make it easy to vote, but very hard to cheat. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:05:12",
+      "speaker": "CABRERA",
+      "sentences": "There's a lot that's damaged public confidence in these elections.Thank you so much, Dianne Gallagher and Omar Jimenez. Appreciate your reporting. Make sure we bring the facts to our viewers. Let's bring in political anchor at spectrum news and CNN political commentator Errol Louis now. Errol, we just went to Georgia there with Dianne, a state that has already seen a 29 percent jump in early voting this year compared to the 2018 midterms. More than 2.2 million Georgians have already voted. Michigan, Nevada, Wisconsin, other key battleground states also seeing an increase in early voting. What do you take away from this, Errol?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:05:12",
+      "speaker": "ERROL LOUIS, CNN POLITICAL COMMENTATOR",
+      "sentences": "Well, I don't know. We will we will find out, obviously, on November 9.But what I think it means is that this is settling in, early voting is settling in as a habit and as part of the political culture. We have only had early voting here in New York for a couple of years now. And we're starting to see not record-breaking numbers, but a substantial number of people are sort of reorganizing their political life around the idea that they're going to have a week or two to cast a ballot. The political organizations and the candidates are adapting as well. I think you're seeing that all over the country. And so, hopefully, there will be a overall higher turnout. But, more importantly, I think people's strategies of when and how they go to their base, when and how they try and bring out new voters, when and how they run their final ad campaigns, all of that is changing all over the country. Really fascinating to watch.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:05:12",
+      "speaker": "CABRERA",
+      "sentences": "Absolutely.So can you read the tea leaves at this point about which party early voting might be helping?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:05:12",
+      "speaker": "LOUIS",
+      "sentences": "I don't do -- I don't do answers, but I do questions.And my questions, Ana, will be, did the so-called Roementum carry through here, meaning there was -- we know that there was a surge of young women after Roe vs. Wade was overturned who registered. These are first-time voters. I'd like to go through the data when all of the dust settles to see if they're part of this early voting surge. If so, that's really interesting. There's some evidence, especially in Georgia, that some of these early voters are students who are on campus. That's in part because of the schedule. If that's the case, that too is interesting. All of that has a lot of important applications for 2024, as well as the outcome of the midterms right now. CABRERA:  And, of course, most votes, tens of millions more votes will come on Tuesday. We have the big names hosting big events this weekend in those key battleground races. Here's some of the closing messages we're hearing right now. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:05:12",
+      "speaker": "JOE BIDEN, PRESIDENT OF THE UNITED STATES",
+      "sentences": "My objective when I ran was to build, build an economy from the bottom up and the middle out, and the fundamental shift that is working to compare this -- compared to the MAGA trickle-down economics.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:05:12",
+      "speaker": "DONALD TRUMP, FORMER PRESIDENT OF THE UNITED STATES",
+      "sentences": "Biden and the far left lunatics are waging war on Iowa farmers, crushing American energy, attacking Iowa ethanol, and strangling Iowa families with soaring prices.LT. GOV. JOHN FETTERMAN (D-PA):  In this race, we're the only entity that actually has hands-on experience fighting against crime and gun violence. MEHMET OZ (R), PENNSYLVANIA SENATORIAL CANDIDATE:  We have families all over the commonwealth worried about crime, so much so, they won't send their kids outside.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:05:12",
+      "speaker": "BIDEN",
+      "sentences": "All the state legislative races, all the local races, they are critically, critically, critically important. Not a joke. They're going to determine whether our democracy is sustained.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:05:12",
+      "speaker": "TRUMP",
+      "sentences": "If you care about election integrity volunteer as an election worker, poll watcher, or poll challenger. We need you.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:05:12",
+      "speaker": "CABRERA",
+      "sentences": "Errol, how much do these closing messages matter?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:05:12",
+      "speaker": "LOUIS",
+      "sentences": "Oh, they matter a great deal.I mean, the point of a good closing message is to bring home all of what has been done, right? You're supposed to first go out and reach your base. Then you're supposed to try and persuade others to come to your side. If all the numbers are working out, then, in the closing hours, you're going to get your voting majority out to the polls. And the message that moves them should be clear by the end of the campaign. So all of those folks that you just played, they're not speaking those words just because it is the first thing off the top of their head. It has been researched. It has been battle-tested. They have gotten reactions at people's front doors. They have gotten reactions at rallies. They have gotten reactions at the state fair. And this is where it all comes home, a concluding, final message that's intended to make people feel good about their choices, and also bring in the final undecided voters, which, of course, are going to all dwindle. The undecided vote, in the end, the number is zero on Election Day.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:10:03",
+      "speaker": "LOUIS",
+      "sentences": "Oprah has a lot of juice with suburban women, suburban white women in particular. At least, she used to.One of the things I'm going to be looking for is, does she still have that power? Does she still have that magnetic appeal? Are people willing to buy whatever it is Oprah happens to be selling on any given day? Some of this is in the past now. I mean, it's been a while since she was on daily television. We will see whether or not it comes through for John Fetterman. And, of course, the fact that she was the one who discovered and elevated Dr. Oz is, in some ways, kind of a historical footnote. I think the question is, are people loyal to the Oprah brand? And we're going to find out on Tuesday.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:10:03",
+      "speaker": "CABRERA",
+      "sentences": "Errol Louis, great to have you here. Thanks for fitting us in. I know it's a busy day for you, a busy time of year, for sure.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:10:03",
+      "speaker": "LOUIS",
+      "sentences": "Thank you, Ana.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:10:03",
+      "speaker": "CABRERA",
+      "sentences": "OK, today, we have a new measure of the U.S. economy, a driving concern, of course, for midterm voters.The last jobs report before Tuesday's elections shows 261,000 jobs were added in October. Now, that number is down from the month before, but it is still higher than expected. Unemployment creeped up to 3.7 percent. And joining us now is Jeanna Smialek. She's the Federal Reserve and economy reporter at \"The New York Times.\" Thanks so much for being with us. So, the White House was hoping for a Goldilocks report, a jobs market that's not too hot, not too cold. Where does this land? JEANNA SMIALEK, \"THE NEW YORK TIMES\":  It's not far off, I would say that this is still a pretty hot jobs market, but not really showing any signs of re-acceleration. So what we're seeing is very strong jobs growth, very strong wage growth, sort of sustained low unemployment rate. Obviously, it did tick up, like you just mentioned, but it's still very, very low by historical standards. And I think -- so I think the overall takeaway here is, this is still a very strong, even, I would say, very unusually strong labor market.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:10:03",
+      "speaker": "CABRERA",
+      "sentences": "This morning, Labor Secretary Marty Walsh spoke to CNN, and here's his read on the state of the economy and how Americans are feeling.(BEGIN VIDEO CLIP) MARTY WALSH, U.S. SECRETARY OF LABOR:  We have to continue to do everything we can to bring down inflationary pressures. At the end of the day, no matter how many jobs that I can get in front of this camera and tell you how we have added and how great they are, people are still feeling the struggle at the kitchen table. So that's why the president has been -- every time he speaks, he talks about that, bringing those costs down. We still have to do more to bring those costs down. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:10:03",
+      "speaker": "CABRERA",
+      "sentences": "So, how do you do that? Because we keep on saying the Fed raise rates, and yet hasn't tamed inflation yet. Why not?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:10:03",
+      "speaker": "SMIALEK",
+      "sentences": "Yes.And so I think that labor market reports like today's are a big part of that equation, right? We really have not seen a slowdown in the job market that has been as pronounced or as meaningful as many economists would have expected, given how much the Fed has been acting to restrain the economy. And so, with an economy that is growing as quickly as the one we have right now, with job gains like we're seeing, with wage gains, in particular, like we're seeing, it's just going to take a while to get prices back down. So I think that the sort of overall takeaway here is that we still have some more room to go in that sort of battle against inflation. The Fed's probably going to continue raising interest rates. They have very much signaled that at their meeting this week, and, as they do that, we're going to see a slightly more painful situation in the economy. It's very likely the job market will slow in the next year. And it's extremely likely and even expected at the Federal Reserve that the unemployment rate is going to creep up a little bit higher up, into the 4's, maybe even as high as 4.5 percent.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:10:03",
+      "speaker": "CABRERA",
+      "sentences": "It just seems like expectations haven't matched reality for some time.Of course, economic norms became completely turned upside down because of COVID and the pandemic, but, during the decade before the pandemic, over the course of that time, the economy was adding an average of 183,000 jobs per month. Today's numbers are still well above that, right? We keep hearing the layoffs are going to come. When do you think we might see that reflected in these numbers?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:20:11",
+      "speaker": "CABRERA",
+      "sentences": "NBA star Kyrie Irving will not be on the call tonight when his team, the Brooklyn Nets, face off against the Wizards.Now, the Nets suspended Irving for at least five games after he not only doubled down on his decision to share a link to an antisemitic film, but then refused to clearly state he does not hold antisemitic views when pressed by reporters. He also refused to just apologize. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:20:11",
+      "speaker": "QUESTION",
+      "sentences": "Adam Silver wanted to hear the word \"I apologize\" or -- in your mind, you said, I didn't mean to cause any harm.Were you apologizing or not apologizing?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:20:11",
+      "speaker": "KYRIE IRVING, BROOKLYN NETS",
+      "sentences": "I didn't mean to cause any harm. I'm not the one that made the documentary.I respect all walks of life and embrace all walks of life. That's where I sit.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:20:11",
+      "speaker": "QUESTION",
+      "sentences": "I think what people want to hear, though, is just a yes or no on that question. Yes or no?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:20:11",
+      "speaker": "IRVING",
+      "sentences": "I cannot be antisemitic if I know where I come from.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:20:11",
+      "speaker": "CABRERA",
+      "sentences": "So, after that, the Nets released a statement saying in partCNN national correspondent Brynn Gingras joins us now. Brynn, he eventually did apologize. What's he saying now?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:20:11",
+      "speaker": "BRYNN GINGRAS, CNN NATIONAL CORRESPONDENT",
+      "sentences": "Yes, I mean, listen, you ticked through that chronologically very well for your viewers, because it was a whole week of these events happening, in addition to the fact that the Nets said they were going to give the Anti- Defamation League, in addition to Kyrie Irving, each $500,000, which now the ADL says, we don't want because he doubled down on those efforts.So, yes, he did eventually apologize. But it took all of that to get to that point. In that apology -- I do want to read it for you. It did come very late last night, after the Nets made their announcement of his suspension. It said: \"To All Jewish families and communities that are hurt and affected from my post, I am deeply sorry to have caused you pain. And I apologize. I had no intentions to disrespect any Jewish cultural history regarding the Holocaust or perpetuate any hate.\" Now, the big question is, did this go far enough? Some people are reading it and saying he only did it because he got suspended. Others are then also criticizing, again, the fact that the NBA, it took this long for them to speak out, the commissioner to finally say, something needs to be done, for the coach to -- or the team, rather, to -- the franchise to make this decision to suspend him. So we will see how this all plays out.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:20:11",
+      "speaker": "CABRERA",
+      "sentences": "And what are his teammates saying, I'm wondering?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:20:11",
+      "speaker": "GINGRAS",
+      "sentences": "Yes. And others are criticizing the teammates as well, Ana, because they weren't speaking out immediately. Like, this should have been, as that reporter said, no, right from the get-go.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:20:11",
+      "speaker": "CABRERA",
+      "sentences": "And it should be an easy on.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:20:11",
+      "speaker": "GINGRAS",
+      "sentences": "An easy no, exactly, no thought to it, right?Well, Kevin Durant, actually another NBA All-Star, just kind of spoke out at the pregame to the game that's happening tonight at a press conference. And he kind of made these comments, saying it was -- he felt it was unnecessary that the team had to even respond to all of this controversy, which, again, created a little bit more controversy. It seems like the Nets should -- everyone should just be quiet at this point. But in that they he had to send out a tweet to follow up to say, listen, he disavows antisemitism and hate speech. But, again, it does seem at this point that tensions are high, and everyone should probably just stop talking. (LAUGHTER)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:20:11",
+      "speaker": "CABRERA",
+      "sentences": "Yes, and say, I'm sorry, and stop talking.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:20:11",
+      "speaker": "GINGRAS",
+      "sentences": "And say, I'm sorry, yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:20:11",
+      "speaker": "CABRERA",
+      "sentences": "Thank you, Brynn Gingras.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:20:11",
+      "speaker": "GINGRAS",
+      "sentences": "All right, thanks.",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

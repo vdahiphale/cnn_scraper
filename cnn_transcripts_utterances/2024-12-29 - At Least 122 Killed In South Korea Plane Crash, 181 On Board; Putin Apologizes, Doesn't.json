@@ -1,0 +1,265 @@
+{
+  "date": "2024-12-29",
+  "headline": "CNN Newsroom",
+  "subHeadline": "At Least 122 Killed In South Korea Plane Crash, 181 On Board; Putin Apologizes, Doesn't Take Responsibility For Jet Crash; IDF: At Least 240 People Detained In Gaza Hospital Raid. Aired 2-3a ET",
+  "utterances": [
+    {
+      "timeStamp": "02:00:32",
+      "speaker": "ANNOUNCER",
+      "sentences": "This is CNN breaking news.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "02:00:32",
+      "speaker": "KIM BRUNHUBER, CNN ANCHOR",
+      "sentences": "I'm Kim Brunhuber live in Atlanta. We have the latest now on our breaking news.Officials now say that nearly everyone on board a plane that crashed in South Korea has died, 181 people were traveling from Bangkok on a Jeju Air Flight. So far, rescue workers have confirmed the deaths of 122 people. Two crew members have been rescued, but they say the remaining passengers and crew are presumed dead. South Korean officials say hundreds of emergency personnel are at the crash site to help identify the remaining victims, and to record the exact locations where people died. Now, the Boeing 737 800 jet crash landed at Muan International Airport on Sunday morning. Firefighters believe the incident was caused by a landing gear malfunction. Now, this video shows the plane dragging along the runway with no landing gear in sight, and moments later, the plane burst into flames. CNN correspondent Mike Valerio is following this breaking news from Seoul. So, Mike, I understand were getting a few more details about what might have happened. Take us through what we know.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "02:05:01",
+      "speaker": "BRUNHUBER",
+      "sentences": "And, Mike, just before we go, because people might not be familiar with the airline in question, take us through what we know about Jeju Airlines.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "02:05:01",
+      "speaker": "VALERIO",
+      "sentences": "Sure, it's a wildly popular airline in Korea, in East Asia. It's a budget carrier. But, you know, were at the tail end of the holiday season.Jeju Air is an airline that people would turn to without hesitation to go to any vacation destinations in Southeast Asia and East Asia founded in 2005, this is the biggest budget carrier in South Korea, and it has never had an accident like this before -- Kim.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "02:05:01",
+      "speaker": "BRUNHUBER",
+      "sentences": "All right, I appreciate that. Mike Valerio live in Seoul, thanks so much.I want to bring in now, Mike -- Mark Martin, and he's the CEO of Martin Consulting, an aviation safety firm based in Asia. And he joins us now from New Delhi. Thank you so much for speaking with us here. So between the video, what we can see and the latest information that we just got, if you were listening in to our reporter, the fact that we heard that the plane was landing, then the tower warned of bird strike, the pilots called mayday. And then apparently it hit this localizer and crashed. So what more can you tell us about what you think might have caused this?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "02:05:01",
+      "speaker": "MARK MARTIN, CEO, MARTIN CONSULTING",
+      "sentences": "Hey, Kim. Thanks for having me on CNN. Happy holidays everybody, and fly safe.From what we know so far, you know, when you got a bird strike on the 737, the 737 has got redundancies and backups and hydraulics. So you've got two engines running hydraulic systems. So even if you've got a bird strike on one engine, the second hydraulic system takes over and gives you your -- your hydraulics to operate your landing gear. And even if that fails, you have something called a ram air turbine. Okay? So fundamentally the 737 is a pretty well designed aircraft. And obviously, Boeing has spent billions of dollars on that aircraft. The bigger issue here is, is what caused that uncontrolled rapid descent. Now, what we know so far, Kim, is that we're dealing with eyewitness reports and hearsay. And unless, you know, we get that flight data recorder or the FDR, the CVR, your pitch that together also get hold of the ATC tapes, ADS-B out data, put that in over into a room. Get guys to start looking at it at it. You know, we're not going to know what actually went wrong. You know the video says he came down with the landing gear. His gear was up. His flaps were not deployed. And he came -- I mean, from what we know, he came pretty fast. So obviously he, you know, he's -- he's broken a rapid descent over there and he slammed the aircraft down on the runway. But again, again, we're speculating. And you know, let's respect the dead. There are a lot of lives lost. The crews know more. And I think the faster we get into an independent investigation, and because this is a Boeing -- you know, Boeing needs to get involved with this. And so does the FAA because something like this. You never hear of a Boeing 737 having such, you know, incidents or such a crash for that matter.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "02:05:01",
+      "speaker": "BRUNHUBER",
+      "sentences": "Yeah. That's right. And just -- you're mentioning Boeing there. I know they are offering their condolences. They're saying this -- I'll read their statement. We are in contact with Jeju Air regarding flights 2216 and stand ready to support them.We extend our deepest condolences to the families who lost loved ones, and our thoughts remain with the passengers and crew.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "02:10:01",
+      "speaker": "BRUNHUBER",
+      "sentences": "Yeah.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "02:10:01",
+      "speaker": "MARTIN",
+      "sentences": "This aircraft has to be pieced together in a hangar. And but it's got to happen fast and tough timing with the holiday season.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "02:10:01",
+      "speaker": "BRUNHUBER",
+      "sentences": "Yeah, absolutely. And you mentioned South Korea. We know that there as a nation very highly rated in terms of their aviation record. I'm wondering if the crew --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "02:10:01",
+      "speaker": "MARTIN",
+      "sentences": "Safety record, yeah.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "02:10:01",
+      "speaker": "BRUNHUBER",
+      "sentences": "Yeah, and our safety record. I wonder if our control room can pop up the live images that we were seeing earlier of what they're actually doing right now. And we're seeing, you know, firefighters and other personnel sort of combing through the wreckage. They're going around, looking in the area of the crash.Take us through exactly what they're doing right now. I know, of course, they are trying to find the remains of passengers, who are deceased and take us through sort of what information that is most vital right now.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "02:10:01",
+      "speaker": "MARTIN",
+      "sentences": "So I think the priority would be to get everybody out of the aircraft in whichever state or condition they were in. You know, when you're assumed or presumed someone dead, sometimes, sadly or unfortunately, they're not. And you've got to get them immediate medical attention because as much information that you can get from passengers on board and survivors is absolutely critical to piecing together, that puzzle together to figure out what went wrong.And, you know, from what we're seeing so far is that, you know, if you look at the end of the runway, you are going to have that kind of equipment. But what it appears that this guy turned back and he said, look, I'm going to bring the airplane down now, okay? And get me any spot to land. And he did that. And I guess he overshot from what we know so far from the video, Kim, is he overshot. And when he overshot, you know, you got no braking, you got no landing gear, you can't pull your thrust reverser back, so it's never going to -- you're never going to bring your aircraft to a complete halt or stop. And that's what led him to ramp the aircraft into the wall and into the ground equipment.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "02:10:01",
+      "speaker": "BRUNHUBER",
+      "sentences": "Yeah. As we're looking at, again, live pictures of crews sort of scouring the grounds there, trying to find remains of passengers. We have 122 confirmed dead. Two people have been saved, two crew members, pilots go through simulations of all of these types of situations, right, in terms of some of the things that might have been involved here, plane, bird strikes and landing gear not deploying and so on, right?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "02:10:01",
+      "speaker": "MARTIN",
+      "sentences": "Oh, yeah. I mean, some of the flight simulator scenarios are aggressive or nasty. I mean, you know, they throw everything at you. engine failure, bird strike, you know, you know, doors blowing out, you know?I mean, pretty much, you know, the worst that can happen. And pilots are trained to bring an aircraft down with the highest level of safety procedures. And, you know, everything is taught to you by the book. You're not there to do your own thing. And, you know, clearly, from what we know so far, is that the pilots brought the aircraft down, even if the aircraft was completely incapacitated. So you had an approach, you had a touchdown and everything was going fine from what we saw from the video. But you know, you know, tough luck. He just couldn't stop the aircraft in time. And -- and you know what we would really establish. And I think what's going to be a quick fix here is that once we get the cockpit tapes out, the CVR and the ATC tapes and the DFDR, I think all of those should -- should tell us, at least initially, what went wrong. And the larger part of the investigation is when we start piecing the -- you know, start piecing the aircraft together in a hangar. That's when we know why did certain things didn't work with that aircraft? You know, why did they have to come in at that high speed? Why did the engines completely shut off? Was it one? Was it duel? So there are just so many questions right now. And, Kim, as I said before, let's respect the dead. You know, were dealing with a whole lot of people who have lost their lives, and as much as least speculation. But this is important. And I think, you know, we've got to wake those FAA guys out of the -- you know, out of their holiday spirit and get them down over to Korea, because this is critical and this has to be sorted now.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "02:10:01",
+      "speaker": "BRUNHUBER",
+      "sentences": "Yeah. Still so many questions about this, this tragedy. Mark Martin, thank you so much for being here with us. I appreciate it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "02:10:01",
+      "speaker": "MARTIN",
+      "sentences": "Hey, Kim, thanks for having me. And stay safe and fly safe.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "02:15:00",
+      "speaker": "BRUNHUBER",
+      "sentences": "An update now on the breaking news in South Korea. Officials now say they have recovered the flight data recorder from a plane crash that killed at least 122 people, 181 people were on board the flight from Bangkok to Muan, South Korea. Two crew members have been rescued, but firefighters say all other passengers and crew are presumed dead.The Boeing 737 800 crash landing was caught on video. Emergency workers say they have not yet found the places the planes voice recorder. Russian President Vladimir Putin has apologized for the fact that an Azerbaijan Airlines flight has crashed after entering Russian airspace on Christmas Day. During a phone call with Azerbaijan's President Ilham Aliyev, Putin called it a tragic incident. Aliyev told Putin that external interference led to a complete loss of control before the plane went down in Kazakhstan, killing 38 people. CNN's Nada Bashir is following the latest developments. (BEGIN VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "02:20:03",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Unreal, you hear that sound?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "02:20:03",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "Yeah.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "02:20:03",
+      "speaker": "BRUNHUBER",
+      "sentences": "I can see that tornado there in southwestern Mississippi on Saturday. The threat of severe weather continues to loom large for millions of Americans. At least two people are dead after severe storms and tornadoes tore through parts of Texas, Louisiana and Mississippi on Saturday.More than 4 million Americans are currently under tornado watches. More than 2 million were under a rare, particularly dangerous situation warning earlier on Saturday, according to the U.S. National Weather Service. A number of tornadoes were reported outside of Houston, Texas, on Saturday, including the small town of Montgomery. You can see here a family, including young children, had to be rescued from the rubble. The storms moved quickly and unpredictably, impacting those who thought they were out of harms way. Listen to this. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "02:20:03",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "We were already in the driveway. It was just drizzling. We were out. We were waiting for the realtor to come show us the property.And all the reports said that the tornado or the storm was passing already by us. It was heading northeast. So were sitting there waiting for her. And then two minutes later, everything just shifted tremendously. The wind started blowing and then the trees just fell on top of us. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "02:26:51",
+      "speaker": "BRUNHUBER",
+      "sentences": "All right. An update on our top story. Investigators have recovered the flight data recorder from the wreckage of the crashed plane in South Korea, but they're still looking for the other so- called black box, the cockpit voice recorder. Hundreds of emergency workers are on the scene hours after the Jeju Air jet crashed landed in Muan, South Korea. The death toll has officially risen to 122. Two crew members have been rescued, and the remaining passengers and crew are now presumed dead.CNN correspondent Mike Valerio is following this breaking news from Seoul. So, Mike, bring us the latest.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "02:30:05",
+      "speaker": "BRUNHUBER",
+      "sentences": "Yeah, so many questions. And certainly people who want answers. The families of those loved ones, unbelievable tragedy for so many families. And we have live pictures from the airport where families are presumably waiting for news of their loved ones. And we can see it there, just an unbelievable tragedy for -- for so many people in South Korea there.Mike Valerio, thank you so much for being here with us. Appreciate it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "02:30:05",
+      "speaker": "VALERIO",
+      "sentences": "Thanks, Kim.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "02:30:05",
+      "speaker": "BRUNHUBER",
+      "sentences": "And David Soucie, who is a CNN's safety analyst and a former FAA safety inspector and the author of the book \"Malaysia Airlines Flight 370\". And he joins us now from Denver, Colorado.Thank you again for being here with us on this on this sad day. So listen, again, it's hard, we don't have any answers right now. We don't want to speculate, but certainly we are getting hints from the videos that we're seeing. When you look at the video, what does it tell you?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "02:30:05",
+      "speaker": "DAVID SOUCIE, CNN SAFETY ANALYST",
+      "sentences": "Well, first of all, it's pretty obvious that the landing gear has not been deployed, not even partially deployed. But the second thing that really concerns me is that these aircraft, the 737, one of the most reliable and well used aircraft, not only in the United States but in Europe, and it is capable of landing without landing gear down and in an emergency situation like this.My concern is that after it touches down, that there are blockades and items on near the runway that they collided with that may have caused this severe explosion once it hit the ground. So a well-designed airport would not have had any kind of blockades there. The aircraft could have landed and slide off the runway onto the grass, and it should not have been able to -- it should not have had any interference with these blockades. So that would be the first thing. As an investigator I would be looking at is certainly this tragic loss of life, perhaps could have been avoided had the airport been designed and prepared for this type of emergency landing.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "02:30:05",
+      "speaker": "BRUNHUBER",
+      "sentences": "Yeah, that's a good point because certainly these aircraft are designed even if there is, I understand a hydraulic failure that wouldn't allow the landing gear to deploy normally. There are still manual ways to do this, right? And as you say, these aircraft are designed so you can possibly land it without that.And also, there have been so many advances in safety that, you know, we don't often see these aircraft sort of, you know, exploding in flames like this, unless, of course, as you say, it hits an object. So certainly there are all these questions. What about the idea of bird strikes? That's something that was mentioned as well. Does that seem like it might be a cause here?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "02:30:05",
+      "speaker": "SOUCIE",
+      "sentences": "You know, it's very perplexing to me because I don't know of any bird strike causing the landing gear not to be deployed. The other thing to think about is that if an -- if a pilot knows that they're going to have to land in an emergency situation without the landing gear, they radio head to the airport, and the airport can do some things to prepare for that. They can put foam on the runway, they can have emergency vehicles standing by so that when the aircraft does have this emergency landing.So it appears to me that no one really is really aware of the fact, at least on the ground, that the aircraft was landing without the landing gear down. So that indicates to me that possibly it was an oversight during the emergency landing to not deploy the landing gear. That's one of the things that I would be looking at again, as an investigator. But again, I really am hedging on speculating on the cause, and it -- certainly, this isn't the time to do that. The time now is to make sure that there's any survivors that are dealt with and removed from the aircraft, if possible.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "02:35:03",
+      "speaker": "SOUCIE",
+      "sentences": "Well, the first thing that I would do as an investigator is listen to the flight data recorder and listen to the communications, and then get the information from the air traffic control as well to determine why the aircraft was in that particular flight configuration. With the landing gear up, and also to find out why it was making an emergency landing. Also look to see if there was any calls ahead of time to notify the airport what's going on. So that would be my first step.The second would be the flight data recorder itself, to tell me what was going on with the systems on board the aircraft. You have to rule those things out first, if there was something that failed on the aircraft. And as you mentioned, Boeing and the NTSB will most likely be there at the investigation as well to determine if there's anything specific -- anything beyond that specific aircraft that needs to be dealt with, flight -- fleet-wide, which would be done immediately. So that's some of the communication concerns that the NTSB or the investigators there would have to communicate immediately to see if there's any other things that we need to do with the rest of the fleet.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "02:35:03",
+      "speaker": "BRUNHUBER",
+      "sentences": "Yeah, the fact that this crash happened at an airport, not in, let's say, rugged terrain on a mountain crashed in the ocean. Obviously, it will be easier to -- to find those answers. Does -- in your experience, does this remind you of any -- any previous incidents?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "02:35:03",
+      "speaker": "SOUCIE",
+      "sentences": "Again, it's too early to speculate as to the cause, but, you know, there's accidents that happen on the runway. And as you said, it makes it much easier. One investigation I did when I was stationed in Hawaii was at Japan airlines that crashed or that, basically hard landed on the runway there in Hawaii.And fortunately, in that case, the landing gear was worn down to nothing. There was fire. There was tragedy on board, but only a few people were injured by that. So there's nothing really comparable in my experience that that would, you know, give us any clues at this point until we get more information.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "02:40:54",
+      "speaker": "BRUNHUBER",
+      "sentences": "The death toll from the Jeju Air Plane crash in South Korea is now 122, 181 people were on board the Boeing 737 800 when it crashed. Two crew members were pulled from the wreckage alive, but officials say the rest of the passengers and crew are presumed dead.Now the jet was traveling from Bangkok to South Korea when it crash landed at Muan International Airport. Officials now say they've found the planes flight data recorder, but they haven't found the voice recorder. The last major functioning health facility in northern Gaza now sits empty and partially burned out. That's according to the World Health Organization and witnesses following Israel's latest raid on the Kamal Adwan Hospital. The IDF says at least 240 people have been detained for questioning, claiming they're Hamas and Islamic jihad terrorists. Some patients and staff have been transferred to another hospital, which the WHO described as destroyed and nonfunctioning. As Elliott Gotkine reports, witnesses are describing horrific scenes that played out during and after the raid. (BEGIN VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "02:40:54",
+      "speaker": "ELLIOTT GOTKINE, JOURNALIST",
+      "sentences": "The Israeli military says that its operation in and around Kamal Adwan Hospital ended on Saturday morning. They had only informed reporters of that fact on Saturday evening. It said that it made more than 240 arrests of what it described as terrorists belonging to Hamas and Islamic jihad, and it made an unspecified number of additional arrests. But the upshot of the operation is that the last remaining major medical facility in northern Gaza is now no longer operational. The World Health Organization said that the hospital is now empty.(BEGIN VIDEOTAPE) GOTKINE (voice-over):  A hospital, on fire and encircled.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "02:40:54",
+      "speaker": "WALID AL BUDI, NURSE AT KAMAL ADWAN HOSPITAL",
+      "sentences": "The situation is extremely dire tonight. The Israeli army is present at Kamal Adwan Hospital.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "02:40:54",
+      "speaker": "GOTKINE",
+      "sentences": "Patients and staff gather anxiously at the entrance of northern Gaza's last major functioning hospital. Others fight flames.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "02:40:54",
+      "speaker": "NURSE AT KAMAL ADWAN HOSPITAL",
+      "sentences": "The army are surrounding from every side, our situation is very difficult. Dr. Hussam was directly threatened with arrest, they might arrest him at any time.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "02:40:54",
+      "speaker": "GOTKINE",
+      "sentences": "These words from a nurse at Kamal Adwan Hospital in the midst of an evacuation order from the Israeli military.Dr. Hussam Abu Safiya, the hospital's director, is one of the last doctors in northern Gaza. He had been documenting the horror inside his hospital in the wake of an Israeli offensive that began in early October. DR. HUSSAM ABU SAFIYA, KAMAL ADWAN HOSPITAL DIRECTOR:  We had spoken and appealed to the world to protect and neutralize the medical system, but unfortunately, this is the grim reality we are witnessing.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "02:40:54",
+      "speaker": "GOTKINE",
+      "sentences": "On Friday, he was assaulted and detained by Israeli forces, witnesses tell CNN. On Saturday, the IDF said he was being questioned in Gaza, suspected of being a Hamas terrorist operative, but didn't provide evidence for the claim.Meantime, video shared widely appears to show the front of Kamal Adwan Hospital, with people walking between a number of tanks. Many appear to be holding their own clothes with hands held above their heads. UNIDENTIFIED MALE (through translator):  From Kamal Adwan hospital to Al-Fakhura, they made us stripped down to our underwear. It was a tough situation and they assaulted the wounded and women.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "02:40:54",
+      "speaker": "GOTKINE",
+      "sentences": "In a briefing, an IDF spokesperson said people were asked to remove clothes to ensure no one was carrying explosives.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "02:40:54",
+      "speaker": "SHUROUQ SALAH, NURSE AT KAMAL ADWAN HOSPITAL",
+      "sentences": "They separated the men from the women and took the women in groups. Those who refused to remove their clothing were beaten and they took our phones. I didn't have a phone, but those who were refusing to hand over their phones were beaten, and those who refused to take off their clothes were also beaten.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "02:45:12",
+      "speaker": "BRUNHUBER",
+      "sentences": "Meanwhile, Israel's prime minister is set to undergo surgery to remove his prostate in the coming hours. His office says Benjamin Netanyahu had a medical exam on Wednesday when doctors discovered a urinary tract infection caused by a benign, enlarged prostate. The infection has already been treated with antibiotics.Israel's government is set to hold its meeting, planned for Sunday. Now, CNN has reached out to Netanyahu's office to find out who will fill in as interim leader during the procedure. The prime minister is 75 years old. All right. To Tbilisi, Georgia, now, where the parliament has sworn in the controversial new president, Mikheil Kavelashvili, this hour. The current president has been speaking on camera to supporters who oppose what the ruling Georgia Dream Party is doing, and she calls it an anti-constitutional farce. Kavelashvili didn't win a general election. Rather, he was controversially appointed by the parliament. Opposition parties have labeled the procedure illegitimate based on unfair parliamentary elections. There have been weeks of protests calling for new elections to set things right and to put the country back on track to negotiate, joining the European Union. All right, turning now to the U.S., where Donald Trump is finally taking sides in the civil war brewing among his supporters. CNN's Alayna Treene has more. (BEGIN VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "20:50:00",
+      "speaker": "BRUNHUBER",
+      "sentences": "All right. Much more to come here on CNN. Our special coverage of the deadly crash of a Jeju Air Jetliner will continue with the very latest from South Korea.Stay with us. (COMMERCIAL BREAK)",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

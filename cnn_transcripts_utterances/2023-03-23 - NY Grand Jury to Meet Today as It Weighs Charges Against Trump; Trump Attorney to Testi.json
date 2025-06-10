@@ -1,0 +1,439 @@
+{
+  "date": "2023-03-23",
+  "headline": "CNN This Morning",
+  "subHeadline": "NY Grand Jury to Meet Today as It Weighs Charges Against Trump; Trump Attorney to Testify Friday in Classified Docs Probe; CEO to Testify on Capitol Hill to Save TikTok from Ban; Fed Raises Rates by a Quarter-Point But Signals Pause is Near. Aired 6-6:30a ET",
+  "utterances": [
+    {
+      "timeStamp": "06:00:10",
+      "speaker": "CHRISTINE ROMANS, CNN ANCHOR",
+      "sentences": "All right. March knocking on the door of April. That's when -- that's when we see this kind of stuff.Nice to see you, Chad. Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:10",
+      "speaker": "MYERS",
+      "sentences": "Good to see you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:10",
+      "speaker": "ROMANS",
+      "sentences": "All right. Thanks for joining me. I'm Christine Romans. CNN THIS MORNING starts right now.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:10",
+      "speaker": "POPPY HARLOW, CNN ANCHOR",
+      "sentences": "Good morning, everyone. Welcome to CNN THIS MORNING. We are glad you're waking up with us. So let's get started here. The five things you need to know for this Thursday, March 23.New legal trouble for Donald Trump. His attorney in the classified documents investigation has been directed to testify. And in the hush- money probe here in New York. That grand jury will reconvene today.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:10",
+      "speaker": "DON LEMON, CNN ANCHOR",
+      "sentences": "Also this this morning. The CEO of TikTok will testify before Congress. We're told that he's going to argue that his app is not a security risk and shouldn't be banned.Los Angeles community also cleaning up from a rare tornado, the National Weather Service says that it is the strongest twister to hit the area in 40 years.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:10",
+      "speaker": "KAITLAN COLLINS, CNN ANCHOR",
+      "sentences": "And an off-duty pilot now being hailed as a hero on a Southwest flight. The airline says he stepped in to help to fly the plane after the captain got sick.And also today, the March Madness is back on. The first sweet 16 game of the men's tournament is set to tip off. CNN THIS MORNING starts right now. HARLOW: All right. Good morning, everyone. We are tracking really big development -- wow -- overnight into two different investigations into former President Trump. He just suffered a major legal blow. In the special counsel's probe of classified documents at Mar-a-Lag, Trump's own defense attorney, has been ordered to testify tomorrow and to turn over evidence. This time he will not be able to claim attorney-client privilege to some of those key questions in the probe, which includes obstruction, obstruction of justice. An appeals court has agreed that Trump may have used that lawyer to break the law when federal agents were trying to locate and retrieve top-secret files at Trump's private club. And here in New York, in a separate probe, we could see significant movement in the Stormy Daniels hush-money investigation. Today that grand jury will reconvene. And the Manhattan district attorney has a crucial decision to make before that grand jury votes on a possible indictment. Will he bring key witness Michael Cohen back again to testify after his credibility was called into question? Just days ago, the grand jury heard testimony from Cohen's former legal adviser, Robert Costello, who claims Cohen is a, quote, \"serial liar\" who, quote, \"decided on his own\" to pay adult film actress Stormy Daniels and keep her quiet about an alleged affair with Trump. Kara Scannell has been following all of it. She's with us now. All right, let's begin in New York with what Alvin Bragg, the D.A., is going to do. Do you bring Michael Cohen back? And then that kind of wraps it up for the grand jury, right?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:10",
+      "speaker": "KARA SCANNELL, CNN CORRESPONDENT",
+      "sentences": "I mean, there have -- there are only so many people that know about the hush-money payments and the whole series of events that led up to it. Most of them, if not all of them, have been before the grand jury.You know, they notified Trump. They invited him to come in, which is required under New York law. He declined. Then they brought in a witness that Trump had asked for. That was Bob Costello. Now the decision is do they feel that they need to bring Michael Cohen back in to rebut anything that Costello said? I mean, one of the things that Costello said that stood out to me was he was telling -- at least he told us he told the grand jury that, you know, when he saw Michael Cohen and he was up against the ropes, and when he was in a, you know, desperate state because this investigation, the federal investigation, was closing in on him. And he said then that Cohen still would not implicate Trump in this. So it's the question is that what prosecutors feel they need to potentially bring Cohen back in to answer? This is all a bit of a black box, the grand jury process. But this is, according to sources, this is the -- this is the question that they're weighing. Do they need to bring Cohen in? And once that decision is determined, you know, then things could move quickly. Then they'll decide. OK. Do we like our case? Do we want to bring this case? And then, you know, it doesn't take very long for the grand jury to act.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:10",
+      "speaker": "LEMON",
+      "sentences": "The concern yesterday is about why -- you know, why the delay? Why nothing yesterday? But you don't know what's going on inside. They need more testament. They may need more testimony. They may not have had a quorum of people. Some people may not have shown up or what have you, or needed the day off. You never know. These are just sort of perfunctory things that can happen. So we shouldn't read into anything about a possible delay with the grand jury.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:04",
+      "speaker": "HARLOW",
+      "sentences": "And not only a big decision; it's ever been done before. But with a legally really tough case to meet the bar at the threshold for.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:04",
+      "speaker": "SCANNELL",
+      "sentences": "Right. It's a case that has never been decided by a judge. You know, you've never had someone be charged with falsifying business records for campaign finance violations and that going to trial.You know, this has been a case, an area where people have pled out. So it hasn't been really tested in that way. And so that also is a big question for them to decide, if this is the one they want to bring to test it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:04",
+      "speaker": "HARLOW",
+      "sentences": "Kara Scannell, thank you. Kaitlan.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:04",
+      "speaker": "COLLINS",
+      "sentences": "OK, so that's what's happening here in New York. You might be easily confused. There are two investigations that we are tracking this morning.This one that we're going to talk about now is the classified documents case. There has been a major legal defeat for former President Trump. And essentially, what it means is that tomorrow one of his defense attorneys is still scheduled currently to go testify, but without the attorney-client privilege that he had the last time he testified. Of course, all this depends on whether or not they are going to appeal. But we are told right now that that's pretty unlikely. So what we could see we play out tomorrow is incredibly significant, in and of itself. This is how we got here. There's a three-judge panel in the D.C. Circuit Court of Appeals. And they ruled yesterday that this defense attorney, Evan Corcoran, doesn't just have to testify. He also has to turn over some notes regarding conversations with the former president, as part of this criminal investigation into the potential mishandling of the classified documents that were taken to Mar-a-Lago. A source tells me that the documents include handwritten notes, transcribed verbal notes about his representation of Trump in the case that is part of the bigger picture here. Prosecutors didn't get their hands on those back in January, when he was testifying before the grand jury for about four hours or so. And also, that was when Corcoran declined to answer some of their questions, citing that attorney-client privilege. That has all changed now. The case is completely different, given the Justice Department has successfully argued to a judge, who agreed with them, that there's enough evidence about Trump's interactions with Corcoran, that he might have used Corcoran in furtherance of a fraud or crime, so it's a fraud/crime exception. This is how the former president's team is responding overnight, telling me in a statement, \"There is no factual or legal basis or any substance to any case against President Trump.\" They say, \"The real story here is that prosecutors only attack lawyers when they have no case whatsoever.\" For more perspective on this. I want to bring in CNN senior legal analyst, Elie Honig. Elie, obviously, this is really rare to see.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:04",
+      "speaker": "ELIE HONIG, CNN SENIOR LEGAL ANALYST",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:04",
+      "speaker": "COLLINS",
+      "sentences": "The Justice Department successfully argue that they can pierce this attorney-client privilege for Evan Corcoran, this defense attorney.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:04",
+      "speaker": "HONIG",
+      "sentences": "Right, Kaitlan. So this story starts last summer. If you go back to 2022.So remember, DOJ and Archives is trying to recover all these documents from Mar-a-Lago. They're negotiating until May, when they serve a subpoena on Donald Trump's team, saying, you have to hand us over all the documents you have left. Now the next month, Trump's team turns over a small pile of documents, but they also send in --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:04",
+      "speaker": "COLLINS",
+      "sentences": "When --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:04",
+      "speaker": "HONIG",
+      "sentences": "-- a certification.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:04",
+      "speaker": "COLLINS",
+      "sentences": "When officials from the DOJ came to Mar-a-Lago, right? HONIGlooked everywhere and there are no documents left here. zero. You have them all. We know that was untrue, because two months later DOJ does the search warrant, and they find 100-plus classified documents. So DOJ is now focused very much on that certification, because if it was false, and it was false, that could be a crime. Here's what the certification specifically says. Quote, \"A diligent search was conducted of the boxes that were moved from the White House to Florida, and no copy, written notation, or reproduction of any kind was retained as to any responsive document.\" Now that signature is blacked out there, but we know the person who signed it was Donald Trump's attorney, Christina Bobb. We also know that she got a lot of the information from -- and this is the important attorney here -- Evan Corcoran, another attorney, and they both got some of the information from Donald Trump.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:04",
+      "speaker": "COLLINS",
+      "sentences": "And a huge part of that letter, though, is that it said \"to the best of my knowledge.\"",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:04",
+      "speaker": "HONIG",
+      "sentences": "Right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:04",
+      "speaker": "COLLINS",
+      "sentences": "That is something that I think we are going to see potentially be one of the biggest phrases of this entire saga.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:04",
+      "speaker": "HONIG",
+      "sentences": "It's an important, lawyerly hedge, Kaitlan.And now the attorney-client privilege, as you mentioned before, is going to come into play, because back in January, this attorney, Kevin [SIC] Corcoran, went in, and he answered questions in front of the grand jury. But he refused to talk about certain of his conversations with Donald Trump.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:04",
+      "speaker": "COLLINS",
+      "sentences": "Which is normal. That is what attorneys typically would do, right?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:04",
+      "speaker": "HONIG",
+      "sentences": "Absolutely.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:04",
+      "speaker": "COLLINS",
+      "sentences": "They wouldn't talk about their conversations.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:10:04",
+      "speaker": "COLLINS",
+      "sentences": "Which means what?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:10:04",
+      "speaker": "HONIG",
+      "sentences": "One of these Latin phrases that means \"on its face,\" like it sounds like. You just have to make sort of the base of a showing.The other thing is there are some situations where a prosecutor can go to a judge and just say, Take our word for it. We have enough evidence. Here you have to do more. You have to prove specific evidence to a judge. And so that's what DOJ did. Last week they went to the district court, which ruled in their favor. They said yes. This judge said, Yes, I find there's evidence of the crime/fraud exception. And just yesterday, the court of appeals ruled, 3-0, agreeing with the district court.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:10:04",
+      "speaker": "COLLINS",
+      "sentences": "So I want to talk about one big thing here, because a lot of people wanting to know why they didn't appeal to the Supreme Court. I think that was what people thought immediately would happen when we got this -- when this showed up on the docket yesterday, as we were all refreshing it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:10:04",
+      "speaker": "HONIG",
+      "sentences": "Right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:10:04",
+      "speaker": "COLLINS",
+      "sentences": "They're not going to the Supreme Court. They're not appealing this.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:10:04",
+      "speaker": "HONIG",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:10:04",
+      "speaker": "COLLINS",
+      "sentences": "Corcoran is still scheduled to go testify, unless they change something tomorrow.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:10:04",
+      "speaker": "HONIG",
+      "sentences": "It could have made that decision. They could have tried to get it to the Supreme Court. It has to be a tactical decision. It has to be. They lost so decisively here and with all three judges here. They have to have just decided why go to the Supreme Court and get slapped down there? And Kaitlan, you're right. The next steps, Corcoran is going totestify. And importantly, as you reported, he has to turn over his handwritten notes from the time.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:10:04",
+      "speaker": "COLLINS",
+      "sentences": "Pretty rare, right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:10:04",
+      "speaker": "HONIG",
+      "sentences": "Very rare and also really important evidence, because that's what he was writing down at the time while this was all happening. It's really important evidence for DOJ.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:10:04",
+      "speaker": "COLLINS",
+      "sentences": "Yes, it is. And I think one thing we should notice. We have no idea what he'll say tomorrow. We don't even know what the notes show. Those are the still big questions we have this morning.That's a lot to break down. But you did so very successfully.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:10:04",
+      "speaker": "HONIG",
+      "sentences": "Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:10:04",
+      "speaker": "COLLINS",
+      "sentences": "So thank you so much for that.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:10:04",
+      "speaker": "LEMON",
+      "sentences": "All right. Elie, Kaitlan, thank you very much.Here's something that you rarely see. Take a look at this. It's a tornado hitting near Los Angeles. That's right, a tornado hitting near Los Angeles. It touched down in an industrial area of Montebello and sent debris flying everywhere. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:10:04",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "I saw what looked like a waterspout kind of tornado twister that was about 30 feet wide that just came through and was just bouncing like a top in between picking up debris. The whole sky looked like a dump.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:10:04",
+      "speaker": "MICHAEL CHEE, MONTEBELLO, CALIFORNIA, PUBLIC INFORMATION OFFICER",
+      "sentences": "Seventeen buildings in the area of the impact zone have been inspected by our Montebello Fire Department. Eleven of those 17 buildings have been red-tagged due to the damage that they've experienced.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:10:04",
+      "speaker": "LEMON",
+      "sentences": "So here's what officials are saying here. One person was injured. One person was hurt, but others there who were injured, minor, right?California gets fewer than 10 tornadoes every year. The one in Montebello was the strongest in the state in 40 years. A weaker one hit Tuesday about an hour Northwest of L.A. Happening today, TikTok's chief executive on Capitol Hill, fighting to save the app that 150 million Americans use. The Biden administration has threatened to ban TikTok in the U.S. if its Chinese owners don't sell their shares in the company. CNN's Vanessa Yurkevich joins us now with the very latest on this. This is interesting. Good morning, Vanessa.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:10:04",
+      "speaker": "VANESSA YURKEVICH, CNN CORRESPONDENT",
+      "sentences": "Good morning.So the TikTok CEO, Shou Chew, is appearing today on Capitol Hill. He's prepared for this. This is his opportunity to convince lawmakers that China and the Chinese government has no bearing, no control over TikTok. But the very same legislators he's going to be testifying in front of have already made up their mind in some cases. They believe that China, in fact, does have control over TikTok. Many support legislation that would severely restrict TikTok. Many support a total ban on TikTok. Some are calling this hearing today explosive, looking that it -- too, that it will be explosive, probably ripe for some TikTok moments of its own. (BEGIN VIDEOTAPE) YURKEVICH (voice-over): TikTok, the wildly-popular social media sensation, has taken America by storm, with nearly half of all Americans creating, uploading and watching videos. But now the company finds itself in the crosshairs of a political debate.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:10:04",
+      "speaker": "SHOU CHEW, TIKTOK CEO",
+      "sentences": "Hi, everyone. It's Shou here. I'm the CEO of TikTok.YURKEVICH (voice-over): CEO Shou Chew announcing his arrival in D.C. on TikTok as he gears up to face lawmakers Thursday in a high-stakes hearing amid threats from the White House to ban the app in the U.S., unless TikTok's Chinese parent company, ByteDance, sells their stake.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:15:07",
+      "speaker": "CHRISTOPHER WRAY, FBI DIRECTOR",
+      "sentences": "This is a tool that is ultimately within the control of the Chinese government. And it -- to me, it screams out with national security concerns.YURKEVICH (voice-over): But there is no public evidence this is happening.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:15:07",
+      "speaker": "SHERMAN",
+      "sentences": "The government has not provided a smoking gun, but maybe the government doesn't need to provide a smoking gun. It's about that possibility.REP. JAMAL BOWMAN (D-NY): Why the hysteria and the panic? YURKEVICH (voice-over): Representative Jamal Bowman, hosting TikTok creators at the Capitol just hours before the hearing.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:15:07",
+      "speaker": "BOWMAN",
+      "sentences": "It poses about the same threat that companies like Facebook and Instagram and YouTube and Twitter pose. So let's not marginalize and target TikTok.YURKEVICH (voice-over): The Trump administration tried and failed to ban TikTok in 2020. Several courts ruled it violated the International Emergency Economic Powers Act, a law the Biden administration is also up against.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:15:07",
+      "speaker": "SHERMAN",
+      "sentences": "Does it have any new legal authorities or powers to actually do it? No. And so this is why we come back to, we're likely to get a restriction on TikTok, based on what the executive branch can do right now. A complete ban, practically speaking, is unlikely at this point.(END VIDEOTAPE) YURKEVICH (on camera): And to try to address some of these security concerns, TikTok says that, as of June of 2022, they've moved all U.S. privacy data onto U.S. servers. But last year in December, we saw some ByteDance employees surveilling and tracking data of journalists here in the U.S.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:15:07",
+      "speaker": "HARLOW",
+      "sentences": "Which Chew is going to preemptively tell Congress today is abhorrent, you know.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:15:07",
+      "speaker": "YURKEVICH",
+      "sentences": "They fired those employees.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:15:07",
+      "speaker": "HARLOW",
+      "sentences": "They addressed it right away.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:15:07",
+      "speaker": "YURKEVICH",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:15:07",
+      "speaker": "HARLOW",
+      "sentences": "I hope we're able to separate fact from fiction and fear today in the hearing. I think it's -- it's really important, right? What has happened? What is the risk, and what can be done about it? But what's also fear-driven versus fact-driven?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:15:07",
+      "speaker": "YURKEVICH",
+      "sentences": "There's certainly fear from legislators, based on probably fiction or what they've heard. Chew is expected to read 12 pages of testimony laying all that out.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:15:07",
+      "speaker": "COLLINS",
+      "sentences": "Congress is really good with nuance, luckily. So --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:15:07",
+      "speaker": "LEMON",
+      "sentences": "That is huge sarcasm this morning for breakfast. Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:15:07",
+      "speaker": "HARLOW",
+      "sentences": "Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:15:07",
+      "speaker": "LEMON",
+      "sentences": "Thank you, Vanessa. Appreciate it.Oh, and be sure to catch CNN PRIME TIME as we're going to take a special look at the app that is in everyone's pocket. Except for me.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:15:07",
+      "speaker": "HARLOW",
+      "sentences": "I don't have it either.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:15:07",
+      "speaker": "LEMON",
+      "sentences": "You don't have it either. But it is a national security threat. That's the question. Is it a national security threat? CNN's Abby Phillip will host it's \"Is Time Up for TikTok?\" tonight at 9 p.m. Eastern.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:15:07",
+      "speaker": "COLLINS",
+      "sentences": "All right. Also, the Federal Reserve raising interest rates amid the banking fallout that we've seen as it is targeting inflation. We're going to break down the impact that it has for you, next.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:15:07",
+      "speaker": "HARLOW",
+      "sentences": "Nice job, Vanessa.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:21:48",
+      "speaker": "LEMON",
+      "sentences": "The Federal Reserve, not letting up on its mission to curb inflation. It has raised interest rates yet again, this time by a quarter percentage point. That is the ninth straight increase, the move coming despite concerns about a hike that it could further stress a banking system that is already seen. Two regional lenders fail.So what happens next? Christine Romans, our chief business correspondent and anchor of \"EARLY START\" joins us now. So good morning. How did how did -- how did the Fed chair explain this decision.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:21:48",
+      "speaker": "ROMANS",
+      "sentences": "You know, he said the banking system is solid and strong, but that we still needed to be fighting against inflation here. So the Fed saying it can -- it can walk and chew gum at the same time, apparently.Nine in a row here, and this brings the high end of the rate to the highest since 2007. So the highest rates since 2007. And the Fed chief also noted that the banking fallout could actually be working in the favor of the Fed in a disruptive way, of course, but it could be actually slowing lending. These banks are becoming more cautious with lending to consumers and companies, and that could have a disinflationary effect here. So that's one way the banking sector and the drama we've seen there is feeding into the decisions on Fed interest rates. What we've been watching very carefully is, when you start to jack up rates the way we have over history, you can see these periods where rates rise. And then a recession follows. Again and again, you see this pattern? The shadow, the shaded area here is a recession. These are the rate hikes heading into it. The recession we had very short in 2020 was because of the pandemic. That was a unique situation. But we have raised interest rates quite dramatically, the Fed has here. So there are some concerns that that that -- that pathway to get through this without a recession may be narrowing here. OK, so what's happening here? This means for you, again, higher interest rates for mortgages, for credit cards, auto loans and student loans. And you've already been feeling this. This is what's cooling the housing market. The typical $500,000 home, look, a year ago, you would have paid one thing this year. You would pay 607 more a month because of those higher interest costs. What can you do about it? Look, what the Fed does is out of your control. I would just caution everybody, pay down credit card debt. At interest rates like this, it is dangerous for your standard of living. Avoid store cards. Those interest rates are 30 percent. If you have savings, search for higher yields in your bank account and consider treasury I bonds. We can talk more about that later, another time. But this is a high-yielding, very safe $10,000 investment you can make in the next few months through Treasury Direct, which is the Fed's very -- the Treasury's very clunky website, but it is something a lot of people are doing, guys.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:21:48",
+      "speaker": "HARLOW",
+      "sentences": "Smart.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:21:48",
+      "speaker": "LEMON",
+      "sentences": "That's Christine Romans. Smart.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:21:48",
+      "speaker": "ROMANS",
+      "sentences": "Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:21:48",
+      "speaker": "LEMON",
+      "sentences": "You look up \"smart\" in the dictionary, Christine's picture, right next to it.Thank you, Christine. We'll see you soon.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:21:48",
+      "speaker": "ROMANS",
+      "sentences": "You're welcome. HARLOWthe streets of France as hundreds of protesters gather there and in the airport to combat the country's pension reform law. We'll take you live to Paris.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:29:04",
+      "speaker": "HARLOW",
+      "sentences": "Well, listen to this. An off-duty pilot on a Southwest flight pressed into action during an emergency.Southwest officials say one of their pilots had a medical issue mid- flight from Las Vegas to Columbus, Ohio. That's when a pilot from another airline, who was just a passenger, stepped up, helped with radio communication while that other pilot, the first officer, flew the plane. Listen. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:29:04",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "OK, we're going to get airstairs out here. The captain became incapacitated while en route. He's in the back of the aircraft right now. It's a flight attendant, but we need to get him on an ambulance immediately.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:29:04",
+      "speaker": "HARLOW",
+      "sentences": "That plane landed safely back in Las Vegas. The FAA says it will investigate what happened. We're glad he's OK.",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

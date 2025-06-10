@@ -1,0 +1,481 @@
+{
+  "date": "2023-04-19",
+  "headline": "CNN News Central",
+  "subHeadline": "NY DA Bragg Fights Congressional Subpoena In Court Today; Robert F. Kennedy Jr. Launches Democratic Presidential Bid; WaPo: Leaked Doc Shows China To Roll Out High-Tech Spy Drones. Aired 2-2:30p ET",
+  "utterances": [
+    {
+      "timeStamp": "14:00:00",
+      "speaker": "BORIS SANCHEZ, CNN ANCHOR",
+      "sentences": "This is CNN NEWS CENTRAL.Major developments this hour to keep you on top of the news, starting in a Manhattan courtroom. A fight over the Trump indictment is escalating. The district attorney now fighting a subpoena from House Republicans. We've got the latest from the court.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:00:00",
+      "speaker": "BRIANNA KEILAR, CNN ANCHOR",
+      "sentences": "And for the economy. President Biden speaks this hour on his plans. And we'll take a swipe at speaker McCarthy and what Biden calls the MAGA Republicans who are looking to reverse the president's biggest legislative accomplishment while the debt ceiling deadline creeps closer every day.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:00:00",
+      "speaker": "JIM SCIUTTO, CNN ANCHOR",
+      "sentences": "And the man who shot a teen on his doorstep is expected to be arraigned just minutes from now. He said he was scared. The prosecutor says race played a role. We are following these major developing stories and many more all coming in right here to CNN NEWS CENTRAL.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:00:00",
+      "speaker": "SANCHEZ",
+      "sentences": "Set to happen right now. A first-of-its-kind courtroom shored down -- showdown, born from the historic arrest and indictment of former President Donald Trump. The New York City DA who charged Trump with 34 counts of falsifying business records, Alvin Bragg, has a hearing before a federal judge right now to fight a subpoena from Congress. House Judiciary Chairman Jim Jordan and several other Trump allies are demanding that Bragg testify and provide documents. They're accusing him of prosecutorial abuse.CNN's Sara Murray has been tracking all of this for us. Sara, what are you anticipating from today's hearing? SARA MURRAY, CNN POLITICAL CORRESPONDENT (on camera):  Well, look. This hearing is getting underway. And what we're going to see is Bragg's team arguing that Jim Jordan does not have the authority to be subpoenaing a former prosecutor, as they already have done in his office, and that the judge to basically blocks them from issuing additional subpoenas related to this. You know, Jordan is trying to investigate the investigation into Donald Trump that's playing out there. So, here's what Bragg has had to say about this. He has accused Jim Jordan of a transparent campaign to intimidate and attack him as well as his office. Now, Jim Jordan has not been very fun of Bragg either. Here's what he's had to say. He's called Bragg's prosecution an unprecedented abuse of prosecutorial authority. He's also taking aim a bribe for you know, going to court over this saying, look, this is someone who is trying to block our investigation that we're trying to do in Congress. So, we're going to see this judge sort of wade through this clash between state and federal powers and decide does the House Judiciary Committee have the ability to be issuing these subpoenas. And we'll see if we get a ruling from the judge today from the venture if we have to wait a few days here when he decides.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:00:00",
+      "speaker": "SANCHEZ",
+      "sentences": "Yes, a major question, not just for Bragg himself, but his employees and his former employees as well. Sara Murray, thank you so much for that. Brianna?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:05:08",
+      "speaker": "KEILAR",
+      "sentences": "The battle lines are drawn. Phil Mattingly, thank you so much. Jim?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:05:08",
+      "speaker": "SCIUTTO",
+      "sentences": "All right. Some good news here. Walking miracle. That's what Ralph Yarl's attorney is calling the Kansas City teenager. Here is a new photo of him. This is remarkable considering what he went through.You could see Ralph on the right. He's wearing the green shirt, obviously, the younger man. This, after returning home from the hospital. The 16-year-old shot last week when he went to the wrong house. That's all he did. Just to pick up his siblings. According to his attorney, he has a long road ahead, but he can walk and he can communicate. And boy, he wasn't guaranteed to be that way. Any moment now, Andrew Lester, the man facing two felony counts after shooting Yarl, that's the man on the left there, is expected to be arraigned in court. CNN's Adrienne Broaddus is following the story for us. So, two felony counts. What are those, and how does this stand the ground -- your ground law factor into all this from the prosecutor's perspective? ADRIENNE BROADDUS, CNN CORRESPONDENT (on camera):  You know what, Jim? Before I answer those questions, I think it is first important to underscore that Ralph isn't just sitting at home healed. His mother says, and she told CBS News's Gayle King, that her son is surrounded by a team of medical professionals including herself. She has 20 years of experience as a nurse. We also heard from Lee Merritt, who is representing the family, and he shared with us that this young teen suffered a traumatic brain injury. And he also went on to say in part that had the bullet hit his head a fraction of an inch in any other direction, he would probably be dead right now. He is expected to make a full recovery. But it will take time. He also said we ask that you pray for Ralph and his family daily. Hearing all of this, there was another storyline developing. We heard from the mayor of the city saying the outcome could have been different but something like this should have been avoided. He calls it like this. Listen in. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:05:08",
+      "speaker": "QUINTIN LUCAS, MAYOR OF KANSAS CITY, MISSOURI",
+      "sentences": "I think that this has everything to do with race, the defendant's fear of black people, black men, black boys. And I think that's why we are all discussing this now for some reason, right? Because it is something that is tragic. And I think that if the young man wasn't black, we wouldn't be here today.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:05:08",
+      "speaker": "BROADDUS",
+      "sentences": "And, Jim, to get back to your question regarding the latest and what is next, Andrew Lester is facing two felony counts. He is expected to appear before a judge later today. Shortly, we will be following that. We know he was released on bond. And some of those conditions he's banned from having weapons, he can have no contact with Yarl or his family, that's Ralph's family, and his cell phone will also be monitored, Jim.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:05:08",
+      "speaker": "SCIUTTO",
+      "sentences": "Adrienne Broaddus on the story, thanks so much. Boris?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:05:08",
+      "speaker": "SANCHEZ",
+      "sentences": "Now to the battle over a critical abortion medication. At any moment now, the supreme court is expected to decide whether millions of women can have full access to the abortion pill mifepristone. That's the drug most commonly used to terminate pregnancies.It's also frequently prescribed to treat miscarriages as well. It was approved by the FDA more than two decades ago. A hold on a lower court's ruling restricting access to the pill is set to expire at 11:59 p.m. tonight. With us now to discuss is CNN's Senior Supreme Court analyst Joan Biskupic. Joan, thanks so much for being with us.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:05:08",
+      "speaker": "JOAN BISKUPIC, CNN SENIOR SUPREME COURT ANALYST",
+      "sentences": "Sure.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:10:03",
+      "speaker": "BISKUPIC",
+      "sentences": "OK. So, we're back at a supreme court that just ten months ago, eliminated all constitutional rights to abortion, but said that it would be up to the states and that they were not outlining it. So the havoc -- and this is a very different kind of case. They have -- they can do anything, Boris, but let me just boil it down to two main options. They can grant the request from the Biden administration and the drug manufacturer to put the lower quote -- court rulings on hold, just let everything pause while the controversy plays out in lower court litigation. That would be the simplest approach right here, and probably the least disruptive. But they could also -- that's I mean, it's a granted -- it's a granted that would be the simplest.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:10:03",
+      "speaker": "SANCHEZ",
+      "sentences": "Right. Right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:10:03",
+      "speaker": "BISKUPIC",
+      "sentences": "If they deny it, that's when you're going to see a lot of chaos because the lower court rulings in effect right now would allow the FDA approval for the drug, but restrict access. For example, the window for obtaining the drug would go from ten weeks of pregnancy down to seven weeks of pregnancy.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:10:03",
+      "speaker": "SANCHEZ",
+      "sentences": "Seven.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:10:03",
+      "speaker": "BISKUPIC",
+      "sentences": "The generic drug that is -- the one most used on the market right now would not be available. There'd be other restrictions. And that's why the Biden administration in its filing has tried to make a very compelling case that this is time to just wait, let the litigation play out in the Fifth Circuit where the merits of the case are going to be heard on May 17, just wait on that. Another option is that the justices could say, no, we will hear it first and not wait for the fifth.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:10:03",
+      "speaker": "SANCHEZ",
+      "sentences": "Yes. As you said, they can do anything here.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:10:03",
+      "speaker": "BISKUPIC",
+      "sentences": "Right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:10:03",
+      "speaker": "SANCHEZ",
+      "sentences": "We often asked you to read the tea leaves and ask if the justices have dropped any hints. Have you read anything to what they might do?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:10:03",
+      "speaker": "BISKUPIC",
+      "sentences": "OK. Well, let me just say, they were on the bench this morning. And I went up there for oral arguments. And they only now are back together weighing this.I want to stress how this is different from what they did last June. This goes to the FDA authority to use its own scientific determinations on what drugs would be a right --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:10:03",
+      "speaker": "SANCHEZ",
+      "sentences": "Right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:10:03",
+      "speaker": "BISKUPIC",
+      "sentences": "-- what drugs have been tested and are safe and effective. And if they were to sit -- effectively second-guessed that by letting these lower court orders take effect, it would -- it would really disrupt the entire FDA's scheme for approval of drugs.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:10:03",
+      "speaker": "SANCHEZ",
+      "sentences": "Yes, no question. And not just for drugs related to abortion, but all sorts of drugs.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:10:03",
+      "speaker": "BISKUPIC",
+      "sentences": "That's right. That's what people are saying, you know, the Alzheimer's drugs, the -- any kind of drugs that you can imagine, it would be for any new -- any existing and new drugs. Because what the lower court judges did in this case, were essentially put themselves in the shoes of the agency experts who were -- had looked at all the studies and determined at least through their eyes that the drug was safe and effective.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:10:03",
+      "speaker": "SANCHEZ",
+      "sentences": "Yes, critics were arguing that it's essentially a judge playing scientist and trying to review data.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:10:03",
+      "speaker": "BISKUPIC",
+      "sentences": "Right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:10:03",
+      "speaker": "SANCHEZ",
+      "sentences": "Joan Biskupic, please keep us up to date with what you hear.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:10:03",
+      "speaker": "BISKUPIC",
+      "sentences": "Sure.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:10:03",
+      "speaker": "SANCHEZ",
+      "sentences": "Thanks so much.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:10:03",
+      "speaker": "BISKUPIC",
+      "sentences": "Thanks, Boris.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:10:03",
+      "speaker": "SANCHEZ",
+      "sentences": "Jim?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:17:17",
+      "speaker": "SANCHEZ",
+      "sentences": "Robert F Kennedy Jr. is following in his father's footsteps, launching a bid for the Democratic presidential nomination. He spoke to a crowd in Boston today calling himself a truth-teller. It's important to remember, Kennedy has long been considered a conspiracy theorist and he's a prominent anti-vaccine advocate.CNN's Jeff Zeleny has been tracking all of this. And, Jeff, there were questions about whether President Biden may face a Democratic rival in a potential reelection bid. I bet this is not what he expected.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:17:17",
+      "speaker": "JEFF ZELENY, CNN CHIEF NATIONAL AFFAIRS CORRESPONDENT",
+      "sentences": "Certainly not being challenged by a Kennedy, Boris. But I can tell you for an hour and 48 minutes long, Robert F. Kennedy Jr., who's the third eldest child of Bobby and Ethel Kennedy, spoke here in Boston, largely talking about vaccinations, what he calls a corrupt American greed, and he promised to be a truth-teller. But he did not correct any of his mistruths that he has been really gaining prominence on for years, talking about the safety and security of vaccines. But he did take note of the fact that the majority of his family was not on hand for this announcement. Take a listen to how he characterized that.(BEGIN VIDEO CLIP) ROBERT F. KENNEDY JR., DEMOCRATIC 2024 PRESIDENTIAL CANDIDATE:  I'm very, very grateful to all of you for coming. There are other members of my family who are not here today. Many of them also just as plain disagree with me on issues like censorship, on war, on public health, and they are entitled to their beliefs, and I respect their opinions on them. And I'm -- and I love them back. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:17:17",
+      "speaker": "ZELENY",
+      "sentences": "He may love them back but nearly to a person. His siblings and other storied members of the Kennedy family have largely denounced his decision to launch this long-shot presidential bid challenging President Biden but also challenging science. Now, he spent more time talking about what he views as the corruption of corporate America.He railed against the media. He railed against American wars. But really use the history of his uncle John F. Kennedy, and his father, Bobby Kennedy to describe his own presidential bid. But there were so many historical miscomparisons over these generations. We couldn't even get in all those. Again, an hour and 48-minute long speech. Clearly, he's trying to appeal to his group of supporters who have joined his call because of the anti-vaccination movement here. Unclear where he will go on from this in the Democratic presidential bid, but he is at least formally challenging President Biden, Boris.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:20:02",
+      "speaker": "KEILAR",
+      "sentences": "The drip of information from the Pentagon leaks still sending shockwaves through the Defense Department, the Capitol, and across the globe.Next hour, the entire Senate will be briefed on this. And a concerning new detail report of -- reported about China's capabilities is sure to be top of mind for those senators. According to The Washington Post, one Pentagon document shows Beijing is ready to roll out an advanced spy drone unit that could give it an edge on surveillance. The man suspected of kicking off this whole ordeal, Jack Teixeira was back in court today. I'll be it briefly. And now, the unit where he was assigned has lost its intelligence role pending an Air Force investigation. CNN's Oren Lieberman is at the Pentagon for us. Oren, let's start with this Chinese drone program. Just how high-tech are we talking about? OREN LIEBERMANN, CNN PENTAGON CORRESPONDENT (on camera):  So, first, let's take a look at this drone. This is a picture from back in 2019. If we can show you of the WZ-Eight drones, supersonic spy drones that China rolled out in a military parade. In terms of what it's capable of at the time, analysts didn't think it was flying yet. But here's a look at what analysts now saying -- what these Washington Post documents that CNN has not been able to obtain or verify say about the capabilities of the drone. It can fly at Mach three or better. So, three times the speed of sound at an altitude of a hundred thousand feet. And those capabilities give it the ability to evade detection and interception, and that's potentially what the U.S. is looking at as worrisome here. And it's not this drone on its own. In fact, in a bit of a role reversal, the U.S. had its own supersonic spy drone designed to spy on China back in the late 60s, and early 70s timeframe, but it was decommissioned and the mission was canceled after four unsuccessful missions. So, the technology itself, perhaps not that worrisome, but it's the big picture of China's surveillance program overall. It's the spy satellites, it's the spy balloon that we, of course, remember from just a few weeks back, and now a supersonic spy drone that these documents say is intended to perhaps spy on Taiwan or in parts of South Korea, Brianna.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:20:02",
+      "speaker": "KEILAR",
+      "sentences": "Oren, what went into this decision to pull this unit of Teixeira's off its original Intel assignment?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:20:02",
+      "speaker": "LIEBERMANN",
+      "sentences": "First, this gives us an idea of how seriously the Air Force views this -- views this. Secretary Frank Kendall, taking a number of steps here, but also of the potential ramifications here. The unit itself under investigation from the Air Force Inspector General.The 107 intelligence wing had a role of collecting and putting together essentially a classified Intel brief for combatants, commanders, and others. That has now been pulled and given to other intelligence wings in the Air Force. As well as these other steps you see here from the Air Force, a stand down across the surface within 30 days to discuss how to handle these sorts of documents and review, as well as to reassess security procedures around the handling of classified Intel. And then finally, a review of everyone who has this level of clearance to make sure they're actually on a need-to-know basis, Brianna.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:20:02",
+      "speaker": "KEILAR",
+      "sentences": "All right. Oren Lieberman, at the Pentagon, thank you for that. Jim?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:20:02",
+      "speaker": "SCIUTTO",
+      "sentences": "All right. So, let's talk about now where this all stands, what we've learned about what's been lost. Here is CNN's Global Affairs Analyst, senior managing editor at Military Times, Kimberly Dozier. Great to have you here.You made a great point in preparation for this, and that is that there may be consideration of having National Guard units with this kind of intelligence access due to the temporary nature of their role, perhaps less oversight. I mean, is it possible that this temporary removal of his unit from that kind of intelligence could be a sign of things to come more broadly? KIMBERLY DOZIER, CNN GLOBAL AFFAIRS ANALYST (on camera):  Well, the Pentagon moves slowly and then very, very fast. They're going to be looking at not just at the Air Force, but across the force, who has access to what did this leak happen.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:20:02",
+      "speaker": "SCIUTTO",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:20:02",
+      "speaker": "DOZIER",
+      "sentences": "Because procedures that were already in place weren't followed, and this was just sloppy execution --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:20:02",
+      "speaker": "SCIUTTO",
+      "sentences": "Right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:20:02",
+      "speaker": "DOZIER",
+      "sentences": "-- or was it a breakdown because this particular unit was a part-time unit. Now, during the wars of Iraq and Afghanistan, as the U.S. was trying to keep the ranks filled and keep up with the up-tempo of combat --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:20:02",
+      "speaker": "SCIUTTO",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:20:02",
+      "speaker": "DOZIER",
+      "sentences": "-- National Guard units, reserve units took on much greater roles. And right now, we've got for instance, the California National Guard unit has been working -- their Air Force folks have been working directly with Ukraine pilots over the years, way before the war started the latest invasion by Russia.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:20:02",
+      "speaker": "SCIUTTO",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:20:02",
+      "speaker": "DOZIER",
+      "sentences": "So, this is the kind of thing that now people are going to look at, specifically what went wrong in this particular unit --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:20:02",
+      "speaker": "SCIUTTO",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:20:02",
+      "speaker": "DOZIER",
+      "sentences": "-- and does it indicate a system-wide problem?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:20:02",
+      "speaker": "SCIUTTO",
+      "sentences": "Well not to diminish the role of National Guard units by any means --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:20:02",
+      "speaker": "DOZIER",
+      "sentences": "No.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:20:02",
+      "speaker": "SCIUTTO",
+      "sentences": "-- but becomes a risk-reward issue here. I've noticed a difference when I speak to British officials, for instance, about the damage from this leak --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:20:02",
+      "speaker": "DOZIER",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:20:02",
+      "speaker": "SCIUTTO",
+      "sentences": "-- and American officials. I spoke to the Defense Minister of the UK, Ben Wallace, yesterday He said, I haven't skipped a heartbeat on this. A lot of it's fake. I spoke to John Kirby yesterday, and here's what he told me. Have a listen.(BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:20:02",
+      "speaker": "JOHN KIRBY, NATIONAL SECURITY COUNCIL SPOKESMAN",
+      "sentences": "We know that some of the documents have been sort of doctored or manipulated in some way. Not all of them, but some of them. So, certainly, there's a case to be made that not all that information is validated.(END VIDEO CLIP) [14:25:08] SCIUTTO:  He did go on to say, though, make no bones about it. We still don't know the full extent of this.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:20:02",
+      "speaker": "DOZIER",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:20:02",
+      "speaker": "SCIUTTO",
+      "sentences": "But based on folks you speak to, how seriously are they taking this, and do they think there's more to drop?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:20:02",
+      "speaker": "DOZIER",
+      "sentences": "They're afraid of that.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:20:02",
+      "speaker": "SCIUTTO",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:20:02",
+      "speaker": "DOZIER",
+      "sentences": "So, not only is the FBI going over Teixeira's laptops, whatever electronic that they could get from him -- his home, and interviewing anyone he interacted with, trying to see -- they'll also be trying to see what he shared with them.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:20:02",
+      "speaker": "SCIUTTO",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:20:02",
+      "speaker": "DOZIER",
+      "sentences": "But they'll also be looking at his logins for as long as he worked at that unit, what did he access? Because everything he accessed potentially might be leaked.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:20:02",
+      "speaker": "SCIUTTO",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:20:02",
+      "speaker": "DOZIER",
+      "sentences": "And then they've got to warn every ally that might be mentioned. Now, as bad as this is, however, in one sense, the system worked in that there's tiered access, as you know, to intelligence.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:20:02",
+      "speaker": "SCIUTTO",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:20:02",
+      "speaker": "DOZIER",
+      "sentences": "And he had a top-secret, but he didn't have TSCI, top secret compartmented --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:20:02",
+      "speaker": "SCIUTTO",
+      "sentences": "Sensitive compartmentalize, yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:20:02",
+      "speaker": "DOZIER",
+      "sentences": "-- information. So, he didn't access -- so he got assessments of oh, we don't think --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:20:02",
+      "speaker": "SCIUTTO",
+      "sentences": "Right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:20:02",
+      "speaker": "DOZIER",
+      "sentences": "-- the Ukrainian military has enough ammunition for XYZ, but what he didn't get were the sources and methods of how they access that information.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:20:02",
+      "speaker": "SCIUTTO",
+      "sentences": "Yes. That's key because one of the concerns in the wake of anything like this.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:20:02",
+      "speaker": "DOZIER",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:20:02",
+      "speaker": "SCIUTTO",
+      "sentences": "We saw it with WikiLeaks' Chelsea Manning does it, expose sensitive sources abroad whose lives may be endangered. So, that's a notable distinction. Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:20:02",
+      "speaker": "DOZIER",
+      "sentences": "But that said, if you are a spy overseas -- or rather, you know, an agent that a CIA officer is running -- SCIUTTO",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:20:02",
+      "speaker": "DOZIER",
+      "sentences": "-- are you going to think twice about risking your life to get --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:20:02",
+      "speaker": "SCIUTTO",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:20:02",
+      "speaker": "DOZIER",
+      "sentences": "-- and share information if you think the U.S. is going to leak it? Maybe not.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:20:02",
+      "speaker": "SCIUTTO",
+      "sentences": "Well, that's the concern with all of these leaks. We'll continue to follow up. Kim Dozier, thanks so much. Boris.",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

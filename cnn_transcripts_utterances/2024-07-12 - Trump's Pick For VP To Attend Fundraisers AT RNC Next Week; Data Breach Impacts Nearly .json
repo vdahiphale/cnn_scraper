@@ -1,0 +1,247 @@
+{
+  "date": "2024-07-12",
+  "headline": "CNN News Central",
+  "subHeadline": "Trump's Pick For VP To Attend Fundraisers AT RNC Next Week; Data Breach Impacts Nearly All AT&T Cell Customers; Alec Baldwin Trial Paused, Jury Sent Home Amid Defense Allegations Of Wrongdoing By Investigators; Trucker Finds 1-Year-Old Alive Beside Louisiana Highway. Aired 2:30-3p ET",
+  "utterances": [
+    {
+      "timeStamp": "14:30:00",
+      "speaker": "HARRY ENTEN, CNN SENIOR DATA REPORTER",
+      "sentences": "Five times they actually fell in the post-debate polls. It doesn't matter who wins or loses the vice-presidential debate.You know, you could go back, for example, in 2020, right? It wasn't -- I don't think anyone really remembers what exactly happened in that particular debate between Mike Pence and Kamala Harris. You go back to 2016, I don't really think anyone really remembers the V.P. debate between Mike Pence and Tim Kaine. In fact, for a second there, I almost forgot who Hillary Clinton's V.P. pick was.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:30:00",
+      "speaker": "JESSICA DEAN, CNN HOST",
+      "sentences": "Yes, I just remember the fly.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:30:00",
+      "speaker": "BORIS SANCHEZ, CNN HOST",
+      "sentences": "I was about to say --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:30:00",
+      "speaker": "DEAN",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:30:00",
+      "speaker": "SANCHEZ",
+      "sentences": "-- that's the thing I remember most, the fly --(CROSSTALK)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:30:00",
+      "speaker": "DEAN",
+      "sentences": "-- remember.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:30:00",
+      "speaker": "SANCHEZ",
+      "sentences": "-- on Mike Pence.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:30:00",
+      "speaker": "DEAN",
+      "sentences": "But that's it. That's all I got.Any sign that people may, Harry, dislike a V.P., but still vote for the top of the ticket in the end?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:30:00",
+      "speaker": "ENTEN",
+      "sentences": "Yes, I saved my Dan Quayle answer for the last one here.(LAUGHTER)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:30:00",
+      "speaker": "ENTEN",
+      "sentences": "Because I want to go back to 1988, right? Obviously, we all remember that debate moment between Lloyd Bentsen and Dan Quayle.Look at this. Actual election, President George H.W. Bush won by eight points. But if you we're only voting for vice president, according to the exit poll that year, you would have voted for the Democrat Lloyd Bentsen by 31 points. The fact is, if that election doesn't prove that V.P. picks almost never matter, I don't know what does. The fact is, Lloyd Bentsen might have said to Dan Quayle he wasn't Jack Kennedy, but the fact is, it didn't matter.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:30:00",
+      "speaker": "SANCHEZ",
+      "sentences": "Yes. You may not be Jack Kennedy, but you are Harry Enten, and we appreciate you. Thanks for being here.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:30:00",
+      "speaker": "ENTEN",
+      "sentences": "You're both wonderful.(LAUGHTER)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:30:00",
+      "speaker": "SANCHEZ",
+      "sentences": "So this is a really alarming story. AT&amp;T says hackers stole call and texts records from nearly all, every single one of its wireless customers. The massive national security implications ahead.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:36:11",
+      "speaker": "DEAN",
+      "sentences": "We turn now to a massive data breach with potential national security implications. AT&amp;T saying hackers stole the records of nearly all of its cellular customers' calls and texts.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:36:11",
+      "speaker": "SANCHEZ",
+      "sentences": "So this massive theft means that the phone and tax records for more than the 100 million customers of AT&amp;T were affected by this hack, along with anyone that they called or messaged.And get this, the FBI says that it had to ask AT&amp;T to hold off on alerting the public because of the potential risk to national security and public safety. We have Sean Lyngaas and Matt Egan with us. Sean is going to have more on the law enforcement-FBI angle of this. But let's start with Matt. What are you hearing about the hack itself?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:36:11",
+      "speaker": "MATT EGAN, CNN REPORTER",
+      "sentences": "Well, Boris and Jessica, this is just a staggering breach at AT&amp;T. The company says that it learned in April of an illegal download of data from a third-party cloud platform.And they immediately investigated and they have determined that this has impacted, quote, \"nearly all\" of its wireless customers from mid to late 2022. Nearly all of them. But non-AT&amp;T customers, they're impacted too, because the company says that people who interacted with AT&amp;T customers, they had their data exposed here, as well as customers of other wireless providers that use the AT&amp;T network. Now it's important to note that AT&amp;T says, right now, they don't believe that this data is publicly available. Emphasis on \"right now,\" because obviously that could change. As far as what kinds of data was taken here, AT&amp;T says the actual content of the calls and text messages, that was not exposed. So, Boris, any text messages you sent about me making fun of me two years ago, don't worry, that's safe. (LAUGHTER)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:36:11",
+      "speaker": "EGAN",
+      "sentences": "That's not included here, at least not yet. But what is included is the phone numbers that connected with each other.And we know that there's publicly available tools that can identify names and numbers. Also, what was included here are the amount of calls and texts between numbers, the total duration of those calls. And it's also important and significant that AT&amp;T says that, in some cases, these cell site I.D. numbers were exposed. Now that's interesting because that could potentially expose where someone lives or where someone works, maybe even at a sensitive location, like the White House or the Pentagon. Now the FCC says it is investigating. The company, AT&amp;T, says they are going to reach out to former and current customers who were impacted. The company says, \"We sincerely regret this incident occurred.\" And they \"remain committed to protecting information in our care.\" Listen, it feels like this is just the tip of the iceberg. And we're going to learn a lot more about the implications here.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:36:11",
+      "speaker": "DEAN",
+      "sentences": "Just so many people who are affected.Matt, thank you so much for that. Let's bring in Sean Lyngaas now on this FBI warning about the national security risks. Explain that to us.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:40:02",
+      "speaker": "DEAN",
+      "sentences": "Yes, none of those scenarios seem great.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:40:02",
+      "speaker": "SANCHEZ",
+      "sentences": "No. No.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:40:02",
+      "speaker": "DEAN",
+      "sentences": "All right.(CROSSTALK)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:40:02",
+      "speaker": "SANCHEZ",
+      "sentences": "Just for the record, I've never sent a negative text about Matt Egan.(CROSSTALK)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:40:02",
+      "speaker": "SANCHEZ",
+      "sentences": "Just so you know, Matt.(CROSSTALK)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:40:02",
+      "speaker": "DEAN",
+      "sentences": "Sean, thank you.Up next, Alec Baldwin's manslaughter trial has been put on hold amid serious new allegations. We've got details on that.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:40:02",
+      "speaker": "SANCHEZ",
+      "sentences": "Plus, Alabama officials are finally responded to a death row inmate who's asking the state not to autopsy his body after the execution.(COMMERCIAL BREAK) [14:45:07] SANCHEZ: There have been fast-moving developments today in Actor Alec Baldwin's manslaughter trial. The judge suddenly halting testimony in the case, sending the jury home for the weekend as she considers a motion to throw the whole thing out.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:40:02",
+      "speaker": "DEAN",
+      "sentences": "CNN's Josh Campbell is covering the trial in Santa Fe.Josh, what happened here?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:40:02",
+      "speaker": "JOSH CAMPBELL, CNN SECURITY CORRESPONDENT",
+      "sentences": "You know, criminal trials can often be dry at times. This was a truly stunning moment. The judge stopping all testimony in the trial of Actor Alec Baldwin.This came after the defense filed a motion, basically, accusing state investigators of misconduct. And this all stems from ammunition that someone brought to the sheriff's department earlier this year and told investigators this might be relevant to this \"Rust\" movie shooting investigation. But what the defense says is that that was not properly handed over to their team and shared, as court rules actually dictate. I'll play some sound here in court. Again, what the defense is claiming is that there was wrongdoing on the part of the state. The prosecution saying these items of evidence had actually no evidentiary value at all. Have a listen. (BEGIN VIDEO CLIP) LUKE NIKAS, ALEC BALDWIN'S DEFENSE ATTORNEY: We're talking about a prosecution that didn't preserve those bullets, that didn't collect them at all, that didn't turn them over. This is critical evidence in the case. It was never disclosed to us. This case should be dismissed, Your Honor. This is over and over and over and over again. And, Your Honor, you've given them a fair chance.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:40:02",
+      "speaker": "KERI MORRISSEY, PROSECUTOR",
+      "sentences": "Your Honor, there has been absolutely no violations of our obligations as prosecutors. Everything that has occurred in this regard, everything that these defense attorneys knew well before today.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:40:02",
+      "speaker": "CAMPBELL",
+      "sentences": "There was just a really surprising moment where the judge actually said, \"I want to see this ammunition for myself.\"She donned latex gloves. She was flanked by attorneys from both sides. Very tense. She was trying to determine whether this new evidence actually matches the bullets that were found on the set of that movie. She hasn't made a ruling yet. She says she wants to hear from additional witnesses. The hearing will kick off here in just a short amount of time. We'll wait to see how she rules on this motion. It's finally worth pointing out that, you know, I've been watching Actor Alec Baldwin -- we've all seen him on camera -- but in moments when he's not on camera and down the hall, it is clear that this trial is taking a toll on him. He's been moving around very slowly. He looks simply exhausted. There was a moment, as all this argument was taking place, and the judge was conferring with the lawyers that Baldwin actually got up and was kind of walking around the court and just sat down, kind of slumped down into a seat next to his wife and they embraced in this long, long hug. You could tell, on the Baldwin side, this trial certainly taking its toll. And of course, on the other side of this equation is the family of Halyna Hutchins. She was the cinematographer that was killed. Her family is not here. They are in the Ukraine. They're in Ukraine. They can't travel here. Their representative, Gloria Allred, has been in court. I've been talking to her. They say that they are closely monitoring developments here. They want justice in this case -- guys?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:40:02",
+      "speaker": "SANCHEZ",
+      "sentences": "Josh Campbell, thank you so much for the update and color from the courtroom.Now to some of the other headlines we're watching this hour. An Orlando woman arrested in Turks and Caicos is back on U.S. soil today. Sharitta Grier was taken into custody in May after two bullets were found in her carry-on. Yesterday, she was released after being fined $1,500 and given a suspended sentence. Grier was one of five Americans, you might recall, that were arrested on the islands in recent months for carrying ammunition in their luggage. Also, 45 million people along the east coast are under flood watches today. It impacts virtually everyone between Charleston, South Carolina, and Boston. The thread comes just one day after remnants of Tropical Storm Beryl caused severe flooding in Vermont, killing at least two people. Officials say more than 100 had to be rescued.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:40:02",
+      "speaker": "DEAN",
+      "sentences": "And Alabama's Department of Corrections says it will grant a Muslim death row inmate's wish to forgo an autopsy following his execution.Keith Gavin had argued in a lawsuit that procedure would violate his religious beliefs and he claimed that state officials had ignored his request thus far. He is scheduled to be executed next week. [14:49:04] Up next, a miracle rescue in Louisiana after a baby is found alive on the side of a highway. And officials think he had been there for days. (COMMERCIAL BREAK)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:40:02",
+      "speaker": "DEAN",
+      "sentences": "A truck driver is being hailed as a hero after rescuing a 1- year-old boy who was found crawling alongside the side of Louisiana interstate. That little boy's older brother was later found dead nearby.Officials say the kids had been abandoned and the toddler survived for days in tropical-storm conditions. CNN's Nick Valencia has more on what we're learning. Nick, how did all of this happen?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:40:02",
+      "speaker": "NICK VALENCIA, CNN CORRESPONDENT",
+      "sentences": "Yes, Boris and Jessica, as a father, it's just unfathomable to think what these children experienced before they were found.That 1-year-old found just a day after his four-year-old brother was found dead along the same stretch of I-10 there in Louisiana, nine miles away. Authorities there in the area where this child was found, they believe that this is a case of child abandonment. And they say that the mother, who's been identified as Aaliya Jack, 25-years-old, that she abandoned her two children as tropical storm- force winds and rain were barreling down on the gulf coast. They're hailing this truck driver, who spotted the 1-year-old in a ditch, the authorities there believe, after wandering around the interstate for at least two days. And they're calling that fact that he was spotted a miracle. (BEGIN VIDEO CLIP) STITCH GUILLORY, SHERIFF, CALCASIEU PARISH, LOUISIANA, SHERIFF'S DEPARTMENT: But we looked at this 1-year-old as a miracle baby because he was still alive. Unbelievable. Thank God that truck seen him.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:40:02",
+      "speaker": "REGINALD WALTON, TRUCK DRIVER",
+      "sentences": "I don't feel like I'm a hero. I just feel like it was God's will for me to be in the right place at the right time.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:55:04",
+      "speaker": "DEAN",
+      "sentences": "Oh, my goodness.Do authorities have any idea why the mother did this?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:55:04",
+      "speaker": "VALENCIA",
+      "sentences": "You know, I'd mentioned that tropical storm. They believe that that 1-year-old was wandering around during Hurricane Beryl as those conditions were just battering that area.We did get in touch with the grandmother. And it seems as though, according to the grandmother, that she had some sort of unofficial agreement with her daughter. That, while the grandmother seemed to be the primary caretaker, that she allowed her daughter to pick up her own kids and come and go as she pleased. Of course, she was not anticipating anything like this. Tragedy though, has seemed to follow this family over the last week. They just buried the children's great grandmother and now they're preparing for a funeral for this 4-year-old little boy -- guys?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:55:04",
+      "speaker": "SANCHEZ",
+      "sentences": "Glad the 1-year-old was found alive.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:55:04",
+      "speaker": "VALENCIA",
+      "sentences": "Yes, me, too.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:55:04",
+      "speaker": "SANCHEZ",
+      "sentences": "Nick Valencia, thanks so much.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:55:04",
+      "speaker": "VALENCIA",
+      "sentences": "You got it.",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

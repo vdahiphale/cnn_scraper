@@ -1,0 +1,433 @@
+{
+  "date": "2023-04-20",
+  "headline": "CNN This Morning",
+  "subHeadline": "McCarthy Unveils Debt Ceiling Plan, Says Dems Need To Negotiate; Today: Ex-Prosecutor To Testify After Judge Ruled Against Manhattan D.A.; Report: Actor Jonathan Majors Faces More Abuse Allegations. Aired 7:30-8a ET",
+  "utterances": [
+    {
+      "timeStamp": "07:33:19",
+      "speaker": "POPPY HARLOW, CNN ANCHOR",
+      "sentences": "That was House Speaker Kevin McCarthy putting his cards on the table in this high-stakes standoff with the White House over raising the debt limit. McCarthy's proposal would raise the debt ceiling by $1.5 trillion.That would delay the next debt ceiling deadline until March 2024. It would also cut funding for federal agencies down to 2022 levels. It would block the administration's student debt cancellation program. It would create new work requirements for those on public assistance, and a lot more. The clock is ticking. Experts predict the U.S. could default as early as June. Let's talk about this and much more with the White House Press Secretary Karine Jean-Pierre. Karine, good morning and thank you. KARINE JEAN-PIERRE, WHITE HOUSE PRESS SECRETARY:  Good morning, Poppy.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:06",
+      "speaker": "HARLOW",
+      "sentences": "So should we take that to mean no -- none of this is palatable to the White House?JEAN-PIERRE:  So here's what we're -- we have been very clear on this, Poppy. We have not -- we have not minced words as you know -- as you heard from the president. He just now -- you just quoted him. As you've heard from me, and as you've heard from others from this administration, we have been calling for Speaker McCarthy to put a bill on the floor that is going to avoid default. That's what we are asking for. We will have a conversation on the budget on the 22 percent cuts that he wants to put on veterans, on education, on cancer research. We'll have a separate conversation on that. But they need to not -- Speaker McCarthy must not waste time. He's not -- he must not do chicken -- play chicken, if you will, with the full faith and credit of our nation.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:06",
+      "speaker": "HARLOW",
+      "sentences": "Just to be clear, this bill would do that. It would avoid a default. But as I understand it, none of this is something that the White House will agree to.The position of not negotiating right now that has been the president's consistent position and pushing and agreeing only to a clear, clean debt ceiling bill -- will that remain his stance even if we do get days away from a default? JEAN-PIERRE:  So, Poppy, I just want to make it, again, very, very clear here. This is something that Speaker McCarthy and other Republicans joined Democrats three times in the last administration --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:06",
+      "speaker": "HARLOW",
+      "sentences": "That's right.JEAN-PIERRE:  -- before us, right? Three times --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:06",
+      "speaker": "HARLOW",
+      "sentences": "Yes.JEAN-PIERRE:  -- without conditions, without any type of negotiations to deal with the debt ceiling so that we did not default as a nation. This is not uncommon. And the president said this two days ago, where Speaker McCarthy is threatening, he will be the first speaker to threaten default in over 200 years, right? This is not something that we should be doing. And so, they have a constitutional duty. This is a constitutional duty that they have to do. This is their jobs, and that's what we're asking them to do, is make sure that they do not default. This is the full faith and credit of our nation --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:06",
+      "speaker": "HARLOW",
+      "sentences": "Well, it's all --JEAN-PIERRE:  -- that we're talking about.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:06",
+      "speaker": "HARLOW",
+      "sentences": "It's all of us defaulting. It harms all of us. But just to be clear then, I understand --JEAN-PIERRE:  Exactly, and I'm very -- and we have been clear about that, right? But it is also -- it is also Republicans to come --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:06",
+      "speaker": "HARLOW",
+      "sentences": "Right.JEAN-PIERRE:  -- together with Democrats --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:06",
+      "speaker": "HARLOW",
+      "sentences": "OK.JEAN-PIERRE:  -- to get this done. We've been very clear. They've done it three times in the last administration.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:06",
+      "speaker": "HARLOW",
+      "sentences": "Yes.JEAN-PIERRE:  Three times.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:06",
+      "speaker": "HARLOW",
+      "sentences": "That's a fact. Just -- so I'm going to take that to mean the positions -- the president's position remains the same on not negotiating at --JEAN-PIERRE:  I --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:06",
+      "speaker": "HARLOW",
+      "sentences": "OK, here is what -- I'm sorry to step on you. A little bit of a delay.JEAN-PIERRE:  Go ahead, Poppy.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:06",
+      "speaker": "HARLOW",
+      "sentences": "This is what Jamie Dimon, who obviously has been in a lot of conversations with the administration lately, especially about the bank failures -- this is what Jamie Dimon, the CEO of JPMorgan Chase, told me about negotiating over the debt ceiling just a few weeks ago.(BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:06",
+      "speaker": "HARLOW",
+      "sentences": "Should the Biden White House negotiate?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:06",
+      "speaker": "JAMIE DIMON, CEO, JPMORGAN CHASE",
+      "sentences": "I think one of the great lessons of the last 20 years is that if you can't pass things with bipartisan support, you shouldn't pass it. I mean, we -- yes, everyone should negotiate to do the right thing for the country. And I don't -- I don't want to get involved in a debate about the Republicans who want to reduce the deficit -- I kind of agree with that -- and the Democrats who would like now to get rid of the debt ceiling crisis.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:06",
+      "speaker": "HARLOW",
+      "sentences": "So do you think he's right?JEAN-PIERRE:  Yes. Oh, here is -- here is what I'll say, and we've been very clear about this, we are happy to talk about the budget. We saw what the MAGA Republicans and Speaker McCarthy believe in. We saw their value. They want to do 22 percent cuts on veterans, right? Twenty-two percent cuts on Meals on Wheels. If you think about education, law enforcement -- that's what they put forward. And you know what? We'll take a look at that, and we will have a conversation on the budget. But when -- again, I'm going to be repetitive here because we've been very clear. We have not minced words when it comes to our -- the full faith and credit of our nation to avoid default. That is something that should be done without conditions. That is something that should not be negotiated on. That is something that has happened more than 60 times before in the past. That is something that McCarthy and other Republicans joined Democrats and did three times -- three times under the last administration. That's what should be done this time around.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:05",
+      "speaker": "HARLOW",
+      "sentences": "So you're saying don't ignore the courts, OK.JEAN-PIERRE:  So we can't do that.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:05",
+      "speaker": "HARLOW",
+      "sentences": "OK.JEAN-PIERRE:  But what we can promise is that we are going to fight -- we are going to fight for women's reproductive rights, which is what you've seen from this -- from this White House these past several months.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:05",
+      "speaker": "HARLOW",
+      "sentences": "And let me just end on this, because I'd like to see if there is a White House response to it.An IRS supervisory special agent -- our reporting is -- is now claiming to have information about alleged mishandling and political interference in ongoing -- in the ongoing criminal probe of Hunter Biden. Is seeking -- that person is seeking whistleblower protection to share information with Congress, according to this letter obtained by CNN. Our Sara Murray just gave our viewers that reporting. And I just wonder if the White House has a comment. JEAN-PIERRE:  Right now, as you know, we've been very clear to not comment on anything related to any type of investigation. So that is something that we have been very, very diligent about and referring any -- referring that to the Department of Justice.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:05",
+      "speaker": "HARLOW",
+      "sentences": "Well, Karine Jean-Pierre, thank you for your time. It's nice to have you on CNN THIS MORNING.JEAN-PIERRE:  Thank you so much for having me, Poppy.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:05",
+      "speaker": "HARLOW",
+      "sentences": "Thank you -- Don.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:05",
+      "speaker": "DON LEMON, CNN ANCHOR",
+      "sentences": "And House Republicans just scored a win in their legal battle against the district attorney who is prosecuting Donald Trump. A Trump-appointed federal judge ruled that one of Manhattan D.A. Alvin Bragg's former prosecutors must testify to the House Judiciary Committee today. Bragg sued and tried to block the subpoena but lost after the committee chairman Jim Jordan argued the court has no authority to block it.CNN's Kara Scannell joins me now. Good morning to you. The reason behind this ruling? KARA SCANNELL, CNN CORRESPONDENT:  Yes. Well, the judge -- this was a spirited oral argument yesterday and she ran it like a tight ship, but she really hammered Bragg's team on a lot of these questions. So in her order, she denied their request to block the subpoena. She said there were a lot of politics at play here -- politics on both sides, and in her order she actually leans into this on Bragg. She says, \"The court is further unmoved by Bragg's purported concern at the prospect of injecting partisan passions into a forum where they do not belong. By bringing this action, Bragg is engaging in precisely the type of political theater he claims to fear.\" The judge says she's putting all of that aside. The issue before her is this subpoena and whether Congress has a valid legislative purpose. The House argued they had several legislative purposes here. She even got one of Bragg's attorneys to concede during the hearing that they had -- that the House had a legislative purpose because they oversee federal funds -- funds that Bragg's office acknowledged they had used as part of this investigation.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:05",
+      "speaker": "HARLOW",
+      "sentences": "Five thousand dollars.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:05",
+      "speaker": "SCANNELL",
+      "sentences": "Five thousand dollars. They're saying this was part of the investigation into the Trump Organization and the trial last fall, but the judge finding here that it doesn't matter, right? There is a legislative purpose and the judge saying it is not her job to dictate how Congress conducts its investigations but she found that this was valid.She also was very critical of Mark Pomerantz, the attorney whose testimony is expected, because she held up a book he wrote multiple times, saying he already put a lot of this out there so why isn't it fair for Congress to ask these questions? And we just got some breaking news. The appeals court has granted Pomerantz and the D.A.'s office request for a stay. So he will not --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:05",
+      "speaker": "HARLOW",
+      "sentences": "Interesting.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:05",
+      "speaker": "SCANNELL",
+      "sentences": "-- be at the hearing today.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:05",
+      "speaker": "HARLOW",
+      "sentences": "Today.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:05",
+      "speaker": "SCANNELL",
+      "sentences": "They set a very fast schedule here. They want briefs from both sides due by Saturday and they directed the clerk of the court to set the -- set oral arguments for the first available date. So we are going to get a decision in this pretty quickly. But we do have a pause for now. Pomerantz won't be before Congress today.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:05",
+      "speaker": "LEMON",
+      "sentences": "So this is just briefs by Saturday but we don't know until they've got it figured out.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:05",
+      "speaker": "SCANNELL",
+      "sentences": "Briefs by Saturday, then they're going to set a date for oral argument and have them come in and make this pitch.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:05",
+      "speaker": "LEMON",
+      "sentences": "All right. HARLOW",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:05",
+      "speaker": "LEMON",
+      "sentences": "Thank you, Kara -- appreciate it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:11",
+      "speaker": "CHRISTINE ROMANS, CNN CHIEF BUSINESS CORRESPONDENT, ANCHOR, EARLY START",
+      "sentences": "Good morning.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:11",
+      "speaker": "HARLOW",
+      "sentences": "-- what's going on here. Good morning.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:11",
+      "speaker": "ROMANS",
+      "sentences": "Well, what's going on? Well, Tesla shares are down in the premarket so shareholders at Tesla are seeing that there's a strategy here from Elon Musk that they're watching closely. And his strategy is try to sell more cars but make less money per car. So he's crunching his margins because he wants to get a big fleet out there of electric vehicles. He wants to be the leader in EV.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:11",
+      "speaker": "LEMON",
+      "sentences": "Flood the market. Everyone sees him and also he is a leader.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:11",
+      "speaker": "ROMANS",
+      "sentences": "Make as many as you can. Make as many as you can, take as many orders as you can, and be the leader there -- but you're going to make a little bit less on each car. So that's what shareholders don't like. But for consumers, it means these prices have been going done.Last year, in the first quarter, the average price of one of these cars was about $52,000. After all these price cuts he's put in, this quarter it's about $46,000. He's cut the Model 3, the Model Y, the Model S. He just did the sixth round of price cuts. So for consumers, you're seeing these lower prices come in here and you also have these tax credits. The Treasury Department has clarified all these rules. And so, there's $7,500 in tax credit for about 18 different car models, four different car brands -- Tesla, Ford, GM, and Volkswagen -- that are available right now, depending on how much money you make. But these are a bunch of cars that have all the right domestic sourcing requirements to get $7,500 in money back on those cars. So with the price cuts and the tax credits there's a hope that these are going to be more affordable and people will start to take them up more.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:11",
+      "speaker": "LEMON",
+      "sentences": "Because there are still challenges with the -- with the EV market, right?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:11",
+      "speaker": "ROMANS",
+      "sentences": "Of course. I mean, you have -- people have range anxiety. Poppy and I both have. We lived in the Midwest --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:11",
+      "speaker": "HARLOW",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:11",
+      "speaker": "ROMANS",
+      "sentences": "-- and we've talked about this a million times. I want to be able to get in the car and go to Iowa, you know. She wants to be able --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:11",
+      "speaker": "HARLOW",
+      "sentences": "Right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:11",
+      "speaker": "ROMANS",
+      "sentences": "-- to go to Minnesota.That's part of it. People are concerned about the cost of the car. That might be coming down. We also know there's been some chaos around this tax credit -- this confusion. I'm going to tweet out, guys, a list of all the cars currently that qualify for $7,500 back.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:11",
+      "speaker": "HARLOW",
+      "sentences": "Great.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:11",
+      "speaker": "ROMANS",
+      "sentences": "There are quite a few of them on there.I talked to Dan Ives, who is a Wedbush Securities analyst, this morning about what the strategy here is from Tesla. And he said Elon can hear Mary right behind him.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:11",
+      "speaker": "HARLOW",
+      "sentences": "Aura.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:11",
+      "speaker": "ROMANS",
+      "sentences": "-- meaning Elon Musk-Mary Barra. There is a big move to be the leader in EV. And so you could see more maybe price cuts for these Tesla products in the future.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:11",
+      "speaker": "LEMON",
+      "sentences": "I think -- I think you have to come down a little more when -- so that they can become affordable to the average American.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:11",
+      "speaker": "ROMANS",
+      "sentences": "But does that hurt in the end because now if you are a consumer and you think it's going to get cheaper, then do you wait a little bit -- and so then you kind of hurt yourself by --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:11",
+      "speaker": "HARLOW",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:11",
+      "speaker": "ROMANS",
+      "sentences": "-- teasing more price cuts? I don't know -- we'll see.But this is the direction -- slowly with some bumps, but the direction that the U.S. car market is heading in.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:11",
+      "speaker": "LEMON",
+      "sentences": "Good point. Nice work, Christine.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:11",
+      "speaker": "HARLOW",
+      "sentences": "Thanks, Christine.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:11",
+      "speaker": "ROMANS",
+      "sentences": "Thanks, guys.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:56:38",
+      "speaker": "LEMON",
+      "sentences": "So this morning, an attorney for actor Jonathan Majors is denying a new report of more abuse allegations. Variety is reporting that alleged victims came forward and are cooperating with the Manhattan district attorney's office. Last month the actor was arrested and arraigned on assault and harassment charges.I want to bring in now CNN's entertainment reporter Chloe Melas. Chloe, what is going on with this?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:56:38",
+      "speaker": "CHLOE MELAS, CNN ENTERTAINMENT REPORTER",
+      "sentences": "Well look, I reached out to the district attorney's office last night and they are not commenting.But in a statement to CNN, I want to read you what an attorney for Jonathan is telling us. The attorney is saying that \"Jonathan Majors is innocent and has not abused anyone. We have provided irrefutable evidence to the district attorney that the charges are false. We are confident that he will be fully exonerated.\" You know, this is such a shame -- the entire situation -- because he has had such a great career so far, starring in Marvel films -- \"Creed.\" He has potentially a big new movie with Marvel that is set to come out in 2025. His father was in the Air Force. He went to Yale. We've talked to him at CNN. It's very disturbing -- these allegations from this alleged dispute in March. But we will keep you posted on that as it develops.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:56:38",
+      "speaker": "LEMON",
+      "sentences": "And it's -- this is still developing, right? These alleged victims came forward but they're not really talking -- not really discussing what's happened.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:56:38",
+      "speaker": "MELAS",
+      "sentences": "Correct.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:56:38",
+      "speaker": "LEMON",
+      "sentences": "Yes. All right.Chloe Melas, thank you very much. We appreciate that.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:56:38",
+      "speaker": "MELAS",
+      "sentences": "Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:56:38",
+      "speaker": "HARLOW",
+      "sentences": "CNN THIS MORNING continues right now.(BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:56:38",
+      "speaker": "JIM GARDNER, HELICOPTER PILOT COVERING TORNADO FOR KWTV",
+      "sentences": "OK. We are beat the hell up. I have no windshield. The helicopter is beat up. We are trying to make to (INAUDIBLE) Valley and land.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:56:38",
+      "speaker": "LEMON",
+      "sentences": "So, good morning.When you hear folks who are normally very --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:56:38",
+      "speaker": "HARLOW",
+      "sentences": "Calm.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:56:38",
+      "speaker": "LEMON",
+      "sentences": "-- calm, right, and they're used to being in the skies in a helicopter like that and they sound like that, you know there's a problem.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:56:38",
+      "speaker": "HARLOW",
+      "sentences": "It's terrifying.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:56:38",
+      "speaker": "LEMON",
+      "sentences": "Thanks for joining us this morning. Kaitlan is off.That was a news helicopter during the severe weather outbreak that was in Oklahoma. At least two people are dead after multiple tornadoes touched down, and now millions of Americans are in the path of a very powerful storm.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:56:38",
+      "speaker": "HARLOW",
+      "sentences": "Also this morning, there is a manhunt underway in North Carolina for a man who allegedly shot a little girl, six years old, and her father after a basketball rolled into his yard.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:56:38",
+      "speaker": "LEMON",
+      "sentences": "Wow.And House lawmakers coming together for a tabletop war game to simulate a Chinese invasion of Taiwan. We do begin though in North Carolina where a manhunt is underway right now. Police say 24-year-old Robert Louis Singletary is considered armed and dangerous. He is accused of shooting a 6-year-old girl and her father, as well as another woman, after a basketball rolled into his yard in Gaston County on Tuesday night. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:56:38",
+      "speaker": "KINSLEY WHITE, SHOT AT WITH HER DAD",
+      "sentences": "We don't even know the man. Why did you shoot my daddy and me? Why did you shoot a kid's dad?(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:56:38",
+      "speaker": "HARLOW",
+      "sentences": "All right. Unbelievable to have to hear that from a 6-year- old.Her face was hit by bullet fragments. Her father is still in the hospital. Dianne Gallagher is following it live from Charlotte, North Carolina. Dianne, are there any leads? They think this guy -- they can't -- they can't find him?",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

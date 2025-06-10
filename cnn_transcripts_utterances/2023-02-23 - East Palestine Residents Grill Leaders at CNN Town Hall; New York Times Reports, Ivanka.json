@@ -1,0 +1,511 @@
+{
+  "date": "2023-02-23",
+  "headline": "CNN This Morning",
+  "subHeadline": "East Palestine Residents Grill Leaders at CNN Town Hall; New York Times Reports, Ivanka and Jared Kushner Subpoenaed in Jan. 6 Investigation; Black Students Receive Racist Drawings at California Elementary School. Aired 7-7:30a ET",
+  "utterances": [
+    {
+      "timeStamp": "07:00:00",
+      "speaker": "DON LEMON, CNN ANCHOR",
+      "sentences": "That's a different one.CNN This morning continues right now. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:00",
+      "speaker": "JIM STEWART, RESIDENT OF EAST PALESTINE, OHIO",
+      "sentences": "I'm angry. I'm angry about this.I lived in East Palestine for 65 years now. I don't feel safe in this town now. You took it away from me. You took this away from us. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:00",
+      "speaker": "LEMON",
+      "sentences": "Every right to be angry and to ask as many questions as they want.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:00",
+      "speaker": "POPPY HARLOW, CNN ANCHOR",
+      "sentences": "Absolutely.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:00",
+      "speaker": "LEMON",
+      "sentences": "So, good morning everyone. Welcome. Kaitlan is off.Anger, fear, and frustration at last night's CNN town hall, a railroad CEO coming face-to-face with residents after a toxic train wreck unleashed chemical disaster in their town. In just a moment, we're going to speak to those residents and Ohio's lieutenant governor. Plus, a T.V. journalist shot and killed while reporting at a murder scene, and we are learning about the shooting spree that left three people, including a child. And it appears a special counsel investigating Donald Trump is going deeper into his inner circle. But we are going to begin with the toxic train disaster in East Palestine, Ohio. The transportation secretary, Pete Buttigieg, is heading to the scene as criticism of the government's response mounts. Just hours from now, federal investigators are set to release their preliminary report about why the train loaded with dangerous chemicals derailed and burst into an inferno. So, CNN analyzed surveillance video of the train leading up to the wreck. Sparks flying from the wheels indicate that they may have been overheating and the train slowed down dramatically but kept going for more than 20 miles before going off the rails. It is raising the question, did the engineer realize something was wrong? Meantime, families in East Palestine are afraid to live in their own homes, in their own town, they're afraid to drink the water and breathe the air.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:00",
+      "speaker": "HARLOW",
+      "sentences": "So, let's talk to them, right? Who better to hear from than the people experiencing this, the who live in East Palestine, residents Jim Stewart and Ben Ratner. You probably saw them last night on CNN's town hall and they're with us this morning. Good morning. Thank you both. I know you didn't get much sleep but we appreciate you getting up early with us.Jim, we were so struck by what you said last night in the town hall, directly speaking to Alan Shaw, the CEO of Norfolk Southern. And you said, did you shorten my life? Real questions you have. Let's play for everyone how he answered that. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:00",
+      "speaker": "ALAN SHAW, CEO, NORFOLK SOUTHERN",
+      "sentences": "I hear you. I am terribly sorry that this has happened to this community. What I can do and what I will do is make it right. We are going to get the cleanup right. We are going to reimburse the citizens. We are going to invest in the long-term health of this community. I am going to see this through and we are going to be here.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:00",
+      "speaker": "HARLOW",
+      "sentences": "Was his answer satisfactory to you?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:00",
+      "speaker": "STEWART",
+      "sentences": "He just -- I was turned off by him. I really was. He is like a sincere man and I said that to him. You are probably a good family man and good husband and everything, but I don't trust him. He is all big business, all about money. It's as fast as they cleaned off those track, they were putting new ones right down. They weren't even picking the cars up and they were practically sliding them underneath. I mean, that's what it's all about, money.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:00",
+      "speaker": "HARLOW",
+      "sentences": "They since committed to removing those tracks, digging up all the soil underneath. Well, that's a new commitment that came yesterday. What do you need from him? If Alan is watching now, what do you want, what would make you trust and feel a little more safe?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:00",
+      "speaker": "STEWART",
+      "sentences": "Well, the soil is what I'm worried about, it's the ground and the air. The water, they're working on it, they're doing everything they can for it. But the air and the ground, that worries me. My grandchildren can't play in the backyard now. What are we suppose to do? Every day, the trains go by, it's blowing up the smoke and dirt and everything. And it's just redoing it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:00",
+      "speaker": "HARLOW",
+      "sentences": "You have got little grandkids?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:00",
+      "speaker": "STEWART",
+      "sentences": "I have grandkids, yes, I do. And like I say, he is just one- year-old and he's very active.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:00",
+      "speaker": "HARLOW",
+      "sentences": "Yes, of course, we know.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:00",
+      "speaker": "STEWART",
+      "sentences": "Yes. Like I said to my little dog, she's going to slide. He is scooting across that grass.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:00",
+      "speaker": "HARLOW",
+      "sentences": "And what about for you? Because you really pressed Governor Mike DeWine and had him promised that he would stay there overnight to like understand, right, what it's like.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:05:00",
+      "speaker": "HARLOW",
+      "sentences": "Secretary Pete Buttigieg, the transportation secretary, is going to go to East Palestine today weeks after this happened, and he's concede, look, it's -- lesson learned, should have gone earlier. What can he do on the ground today that would actually help you guys?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:05:00",
+      "speaker": "RATNER",
+      "sentences": "I think that for a lot of people, it's a little -- no matter what happens right now, it is going to seem very late on the federal response. This happened on the 3rd of February. So, I think he's just going to have really dig deep and find the right words to just soothe people's minds.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:05:00",
+      "speaker": "HARLOW",
+      "sentences": "One of the questions becomes then what about regulation now. There were some Obama era regulations about trains carrying toxic chemicals that were rolled back by the Trump administration. But it looks like they would not have applied to this train because of the chemicals it was carrying, how they're classified and how long the train was. What do you think should change on that front?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:05:00",
+      "speaker": "RATNER",
+      "sentences": "A lot of things. The way that the trains are labeled hazardous or non-hazardous, it needs to expand. And there is no way that this train should have been labeled.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:05:00",
+      "speaker": "HARLOW",
+      "sentences": "Vinyl chloride and carcinogen should be included?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:05:00",
+      "speaker": "RATNER",
+      "sentences": "Exactly.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:05:00",
+      "speaker": "STEWART",
+      "sentences": "We should be able to just read it right off the train as it comes through.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:05:00",
+      "speaker": "RATNER",
+      "sentences": "We should know what is coming through and we should be getting reports from the train companies so we know what's coming through our town. HARLOW",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:05:00",
+      "speaker": "STEWART",
+      "sentences": "That is scary. Nobody did anything about it. It was on from Sebring, Ohio, to us basically and it just -- it's amazing. I just came into town and I've seen the train go through and I was like, wow, they have got to do something. There has got to be communication better with the trains and our community. And I don't know how we are hooked up with the systems. But our police should have known it was coming. Our fire should have known, firefighters --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:05:00",
+      "speaker": "HARLOW",
+      "sentences": "Given a heads-up.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:05:00",
+      "speaker": "STEWART",
+      "sentences": "-- a heads-up.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:05:00",
+      "speaker": "HARLOW",
+      "sentences": "Almost an hour and --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:05:00",
+      "speaker": "STEWART",
+      "sentences": "At least, saying something is coming this way, what is this issue?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:05:00",
+      "speaker": "HARLOW",
+      "sentences": "For both of you quickly, Ben first, would it be helpful for President Biden to come? Because there are some who are criticizing him for not going over that, just be more a photo-op rather than meaningful change?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:05:00",
+      "speaker": "RATNER",
+      "sentences": "I think the situation, we really want to keep it from becoming a political football. I do feel like the president should visit. I think that there is a lot of thing as long the line before that that should have happened. And our state officials and state EPA, things like that, they need to be a little bit more stout to the railroad company. And I feel like that is a little bit more important and close to us.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:05:00",
+      "speaker": "HARLOW",
+      "sentences": "Should Biden come?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:05:00",
+      "speaker": "STEWART",
+      "sentences": "I definitely feel he should. He is our leader. He is supposed to make decisions. He is supposed to make things right. He needs to be seen. Some of these people we haven't seen until now, and like I say, him especially.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:05:00",
+      "speaker": "HARLOW",
+      "sentences": "Well, we see you. And we'll continue to stay there and tell your story. Thank you for last night and this morning.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:05:00",
+      "speaker": "RATNER",
+      "sentences": "Thanks for having us.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:05:00",
+      "speaker": "STEWART",
+      "sentences": "Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:05:00",
+      "speaker": "HARLOW",
+      "sentences": "Good luck. Keep us posted, okay?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:05:00",
+      "speaker": "STEWART",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:05:00",
+      "speaker": "HARLOW",
+      "sentences": "Okay. Don?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:05:00",
+      "speaker": "LEMON",
+      "sentences": "Let's get straight now to Ohio's lieutenant governor, John Husted. Thank you for joining us this morning.Before we get to our questions, did you have anything you want to say to these two residents before we get started? LT. GOV. JOHN HUSTED (R-OH):  Yes. I am very empathetic to their cause and the railroad needs to make it right. That is what I told the folks when I was there, that they need to leave East Palestine better than when they found it. The accident occurred on February the 3rd. It should be better than it was on February the 2nd. And state and local officials I know are going to stay on top of this until that is right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:05:00",
+      "speaker": "LEMON",
+      "sentences": "Let me ask you about something that they talked about, Lieutenant Governor. Pennsylvania's Attorney General's Office says that it will investigate this incident after a criminal referral from the state's Department of Environmental Protection. Does there need to be criminal investigation in Ohio too?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:05:00",
+      "speaker": "HUSTED",
+      "sentences": "Well, I think once we get the report from the Safety Board that that information could be the basis for a criminal referral. And I would encourage our Ohio team to take a look at that as soon as we get a chance to see the facts surrounding the accident itself.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:05:00",
+      "speaker": "LEMON",
+      "sentences": "Mr. Husted, you went to East Palestine this week. You drank tap water to ensure residents there that their water is safe. But we keep hearing from residents who say that they are continuing to experience symptoms that they say are due to the toxic chemicals. And even in places -- you're saying that it's safe, right, but even in places they go, they said they are being served bottled water. So, what do you say to these residents?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:10:04",
+      "speaker": "LEMON",
+      "sentences": "Jim and Ben, I had to put on short notice like this, are you guys drinking the bottled water? Would you drink the tap water there?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:10:04",
+      "speaker": "RATNER",
+      "sentences": "Right now, we are mitigating our exposure to the tap water. But, honestly, the biggest thing is the exposed ground water, the thousands of feet of ground water. If you're saying people are uncomfortable drinking the bottled water or to drink bottled water, where are they suppose to shower in and wash dishes in? That's really concerning?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:10:04",
+      "speaker": "LEMON",
+      "sentences": "What do you say to that, Lieutenant Governor?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:10:04",
+      "speaker": "HUSTED",
+      "sentences": "Look, it's -- the EPA, local community and health department are testing that water. Look, Norfolk Southern should temporarily relocate people if they feel unsafe living in their homes. I think that the railroad should consider buying property of people who may not feel safe or would want to relocate as a result of the spill. This is the railroad's responsibility and it's up to the governor officials, at the federal and state and local levels to hold them accountable and do right by the citizens of East Palestine.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:10:04",
+      "speaker": "LEMON",
+      "sentences": "Listen, we're in the now, but the immediate effects -- I mean, the long-term effects, I should knows, no one knows at this moment. You can certainly understand that and you can understand their feelings.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:10:04",
+      "speaker": "HUSTED",
+      "sentences": "Yes, absolutely. That is why they need to get the cleanup, we are in the cleanup phase right now, and it needs to be done right. The U.S. EPA sent an order, as the director said on the town hall last night, the railroad needs to live up to cleaning that up and be transparent about it. I know one of your guests this morning suggested last night that they show the video, that they record the video of the cleanup. I completely support that. They should be as open and transparent as possible about every step along the way if they want to build trust.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:10:04",
+      "speaker": "LEMON",
+      "sentences": "Okay. Well, let's hear now then from Nick. You're talking about Norfolk Southern. The CEO is Alan Shaw. He was at the town hall last night in CNN, and this is part of what he had to say. Watch this.(BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:10:04",
+      "speaker": "SHAW",
+      "sentences": "I am terribly sorry for what has happened to your community. I want you to know that Norfolk Southern is here and we're going to stay here and we're going to make this right. We're going to get the environmental cleanup right, we are going to support the citizens of this community, we're going to invest in the long-term health of this community and we're going to help this community thrive.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:10:04",
+      "speaker": "LEMON",
+      "sentences": "You just said to me moments ago they should do everything they can to relocate residents and everything they can for these residents. Do you feel the company is doing everything it should be doing now to help residents of your state?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:10:04",
+      "speaker": "HUSTED",
+      "sentences": "Well, the mayor last night of East Palestine said that he thought that they were receiving everything they need, but that is up to the citizens of the community. Just because 80 percent of them think it's going right, maybe there are 20 percent of them that don't, and whatever the needs are of those that feel uncomfortable.And, look, the community is -- the closer you live to that site, probably you feel a little more uncomfortable there. So, I am sure that there are folks who live further away from the site that have a higher degree of confidence if you live closer to a lower level of confidence. And if you need to be temporarily relocated or whatever services you need, Norfolk Southern should do that during this cleanup phase until they can reassure the citizens that everything has been done right. LEMON:  Jim Stewart is shaking his head in agreement when you're talking about the proximity of where you live. So, thank you, Lieutenant Governor, for joining us, and thank you, Jim and Ben, as well. We appreciate it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:10:04",
+      "speaker": "HARLOW",
+      "sentences": "Yes, absolutely.Well, a nine-year-old girl this morning and a television journalist are among three people killed in a series of shootings yesterday in Orlando. Police say the reporter was covering another shooting, the shooting of a young woman, when that reporter was fatally shot. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:10:04",
+      "speaker": "JOHN MINA, ORANGE COUNTY SHERIFF",
+      "sentences": "No one in our community, not a mother, not a nine-year-old and certainly not news professionals should become the victim of gun violence in our community.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:10:04",
+      "speaker": "HARLOW",
+      "sentences": "A 19-year-old man has been charged with murder right now. The motive is unclear. We are learning the name of that reporter, though. Spectrum News 13 has identified him as 24-year-old Dylan Lyons. You see his picture right there. He is remembered by his colleagues as a great friend, someone who took his job seriously and loved his career.The network also identified the other employee who was critically injured as Spectrum News Photojournalist Jesse Walden. We will keep you posted, of course, on Jesse's condition.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:10:04",
+      "speaker": "LEMON",
+      "sentences": "Just an awful, awful.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:10:04",
+      "speaker": "HARLOW",
+      "sentences": "Terrible.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:10:04",
+      "speaker": "LEMON",
+      "sentences": "You're right, that says it all.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:10:04",
+      "speaker": "HARLOW",
+      "sentences": "Terrible.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:15:00",
+      "speaker": "PAULA REID, CNN SENIOR LEGAL AFFAIRS CORRESPONDENT",
+      "sentences": "Good morning, Don. Well, clearly, no witnesses off-limits for Special Counsel Jack Smith. And, Don, the fact that he is subpoenaing this couple really suggests that the investigation is now deep into Trump's inner circle. And it's no surprise that he would want to talk to these two. Remember, Ivanka Trump was in the Oval Office on January 6th as her father was trying to pressure former Vice President Mike Pence not certify the results, and the couple both tried, as did other people, to get the former president to tell the rioters to go home.Now, both of them spoke to the House select committee during its investigation into January 6th and clips from Ivanka's interview were played during the public hearings, including her reaction when Bill Barr said, look, the election wasn't stolen. Let's take a listen. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:15:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "How did that affect your perspective about the election when Attorney General Barr made that statement?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:15:00",
+      "speaker": "IVANKA TRUMP, FORMER TRUMP WHITE HOUSE ADVISER",
+      "sentences": "It affected my perspective. I respect Attorney General Barr. So, I accepted what he was saying.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:15:00",
+      "speaker": "REID",
+      "sentences": "And this news comes after we have learned the special counsel has also subpoenaed former Vice President Mike Pence and former Chief of Staff Mark Meadows. This all suggests that the investigation is likely entering a later phase.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:15:00",
+      "speaker": "LEMON",
+      "sentences": "So, are they going to cooperate, do you think?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:15:00",
+      "speaker": "REID",
+      "sentences": "It's likely, Don. I mean, they seem to be making an effort to rehabilitate their reputations. They don't want to be lumped in with the Steve Bannons of the world, being hostile to these investigations. But the former president can also try to assert executive privilege, right? They're not just family, they were also members of the White House staff. So, we'll see. We'll keep reporting it out. But it is likely that they're probably not going to just completely ignore or try to avoid cooperating here.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:20:00",
+      "speaker": "KYUNG LAH, CNN SENIOR NATIONAL CORRESPONDENT",
+      "sentences": "Well, the school says that they are, the school district that is, Don. But the parents remain unconvinced. Yes, they are concerned about racism being directed at their children at this predominantly white school. But what they're more concerned about is their safety.(BEGIN VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:20:00",
+      "speaker": "MARLENE REYNOSO, MOTHER",
+      "sentences": "They were Black History Month cards, so one person gave her one and then the second child thought they could make a better one.LAH (voice over):  Those cards came in crayon to her biracial daughter, Chloe, calling her my favorite monkey, on another, a stick figure person hanging from a tree, and another titled, my favorite cotton picker. Chloe is in the sixth grade.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:20:00",
+      "speaker": "REYNOSO",
+      "sentences": "She knows she is black and really embraces her culture but maybe felt that black is different. Because before you had, we are all black, Hispanic, white, but it was never in a way she was made felt different.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:20:00",
+      "speaker": "LAH",
+      "sentences": "Or unsafe?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:20:00",
+      "speaker": "REYNOSO",
+      "sentences": "Definitely unsafe.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:20:00",
+      "speaker": "LAH",
+      "sentences": "Marlene Reynoso's daughter is a student at Pepper Tree Elementary School in Upland, California, where she says racial bullying began with these cards, then continued verbally. But this was not just happening just to her child.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:20:00",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "Our daughter was told that she would have -- she was going to get one too, that is going to be a slave hanging from the tree and say that you're my favorite slave.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:20:00",
+      "speaker": "ROME DOUGLAS, FATHER",
+      "sentences": "This what I thought were clouds, but it says, cotton, like it was very detailed, very specific.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:20:00",
+      "speaker": "LAH",
+      "sentences": "They are made out of crayon.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:20:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Yes, out of crayons. It's coming from somewhere. The parents? These are the parents of the kids that my kids go to school with?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:20:00",
+      "speaker": "LAH",
+      "sentences": "School board meetings across the country have increasingly become the setting for the nation's culture wars. But within school halls, the U.S. Government Accountability Office says race-related hate is a widespread problem. One in four students between age 12 to 18 reported seeing hate words or symbols on campus. And of the more than 5 million students who reported being bullied, one in four were targeted because of their race or identity. In Upland, a suburb nestled in the hills east of Los Angeles, the district superintendant said in a video response to the public that there will be no tolerance for racist behavior.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:20:00",
+      "speaker": "LYNN DAY, SUPERINTENDENT, UPLAND UNIFIED SCHOOL DISTRICT",
+      "sentences": "Anyone engaging in hateful, racist, discriminatory or otherwise bullying behaviors will be held accountable.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:20:00",
+      "speaker": "DOUGLAS",
+      "sentences": "It hurts. These are my baby.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:20:00",
+      "speaker": "LAH",
+      "sentences": "But the Douglas children remain at home. Chloe, who first got the cards, also has not returned to class. These parents concerned for their children's safety after a lesson they never should have learned at school.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:25:03",
+      "speaker": "LEMON",
+      "sentences": "Thank you, Kyung, I appreciate that.You know, Poppy, this is why the full history of the country needs to be taught and we need to have a fulsome discussion about it, because then you can avoid situations like this. History is painful, it's not always good. And if you have kids you know, they are --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:25:03",
+      "speaker": "HARLOW",
+      "sentences": "That's exactly right. They are already learning this at five and six years old.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:25:03",
+      "speaker": "LEMON",
+      "sentences": "And they can absorb things that are -- we think are tough.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:25:03",
+      "speaker": "HARLOW",
+      "sentences": "And we have hard, difficult, important conversations at home. So, I am glad Kyung did that. I am trying to pick my jaw off the floor that this is happening, that kids in sixth grade are doing this to each other.So, ahead, the Murdaugh trial, will Alex Murdaugh take the stand in his double murder trial and could his testimony hurt or help his case? Our Senior Legal Analyst Laura Coates up early to talk about all of this with us. (COMMERCIAL BREAK)",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

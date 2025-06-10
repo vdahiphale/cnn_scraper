@@ -1,0 +1,457 @@
+{
+  "date": "2023-06-03",
+  "headline": "CNN Newsroom",
+  "subHeadline": "Biden Set To Sign Debt Limit Bill Today; Dow Soars 700-Plus Points After Debt Deal And Jobs Report; Death Toll Nears 300 In India Train Crash; Trump Probe On Classified Documents; Joran Van Der Sloot Could Soon Be In U.S.; Big Chains Warn Of Consumer Spending Changes; Churchill Downs Temporarily Suspends Operations; Stanley Cup Finals. Aired 11a-12p ET",
+  "utterances": [
+    {
+      "timeStamp": "11:00:22",
+      "speaker": "PAULA REID, CNN ANCHOR",
+      "sentences": "Hello, thanks for joining me. I'm Paula Reid in Washington in this weekend for Fredricka Whitfield.Developing now, President Biden is preparing to sign the bipartisan bill to raise the nation's debt limit, averting a disastrous default. He says he plans to sign the legislation today. The bill cleared the House and Senate in bipartisan fashion following weeks of closed door negotiations led by Biden and House Speaker Kevin McCarthy. In his first-ever Oval Office address last night, President Biden said the consequences of not getting a deal done could have been catastrophic. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:00:22",
+      "speaker": "JOE BIDEN, PRESIDENT OF THE UNITED STATES",
+      "sentences": "Passing this budget agreement was critical. the stakes could not have been higher. If we had failed to reach an agreement on the budget, there were extreme voices threatening to take America for the first time in our 247-year history into default on our national debt.Nothing, nothing would have been more irresponsible. Nothing would have been more catastrophic. No one got everything they wanted, but the American people got what they needed. CNN's Jasmine Wright is at the White House. Jasmine, as you heard there, President Biden gave a sobering message last night. So what else is the White House saying about this deal?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:00:22",
+      "speaker": "JASMINE WRIGHT, CNN WHITE HOUSE REPORTER",
+      "sentences": "Yes, Paula. Well, we saw last night President Biden take a major victory lap, really detailing to the American people just how his own White House negotiators compromised really with Republicans to avoid a catastrophic outcome, a potential catastrophic outcome.Now that was about (INAUDIBLE) maybe switch there from the president's former strategy where we saw for weeks him really avoid talking about the specifics of these behind-the-scenes negotiations, not wanting to threaten any of these high-intensity talks. And also after the bill was agreed to in principle over last weekend, we didn't see President Biden come out and claim it as a win, really trying to protect the bill as it made its way through both House chambers in Congress, really trying not to jeopardize any potential GOP support that was needed to pass it bipartisanly. Now that has happened and it's making its way to his desk, the president said that he will sign it today. But last night he heard him do a couple of things. First, he talked very deliberately about what's in the bill but also what's not in the bill, talking about how his White House negotiators really staved off putting democratic policies on the chopping block inside the bill, something that Republicans wanted to see. But he also talked about the importance of bipartisanship in these negotiations, really trying to lay down a new narrative for the future. Take a listen. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:00:22",
+      "speaker": "BIDEN",
+      "sentences": "I know bipartisanship is hard and unity is hard, but we can never stop trying because in moments like this one, the ones we just faced, where the American economy and the world economy is at risk of collapsing, there's no other way.No matter how tough our politics gets, we need to see each other not as adversaries but as fellow Americans, treat each other with dignity and respect. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:00:22",
+      "speaker": "WRIGHT",
+      "sentences": "So now that economic calamity is no longer hanging over the White House's shoulder, the last line, Paula, what President Biden said, is going to be important going into the future.We know that White House officials view President Biden as an experienced politician who is able to really navigate these high- intensity moments, bring about a bipartisan bill for the American people, compromising potentially on policy but not on his principles. So that's going to be a fore-throughline (ph) going forward as the president enters his 2024 campaign season, that we know he's running for re-election. But last night, Paula, what we saw is the president getting the last word after weeks and weeks of intense negotiations.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:00:22",
+      "speaker": "REID",
+      "sentences": "Jasmine Wright, thank you.And that debt deal comes along with better than expected jobs numbers, which sent markets soaring. The Dow gained more than 700 points yesterday, its best day of the year. The job gains surging once again in May, giving investors hope that the Federal Reserve may pause interest rate hikes later this month. CNN's Christine Romans breaks it all down. (BEGIN VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:04:55",
+      "speaker": "ROMANS",
+      "sentences": "Now, the hiring in the month was broad based -- in offices, labs, tech centers, hospitals, nursing homes, bars, restaurants, construction sites and government offices.The jobless rate jumped three-tenths of 1 percent to 3.7 percent. That's the highest since October, but it's still in this historically low 3.4 percent to 3.7 percent range. Now, economists say the jobless rate rose partly because more Americans permanently lost their jobs and more people entered the workforce. A milestone of sorts for women, the share of women age 25 to 54 in the job market hit an all-time high. Two possible reasons. Hybrid work gives more women flexibility to return to the workforce. Also high inflation might be making it a necessity for more women to work. In a potential worrying sign, the black unemployment rate jumped from a record low of 4.7 percent in April to 5.6 percent in May. Annual wage growth slowed to a still strong 4.3 percent. It's cooling, but after 14 months now of rate hikes, the labor market is remarkably resilient here. Since the Federal Reserve began raising interest rates 14 months ago to cool the economy and slow down the jobs market and inflation, the economy has added an astonishing 5.1 million jobs. In New York -- I'm Christine Romans. (END VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:04:55",
+      "speaker": "REID",
+      "sentences": "Christine Romans, thank you.And for more on all of this, let's bring in CNN economics and political commentator Catherine Rampell. Now, Catherine, this was another really surprising jobs report, much higher than expected. So what does this tell you about the state of the U.S. economy?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:04:55",
+      "speaker": "CATHERINE RAMPELL, CNN ECONOMICS AND POLITICAL COMMENTATOR",
+      "sentences": "We are certainly not in recession 0now. For a year or maybe a little bit longer, we have been hearing warnings of an imminent recession, right. And so far it has not come. That doesn't mean it won't, eventually. We have seen some signs of financial stress, for example, higher credit card delinquency rates. But if you look just at the job market, these are not the kind of numbers that you would expect from an economy actively in recession.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:04:55",
+      "speaker": "REID",
+      "sentences": "So as you just noted, you have so many financial experts predicted the U.S. could go into a recession this year. It hasn't happened. So why not? And do you think that this momentum can last?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:04:55",
+      "speaker": "RAMPELL",
+      "sentences": "I think it's a little bit of a puzzle. Normally when the Federal Reserve raises interest rates as aggressively as it has, they have difficulty not just cooling the economy, but preventing it from actively falling into a recession.That's one of the main reasons why there had been those predictions thus far, that we were on the edge of a downturn. That's part of why I say we may not completely be out of the woods yet. I think we haven't fully felt the effects of those tightening financial conditions so far. There's a little while before they work their way through the system. So the fact that we're doing great or much better than expected anyway, I think, is wonderful news. We should celebrate it. I don't want to prematurely celebrate a soft landing just because I don't know if we will get there. I hope we do. But I think that there are some things kind of happening behind the scenes that may have been contributing to the unexpected strength of this economy, including the fact the immigration system has somewhat normalized. A couple of years ago, borders were closed, very difficult for immigrants to legally come into this country and those who are here to legally work. Some of that has reversed itself and that seems to be a big supply of labor. And you also see, as Christine mentioned, a huge increase in the number of prime working age women who are looking for jobs or in jobs much higher than had been predicted previously.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:04:55",
+      "speaker": "REID",
+      "sentences": "Such an interesting statistic. And, of course, the U.S. is going to avoid a debt default as President Biden is poised to sign the deal to suspend the debt ceiling for two years.And we saw markets on Friday react to that news at the jobs report. So how much of a relief is this deal for investors?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:09:55",
+      "speaker": "REID",
+      "sentences": "And Catherine, I'm sure you noticed President Biden, he touted this deal in his first-ever Oval Office address. Now, we've seen presidents in the past use that Resolute Desk when delivering statements during moments of crisis like 9/11 or the Challenger explosion.Do you think that his choice of using the oval office as the backdrop gave more gravity to this announcement and really underscored just how serious the debt situation actually was?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:09:55",
+      "speaker": "RAAMPELL",
+      "sentences": "I think it was perfectly appropriate. Again, the consequences of default would have been catastrophic. I really cannot underestimate -- understate this, rather. I think that there had been a bit of complacency for a while among the typical American voter about the possible consequences of this in part because it's just genuinely confusing. There was a lot of confusion about how defaulting on our debt is different from a government shutdown for example and what the consequences would be.So yes, this was a major potential crisis. I think totally appropriate that Biden graciously talked about its resolution last night.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:09:55",
+      "speaker": "REID",
+      "sentences": "Well, Catherine Rampell, thank you for helping us make sense of it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:09:55",
+      "speaker": "RAMPELL",
+      "sentences": "Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:09:55",
+      "speaker": "REID",
+      "sentences": "And India's prime minister arriving today at the scene of a horrific train crash. The death toll is now nearing 300. More than a thousand others were injured when three trains collided.Officials saying just a short time ago that a signal failure is the suspected cause of the crash. CNN international correspondent Marc Stewart has more on the search and rescue operation. (BEGIN VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:09:55",
+      "speaker": "MARC STEWART, CNN INTERNATIONAL CORRESPONDENT",
+      "sentences": "This is clearly a challenging effort. There is fear people could be trapped under the individual rail cars, with one official expressing concern the death toll could climb.Desperate people struggle to free themselves inside the wreckage of an upturned carriage. Passengers push themselves away from the bodies of those who were killed instantly when two passenger trains and a freight train collided in India's east on Friday. In the dead of night, rescuers worked franticly to save as many lives as possible. Searching through the ripped coaches littered across train tracks, pulling out survivors from twisted train compartments that lay torn open in the dark.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:09:55",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "When I came out of the train buggy, I saw someone had lost a hand, someone had lost a leg, while someone's face was distorted.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:09:55",
+      "speaker": "STEWART",
+      "sentences": "Frantic scenes at the hospital where the race to save lives continues, with a steady stream of those that lived to see another day, and many who in this hour of need lined up to donate blood.Daylight exposed the extent of the disaster. Mangled train cars and body bags lining the tracks. The horror of India's deadliest rail accident in more than a decade. Indian Prime Minister Narendra Modi surveyed the scene offering what comfort he could to the scores of injured. NARENDRAS MODI, INDIAN PRIME MINISTER (through translator): A terrible accident occurred yesterday evening. I am feeling unbearable pain.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:09:55",
+      "speaker": "STEWART",
+      "sentences": "Rescue teams continue to sweep for survivors. The investigation into just how this horror was allowed to happen is only just beginning.Marc Stewart, CNN -- Tokyo. (END VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:13:51",
+      "speaker": "REID",
+      "sentences": "New details in the investigation into an apartment building that partially collapsed in Iowa. According to a 9-1-1 call obtained by the \"Quad City Times\", Davenport authorities received a warning about the six-story complex hours before it came crashing down. A man who works for the Downtown Davenport Partnership told dispatchers one of his employees became concerned about a portion of the wall that looked like it was, quote, \"bulging out\".(BEGIN VIDEO CLIP) TONY BEHNCKE, DOWNTOWN DAVENPORT PARTNERSHIP: One of my guys is working, he was cleaning up in the back parking lot, and said that the wall is bulging out. It's been under repair and someone is there working on it and told him to get out of the way because it's not looking good. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:13:51",
+      "speaker": "REID",
+      "sentences": "CNN has obtained new surveillance video taken minutes before that collapse that shows a support beam bending. Right now three residents remain missing.And CNN's Adrienne Broaddus has more. (BEGIN VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:13:51",
+      "speaker": "ADRIENNE BROADDUS, CNN CORRESPONDENT",
+      "sentences": "This video shows the moments leading up to the collapse, the actual collapse is captured on camera, but it's only a few short seconds.And that is because the power was knocked out, according to the person who owns this surveillance video camera and shared that video with us. So if you look at the video, you'll see there are five support braces, one closest to the camera gradually bends in the minutes leading up to the collapse. If you look, you can see chunks of bricks falling from under a second floor window. That's not all. A lower portion of the wall also collapsed. We heard from the fire chief and other officials on Friday who say the next phase will be recovery. But that is a delicate process.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:19:59",
+      "speaker": "HALLERAN",
+      "sentences": "Some of it is, as much as we want to, we can't because the building is not letting us or it's just too unsafe to do it without waiting to install shores.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:19:59",
+      "speaker": "BROADDUS",
+      "sentences": "Investigators say three people are still missing, including Brandon Colvin Sr., the father of the 18-year-old who bears the same name.His son is supposed to graduate on Saturday but wasn't sure if he would be able to show up to his high school graduation. Adrienne Broaddus, CNN -- Chicago. (END VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:24:28",
+      "speaker": "REID",
+      "sentences": "Now to CNN's exclusive reporting on the special counsel investigation into former President Trump and an audio recording of him discussing a classified document.CNN has learned that prosecutors subpoenaed Trump after obtaining that recording during which he talks about retaining a classified Pentagon document about a potential attack on Iran. Now his lawyers turned over some materials in response to the subpoena, but they were unable to find the document itself. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:24:28",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Mr. President, why did you take classified documents concerning General Milley?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:24:28",
+      "speaker": "REID",
+      "sentences": "CNN exclusively reporting former president Trump served with a subpoena in mid-March, seeking any records related to the same U.S. military document he talks about on tape just six months after leaving the White House.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:24:28",
+      "speaker": "DONALD TRUMP, FORMER PRESIDENT OF THE UNITED STATES",
+      "sentences": "Everything I did was right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:24:28",
+      "speaker": "REID",
+      "sentences": "Special Counsel Jack Smith, Attorney General Merrick Garland picked to oversee investigations into Trump, trying to track down any additional classified materials still in Trump's possession.The former president's attorneys turned over some material in response to the Justice Department's request, but not the document in question, the one Trump was recorded discussing in July 2021 at his Bedminster, New Jersey golf club. On the tape he acknowledges he held on to a classified Pentagon document about a possible attack on Iran.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:24:28",
+      "speaker": "TRUMP",
+      "sentences": "There is no crime. You know, there is no crime.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:24:28",
+      "speaker": "REID",
+      "sentences": "That tape now in the hands of prosecutors, prompting them to subpoena all documents and materials related to Iran and Mark Milley, the chairman of the Joint Chiefs of Staff.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:24:28",
+      "speaker": "JIM TRUSTY, TRUMP LAWYER",
+      "sentences": "I am not going to try a case that's being set up by leaks that I don't believe are accurate.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:24:28",
+      "speaker": "REID",
+      "sentences": "Trump's attorney declining to address where the document is.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:24:28",
+      "speaker": "KAITLAN COLLINS, CNN HOST",
+      "sentences": "Has the document been returned to the National Archives?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:24:28",
+      "speaker": "TRUSTY",
+      "sentences": "Same answer.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:24:28",
+      "speaker": "REID",
+      "sentences": "Throughout the investigation prosecutors have expressed skepticism about whether they've gotten everything back from Trump over the last year. Trump's attorneys turned over 15 boxes to the National Archives, the FBI recovered more than 100 classified documents from their search of Trump's Mar-a-Lago estate, and Trump's team found additional materials in subsequent searches of other Trump properties.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:24:28",
+      "speaker": "TRUMP",
+      "sentences": "They become automatically declassified when I took them.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:24:28",
+      "speaker": "REID",
+      "sentences": "Trump denying any wrongdoing and when asked if he ever shared classified information with anyone --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:24:28",
+      "speaker": "TRUMP",
+      "sentences": "Not really. I would have the right to. by the way, they would be classified.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:24:28",
+      "speaker": "COLLINS",
+      "sentences": "What do you mean, not really?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:24:28",
+      "speaker": "TRUMP",
+      "sentences": "Not that I can think of. Let me just tell you, I have the absolute right to do whatever I want with them.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:24:28",
+      "speaker": "REID",
+      "sentences": "In contrast, his former vice president striking a different tone after retaining classified materials.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:24:28",
+      "speaker": "MIKE PENCE, FORMER VICE PRESIDENT OF THE UNITED STATES",
+      "sentences": "Those classified documents should not have been at my personal residence. Mistakes were made.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:24:28",
+      "speaker": "REID",
+      "sentences": "The Justice Department informing Mike Pence Thursday he will not face criminal charges for his handling of classified materials --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:24:28",
+      "speaker": "PENCE",
+      "sentences": "And I take full responsibility.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:24:28",
+      "speaker": "REID",
+      "sentences": "-- after a small number of classified documents were found at his Indiana home.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:24:28",
+      "speaker": "REID",
+      "sentences": "Wow. Former Vice President Mike Pence will be able to hit the campaign trail without a special counsel investigation looming over him. The same cannot be said of President Biden or former President Trump, of course, because both of them currently facing special counsel investigations into the possible mishandling of documents.But as we've seen from court documents and from our own reporting this week at CNN, the legal threat facing former President Trump is far, far more significant. And with me now to talk about these developments is Michael Zeldin. He is a former federal prosecutor and the host of the podcast \"That Said With Michael Zeldin\". All right. If you were a prosecutor on this case, Michael, what conclusions would you draw from the fact that this document was not turned over when it was requested by prosecutors?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:29:56",
+      "speaker": "ZELDIN",
+      "sentences": "Similarly, he seems to acknowledge in the audio tape, and we have to listen to the audio tape, of course, but he seems to acknowledge in the audio tape that he is in possession of a classified document after he left the office of the presidency.And so what he has said earlier about declassifying everything is undermined by that statement. So I would think that that would be relevant to me as a prosecutor in his mishandling and retention aspects of this investigation. So compelling stuff.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:29:56",
+      "speaker": "REID",
+      "sentences": "In the court of public opinion, his attorneys have made some defenses, almost all of which have been undercut by this audio recording, right, arguing he can do it with his mind, he didn't know the documents were there.At this point is there a defense left for him?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:29:56",
+      "speaker": "ZELDIN",
+      "sentences": "Well, he can argue, as he has, that he declassified everything, that he cooperated with the government and that the government was essentially uncooperative with him and they're the party at fault.But so far it doesn't seem as if he's got a very compelling public opinion argument or legal argument, because the audio tape seems to suggest, as we indicated, that he may be in obstruction mode and he may be in possession of classified documents that he shouldn't possess. And on top of it, Paula, as you indicated, he may have shared the contents of that with others, another huge problem under the statutes that are in questions here.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:29:56",
+      "speaker": "REID",
+      "sentences": "One Of the things that was so surprising as our team was doing this reporting this week, is how much we learned this week. So much in the hands of prosecutors that we didn't know about prior to this week, people they've interviewed, like General Milley.So what does all of this tell you about how prosecutors are building their case?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:29:56",
+      "speaker": "ZELDIN",
+      "sentences": "Well, they're building it from the ground up, as they always do which is they keep getting evidence and then they keep trying to corroborate that evidence. You don't want a single piece of evidence uncorroborated that could undermine your case.And so they are, you know, as expected they're block-building this case and it's hard to know what inning they're in, whether they're in the seventh inning or the ninth inning. It's very difficult to know that from the outside. But it does seem from what we've been hearing that this is a very comprehensive investigation. And that makes sense because Merrick Garland is a very comprehensive guy and so is Jack Smith. And they're not going to take any chances of bringing a case that is in any way suspect or subject to a strong defense by Trump.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:29:56",
+      "speaker": "REID",
+      "sentences": "In another classified documents case, the justice department has just closed its investigation into the possible mishandling of classified documents found at former Vice President Mike Pence's house. They say they won't bring any charges.What did you think of the pace of this? Some people have said, why did it take so long. Other people are suggesting it moved quickly. What was your reaction to this decision and the timing?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:29:56",
+      "speaker": "ZELDIN",
+      "sentences": "Well, I think the decision was correct and I think the timing was fine. You know, these cases take some time. The public always wants everything immediately, but as a prosecutor you want to make sure that all Ts are crossed and Is are dotted before you make a final pronouncement.And I think that they moved with good pace on this case and I'm interested to see how it moves with respect to the Biden possession of documents. I would think that that case should also be closed pretty quickly and we're waiting on that timeline.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:29:56",
+      "speaker": "REID",
+      "sentences": "Speaking of, you know, there's also the special counsel, Rob Herr, who is the one investigating Biden's handling of classified documents. But of course, there are some differences between the Pence case and the Biden case and the Trump case.I mean how do you see these cases comparatively? I mean I think we can even take the Pence one out of the question. I mean there are some similarities, but for the most part, I mean the Trump one is a completely different animal.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:35:00",
+      "speaker": "REID",
+      "sentences": "And I'll note, one of the things that made our reporting on this audio recording so significant is that in this recording we're told he's heard acknowledging the limits of his power to declassify once he left the White House, undercutting all those public claims about how he declassified things.All right. Michael Zeldin, thank you so much. (CROSSTALK)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:35:00",
+      "speaker": "ZELDIN",
+      "sentences": "Thanks, Paula.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:39:58",
+      "speaker": "REID",
+      "sentences": "The transfer process has begun for the prime suspect in the disappearance of Natalee Holloway. Joran Van Der Sloot is on his way from a maximum security prison in southern Peru to another prison in the country's capital, Lima. Van der Sloot is currently serving time there for murder. He is set to be transferred to the U.S. to face charges for allegedly extorting Holloway's family after the teen went missing in Aruba back in 2005.CNN's Isabel Rosales is following this story. Isabel, what more are you learning about this transfer process?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:39:58",
+      "speaker": "ISABEL ROSALES, CNN CORRESPONDENT",
+      "sentences": "Hey, Paula. So Joran Van Der Sloot is on his way right now to a different prison in the capital city of Lima. This marks the beginning -- the official beginning steps of him eventually ending up in U.S. soil at the hands of U.S. officials. The timing of when precisely that is happening is not yet known but this transfer has been approved by the highest levels of the Peruvian government, from the Supreme Court who signed off on this, and also the president of Peru.As you mentioned, the Dutch national has been in Peruvian prison for the murder of a student. He got a 28-year sentence for that. He will have to then return to Peru after the U.S. court filings, court trial have been completed. Natalee Holloway was last seen alive with Van Der Sloot and two other men 18 years ago in Aruba. Those three men were arrested numerous times but then released because there wasn't enough evidence. Holloway's body, her remains, have never been found and back in 2012 an Alabama judge declared her legally dead. Van Der Sloot has been indicted here in the U.S. for charges of wire fraud and extortion in connection to an alleged plot to extort the Holloway family, essentially telling them hey, I'll point out where her remains are if you give me $250,000. They ended up giving him $25,000 but whatever information he gave them was false, Paula.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:39:58",
+      "speaker": "REID",
+      "sentences": "Isabel Rosales, thank you.And a gruesome and disturbing discovery out of Mexico where police say 45 bags containing human body parts have been found. CNN's Patrick Oppmann has more on the investigation. (BEGIN VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:39:58",
+      "speaker": "PATRICK OPPMANN, CNN CORRESPONDENT",
+      "sentences": "The bodies were found in bags discarded in a ravine, grisly murders that have shocked even Mexicans weary of years of rampant violence often connected to drug cartels.Investigators say at least 45 bags were found containing human remains outside Guadalajara, Mexico. Some of the bags have broken open.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:39:58",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "All the bags that we found are closed and obviously taped, packed. We found some segments on the precipice ravine that we believe that when they were placed or thrown there, some bags must have torn. And that's how we found some segments.In a preliminary manner, we can say that there are female and male bodies. But we need to wait for the institute to confirm.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:39:58",
+      "speaker": "OPPMANN",
+      "sentences": "Officials say the bodies appear to match the physical characteristics of some of the seven missing employees of a call center in Guadalajara but isn't clear how many victims there are.Missing since late May, their family members have demanded police investigate their disappearances. \"We want them alive and well,\" say family members, as they marched in the streets before the discovery of the bodies, calling on Mexican officials to do more. The families say their relatives went to work like any normal day, but then their phones went dark.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:39:58",
+      "speaker": "GABRIELA HERNANDEZ, GIRLFRIEND OF MISSING MAN",
+      "sentences": "At 2",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:39:58",
+      "speaker": "OPPMANN",
+      "sentences": "Mexican officials say their investigation has uncovered alleged criminal activity at the call center but they have not said if there are any suspects behind the killings.ROSA ICELA RODRIGUEZ, SECRETARY OF SECURITY AND CITIZEN PROTECTION (through translator): The first indicators are it involved people carrying out some kind of real estate fraud and some kind of telephone extortions.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:39:58",
+      "speaker": "OPPMANN",
+      "sentences": "The sad reality is disappearances and brutal mass killings happen all too often in Mexico, where tens of thousands of people, according to human rights groups, are believed to have been murdered and buried in unmarked graves.Just in Jalisco state where this latest massacre took place 1,500 bodies have been found since 2019, according to prosecutors there. And throughout Mexico more than 110,000 people are missing. And while this latest grisly massacre has generated more headlines and outrage than is usually the case, there are no guarantees family members will receive justice. Patrick Oppmann, CNN. (END VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:49:56",
+      "speaker": "NATHANIEL MEYERSOHN, CNN BUSINESS CONSUMER REPORTER",
+      "sentences": "So Paula, consumers are pulling back right now and they're being much more careful about how they're shopping and what they're spending on.So you look at Macy's. Sales last quarter dropped 8.7 percent from a year ago. That's a big drop here. And the company said that people were buying less clothing and they were spending more on essentials and food and also spending more on travel. So we have most of the wardrobes we need, but we're still taking trips and doing some of the things that we weren't able to do early in the pandemic. The CEO called it a reallocation of consumer spending.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:49:56",
+      "speaker": "REID",
+      "sentences": "Well, Macy's isn't the only company offering these warning signs about the health of consumers. So what are other companies saying?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:49:56",
+      "speaker": "MEYERSOHN",
+      "sentences": "So yes, there are a lot of interesting and somewhat troublesome clues offered by retailers right now about the state of consumers. Costco said that it saw shoppers buying less premium meat, sirloin steaks, that sort of stuff, and switching to cheaper pork, canned tuna. That's potentially a recession sign.We also see fewer home renovation projects, big him renovation projects at Home Depot and Lowe's. And then Dollar General customers are also particularly strained right now. Typical Dollar General customer makes under $40,000 a  year. And the company said they're really stretched right now and they're pulling back on discretionary purchases.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:49:56",
+      "speaker": "REID",
+      "sentences": "I thought this was really interesting. A consumer watchdog is issuing a warning to people who use popular payment apps like Venmo, CashApp or PayPal. And they're saying not to store money in those apps because they're not insured by the government. Tell us more about that, Nathaniel and what can consumers do?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:49:56",
+      "speaker": "MEYERSOHN",
+      "sentences": "Yes. So we're all using these payment apps like Venmo and PayPal to send and receive money from our friends when we go out to dinner. There's about $900 billion being transacted through these apps. But you don't want to store extra cash in them. They're not insured like your bank account is. So you want to move some of that extra cash that may be sitting in Venmo to your bank accounts.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:52:30",
+      "speaker": "CAROLYN MANNO, CNN SPORTS CORRESPONDENT",
+      "sentences": "Well, Paula, as you might imagine, the home of the Kentucky Derby has been under tremendous scrutiny in recent weeks. And they are going to temporarily pause all racing operations beginning on Wednesday until they can figure this out.Churchill Downs says it's going to conduct a top-to-bottom review of all safety and surface protocols. This coming after a dozen horses died in the past month alone. And the racetracks says than an internal review and investigations from regulatory organizations have not found a single factor that could be identified as a potential cause for these deaths, nor have they discovered a pattern to link them together. So the races will stay suspended through the remainder of the spring meet in July until they can find some answers. Elsewhere in the sport, more devastating news. A 6-year-old horse died on Thursday at New York's Belmont Park ahead of next week's Triple Crown finale. Chaysenbryn injuring his front leg after bumping into another horse, was euthanized on the track, that track hosting the Belmont Stakes, the third leg of the Triple Crown, a week from today. And the Stanley Cup Final begins tonight with the Vegas Golden Knights hosting the Florida Panthers. No matter how this one shakes out, it will be a historic moment for the winner as this will be the first championship for either of these teams. For the Golden Knights, this has been a rapid ascension. They were founded just six years ago. They reached the final in their very first season. And they were certainly the best in the west this year. The offense has continued to be incredible in the post season. They are favorited in this series. But the Panthers look like a team of destiny in these playoffs. They came back from being down 3-1 to beat the Boston Bruins in the first round after the Bruins had just completed the best season in NHL history.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:52:30",
+      "speaker": "JOSH MAHURA, FLORIDA PANTHERS",
+      "sentences": "You dream of playing in the Stanley Cup final. And to know it's right around the corner is so exciting for not only us but our families and everyone too.So you know, everyone is enjoying it. But obviously there's a job at hand. And you know, we're just excited to get going here. BRUCE CASSIDY, VEGAS GOLDEN KNIGHTS: Looking forward to it. They've earned their way, we've earned our way. So, I said looking forward to getting going. We'll use these three days or two days or whatever it is here to rest up and like I said, focus on a new opponent.",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

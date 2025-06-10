@@ -1,0 +1,475 @@
+{
+  "date": "2023-09-29",
+  "headline": "CNN Newsroom",
+  "subHeadline": "CNN International:  U.S. House vote on stopgap spending planned for Friday; GOP support is not guaranteed; UAW threatens to expand strikes if no progress made in talks; U.S. Pending home sales down 7.1% last month; California raises minimum wage for fast food workers; Biden impeachment inquiry hearing; Have a conversation with ChatGPT; Landmark tree chopped down; Evergrande says Chairman suspected of crimes; ChatGPT unveils new voice and chat features; Ryder Cup tees off in Italy; Netflix ending DVD rentals by mail service; Shrek's Swamp now available to rent on Airbnb; Remembering Harry Potter Star Michael Gambon. Aired 4:30-5a ET",
+  "utterances": [
+    {
+      "timeStamp": "04:30:25",
+      "speaker": "BIANCA NOBILO, CNN ANCHOR",
+      "sentences": "Welcome back to CNN Newsroom. I'm Bianca Nobilo.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "04:30:25",
+      "speaker": "MAX FOSTER, CNN ANCHOR",
+      "sentences": "I'm Max Foster. If you're just joining us, here are the top stories this hour. The U.S. government has one day until it runs out of money and federal operations are shut down. A House vote on a stopgap spending bill is planned for today, but there's no guarantee it'll pass.And talks continue between the United Auto Workers Union and the Big Three automakers. But the UAW says if significant progress is not made by 10 a.m. Eastern today, a strike expansion will be announced.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "04:30:25",
+      "speaker": "NOBILO",
+      "sentences": "A government shutdown would have wide ranging impact across the U.S. Travel delays are expected. Millions of service members and other essential employees will have to work without pay until the shutdown is over.And social safety net programs could be on hold too. CNN's Miguel Marquez reports. VERONICA STOWE, RELIES ON FEDERAL GOVT. FOOD PROGRAM: Can I get some apples? Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "04:30:25",
+      "speaker": "MIGUEL MARQUEZ, CNN CORRESPONDENT",
+      "sentences": "Veronica Stowe feeds two teenagers, a seven year old, her mother, herself, and her husband, six total, relying mostly on a once a month payment from the federal government's SNAP, Supplemental Nutrition Assistance Program.So, you get SNAP benefits once a month. Does that last you? Does that buy food for an entire month?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "04:30:25",
+      "speaker": "STOWE",
+      "sentences": "Sometimes it does. Like right now, I have $200 left. The month is almost gone.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "04:30:25",
+      "speaker": "MARQUEZ",
+      "sentences": "Her next SNAP payments scheduled for October 16. The government has guaranteed it through the month in case of a shutdown. But after that, it's unclear.What are you doing different today in case the government shuts down?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "04:30:25",
+      "speaker": "STOWE",
+      "sentences": "Well, I cut it back on how we eat, how much we eat. We buy the same amount of food. We cook it differently. Instead of fry, we stew it. So, you can use it as a soup or broth so it can last longer. You have to make cutbacks.Spaghetti.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "04:30:25",
+      "speaker": "MARQUEZ",
+      "sentences": "She's also stocking up at a Brooklyn food pantry.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "04:30:25",
+      "speaker": "STOWE",
+      "sentences": "This place is critical. Because when I run out of food at home, what am I really -- where am I going? The campaign against hunger saw food insecurity skyrocket during the pandemic. The current migration crisis adding even more pressure.DR. MELONY SAMUELS, CEO &amp; FOUNDER, THE CAMPAIGN AGAINST HUNGER: We are feeding 12 to 14, 000 families per week, and so that's equate to over 20 million meals.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "04:30:25",
+      "speaker": "MARQUEZ",
+      "sentences": "20 million meals a year. During the last government shutdown, they quickly saw a new group of New Yorkers in need of food.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "04:30:25",
+      "speaker": "SAMUELS",
+      "sentences": "All the government workers are going to come in. We had, from the TSA, we had the hospitals. We had so many families that were in need of food in 2018, 2019, that it just broke the safety net.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "04:30:25",
+      "speaker": "MARQUEZ",
+      "sentences": "The shutdown in 2018 was also a drag on shops whose customers pay for food with government benefits. Nationwide, the cost of a lengthy shutdown enormous. The 2018 shutdown disrupted $18 billion in federal spending. An estimated $3 billion was never recovered, denting the nation's GDP lower by 0.02%.The nation's airports and air travel vulnerable during a shutdown. The 2018 shutdown 34 days, the longest ever of (ph) fight over, then President Trump's border wall funding saw TSA agents, air traffic controllers and many other federal employees working without pay to the dispute was resolved.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "04:30:25",
+      "speaker": "ALEXIS MADDOX, TSA EXPERT TRANSPORTATION SECURITY OFFICER",
+      "sentences": "Mentally, it can be very draining on any human being, not just officers or employees for the federal agency. To not know when you'll be able to feed your family or provide the next meal.Or be able to provide education and childcare for your children. If that is your situation, it's very frustrating.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "04:30:25",
+      "speaker": "MARQUEZ",
+      "sentences": "Alexis Maddox, who works for the TSA and the union representing federal employees, says most government workers live paycheck to paycheck paid every two weeks. Next payday today, Friday, September 29th. When will that next check come? That uncertainty producing the most anxiety.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "04:30:25",
+      "speaker": "MADDOX",
+      "sentences": "We are bracing for the worst. We're telling officers to save a little extra money, put some things to the side. If it's not a necessity, please don't spend in excess what you don't need because we don't know.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "04:35:13",
+      "speaker": "FOSTER",
+      "sentences": "U.S. mortgage rates have risen to the highest level in more than 20 years. According to data from Freddie Mac, the 30 year fixed rate mortgage averaged 7.31% in the week ending September the 28th.That's up around a tenth of a percentage point from the week before, and more than half a percentage point from this time last year.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "04:35:13",
+      "speaker": "NOBILO",
+      "sentences": "Those high interest rates are impacting pending home sales in the U.S. They dropped 7.1% in August compared to the month before.Governor Gavin Newsom has signed legislation that raises the minimum wage for fast food workers. It will go up to $20 an hour next year. The new law also created a council that can approve further increases in the future.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "04:35:13",
+      "speaker": "FOSTER",
+      "sentences": "The new hourly wage for fast food workers will take effect from April the 1st of next year. Employees who work at restaurants with at least 60 locations nationwide are eligible for the pay bump.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "04:35:13",
+      "speaker": "NOBILO",
+      "sentences": "Despite the growing anxiety over a potential government shutdown, House Republicans held their first impeachment inquiry into President Biden and his family.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "04:35:13",
+      "speaker": "FOSTER",
+      "sentences": "Yeah, the hearing was long on accusations but short on facts and evidence as CNN's Sara Murray has been fanning out.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "04:35:13",
+      "speaker": "SARA MURRAY, CNN POLITICAL CORRESPONDENT",
+      "sentences": "House Republicans putting forth plenty of bombast.(BEGIN VIDEO CLIP) JAMES COMER, U.S. HOUSE REPUBLICAN: If we had a box of all the foreign money the Bidens took, it would have reached to the ceiling.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "04:35:13",
+      "speaker": "MURRAY",
+      "sentences": "But, as Democrats noted, no new evidence. JAMIE RASKIN, U.S. HOUSE DEMOCRAT",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "04:35:13",
+      "speaker": "MURRAY",
+      "sentences": "As the GOP convened its first hearing in the impeachment inquiry into President Joe Biden.JASON SMITH, U.S. HOUSE REPUBLICAN: Whether it was lunches, phone calls, White House meetings or official foreign trips. Hunter Biden cashed in by arranging access to Joe Biden, the family brand.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "04:35:13",
+      "speaker": "MURRAY",
+      "sentences": "Republicans kicking off an impeachment inquiry that's set to explore whether Joe Biden performed any official acts, traded access, or offered the perception of access in exchange for money from foreign interests to either him or his family.Also, on the GOP agenda, whether Joe Biden meddled in investigations into Hunter Biden. But the GOP has not uncovered any proof Joe Biden benefited from his son Hunter Biden's overseas business deals or intervened in Hunter Biden's criminal prosecution. ALEXANDRIA OCASIO-CORTEZ, U.S. HOUSE DEMOCRAT: In your testimony today, are you presenting any first hand witness account of crimes committed by the President of the United States? UNIDENTIFIED MALE #1: No, I'm not.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "04:35:13",
+      "speaker": "MURRAY",
+      "sentences": "Even as Republicans tried to drive home claims of Biden family corruption.NANCY MACE, U.S. HOUSE REPUBLICAN: Hunter Biden referred to access to his father as the keys to his family's only asset. Those words are going to come back and haunt Hunter Biden. And his family forever.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "04:35:13",
+      "speaker": "MURRAY",
+      "sentences": "Their own witnesses failed to back them up, noting that Republicans are currently operating on allegations rather than hard facts.JONATHAN TURLEY, PROF., GEORGE WASHINGTON UNIV. SCHOOL OF LAW: I do not believe that the current evidence would support articles of impeachment. That is something that an inquiry has to establish.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "04:35:13",
+      "speaker": "BRUCE DUBINSKY, FORENSIC ACCOUNTANT",
+      "sentences": "I am not here today to even suggest that there was corruption, fraud, or any wrongdoing. In my opinion, more information needs to be gathered and assessed before I would make such an assessment.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "04:35:13",
+      "speaker": "MURRAY",
+      "sentences": "In a hearing that, at times, grew testy.UNIDENTIFIED MALE #2: You keep speaking about no evidence. Why don't you all just listen and (inaudible)? UNIDENTIFIED MALE #3: I'm trying to introduce evidence. UNIDENTIFIED MALE #2: You've already entered it. You've already had your -- UNIDENTIFIED MALE #3: Is it in? UNIDENTIFIED MALE #2: Entered (ph) your evidence.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "04:35:13",
+      "speaker": "MURRAY",
+      "sentences": "Democrats ultimately slammed their colleagues for pressing ahead with an impeachment inquiry amid a looming government shutdown.ELEANOR HOLMES NORTON, U.S. HOUSE DEMOCRAT: It is incredible that we are holding this sham hearing two days before the government will shut down. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "04:35:13",
+      "speaker": "MURRAY",
+      "sentences": "Now, there were some Republican lawmakers and Republican aides who were not particularly impressed with this first impeachment hearing, and particularly Republicans decision to choose witnesses who could not fully back up their case for potential impeachment.One Senior Republican aide telling CNN that it was an unmitigated disaster. Sara Murray, CNN, Washington.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "04:35:13",
+      "speaker": "NOBILO",
+      "sentences": "This is a ubiquitous political issue, isn't it? When voters have really pressing concerns, like, for example, an impending shutdown, and then politicians appear to be either navel gazing or very involved in their own internal wrangling, so the optics not great.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "04:35:13",
+      "speaker": "FOSTER",
+      "sentences": "And on one hand, sort of how serious the shutdown is, and on the other hand, you know, not spending their time on dealing with it so visibly.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "04:35:13",
+      "speaker": "NOBILO",
+      "sentences": "Exactly. Well, still ahead for you. OpenAI is rolling out some changes for its popular chatbot, how you can have a conversation with ChatGPT.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "04:35:13",
+      "speaker": "FOSTER",
+      "sentences": "Chat ChatGPT.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "04:35:13",
+      "speaker": "NOBILO",
+      "sentences": "Mm-hmm.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "04:35:13",
+      "speaker": "FOSTER",
+      "sentences": "And a 200-year old tree in England was deliberately chopped down. Ahead, you'll see who authority says responsible for destroying. I mean, it was a real landmark, wasn't it",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "04:42:38",
+      "speaker": "NOBILO",
+      "sentences": "Chinese real estate giant Evergrande says trading of its shares will remain suspended until further notice.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "04:42:38",
+      "speaker": "FOSTER",
+      "sentences": "The company announced on Thursday that its Chairman is suspected of crimes, and a report from Bloomberg says he's under residential surveillance by Chinese authorities. NOBILO",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "04:42:38",
+      "speaker": "MARC STEWART, CNN CORRESPONDENT",
+      "sentences": "Indeed, Bianca. And this is involving the housing market. So, for Chinese families, it is very personal because we have seen a lot of families here in China invest in new homes. But because of the issues with these property developers with these real estate developers, many of these projects have been stopped in their tracks, so people have made an investment, but they don't necessarily have the return on it just yet.So, this involves this latest wrinkle involves Evergrande, one of the bigger property developers here. There has been this call for accountability. The company has been under a criminal probe, and now we have a top leader, Xu Jia Yin, who is now under investigation. Several companies across China are having financial hardship. So, this is not just limited to Evergrande, but it is raising questions about the future and the fate of the Chinese economy. We talked to one analyst recently to get his view on what the future may hold. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "04:42:38",
+      "speaker": "ANDREW COLLIER, MANAGING DIRECTOR, ORIENT CAPITAL RESEARCH",
+      "sentences": "So, the end result is we're going to see a lot of players go out of business. A lot of homeowners are going to lose their upfront payments and the Chinese economy is going to be hurt pretty badly.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "04:42:38",
+      "speaker": "STEWART",
+      "sentences": "So, the impact still remains to be seen many different interpretations. But there is this big question, why is this even happening? Well, for many years, China's real estate market was on a big upward trajectory.After the pandemic, people started to be a bit wary about how they were spending their money. We saw the youth unemployment rate rise to record highs. And as a result, money just stopped moving. Money was not changing hands. And that is one of many reasons why the real estate sector here in China is in such a slump. Max and Bianca.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "04:42:38",
+      "speaker": "NOBILO",
+      "sentences": "Marc Stewart for us in Beijing. Thank you very much. The race to control the future of artificial intelligence is heating up, and ChatGPT is unveiling some big changes to try and stay ahead of that competition.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "04:42:38",
+      "speaker": "FOSTER",
+      "sentences": "CNN's Anna Stewart has all the details.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "04:45:08",
+      "speaker": "STEWART",
+      "sentences": "First, it grew eyes and ears with new voice features announced so soon you'll be able to chat to ChatGPT much like Apple's Siri or Amazon's Alexa, plus an ability for the GPT bot to respond to images. Now on Thursday, the company announced that ChatGPT will also be more up to date.Until now, the AI bot has used information that it's gleaned from the internet, but only up to September 2021. It has been blissfully unaware of anything that's happened since. But now, OpenAI say subscribers of the ChatGPT Plus and enterprise models will have an option to browse the internet using Microsoft's Bing search engine. And eventually, this will be expanded to all users. In the announcement on X, OpenAI said they'd learned some lessons from a previous effort, saying since the original launch for browsing in May, we received useful feedback. Updates include following robots. txt and identifying user agents. So, sites can control how chat GPT interacts with them. It's an attempt to appease concerns about copyright. ChatGPT can only create from the vast troves of information it consumes. And of course it is going to be consuming a lot more now. Some websites already use code to prevent AI bots from scraping their information, including news outlets like the New York times, ESPN, and CNN. Anna Stewart, CNN, London.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "04:50:46",
+      "speaker": "FOSTER",
+      "sentences": "Big news here in the UK, wasn't it, yesterday? A sycamore tree that's stood for more than 200 years in Northern England has been destroyed.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "04:50:46",
+      "speaker": "NOBILO",
+      "sentences": "This, that you're about to see, is what's left of the landmark, which was located on the ancient Roman built Hadrian's Wall. The tree was cut down in what authorities are calling an act of vandalism. They say a 16-year old is under arrest. National Park officials say it's a blow because so many memories are linked to that tree.(BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "04:50:46",
+      "speaker": "TONY GATES, CHAIRMAN OF NORTHUMBERLAND NATIONAL PARK AUTHORITY",
+      "sentences": "Yeah, well, from a personal point of view, I feel a real sense of loss. I feel that because of what this meant to me and I know what it meant to the staff within Northumberland National Park, our volunteers. This would have meant a lot to people. People will have been proposed to here. They will have held significant family occasions here.Some people will, may have scattered the ashes of loved ones here. And for someone to feel that they can -- to do this to such a site, I just find really hard to comprehend and I feel a real sense of loss today. (END VIDEO CLIP) FOSTER: It's called the Sycamore Gap. It was one of the most photographed trees in England and even played a role in Kevin Costner's film Robin Hood, Prince of Thieves in 1991. And people just want to know why.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "04:50:46",
+      "speaker": "NOBILO",
+      "sentences": "Mm.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "04:50:46",
+      "speaker": "FOSTER",
+      "sentences": "Because it's quite isolated, it's quite hard to get to.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "04:50:46",
+      "speaker": "NOBILO",
+      "sentences": "Yes, that's what we've been hearing, that it involves jumping over numerous walls and fences, lugging what we think was a chainsaw there. And sycamore trees obviously symbolise love and eternity, but you said very nicely just now that maybe it might sprout from the trunk.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "04:50:46",
+      "speaker": "FOSTER",
+      "sentences": "Yeah, so one of the experts yesterday was saying that's their best hope from the stump.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "04:50:46",
+      "speaker": "NOBILO",
+      "sentences": "Fingers crossed. To golf now, where Team USA is looking to snap a 30-year losing streak on European soil as the 44th Ryder Cup gets underway in Italy. It's a party atmosphere in Rome as world number one American Scottie Scheffler opened up play on Friday in front of excited fans.Team USA arrived as the defending champions after crashing the European team in 2021 at the previous tournament in Wisconsin. Europe, though, is hoping Viktor Hovland stays hot. He hit a hole in one on a par-4 during practice on Thursday.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "04:50:46",
+      "speaker": "FOSTER",
+      "sentences": "Stories in the Spotlight, Netflix says today is the last day it'll be mailing out its rental movies to customers. The bright red envelopes appeared in 1998 when the company first launched as a movie rental alternative to Blockbuster and other video stores.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "04:50:46",
+      "speaker": "NOBILO",
+      "sentences": "But the popularity of on demand streaming services over the past decade has made its mail order business obsolete. The company says it will continue to accept returns by mail until October 27th. It also tells CNN it has no plans to sell the business.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "04:50:46",
+      "speaker": "FOSTER",
+      "sentences": "They were so ahead of their time, weren't they, switching to streaming?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "04:50:46",
+      "speaker": "NOBILO",
+      "sentences": "Normally, a mud laden, moss covered, murky, watered swamp isn't exactly where you'd want to spend the night. But in this case, it might make your Shrek fairytale dreams come true, if you have them.(BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "04:50:46",
+      "speaker": "DONKEY",
+      "sentences": "I guess you don't entertain much, do you?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "04:50:46",
+      "speaker": "SHREK",
+      "sentences": "I like my privacy.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "04:50:46",
+      "speaker": "DONKEY",
+      "sentences": "You know I (inaudible)(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "04:50:46",
+      "speaker": "NOBILO",
+      "sentences": "My privacy.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "04:50:46",
+      "speaker": "FOSTER",
+      "sentences": "Shrek's Swamp is now listed on Airbnb and it's a faithful recreation of DreamWorks Animation's beloved franchise as you can see.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "04:50:46",
+      "speaker": "NOBILO",
+      "sentences": "The swamp is located on the state in the Scottish Highlands -- Scottish, I said like that. The Airbnb ad boast about relaxing in the ambiance of \"ear wax candlelight.\" Guests can stay up late swap stories, and in the morning donkeys making the waffles. The one-off experience is available from October the 27th to the 29th, oh.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "04:50:46",
+      "speaker": "FOSTER",
+      "sentences": "I think you went a bit far there with the waffle making.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "04:50:46",
+      "speaker": "NOBILO",
+      "sentences": "But that was in the script, but it's very short. It's just two days.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "04:50:46",
+      "speaker": "FOSTER",
+      "sentences": "Yeah.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "04:50:46",
+      "speaker": "NOBILO",
+      "sentences": "So.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "04:50:46",
+      "speaker": "FOSTER",
+      "sentences": "Probably, enough.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "04:50:46",
+      "speaker": "NOBILO",
+      "sentences": "So, hurry up if that really interests you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "04:50:46",
+      "speaker": "FOSTER",
+      "sentences": "Get in there.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "04:50:46",
+      "speaker": "NOBILO",
+      "sentences": "Mm.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "04:50:46",
+      "speaker": "FOSTER",
+      "sentences": "Tributes are pouring in for the Irish actor Michael Gambon, who has died.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "04:50:46",
+      "speaker": "NOBILO",
+      "sentences": "He was best known for his signature role as Dumbledore in most of the Harry Potter films, lighting up the big screen as headmaster of Hogwarts School of Witchcraft.(BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "04:55:00",
+      "speaker": "NOBILO",
+      "sentences": "A statement for the family said the actor died peacefully after a bout of pneumonia, with his wife and son by his side. Gambon worked in television, film, the stage and radio, including starring in the hit TV series, The Singing Detective.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "04:55:00",
+      "speaker": "FOSTER",
+      "sentences": "Daniel Radcliffe, who played the boy wizard, posted, with the loss of Michael Gambon, the world just became considerably less fun. He was silly, irreverent and hilarious, yes. Adding, Gambon loved his job, but never seemed defined by it, that's true.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "04:55:00",
+      "speaker": "NOBILO",
+      "sentences": "Mm. And Rupert Grint, who played Ron Weasley in the Potter series wrote, he captivated me as a kid and became a personal role model of mine for finding the fun and eccentricities in life. Michael Gambon was 82.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "04:55:00",
+      "speaker": "FOSTER",
+      "sentences": "He's got such a distinctive voice, and he was prolific. I mean, if you look at the amount of movies and TV shows he did, it was a lot more than anyone else of his era.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "04:55:00",
+      "speaker": "NOBILO",
+      "sentences": "Truly incredible. And he was the sort of ethical compass and heart of the Harry Potter series. The adult anchor, if you like, to the three main cast.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "04:55:00",
+      "speaker": "FOSTER",
+      "sentences": "Mm. And that voice. Thanks for joining us here on CNN Newsroom. I'm Max Foster.",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

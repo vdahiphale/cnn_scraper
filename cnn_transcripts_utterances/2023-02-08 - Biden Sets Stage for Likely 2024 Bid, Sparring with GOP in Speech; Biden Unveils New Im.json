@@ -1,0 +1,679 @@
+{
+  "date": "2023-02-08",
+  "headline": "CNN This Morning",
+  "subHeadline": "Biden Sets Stage for Likely 2024 Bid, Sparring with GOP in Speech; Biden Unveils New Immigration Policy. Aired 6-6:30a ET",
+  "utterances": [
+    {
+      "timeStamp": "06:00:57",
+      "speaker": "DON LEMON, CNN ANCHOR",
+      "sentences": "Oh, yes. It was on last night. Good morning, everyone. Here we are in Washington, D.C., live on Capitol Hill this morning.Some Republicans jeering and booing and heckling the president. But Biden punched back during last night's heated State of the Union. We're going to break down all the key takeaways with CNN analysts. And we're going to speak to lawmakers on both sides of the aisle who were there. Plus this.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:57",
+      "speaker": "POPPY HARLOW, CNN ANCHOR",
+      "sentences": "Children rescued from the rubble, but countless people remain trapped and buried alive more than 48 hours after the catastrophic earthquake in Turkey and Syria. We'll take you live to the search for survivors as the death toll is now near 11,000.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:57",
+      "speaker": "KAITLAN COLLINS, CNN ANCHOR",
+      "sentences": "Also, we have updates in Memphis. The five police officers who were charged with murdering Tyre Nichols have now been accused of beating up another young black man just days before. We'll have more for you in a moment.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:57",
+      "speaker": "LEMON",
+      "sentences": "But we're going to begin with the reason that we're here in Washington right now on Capitol Hill, with last night's fiery State of the Union.President Biden tried to cut through all the noise and heckling as he challenged Republicans to work together with Democrats to help rebuild the economy and protect Medicare. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:01",
+      "speaker": "HARLOW",
+      "sentences": "Joining us now, our congressional correspondent Jessica Dean.Jess, good morning to you. What was the reaction like to the president's speech?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:01",
+      "speaker": "JESSICA DEAN, CNN CONGRESSIONAL CORRESPONDENT",
+      "sentences": "Yes. Good morning to all of you guys.I think it's fair to say at this point last night's speech, a messaging speech. It doesn't do anything to really change the state of play here on Capitol Hill. It gives Democrats a chance to talk about accomplishments and come out strong in defense of the president and in support of the president. It gives Republicans a chance to talk about how they have a very different vision for what they want America to look like as we come upon the 2024 election year. So in terms of actually changing anything or really making a huge difference in what we expect to see, it doesn't really do that. What it did do, guys, is it allows for really stark contrast. As you've all been talking about this morning, as they talked about last night, between the president and his agenda, Democrats and their agenda. And Republicans, specifically House Republicans. And we heard that back and forth that you were just playing a few moments ago from people heckling him and screaming out from inside that chamber last night.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:01",
+      "speaker": "HARLOW",
+      "sentences": "And some shushing. There was some shushing, too.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:01",
+      "speaker": "DEAN",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:01",
+      "speaker": "COLLINS",
+      "sentences": "Can I compliment Jessica Dean's outfit for a second?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:01",
+      "speaker": "LEMON",
+      "sentences": "You guys are wearing the same --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:01",
+      "speaker": "DEAN",
+      "sentences": "Before I get to the shushing, this is the second time I've shown up on your show matching one of you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:01",
+      "speaker": "HARLOW",
+      "sentences": "On the show.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:01",
+      "speaker": "DEAN",
+      "sentences": "Don, you're next, so let me know what you're wearing. I'll be sure to wear it later this week.But yes, on the shushing --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:01",
+      "speaker": "LEMON",
+      "sentences": "You got me with the turtleneck already. So we're twinning.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:01",
+      "speaker": "DEAN",
+      "sentences": "It's good. I love the twinning.On the shushing, we do know that the House speaker, Kevin McCarthy, before they even got to last night, early yesterday in the morning, he reminded all of his members, \"Guys, the mics are on. They're paying attention to what you're saying. Please be on your best behavior.\" We know Elise Stefanik, also in leadership, telling them the same thing. I think it's important to remember it was these hard-liners we heard from -- Marjorie Taylor Greene, Bob Good, people like that -- that it's not unexpected that we heard from them. But even still, Democrats really not liking that. We haven't heard from McCarthy. Of course, we'll be asking about that later today. HARLOW: We know you will. Jess, thank you. You look great!",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:01",
+      "speaker": "DEAN",
+      "sentences": "Thanks, guys.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:01",
+      "speaker": "COLLINS",
+      "sentences": "I would have to agree with that. Let's bring in someone who is not matching, CNN anchor and correspondent Audie Cornish, but still looks fantastic this morning.Audie, I want to talk about everything with Biden, but I have to bring up the George Santos moment, because we haven't talked about that yet. And it was one of the things that stood out last night, as you saw --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:01",
+      "speaker": "AUDIE CORNISH, CNN ANCHOR AND CORRESPONDENT",
+      "sentences": "This was between Senator Mitt Romney --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:01",
+      "speaker": "COLLINS",
+      "sentences": "You saw Senator Mitt Romney and George Santos here on the floor as they were clearly making some comments to one another. I think we have that moment of them on the floor.You can see Mitt Romney in the bottom right corner, clearly saying something, of course. All the reporters in the room watched that. They had questions for Mitt Romney later, what he said to him. He purportedly told him, \"You don't belong here.\" Santos said, Go tell it to the 142,000 people who voted for me. And Romney later said, He should be sitting in the back row and staying quiet instead of parading in front of the president and people room, basically trying to shake hands with all the senators.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:01",
+      "speaker": "CORNISH",
+      "sentences": "I mean, I think that Mitt Romney has kind of positioned himself in the last couple of years to be someone who is outspoken. He's not in the Trump camp. And so he's not afraid to upset that part of the party that Kevin McCarthy or others have to appease, essentially.And he doesn't have to protect the power of the House. He's a senator. He doesn't care about that. So he doesn't have to play nice with George Santos or sort of please him in some way. And that was reflected in that interaction.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:01",
+      "speaker": "LEMON",
+      "sentences": "Didn't he tweet -- Santos say, I just want to remind you that you're never going to be president or something like that? I think if you guys check it, but I think that -- there it isSo obviously, something happened there.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:01",
+      "speaker": "CORNISH",
+      "sentences": "Yes. And also, it reflects the position George Santos believes he's in. He feels extremely comfortable.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:01",
+      "speaker": "HARLOW",
+      "sentences": "What did you think of the speech last night? Was that a \"here we go again,\" running again speech? He was so energized, more than we usually see. No? CORNISH",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:01",
+      "speaker": "HARLOW",
+      "sentences": "I mean, he used that -- one of the moments on Social Security and Medicare to, like, make them all commit. OK, so you guys all agree with me.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:01",
+      "speaker": "CORNISH",
+      "sentences": "Yes, yes. And in fairness, Speaker McCarthy said out loud, just like a day or two ago, those things are off the table.But the point of the State of the Union, in a way, is for the president to gather around and explain his messaging, right? And to set the parameters of the discussion. And by doing that, for the people who haven't been watching with bated breath, all of these little minor congressional press conferences, it looked like he had sort of turned the moment on them.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:01",
+      "speaker": "HARLOW",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:01",
+      "speaker": "CORNISH",
+      "sentences": "And, you know, it was also interesting seeing this juxtaposed with the Republican rebuttal. I know, Kaitlan, you know that no one is more loyal to Trump than this governor. But at the same time, you heard her argument was, Look, a new generation is coming. And I'm part of that new generation.That was a message about Biden, but it's hard not to hear it in the context of Trump, as well.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:01",
+      "speaker": "COLLINS",
+      "sentences": "Yes, I would agree. That's kind of been the code words that Republicans who don't want Trump to run have been saying. They were trying to draw that distinction last night, saying it's not about Trump. It is about Biden.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:01",
+      "speaker": "CORNISH",
+      "sentences": "There's a little bit of a \"Thank you, next\" vibe, to it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:01",
+      "speaker": "COLLINS",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:01",
+      "speaker": "LEMON",
+      "sentences": "Thank you. Next.Did -- do you think this was sort of a soft kickoff to 2024 for Biden?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:01",
+      "speaker": "CORNISH",
+      "sentences": "It wasn't soft. I mean, he was explaining, this is what I've done. This is what I'll do. We an do better.And if anything, it was watching these two speeches, it almost wouldn't matter who the candidates were in 2024. This is, sentence caps, The Argument. Right? This is what Democrats would be able to run on, whoever that Democrat is. And Sanders -- Huckabee Sanders talking about woke fantasies and the education system and all these culture war issues. That's also what whomever the 2024 GOP nominee would be talking about, as well. So we kind of -- if you're wondering what it will be like, you know, the next presidential election, these are the arguments in a nutshell.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:01",
+      "speaker": "LEMON",
+      "sentences": "Speaking of saying, it wasn't soft, right? They wouldn't be -- we wouldn't be interviewing you if we didn't give a poll, right? I snow it's a snapshot in time.But the address comes on the heels of this \"Washington Post/ABC\" poll. Found that 62 percent of respondents felt that Biden hasn't accomplish much during his time in office. He's about to go to to sell his agenda to the public. What do you think? Do you think that he's going to be able to convince Americans otherwise from what this poll shows?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:01",
+      "speaker": "CORNISH",
+      "sentences": "Again, that's what a speech like this is for, right? We were hearing about these poll numbers going into the speech. And so this was his opportunity to set the parameters of the discussion. And to do that laundry list.Now it doesn't affect things like the cost of people's rent or, you know, these kinds of costs. But at the same time, it is his way of saying, Look what we have accomplished. There is an actual list. Please pay attention to it. And that's the most important thing. Kicking off the next two years.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:01",
+      "speaker": "LEMON",
+      "sentences": "We follow these things a lot, right? And they get big audiences. And everybody watches on television.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:01",
+      "speaker": "CORNISH",
+      "sentences": "Not that big, right? That's the problem with live TV events at this point. That that easy to draw that kind of audience.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:01",
+      "speaker": "LEMON",
+      "sentences": "Does anything ever come out of it? If you go back and you analyze the State -- State of the Union addresses over the years, like what actually comes of it? Do they actually accomplish -- or get whatever they say?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:01",
+      "speaker": "CORNISH",
+      "sentences": "Yes. Not much. But consider it a pulse taking. I mean, we know what this House of Representatives is going to be like to work with the next couple of years, based on the display they put on last night.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:01",
+      "speaker": "COLLINS",
+      "sentences": "And he have a better idea of what his campaign could look like. Because he took advantage of his critics who have tried to portray him as old and not really up to the job, not quick on his feet. And he was definitely quick on his feet last night.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:01",
+      "speaker": "LEMON",
+      "sentences": "I kind of like the back and forth. I know that some people think it's disrespectful.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:01",
+      "speaker": "COLLINS",
+      "sentences": "It's Parliament vibes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:01",
+      "speaker": "LEMON",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:01",
+      "speaker": "COLLINS",
+      "sentences": "Sees like you're, like, in London kind of.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:01",
+      "speaker": "HARLOW",
+      "sentences": "I dug it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:01",
+      "speaker": "LEMON",
+      "sentences": "I kind of liked it. I think people feel there's maybe a little -- I don't think that you should disrespect anyone or call them out on a name, like a liar.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:01",
+      "speaker": "HARLOW",
+      "sentences": "No, not that, but I liked the interchange.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:01",
+      "speaker": "LEMON",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:01",
+      "speaker": "CORNISH",
+      "sentences": "Let's call it a vibe shift. For a long --(CROSSTALK)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:01",
+      "speaker": "CORNISH",
+      "sentences": "For a long time, for a long time, it was be very polite. Be very sort of staid. And there was the pomp and circumstance of it. And when someone yelled out, \"You lie\" to the former president, Barack Obama, that was such a kind of moment where everyone was -- it was a very clutch-the-pearls moment.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:01",
+      "speaker": "COLLINS",
+      "sentences": "Right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:01",
+      "speaker": "CORNISH",
+      "sentences": "And now the pearls are out the window.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:01",
+      "speaker": "HARLOW",
+      "sentences": "That's what I was thinking.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:01",
+      "speaker": "CORNISH",
+      "sentences": "You know, I think Biden just -- he met people where they are. Right?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:01",
+      "speaker": "HARLOW",
+      "sentences": "Well said, as always.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:01",
+      "speaker": "LEMON",
+      "sentences": "It also speaks to his comfort in that room.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:01",
+      "speaker": "CORNISH",
+      "sentences": "Very much so.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:01",
+      "speaker": "LEMON",
+      "sentences": "Thank you, Audie. Appreciate it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:01",
+      "speaker": "CORNISH",
+      "sentences": "Thank you for having me.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:18:02",
+      "speaker": "HARLOW",
+      "sentences": "Welcome back to CNN THIS MORNING.President Biden touted his new immigration policy during the State of the Union last night. It is designed to try to reduce a loophole, border crossings, which has really been a crisis for this administration. It would accept up to 30,000 migrants per month from Cuba, Haiti, and Nicaragua and Venezuela under a humanitarian parole program. At the same time, migrants from those countries who arrive at the border without applying for that program may be expelled under what is now an expansion of the Trump-era Title 42. Here is what the president said about that last night. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:18:02",
+      "speaker": "BIDEN",
+      "sentences": "We've launched a new border plan last month, and lawful migration from Cuba, Haiti, Nicaragua and Venezuela has come down 97 percent as a consequence of that.But American border problems won't be fixed until Congress acts. If we don't pass my comprehensive immigration reform, at least pass my plan to provide the equipment and officers to secure the border. And a pathway to citizenship for DREAMers. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:18:02",
+      "speaker": "HARLOW",
+      "sentences": "Let's bring in Republican congressman Byron Donalds of Florida. He serves on the House Oversight Committee.You guys had a really -- hearing they made a lot of headlines on this yesterday. So we'll get to more of that hearing in a moment. But let me just get your reaction to the president's new policy and what he said about it last night on immigration and the Southern border. REP. BYRON DONALDS (R-FLORIDA); Well, the first thing is we would actually like to see the text of this -- of plan. We've not seen any plan come from the president. The issue dealing with migrants coming from Venezuela, Nicaragua, they just put that in last month. But all you're doing is re-allocating the problem he created when he came to office.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:18:02",
+      "speaker": "HARLOW",
+      "sentences": "I've read it. The White House put out a lot of text on it on their website.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:18:02",
+      "speaker": "DONALDS",
+      "sentences": "All you're doing is re-allocating the problem.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:18:02",
+      "speaker": "HARLOW",
+      "sentences": "It's an expansion of Title 42, in part.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:18:02",
+      "speaker": "DONALDS",
+      "sentences": "You're just re-allocating the problem.What they've done is said, OK, you can come to a legal point of entry, as to opposed to an illegal point of entry. But the surge of migrants at the border continues. It's just a reallocation of the problem he created.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:18:02",
+      "speaker": "HARLOW",
+      "sentences": "Well, they're -- it's actually, in part, 30,000 migrants can come through this way, if they do the proper paperwork and vetting, et cetera.[06:20:09] But it's also an expansion of Trump's Title 42, giving them more authority to turn them away at the border. And according to the Department of Homeland Security, it's working. From December to January of this year, DHS notes that, of those migrants from Cuba, Haiti, Nicaragua and Venezuela, they've seen a 97 percent decline in the illegal entries. Just wait. DHS numbers since December.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:18:02",
+      "speaker": "DONALDS",
+      "sentences": "That's exactly what I just said. They've decreased the number at illegal points of entry. Which is still massively up. The numbers last month are coming in about 150,000, 100,000 decrease. But it's just been allocated to legal points of entry. The same asylum process that has massively expanded past anything America has ever done.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:18:02",
+      "speaker": "HARLOW",
+      "sentences": "You don't think that's a good thing, that illegal crossings in that way, of this group is --?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:18:02",
+      "speaker": "DONALDS",
+      "sentences": "You're mixing metaphors now. The issue is not whether it's just illegal crosses or illegal crosses. Crossings are up massively.Where -- how are the cities in our country going to be able to take in all of these new entrants? That is not consistent policy. Before the president came into office, your average intake was about 400,000. Maybe 500,000 if you had a surge year. Since he's been president, 1.6 million entrants in 2021 2.2 million entrants in 2022. And rising. All they're trying to do is shift the burden. That's all they're doing.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:18:02",
+      "speaker": "LEMON",
+      "sentences": "Homeland Security is saying that your numbers don't match up. So let's move on. Because I want to ask, isn't that the point of a plan, is to debate it?You're saying that we want to see the plan. The president put out a plan. Wouldn't a better response be, well, we don't agree with this, but we'd like to take this framework and work on it and try to make it better, rather than just saying, It's not great. This isn't going to work. I want to see it. He's actually put something out and laid something out there for people to work with. Isn't that a better idea, to try to do it?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:18:02",
+      "speaker": "DONALDS",
+      "sentences": "Two things. No. 1, we were at Oversight yesterday discussing this, in particular. I know Homeland Security's numbers. Trust meWe actually talked with border chiefs about it specifically yesterday. No. 2, the president's immigration policies, when he changed border protocols, when he came into office January 20, 2021, these are his executive orders. They have led to the massive shifts, the massive raises and people crossing the border illegally. One of his own -- LEMON: Wouldn't it be better to try to work with the president instead of criticizing the plan and saying that it's not going to work? Or what we've seen in the past is not working?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:18:02",
+      "speaker": "DONALD",
+      "sentences": "We would love to. But you actually have to secure the border. You have to take care of the issues. Like I said --LEMON Isn't that what he's saying he's trying to do? But you're criticizing something that's happened -- that happened in the past. What he's saying is that I want to move forward and try to work people. And you're saying but, but, but, and you're looking backwards instead of forward, like the people who heckled him and said -- he goes, wait, wait, I'm getting there. And then the next sentence out of his mouth is, We want to work on border security and try to work on these things. And you're looking backwards.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:18:02",
+      "speaker": "DONALDS",
+      "sentences": "Don, you have to look back at the policy changes. How can you ignore four and a half million people coming through the Southern border and say, Don't look back the last two years. Let's just look forward.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:18:02",
+      "speaker": "LEMON",
+      "sentences": "You can't retroactively change the policies. You can -- you can say --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:18:02",
+      "speaker": "DONALDS",
+      "sentences": "You got to have policy changes. You've got to have policy changes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:18:02",
+      "speaker": "LEMON",
+      "sentences": "OK, fine. Isn't that what he's saying, Congressman?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:18:02",
+      "speaker": "DONALDS",
+      "sentences": "No, he's re-allocating the situation. He's not changed the overall protocols. He's just re-allocating them. That's the point that we're making.If you go back to remain in Mexico, which did work, if you actually go back to making sure you adjudicate asylum before somebody comes to the border. If you say to border agents, which was the policy under President Trump, President Obama, President Clinton and President Bush, that they can make determinations --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:18:02",
+      "speaker": "LEMON",
+      "sentences": "I don't want to keep -- I don't want to keep arguing with you, and I want my colleague to get in. But again, is there an answer that says instead of we don't want to look back, is there an answer that says, moving forward, here's what we can do?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:18:02",
+      "speaker": "DONALDS",
+      "sentences": "Moving forward, you have to give border agents the proper tools in order to actually secure the border. The president has taken that from them. That's what he did.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:18:02",
+      "speaker": "LEMON",
+      "sentences": "OK. So in the future, you would like to see the president do what with border agents?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:18:02",
+      "speaker": "DONALDS",
+      "sentences": "I just told you. You have to give them the ability to make determinations of credible fear. You have to reinstate the remain in Mexico policy. You have to not give massive asylum proceedings, which by the way, are taking six years to get through. People go to the first hearing --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:18:02",
+      "speaker": "LEMON",
+      "sentences": "So you're saying you're willing to work with the president on these policies to change them moving forward?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:18:02",
+      "speaker": "DONALDS",
+      "sentences": "The president has to actually make border changes. He's the only person that can do that. And he's not doing it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:18:02",
+      "speaker": "LEMON",
+      "sentences": "You're willing to work with him to do it?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:18:02",
+      "speaker": "DONALDS",
+      "sentences": "If they're credible changes, of course.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:18:02",
+      "speaker": "LEMON",
+      "sentences": "Great.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:25:04",
+      "speaker": "DONALDS",
+      "sentences": "The president unilaterally changed border policy. The drug cartels are using his border changes to increase trafficking of fentanyl into the United States. Everybody -- every measure has said this. Border agents have told us.I've been there four times. Many more times than the president has been. I've been there four times. Here's the facts. Border agents have said the protocol changes have allowed the drug cartels to take advantage of border agents who are now processing paperwork, so that you have fentanyl trafficking is up massively. Well over 800 percent.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:25:04",
+      "speaker": "COLLINS",
+      "sentences": "I think we would all acknowledge that fentanyl trafficking is a problem. But do you think it's appropriate to blame -- put the entire thing on President Biden and say, \"It's your fault\" in front of a father who lost his daughter to that?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:25:04",
+      "speaker": "DONALDS",
+      "sentences": "If trafficking of fentanyl was up because of the president's changes, it is his fault. Who are you going to blame? Are you going to blame members of Congress? Are you going to blame -- are you going to blame the father? You're not going to do that.The president made unilateral changes. The drug cartels have operational control with respect to drug trafficking. Because of the president has weakened our border agents' hands. Those are the facts.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:25:04",
+      "speaker": "COLLINS",
+      "sentences": "I think blaming the entire fentanyl crisis on Biden is a stretch. But I'll move on.Overall, the moment last night as Biden was engaging with your Republican colleagues on Social Security and Medicare, and McCarthy as well there, do you think that helped Biden in that moment? Because that is kind of the White House's takeaway, said actually, he took advantage of his critics in that moment.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:25:04",
+      "speaker": "DONALDS",
+      "sentences": "No. What you are even talking about? Joe Biden created this fallacy that we were cutting Social Security and Medicare. No Republican has said that.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:25:04",
+      "speaker": "COLLINS",
+      "sentences": "Rick Scott said that. I read it on Rick Scott's website.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:25:04",
+      "speaker": "DONALDS",
+      "sentences": "No, no, no. This is the problem. Because we're conflating. He's been bringing this up for decades.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:25:04",
+      "speaker": "COLLINS",
+      "sentences": "Rick Scott introduced a plan that would -- I've got. Rick Scott introduced a plan that would have Social Security and Medicare and all other federal laws sunset every five years, and if Congress wants, it can be reapproved every five years.So I understand what you're saying. And the president said \"some Republicans.\" But you can't say that no Republican said that.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:25:04",
+      "speaker": "DONALDS",
+      "sentences": "Listen, we have -- we talked about structures to Social Security and Medicare. Of course. The programs go insolvent somewhere between 2023 and 2035.If you do not look at those programs, you're not being serious.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:25:04",
+      "speaker": "COLLINS",
+      "sentences": "So you think Republicans should look at them?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:25:04",
+      "speaker": "DONALDS",
+      "sentences": "Hold on, hold on. Let's make a clear point. The delineation is with respect to the debt ceiling. No Republican has said we're going to look at Social Security and Medicare. No Republican. The president has tried to conflate the two to make a political argument. He is wrong.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:25:04",
+      "speaker": "HARLOW",
+      "sentences": "Here's what Ron Johnson said in -- Sen. Ron Johnson in August.(BEGIN VIDEO CLIP) SEN. RON JOHNSON (R-WE) (via phone): Social Security and Medicare, if you qualify for the entitlement, you just get it no matter what the cost. We ought to turn everything into discretionary spending so it's all evaluated. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:25:04",
+      "speaker": "HARLOW",
+      "sentences": "That's to your point, Kaitlan.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:25:04",
+      "speaker": "DONALDS",
+      "sentences": "I'm going to make the point again. Social Security and Medicare must be studied. They go insolvent in less than a decade. COLLINS",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:25:04",
+      "speaker": "DONALDS",
+      "sentences": "All the data says that.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:25:04",
+      "speaker": "COLLINS",
+      "sentences": "That's actually newsworthy there, because --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:25:04",
+      "speaker": "DONALDS",
+      "sentences": "You have to look at that.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:25:04",
+      "speaker": "COLLINS",
+      "sentences": "-- Republicans -- the House majority leader, Kevin McCarthy, has said it is off the table when it comes to this specifically.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:25:04",
+      "speaker": "DONALDS",
+      "sentences": "To the debt ceiling? Yes, it's off the table. We've been saying that for a month now. The only person saying that we're talking about Social Security cuts is Joe Biden. He's been lying to the American people. No Republican on the Hill has said, Hey, for debt ceiling, we're going to look at Social Security and Medicare. It is not true. I'm one of the most vocal members of our conference. I am telling you, not true.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:25:04",
+      "speaker": "COLLINS",
+      "sentences": "Kevin McCarthy has ruled it out, but there is a reason they brought it up and the reason that the president was able to use that moment last night. But Congressman, thank you --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:25:04",
+      "speaker": "DONALDS",
+      "sentences": "He looked bad in that moment, I'm telling you right now.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:25:04",
+      "speaker": "COLLINS",
+      "sentences": "That is your perspective. That's why we brought you on. Thank you for sharing that with us, especially on immigration, as well.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:25:04",
+      "speaker": "DONALDS",
+      "sentences": "Sure.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:25:04",
+      "speaker": "LEMON",
+      "sentences": "Thank you, Congressman. Appreciate it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:25:04",
+      "speaker": "HARLOW",
+      "sentences": "George Santos's constituents' taking their frustration to Washington. Look at that. That wasn't the only drama on the Hill for the new congressman.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:25:04",
+      "speaker": "COLLINS",
+      "sentences": "We're also live in Turkey this morning, where crews have been working day and night amid plunging temperatures to help find earthquake survivors.(BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

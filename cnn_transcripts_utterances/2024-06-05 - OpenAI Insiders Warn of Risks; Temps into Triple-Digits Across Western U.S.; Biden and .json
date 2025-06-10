@@ -1,0 +1,319 @@
+{
+  "date": "2024-06-05",
+  "headline": "CNN News Central",
+  "subHeadline": "OpenAI Insiders Warn of Risks; Temps into Triple-Digits Across Western U.S.; Biden and Trump Continue to Struggle; Launch Day for Starliner. Aired 9:30-10a ET",
+  "utterances": [
+    {
+      "timeStamp": "09:31:02",
+      "speaker": "JOHN BERMAN, CNN ANCHOR",
+      "sentences": "So, this morning, a group of insiders in the company OpenAI is demanding that artificial intelligence businesses be far more transparent about AI's, what they call serious risks, as well as whistleblower protections from employees who voice concerns about the technology that they are building.CNN's Clare Duffy is with us now. In a way you could say like the calls coming from inside the building. I mean what are their concerns?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:31:02",
+      "speaker": "CLARE DUFFY, CNN BUSINESS WRITER",
+      "sentences": "It absolutely is. The concerns range from things that are already happening. Things like AI being used to impersonate people in ways that could be misleading or potentially interfere with elections. You have nonconsensual deepfake pornography that's being created with AI, AI chatbots creating false information. And then you have these more speculative risks that people are nonetheless very concerned about inside of this industry. Things like artificial general intelligence that could one day become as smart as, if not smarter, than humans.And in particular, OpenAI has faced criticism for prioritizing speed and growth over safety concerns. Those are the concerns that led in part to the ouster of CEO Sam Altman last fall before he was quickly reinstated. But they've also been sort of bubbling up again in recent weeks with the departure of some high-level safety executives from OpenAI. So, it will be interesting to see whether this company agrees to some of the concerns and some of the demands in this letter.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:31:02",
+      "speaker": "BERMAN",
+      "sentences": "What are the specific demands?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:31:02",
+      "speaker": "DUFFY",
+      "sentences": "The employees are essentially saying here that the major AI companies can't be trusted to voluntarily share information about risks. And they're saying that in the absence of regulation, because there still are very few guidelines for AI companies at this point, employees need to know that they can speak freely about the safety risks without fearing retaliation. So, they've asked the companies to make a series of commitments,things like agreeing not to enforce non-disparagement agreements. And I think - I want to read you just one portion of this letter that I think really gets at the heart of the concerns here that the employees say \"ordinary whistleblower protections are insufficient because they focus on illegal activity, whereas many of the risks were concerned about are not yet regulated.\" And I should say that OpenAI has, in some ways, sort of agreed that this safety debate is important. A spokesperson for the company told us yesterday, \"we are proud of our track record providing the most capable and safest AI systems and believe in our scientific approach to addressing risk. We agree that rigorous debate is crucial given the significance of this technology and we'll continue to engage with governments, civil society, and other communities around the world.\" But the bottom line here is, there's still no regulation for this technology. And employees need to be able to tell, not only the companies, but regulators and the public when there are risks and safety concerns.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:31:02",
+      "speaker": "BERMAN",
+      "sentences": "All right, Clare Duffy, great to see you this morning. Thank you so much for that report.Obviously, something to pay very close attention to as this technology only gets more and more advanced by the day. Kate.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:31:02",
+      "speaker": "BOLDUAN",
+      "sentences": "Dozens of heat records could be broken today, all because of the ominous sounding heat dome that's parked over the western United States.CNN's Elisa Raffa is watching all of this for us. So, what is happening here, Elisa, and what is - and how hot is it getting?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:41:03",
+      "speaker": "BERMAN",
+      "sentences": "So we have new reporting this morning from CNN's senior political analysts Ron Brownstein in a piece titled \"Why Biden and Trump Struggle to Make Gains When the Other Stumbles.\" Ron writes, \"voters' reservations about Trump and Biden help explain why the presidential races seemed so static for months. The doubts each man faces place a ceiling on his support that limits his gains when the other stumbles.\"And Marshall Mcluin (ph), or should I say Ron Brownstein, is with us now.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:41:03",
+      "speaker": "RON BROWNSTEIN, CNN SENIOR POLITICAL ANALYST",
+      "sentences": "Hey.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:41:03",
+      "speaker": "BERMAN",
+      "sentences": "I can actually talk to Ron Brownstein about Ron Brownstein's articles.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:41:03",
+      "speaker": "BROWNSTEIN",
+      "sentences": "Yes. BERMAN",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:41:03",
+      "speaker": "BROWNSTEIN",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:41:03",
+      "speaker": "BERMAN",
+      "sentences": "Like big, unprecedented stuff keeps happening.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:41:03",
+      "speaker": "BROWNSTEIN",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:41:03",
+      "speaker": "BERMAN",
+      "sentences": "Why does or doesn't it have an impact?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:41:03",
+      "speaker": "BROWNSTEIN",
+      "sentences": "Yes, I think each man's vulnerabilities is limiting the impact of the others. I mean, you know, you look at this verdict, the guilty verdicts against Trump, and I think it is clearly going to weaken him. I mean a majority of Americans in repeated polls have said they believed the verdicts were correct. But by itself, it is not going to strengthen Biden.And what you have is a situation in which a majority of voters clearly disapprove of Biden's performance. A majority of voters are unfavorable to Trump. The voters who I think are the most likely to be moved away from Trump because of this verdict are also deeply negative about Biden's performance, question, whether he's too old for the job or upset about inflation. So, they are both operating against a very strong headwind that makes it, I think, very hard to move the race in any direction.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:41:03",
+      "speaker": "BERMAN",
+      "sentences": "You know, what I liked about your pieces is it goes into more than just the phrase, double-haters.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:41:03",
+      "speaker": "BROWNSTEIN",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:41:03",
+      "speaker": "BERMAN",
+      "sentences": "Double-haters is something we've talked around for a while. But you sort of get deeper than that. I mean these people really may go nowhere.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:41:03",
+      "speaker": "BROWNSTEIN",
+      "sentences": "Well, that is - that is a - so that's a - you know, there's - that is an interesting dimension. I mean, you know, we - first of all, we've - I think we saw in 2022 a very clear phenomenon where voters, Biden and Democrats, our winning more support than is typical. Far more support than is typical among voters who disapprove of his performance, especially those who somewhat disapprove.And that is the answer to people who asked whether anything hurts Trump. The fact that Biden - that millions of people in polls are saying - and not only in polls, in practice in '22, that they will vote for Democrats anyway, even though they believe Biden is not doing a good job or they are unhappy about the economy. That is the measure of discontent with Trump. But what I really discovered to an extent that I had not understood previously, I think in this poll, is that the reverse is also true. There are a fair - you know, we think of Trump's vote as entirely this unconditional, walkover glass support for him. There are, in fact, a lot of ambivalent voters supporting Trump as well. There are people who are - who have an unfavorable view of Trump and are voting for him in part because they are so negative about Biden. Both of them are winning a surprising share of ambivalent voters.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:41:03",
+      "speaker": "BERMAN",
+      "sentences": "You know, in a vacuum - and by vacuum I mean maybe country other than the United States of America -",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:41:03",
+      "speaker": "BROWNSTEIN",
+      "sentences": "Earth 2.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:41:03",
+      "speaker": "BERMAN",
+      "sentences": "Earth 2, this could mean a third-party candidate -",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:41:03",
+      "speaker": "BROWNSTEIN",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:41:03",
+      "speaker": "BERMAN",
+      "sentences": "Would enjoy some success.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:41:03",
+      "speaker": "BROWNSTEIN",
+      "sentences": "Right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:41:03",
+      "speaker": "BERMAN",
+      "sentences": "But here -",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:41:03",
+      "speaker": "BROWNSTEIN",
+      "sentences": "Right, here - I mean the third-party candidate --  I mean, look, Robert F. Kennedy Jr., you know, is enjoying some success in polling, but he is, I think, ultimately a figure who can't bear the weight of the expert - I mean he can probably do best among voters who are largely disconnected from the political system.In the end, and, by the way, that's the other kind of inversion were watching. You know, as I wrote about the other week, Donald Trump is doing best among voters who have the least history of voting. Joe Biden is stronger among voters who have a strong history of voting.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:41:03",
+      "speaker": "BERMAN",
+      "sentences": "And you always want to be with the likely voters.Ron, so I've covered a bunch of campaigns.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:41:03",
+      "speaker": "BROWNSTEIN",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:41:03",
+      "speaker": "BERMAN",
+      "sentences": "You, even more. I can't wrap my arms around what it means to have a general election debate in June. I mean I could see, again, a universe. Why aren't both candidates doing eight hours of debate prep every day, because maybe that's all they should be doing right now. But will this - I mean does it mitigate or magnify perhaps the importance of the debate?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:45:14",
+      "speaker": "BERMAN",
+      "sentences": "'98, Reagan voters, the last weekend.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:45:14",
+      "speaker": "BROWNSTEIN",
+      "sentences": "Right. Exactly. On the other hand, I think given the anxiety in Democratic circlesabout Biden's standing in this race, and the fact that, you know, the pathway for him, though doable, look slim and narrow, focused on sweeping those three former blue wall states of Michigan, Pennsylvania, and Wisconsin. If this doesn't go well, I think you're going to see a lot of anxiety, you know, in Democratic circles because no matter how many doubts the Biden campaign can inflame about Trump, and they can - I mean there is a lot of resistance to Trump. As long as his own approval rating, the president's own approval rating, is down around 40 percent, he will be in a vulnerable position. He's much closer to the presidents who lost in approval than to the presidents who won. And again, they are each facing these headwinds.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:45:14",
+      "speaker": "BERMAN",
+      "sentences": "It will be fascinating, unprecedented, frankly, to see.Ron Brownstein, great to have you here in person. Appreciate it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:45:14",
+      "speaker": "BROWNSTEIN",
+      "sentences": "Thanks for having me, John.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:51:21",
+      "speaker": "BOLDUAN",
+      "sentences": "Novak Djokovic has withdrawn from the French Open due to a knee injury. The defending French Open champion was aiming to win is 25th grand slam singles title. Djokovic said in an Instagram post, this. \"I played with my heart, gave it my all in yesterday's match and, unfortunately, due to a medical meniscus tear in my right knee, my team and I have made a tough decision after careful consideration and consultation.\" According to ESPN, Djokovic will have surgery to repair the torn meniscus today.Alec Baldwin is making his return to television in a new reality show about his family called \"The Baldwins.\" The show will run on TLC, which shares the same parent company as CNN, Warner Brothers Discovery. The focus of the show, his life outside of acting with wife Hilaria Baldwin, and their seven children. All of the children are under the age of 10 years old. Every parent with a kid under ten just gasped. The couple teased the new show on Instagram. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:51:21",
+      "speaker": "HILARIA BALDWIN",
+      "sentences": "About our new show.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:51:21",
+      "speaker": "ALEC BALDWIN, ACTOR",
+      "sentences": "We're inviting you into our home to experience the ups and downs, the good, the bad, the wild and the crazy.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:51:21",
+      "speaker": "BOLDUAN",
+      "sentences": "(INAUDIBLE).The show is set to debut next year. The age-old question, Coke or Pepsi is now - now has a door number three. A new contender has entered the battlefield and is winning. Dr. Pepper just dethroned Pepsi as the second most popular soda in America, according to \"Beverage Digest.\" Classic Coca-Cola still the most popular by a wide margin, but Dr. Pepper's 23 flavor blend is definitely the soda to watch, friends, especially as the brand is adding new flavors, like Strawberries and Cream, to the mix. I don't know what to say about that, John.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:51:21",
+      "speaker": "BERMAN",
+      "sentences": "There was really nothing to say.All right, happening now, the countdown is on - I should say still on, for now. The Boeing Starliner is due to launch in less than an hour. The astronauts are all strapped in. They are ready to go. This is the third try. The last mission was scrapped just moments before liftoff because of a computer issue. CNN's Kristin Fisher at Cape Canaveral with the latest. You're watching. We all systems go, Kristin?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:55:07",
+      "speaker": "BOLDUAN",
+      "sentences": "I was going to say, full stop.What else is - what else is the crew bringing with - bringing along with them?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:55:07",
+      "speaker": "FISHER",
+      "sentences": "Yes, so, Kate, the crew is obviously the most valuable cargo. But inside the Starliner spacecraft, they're also bringing something very important to the International Space Station. See, up there, the astronauts drink recycled urine. So, they have to use a urine processor to convert their urine into drinkable water. But there's been a problem with a pump on that device, and so there's just literally bags of astronaut urine piling up at the Space Station right now. And so there's a very critical replacement part inside that spacecraft.So, I don't know what the ISS astronauts are going to be more excited for, the crew or that replacement part, guys.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:55:07",
+      "speaker": "BOLDUAN",
+      "sentences": "I - I was not expecting that. I'm sorry. How do you keep a straight face sometimes?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:55:07",
+      "speaker": "BERMAN",
+      "sentences": "I mean, bags of astronaut urine. I mean, like, if I had a nickel for every time, right?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:55:07",
+      "speaker": "BOLDUAN",
+      "sentences": "I know. I mean, geez.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:55:07",
+      "speaker": "BERMAN",
+      "sentences": "I mean it's like, you know, it happens.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:55:07",
+      "speaker": "BOLDUAN",
+      "sentences": "Geez.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:55:07",
+      "speaker": "BERMAN",
+      "sentences": "It happens.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:55:07",
+      "speaker": "BOLDUAN",
+      "sentences": "I'm also - I clearly have the emotional maturity of a 10- year-old. That's it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:55:07",
+      "speaker": "BERMAN",
+      "sentences": "Kristin Fisher, thank you for being there. Hopefully you will witness a launch in 56 seconds and 18 - our clocks don't match, so there's 20 mysterious seconds there that have to be reconciled.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:55:07",
+      "speaker": "BOLDUAN",
+      "sentences": "Not 500 - not - not - not 56 seconds.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:55:07",
+      "speaker": "BERMAN",
+      "sentences": "We'll get to the bottom of that.Thank you very much, Kristin. Appreciate it. Thank you all for joining us. This has been CNN NEWS CENTRAL.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:55:07",
+      "speaker": "BOLDUAN",
+      "sentences": "It has been.",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

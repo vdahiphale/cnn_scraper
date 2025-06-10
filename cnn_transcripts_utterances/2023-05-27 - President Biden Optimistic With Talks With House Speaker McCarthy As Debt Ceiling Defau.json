@@ -1,0 +1,517 @@
+{
+  "date": "2023-05-27",
+  "headline": "CNN This Morning",
+  "subHeadline": "President Biden Optimistic With Talks With House Speaker McCarthy As Debt Ceiling Default Nears; Four Members Of Oath Keepers Sentenced To Prison; Parents Of Idaho Murder Suspect To Testify Before Pennsylvania Grand Jury; FBI Documents Reveal 1983 Threat Against Queen Elizabeth II. Aired 6-7a ET",
+  "utterances": [
+    {
+      "timeStamp": "06:00:48",
+      "speaker": "VICTOR BLACKWELL, CNN ANCHOR",
+      "sentences": "We've been waiting for you. We're glad to have you long. Good morning. I'm Victor Blackwell. Welcome to CNN THIS MORNING.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:48",
+      "speaker": "AMARA WALKER, CNN ANCHOR",
+      "sentences": "And I'm Amara Walker. Happy holiday weekend everyone. Thank you so much for spending a part of it with us. A holiday travel surge, more than 42 million people expected to head out this Memorial Day weekend. We're going to tell you what to expect if you're going to the airport or driving to your destination.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:48",
+      "speaker": "BLACKWELL",
+      "sentences": "Plus, lawmakers racing to reach a deal to address the debt ceiling. Now Treasury Secretary Janet Yellen gives a new deadline to avoid default.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:48",
+      "speaker": "WALKER",
+      "sentences": "And a plot to kill the Queen. Newly released documents reveal a potential assassination threat against Queen Elizabeth 40 years ago when she was getting ready to visit the U.S., the details ahead.(BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:48",
+      "speaker": "CELINE DION, SINGER",
+      "sentences": "All by myself anymore.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:48",
+      "speaker": "BLACKWELL",
+      "sentences": "Every time I hear that for all these years, I still get like those chill bumps of it. The best 15 minutes and Celine Dion in any of her songs but now she is canceled her world tour through 2024 as she battles health issues. A source says she may never be able to tour again. We're going to have the latest on her condition.But first the summer travel season officially here and experts say it will be a busy one. AAA expects 42.3 million Americans to travel 50 miles or more from home this holiday weekend. At airports, it's likely to be busier than it was before the pandemic in 2019. TSA officials say the agency expects to screen 10 million travelers over the Memorial Day period. WALKER: And then yesterday, Atlanta's Hartsfield Jackson Airport earned its moniker, the world's busiest airport. According to the TSA, nearly 32,000 passengers moved through security checkpoints during the busy morning rush. And just like the skies, of course, the roads will be busy this Memorial Day weekend. More than 37 million people are expected to hit those roads. CNN Pete Muntean reports on the rush at America's airports.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:48",
+      "speaker": "PETE MUNTEAN, CNN CORRESPONDENT",
+      "sentences": "A summer of tests for air travel is already off to a record-setting star from Atlanta.(BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:48",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "We are ready.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:48",
+      "speaker": "MUNTEAN",
+      "sentences": "To Los Angeles.(BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:48",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "We are looking at a very busy weekend here at LAX.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:48",
+      "speaker": "MUNTEAN",
+      "sentences": "With the Transportation Security Administration, screening 2.66 million people at airports nationwide on Thursday, the highest number since before the pandemic.(BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:48",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "I just tried to prepare as much as I could with what I can control.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:48",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "Well, the airport is really busy. But otherwise no, it has been easy, a little bit easy.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:48",
+      "speaker": "MUNTEAN",
+      "sentences": "A smooth start after airlines canceled 2,700 flights last Memorial Day weekend kicking off a summer of more than 55,000 cancellations.(BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:48",
+      "speaker": "PETE BUTTIGIEG, TRANSPORTATION SECRETARY",
+      "sentences": "This weekend will be a test of the system.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:48",
+      "speaker": "MUNTEAN",
+      "sentences": "Transportation Secretary Pete Buttigieg is putting pressure on airlines, which insists they are now right size and right staffed hiring 48,000 workers in the last year according to a CNN analysis.(BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:48",
+      "speaker": "BUTTIGIEG",
+      "sentences": "We're doing everything we can to press airlines to deliver that good service. And if there is an issue, we have your back.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:48",
+      "speaker": "MUNTEAN",
+      "sentences": "Though airlines worry delays could come from the Federal Government, which is short 3,000 air traffic controllers. This week back-to-back staffing issues in Denver forced the FAA to slow flights. United Airlines CEO, Scott Kirby calls air traffic control shortages is number one concern.(BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:48",
+      "speaker": "SCOTT KIRBY, CEO, UNITED AIRLINES",
+      "sentences": "That doesn't just impact those flights. That bleeds over to the whole system for the rest of the day.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:48",
+      "speaker": "MUNTEAN",
+      "sentences": "For now. The FAA has opened up 169 new more efficient flight routes up and down the East Coast. From its command center in Virginia, the agency is monitoring storms and Florida warning of delays in Tampa, Orlando, Palm Beach, and Fort Lauderdale.(BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:48",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "As far as the rest of the Memorial Day weekend, it's looking pretty good.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:22",
+      "speaker": "BLACKWELL",
+      "sentences": "All right, Pete. Thanks so much. Now, if you're headed out on the roads, there will be traffic, OK, and we know that. However, it will cost less to get to your destination. CNN's Matt Egan is with us now. Matt?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:22",
+      "speaker": "MATT EGAN, CNN CORRESPONDENT",
+      "sentences": "Hey Victor and Amara. The roads are going to be packed as summer kicks off this weekend. AAA expects that more than 37 million people are going to be hitting the roads. Hopefully not all of them in New Jersey, where I'm going to be. Some context around that 37 million figure, that is up by 6 percent from a year ago. But I am here with some good news. And that is despite the rising number of people on the roads, the cost of road trips is actually going down. Drivers across the country are being greeted by cheaper gas pricesthan the last Memorial Day weekend, a lot cheaper. On average, a gallon of regular gasoline sells for about $1 less than a year ago, according to the AAA, and the national average is miles away from that record high of 502 a gallon set last June. And GasBuddy says that prices are down in all 50 states like California, Alaska, New York, New Jersey, and Florida are among the states and during the biggest price drops. All of this is yet more evidence of cooling inflation, the cost-of- living crisis. You know, it isn't over, but it is getting better. There's two important points here. Gas prices, they were lower in 2021 and of course in 2020, when COVID shut the economy down and people weren't really driving. Also, the reasons for the gas price drop, they're not all positive. And some of it is better supply, also better than feared supply out of Russia. But it's also these lingering recession fears that have kept the lid on oil prices and also kept down the price of gasoline. Still, GasBuddy estimates that drivers will spend $1.6 billion less on gasoline compared with last Memorial Day weekend. And that is undeniably good news. Victor and Amara.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:22",
+      "speaker": "WALKER",
+      "sentences": "I love it when we can deliver good news off the top. Matt Egan, thank you. So millions will of course head to the beach this weekend but the weather may not cooperate in some areas.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:22",
+      "speaker": "BLACKWELL",
+      "sentences": "Well, I guess that's the end of the good news. The gas is cheap which is you're driving to the rain. CNN Meteorologist, Britley Ritz in the CNN weather center. All right, who was going to face these storms?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:22",
+      "speaker": "BRITLEY RITZ, CNN METEOROLOGIST",
+      "sentences": "Yes. The East Coast but not all of the East Coast. We've got this area of low pressure hanging out over by the Carolinas and it's just spinning in this mass of green. So steady, heavy to moderate rain really from the Georgia coastline right up into the Carolinas and starting to push it inland toward Columbia and Charlotte. We'll be dealing with this all weekend long as the stubborn low sits right here.And not only the rain causing the potential for flooding but coastal flooding where that water gets pushed up onto the shorelines on top of that high surf. We have high surf advisories highlighted in pink from the Carolinas back down into the space coast of Florida, where we can have surf up to 48 feet. And we have high rip current risk suit too. So if you can stay on the water, that's ideal. I mean, it's gloomy anyway. You don't even want to be out there. Rainfall totals through Monday through the entire holiday weekend. Some of these areas highlighted in a lighter orange. That's four inches of rain, isolated higher amounts are a possibility. So yes, flooding is a definite for some of us, especially along the coastlines where you see that moderate risk for Saturday or were highlighted in red. Wilmington, do not drive through flooded roadways, folks. Turn around and find a different route. That's the best bet. Sunday, unfortunately, that flood risk pushes inland over towards Roanoke, and it continues on into your Monday too. Now that's not the only part of the U.S. that's dealing with weather. We have severe weather across the plains, large hail, and wind, and some of the bigger threats. And of course, isolated tornadoes can't be ruled out either. Amara, Victor.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:22",
+      "speaker": "BLACKWELL",
+      "sentences": "All right. Maybe a little dangerous out there, not just gloomy.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:22",
+      "speaker": "WALKER",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:22",
+      "speaker": "BLACKWELL",
+      "sentences": "Britley Ritz watching all of it for us. Thank you so much.All right. President Biden says the debt ceiling deal is very close, you know, Whitehouse and House GOP negotiators, they're racing to prevent a first-ever default. But exactly when the government will run out of money? That's not certain.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:22",
+      "speaker": "WALKER",
+      "sentences": "But Treasury Secretary Janet Yellen told Congress Friday that they must address the debt ceiling by June 5th, giving lawmakers just a few more days to reach an agreement. Let's go now to CNN is Jasmine Wright live outside the Whitehouse. Jasmine asking you once again where do things stand.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:10:12",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "President Biden, what do you -- what do you tell Democrats who say that they don't want you to bow on the work requirement. What's your position?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:10:12",
+      "speaker": "JOE BIDEN, PRESIDENT OF THE UNITED STATES",
+      "sentences": "I don't bow to anybody.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:10:12",
+      "speaker": "WRIGHT",
+      "sentences": "Still, even though we heard those defiant words from President Biden, he's optimistic Republicans are optimistic. And it seems like a -- we are kind of in the final stages, the final steps to that finish line. But even if they come to a deal, and even if it is in text, again, whenever a text could actually be presented, once a deal is made, it's pretty unclear at this point.But even if those two things happen, it is not done yet. This bill still has to pass and make it to President Biden's desk which means that both Democrats and Republicans have a furious effort in front of them, trying to whip up both sides to get them to come and basically come and vote for this deal when we know that there's going to be stiff opposition on both sides. Victor.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:10:12",
+      "speaker": "WALKER",
+      "sentences": "Yes. Jasmine Wright, appreciate it. Thank you. Here with me now is Senior Political Correspondent for The New Republic, Daniel Strauss. Good morning to you, Daniel.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:10:12",
+      "speaker": "DANIEL STRAUSS, SENIOR POLITICAL CORRESPNDENT, NEW REPUBLIC",
+      "sentences": "Good morning.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:10:12",
+      "speaker": "WALKER",
+      "sentences": "So it sounds like both sides are much closer to a deal now. But what would a potential deal look like?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:10:12",
+      "speaker": "STRAUSS",
+      "sentences": "Well, it's interesting that this is -- this is what -- the contours of this deal are different than what usually happens in these last-minute final days debt ceiling negotiations. We're seeing a $10 million reduction in the 8 -- the $80 million that the Biden Administration put aside to expand the IRS. At the same time, the Democratic gain here is that the next debt ceiling fight would be after the Presidential election. You can see the incentives for the Biden Administration and Democrats in general and having that because Republicans would want to use that as a negotiating tool and really a hostage-taking situation while on the campaign trail.Look, honestly, I am a little surprised with what we're seeing right now. This is a deal that's shaping up where neither of the base sides of the Republican or Democratic parties are -- are ecstatic. And that say -- that suggests that this is going to be something akin to a grand bargain, something that the House Speaker and the President of the United States always are striving for going back through different administration. So I mean, as of now, I think Biden's optimism seems warranted.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:10:12",
+      "speaker": "WALKER",
+      "sentences": "OK. So the dissent on both sides sounds like that's good news. We're hearing at least on the Democratic side, so much frustration, right, at least from the rank-and-file Democrats who feel like they have been kept in the dark regarding this these negotiations. And also concerned that, you know, President Biden is going to cave to some of these, you know, really big spending cuts that the Republicans are demanding what -- what is the mood amongst those Democrats? And does Biden risk losing Democratic support when it comes up for a vote?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:15:06",
+      "speaker": "WALKER",
+      "sentences": "Why hasn't President Biden like that some of the Democrats have been, you know, saying, you know, been out front and center, you know, talking to the public? You know, talking about the sticking points saying, you know, letting the public know, what the Republicans are refusing to do whereas, you know, Kevin McCarthy has been holding a news conference each time he's had a meeting with President Biden.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:15:06",
+      "speaker": "STRAUSS",
+      "sentences": "Yes. I mean, that's been one of the major differences between the two parties throughout these negotiations. What I've been told is that the Whitehouse wants to try and not -- not initiate a huge amount of pressure and panic throughout these negotiations. Meanwhile, McCarthy wants to show that he's serious and that there's no bluffing involved as he negotiates here. And it's not an ideal situation for either party. I think both the Whitehouse and McCarthy and his team would rather there either be very little -- very little updates with the outside world or a lot all the time.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:15:06",
+      "speaker": "WALKER",
+      "sentences": "And let's pivot now to the Republican race for 2024 and that humiliating rollout launching his presidential bid, Ron DeSantis there. Obviously, it was botched with all those audio glitches on Twitter. What are your thoughts on how this all kind of played out, the glitches, him, you know -- Ron DeSantis, aligning himself with Elon Musk, using Twitter, not traditional media for this, and of course, not taking the opportunity to call out Trump directly.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:15:06",
+      "speaker": "STRAUSS",
+      "sentences": "I mean, we shouldn't be so surprised that he wasn't eager to call out Trump directly. That's been his move throughout his sort of preparatory phase of running for President. What was more surprising, though was how he announced it, right?So announcing it on Twitter where no one can see his face. Doing it with him on a venue that crashed. Doing it instead of on TV where he could reach millions of voters. And also doing it in a way that does not allow his campaign to collect signatures, to collect email addresses, to collect small-dollar donations. That's the real incentive of doing something like this. And frankly, like for those that were directed, or were able to get on and then go to the DeSantis campaign page, there wasn't much there. So it does suggest that as much as DeSantis has implied and sort of framed himself as the better-polished version of Trump. But there are still some kinks to work out as he gears up and runs for President in the first few days of his campaign.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:15:06",
+      "speaker": "WALKER",
+      "sentences": "Trump still remains the first choice for Republican and Republican-aligned voters. A new CNN poll showing 53 percent support versus DeSantis's 26 percent. Daniel Strauss, appreciate you. Thanks.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:22:35",
+      "speaker": "WALKER",
+      "sentences": "Turning now to Russia's war on Ukraine and Ukraine has just released a powerful video saying it is time to take back what is ours.The short clip posted online by Ukraine's Commander in Chief of the armed forces is ramping up speculation that a massive counter- offensive is imminent. It shows troops chanting a prayer asking for protection while an array of Western weaponry is being used, including leper tanks and HIMAR -- HIMARS rocket launchers.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:22:35",
+      "speaker": "BLACKWELL",
+      "sentences": "In the meantime, two people were killed and dozens more injured after Russian forces struck a medical clinic in Dnipro. Ukrainian officials are calling it clear evidence that Russia is intentionally targeting citizens. And since the beginning of the war, more than 900 healthcare facilities in Ukraine had been attacked 900 That's according to the World Health Organization.CNNs Sam Kiley joins us now. So search and rescue operations, I assume are -- are wrapped up now in the Dnipro.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:25:08",
+      "speaker": "WALKER",
+      "sentences": "Yes. Obviously a psychological front as well. You know, we're also getting new details, Sam, about the attack in the Russian- occupied City of Mariupol. What are you learning about that?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:25:08",
+      "speaker": "KILEY",
+      "sentences": "Well, Mariupol and relatively nearby but the answer both being the scenes of, \"mysterious explosions\" in the last few days. They've ramped and there's clearly now a campaign of attacking and in fact that Ukrainians have made no bones about this. They're crack -- attacking the Ukrainian, sorry, the Russian areas in depth.Russian-held areas, they're going after the logistics support elements. So Mariupol and Berdyans'k, both very important rail logistics bases on the coastline there. And in the case of Berdyans'k, Russian officials are saying they will hit it with two storm shadow Cruise Missiles. Those are the covert or stealth missiles supplied by the United Kingdom.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:31:20",
+      "speaker": "BLACKWELL",
+      "sentences": "More members of the Oathkeepers have been sentenced for their roles in the January 6 insurrection. This week a Judge handed down sentences to the group's leader and to several other members who played key roles that day.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:31:20",
+      "speaker": "WALKER",
+      "sentences": "CNN's Katelyn Polantz has more.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:31:20",
+      "speaker": "KATELYN POLANTZ, CNN CORRESPONDENT",
+      "sentences": "Victor and Amara, a Federal Judge in Washington this week looked at the top of the pyramid of the Oath Keepers Organization and the people who engaged in their efforts on January 6 to storm the U.S. Capitol building into its position guns around Washington, D.C. And he gave them some pretty harsh sentences.So at the top of that pyramid was Stuart Rhodes, the Founder of the Oath Keepers, a political extremist, who still to this day is unrepentant and said in Court, he still believes the 2020 election was rigged and we continue to hold that belief and continue to hold the belief that violence was the way to fight the regime while he served his time in prison. He got 18 years for his sentence. His deputy Kelly Meggs, Meggs' was much different. Meggs was much more apologetic and much more emotional at his sentencing. Judge Amit Mehta gave him 12 years in prison and then two others who were sentenced on Friday by the same Judge, Jessica Watkins, receiving eight and a half years in prison, Kenneth Harrelson from Florida receiving four years. And each of these people was very different. Some saying that they were coming to the Capitol because they felt called to provide security, that they wanted to help Rhodes, that they were in touch with Rhodes and assisting there. Jessica Watkins, she was much more enthusiastic, including after January 6. But even in Court, she was one of the people who had been in the stack on January 6 and was celebrating. But on -- in Court on Friday, Victor and Amara, she essentially said that she regretted what she did, and that she realized that her presence inspired others that day. She had been an idiot who should be held responsible by the Judge. She asked the judge to do that. And so, that was a very emotional hearing, both for all of these people being sentenced, but also for the prosecutors of the Justice Department who brought this monumental, unprecedented, seditious conspiracy case against members of the Oath Keepers. And they are now seeing the sentencing, the closing the book of that case that will set the tone for the justice that is determined to -- should be dealt to people who commit serious crimes like these against the United States and what the Judge says were the type of crimes that were so serious that they shook American democracy. Victor and Amara, back to you,",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:31:20",
+      "speaker": "BLACKWELL",
+      "sentences": "Katelyn, thanks so much. CNN now has a copy of a letter written by the mother of Brian Laundrie. If you don't remember that name, he is the man accused of killing his fiancee Gabby Petito last year before killing himself. Now in the letter, Laundries' mother wrote that if he needed to bury a body, she would bring a shovel and garbage bags. Now on the outside it was labeled burn after reading.Criminal Defense Attorney and CNN Legal Analyst Joey Jackson is with us now. Joey, good to have you. So Roberta Laundrie says this letter was written before this trip that her son and his fiancee went on. And she also says something like when she would bake a cake with a shiv in it. I mean, that's -- that's cartoonish. Somebody who takes a cake with a shiv to a prison or anything. It could be interpreted as a mother promising undying love and loyalty. She also says nothing will come between us. How do you read this letter? Of course, the context of the death is or deaths, that's important, but what do you see here in this in these words?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:00",
+      "speaker": "BLACKWELL",
+      "sentences": "But Joey, let's say we carry on with the narrative and the explanation from the Laundrie family. It still is an explanation of a mother saying, and I'm paraphrasing here, I will do anything for you. Here are some examples that are extreme, but I will do anything for you. I will protect you, that could also play into the Petitos' narrative as, see, this may not say that she knew specifically about our daughter, but that she would do anything for her son, including potentially lie to us about their knowledge of her whereabouts.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:00",
+      "speaker": "JACKSON",
+      "sentences": "Correct, that is absolutely right, and that's the way that it will be interpreted. The Petito family is saying that, listen, just notwithstanding the fact that the letter is undated, and you are giving an indication, mom, of Brian, that you wrote it prior to the trip, that's nonsense. You wrote it knowing what your son did, knowing that he killed our daughter, having knowledge and understanding of that and would assist him in any way possible with respect to either not being captured or in the event that he was doing everything you could to support, defend and protect him.And so, that's very important as it comes to the case. And what's the last thing, important, is it says \"burn after reading\". If this simply was a letter that you were putting out there, about your undying affinities for your son, why would he have to burn it as supposed to paste it on his wall, so he could remember it and he could know for all time how much you love him. So the \"burn after reading\", although, it's not -- the text of the letter itself, is also significant with respect to the mother's knowledge about what the son could have done, and I think it could potentially play in big as it relates to the lawsuit for intentional infliction of emotional distress.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:00",
+      "speaker": "BLACKWELL",
+      "sentences": "Important context there, that \"burn after reading\". Let's turn now to the Kohberger case, this is the man who was charged with the four murders of the college students in Idaho, but now, Monroe County, Pennsylvania grand jury, they are being brought in to testify before the grand jury. Now, let's remember that the murders happened in Idaho.A Monroe County, Pennsylvania grand jury can only investigate potential crimes that happened within that county, in that jurisdiction. Just -- what do you see as the potential universe of crimes that could have happened there in Pennsylvania, and are the parents in any legal trouble or jeopardy here?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:00",
+      "speaker": "JACKSON",
+      "sentences": "Yes, Victor. So, first -- not yes to the parents, we'll get to that. In terms of the context of this, remember that the grand jury in Pennsylvania, that grand jury as you noted, right, investigates crimes that may have occurred in that particular jurisdiction. So there could be a school of thought that there is no connection whatsoever, no nexus between the Idaho murders at all, and what that grand jury was doing.It could be that, that grand jury and reports are when investigating a cold case as it relates to a woman of three who died. Now, police have said that they haven't gotten a connection or nexus between anything that Kohberger did, the murder suspect in Idaho in that particular case. [06:40:00] But let's remember, Victor, that that's what grand juries do. An investigative grand jury is making an assessment as to what if any involvement he may have had. And so, I think that grand jury by calling the parents could be focusing in on an alibi to determine where their son was, was he in school? Is there a connection? Was he home for any reason or at any time to see if there's any nexus or connection between that missing cold case and of course, Kohberger, who we know has been indicted this week in connection with Idaho.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:00",
+      "speaker": "BLACKWELL",
+      "sentences": "All right, Joey Jackson, good to have you to start our Saturday morning, thanks so much.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:45:00",
+      "speaker": "WALKER",
+      "sentences": "All right, let's take a look at some of the other top stories we are following this hour. House lawmakers in Texas set to vote today on whether to remove State Attorney General Ken Paxton from office. The ethics panel from the GOP-controlled house filed 20 articles of impeachment Thursday after hearing from investigators accusing Paxton of numerous criminal acts, including bribery and obstruction of justice.Allegations of legal and ethical wrongdoing have dogged Paxton for years, but this latest effort comes just days after he accused State House Speaker Dade Phelan of being drunk while presiding over the chamber. (BEGIN VIDEO CLIP) (CELINE DION SINGING) (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:45:00",
+      "speaker": "BLACKWELL",
+      "sentences": "This is so sad. Singer Celine Dion says she's canceling her Courage World Tour, and will likely never perform again according to a source close to the singer. Dion has what's known as stiff person syndrome, it's a rare condition, causing body stiffness and muscle spasms. Now, Celine posted this on Twitter on Friday.\"Even though it breaks my heart, it's best that we cancel everything until I'm ready to be back on stage. I'm not giving up, and I can't wait to see you again.\" Newly-release FBI documents show Queen Elizabeth II faced a potential assassination plot while visiting the United States back in 1983.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:45:00",
+      "speaker": "WALKER",
+      "sentences": "CNN's Scott McLean has details on a phone call police received just before the queen's scheduled arrival.  SCOTT MCLEAN, CNN CORRESPONDENTthe Irish Republican Army, the IRA was in a midst of a three-decades- long terror campaign to try to get Northern Ireland reunited with the Republic of Ireland. And in the United States, newly-released documents show that the FBI was on high alert for anyone who may have been sympathetic to that cause, especially around royal visits to the U.S. One memo in particular describes a caller who said that a patron at a well-known Irish Republican bar in San Francisco, who said that his daughter had been killed by a rubber bullet in Northern Ireland, quote, \"claimed that he was going to attempt to harm Queen Elizabeth, and will do this either by dropping some object off the Golden Gate bridge onto the Royal Yacht Britannia when it sails underneath or would attempt to kill Queen Elizabeth when she visited Yosemite National Park.\" Now, the memo doesn't give more detail than that. And it's not clear what kind of follow-up there was. It's also important to keep in mind that this memo was marked priority rather than immediate, which would have been taken much more seriously. Also, by the time it actually gets to the FBI, this is now fifth-hand information. But the bureau was not wrong to be concerned especially considering in 1979, Louis Mountbatten was killed when a bomb planted on his fishing boat exploded, and of course, the IRA was keen to target anything associated with the British state. These documents also show that even more benign protests were followed closely by the FBI which had informants inside some of the local protest group. So one memo describes an Irish Diaspora group which was planning to distribute free beer at a protest of the state dinner, something they say could have added a dangerous dimension to the events planned. That memo also makes clear that the FBI wasn't just concerned about safety, it was also concerned about incidents that may have been embarrassing to either Queen Elizabeth or to then President, Ronald Reagan. Victor, Amara?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:00",
+      "speaker": "BLACKWELL",
+      "sentences": "It's win or go home again for the Boston Celtics and Dallas Stars.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:00",
+      "speaker": "WALKER",
+      "sentences": "Yes, Andy Scholes with us now, so the Celtics trying to make some playoff history.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:00",
+      "speaker": "ANDY SCHOLES, CNN SPORTS CORRESPONDENT",
+      "sentences": "Yes, guys, some --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:00",
+      "speaker": "BLACKWELL",
+      "sentences": "I know I said -- made the Dallas Stars, like that's not the name of the team, but I guess that wasn't the point.  SCHOLES",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:00",
+      "speaker": "BLACKWELL",
+      "sentences": "Right, yes --(LAUGHTER)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:00",
+      "speaker": "SCHOLES",
+      "sentences": "Yes, that's the hockey team, Victor. But you know, we'll talk NBA first. No --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:00",
+      "speaker": "BLACKWELL",
+      "sentences": "Yes --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:00",
+      "speaker": "SCHOLES",
+      "sentences": "NBA team has ever come back from an 0-3 hole --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:00",
+      "speaker": "WALKER",
+      "sentences": "That was interesting --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:00",
+      "speaker": "SCHOLES",
+      "sentences": "In the playoffs -- so, yes, he put NBA in hockey, same team --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:00",
+      "speaker": "BLACKWELL",
+      "sentences": "Yes --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:00",
+      "speaker": "SCHOLES",
+      "sentences": "Sorry about that, guys --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:00",
+      "speaker": "BLACKWELL",
+      "sentences": "Yes --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:00",
+      "speaker": "SCHOLES",
+      "sentences": "But you know, NBA team down in 0-3, they're 0-150 all the time. So the Celtics actually halfway to making some history. Boston already just the 15th team to force a game six after being down 0-3. They're actually 2.5-point favorites tonight in Miami against the Heat. And if they can win tonight, they'd be just the fourth team ever to push it to a game seven after losing the first three games.And if they win and get to a game seven, they'd certainly be heavy favorites at home. So the pressure tonight is really on the Miami Heat, but the Heat are playing it cool. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:00",
+      "speaker": "BAM ADEBAYO, CENTER, MIAMI HEAT",
+      "sentences": "Why would we lose confidence?(CLEARS THROAT) When we started this journey, nobody believed in us. Everybody thought we were going to be out in the first round, everybody thought we were going to be out in the second round. And now we're here one game away. So for us, men, we always stay confident and that's not going to go away.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:00",
+      "speaker": "JAYSON TATUM, FORWARD, BOSTON CELTICS",
+      "sentences": "Being down 3-0, you understand how that's never been done, as you know, all the talk about that. It kind of gave us a sense of just like, you know, everybody is counting us out, no way we're supposed to win. We're supposed to be done. And I think we started to play a little bit more free, relaxed.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:55:00",
+      "speaker": "JOE BIDEN, PRESIDENT OF THE UNITED STATES",
+      "sentences": "What's the matter?(LAUGHTER) What's the matter? I don't blame you, I'm bored with me too. (LAUGHTER) (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:55:00",
+      "speaker": "SCHOLES",
+      "sentences": "President Biden getting some laughs as the White House celebrated this year's national champions in college basketball. UConn men and LSU women. There was also a bit of a scare when the Tigers were on the stage. Freshman Sa'Myah Smith appears to faint. The Secret Service had to help her out, thankfully, she was OK, Biden actually then joked that it wasn't the first time someone has fainted on the stage behind him.All right, finally, a terrifying moment in Milwaukee last night as Brian Anderson hit a screaming foul ball towards the Brewers' dugout, and he actually hit his teammate Willy Adames on the side of his head. Adames merely sat down on the bench, this is the angle -- man, that ball was going fast. Manager Craig Counsell said Adames was alert and responsive. He was taken to the hospital. He said test revealed no fractures, but Adames would remain in that hospital overnight for monitoring purposes, and he would then actually have to be placed on the injured list. But I mean, seeing that video, guys, look -- I mean, it could have been much worse. He turned his head and like paid  attention at the very last second. If he hadn't --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:55:00",
+      "speaker": "BLACKWELL",
+      "sentences": "Yes --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:55:00",
+      "speaker": "WALKER",
+      "sentences": "Well --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:55:00",
+      "speaker": "SCHOLES",
+      "sentences": "It could have been even worse --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:55:00",
+      "speaker": "BLACKWELL",
+      "sentences": "Even worse --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:55:00",
+      "speaker": "WALKER",
+      "sentences": "Went straight --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:55:00",
+      "speaker": "SCHOLES",
+      "sentences": "Yes --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:55:00",
+      "speaker": "WALKER",
+      "sentences": "For his head. All right, Andy Scholes --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:55:00",
+      "speaker": "BLACKWELL",
+      "sentences": "Thank you again --",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

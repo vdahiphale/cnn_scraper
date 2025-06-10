@@ -1,0 +1,349 @@
+{
+  "date": "2024-07-19",
+  "headline": "Connect the World",
+  "subHeadline": "Global Tech Outages Hit Airlines and Businesses Worldwide; New Details About Gunman in Trump Attack; Biden Campaign Slams Trump's RNC Speech; Global Outages Affect Europe Airports, Travel, Media; U.S. Journalist Found Guilty of Spying by Russian Court; Tel Aviv on Heightened Alert After Deadly Drone Attack; Historical Week in U.S. Politics. Aired 10-11a ET",
+  "utterances": [
+    {
+      "timeStamp": "10:00:29",
+      "speaker": "ANNOUNCER",
+      "sentences": "Live from CNN Abu Dhabi, this is CONNECT THE WORLD.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:00:29",
+      "speaker": "ELENI GIOKOS, CNN INTERNATIONAL ANCHOR",
+      "sentences": "Welcome to our second hour of CONNECT THE WORLD. I'm Eleni Giokos. I'm in for my colleague, BeckyAnderson. Massive tech disruptions hitting airlines, businesses, and even emergency services. It's all connected to one tech company doing an update. Plus the latest on the state of President Biden's campaign. One aide telling CNN there is a growing sense the game is over. And the Houthi militant group has now claimed responsibility for a drone strike in Tel Aviv. At least one person was killed. All right. We start with breaking news amid an enormous IT outage, which is hitting hard across the world. Banks, grocery stores, TV news networks, and even emergency services are just some of the victims alongside hundreds of thousands of passengers as flights are canceled in droves globally. Cybersecurity firm CrowdStrike says it's not a cyberattack. Here's what the CEO told NBC a short time ago. Take a listen. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:00:29",
+      "speaker": "GEORGE KURTZ, CROWDSTRIKE CEO",
+      "sentences": "The system was sent an update and that update had a software bug in it and caused an issue with the Microsoftoperating system, and we identified this very quickly and remediated the issue, and as systems come back online, as they're rebooted, they're coming up and they're working. And now we are working with each and every customer to make sure that we can bring them back online. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:00:29",
+      "speaker": "GIOKOS",
+      "sentences": "Well, Texas based cybersecurity company CrowdStrike was launched in 2011. Its software is used by numerous Fortune 500 companies, includingMicrosoft. CrowdStrike also provides cyberattack investigations. And as we heard from the CEO just a moment ago, the outage appears to be primarily caused by what they say is a bad software update to a widely used cybersecurity product. Now program in question is Falcon, the faculty update, the faulty update, rather, is crashing computers running Microsoft Windows causing an error message to be displayed on a blue screen. Now the company stressed that the issue was not due to a cyberattack and that Mac and Linux computers are unaffected. A CrowdStrike advisory seen by CNN urged customers to reboot their machines and confirmed that the issue is specific to Falcon. I want to stay on this. We've got a team of experts with us. We've got some reporters on the ground. We also have Stavros Shiaeles, who's an associate professor in cybersecurity at the University of Portsmouth, as well as CNN's Marc Stewart in Beijing for us, and we'll be joined by Anna Stewart shortly. Stavros, I want to start off with you. You know, and just hearing what we've heard from the CEO saying, look, this is just a bug. It was a mistake that we identified very quickly, and my question is, was it quick enough when you're seeing such a huge issue playing out globally across multiple sectors that frankly has lasted for many hours?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:00:29",
+      "speaker": "STAVROS SHIAELES, ASSOCIATE PROFESSOR IN CYBERSECURITY, UNIVERSITY OF PORTSMOUTH",
+      "sentences": "Obviously, as you -- thank you, first of all, thank you forinviting me. Obviously, it was not fast enough. All of the disruption you would not happen if it was fast enough.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:00:29",
+      "speaker": "GIOKOS",
+      "sentences": "Yes. OK. I've got Marc standing by and I want, Marc, for you to give us a sense what you're seeing on the ground in terms of disruptionsacross Asia. We have heard that in the airports we're still seeing delays, flight cancellations. Is there any word in terms of what they could do to rectify this? You know, CrowdStrike saying all you need to do is reboot. But it seems it's a lot more complex than this.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:00:29",
+      "speaker": "MARC STEWART, CNN CORRESPONDENT",
+      "sentences": "Right, Eleni. It's just past 10",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:05:00",
+      "speaker": "GIOKOS",
+      "sentences": "Yes, exactly. I mean, there's going to be a huge backlog.Stavros, I want to bring you back into this conversation. And I want you to give me a sense of, you know, what your understanding is when you're hearing practically the issues that the airlines are facing. We're hearing emergency services are having problems. And just how widespread this disruption has been and how long do you think it's going to take to actually fix this?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:05:00",
+      "speaker": "SHIAELES",
+      "sentences": "In normal circumstances, it should not take long because when you update a software, you should always have a backup, which you can restorethe software. However, as I understand what happened with the Falcon software, Falcon is the flagship of CrowdStrike and that software uses a client that is installed on Window systems, and I suspect the issue is there. There is some faulty (INAUDIBLE) with the client that is causing the Microsoft Window systems to crash. So this is not I believe so simple to be corrected, except if there is a backup or before installing the client. There is a system restore point, which you can restore the system in a previous working condition. However, as this involves some drivers in the system this could be more tricky to revert back because all the systems they have what we call a failsafe put, which the operating system is starting only the necessary services. So in this case, I believe in order to remove the buggy software in order not to cash because the system crash as they start you need to remove it from the system and the drivers, reboot the system normally and then install the new client. So I don't know how much time it will actually take or if they have the resources for that. I mean, to do it all in very quickly.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:05:00",
+      "speaker": "GIOKOS",
+      "sentences": "Wow. I mean, it sounds awfully difficult. And as you say, it requires resources.I want to bring in Anna Stewart, who is standing by for us as well to give us a sense of what's going on in the U.K. as well as wider Europe. What are you seeing on the ground? Any good news if things going back to normal, Anna?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:10:07",
+      "speaker": "GIOKOS",
+      "sentences": "Marc, I was just looking at CrowdStrike share price, which has plummeted 12 percent in early trade. And here's the thing. I mean, the bigquestion about its reputation, its credibility, when a mistake in an era of this scale occurs. We see colossal impact globally. One questions what kind of governance and, you know, testing abilities they have before they click- send on an updates. M. STEWART: Right. Look, the entire strength and credibility of this company is certainly under the microscope. And the fact that its stock price in early trading has declined by about 12 percent shows that there are tremendous reservations by traders and shareholders in that company. This is not the kind of failure that, especially a company focused on cybersecurity, should be having. It is interesting to note, though. We saw the CEO very early on in this crisis take to Twitter and offer an explanation. We saw him appear on NBC in the United States doing an interview explaining what happened. I mean, that is kind of what you do in a crisis is try to get in front of it and try to try to address the issues as much as possible. Whether or not that will help improve the company's reputation remains to be seen. I mean, the losses are not just inconveniences. We're not just talking about missed flights and delayed luggage. This is impacting banks. This is impacting financial trading. Even the impact on grocery stores. We talked earlier how some of the grocery stores in Australia were having a hard time. This is impacting businesses large and small. The question is just how forgiving will they be as well as Wall Street?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:10:07",
+      "speaker": "GIOKOS",
+      "sentences": "Yes. But -- exactly. And Stavros, I want you to get to weigh in on how this error could have occurred. Is it human error? Is it when they'retesting the updates and there was a lapse in the way that they're testing these updates? Because I think when they say this isn't a cybersecurity attack, people want to know why and how this could have happened.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:10:07",
+      "speaker": "SHIAELES",
+      "sentences": "As far as I can tell, when you hear about a bug, which is human error, is a problem in the code, in the -- when they create the software.Now that's a very good question about the testing and how well the testing. Normally companies so big, they have very cross system checking. I believe it was a human error that something skipped their cross system checking. So future they should see to do more rigorous cross system checking and maybe utilize AI which can help a lot in avoiding human errors. So the more that you remove the human in these tests, et cetera, the better I believe.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:16:53",
+      "speaker": "GIOKOS",
+      "sentences": "More now on our top story, the global tech outage affecting major services worldwide. America's Homeland Security says it's working withcybersecurity firm CrowdStrike and other agencies to assess the disruption. CrowdStrike is explaining that there's a defect in one of its software updates from Microsoft Windows devices and Microsoft is now saying, in its words, the underlying cause has been fixed. Now here's CrowdStrike's official response, and I'm quoting. \"This is not a security incident or cyberattack. The issue has been identified, isolated, and a fix has been deployed. We refer customers to the support portal for the latest updates and will continue to provide complete and continuous updates on our Web sites.\" U.S. president Joe Biden is more isolated than he has ever been with many White House and campaign officials now privately believing he must abandon his chance for a second term and soon. Donald Trump, meantime, is enjoying the support of his party as the Republican National Convention wraps up in Milwaukee. On Thursday, Trump officially accepted his party's presidential nomination. (BEGIN VIDEO CLIP) DONALD TRUMP, FORMER PRESIDENT OF THE UNITED STATES (R) AND CURRENT U.S. PRESIDENTIAL CANDIDATE (R): I am running to be president for all of America, not half of American, because there is no victory in winning for half of America. So tonight with faith and devotion, I proudly accept your nomination for president of the United States. Thank you. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:16:53",
+      "speaker": "GIOKOS",
+      "sentences": "Well, this was Trump's first major speech since the shooting at his rally on Saturday.Trump talked about a wide range of topics in his speech, including the economy, foreign policy, the U.S. immigration crisis, and his assassination attempt. By CNN's count Trump made more than 20 false claims on a number of topics during his acceptance speech. Now the Biden campaign slammed Trump's speech with one adviser saying it's all about him. Joining us now to discuss is CNN's Priscilla Alvarez. And she joins us from Delaware where U.S. president Joe Biden has been recovering from COVID. Priscilla, great to see you. Look, the world is watching in terms of what President Biden is going to do this weekend. What's the latest from the president?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:20:16",
+      "speaker": "GIOKOS",
+      "sentences": "Yes. I mean, pressure and tensions are certainly rising within the Democratic Party in terms of what they'll do next. But I think one thingthat perhaps could shift this discussion is what happens with the donors, and you mentioned this, whether the donors are in it for the long term with President Biden, or whether something is significantly changing on that front.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:20:16",
+      "speaker": "ALVAREZ",
+      "sentences": "Yes, and I want to be clear about which donors we're talking about. We're talking about those who are giving big dollar checks over tothe campaign, something that sources have told me is that they are frustrated that they don't -- they sort of look over the nuance of this moment in some cases and just want a candidate that they think is viable, one that can go up against the former president Donald Trump. And they just don't see that right now in President Joe Biden despite getting some sort of reassurances from campaign officials that there's the next campaign stop or the next solo news conference to try to assuage the concerns that those donors have. But none of that has really made a dent. Oftentimes putting people in the difficult position of trying to sell a candidate that is grappling with his own intraparty revolt. And so the other side of this, though, is the grassroots donations. And that has been a bright spot for the Biden campaign. They often point to those small-dollar funds that are given over to the campaign and so while they're seeing some success still in that space, those big dollar donors are starting to defect and that is certainly a concern, if perhaps not one that would essentially guide the president in his decision-making, one that the campaign is having to wrestle with.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:25:00",
+      "speaker": "GIOKOS",
+      "sentences": "Absolutely. I know that we are going to be hearing a lot more of this in days and weeks to come.Evan Perez, thank you so much for being on top of the story. Well, it's been a rough day for airline travelers, thanks to that worldwide tech outage. We'll update you on efforts to get computers back online, as well as passengers in the air. Plus a verdict has been reached in the trial of an American journalist accused of spying in Russia. That story plus the reaction. (COMMERCIAL BREAK)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:30:05",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "I'm so upset right now. There are eight people in my party. Eight people.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:30:05",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "There's 13 in ours.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:30:05",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "$456 a ticket and they're giving me $100 back. That is it. And we're screwed. This man is getting married. We have reservations.We have cars that we paid for. I paid $380 in a shuttle -- to shuttle everyone here this morning. They have been here since before me with three kids. I've been here since 3:00 in the morning. $100 is unacceptable. I am a good -- I am a good customer for Allegiant and I feel like I'm being completely screwed over. This is bull crap. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:30:05",
+      "speaker": "GIOKOS",
+      "sentences": "Well, CNN aviation analyst Miles O'Brien is standing by for us. We also have Isabel Rosales standing by as well.There's so much emotion. You know, we know how you feel when you're at the airport and you can't get to where you need to be in. The trouble is that the airlines can't do very much with what they have because their systems are down. So, Isabel, I want you to take me through what you're seeing in Atlanta.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:30:05",
+      "speaker": "ISABEL ROSALES, CNN CORRESPONDENT",
+      "sentences": "Right, and even as some of these flights have resumed, we know like Delta, for example, this is a big travel hub forDelta, they had paused all their flights. Now resuming them. The issue is in checking people in, the booking process. So what we're witnessing in the world's busiest airport are just lines of people. Some folks just sitting down. No answers. They're waiting for essentially shouts from airline staff telling them, hey, Philly has been canceled, or even manually checking people in because the kiosks are down due to this outage. Folks calling out by flight in order, prioritizing the flights by departure time, saying yes, hey, Boston, your turn. And folks raising their hands and go into the front there and that is how they're being checked in. Massive slowdown. Crowds right here just waiting and hoping that they can make their flight in time if it hasn't been delayed or canceled. Let me introduce you real quick to Maya and Ashley who have been experiencing this headache firsthand. How would you describe it? What has it been like to me?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:30:05",
+      "speaker": "ASHLEY, PASSENGER",
+      "sentences": "It's just been a cluster. They're not telling you anything. We came and we actually even tried to see if our flight was stillgoing, and wouldn't listen to us, just told us to get in line, sat here for two hours. And I go up to the desk to find out it was canceled.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:30:05",
+      "speaker": "ROSALES",
+      "sentences": "Oh, my gosh, so I'm sure you're frustrated.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:30:05",
+      "speaker": "ASHLEY",
+      "sentences": "They're not talking even if you tried to ask them. So it's frustrating. And I mean, there's nothing going out.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:30:05",
+      "speaker": "ROSALES",
+      "sentences": "Yes. So you're not even sure about your next flight.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:30:05",
+      "speaker": "ASHLEY",
+      "sentences": "No. The QR code to scan, that you can message with a representative to just -- obviously they're busy and you're on hold there, too, so.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:30:05",
+      "speaker": "ROSALES",
+      "sentences": "And Maya, you're traveling with your toddler.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:30:05",
+      "speaker": "MAYA, PASSENGER",
+      "sentences": "Yes, I have a toddler. Her car seat, a 40-pound suitcase, my book bag, and we've been here maybe closer to two hours now, hoping thatit doesn't get canceled as well, but it is very frustrating.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:30:05",
+      "speaker": "ROSALES",
+      "sentences": "And you're both dealing with Spirit. Obviously, all the airlines have been experiencing this worldwide. Are you getting any answers?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:30:05",
+      "speaker": "MAYA",
+      "sentences": "The way that they're doing it is not the best. And people who come down seem kind of frustrated when we're asking them what happened becauseit's like I get you're frustrated, but we're stuck here. You work here. So it's been a mess and very -- it's very --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:30:05",
+      "speaker": "ROSALES",
+      "sentences": "You're trying to keep your cool.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:30:05",
+      "speaker": "MAYA",
+      "sentences": "I am because I have a toddler who's now getting antsy and I'm trying to stay calm to keep her calm. It's -- and it's hot. It's very hot.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:30:05",
+      "speaker": "ASHLEY",
+      "sentences": "Very hot.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:30:05",
+      "speaker": "ROSALES",
+      "sentences": "Thank you, ladies. And I've also heard from a colleague who actually made it past security. TSA has had no problems that even when theygo inside, that confusion continues because the boards with information, they are blanked out so they don't know what concourse to go to. They don't know if their flight is on time, if they made it, if they missed it. So that confusion just continues. And by the way, Hartsfield-Jackson International Airport expecting 300,000 passengers today alone.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:35:09",
+      "speaker": "GIOKOS",
+      "sentences": "Yes. So here's the thing, right, so you've got this software, this update that, you know, CrowdStrike is saying had a bug or some kind of afile that was wrong. There was an error. They're trying to figure out how and why this happened. But in the meantime, you know, I wonder if airlines are ready for these kind of vulnerabilities and what other system they can revert to that could avoid the things that we're seeing right now playing out at a global scale. We can't just be vulnerable and we're just so reliant on IT and not having sort of a backup system. O'BRIEN: Yes. I think you've hit the nail on the head here, Eleni, that this system is built, you know, the airline industry is built on redundancy. That's why it's so safe. 99.999 percent of the time everything is going to be great. And that's because there's layer upon layer. These systems which are designed to help you book and check in and runs the monitors in the airport, all the backend operations of airline probably should have an equal amount of redundancy built into them. They should not go down just because Windows goes down. Backup systems are a really good idea on all sides of this and the airlines' dependency on a system that can fail so horribly with a single point failure I think will hopefully make them think about having a better backup system in the future.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:35:09",
+      "speaker": "GIOKOS",
+      "sentences": "Yes, so I mean, from what we understand they're saying, well, look, we figured out the problem, then, you know, everyone needs to reboot. Andif you're going to see how it's rebooted, you need resources, you need IT specialists. It's not really an easy fix. In the meantime, you've got this backlog of passengers that you need to try and get back on planes. So tell me the ultimate impact financially that this could have on airlines as well as passengers and what I guess this means for insurance companies. This is going to have a spillover effect. O'BRIEN: Yes. It's got a lot of knock-on effects to say the least, and the longer it goes on the more that it becomes exacerbated. Somebody is going to have to pay a lot for this. This company which instituted this patch I suspect is going to be paying a lot for all of the consequences of this. It's a reminder, you know, this technical system we built and we are all so dependent upon it. And I think most days we take it all for granted and everything goes well. But perhaps a little more resiliency in the system might be warranted for the next time.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:35:09",
+      "speaker": "GIOKOS",
+      "sentences": "Well, listen, I'm of the generation I still remember we had to go to the ticketing office physically to get a ticket printed on the peculiarprinters. So I'm glad that we've gone digital, but yes, some things just don't break. O'BRIEN: Eleni, I'm going to date myself. When I first got on planes, we would put -- they'd put stickers on a diagram to indicate who sat where. You know, maybe bring back the stickers. (LAUGHTER)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:35:09",
+      "speaker": "GIOKOS",
+      "sentences": "There we go. Miles O'Brien, good to see, sir. Thank you so much.Well, moving on now, and an American journalist has been found guilty of spying by a Russian court. Russian media reports Evan Gershkovich was sentenced to 16 years in a maximum security colony. Gershkovich was arrested during a reporting trip for the \"Wall Street Journal\" in 2023 and later accused of spying for the CIA. The American journalist had been pleaded not guilty of espionage. For more on this, we turn to CNN's Matthew Chance, who's in London for us following the story very closely. And Matthew, I guess the speed at which this trial and this verdict came through brings to question on, you know, whether the judiciary can be trusted in Russia, but take us through what we've seen.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:40:05",
+      "speaker": "GIOKOS",
+      "sentences": "All right. Matthew Chance, thank you so much for that update. Good to see you.And still to come, Tel Aviv on a heightened alert after a deadly drone attack. Houthi rebels claimed responsibility. Were live in Tel Aviv with the latest. Stay with CNN. (COMMERCIAL BREAK)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:40:05",
+      "speaker": "GIOKOS",
+      "sentences": "Tel Aviv is on heightened alert after a deadly drone attack early Friday. One person was killed in the explosion and 10 others were injured.The attack occurred in an area that's home to several diplomatic compounds, including a U.S. embassy branch office. The U.S. State Department says there was no damage. Houthi rebels in Yemen are claiming responsibility, but CNN cannot independently verify that claim. Hamas and the Islamic Jihad movement in Palestine have praised the attack. Let's go straight to Jeremy Diamond, who is in Tel Aviv for us to give us an update. Jeremy, good to see you. I think there are so many questions about why the Iron Dome did not work. What more do we know?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:45:02",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "And as soon as go turn around to close the door behind me, my friends yelled, what's that? I hear the sound like an F-35 or an F-15 but it was 40 meters above sea level that it makes no sense to be that close. And I hear boom. Red-orange blasts hit on the back of my neck, and we get pushed forward. The doors blast open.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:45:02",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "The windows were, you know, broken, shattered. A lot of glass, ceramics, a lot of things were on the floor, and we realized thatit was just outside the door. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:45:02",
+      "speaker": "DIAMOND",
+      "sentences": "And now as for why this drone was not intercepted, the first successful Houthi drone attack on Tel Aviv, we should note, an Israelimilitary official telling us that this drone was actually detected, but it seems that it was not identified as a threat and was not intercepted due to what this military official described as, quote-unquote, \"human error.\" A lot more questions are going to be asked about exactly what that human error was and why it happened. Certainly it has left people in Tel Aviv on edge about the possibility of this happening again. The Israeli military says that this was an Iranian made Samad-3 drone that they say was upgraded, modified in order to have a longer range, to be able to make it all the way from Yemen, where Houthi rebels launched this drone, all the way here to central Tel Aviv -- Eleni.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:50:06",
+      "speaker": "TRUMP",
+      "sentences": "When I heard a loud whizzing sound and felt something hit me, really, really hard on my right ear, I said to myself, wow, what was that?It can only be a bullet. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:50:06",
+      "speaker": "GIOKOS",
+      "sentences": "It's been a truly remarkable week in U.S. politics. Trump recounting his assassination attempt less than a week ago duringhistorically long speech. His calls for unity quickly falling to the wayside as he ramps up his campaign promises. This as high-ranking Democrats call for Joe Biden to step aside from running for a second term. A growing sense that it's game over for the president's candidacy. CNN's Jeff Zeleny joins us now from Milwaukee, Wisconsin, for an update. Jeff, good to see you. Just a short time ago, we saw a group of Democrats launch a campaign ad calling on President Biden to step down. And I just want to play a clip for our audience. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:50:06",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "President Biden, you saved democracy in 2020.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:50:06",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "Now, you have a chance to do it again.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:50:06",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "It's time to pass the torch and let us choose a new nominee.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:50:06",
+      "speaker": "GIOKOS",
+      "sentences": "All right, pressure is mounting so it's going from bad to worse for President Biden. Give us a sense of what that must be like for him rightnow and we know what are the people around him advising him at this stage?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:50:06",
+      "speaker": "JEFF ZELENY, CNN CHIEF NATIONAL AFFAIRS CORRESPONDENT",
+      "sentences": "Lynda, there's no question that has been an extraordinary week in American politics. I mean,an assassination attempt for the former president, the current president testing positive for COVID, his party calling for him to get out. The former president's party is rallying behind him, but here at the end of this week President Biden is increasingly isolated we are told. There are so many Democrats who indeed are calling for him to step aside because they fear that he cannot beat Donald Trump. Now the Biden campaign is pushing back very forcefully to that and using the speech from Thursday night, that acceptance speech that Donald Trump gave here in Milwaukee, as evidenced why. They said that they, you know, did not live up to his pledge of a unity type theme. And, you know, a few people thought that Trump is going to change stripes obviously. A 78-year-old former president, he's been on the public scene for so long. But the question is, is Joe Biden going to reassess or not? And that is his decision to make. So going into this weekend, there is no doubt all Democrats are keeping a close eye on what he intends to do, even as they look forward and quietly discuss contingency plans. One month from today, Democrats gather in Chicago for their own convention and the big question hanging over all this, will he be the nominee? Will it be Vice President Kamala Harris or someone else? Truly an unprecedented state of play here in the U.S. -- Lynda.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:50:06",
+      "speaker": "GIOKOS",
+      "sentences": "Yes, it's a fundamental questions, right? It's not just about what the messaging is going to be about -- lead the party itself. I want to talkabout former president Trump's messaging, right. There seems there were two sections to his speech. The one that was talking about unity and then the other where he -- you know, went quickly back to his old playbook. I want you to listen to some of what he had to say. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:50:06",
+      "speaker": "TRUMP",
+      "sentences": "And I say it often, if you took the 10 worst presidents in the history of the United States, think of it, the 10 worst, added them up,they will not have done the damage that Biden has done. Only going to use the term once, Biden. I'm not going to use the name anymore, just one time. The damage that he has done to this country is unthinkable. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:50:06",
+      "speaker": "GIOKOS",
+      "sentences": "How's Biden going to counter that?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:55:09",
+      "speaker": "GIOKOS",
+      "sentences": "OK. So, look, you've been covering politics for a long time. We've been through many cycles. I just want to get your reflections on how thisweek actually played out with so much happening.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:55:09",
+      "speaker": "ZELENY",
+      "sentences": "Lynda, I mean, Republicans are unified behind Donald Trump. I have covered a lot of campaigns. This is my seventh presidential campaign, Iguess, and this convention felt different. This does not feel like the Republican Party of old. This is completely Donald Trump's Republican Party. In 2016 when he was coming in, there was a divided Republican Party. The party is very unified behind him. But the question, is that enough? Does he expand the base? Does he offer anything to people who, you know, may not like President Biden, but they also don't like President Trump. So unprecedented. We've not seen anything like this. And it's only July. Who knows what will come by November -- Lynda.",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

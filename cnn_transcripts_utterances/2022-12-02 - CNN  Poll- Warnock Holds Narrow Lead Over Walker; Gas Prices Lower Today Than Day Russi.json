@@ -1,0 +1,289 @@
+{
+  "date": "2022-12-02",
+  "headline": "CNN This Morning",
+  "subHeadline": "CNN  Poll: Warnock Holds Narrow Lead Over Walker; Gas Prices Lower Today Than Day Russia Invaded Ukraine; Biden Hosts Macrons in First State Dinner; Court Halts Special Master Review of Docs in Trump Setback; Twitter Suspends Kanye West after 'Incitement to Violence'. Aired 6-6:30a ET",
+  "utterances": [
+    {
+      "timeStamp": "05:59:57",
+      "speaker": "DON LEMON, CNN ANCHOR",
+      "sentences": "Wow. That champagne looks good. A little mimosa right now to start the weekend.OK. Good morning, everyone. That was President Biden hosting French President Macron at the White House, using the first state dinner of his presidency to honor America's oldest ally. And look who showed up. Wow, a whole bevy of people. There's John Legend, his wife.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:59:57",
+      "speaker": "POPPY HARLOW, CNN ANCHOR",
+      "sentences": "Colbert.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:59:57",
+      "speaker": "KAITLAN HARLOW, CNN ANCHOR",
+      "sentences": "Colbert.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:59:57",
+      "speaker": "LEMON",
+      "sentences": "Stephen Colbert. Anna Wintour. Did you guys notice anyone else?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:59:57",
+      "speaker": "COLLINS",
+      "sentences": "Jennifer Garner.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:59:57",
+      "speaker": "LEMON",
+      "sentences": "There's Anna Wintour with her legendary --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:59:57",
+      "speaker": "COLLINS",
+      "sentences": "The sunglasses never come off, even at the White House.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:59:57",
+      "speaker": "HARLOW",
+      "sentences": "Was that Tim Cook?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:59:57",
+      "speaker": "COLLINS",
+      "sentences": "Kevin McCarthy was there. He was asked about those GOP investigations.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:59:57",
+      "speaker": "LEMON",
+      "sentences": "Minority Leader Kevin McCarthy. Many, many others. We're going to tell you all about that straight ahead. So we have a lot to get to. But this is just in. We have new CNN pollsout of Georgia. Who has the narrow lead this morning, ahead of a high- stakes race everyone is watching? We'll tell you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:59:57",
+      "speaker": "COLLINS",
+      "sentences": "Also this morning, gas prices are down, actually lower today than they were the day that Russia invaded Ukraine. We'll tell you what's behind the dip with our Pete Muntean standing by.Also -- (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:59:57",
+      "speaker": "HARLOW",
+      "sentences": "Elon Musk, who you've called a few years ago -- you called him, quote, \"a national treasure.\" And -- and he's saying, There is not enough free speech on Twitter and I'm changing it.Are you worried at all about how he's running Twitter? (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:59:57",
+      "speaker": "HARLOW",
+      "sentences": "That answer ahead. One of the biggest names in Silicon Valley, LinkedIn co-founder Reid Hoffman, joins us on Elon Musk and the state of tech.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:59:57",
+      "speaker": "LEMON",
+      "sentences": "Talk about a tease, Poppy. I can't wait for that one.But first, brand-new CNN polling on next week's critical Senate runoff election in Georgia. Take a look at this. Incumbent Democrat Raphael Warnock, clinging to a four-point lead over his Republican challenger, Herschel Walker. The polling also reveals that voters and many supporters have serious questions about Walker's honesty, integrity, and his qualifications for the job. Among the doubters, the former president of the United States, Barack Obama. He campaigned for Warnock in Atlanta yesterday, and he used a rambling speech by Walker to hammer the point home. Here it is. (BEGIN VIDEO CLIP) HERSCHEL WALKER (R), GEORGIA SENATORIAL NOMINEE: You ever watch a stupid movie, late at night, hoping it going to get better. It don't get better, but you keep watching it anyway? The other night -- the other night, I was watching this movie. I was watching a movie called \"Fright Night,\" \"Sleep Night,\" some type of night. It was about vampires. I don't know if you know vampires is cool people. But let me something that I found out. A werewolf can kill a vampire. Did you know that? I never knew that. So I don't want to be a vampire anymore. I want to be a werewolf.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:59:57",
+      "speaker": "BARACK OBAMA, FORMER PRESIDENT OF THE UNITED STATES",
+      "sentences": "Mr. Walker has been talking about issues that are of great importance to the people of Georgia, like whether it's better to be a vampire or a werewolf. This is a debate that I must confess I once had myself. When I was 7.Then I grew up. As far as I'm concerned, he can be anything he wants to be. Except for a United States senator. When you spend more time thinking about horror movie fantasies than you do thinking about the people you want to represent, that says something about your priorities. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:59:57",
+      "speaker": "LEMON",
+      "sentences": "That's a lot there. So let's bring in now our senior data reporter, Harry Enten. Good morning to you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:59:57",
+      "speaker": "HARRY ENTEN, CNN SENIOR DATA CORRESPONDENT",
+      "sentences": "Good morning, Don.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:59:57",
+      "speaker": "LEMON",
+      "sentences": "So we have this new polling out of Georgia. The Senate runoff there. Just four days out. What do you have?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:59:57",
+      "speaker": "ENTEN",
+      "sentences": "Yes. All right. So you know, let's just start with that top line that you mentioned. We've got Raphael Warnock, with a 52 to 48 percent lead.I'll tell you this much. This race is still within the margin of error. Right? That applies to the margin. The margin of error is a little less than four points; the margin here is four points. But you've got to essentially double that to understand the margin between the candidates. Now, this is a very narrow advantage, but it is a larger lead than Warnock had, of course, in the general election, where he got more votes than Raphael [SIC] -- than Herschel Walker did, but only by about a point. This is a four-point margin. Let's dig a little bit deeper, right, to understand sort of why it is that Raphael Warnock has the lead. So which candidate is well-qualified? Raphael Warnock, 52 percent; Herschel Walker, 27 percent. Has good judgment: Raphael Warnock, 50 percent; Herschel Walker, 33 percent. Would effectively represent the state of Georgia: Raphael Warnock, 50 percent; Herschel Walker, 41 percent. So when you look at sort of those candidate quality issues, Raphael Warnock comes out ahead on all of them and by pretty clear margins.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:59:57",
+      "speaker": "LEMON",
+      "sentences": "So this is why Walker is staying -- why is Walker staying so close, then?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:02",
+      "speaker": "LEMON",
+      "sentences": "All right, Harry. Thank you very much. Appreciate itHarry, stick around, a little bit later on the show, because I want you to pay attention to this. Ahead, I spoke with Georgia voters who were -- they were team Walker, right? I'm sorry. They were team Walker and team Warnock and one who was still undecided at this stage. We're going to tell you what they say about the state of the race right now.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:02",
+      "speaker": "HARLOW",
+      "sentences": "Look forward to hearing from them.All right. There is a lot going on in this morning in Washington. We're waiting for the release of the November jobs report. Most economists expect a little slow-down in hiring, which by the way, the Fed wants to tame inflation. Also, big news overnight. A freight rail strike has been averted. The Senate legislation to keep rail workers on their job and basically block their ability to strike. A walkout would have crippled the U.S. economy. That bill now goes to the president's desk for his signature. In a separate proposal, the Senate rejected, though, to provide rail workers with seven additional days of paid sick leave. Remember, that had been a sticking point. Senator Bernie Sanders and others had pushed for that. Well, that vote against it was 52-43. Six Republicans voted for the sick leave measure. You see them on the left of your screen. Democrat Joe Manchin of West Virginia was the only one in his party to vote against it. Ahead, we will be joined by a rail worker who says President Biden turned his back on his main union workforce and let them down. This morning gas prices are down. They're way down. They're lower, actually, than where they were before Russia invaded Ukraine about ten months ago. Pete Muntean is live at a gas station in Alexandria, Virginia. I was surprised with this headline, what do you know?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:02",
+      "speaker": "PETE MUNTEAN, CNN CORRESPONDENT",
+      "sentences": "Me, too. We've done live shot after live shot about prices going up and up.The national average of a gallon of regular now $3.45, according to AAA. Think about where we were back on February 24, Poppy, when we saw Russia invade Ukraine. The national average of a gallon of regular then, $3.54. So we are now below that milestone which created so much uncertainty in the global oil market. We were worried about supplies of oil coming from Russia and from Europe. Those fears were relatively unfounded, according to industry analysts. And they're saying that now things are really starting to stabilize. We've seen the price of gasoline go down about 13 cents in the last week. Not all good news, though. There's still concern about China's COVID policies. There's concern about what OPEC could do. Its policies causing oil to go up and then gas prices to go up. So we will have to wait and see. But just think about where we were, Poppy, back on June 14th when we saw the all-time high for a gallon of regular gas. The national average was $5.01. We've seen it go down $1.50 since. 30 percent. It's almost hard to believe.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:02",
+      "speaker": "HARLOW",
+      "sentences": "A reason to think, because those OPEC cuts haven't been fully, you know, ingested into the market yet, and they're big cuts. Is there a reason to believe prices are going to continue to go down or is this temporary?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:02",
+      "speaker": "MUNTEAN",
+      "sentences": "It seems like all of the analysts now are saying they will think prices will go down, at least in the short term. Patrick De Haan of GasBuddy says we could see $3.28, maybe $3.20 by the end of this year, which will be a nice Christmas present for folks.Remember, you know, the Strategic Petroleum Reserve, that record release really helped this in a big way, as well. Although analysts say this is bigger than any one president. This is still a global market. There's a lot of uncertainty. So we've have to wait and see.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:02",
+      "speaker": "HARLOW",
+      "sentences": "Pete Muntean, thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:02",
+      "speaker": "COLLINS",
+      "sentences": "Also this morning, if you're counting on relief from your student loans, as you heard from President Biden earlier this year, you might have to wait a little longer to see if it's actually going to happen.The Supreme Court has now decided that President Biden's debt forgiveness program is going to stay blocked for now, but the oral arguments on the case are set for February. That is actually a very unusually fast case, or fast track coming from the Supreme Court. But it does mean that a decision likely won't come down until June. That leaves millions in limbo, waiting to see if their student loans are actually going to be forgiven. As a reminder, President Biden's program would offer up to $20,000 of debt relief to the millions of those who qualify but the plan has been plagued by lawsuits ever since it was announced from the White House. About 26 million people had already applied for the program by the time it was frozen. That prompted the White House to stop taking applications. So far, obviously, no debt has been cancelled.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:02",
+      "speaker": "LEMON",
+      "sentences": "Well, overnight, President Biden rolled out the red carpet for his first state dinner hosting French President Emmanuel Macron and his wife, Bridget [SIC].(BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:10:18",
+      "speaker": "LEMON",
+      "sentences": "Brigitte. Brigitte. Wow, look at all the fancy folks there. The event drawing big names from the entertainment industry, fashion, politics, business.Here with all the details, CNN White House correspondent Kate Bennett, who was at last night's big event. She previewed the menu yesterday and now she's going to tell us what it was all like. Good morning to you. What did you see? What stars? What stood out to you?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:10:18",
+      "speaker": "KATE BENNETT, CNN WHITE HOUSE CORRESPONDENT",
+      "sentences": "Well, there were a lot of stars. I will say thisIn fact, President Macron made a joke when he came in, saying I hope everyone enjoyed their dinner, and no one had been served a first course yet. So anyway, earlier in the evening, of course, Julia Louis-Dreyfus brought her son as her date. It was nice to see \"Veep.\" And then Chrissy Teigen was there. Of course, she is pregnant with John Legend's -- their third child. Stephen Colbert was there with his wife. And also, Jennifer Garner also brought her daughter, Violet Affleck, which was pretty adorable, to the state dinner. Anna Wintour -- of course, you have to have some fashion -- with Baz Luhrmann. Apple CEO Tim Cook was there. Lots of business leaders were there last night, for sure. But certainly, it was more star-studded than we've seen in recent years. The previous administration was not exactly aligned with mainstream Hollywood. So it was -- it was definitely a change. Also another change, more politicians. You know, we just saw one there. There were Republicans at this Democratic state dinner. Kevin McCarthy, Susan Collins, Steve Scalise. And, of course, Nancy Pelosi was there, the outgoing speaker. She said that she was happy to pass off the baton there to her prede -- to her -- Hakeem Jeffries, who is replacing her. But overall, the night was great. I mean, people enjoyed themselves. This was the first Biden state dinner for the administration. About 400 guests were seated for dinner. Jon Batiste played on the piano. He did some songs there during dinner for entertainment. But it was certainly a very festive evening. You know, guests were ferried from the White House down to the tent in heated trollies. So it was really extravagant. It was quite a lovely evening.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:10:18",
+      "speaker": "COLLINS",
+      "sentences": "Yes. It's rare for one to not happen for this long. I mean, obviously, COVID delayed it. That's why they haven't had it.It is interesting, though, Kate, to see Kevin McCarthy there. And some people may be watching this and wondering why he was invited. Not used to seeing, obviously, Kevin McCarthy at the White House that he's feuded with so much. He actually got asked, though, about the GOP majority coming in January and those investigations they plan to pursue, including into President Biden's family.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:10:18",
+      "speaker": "BENNETT",
+      "sentences": "Exactly. He was asked about that. He didn't respond. He said, I'm here with my mother. He didn't say anything about that.But I will say this, Kaitlan. I was inside the tent during the toast. He and his mother were seated off to the far end of one table. He did not applaud. He did not clap during President Biden's toast. He wasn't as effusive as the other guests. You know, it was probably a challenging room for him to sit in for all of five hours and enjoy that dinner.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:10:18",
+      "speaker": "COLLINS",
+      "sentences": "Interesting dinner. Kate Bennett, thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:10:18",
+      "speaker": "BENNETT",
+      "sentences": "Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:10:18",
+      "speaker": "COLLINS",
+      "sentences": "OK. Also new this morning, Kanye West has been suspended from Twitter again for incitement of violence. We'll tell you what is behind that.Also -- (BEGIN VIDEO CLIP) CHRISTIAN PULISIC, U.S. MEN'S NATIONAL SOCCER TEAM: I mean, it's a pelvic contusion. I didn't get, like, hit in the balls. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:18:22",
+      "speaker": "COLLINS",
+      "sentences": "All right. Former President Trump suffered a major legal setback overnight after a federal appeals court stopped that special master's review of the documents that were taken from his Mar-a-Lago home and seized by the FBI.A few months ago, as you'll remember, a federal judge in Florida had appointed a special master to review these documents, rejecting the Justice Department's argument that former presidents can't claim executive privilege after they leave office. Joining us now to talk about what this means is CNN's senior legal affairs correspondent, Paula Reid. Paula, this is a huge blow for Trump and his attorneys and essentially what they had been pursuing here.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:18:22",
+      "speaker": "PAULA REID, CNN SENIOR LEGAL AFFAIRS CORRESPONDENT",
+      "sentences": "Exactly, Kaitlan. And it's a big win for the newly-appointed special counsel, Jack Smith, because this removes an obstacle to his investigation into the mishandling of government records.The so-called special master was appointed by a lower court, and the job was to review these thousands of documents found at Trump's home and decide what was potentially privileged and should be kept from investigators. And that process slowed down the entire case. Now, this decision to get rid of the special master, it's interesting, because it was made by a panel of three judges, all GOP appointees, two even appointed by Trump himself. And on the one hand, the court acknowledged that it is extraordinary for a warrant to be executed at the home of a former president, but they say that's not enough for a court to interfere with an ongoing investigation. It wrote, \"We cannot write a rule that allows any subject of a search warrant to block government investigations. Nor can we write a rule that allows only former presidents to do so.\" Now, Trump's team is still weighing whether it will appeal this ruling. And we're also learning that a judge has ordered two Trump -- two top Trump White House attorneys to go and testify before the grand jury. What can you tell us about this?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:18:22",
+      "speaker": "REID",
+      "sentences": "OK. And these lawyers are former White House counsel Pat Cipollone and his deputy, Patrick Philbin. They both previously appeared before the grand jury investigating Trump's efforts to overturn the 2020 election.When they testified, they declined to answer some questions, citing Trump's claims of both executive and attorney/client privilege. Those privilege claims, they have been the subject of an ongoing legal fight. And the judge has now rejected them as the judge has rejected similar claims by other witnesses, including top aides to the former vice president, Mike Pence. Now, Trump's legal team is expected to appeal that ruling.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:18:22",
+      "speaker": "COLLINS",
+      "sentences": "So I guess if you're hearing this this morning about the special counsel, about these two former attorneys having to testify, what does is the main takeaway for what it means for Trump overall?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:18:22",
+      "speaker": "REID",
+      "sentences": "Look, this was another bad day in court for him. But Kaitlan, you and I have covered the former president for a long time. You know he may lose a lot of battles, but when it comes to these legal investigations, he tends to ultimately win the war.And one of his favorite tactics is to stonewall or delay these investigations. In both of these decisions, judges have rejected those attempts. So if both of these decisions are ultimately upheld, it will help the special counsel move a lot faster, but you know, it doesn't mean too much for the ultimate outcome for these investigations.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:18:22",
+      "speaker": "COLLINS",
+      "sentences": "Yes. And I was talking to Trump people yesterday. We're waiting to see if they're going to appeal that decision to the Supreme Court when it comes to the special master. Not really clear yet. Paula Reid, thank you for that update, though.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:18:22",
+      "speaker": "LEMON",
+      "sentences": "An important story now, and I hope that you will just take a moment and pay some attention to this, because I'm going to give this news to you straight.Elon Musk suspending Kanye West from Twitter overnight. Why? The anti- Semitic rapper tweeted a swastika wrapped inside the star of David. We are not going to show you the image, because it is hateful. Nor will we be showing you the deranged clip of West praising Hitler and saying that he loves Nazis on a show run by Alex Jones. Alex Jones is a conspiracist who is being ordered to pay millions for his lies about the Sandy Hook shooting. But there are two things that are noteworthy this morning. First, House Republicans finally removing a tweet from two months ago in which they praised West, they praised Musk, and Donald Trump in the same tweet. Since then, West, of course, has spent weeks on a parade of racist and anti-Semitic rants and losing his billionaire status as a result. Musk spent $44 billion to take over a company, spending his time attacking and insulting people, tweeting out misinformation and images used by racists. And the second noteworthy thing this morning is that all three of these men, seen here, engaged in this anti-Semitic conversation. They have connections to Donald Trump. In fact, two of them, sitting right there -- a Holocaust denier, white supremacist and a Hitler-praising anti-Semite -- had dinner with the current presidential candidate a week ago, inside his home, a place that is currently under federal investigation. And as CNN reports, Trump at one point during the dinner said that he liked the white nationalist. R reminder for you: six million Jews were killed in the Holocaust by Hitlers, by Nazis. And Kanye West has 19 million Instagram followers, 32 million Twitter followers, and more -- that is more than there are Jews in the entire world, according to the Anti-Defamation League. Hardly a voice without a following across the country. On conservative media and on Capitol Hill and previously inside the White House. It is hate in the mainstream.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:18:22",
+      "speaker": "HARLOW",
+      "sentences": "Don, thank you very much for that.Ahead, President Biden confirming he will sit down for talks with Russian President Vladimir Putin, but there's one major condition. Here it is. Plus this. (BEGIN VIDEO CLIP) (CHEERING) (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:28:46",
+      "speaker": "HARLOW",
+      "sentences": "Welcome back to CNN THIS MORNING. Here is what is coming up for us.We have an update. U.S. Men's soccer player Christian Pulisic speaking out on his injury. Also this. Chilling new body camera video shows tense moments during a mass shooting in October that left five people dead. We will take you this morning inside of that shootout. And there is a crisis in Silicon Valley, with widespread layoffs in tech. I spoke with one of the best-known founders in Silicon Valley, Reid Hoffman of LinkedIn. That interview is ahead. And quote, \"No one sees what is happening behind closed doors.\" That from Harry and Meghan in a new docuseries. What the couple is revealing now.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:28:46",
+      "speaker": "COLLINS",
+      "sentences": "All right. This is the heart-stopping goal by Christian Pulisic. It gave the U.S. Men's Soccer Team the win over Iran. He put his body on the line to score that goal. Since then, American soccer fans have been almost singularly focused on his health after he had a pelvic contusion. This is what he told reporters about how he's doing.(BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:28:46",
+      "speaker": "PULISIC",
+      "sentences": "I mean, it's a pelvic contusion.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:28:46",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "You know, it's not a euphemism. It's what it sounds like.",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

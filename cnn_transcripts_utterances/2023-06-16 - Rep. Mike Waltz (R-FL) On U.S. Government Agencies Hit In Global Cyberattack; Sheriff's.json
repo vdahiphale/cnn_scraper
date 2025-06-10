@@ -1,0 +1,931 @@
+{
+  "date": "2023-06-16",
+  "headline": "CNN This Morning",
+  "subHeadline": "Rep. Mike Waltz (R-FL) On U.S. Government Agencies Hit In Global Cyberattack; Sheriff's Deputy Delivers Baby On Side Of Highway; Boomers and Grandparents Take TikTok By Storm. Aired 7:30-8a ET",
+  "utterances": [
+    {
+      "timeStamp": "07:30:00",
+      "speaker": "ERICA HILL, CNN ANCHOR",
+      "sentences": "Companies and organizations in the U.S. could also be affected by the hacking spree.Joining us now, Florida Congressman Mike Waltz, who also, of course, sits on Foreign Affairs, Armed Services, and the Intelligence committees. He's also endorsed former President Donald Trump in his 2024 bid. It's nice to have you here with us in the studio. REP. MIKE WALTZ (R-FL):  Yes, thanks. Good to be with you in person.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:30:00",
+      "speaker": "HILL",
+      "sentences": "So let's talk about, first of all, this cyber hack that we learned about.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:30:00",
+      "speaker": "WALTZ",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:30:00",
+      "speaker": "HILL",
+      "sentences": "You're in intel. Have you been briefed, and what's your level of concern this morning?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:30:00",
+      "speaker": "WALTZ",
+      "sentences": "I haven't been briefed on this specifically but we have been briefed on the explosion -- this tsunami of ransomware attacks that are coming. And these are criminal actors all over the world, but what's most concerning are the ones that appear to be and often are state-backed, particularly Russia --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:30:00",
+      "speaker": "HILL",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:30:00",
+      "speaker": "WALTZ",
+      "sentences": "-- and particularly China.What concerns me so much by the reporting, this appears to be Russian hackers. What has me even more concerned about the Chinese hackers is that according to their law, if you're a software company like Microsoft, in China, you have to hand over to the government your source code.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:30:00",
+      "speaker": "HILL",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:30:00",
+      "speaker": "WALTZ",
+      "sentences": "You have to hand over to the Chinese government when you find vulnerabilities in order to be able to do business there. So you can imagine someone like Windows handing -- you know, or Microsoft handing over the source code to Windows because they want to continue to make money in China, and how that now is affecting our government agencies and our businesses.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:30:00",
+      "speaker": "HILL",
+      "sentences": "Do you believe that's a direct line? That the Chinese government is using that source code to then go around and go after U.S. government agencies, potentially, or businesses?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:30:00",
+      "speaker": "WALTZ",
+      "sentences": "Look, I can't imagine that they're not. And we know that the Chinese Communist Party is using -- and to an extent, the Russians as well are using these hackers as an extension of the state and to conduct economic warfare on our businesses -- one, to put them on their backfoot; two, to penetrate our agencies. But often, to give their businesses a competitive advantage in the global marketplace.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:30:00",
+      "speaker": "HILL",
+      "sentences": "So, real quickly because we've got a lot of topics to get to this morning.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:30:00",
+      "speaker": "WALTZ",
+      "sentences": "I know -- yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:30:00",
+      "speaker": "HILL",
+      "sentences": "We were joking in the break it's a lightning round.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:30:00",
+      "speaker": "WALTZ",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:30:00",
+      "speaker": "HILL",
+      "sentences": "Is the U.S. doing enough, based on what you know, to prepare for these attacks? Because maybe not --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:30:00",
+      "speaker": "WALTZ",
+      "sentences": "Yes, right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:30:00",
+      "speaker": "HILL",
+      "sentences": "-- based on what we just saw.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:30:00",
+      "speaker": "WALTZ",
+      "sentences": "So -- well, what has me concerned about this particular attack is that major agencies -- sensitive agencies like our research labs, like the Department of Energy, and others appear to have been hacked.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:30:00",
+      "speaker": "HILL",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:30:00",
+      "speaker": "WALTZ",
+      "sentences": "We should have a very different standard for those sensitive agencies with government funding than obviously, a small mom-and-pop that is just kind of trying to make payroll. And that's where the disparity is in that public-private sector that we're always trying to bridge --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:30:00",
+      "speaker": "HILL",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:30:00",
+      "speaker": "WALTZ",
+      "sentences": "-- and have a lot of work to do. But, gosh, on the government side, they should be secure.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:30:00",
+      "speaker": "HILL",
+      "sentences": "All right. So we'll continue to keep an eye on that.Meantime, let's talk about the indictment --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:30:00",
+      "speaker": "WALTZ",
+      "sentences": "Sure.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:30:00",
+      "speaker": "HILL",
+      "sentences": "-- that was unsealed last week. Per the indictment, the classified documents that the former president allegedly had included information about military capabilities, both U.S. and foreign; U.S. nuclear -- the U.S. nuclear program; possible vulnerabilities for the U.S. and allies when it comes to military attacks; plans of a possible attack against a foreign nation.This is information that the indictment laid out. It puts national security at risk. It puts the military at risk. Given how the former president is alleged to have handled these documents and this information, you endorsed him, as I noted --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:30:00",
+      "speaker": "WALTZ",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:30:00",
+      "speaker": "HILL",
+      "sentences": "-- in April, in his reelection bid here.Does any of this give you pause about the way that information was allegedly handled by him?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:30:00",
+      "speaker": "WALTZ",
+      "sentences": "Yes. So, a couple of things -- and this is all obviously going to play out.One, you mention the word \"alleged.\" So this is the prosecution side of what happened and obviously, the president will mount his defense and give the other side of the story -- context, what have you. Two, I think we're going to see a very difficult, and complex, and convoluted legal case here because you have conflicting statutes in the Presidential Records Act and in the Espionage Act. And --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:30:00",
+      "speaker": "HILL",
+      "sentences": "So the -- but the Presidential Records Act, right, is set --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:30:00",
+      "speaker": "WALTZ",
+      "sentences": "Is a newer and more specific law that many legal analysts say will trump -- pardon the pun --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:30:00",
+      "speaker": "HILL",
+      "sentences": "Right. It happens a lot.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:30:00",
+      "speaker": "WALTZ",
+      "sentences": "-- the Espionage Act. And when you have to prove intent both on the front end and on the retention end through the Espionage Act if that's what they indeed stick with, then if the president believed and legal precedent holds -- for example, in the Clinton -- in the Clinton tapes that the Presidential Records Act was the governing statute -- I think that's going to be an incredibly difficult case to make.And then finally, a lot of the evidence rests on piercing the attorney-client privilege, which is very rare -- unprecedented. It hasn't been -- it certainly hasn't been done before with a former president and sitting political candidate. And if the judge decides that's not admissible that could be a very significant development.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:30:00",
+      "speaker": "HILL",
+      "sentences": "So that's an if as we watch for that. But when we look at where things stand the Presidential Records Act, right -- the Presidential Record Acts -- Records Act --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:30:00",
+      "speaker": "WALTZ",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:00",
+      "speaker": "WALTZ",
+      "sentences": "Sure.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:00",
+      "speaker": "HILL",
+      "sentences": "Who they belong to.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:00",
+      "speaker": "WALTZ",
+      "sentences": "Right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:00",
+      "speaker": "HILL",
+      "sentences": "Who's in charge of them when it comes to the national records act. So a lot of that has been established as we're looking at this.What about when it comes to obstruction?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:00",
+      "speaker": "WALTZ",
+      "sentences": "But you're actually -- you're actually making my point. There's a lot of confusion of what belongs to the president, what belongs to the public, and the National --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:00",
+      "speaker": "HILL",
+      "sentences": "So it's clear that once the president leaves office --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:00",
+      "speaker": "WALTZ",
+      "sentences": "Hang on -- let me finish. The National Archives just testified before the Intelligence Committee and we've released this testimony. There have been 80 instances, going back to Reagan, in every administration where there have been a back-and-forth. There has been confusion. There has been --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:00",
+      "speaker": "HILL",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:00",
+      "speaker": "WALTZ",
+      "sentences": "-- including 80 congressional and senatorial offices. Eighty, not eight, not two.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:00",
+      "speaker": "HILL",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:00",
+      "speaker": "WALTZ",
+      "sentences": "And so, I think there's a broader systemic problem here in terms of the management of classified documents and what belongs to who that we'll be taking a hard look at in Congress. But I don't think that's out there that how often this is happening.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:00",
+      "speaker": "HILL",
+      "sentences": "So, to your point, right, there have -- there were conversations. There were conversations with the former president to return some of those documents. I mean, you are citing that this happens a lot.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:00",
+      "speaker": "WALTZ",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:00",
+      "speaker": "HILL",
+      "sentences": "People take documents whether on purpose or inadvertently. Most of the time it appears to be inadvertent --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:00",
+      "speaker": "WALTZ",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:00",
+      "speaker": "HILL",
+      "sentences": "-- and then there's a conversation and it's give them back.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:00",
+      "speaker": "WALTZ",
+      "sentences": "Sure.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:00",
+      "speaker": "HILL",
+      "sentences": "The Washington Post just reporting this week that, in fact, I believe it was Kise who said there as reporting that he talked to the president about hey, you know what? Why don't we go talk to DOJ? Tell the former president, saying you took these by accident. You can return them. We can avoid all of this here.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:00",
+      "speaker": "WALTZ",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:00",
+      "speaker": "HILL",
+      "sentences": "Multiple times the Archives tried to get that information and those records back. The president didn't just hand them over. Why not just hand them over if, to your point, this happens a lot?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:00",
+      "speaker": "WALTZ",
+      "sentences": "Yes. Well, look, under -- if he believed he was privileged under the Presidential Records Act, then that is a conversation that I would argue should have continued to happen. Because what's missing also in this conversation -- and I could tell you just talking to Floridians and folks back home -- you can call it whataboutism or what have you. They're calling it fairness.And there's legal precedent here when you have the Clinton tapes, when you have the Clinton emails, when you have the fact that the sitting National Security adviser right now, Jake Sullivan, was sending and laundering classified documents into an unclassified server, on top of the fact that the sitting President of the United States admitted he had documents in his garage that you're going in and out of, people look at that and say whoa, wait a minute. There was prosecutorial discretion there. They didn't prosecute. They didn't go after these folks in all of these other instances. But in the one, you go after President Trump. And I can tell you I've served in places --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:00",
+      "speaker": "HILL",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:00",
+      "speaker": "WALTZ",
+      "sentences": "-- where this -- in the third world -- all over the country where the party in power uses the power of the state to go after political opponents and yet, we're seeing that now. I never thought I'd see that -- this in the United States.And I think the damage that's being done to people's trust, on top of the years of Russia -- on top of the Russia, Russia, Russia -- on top of the Durham report that shows and the FBI director said was abhorrent, was unacceptable, and all of those folks have since been fired -- now we're telling people trust us when it comes to Trump this time. People aren't buying it and I think that's why you're seeing his poll numbers actually go up.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:00",
+      "speaker": "HILL",
+      "sentences": "So let's unpack some of this because there is some confusion, right, in the way --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:00",
+      "speaker": "WALTZ",
+      "sentences": "Sure.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:00",
+      "speaker": "HILL",
+      "sentences": "-- that you're laying things out. These are not all apples to apples. We're basically out of time but it's important to note President Biden and the special -- the special counsel is still investigating President Biden in terms of the documents that were found there --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:00",
+      "speaker": "WALTZ",
+      "sentences": "Right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:00",
+      "speaker": "HILL",
+      "sentences": "-- right? So that's not --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:00",
+      "speaker": "WALTZ",
+      "sentences": "They've also been investigating --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:00",
+      "speaker": "HILL",
+      "sentences": "Hold on. Right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:00",
+      "speaker": "WALTZ",
+      "sentences": "-- Hunter for four years --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:00",
+      "speaker": "HILL",
+      "sentences": "So that's not -- yes, and there are questions about that from both sides of the aisle.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:00",
+      "speaker": "WALTZ",
+      "sentences": "-- and sitting on it, right? I mean --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:00",
+      "speaker": "HILL",
+      "sentences": "But that -- so the -- so President Biden is still being investigated, right? Vice President Pence has since been here.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:00",
+      "speaker": "WALTZ",
+      "sentences": "And we'll see how long that goes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:00",
+      "speaker": "HILL",
+      "sentences": "You talk about these tapes and that was --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:00",
+      "speaker": "WALTZ",
+      "sentences": "It's amazing that this one went in just a few months and the Hunter Biden investigation and now the Joe Biden investigation --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:00",
+      "speaker": "HILL",
+      "sentences": "Right. So those can all be questions.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:00",
+      "speaker": "WALTZ",
+      "sentences": "-- seem to be moving --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:00",
+      "speaker": "HILL",
+      "sentences": "But you're throwing a bunch of things into a basket that are not all the same. I do think it's important for our viewers to understand the differences there. And specifically --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:00",
+      "speaker": "WALTZ",
+      "sentences": "I hope you guys unpack those.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:00",
+      "speaker": "HILL",
+      "sentences": "-- we're going to have to -- we will. We have multiple times.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:00",
+      "speaker": "WALTZ",
+      "sentences": "I hope you unpack them.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:00",
+      "speaker": "HILL",
+      "sentences": "We have multiple fact-checks on the website as well.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:00",
+      "speaker": "WALTZ",
+      "sentences": "All right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:00",
+      "speaker": "HILL",
+      "sentences": "We're out of time. I really do appreciate you coming into the studio and I hope to see you in here again.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:00",
+      "speaker": "WALTZ",
+      "sentences": "Thanks.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:00",
+      "speaker": "HILL",
+      "sentences": "Congressman, thank you -- Poppy.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:00",
+      "speaker": "POPPY HARLOW, CNN ANCHOR",
+      "sentences": "A deputy's body camera capturing a miracle on the side of the road.(BEGIN VIDEO CLIP) MASTER DEPUTY DANIEL \"RED\" JONES, HILLSBOROUGH COUNTY SHERIFF'S OFFICE:  Look at me. Look at me. Breathe through -- all right, mama? Breathe through, OK? Has your water broke?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:00",
+      "speaker": "LEXELA NOLASCO, MOTHER",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:00",
+      "speaker": "JONES",
+      "sentences": "There you go, mama.(Baby crying)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:00",
+      "speaker": "JONES",
+      "sentences": "I told you I didn't want to deliver a baby -- another baby.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:00",
+      "speaker": "HARLOW",
+      "sentences": "Well, there's your little miracle for this morning. Hear from that mother and the deputy who helped deliver her child.(BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:43:14",
+      "speaker": "HILL",
+      "sentences": "A sheriff's deputy in Florida going beyond the call of duty, delivering a baby on the side of the highway. But it doesn't end there. The family he helped is now honoring that officer in a very special way.CNN's Isabel Rosales has their story. (BEGIN VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:43:14",
+      "speaker": "JONES",
+      "sentences": "How far along are you pregnant?ISABEL ROSALES, CNN CORRESPONDENT (voice-over):  In answering the call of duty, law enforcement officers face life and death emergencies.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:43:14",
+      "speaker": "JONES",
+      "sentences": "Just keep breathing, OK? I'm not going to move you. I'm not going to do nothing because you feel like -- you look like you're comfortable right now.ROSALES (voice-over):  On April 30, one Florida deputy braved those high-stakes extremes on a single shift.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:43:14",
+      "speaker": "JONES",
+      "sentences": "Whether it's catching a baby or stopping a bad guy it's what we get paid to do.ROSALES (voice-over):  Adrenalin pumping and his weapon drawn, Deputy Red Jones, a 22-year-veterans of the Hillsborough County Sheriff's Office, was responding to a road rage call.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:43:14",
+      "speaker": "JONES",
+      "sentences": "I had that one guy at gunpoint to get him out of his vehicle until we got that situation taken care of.ROSALES (voice-over):  But moments later -- JONES:  I seen a black little SUV pull up behind my truck and the driver got out. You could see the panic in his face, so I started making my way towards him. He met me about halfway across and he's like, \"You need to escort me to the hospital.\" I told him -- I said \"We don't do that. That's only in the movies.\" He said \"Well, my wife's having a baby.\"",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:43:14",
+      "speaker": "LUIS LOPEZ, FATHER",
+      "sentences": "I just got out of the car and I screamed \"Can I get help?\"ROSALES (voice-over):  The expected mother, Lexela, was in labor agony.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:43:14",
+      "speaker": "NOLASCO",
+      "sentences": "Wait, she's pushing.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:43:14",
+      "speaker": "JONES",
+      "sentences": "Yes, yes.ROSALES (voice-over):  They rush to the hospital but the baby was coming to fast.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:43:14",
+      "speaker": "NOLASCO",
+      "sentences": "I knew we weren't going to make it nowhere near to Brandon or neither of the hospitals around us.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:43:14",
+      "speaker": "LOPEZ",
+      "sentences": "Yes, not even Plant City.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:43:14",
+      "speaker": "NOLASCO",
+      "sentences": "Yes. We weren't even going to make it neither of them because I already felt her pushing down.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:00",
+      "speaker": "NOLASCO",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:00",
+      "speaker": "JONES",
+      "sentences": "You have to let me know if the baby's coming, OK?ROSALES (voice-over):  And right there on the side of Florida Highway 60, Deputy Jones helped welcome Lexela Luis Lopez.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:00",
+      "speaker": "LOPEZ",
+      "sentences": "She's coming! She's coming! (INAUDIBLE).",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:00",
+      "speaker": "JONES",
+      "sentences": "There we go. I've got a baby.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Don't pull. Don't pull. I got her.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "I -- OK.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:00",
+      "speaker": "JONES",
+      "sentences": "There you go, mama.ROSALES (voice-over):  Four pounds, 11 ounces, and 18 inches, she's the couple's first child together.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:00",
+      "speaker": "JONES",
+      "sentences": "There ain't no training for us for birthing babies.ROSALES (voice-over):  But if there were, Deputy Jones would make a fine instructor.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:00",
+      "speaker": "JONES",
+      "sentences": "This is -- this is my third little one since I've had a -- been here at the sheriff's office.ROSALES (voice-over):  During a Mother's Day party at the sheriff's office, the four reconnected.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:00",
+      "speaker": "NOLASCO",
+      "sentences": "And we got a little basket. She's wearing one of her onesies that he gave her. It says \"Little Red.\"",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:00",
+      "speaker": "LOPEZ",
+      "sentences": "We call her Little Red and, like, I think we made an Instagram page. One more thing.ROSALES (voice-over):  And after all they've been through together, Luis and Lexela had one more favor to ask of Red.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:00",
+      "speaker": "LOPEZ",
+      "sentences": "Since you delivered her, right, how will you feel being her godfather?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:00",
+      "speaker": "JONES",
+      "sentences": "Very good. That would make me very happy. So, that be -- make me very happy. Thank you, bubba.ROSALES (voice-over):  An unlikely bond between a deputy and a family that began on the side of the road now destined to last a lifetime. Isabel Rosales, CNN. (END VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:00",
+      "speaker": "HARLOW",
+      "sentences": "Well, that just made my day.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:00",
+      "speaker": "HILL",
+      "sentences": "That's so great.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:00",
+      "speaker": "HARLOW",
+      "sentences": "I know.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:00",
+      "speaker": "HILL",
+      "sentences": "And the third baby on the side of the road for that officer.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:00",
+      "speaker": "HARLOW",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:00",
+      "speaker": "HILL",
+      "sentences": "Wow.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:00",
+      "speaker": "HARLOW",
+      "sentences": "He was born to do this apparently.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:00",
+      "speaker": "HILL",
+      "sentences": "Clearly, yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:00",
+      "speaker": "HARLOW",
+      "sentences": "Also this. A brand-new dinosaur species has been discovered. The fossilized remains were found on the Isle of Wight, an island off the coast of England. The Natural History Museum says this is the first armoured dinosaur to be found on the island in 142 years. And that is so cool.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:51:46",
+      "speaker": "HILL",
+      "sentences": "I kind of just want to keep watching it. Boomers and grannies taking TikTok by storm. They're not just making videos either -- they are teaching as a mother. Teaching younger users, in some cases, how to use the TikTok.CNN's Vanessa Yurkevich reports.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:51:46",
+      "speaker": "HARLOW",
+      "sentences": "The TikTok.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:51:46",
+      "speaker": "HILL",
+      "sentences": "The TikTok.(BEGIN VIDEOTAPE) VANESSA YURKEVICH, CNN BUSINESS AND POLITICS CORRESPONDENT (voice- over):  Six strangers picked to live in a house and have their lives taped for social media. This isn't exactly the \"REAL WORLD\" house. These six strangers are well into retirement age. But their TikTok, the Retirement House, is anything but. These seniors who are doing a bit of acting are pumping out curated content rivaling influencers more than half their age while amassing more than five million followers. They're called granfluencers and they're pulling in huge brand deals. The creator economy is worth $250 billion and could double to $480 billion by 2027. The Retirement House promoting CeraVe. Four friends from Palm Springs known as The Old Gays on TikTok and have 11 million followers, partnered with Hyundai. And Chobani took notice of 74-year-old Lynn Davis' cooking videos and her 15.7 million followers. Sixty-two-year-old Helen Polise is approaching one million followers on TikTok.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:51:46",
+      "speaker": "HELEN POLISE, INFLUENCER, THE MUTHERSHIP",
+      "sentences": "It's daunting to think about that many people because it's like populations of cities.Here we go. YURKEVICH (voice-over):  Polise found TikTok over the pandemic -- a distraction and a way to have fun. YURKEVICH (on camera):  Was there a point that this turned into more of a business?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:51:46",
+      "speaker": "POLISE",
+      "sentences": "Some people would ask me -- Oh, how did you do that transition? How did you figure that out? So I said I'll make a tutorial for you. And that was the turning point in the social media for me.YURKEVICH (voice-over):  Instead of brand deals, she's teaching her followers how to TikTok through paid tutorials. It started with mostly older people but now it's younger people, too.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:51:46",
+      "speaker": "POLISE",
+      "sentences": "I'm really good at technology. Probably, I'm better than a lot of young people. So I want to highlight that it's OK to get older. I feel more authentic. I'm not afraid to be myself.YURKEVICH (on camera):  Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:51:46",
+      "speaker": "POLISE",
+      "sentences": "And I think that's really helpful -- on social media, especially.YURKEVICH (voice-over):  As for older influencers success comes in the form of connection to millions of people, often a quarter of their age.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:51:46",
+      "speaker": "DEBRA RAPOPORT, ARTIST AND INFLUENCER",
+      "sentences": "It also opens up a lot of community. I have more friends than I can count and I have more friends who are, like, 25 and 30 than 75-80-year-olds.YURKEVICH (voice-over):  At 78, Debra Rapoport has found a new audience for her sustainable wearable art on Instagram. She's able to promote her upcoming shows, workshops, and sell what she's made --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:51:46",
+      "speaker": "RAPOPORT",
+      "sentences": "And I've modeled this naked.YURKEVICH (voice-over):  -- to her nearly 60,000 Instagram followers. YURKEVICH (on camera):  Why do you think they're attracted to you?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "RAPOPORT",
+      "sentences": "Totally, totally -- not only on social media but in life itself. I'm not afraid at 78 to put myself out there and say this is who I am and this is what I do. I've been doing it a very long time. I don't intend to stop. YURKEVICH (voice-over)(END VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "HARLOW",
+      "sentences": "There you are.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "YURKEVICH",
+      "sentences": "And that was the entire CNN crew's first TikTok with Helen Polise there. We had so much fun. They had so much fun.But Helen Polise actually took to TikTok to also share her story about cancer.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "HARLOW",
+      "sentences": "Wow.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "YURKEVICH",
+      "sentences": "She had cancer. She's cancer-free now, thank goodness. But she says she doesn't know if she would have been able to get through it emotionally without the support of all of her followers.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "HILL",
+      "sentences": "Wow.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "YURKEVICH",
+      "sentences": "She also said one of her followers came to her and said, \"I came to your platform to learn about TikTok but instead, I learned about life.\"",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "HARLOW",
+      "sentences": "Oh, boy.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "YURKEVICH",
+      "sentences": "It is so nice to see this positivity --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "HILL",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "YURKEVICH",
+      "sentences": "-- on social media when there's obviously such a big concern about mental health --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "HILL",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "HARLOW",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "YURKEVICH",
+      "sentences": "-- especially with teens.We had so much fun. These baby boomers, grandparents, brandfluencers are great and they have millions of people -- young people following them.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "HARLOW",
+      "sentences": "So cool.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "HILL",
+      "sentences": "I want to hang out with them, too. It was such a great story. I can tell why you guys had so much fun to watch, too.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "YURKEVICH",
+      "sentences": "We did.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "HILL",
+      "sentences": "Vanessa, thanks.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "YURKEVICH",
+      "sentences": "Thanks, guys.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "HARLOW",
+      "sentences": "Thank you. Great reporting.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "YURKEVICH",
+      "sentences": "Thanks.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "HILL",
+      "sentences": "Just ahead in our 8",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "HARLOW",
+      "sentences": "We're also going to take you back to Texas where a tornado ripped through the town of Perryton. What we're learning as the sun comes up.(BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "A tornado just went in town. A tornado just went through town.(END VIDEO CLIP) (COMMERCIAL) (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

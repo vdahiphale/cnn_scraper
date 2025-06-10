@@ -1,0 +1,745 @@
+{
+  "date": "2022-11-30",
+  "headline": "CNN This Morning",
+  "subHeadline": "Maria Ressa is Interviewed about China; Predicting a Heart Attack; USC Joins Top Four. Aired 6:30-7a ET",
+  "utterances": [
+    {
+      "timeStamp": "06:33:09",
+      "speaker": "KATELIN COLLINS, CNN ANCHOR",
+      "sentences": "All right, welcome back to CNN THIS MORNING. Here's what's coming up on the program this hour.Chinese authorities are warning of a sweeping crackdown on those rare national demonstrations that we've seen on those harsh coronavirus restrictions. Also, lava flowing from Mauna Loa volcano is coming within four miles of the main highway on Hawaii's big island and now authorities are raising health concerns about that. And what if you could predict the risk of a heart attack or a stroke with a single chest x-ray? There is an artificial intelligence program that may soon be able to do just that. We'll tell you more.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:33:09",
+      "speaker": "DON LEMON, CNN ANCHOR",
+      "sentences": "So, new this morning, China cracking down on rare protests across the nation over the regime's strict Covid policies as new video emerges of protesters and police clashing in the streets.(VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:33:09",
+      "speaker": "LEMON",
+      "sentences": "Police in China increasing censorship and intimidation tactics by taking people's phones in broad daylight in major cities like Shanghai and ordering people to delete content. China's zero Covid policy includes mandatory quarantining of close contacts of Covid patients, mass testing, and lockdowns requiring citizens to be confined to their neighborhoods or apartments in some cities for months on end.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:33:09",
+      "speaker": "POPPY HARLOW, CNN ANCHOR",
+      "sentences": "CNN's own Selina Wang, you've seen her nearly every morning recently on this program, well, she's detailed her own experience on her quarantine in China, sharing just how invasive these protocols are. Here's part of what she writes. Quote, Covid workers came into my quarantine room today with a bunch of swabs. They tested the sink, the bathroom surfaces, a clothing hanger and countertop for Covid. This is quarantine in China.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:06",
+      "speaker": "LEMON",
+      "sentences": "It is so good to have you. We admire you so much. We really appreciate you being here.Can we talk about - we have lots to talk about but let's talk about this - these protests in China and the crackdowns on what's going on there and people -- Chinese people are showing up in the streets.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:06",
+      "speaker": "RESSA",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:06",
+      "speaker": "LEMON",
+      "sentences": "Can you put this into context for us?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:06",
+      "speaker": "RESSA",
+      "sentences": "Well, I mean, what's interesting, watching both Ukraine and China, both of these governments, Russia, use information warfare first, right, before conventional warfare. And in many ways China is at the forefront of control through data, which is creeping through the world. China has consolidated control -- a friend of mine, Jimmy Lai, who ran Apple TV in Hong Kong, he is in prison, right? He didn't expect that this would happen, but the world has fallen off the cliff.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:06",
+      "speaker": "HARLOW",
+      "sentences": "One of the things that you say so brilliantly -- and we should remind people, you're -- you've been a journalist for so many years. You - you, you know, ran the Jakarta bureau.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:06",
+      "speaker": "RESSA",
+      "sentences": "Thirty-six. Started here.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:06",
+      "speaker": "HARLOW",
+      "sentences": "Right here.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:06",
+      "speaker": "RESSA",
+      "sentences": "I opened the Jakarta bureau. I opened the Manila bureau.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:06",
+      "speaker": "HARLOW",
+      "sentences": "For CNN.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:06",
+      "speaker": "RESSA",
+      "sentences": "It is so good to be here with you guys.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:06",
+      "speaker": "HARLOW",
+      "sentences": "And so - so great to have you as part of what built this company.You talk about freedom. And the way you put it is, you really don't know what freedom is until you're about to lose it. And look at China. And look at standing up to - you -- your book is \"How to Stand Up to a Dictator.\" Look at what some very brave Chinese people are standing up to now.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:06",
+      "speaker": "RESSA",
+      "sentences": "Yes. But, you know, be careful not to throw it out there because it is here. It is person to person in America.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:06",
+      "speaker": "HARLOW",
+      "sentences": "Yes. Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:06",
+      "speaker": "RESSA",
+      "sentences": "Anywhere it is.But let - let me -- let's talk China and let's talk control, right? TikTok, which has taken over, right? Direct line. There's actually two different versions of the code of TikTok, one for China -",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:06",
+      "speaker": "LEMON",
+      "sentences": "And one for -",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:06",
+      "speaker": "RESSA",
+      "sentences": "And one for the rest of the world, right? Don, you know this.And the fact that the one for China, they know the dangers of control, of behavior, manipulation, which is what you see at the extreme here. And they make it so that kids, 14 and below, are kicked out at a certain time. They have educational videos for them. And (INAUDIBLE), a friend of mine, calls it the spinach version. And then they exported the opioid version for the rest of the world.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:06",
+      "speaker": "HARLOW",
+      "sentences": "To us.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:06",
+      "speaker": "RESSA",
+      "sentences": "To you. Yes, to us.And - and this is part of, I think, you know, the control that we're living through. The novels, the science fiction, we're here. It starts with data. The fact that social media platforms have essentially cloned each of us. They take machine learning, they tale adomized (ph) posts, they clone us and then they pull AI to actually micro target your weakest moment or message. So, what you see on the video, that is the physical version, but it starts online because online impunity is impunity offline.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:06",
+      "speaker": "HARLOW",
+      "sentences": "That's what you said in your Nobel speech.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:06",
+      "speaker": "RESSA",
+      "sentences": "Oh, yes. Sorry, I'm repeating. I feel like Kasandra (ph) and Sifisious (ph) combined.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:06",
+      "speaker": "LEMON",
+      "sentences": "No, l let's hear more.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:06",
+      "speaker": "COLLINS",
+      "sentences": "I think people need you to repeat because what you're saying is really important.The TikTok thing is also critical. We'll be talking later on about how the governor of South Dakota has banned it from -- government employees from having people.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:06",
+      "speaker": "RESSA",
+      "sentences": "That's so interesting.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:06",
+      "speaker": "COLLINS",
+      "sentences": "When you see what's happening in China, and something I've been talking to people who work in the national security realm in the administration about is, is this going to result in meaningful change? Because the White House is focused only on the fact that they're protesting against the draconian Covid measures.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:06",
+      "speaker": "RESSA",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:06",
+      "speaker": "COLLINS",
+      "sentences": "But also you've see the protesters holding up the white sheets of paper.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:06",
+      "speaker": "RESSA",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:06",
+      "speaker": "COLLINS",
+      "sentences": "A sign of protesting about democracy.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:06",
+      "speaker": "RESSA",
+      "sentences": "Yes. And there are costs to them, right? This as we saw the umbrella revolution, 2014, moving into here. And I was - I was at Tiananmen Square. You know, when it comes down, you'll see it, we should watch it, as you're watching, but we just - you know, there are draconian responses to this. And that's what the world must stop.But look at what's happening in Ukraine.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:06",
+      "speaker": "LEMON",
+      "sentences": "Yes, look - but, listen, I think that is -- you said there's a lesson in it for all of us.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:06",
+      "speaker": "RESSA",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:06",
+      "speaker": "LEMON",
+      "sentences": "It's not just in China. It's - there's an -- this is all about, as you say, information warfare. What's -",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:06",
+      "speaker": "RESSA",
+      "sentences": "Warfare.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:06",
+      "speaker": "LEMON",
+      "sentences": "And -- but American is not immune to it. We're --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:06",
+      "speaker": "RESSA",
+      "sentences": "And you've already been targeted, right?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:06",
+      "speaker": "LEMON",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:06",
+      "speaker": "RESSA",
+      "sentences": "You - I mean, that - a thousand page Mueller report with all the data that's been pushed out, this -- social media, the tools of gathering data on each of us now has insidiously manipulated us. It is at a point where journalism becomes nearly impossible because the distribution system actually rewards lies.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:06",
+      "speaker": "HARLOW",
+      "sentences": "But you were such a proponent of Facebook in the beginning.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:06",
+      "speaker": "RESSA",
+      "sentences": "I am -- I was.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:05",
+      "speaker": "RESSA",
+      "sentences": "When did he say it? He said that in -",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:05",
+      "speaker": "HARLOW",
+      "sentences": "1927.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:05",
+      "speaker": "RESSA",
+      "sentences": "Exactly.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:05",
+      "speaker": "HARLOW",
+      "sentences": "The answer - like, free speech is more free speech.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:05",
+      "speaker": "RESSA",
+      "sentences": "That doesn't work today.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:05",
+      "speaker": "LEMON",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:05",
+      "speaker": "RESSA",
+      "sentences": "Not in the age of exponential lies. Not in the age of - at a time when - and, frankly, journalists bear the brunt of this, right, because I've never been -- Don, I see the attacks, you know, it's like we've never been at a time when we're so individually personally vulnerable because information warfare uses free speech to stifle free speech. You say a lie a million times, you pound someone to silence.We've got to get through this time but - but part of it is also the failure of democratic governments to put guardrails in place, legislation on social media. This is coming up. So, it started with American tech companies. Now Chinese tech companies have come in. And, sorry, I'll answer your question about China. Look, the Philippines is a strategic location. The South China Sea is up for grabs. Kamala Harris, the vice president, had just come from there. Biden had just come from Indonesia, right, there. Geopolitical power shift is happening as we speak. But it starts, not with the conventional warfare you were showing, not with the repressive. The world - 60 percent of the world is now under authoritarian rule rolled back to 1989 levels, right? It begins person to person. It begins here at home. The fact that January 6th happened, the fact that your identity politics has been targeted by Russian disinformation, not to make you believe one thing but to just create chaos, violence, fear, hatred. Us against them. In that incentive structure, what happens to our kids, right? We create a world where it is impossible to have democracy. It's impossible, I'm sorry, I could talk about this forever. You know, it's --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:05",
+      "speaker": "LEMON",
+      "sentences": "No. No, we -- we love it. And I think the important thing that, you know, this whole idea about more free speech and you said, that doesn't work anymore.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:05",
+      "speaker": "RESSA",
+      "sentences": "It's exponential lies.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:05",
+      "speaker": "LEMON",
+      "sentences": "And - and - yes, and it's like you -- you can't be nice anymore about -- you have to pound and let people know that we are in a very tenuous position, especially when it comes to facts, truth, journalism.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:05",
+      "speaker": "RESSA",
+      "sentences": "Trust. Facts, truth, trust journalism.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:05",
+      "speaker": "LEMON",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:05",
+      "speaker": "RESSA",
+      "sentences": "Like, in September - well, this is part of what I spent a whole book -- I woke up at 5",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:05",
+      "speaker": "LEMON",
+      "sentences": "Yes. RESSA",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:05",
+      "speaker": "LEMON",
+      "sentences": "Maria, thank you so much. We appreciate you joining us. Best of luck to you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:05",
+      "speaker": "HARLOW",
+      "sentences": "Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:05",
+      "speaker": "LEMON",
+      "sentences": "I mean, can't wait to finish the book.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:05",
+      "speaker": "HARLOW",
+      "sentences": "Congratulations.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:05",
+      "speaker": "LEMON",
+      "sentences": "Poppy is like - Poppy wants to give it to her -",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:05",
+      "speaker": "HARLOW",
+      "sentences": "I just had her sign it for my kids when they are like -- in ten years when they can read it and understand. And hopefully the world's a better place for them. We'll see.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:05",
+      "speaker": "LEMON",
+      "sentences": "Thank you so much.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:05",
+      "speaker": "RESSA",
+      "sentences": "If we do the right thing now.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:05",
+      "speaker": "LEMON",
+      "sentences": "We appreciate it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:05",
+      "speaker": "RESSA",
+      "sentences": "Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:05",
+      "speaker": "HARLOW",
+      "sentences": "All right, so what if you could predict your risk of a heart attack or a stroke with a single chest x-ray? We're going to tell you how artificial intelligence could actually make that a reality.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:05",
+      "speaker": "LEMON",
+      "sentences": "You were so, so good.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:05",
+      "speaker": "HARLOW",
+      "sentences": "Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:05",
+      "speaker": "RESSA",
+      "sentences": "So sorry I took you where I wanted you to go.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:05",
+      "speaker": "HARLOW",
+      "sentences": "It was great.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:05",
+      "speaker": "COLLINS",
+      "sentences": "No, that's delightful (ph).",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:05",
+      "speaker": "LEMON",
+      "sentences": "Thank you so much. Thank you. Thank you so much.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:05",
+      "speaker": "COLLINS",
+      "sentences": "That was (INAUDIBLE). Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:05",
+      "speaker": "RESSA",
+      "sentences": "Oh, good luck. Good luck.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:05",
+      "speaker": "LEMON",
+      "sentences": "You're amazing.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:47:08",
+      "speaker": "HARLOW",
+      "sentences": "Lava flows from the world's largest active volcano, causing concerns as they come within four miles of a major highway on Hawaii's big island. Drivers are being warned not to park along that road. Monday's eruption on Mauna Loa also sent lava cascading down a road leading to an important observatory where a critical climate tool used to measure carbon dioxide during the climate crisis has been housed for 60 years.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:47:08",
+      "speaker": "COLLINS",
+      "sentences": "Also this morning, new research suggesting that a single chest x-ray may be all you need for artificial intelligence to predict your ten-year risk of death from a heart attack or a stroke. This is promising technology for millions of Americans who suffer from heart disease. It's the leading cause, as you know, of death in the United States.So, joining us now to talk about this is our CNN medical correspondent Dr. Tara Narula. Doctor, this could be game changing. DR. TARA NARULA, CNN MEDICAL CORRESPONDENT: Well, it could. And I think we have to understand what the context here is. And Poppy and I were just talking, you said in the intro, cardiovascular disease is the leading cause of death for men and women in this country. And so the holy grail of cardiology really is figuring out who is going to be at risk for having an event, like a heart attack or a stroke. And many times the problem is, things are silent until they're not, until the day you have your heart attack and stroke. And so we really need to get a good screening tool so that we can give somebody their prediction, we can get them on the road to prevention with things like statins and lifestyle changes. So, the best we have now - let's talk about what we have now -- is something called a risk calculator. So, when a patient comes in my office, as they did this week, and said, doc, what are my chances of having a heart attack or stroke in the next ten years, I said, let me take your information, your age, your gender, whether you stroke, what your blood pressure is, plug it into an equation and I'll give you a risk score. Whether that's 5 percent rick of having an event in the next 10 years or 10 percent. The problem is, we don't have all that data for every patient, so we can't always generate the risk score. And it's not always 100 percent accurate. Enter artificial intelligence, right?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:47:08",
+      "speaker": "LEMON",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:47:08",
+      "speaker": "NARULA",
+      "sentences": "So, how do we improve on what we have to help us predict.Now, artificial intelligence has kind of come into the world of medicine since the 1960s. And, in fact, cardiologists, in many senses, are leading the way when it comes to using this for heart failure prediction, for tailoring drug therapy and now for predicting risk. So, it is promising.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:47:08",
+      "speaker": "LEMON",
+      "sentences": "So, as a burgeoning hypochondriac, like I have ever - I have like every - I know I have that. I have that. And then I go - HARLOW",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:47:08",
+      "speaker": "LEMON",
+      "sentences": "And then I go to the doctor and the doctor is like, what are you doing here? You're totally fine.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:47:08",
+      "speaker": "COLLINS",
+      "sentences": "Please, go home.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:47:08",
+      "speaker": "LEMON",
+      "sentences": "So - so then who does this? So how do you - does anyone go into their doctor and -",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:47:08",
+      "speaker": "NARULA",
+      "sentences": "So let's talk about this study, right, the chest x-ray study.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:47:08",
+      "speaker": "LEMON",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:04",
+      "speaker": "LEMON",
+      "sentences": "Right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:04",
+      "speaker": "NARULA",
+      "sentences": "Could potentially help in the sense that you could actually get a report that says, OK, your chest x-ray is clear but you're at increased risk of cardiovascular disease. Go talk to your doctor or your cardiologist and get screened.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:04",
+      "speaker": "LEMON",
+      "sentences": "So don't go into your doctor and say, hey, I want this test? Not yet. All right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:04",
+      "speaker": "NARULA",
+      "sentences": "No. And certainly don't ask for a chest x-ray yet for a screening for cardiovascular disease.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:04",
+      "speaker": "LEMON",
+      "sentences": "All right. Thank you, Doctor. Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:04",
+      "speaker": "COLLINS",
+      "sentences": "It's promising.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:04",
+      "speaker": "NARULA",
+      "sentences": "Yes, but promising.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:04",
+      "speaker": "LEMON",
+      "sentences": "Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:04",
+      "speaker": "NARULA",
+      "sentences": "Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:04",
+      "speaker": "LEMON",
+      "sentences": "Very much appreciate that.Straight ahead, a chilly report from the Pentagon. China could have a stockpile of 1,500 nuclear warheads in less than 15 years. Plus, this. (BEGIN VIDEO CLIP) DWAYNE \"THE ROCK\" JOHNSON, ACTOR: I have been waiting decades to do what I'm getting ready to do now. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:04",
+      "speaker": "COLLINS",
+      "sentences": "The Rock is righting a wrong. Why the \"Black Adam\" star just bought every Snickers bar in his hometown at a 7-Eleven.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:04",
+      "speaker": "LEMON",
+      "sentences": "So -",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:04",
+      "speaker": "HARLOW",
+      "sentences": "What is this about?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:04",
+      "speaker": "LEMON",
+      "sentences": "That is my go-to, a Snicker bar.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:04",
+      "speaker": "COLLINS",
+      "sentences": "Do you follow - you've got to follow The Rock on Instagram.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:04",
+      "speaker": "LEMON",
+      "sentences": "Lay's potato chips plain, Snicker bar and a diet Coke. That is a - that was -",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:04",
+      "speaker": "COLLINS",
+      "sentences": "He does the -",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:56:01",
+      "speaker": "LEMON",
+      "sentences": "That's so true.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:56:01",
+      "speaker": "HARLOW",
+      "sentences": "That's good.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:56:01",
+      "speaker": "COLLINS",
+      "sentences": "Also, a big shakeup this morning in the college football playoff rankings. One powerhouse in the top four, another is out.Andy Scholes joins us now. Andy --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:56:01",
+      "speaker": "LEMON",
+      "sentences": "No, you have to say it right, Andy Scholes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:56:01",
+      "speaker": "HARLOW",
+      "sentences": "He is on fire this morning, Andy.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:56:01",
+      "speaker": "COLLINS",
+      "sentences": "Andy, are you awake now?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:56:01",
+      "speaker": "ANDY SCHOLES, CNN SPORTS CORRESPONDENT",
+      "sentences": "A little soccer flare to my intro. I like it, Don. Appreciate that.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:56:01",
+      "speaker": "COLLINS",
+      "sentences": "Andy, though, we've got to talk about - we've got to talk about these rankings because, you know, the college football playoff committees might have a pretty easy weekend coming up, actually.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:56:01",
+      "speaker": "SCHOLES",
+      "sentences": "Yes, you know, if the top four as is now hold, it would be an easy weekend. But here's hoping we get some chaos, right, because that makes it more fun. But for the first time in the college football playoffs history, USC is in the top four. So all they have to do is beat Utah on Friday night in that PAC 12 title game and they'll be in. Georgia remaining in that top spot, followed by Michigan, who was up to number two after beating Ohio State.You know, five and six is where it's interesting at this point in the season. You know, the Buckeyes are now five after the loss to Michigan. Then it's two-loss Alabama who is sixth. And we take a look at the weekend's schedule. You know, Georgia and Michigan, they could lose their title games and still make the playoffs. TCU is undefeated as well. But if they lose to 10th ranked Kansas State, that is probably where the debate would begin. Would Ohio State, with one loss, then get in over TCU? If TCU and USC were to somehow both lose, would Alabama somehow sneak in? A two-loss team has never made it to the college football playoffs. So, we should be in for a fun weekend, guys. And, Kaitlan, I know I'm -- you're certainly hoping that both TCU and USC were to somehow lose. That's Alabama's only path to get in. You know, The Tide, both their losses on the very last play of the game. They could easily be undefeated right now. And they've only missed the playoffs once in their history.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:56:01",
+      "speaker": "COLLINS",
+      "sentences": "Yes, I know, it's hard.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:56:01",
+      "speaker": "HARLOW",
+      "sentences": "Once?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:56:01",
+      "speaker": "COLLINS",
+      "sentences": "But, Andy, you brought your son to the Alabama game this weekend. I saw you. Did he have fun?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:56:01",
+      "speaker": "SCHOLES",
+      "sentences": "He had a blast. You know, the Iron Bowl, for his first college football game, certainly a good one to take him to.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:56:01",
+      "speaker": "COLLINS",
+      "sentences": "Yes, you've set the bar really high.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:56:01",
+      "speaker": "LEMON",
+      "sentences": "Thank you, Andy Scholes. He's saying there's a chance for LSU. Did you hear that? I heard that.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:56:01",
+      "speaker": "COLLINS",
+      "sentences": "I didn't hear that.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:56:01",
+      "speaker": "LEMON",
+      "sentences": "(INAUDIBLE).",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:56:01",
+      "speaker": "COLLINS",
+      "sentences": "We'll bring you back later to dissect that.Thanks, Andy.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:56:01",
+      "speaker": "SCHOLES",
+      "sentences": "All right.",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

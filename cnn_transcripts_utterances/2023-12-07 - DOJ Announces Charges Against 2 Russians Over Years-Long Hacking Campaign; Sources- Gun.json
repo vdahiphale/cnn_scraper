@@ -1,0 +1,133 @@
+{
+  "date": "2023-12-07",
+  "headline": "CNN News Central",
+  "subHeadline": "DOJ Announces Charges Against 2 Russians Over Years-Long Hacking Campaign; Sources: Gunman Had Applied For Job At UNLV, Didn't Get It; White House Discusses Attacks On U.S. Forces; TX Judge Grants Emergency Abortion To Woman Who Sued State. Aired 1:30-2p ET",
+  "utterances": [
+    {
+      "timeStamp": "13:34:00",
+      "speaker": "BORIS SANCHEZ, CNN HOST",
+      "sentences": "The Justice Department is filing charges against two Russian operatives over a years-long cyber espionage campaign against current and former U.S. government officials, and for interfering in a national election in the United Kingdom.Now one of the men charged is an intelligence officer, the other is an I.T. worker. And the two Russians tried to hack U.S. intelligence and Defense Department employees, according to the indictment, as well as those at the State and Energy Department. That is an effort that started back in 2016 and wrapped up last year. Joining us now to discuss, CNN senior law enforcement analyst and former FBI deputy director, Andrew McCabe, and CNN senior justice correspondent, Evan Perez. Evan, first to you. Walk us through this reporting. What did investigators find?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:34:58",
+      "speaker": "SANCHEZ",
+      "sentences": "And, Andy, it's unclear from the indictment just how successful they were at hacking U.S. officials. They did have some success in the U.K.But given kind of the track record that we have seen, some of the vulnerabilities, especially U.S. systems, how extensive do you think the damage could be from a hack like this?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:34:58",
+      "speaker": "ANDREW MCCABE, CNN SENIOR LAW ENFORCEMENT ANALYST",
+      "sentences": "I think even just the hints of the target list that we see in the indictment are really significant.It is a broader swath of U.S. government entities. The people in the intelligence community, people from DOD, Department of State, Department of Energy. So we know that that is a pretty large group. Interestingly, it is spearfishing. So these people were targeted specifically, right? Not just regular fishing, throughout thousands of emails, but actually generate fraudulent emails that are known to -- would appeal to or trick these specific people into entering their email credentials.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:34:58",
+      "speaker": "SANCHEZ",
+      "sentences": "Fascinating.And, Evan, obviously, these men do not live in the United States. We think they are still living in Russia.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:34:58",
+      "speaker": "PEREZ",
+      "sentences": "Right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:34:58",
+      "speaker": "SANCHEZ",
+      "sentences": "What is the likelihood that they are somehow caught and face real accountability?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:34:58",
+      "speaker": "PEREZ",
+      "sentences": "You're right. The officials had a call with the reporters there, and that was one of the questions that came up.Obviously, they won't be able to get these guys anytime soon. But one of the things they count on is the fact that, weather in Russia, it is extremely terrible, and these guys try to go on vacation in warm places, and that's where the tried to grab them. It happens all of the time. They indict these guys and then they wait for them to make a misstep. And then they bring them in. In this case, one of the things, just real quickly I wanted to mention, is, you know, critical infrastructure, dealing with the election systems was one of the targets of this campaign. And so that is one of the big concerns, certainly going forward because we have an election coming up next year.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:34:58",
+      "speaker": "SANCHEZ",
+      "sentences": "Yes. As Evan points out, Andy, we're on the eve of 2024. What does the U.S. need to do to ensure that Russia, China, potentially other foreign actors don't but into the election?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:34:58",
+      "speaker": "MCCABE",
+      "sentences": "I think one of the most interesting points in this indictment is the fact that is coming from the FSB.You may remember, in the 2016 election, the Russian meddling in the election came from two other entities, the SVR, which is their external intelligence organization, and the GRU, which is military intelligence. This tells us that the FSB, their internal intelligence apparatus, is also involved in the same sort of aggressive, destructive cyberattacks. And so I think that the message the U.S. community takes away from this is that it's time to step up the game. There is no time more than an impending election that we need to be absolutely on the cutting edge of our cybersecurity.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:34:58",
+      "speaker": "PEREZ",
+      "sentences": "Particularly, you have politicians in the United States who are trying to undermine faith in the system. I mean, you know, it just adds a complication to the problem.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:34:58",
+      "speaker": "SANCHEZ",
+      "sentences": "Yes. That's a very, very important point. It does send a message to Russia as well, saying we see what you're doing, we know what you're doing, don't try anything.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:34:58",
+      "speaker": "PEREZ",
+      "sentences": "That's right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:34:58",
+      "speaker": "SANCHEZ",
+      "sentences": "Andy McCabe, Evan Perez, thank you both so much.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:34:58",
+      "speaker": "MCCABE",
+      "sentences": "Thanks.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:40:16",
+      "speaker": "BRIANNA KEILAR, CNN HOST",
+      "sentences": "A possible motive developing behind the UNLV campus shooting. Three people murdered when a gunman opened fire there. Another person critically injured. They are in the hospital right now.Law enforcement sources are telling CNN one connection the shooter had with the school is he is applied for a job at the university and he didn't get it. CNN's Camila Bernal is joining us now. Camila, tell us what you are learning.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:45:07",
+      "speaker": "ALLISTER DIAS, UNLV STUDENT",
+      "sentences": "I know a lot of my peers, when they're being led out by the police with their hands up, you know, it was very heartbreaking to see a lot of my peers crying to their parents on the phone or crying to their siblings. And it was pretty bad.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:45:07",
+      "speaker": "BERNAL",
+      "sentences": "Unfortunately, according to a CNN analysis, this is the 80th, 80th shooting at a school this year in the U.S. This is what students and teachers are having to deal with.Thankfully, this is a city that was prepared. And law enforcement officers were ready and there to stop this shooter -- Brianna?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:45:07",
+      "speaker": "KEILAR",
+      "sentences": "All right, Camila, thank you for the update there. Of course, we are thinking of the UNLV community. Very traumatized at this point.I want to go now to the White House, which is where John Kirby is taking some questions now about attacks on U.S. forces. ADM. JOHN KIRBY, NATIONAL SECURITY COUNCIL SPOKESPERSON: That the obvious -- the obvious proof of that are the drones that are armed. And continue to provide Russian -- to help Russia out, create a manufacturing plant on Russian soil so they can build their own Iranian model drones, which are continuing to attack the people of Ukraine and Ukrainian infrastructure. That said -- and we have talked about this many times before -- Iran probably wants something out of this, too. And we have reason to believe that they want their hands on some sophisticated Russian military capabilities, attack helicopters, fixed-wing aircraft, missiles, cruise and/or ballistic. I cannot sit here and tell you that we have seen actual evidence of the movement of those kinds of defense articles but there is, clearly, a growing relationship in the defense realm between these two countries. As I have also said, it is not only not good for the people of Ukraine, it is really not good for the people of the Middle East. If Iran can get their hands on additional military capability, some sophisticated military capability, only makes their destabilizing activity all the more worrisome.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:45:07",
+      "speaker": "UNIDENTIFIED REPORTER",
+      "sentences": "Thank you, Admiral.It has now been about a week since the pause in the fighting ended. Where are talks right now with the regional partners to extend that temporary pause? What are the conditions that we know of right now of the hostages remaining -- (INAUDIBLE)?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:45:07",
+      "speaker": "KIRBY",
+      "sentences": "Talks are still ongoing. Discussions are happening virtually every day. Our teams are in touch with our partners on this. I wish I had specific progress to speak to. I do not.We are not close to inking another deal or A humanitarian pause. Nor do I have any news to break here today about the return of hostages, either ours or those of many other countries who are being held hostage. We are still trying to get as much information as we can about the hostages that are being held. We have some information, as I said before, on some of the hostages. Their families are talking to us and that has been a terrific source of information in context. We have less information on others but not for lack of trying.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:53:20",
+      "speaker": "SANCHEZ",
+      "sentences": "A pregnant Texas woman who sued the state to have an emergency abortion has prevailed in court. Today, a judge granted the woman legal permission to bypass that controversial Texas abortion ban and go ahead with the procedure.Kate Cox, who is 20 weeks pregnant, so her unborn baby has a fatal genetic defect that could jeopardize your health and her chances to conceive again if she carried to term. Let's get the details now from CNN senior national correspondent, Ed Lavandera. So, Ed, this is a really significant ruling from the court.",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

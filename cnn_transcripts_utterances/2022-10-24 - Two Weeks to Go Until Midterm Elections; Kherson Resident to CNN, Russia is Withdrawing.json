@@ -1,0 +1,301 @@
+{
+  "date": "2022-10-24",
+  "headline": "New Day",
+  "subHeadline": "Two Weeks to Go Until Midterm Elections; Kherson Resident to CNN, Russia is Withdrawing Admin Services from City; Trial of Oath Keepers Founder, Four Others Enters Fourth Week. Aired 7-7:30a ET",
+  "utterances": [
+    {
+      "timeStamp": "07:00:01",
+      "speaker": "JOHN BERMAN, CNN ANCHOR",
+      "sentences": "It was a little bit Casey at the Bat moment right there.Andy Scholes, congratulations. I'd like to see the Astros go through. New Day continues right now. All right, I'm John Berman with Brianna Keilar this morning. The key races are tightening with the critical midterm elections just 15 days off. In Georgia, Raphael Warnock's lead in the polls over Herschel Walker, it is a narrow lead. And Stacey Abrams is trying to unseat Brian Kemp in their second head-to-head battle for governor. Early voting shattering records in the state, nearly three quarters of a million Georgians have already cast their ballots.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:01",
+      "speaker": "BRIANNA KEILAR, CNN ANCHOR",
+      "sentences": "In Pennsylvania, Democrat John Fetterman is holding a slim lead in the polls in a contentious race with Trump- backed Mehmet Oz.And tonight in Florida, Republican Governor Ron DeSantis holds his only televised debate with Democratic Challenger Charlie Crist. A victory for DeSantis could launch a bid for the White House. And this morning, Bernie Sanders, who caucuses with Democrats, is warning them to focus more on the economy and less on abortion rights. House Speaker Nancy Pelosi pushing back on that. (BEGIN VIDEO CLIP) REP. NANCY PELOSI (D-CA):  Nobody said we're doing abortion rather than economy, but it's about both. And I can tell you that that issue is very, very provocative and encouraging people to vote. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:01",
+      "speaker": "BERMAN",
+      "sentences": "All right. Here now, CNN's Senior Data Report Harry Enten. Harry, a laser focus on some key Senate races here, and in some of them, Republicans have gained ground.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:01",
+      "speaker": "HARRY ENTEN, CNN SENIOR DATA REPORTER",
+      "sentences": "In some of them, and most of them they've gained ground, in four out of five races. So, I have October 24th, I have September 1st on here.What exactly is going on? Well, you can see in all the states, except for Georgia where the margin is the same, Republicans have been gaining ground. So, Nevada, three-point Democratic lead, now, Democrats down by one, Arizona, seven-point lead, now only up four, Pennsylvania up by seven, now only up two. Georgia is that same two point margin. But look down in Wisconsin. Remember, we all were like how is Ron Johnson trailing? Well, he was down four, now he's up by three. Democrats must win three of these five races. Right now, they're riling the precipice barely ahead in three of those five.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:01",
+      "speaker": "BERMAN",
+      "sentences": "Just one correction in the intro, I said that Warnock's lead in Georgia was narrowing. That's not the case. That's the one place where it stayed the same.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:01",
+      "speaker": "ENTEN",
+      "sentences": "Over the long-term. But over the last weeks, it has narrowed a little bit.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:01",
+      "speaker": "BERMAN",
+      "sentences": "Betting markets, what are the odds now in terms of the Democrats holding the Senate?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:01",
+      "speaker": "ENTEN",
+      "sentences": "Yes. So, this is basically putting everything sort of together into one giant calculation and we compare where we are now versus where we were on October 1. The betting markets, the Democrats' chances holding control was 55 percent at the beginning of the month, now just 36 percent, FiveThirtyEight and Jack Kersting, which are basically these models that put together all the polls and all these fundamentals. Democrats were up 68 percent chance of winning control, now it's into the 50s. So, basically, at best, it's a tossup maybe slightly tilt Democratic but it's really just a tossup. And if you believe the betting markets, Republicans are actually ahead.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:01",
+      "speaker": "BERMAN",
+      "sentences": "All right. That's the Senate. What about the House?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:01",
+      "speaker": "ENTEN",
+      "sentences": "Yes. So, let's look at the house, right? Let's take a look at the generic ballot, right? This is something we keep an eye on all the way along. Back when Roe v. Wade was getting overturned, the Republicans were up three. Then we had a summer in which Democrats were gaining ground. It was a two-point Republican lead. Then in August, tied. Then look at September, Democrats were up by a point. But look at where we are now. Republicans back out ahead by two points. So, the momentum clearly moving more in the Republicans' direction the further and further we get out from Roe v. Wade being overturned.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:01",
+      "speaker": "BERMAN",
+      "sentences": "And these are aggregates. So, every little click can make a big difference?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:01",
+      "speaker": "ENTEN",
+      "sentences": "Yes. This is not like a regular poll with the margin of error. This is literally like you need a whole slew of polls to get this type movement.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:01",
+      "speaker": "BERMAN",
+      "sentences": "And everything little thing can make a huge difference, as you've told us, when you extrapolate out over history.Joe Biden, the president of the United States, not helping Democrats right now?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:01",
+      "speaker": "ENTEN",
+      "sentences": "No. So, basically, there's this whole idea, right, can Democrats sort of outrun Joe Biden. And we want to first look at history here. And I think this gives you an understanding, right? Look at the past presidents at the beginning of their terms, basically 42 percent for Biden looks a lot like Trump. Obama has higher, Clinton was a little bit higher, George W. Bush way higher. But look at these gains that we would eventually see the opposition party make when the president's approval rating was below 50 percent, 40 seats for the opposition party, opposition party 63, opposition party 54, all when the president's approval rating was below 50 percent. The only time the president's party gained was when the president's approval rating was well above 60. Joe Biden looks a lot more like the losers here than the winner.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:01",
+      "speaker": "BERMAN",
+      "sentences": "And for Democrats who hope they can outrun Joe Biden's approval rating?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:05:01",
+      "speaker": "BERMAN",
+      "sentences": "Harry Enten, thank you very much for explaining this.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:05:01",
+      "speaker": "ENTEN",
+      "sentences": "I try my best.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:05:01",
+      "speaker": "KEILAR",
+      "sentences": "This morning, a man living in Kherson, Ukraine, tells CNN that Russia is withdrawing its administrative services and the city is preparing for the potential departure of its Russian occupiers. Now, he and his neighbors are stocking up on food and essentials for what could be a difficult period ahead.CNN's Frederik Pleitgen is live for us in Zaporizhzhia, Ukraine, with the very latest. Fred, what can you tell us?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:05:01",
+      "speaker": "FREDERIK PLEITGEN, CNN SENIOR INTERNATIONAL CORRESPONDENT",
+      "sentences": "Hi there, Brianna. Well, the big question right now here in the south of Ukraine is whether or not the Russians really are removing those forces from that area around the town of Kherson. There certainly are some indications that there might be a withdrawal that may have already even started but that could also happen in the next couple of days.However, the head of Ukraine's military intelligence actually believes the Russians are building up their forces, that they're telling civilians to leave the area but actually bringing more military forces in. Actually, right before we went to air, we got some new information from those Russian installed puppet authorities there in that area calling on the men who are still in the town of Kherson to join a territorial defense unit. It could be an indication that the Russians want to make a stand. But, really, right now, very difficult to say. The Ukrainians say on the ground, on the battlefield, they continue to make gains down here in the south.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:05:01",
+      "speaker": "BERMAN",
+      "sentences": "And so making this claim without any evidence that Ukraine has some kind of plans to use a so-called dirty bomb. That would be some kind of bomb with radioactive residue attached to it. The U.S. dismisses this. What's the international reaction to this?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:05:01",
+      "speaker": "PLEITGEN",
+      "sentences": "Yes. First of all, the U.S. dismisses it. You're absolutely right, John. But also the international community, most countries seem to be dismissing that as well. It was interesting because the defense minister of Russia, Sergei Shoigu, he said all this in a call with Lloyd Austin, the secretary of defense, but also with the defense ministers of France, Great Britain and Turkey as well, making these claims.Now, France, the U.S. and Britain, they came together and they had a common statement saying that this is transparently false information. And they say that they really hope the Russians don't use this for some sort of escalation on the battlefield of their own. That's also what the Ukrainians are saying. The Ukrainians are saying, look, first of all, they're a member of a nonproliferation treaty. Second of all, they don't have any sort of nuclear weapons or a nuclear weapons program. They also believe this could be the Russians making some sort of move. It's really unclear, John, what exactly is behind all this, but certainly some pretty troubling rhetoric coming there from the Russian defense minister.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:05:01",
+      "speaker": "BERMAN",
+      "sentences": "All right. Frederik Pleitgen in Zaporizhzhia, Fred, stay safe, thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:05:01",
+      "speaker": "KEILAR",
+      "sentences": "The government's case in the seditious conspiracy trial of Oath Keepers Founder Stewart Rhodes and four of his top lieutenants is now entering its fourth week. The five are charged with plotting to prevent the peaceful transfer of power. The trial is raising more questions about intelligence failures leading up to January 6th, and CNN's Whitney Wild is her on that.What are we expecting in court this week, Whitney?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:05:01",
+      "speaker": "WHITNEY WILD, CNN LAW ENFORCEMENT CORRESPONDENT",
+      "sentences": "Well, we expect that the prosecution is going to wrap it up this week. And some things that we're looking for is perhaps more testimony from cooperating witnesses, and here's why.We know that there are Oath Keepers who have pleaded guilty to seditious conspiracy, as well as obstruction of an official proceeding. We have already heard from a witness who pleaded guilty to obstruction of an official proceeding, but, Brianna, it's really the seditious conspiracy charge that is the -- how should I say it, the most severe charge that they're looking at. And so what the prosecution could likely bring is a cooperating witness again who has already pleaded guilty to that very severe charge to give an inside look, an inside translation about what was going on among this group as they led up to January 6th.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:05:01",
+      "speaker": "KEILAR",
+      "sentences": "All right. We'll be looking for that. Whitney, thank you so much for that report.It is the one and only debate in the Pennsylvania Senate race, and the stakes could not be higher. We'll preview the face-off tomorrow between John Fetterman and Mehmet Oz.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:10:00",
+      "speaker": "KEILAR",
+      "sentences": "Democrat John Fetterman and Republican Mehmet Oz finally set to meet on the debate stage tomorrow in Pennsylvania's race for U.S. Senate. Fetterman suffered a stroke in May, and there has been intense focus on his health. His primary care physician last week released a medical report, or actually this was a letter here saying that Fetterman, quote, has no work restrictions and can work full duty in public office.Now, over the weekend, Fetterman was seen using closed captioning during a sit down conversation with Senator Amy Klobuchar. That's the technology that he says helps him overcome the auditory processing issues he faces as he is recovering from that stroke. Fetterman is also planning to use closed captioning at tomorrow's debate. Joining us now is CNN Political Commentator Michael Smerconish. So, Michael, we're looking ahead to this debate. How much is at stake, how is this closed captioning accommodation going to work and be received, do you think, by people watching?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:15:07",
+      "speaker": "BERMAN",
+      "sentences": "If he stumbles, you say. First of all, I appreciate the all Philadelphia you're doing with us this morning. I'm sure you're one of the people who is out there on the greased polls last night that Andy Scholes was talking about right there.So, do you think people are looking at how Fetterman behaves in terms of the stroke or do you really think it will be focused on the issues?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:15:07",
+      "speaker": "SMERCONISH",
+      "sentences": "Well, I think, thus far, there has been a great allowance made for him, and appropriately so. Who among us doesn't know someone who's had a stroke and recovered almost fully from a stroke? I think it's in our minds and we want to see. And I don't think that Fetterman and his campaign have helped themselves previously because they've not been completely transparent.Yes, the doctor wrote a letter, I guess I need to say, for parody. The doctor also is a $500 contributor to Fetterman. And they didn't release the medical records. And, initially, they didn't reveal that he had an underlying cardiomyopthy. So, some of these is of his own doing. But, basically, I think people are sympathetic, but we want to see tomorrow night.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:15:07",
+      "speaker": "KEILAR",
+      "sentences": "Okay. So, look to Utah, which we've been talking a lot about here in recent days, but just this week, as we get so close to the midterm elections, where do you think things are?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:15:07",
+      "speaker": "SMERCONISH",
+      "sentences": "Brianna, this is a really interesting race, right, because you have got Evan McMullin, who is an independent, previously a Republican. He's a conservative, make no mistake about it. He steps forward, he announces I'm running as an independent for the United States Senate against Mike Lee. And the Democrats fold their tent. They realize they can't beat Mike Lee so they coalesce around Evan McMullin.And the interesting issue is, should he win, would he caucus with the Rs or caucus with the Ds? And he says, no, I'm really going to be an independent. He could be Joe Manchin and Kyrsten Sinema on steroids, because all roads would need to go through Utah for anything to be accomplished.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:15:07",
+      "speaker": "BERMAN",
+      "sentences": "Did you really think he'll stick to his guns and not caucus with either party? That's hard. It will be hard for him to do in the Senate.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:15:07",
+      "speaker": "SMERCONISH",
+      "sentences": "And, John, the reason it would be hard for him to do, the conventional wisdom is that, theoretically, he gives up committee assignments and clout if he were to go that route. I mean, Angus King and Bernie Sanders, we lose track of this, Bernie is an I, theoretically, but he caucuses with the D. So, I had the opportunity to ask Evan McMullin on my program this weekend, are you going really to do that and wouldn't it be to the detriment of Utah if you didn't have committee assignments? He has got an argument based in the Constitution where he says he would get committee assignments. We'll see if he wins.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:15:07",
+      "speaker": "KEILAR",
+      "sentences": "Yes. He has a vote, right? So, he obviously could be very important. That could certainly be impactful here.I do want to ask you about just a moment that is getting a lot of attention, Michael, and that is Jonathan Capehart had this interview with President Joe Biden and he asked him about for reelection. Let's watch. (BEGIN VIDEO CLIP) JOE BIDEN, U.S. PRESIDENT:  The reason I'm not making that judgment about formally running and not running, once I make that judgment, a whole series of regulations kick in and I treat myself as a candidate from that moment on. I have not made that formal decision but it's my intention, my intention to run again. And we have time to make that decision.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:15:07",
+      "speaker": "JONATHAN CAPEHART, MSNBC NEWS HOST",
+      "sentences": "Dr. Biden is for it? Mr. President?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:15:07",
+      "speaker": "BIDEN",
+      "sentences": "Dr. Biden thinks that -- my wife thinks that I -- that we're doing something very important and that I shouldn't walk away from it.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:15:07",
+      "speaker": "KEILAR",
+      "sentences": "What did you think about that Michael? What was happening there?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:20:01",
+      "speaker": "KEILAR",
+      "sentences": "Michael, it is great to see you this morning and to walk through all of this. It's such a pivotal time in politics right now. All right, yes, people are going to watch the debate. That's what I thought of. BERMAN",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:20:01",
+      "speaker": "KEILAR",
+      "sentences": "I think it's about Wawa, which I'm obviously not from Pennsylvania but that is a fantastic minimart. And I think everyone knows that. So, thank you for the Wawa cup, Michael Smerconish.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:20:01",
+      "speaker": "SMERCONISH",
+      "sentences": "You got it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:20:01",
+      "speaker": "KEILAR",
+      "sentences": "The U.K. waiting to see who will become the country's third prime minister in less than two months.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:20:01",
+      "speaker": "BERMAN",
+      "sentences": "A new report out this morning shows the impact the pandemic had on the reading and math skills of American children. Education Secretary Miguel Cardona joins us ahead.(COMMERCIAL BREAK)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:25:03",
+      "speaker": "MIGUEL CARDONA, EDUCATION SECRETARY",
+      "sentences": "Well, look, you know, I'm saying if this is not a wakeup call for us to double down efforts and improve education, even before the pandemic, then I don't know what will. We really need to make sure we're utilizing the ARP dollars to help our students in reading and math and go beyond the data that we had in 2019. We have to double down now.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:25:03",
+      "speaker": "KEILAR",
+      "sentences": "Okay. You're mentioning the American rescue plan. And that is -- look, that is like a tourniquet right now when you're talking about some of these major issues we're seeing. But we just saw a report last hour from Gabe Cohen, where you're seeing this math and science teacher shortage. He had in his story an Arizona science teacher who had 70 kids in her class. I mean, it looked nuts. There's just no way to do this effectively. But this is what they're having to do. So, even with those ARP dollars, I mean, there are no teachers in the pipeline. You can technically, I guess, pay them more but they're not even in the pipeline to pay, so what do you do?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:25:03",
+      "speaker": "CARDONA",
+      "sentences": "Of course, yes. Look, that example is a symptom of decades of underinvestment. If we're going to get our students to where they should be in America, leading the world, we really need to take the issue seriously past the pandemic. We need to think about how we're investing in our schools, how we're investing our education system, prioritizing education with the same level of urgency that our president is doing.We're proposing 21 percent increase in our budget for education. We need to make sure we have highly qualified teachers in every classroom. We have programs for students after school, in the summer. We know what to do. We just have to make sure we have the urgency across the country to get it done.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:25:03",
+      "speaker": "KEILAR",
+      "sentences": "How long does that take because, obviously, that's not a short-term solution? Are we talking about a generation of remediation here?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:25:03",
+      "speaker": "CARDONA",
+      "sentences": "No. I think what we can do right now is make sure that we're utilizing the funds that we currently have. We have more money in education now than at any other point as an educator for me. We need to make sure we're utilizing the funds for academic recovery and we need communicate with our families how we're using the dollars. So, short-term, that's what we need to do.But I'm calling on all leaders throughout the country to look at this as a call to action, to invest in education so that we don't go backwards. I'm confident, Brianna, that if we focus on our reading in math and on science that we can lift our students' performance and we can make our education system the best in the world. I'm confident in that.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:25:03",
+      "speaker": "KEILAR",
+      "sentences": "How do you get the math teachers in the pipeline is really what I'm asking. They're not there.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:25:03",
+      "speaker": "CARDONA",
+      "sentences": "Right. Well, Brianna, look, look at the data. In some states, our math and reading teachers are making 30 percent less than people that graduate college with a different degree. Let's start honoring the profession, making sure we're paying our professionals a competitive salary and we're not going to deal with shortages. That's the bottom line.The symptom of teacher shortage is a symptom of a lack of respect for the profession. That's one part of it. But we also have to make sure that we're utilizing our dollars for intervention programs and acceleration programs for our students after school, in summer school. And, Brianna, we have some examples of that across the country. We do have some bright spots. Our job at the Department of Education is to make sure we're providing guidance to all states, lifting up best practices and giving parents a checklist on what questions to ask their schools to make sure that their children are getting the support they deserve.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:25:03",
+      "speaker": "KEILAR",
+      "sentences": "I wanted to ask about the student loan forgiveness program, obviously, with the court stepping in. I know that the administration is still urging people to apply. But at the same time, this isn't getting paid out as it was supposed to as of yesterday. So, what can the administration do for people who were, look, whether or not you agree with the program, there were people expecting forgiveness to start yesterday, what do you do about that?",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

@@ -1,0 +1,823 @@
+{
+  "date": "2023-06-23",
+  "headline": "CNN News Central",
+  "subHeadline": "Investigators Search Ocean Floor After Sub Disaster; Ukraine Claims \"Partial Success\" On Southern Front. Aired 2-2:30p ET",
+  "utterances": [
+    {
+      "timeStamp": "14:00:00",
+      "speaker": "BRIANNA KEILAR, CNN ANCHOR",
+      "sentences": "Sub under scrutiny. New questions about what went wrong with the Titan submersible and whether the tragic outcome could have been avoided. We're also learning new details about the recovery effort and investigation.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:00:00",
+      "speaker": "JIM SCIUTTO, CNN ANCHOR",
+      "sentences": "Trust the process give it time. Ukraine's Prime Minister is calling for patience as Western officials tell me assessments indicate counteroffensive against Russia is \"not meeting expectations so far.\" We'll examine what the challenges are exactly what Ukraine is up against.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:00:00",
+      "speaker": "BORIS SANCHEZ, CNN ANCHOR",
+      "sentences": "And Republican 2024 hopefuls are here in DC at a conference of influential evangelicals. But looming over all of it, Republican front-runner Donald Trump. So, how are the candidates handling this? We're going to ask one. We're following these major developing stories and many more, all coming in right here to CNN NEWS CENTRAL.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:00:00",
+      "speaker": "KEILAR",
+      "sentences": "A desperate search is now a complex recovery. A daunting investigation is underway two miles below the surface of a remote hostile Atlantic Ocean to find out why the Titan sub imploded and killed all five people aboard. Underwater robotic vehicles are mapping debris fields near the Titanic wreckage. And experts say the implosion would have happened in a fraction of a millisecond that it's unlikely any human remains will be recovered in this process.As experts search for clues to what went wrong, the Navy says an underwater sound consistent with an implosion was detected on Sunday, and that they immediately alerted the Coast Guard. But at the time, the sound was \"not definitive.\" CNN's Miguel Marquez is in St. John's Newfoundland. Miguel, what is it like there now that we know this is only a recovery effort?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:00:00",
+      "speaker": "MIGUEL MARQUEZ, CNN SENIOR NATIONAL CORRESPONDENT",
+      "sentences": "I think that people had this in the back of their minds the entire week that this was a very likely scenario, but did not want to believe it. The search and rescue mission clearly was massive and well-meant and serious. And they had a large number of ships both in the air and on the sea out there. Many of them now decamping back to their home ports. Some of them still out there taking part in those mapping exercises that they're doing, trying to figure out exactly why it came apart and why it imploded, and then that debris fell the way it did.But here in St. John's that is -- has a history with the Titanic itself with shipwrecks with the sea, there is a great sense of mourning of loss. That -- this is also the place that if you are interested in going to the Titanic and studying the Titanic, and going down in great lengths -- great depths, this is the place. It is 460 miles from the Titanic site. It is the closest land to that site. This is the place that James Cameron came and comes when he goes to that site and others in that community. So, they feel like they are part of it and they take it personally. And everybody here today just taking a moment and remembering those five people who died. Brianna.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:00:00",
+      "speaker": "KEILAR",
+      "sentences": "Yes, this is a hard one, certainly for that community as well. Miguel, thank you.I do want to bring in CNN's Oren Liebermann, who is at the Pentagon. Because, Oren, tell us what we know about the recovery effort. Obviously, the U.S. military very involved here, but also about this news that there was a sound heard on Sunday, around the time communications were lost with the submersible.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:05:02",
+      "speaker": "KEILAR",
+      "sentences": "All right. Oren Liebermann at the Pentagon, thank you for that. Jim?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:05:02",
+      "speaker": "SCIUTTO",
+      "sentences": "Listen. So many legitimate hard questions now. CNN's Tom Foreman here with us to help answer. The first one here, Tom, is how was an uncertified -- apparently under-tested, that's not my opinion. That's the opinion of folks in this field who were asking questions of the designer for some time. How was the sub like this operating at all and with tourists?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:05:02",
+      "speaker": "TOM FOREMAN, CNN CORRESPONDENT",
+      "sentences": "Because it was in this sort of never Neverland, where it's in international waters. It's not flagged to any country. It went out there and did what it did.And that's what these deep-sea submersibles are able to do right now. That may not last after this happened. Countries -- the international community say no, there has to be some kind of standard here.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:05:02",
+      "speaker": "SCIUTTO",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:05:02",
+      "speaker": "FOREMAN",
+      "sentences": "We can't have this happening. So, that's how it was able to operate even in the middle of these questions.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:05:02",
+      "speaker": "SCIUTTO",
+      "sentences": "OK. So, let's talk about the design here because there are a lot of questions -- and by the way, they're not new.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:05:02",
+      "speaker": "FOREMAN",
+      "sentences": "Right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:05:02",
+      "speaker": "SCIUTTO",
+      "sentences": "These were raised before this happened, but certainly raised even more so now about the use of carbon fiber and in the form and design as used in this submersible.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:05:02",
+      "speaker": "FOREMAN",
+      "sentences": "Yes. The carbon fiber is really an interesting key though. The carbon fiber is that main barrel part right there.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:05:02",
+      "speaker": "SCIUTTO",
+      "sentences": "Right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:05:02",
+      "speaker": "FOREMAN",
+      "sentences": "That's made out of carbon fiber. I just talked to Dr. Satish Kumar at Georgia Tech. He's an expert in carbon fiber and material sciences there.He says, look. Carbon fiber actually really can be a perfectly good thing to use this way. Two key questions. One, was it thick enough?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:05:02",
+      "speaker": "SCIUTTO",
+      "sentences": "Right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:05:02",
+      "speaker": "FOREMAN",
+      "sentences": "There's some notion that it's about five inches thick. He said if it's -- if it's not thick enough, carbon fiber has a problem. Carbon fiber is about 10 times stronger than steel. But one of the things about carbon fiber is when it reaches its breaking point, it doesn't bend like some other things do.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:05:02",
+      "speaker": "SCIUTTO",
+      "sentences": "Shatters.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:05:02",
+      "speaker": "FOREMAN",
+      "sentences": "It shatters.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:05:02",
+      "speaker": "SCIUTTO",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:05:02",
+      "speaker": "FOREMAN",
+      "sentences": "It goes to pieces.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:05:02",
+      "speaker": "SCIUTTO",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:05:02",
+      "speaker": "FOREMAN",
+      "sentences": "The other question is the shelf life of it. This was really interesting. He said the problem is not the carbon fiber itself. But it is the resin or the epoxy, the glue that holds it all together.That can reach a point where it is no longer what it ought to be. And if that is the case, then there is weakness.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:05:02",
+      "speaker": "SCIUTTO",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:05:02",
+      "speaker": "FOREMAN",
+      "sentences": "Then it can delaminate, as they describe it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:05:02",
+      "speaker": "SCIUTTO",
+      "sentences": "Presumably, those questions about shelf life thickness, etcetera, are not things that just arose in the last 24 hours.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:05:02",
+      "speaker": "FOREMAN",
+      "sentences": "No.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:05:02",
+      "speaker": "SCIUTTO",
+      "sentences": "Would they -- were these things that the designer would have been aware of in the process?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:05:02",
+      "speaker": "FOREMAN",
+      "sentences": "One would think that designer wouldn't be aware of it. Now, again, I'm talking to one of --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:05:02",
+      "speaker": "SCIUTTO",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:05:02",
+      "speaker": "FOREMAN",
+      "sentences": "-- Georgia Tech, one of the leading experts in the world on this sort of thing. But he spoke as it's very natural. He said no, this is what's known about carbon fiber. There are things that you know. It is a great material. There's a reason that Boeing and NASA and all these places are using carbon fiber --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:05:02",
+      "speaker": "SCIUTTO",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:05:02",
+      "speaker": "FOREMAN",
+      "sentences": "-- because it is light. It is incredibly strong. It's incredibly durable. But you have to know the limitations. And yes, there's no doubt they must have known the limitations.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:05:02",
+      "speaker": "SCIUTTO",
+      "sentences": "Yes, from Formula One cars --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:05:02",
+      "speaker": "FOREMAN",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:05:02",
+      "speaker": "SCIUTTO",
+      "sentences": "-- to the 787, right, because of that lightness and so on here. FOREMAN",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:05:02",
+      "speaker": "SCIUTTO",
+      "sentences": "When you talk to folks like this just before we go, and you note the testing and safety protocols this designer did not follow. Do they say that was crazy?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:05:02",
+      "speaker": "FOREMAN",
+      "sentences": "What they say is that this material, specifically carbon fiber, has undergone immense testing in many places. The data is there if you want to find it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:05:02",
+      "speaker": "SCIUTTO",
+      "sentences": "Right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:05:02",
+      "speaker": "FOREMAN",
+      "sentences": "The question is, did you follow the data? Did you build it thick enough?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:05:02",
+      "speaker": "SCIUTTO",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:05:02",
+      "speaker": "FOREMAN",
+      "sentences": "Was it young enough for this? And what about the fatigue factor? Did you have something to test how many times you went down, how much stress it put on this, and was it reaching a breaking point?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:05:02",
+      "speaker": "SCIUTTO",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:05:02",
+      "speaker": "FOREMAN",
+      "sentences": "Those are really key questions. Great, great, great material.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:05:02",
+      "speaker": "SCIUTTO",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:05:02",
+      "speaker": "FOREMAN",
+      "sentences": "He believes this steel can be used for this kind of craft. But it didn't work for this one.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:05:02",
+      "speaker": "SCIUTTO",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:05:02",
+      "speaker": "FOREMAN",
+      "sentences": "Although again, point out, it may not be the carbon fiber. It could be the joints.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:05:02",
+      "speaker": "SCIUTTO",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:10:03",
+      "speaker": "SCIUTTO",
+      "sentences": "Goodness. And five lives lost.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:10:03",
+      "speaker": "FOREMAN",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:10:03",
+      "speaker": "SCIUTTO",
+      "sentences": "Tom Foreman, thanks so much for digging in.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:10:03",
+      "speaker": "FOREMAN",
+      "sentences": "You're welcome.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:10:03",
+      "speaker": "SCIUTTO",
+      "sentences": "Boris.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:10:03",
+      "speaker": "SANCHEZ",
+      "sentences": "The impact on this kind of tourism is still another question to answer. OceanGate far from the only company pushing the boundaries of deep-sea exploration. Joining us now is Ofer Ketter. He's the president of an ocean technology and exploration company called SubMerge.Ofer, thank you so much for sharing part of your afternoon with us. We've heard a number of experts weigh in on the potential ways that this craft could have failed and led to a catastrophic implosion. From your perspective, what most often causes these kinds of submersibles to implode?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:10:03",
+      "speaker": "OFER KETTER, PRESIDENT, SUBMERGE",
+      "sentences": "Good afternoon, Boris. Thank you for having me on your show. I have to -- I have to rephrase that question because I don't know of it being a recurring event. As far as my experience goes, this is the first one of its kind. So, it would be impossible for me to refer to it as why it happens, or why it happens. because it doesn't.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:10:03",
+      "speaker": "SANCHEZ",
+      "sentences": "That is a fascinating answer. So, this kind of accident in your world is unprecedented.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:10:03",
+      "speaker": "KETTER",
+      "sentences": "Correct. Absolutely, unprecedented. A -- so I think it was very fascinating to just hear the explanation about the carbon fiber that those details were new to me about this expert explaining about it. But again, it's one of a kind. It is the first time it has been used, so it can be used as an example or as a benchmark to all the other submersibles that have been diving for 50 years to different depths in the ocean.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:10:03",
+      "speaker": "SANCHEZ",
+      "sentences": "And on that note about innovation, I'm wondering if you would have felt comfortable going into this kind of sort of experimental vessel yourself?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:10:03",
+      "speaker": "KETTER",
+      "sentences": "Well, let me tell you a little bit about my personal experience and the experience of my company and my team members. We have been submersible pilots -- submersible operators for 20 years. And we have thousands and thousands of dives all around the world with thousands of happy and fascinated people that have joined us on these dives.And it is a very, very different scenario than the one that currently the world is trying to understand. And perhaps compared to what, when I started diving submersibles 20 years ago, I was already riding on the experience of 30 years prior to me of explorers and engineers and deep ocean explorers. So, that is my experience. And my experience is very, very different. And I think the industry as a whole has a very, very different experience in this. And that's my point of view, still at this -- at this moment.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:10:03",
+      "speaker": "SANCHEZ",
+      "sentences": "Sure. And Ofer, what is your response to folks that are arguing like some experts are that deep sea tourism should perhaps take a pause specifically on sites like the Titanic wreckage?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:15:19",
+      "speaker": "SANCHEZ",
+      "sentences": "Absolutely. So, important to point out that there are significant differences between what you and others do and what apparently took place with the OceanGate submersible. Thank you so much for joining us. Ofer Ketter, we appreciate your time.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:15:19",
+      "speaker": "KETTER",
+      "sentences": "Thank you very much. It was a pleasure.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:15:19",
+      "speaker": "SANCHEZ",
+      "sentences": "Of course. Brianna?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:20:04",
+      "speaker": "SCIUTTO",
+      "sentences": "New today. Ukraine is claiming that its military is achieving \"partial success against Russian forces.\" This, on the southern front. Ukraine also urging allies to be patient with the results of its counteroffensive, says the main strike is still ahead. This, in response to my reporting yesterday that Western officials in their assessment find the counteroffensive is not meeting expectations as Ukrainian forces running into significant obstacles.Joining us now retired Brigadier General Mark Kimmitt, former assistant secretary of state. General, thanks so much for being here. BRIG. GEN. MARK KIMMITT (RET), U.S. ARMY: Sure. SCIUTTO: From the Western view here. So far as they look at this counteroffensive, they're finding the Ukrainians running into extremely well-dug-in Russian positions --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:20:04",
+      "speaker": "KIMMITT",
+      "sentences": "Right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:20:04",
+      "speaker": "SCIUTTO",
+      "sentences": "-- multiple lines of defense. In addition to that, not just mines, but also better used by Russian forces of rockets to attack Ukrainian armor and also better coordination with airpower, which Russian forces hadn't shown themselves to be so capable of in the past. So, a brick wall, to some degree for Ukrainian forces. I wonder, when you look at the battlefield, what's your read of the difficulty they're facing there?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:20:04",
+      "speaker": "KIMMITT",
+      "sentences": "Well, first of all, let's make sure we understand that this could all be a ruse. That this could be deception. That the -- that the Ukrainians are really prepared to fight somewhere else, or through the middle of this. They're trying to -- they may try to load the Russians, but that's probably, but we not like --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:20:04",
+      "speaker": "SCIUTTO",
+      "sentences": "I should note, that's not the Western assessment that derived it all.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:20:04",
+      "speaker": "KIMMITT",
+      "sentences": "It's not the Western --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:20:04",
+      "speaker": "SCIUTTO",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:20:04",
+      "speaker": "KIMMITT",
+      "sentences": "Well, we would hope it wouldn't be --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:20:04",
+      "speaker": "SCIUTTO",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:20:04",
+      "speaker": "KIMMITT",
+      "sentences": "-- because we wouldn't want to be revealing the plans.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:20:04",
+      "speaker": "SCIUTTO",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:20:04",
+      "speaker": "KIMMITT",
+      "sentences": "But nonetheless, I think you're right. If you take a look at the defenses that the Russians have set up, they're deep, they're layered, they're multiple, and they're different. Up here, you have barriers. Here, you have dragon teeth. Here, you have a trencher.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:20:04",
+      "speaker": "SCIUTTO",
+      "sentences": "What are dragon teeth?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:20:04",
+      "speaker": "KIMMITT",
+      "sentences": "Dragon teeth are large concrete obstacles that will stop tanks, nut --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:20:04",
+      "speaker": "SCIUTTO",
+      "sentences": "Stop the armor.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:20:04",
+      "speaker": "KIMMITT",
+      "sentences": "But more importantly, not just stop armor. But if the armor tries to go up, they expose their underbelly.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:20:04",
+      "speaker": "SCIUTTO",
+      "sentences": "Right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:20:04",
+      "speaker": "KIMMITT",
+      "sentences": "And as a result, they're easier to knock down. And all of these obstacles are covered by fire. You have helicopters back here firing it, then you have artillery firing at them. So this is a very, very different type of warfare we've seen to date. SCIUTTO",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:20:04",
+      "speaker": "KIMMITT",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:20:04",
+      "speaker": "SCIUTTO",
+      "sentences": "They've dug in. They're adjusting.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:20:04",
+      "speaker": "KIMMITT",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:20:04",
+      "speaker": "SCIUTTO",
+      "sentences": "I'm told the Ukrainian forces are also adjusting as they run into these defenses, for instance, doing more dismounted attacks outside of the --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:20:04",
+      "speaker": "KIMMITT",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:20:04",
+      "speaker": "SCIUTTO",
+      "sentences": "The APCs, the armored personnel carrier's tanks. What else -- if you're commanding these forces or a part of the team commanding them, what else are their options?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:20:04",
+      "speaker": "KIMMITT",
+      "sentences": "Well, you've got to bring up specialized equipment that we've given.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:20:04",
+      "speaker": "SCIUTTO",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:20:04",
+      "speaker": "KIMMITT",
+      "sentences": "Such as the MICLIC.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:20:04",
+      "speaker": "SCIUTTO",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:20:04",
+      "speaker": "KIMMITT",
+      "sentences": "It's a long name --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:20:04",
+      "speaker": "SCIUTTO",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:20:04",
+      "speaker": "KIMMITT",
+      "sentences": "-- for a device that fires a long rope of explosives.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:20:04",
+      "speaker": "SCIUTTO",
+      "sentences": "Right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:20:04",
+      "speaker": "KIMMITT",
+      "sentences": "It'll blow up all the mines in these areas.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:20:04",
+      "speaker": "SCIUTTO",
+      "sentences": "So, you -- so you fire it in effect across lines --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:20:04",
+      "speaker": "KIMMITT",
+      "sentences": "Exactly.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:20:04",
+      "speaker": "SCIUTTO",
+      "sentences": "-- and that would -- if it works, blows up the mines, it allows a path for the tanks to follow in effect and go through.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:20:04",
+      "speaker": "KIMMITT",
+      "sentences": "Exactly.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:20:04",
+      "speaker": "SCIUTTO",
+      "sentences": "OK.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:20:04",
+      "speaker": "KIMMITT",
+      "sentences": "And to get over these -- over these dragon teeth --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:20:04",
+      "speaker": "SCIUTTO",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:20:04",
+      "speaker": "KIMMITT",
+      "sentences": "-- you actually bring in mobile bridges to cross them. So, there are ways -- there are techniques to do this. But this is tough warfare.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:20:04",
+      "speaker": "SCIUTTO",
+      "sentences": "Highly dangerous for the -- for the forces involved.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:20:04",
+      "speaker": "KIMMITT",
+      "sentences": "Right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:20:04",
+      "speaker": "SCIUTTO",
+      "sentences": "Because my understanding is there are heavy losses, we should note, not just on the Ukrainian side, but on the Russian side as well.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:20:04",
+      "speaker": "KIMMITT",
+      "sentences": "Right. But it is going to be necessary for the Ukrainians to blow through one of these sectors to get those eight brigades through there and move all the way to whatever their objective is, whether it's the Sea of Azov --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:20:04",
+      "speaker": "SCIUTTO",
+      "sentences": "Right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:20:04",
+      "speaker": "KIMMITT",
+      "sentences": "Whether it's to go on Crimea.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:20:04",
+      "speaker": "SCIUTTO",
+      "sentences": "And that's been you know for months now, the idea that this one intention of the counteroffensive would be to break this as it's known land bridge, that's the red territory there controlled by Russians.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:20:04",
+      "speaker": "KIMMITT",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:20:04",
+      "speaker": "SCIUTTO",
+      "sentences": "A land bridge from Crimea occupied since 2014, to the east also occupied since 2014.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:20:04",
+      "speaker": "KIMMITT",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:20:04",
+      "speaker": "SCIUTTO",
+      "sentences": "But basically, their biggest -- Russia's biggest prize since the invasion.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:20:04",
+      "speaker": "KIMMITT",
+      "sentences": "It is. But my major concern is let's assume the counteroffensive is successful. Then what? Are we talking consolidation?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:20:04",
+      "speaker": "SCIUTTO",
+      "sentences": "Right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:20:04",
+      "speaker": "KIMMITT",
+      "sentences": "Are we talking negotiations? Are we talking about continued counterattack? This has got a long way to go.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:20:04",
+      "speaker": "SCIUTTO",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:20:04",
+      "speaker": "KIMMITT",
+      "sentences": "It's not just about the counter-offensive. It's about further counteroffensives or moving to negotiations.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:20:04",
+      "speaker": "SCIUTTO",
+      "sentences": "Now, as we're looking at this in terms of equipment, we know that part of the Ukrainian -- the new arsenal has been more Western- designed tanks like the German Leopards and more Abrams tanks are on the way. A whole host of armored personnel carriers to get forces you know to those frontlines more safely --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:20:04",
+      "speaker": "KIMMITT",
+      "sentences": "Right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:20:04",
+      "speaker": "SCIUTTO",
+      "sentences": "-- including the Bradley --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:20:04",
+      "speaker": "KIMMITT",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:20:04",
+      "speaker": "SCIUTTO",
+      "sentences": "-- Bradley's and others. Is there something as they run into resistance here that you would say, hey, let's send them this now?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:20:04",
+      "speaker": "KIMMITT",
+      "sentences": "Well, of course, the standard answer is ATACMS, the long- range missiles.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:20:04",
+      "speaker": "SCIUTTO",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:20:04",
+      "speaker": "KIMMITT",
+      "sentences": "And F-Sixteenths. I think they would be of help, but I don't think they would be game-changers.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:20:04",
+      "speaker": "SCIUTTO",
+      "sentences": "Yes. Well, one thing that they did get, we -- our own reporting some time ago are these British Storm Shadow missiles, which the latest reporting is they were able to successfully strike a bridge here as well.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:25:94",
+      "speaker": "SCIUTTO",
+      "sentences": "General Kimmitt, we're clearly going to continue following this, so thanks so much for your expertise today.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:25:94",
+      "speaker": "KIMMITT",
+      "sentences": "Sure.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:25:94",
+      "speaker": "SCIUTTO",
+      "sentences": "And I'm sure we'll have you back soon. Brianna.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:25:94",
+      "speaker": "KEILAR",
+      "sentences": "From a big lovable guy to the greatest deep-water diver that the world has ever known. How loved ones of the five lives lost in the Titan Sub tragedy are remembering them? We'll have that next on CNN NEWS CENTRAL.(COMMERCIAL BREAK)",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

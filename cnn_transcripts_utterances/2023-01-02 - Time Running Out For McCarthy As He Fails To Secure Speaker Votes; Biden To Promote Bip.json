@@ -1,0 +1,895 @@
+{
+  "date": "2023-01-02",
+  "headline": "CNN This Morning",
+  "subHeadline": "Time Running Out For McCarthy As He Fails To Secure Speaker Votes; Biden To Promote Bipartisanship As He Returns To Changed D.C.; CNN: Suspect In NYPD Machete Attack Expressed Desire To Join Taliban; Suspect To Appear In Court, Waive Extradition Hearing; Airline Industry Looks To Recover Today After Meltdown; Veteran GOP Lawmakers: Santos Should Consider Resigning Over Lies. Aired 7-7:30a ET",
+  "utterances": [
+    {
+      "timeStamp": "07:00:00",
+      "speaker": "DON LEMON, CNN ANCHOR",
+      "sentences": "While the question is but will he lead those efforts? Good morning, everyone. Kaitlan is off and on assignment. Poppy is here. Good to see you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:00",
+      "speaker": "POPPY HARLOW, CNN ANCHOR",
+      "sentences": "Good morning.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:00",
+      "speaker": "LEMON",
+      "sentences": "Good morning. How are you doing?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:00",
+      "speaker": "HARLOW",
+      "sentences": "Good.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:00",
+      "speaker": "LEMON",
+      "sentences": "Good.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:00",
+      "speaker": "HARLOW",
+      "sentences": "Yes, happy New Year.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:00",
+      "speaker": "LEMON",
+      "sentences": "Yes. So I think it was for you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:00",
+      "speaker": "HARLOW",
+      "sentences": "Oh, yes, thanks. Getting back in the swing of thing.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:00",
+      "speaker": "LEMON",
+      "sentences": "I know we're a little rusty after the holidays.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:00",
+      "speaker": "HARLOW",
+      "sentences": "House Republican Leader Kevin McCarthy scrambling to gain the votes he needs to be speaker even after making major concessions this weekend. It still might not be enough.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:00",
+      "speaker": "LEMON",
+      "sentences": "And you know what, Poppy, the suspect in a machete attack on three police officers near Times Square expressing support for the Taliban. Investigators discovering a handwritten diary. What it says. Plus this.(BEGIN VIDEO CLIP) GRETCHEN WHITMER, MICHIGAN GOVERNOR: 19.5 years for one of the organizers of the conspiracy to kidnap and kill me. That is a significant sentence. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:00",
+      "speaker": "LEMON",
+      "sentences": "We have Michigan Governor Gretchen Whitmer's first reaction to the sentences handed to the men who plotted to kidnap her. Hear what she told her very own Kaitlan Collins.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:00",
+      "speaker": "HARLOW",
+      "sentences": "All right, let's begin though this hour in Washington. House Republican Leader Kevin McCarthy will be taking the race for speaker to the floor officially tomorrow. And what can be the most dramatic House Speaker election in a century.McCarthy has made a number of concessions to try to get the necessary number of votes to succeed Nancy Pelosi, but at last check, he was still coming up short. So will we see the first floor fight as it's called in exactly 100 years? Let's turn to our CNN Senior Data Reporter Harry Enten. What do you think?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:00",
+      "speaker": "HARRY ENTEN, CNN SENIOR DATA REPORTER",
+      "sentences": "All right, so let's talk one of my favorite topics, math. What Kevin McCarthy needs to become speaker? So right now, the GOP's 2023 majority is 222 seats. Majority of House seats is 218. So the GOP votes McCarthy can lose is --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:00",
+      "speaker": "HARLOW",
+      "sentences": "Four.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:00",
+      "speaker": "ENTEN",
+      "sentences": "-- four, he can lose four. So let's take a look at his math problem, right. OK. He can only afford to lose four Republicans. There are five hardline Republicans against him. There are another nine who are unsatisfied with his compromises. So right now, the total against him is 14 or more and he can only lose -- only afford to lose four Republicans.So right now that math isn't there. And, you know, we look essentially at what he is agreed to do so far. This is one of the things he's agreed to do. He's agreed to reduce the threshold for the motion to vacate the speakership. The current rule is a majority of the majority party, over 110 votes in order to essentially the motion to vacate. One possible change, he's already agreed to, Poppy. Look at that.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:00",
+      "speaker": "HARLOW",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:00",
+      "speaker": "ENTEN",
+      "sentences": "As few as five majority party votes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:00",
+      "speaker": "HARLOW",
+      "sentences": "But some of the heart liner, Lauren Boebert, for example, wants it to be just one needed. I don't think our viewers all know what motion to vacate is, what is it?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:00",
+      "speaker": "ENTEN",
+      "sentences": "Yes, essentially what it is, is the idea that you can essentially get rid of the speaker, right? So it's basically the motion to get rid of the speaker, get this thing going on the floor to parliamentary procedure. But essentially, this to me, isn't necessarily important insofar as what it can mean for Kevin McCarthy in terms of getting him out.Because if you essentially get 218, folks, you can get them out regardless of whether they get the majority, the majority. But what it really speaks to is the fact that he's having such a difficult time securing those number of Republican votes in order to become the speaker in the House of Representatives.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:00",
+      "speaker": "HARLOW",
+      "sentences": "OK. What happened 100 years ago?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:00",
+      "speaker": "ENTEN",
+      "sentences": "Yes. So, you know, essential -- what I really -- what I will say is that, essentially what we have essentially seen -- I want to jump actually five years ago.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:00",
+      "speaker": "HARLOW",
+      "sentences": "OK.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:00",
+      "speaker": "ENTEN",
+      "sentences": "I want to jump five -- excuse me -- seven years ago, and I want to jump to -- McCarthy has been here before, OK?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:00",
+      "speaker": "HARLOW",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:00",
+      "speaker": "ENTEN",
+      "sentences": "He has been at this point.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:00",
+      "speaker": "HARLOW",
+      "sentences": "With Paul Ryan.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:00",
+      "speaker": "ENTEN",
+      "sentences": "Right. He couldn't get to 218 --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:00",
+      "speaker": "HARLOW",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:00",
+      "speaker": "ENTEN",
+      "sentences": "-- votes to become speaker. And this time, he's sort of math is much more difficult. He has a much smaller majority now 222 votes, than back then at 249. But, of course, as you pointed out, the GOP has a much more popular alternative back then.Paul Ryan, there isn't one right now. And this kind of speaks to the problem, right? It's like, if it's not Kevin McCarthy --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:00",
+      "speaker": "HARLOW",
+      "sentences": "Then who is it?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:00",
+      "speaker": "ENTEN",
+      "sentences": "-- then who the heck is it? And the real issue here is, you know, when we talk about speakers, right, and we talk about, OK, can they put together that majority? What we know is that how biggest the potential first time speaker's majority, look how low Kevin McCarthy's is it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:00",
+      "speaker": "HARLOW",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:00",
+      "speaker": "ENTEN",
+      "sentences": "222, that is the smallest majority since 1931 for a potential first-time speaker. So he has much smaller room for error.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:00",
+      "speaker": "HARLOW",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:00",
+      "speaker": "ENTEN",
+      "sentences": "You know, you spoke about Paul Ryan, 245. That's way, way, way, way more.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:00",
+      "speaker": "HARLOW",
+      "sentences": "It also doesn't have to be a member of the House.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:00",
+      "speaker": "ENTEN",
+      "sentences": "It doesn't --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:00",
+      "speaker": "HARLOW",
+      "sentences": "I know that's crazy, but it doesn't.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:00",
+      "speaker": "ENTEN",
+      "sentences": "It doesn't. So we'll see exactly what happens. But the fact is, Kevin McCarthy still has a lot of math problems.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:00",
+      "speaker": "HARLOW",
+      "sentences": "Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:00",
+      "speaker": "ENTEN",
+      "sentences": "Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:00",
+      "speaker": "HARLOW",
+      "sentences": "Thanks for the math help, Harry. Don?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:05:12",
+      "speaker": "ARLETTE SAENZ, CNN WHITE HOUSE CORRESPONDENT",
+      "sentences": "Yes, you know, we've been very lucky to be spending the past week here in Saint Croix in the Virgin Islands. And President Biden is preparing to head back to that new political reality in Washington, an era of divided government.But for his part, he wants to show that he is willing to work with Republicans and cross -- across the aisle to get things done in Washington. And that is why he is going to try to showcase this bipartisan push when he travels to Kentucky on Wednesday. There he will be joined by Republican Senate Minority Leader Mitch McConnell, as well as Ohio's Republican Governor Mike DeWine. They will be there to tout the bipartisan infrastructure law that was passed last year and how that funding will help a bridge that connects Kentucky and Ohio. It is those kinds of initiatives that the President is planning to tout in the coming weeks as he's trying to make this bipartisan push. But look, in Biden's ideal world, this is how government would work. Republicans and Democrats are cooperating to pass legislation, but he is also fully cognizant of the Republican resistance that lies ahead, specifically in the House Republicans are set to take over control there tomorrow.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:05:12",
+      "speaker": "LEMON",
+      "sentences": "Is Biden playing up this whole bipartisanship thing, is for voters as we inch closer to a potential announcement in 2024, you think? SAENZIt was a hallmark of his 2020 campaign, and it is likely to be another hallmark as he's potentially readying for another run. Advisers say that decision will be coming in the next few months.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:05:12",
+      "speaker": "LEMON",
+      "sentences": "Thank you Arlette. Appreciate it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:05:12",
+      "speaker": "HARLOW",
+      "sentences": "New this morning, we do have details about the 19-year-old suspect and the New Year's Eve machete attack that's happened right near Times Square. The incident leaving three NYPD officers injured. Law enforcement tells CNN the suspect also carried a handwritten diary in which he wrote about his desire to join the Taliban in Afghanistan and his desire to die as a martyr.Our Chief CNN Chief Law Enforcement and Intelligence Analyst, John Miller is here. It's terrifying. It's what, you know, they work so hard to protect and fortify Times Square for New Year's Eve when this happens. What do you make of what we know so far? Is this potential motive?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:05:12",
+      "speaker": "JOHN MILLER, CNN CHIEF LAW ENFORCEMENT AND INTELLIGENCE ANALYST",
+      "sentences": "Well, I think based on the diary and based on the travels of Trevor Bickford, it looks like he intended to go to Times Square to commit this act --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:05:12",
+      "speaker": "HARLOW",
+      "sentences": "Right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:05:12",
+      "speaker": "MILLER",
+      "sentences": "-- and that he intended to target police.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:05:12",
+      "speaker": "LEMON",
+      "sentences": "We know that the NYPD is the best at -- best of terrorism and all these attacks. How do you plan though, for something like someone just coming to swing a machete --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:05:12",
+      "speaker": "HARLOW",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:05:12",
+      "speaker": "LEMON",
+      "sentences": "-- at your head, you know?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:05:12",
+      "speaker": "MILLER",
+      "sentences": "Well, it's something that they've seen before. If you go back just a few years to the Zale Thompson case, here's a guy walking down the street, there's four police officers standing there and he attacks them with a hatchet. This was another terrorist inspired case.In this case, you have a young man who takes the train down from Maine. He's on his way to Miami, stops in New York, checks into a hotel and then shows up in Times Square with this machete. This is where the system works. You can't get into Times Square with a backpack. You can't get into Times Square with a machete. But that doesn't seem to be his intent. His intent seem to be to attack police officers -- HARLOW: On the perimeter.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:05:12",
+      "speaker": "MILLER",
+      "sentences": "-- on the perimeter.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:05:12",
+      "speaker": "HARLOW",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:05:12",
+      "speaker": "MILLER",
+      "sentences": "So, the perimeter and the event and the police were the target.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:05:12",
+      "speaker": "HARLOW",
+      "sentences": "So now they will be looking into right, John, was he a so- called lone wolf which, you know, DHS has pointed out as the one of the number one threats or was the acting as part of a broader group, right?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:10:14",
+      "speaker": "LEMON",
+      "sentences": "Yes, I think it's a good reminder, obviously, it's awful, but don't get too comfortable --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:10:14",
+      "speaker": "HARLOW",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:10:14",
+      "speaker": "LEMON",
+      "sentences": "-- especially when it comes to these terrorist attacks, or just attacks in general. Listen, I want to -- can we talk about Idaho and the suspect in the killing of those four University of Idaho college students? He plans to waive his extradition hearing this week. His name is Bryan Kohberger. He is facing some very serious charges after being arrested in Pennsylvania.What do you know about -- can you tell us anything about that? How officials tracked him down? What took so long? I mean, this is -- people have been waiting for -- what do we --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:10:14",
+      "speaker": "HARLOW",
+      "sentences": "Months.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:10:14",
+      "speaker": "LEMON",
+      "sentences": "Months?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:10:14",
+      "speaker": "HARLOW",
+      "sentences": "Months.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:10:14",
+      "speaker": "LEMON",
+      "sentences": "Like almost two months?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:10:14",
+      "speaker": "MILLER",
+      "sentences": "Yes. So, that's actually not unusual in the cadence of a major homicide case, which is, you start with nothing. You go from the clues, what are the clues give you. They give you a DNA at the scene. You have unknown contributors there. OK, how do you figure out who the unknown contributors are. Then you get a lead on a white car. Then you start to search for who has a white car. You have an individual 15 minutes away at another school who gets in a white car and drives 38 hours across the country with his father.And, you know, a tip comes in on a white car. You're able to make that DNA match. So, sometimes these things are incredibly rich with a lot of leads that go nowhere. That's what was happening in Idaho. And then one lead starts to click in the pieces fall into place over basically, just a number of days.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:10:14",
+      "speaker": "LEMON",
+      "sentences": "Did you see this coming? Because as I was sort of watching away on vacation, people saying, I did not see that coming. This is not --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:10:14",
+      "speaker": "HARLOW",
+      "sentences": "What, the arrest?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:10:14",
+      "speaker": "LEMON",
+      "sentences": "Yes. The --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:10:14",
+      "speaker": "HARLOW",
+      "sentences": "Oh, him.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:10:14",
+      "speaker": "LEMON",
+      "sentences": "The arrest, him, how it all came about? Everyone thought it was possibly a random attack or something. Did you see that coming?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:10:14",
+      "speaker": "MILLER",
+      "sentences": "I saw it coming. I said it was coming. You know, if you look at the reporting that we've all done here, the team that's been on this Veronica and Jean and everybody else, you know, you talk about, there's going to be a break in the case and it's going to come from the unknown contributors of DNA tip, a lead, they're going to collide, they're going to come up with an answer.So, that was the normal part. If you had asked me three weeks ago, when we were having these discussions, would I guess that the accused offender would be a master's degree student in criminal justice who studied serial killers who was on his way to his PhD at another college, where he was going to be the assistant professor --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:10:14",
+      "speaker": "LEMON",
+      "sentences": "That one.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:10:14",
+      "speaker": "MILLER",
+      "sentences": "-- in three other classes in the coming semester about killers and murderers and motives, I would have said that's probably the \"Criminal Minds\" primetime TV version. But life imitates art, art imitates life. And, you know, we're seeing elements of that in this terrible tragedy.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:10:14",
+      "speaker": "HARLOW",
+      "sentences": "Terrible for these families, these four young victims.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:10:14",
+      "speaker": "LEMON",
+      "sentences": "Yes. Just awful. John Miller, thank you very much.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:10:14",
+      "speaker": "MILLER",
+      "sentences": "Thanks.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:10:14",
+      "speaker": "LEMON",
+      "sentences": "We also had this this morning. There is some new video showing you the catastrophic flooding in Northern California. I want you to take a look at this. Thousands of people are still grappling with power outages and impassable roads, after high winds and record setting rainfall. Watch. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:10:14",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "I've worked for the Cosumnes Fire Department or previously the Elk Grove Fire Department for 21 years. This is the most significant flooding I've seen in this area in those 21 years.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:10:14",
+      "speaker": "LEMON",
+      "sentences": "At least two deaths are reported in Sacramento while emergency crews have rescued multiple flood victims by helicopter. And look at this highway, this is highway 101 in the Bay Area, it is submerged. And this was downtown San Francisco. Almost 6 inches of rain --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:10:14",
+      "speaker": "HARLOW",
+      "sentences": "Wow.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:10:14",
+      "speaker": "LEMON",
+      "sentences": "-- fell there Saturday, making it the second wettest day on record for the area. We're going to have much, much more on the straight ahead. CNN is live on the ground in California so make sure you stay with us. Poppy?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:10:14",
+      "speaker": "HARLOW",
+      "sentences": "The airlines trying to get back to normal especially Southwest hoping to begin the New Year with a new, better normal. Southwest still recovering from a disastrous week-long holiday travel meltdown that left tens of thousands of customers stranded at airports across the country.Let's go to Pete Muntean live at Reagan National Airport. A nightmare has ended for many Southwest travelers. How are things looking just overall for the airline industry today?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:15:02",
+      "speaker": "MUNTEAN",
+      "sentences": "One big priority by Southwest Airlines getting all of these bags back to folks who lost them in the first place. This is the scene right now at Reagan National Airport. This is the pile that has gone down significantly have lost bags since the start of this meltdown.But we are still seeing big piles at airports across the country, in Oakland and El Paso and a lot of passengers need to get refunded too. So the story is not over just yet, Poppy.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:15:02",
+      "speaker": "HARLOW",
+      "sentences": "Whew, right, Pete? Where's your refund?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:15:02",
+      "speaker": "MUNTEAN",
+      "sentences": "Where is my refund? That's right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:15:02",
+      "speaker": "HARLOW",
+      "sentences": "Right?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:15:02",
+      "speaker": "MUNTEAN",
+      "sentences": "You know, I had a flight canceled between San Francisco and San Diego over my holiday break. I was off last week during most of this meltdown. I've submitted it online, southwest.com/traveldisruption. You put in your confirmation number, your name.You can also submit receipts. So, I ended up taking --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:15:02",
+      "speaker": "HARLOW",
+      "sentences": "OK.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:15:02",
+      "speaker": "MUNTEAN",
+      "sentences": "-- a one-way rental car and I put in about $300 expense for that. So we'll see if I get it back.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:15:02",
+      "speaker": "HARLOW",
+      "sentences": "OK, keep us posted, friend. Oh, by the way, we completely missed you last week. Great way to take off. Mr. Transportation Correspondent.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:15:02",
+      "speaker": "LEMON",
+      "sentences": "He's very smart. Did you see you traveled -- we both traveled during the --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:15:02",
+      "speaker": "HARLOW",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:15:02",
+      "speaker": "LEMON",
+      "sentences": "-- you know, over the last week or two, did you see the luggage just sort of sitting there --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:15:02",
+      "speaker": "HARLOW",
+      "sentences": "A sea of orphaned luggage.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:15:02",
+      "speaker": "LEMON",
+      "sentences": "Just -- it was unbelievable.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:15:02",
+      "speaker": "HARLOW",
+      "sentences": "Hope everyone gets back and gets a lot of money compensated. Right, why not?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:15:02",
+      "speaker": "LEMON",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:15:02",
+      "speaker": "HARLOW",
+      "sentences": "It went through hell.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:15:02",
+      "speaker": "LEMON",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:15:02",
+      "speaker": "HARLOW",
+      "sentences": "OK. Congressman-elect George Santos set to be sworn in to Congress tomorrow despite the lies that he made about his basically entire background and his family. Why there is still no response from House Republican leadership?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:21:45",
+      "speaker": "LEMON",
+      "sentences": "So that was the outgoing Republican Congressman Kevin Brady, not holding back about what he thinks about Congressman-elect George Santos, how he should do after his web of lies, what he should do after his web of lies were exposed. It's unbelievable.But, you know, it's so crickets from the House GOP leadership. One day before Santos is set to be sworn into office, scrutiny looming over this, it is a long list of lies. It is intensifying, as well as state and federal prosecutors conduct separate investigations here. So joining us now, Maggie Haberman, Errol Louis, who actually interviewed George Santos. Listen, so as I was off, the only thing that I paid attention to --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:21:45",
+      "speaker": "HARLOW",
+      "sentences": "Was this?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:21:45",
+      "speaker": "LEMON",
+      "sentences": "Was this story, and this is what everybody is talking about. Good morning to you, guys. Happy New Year to you. So my one question is, whatever -- how did this happen? How did this happen?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:21:45",
+      "speaker": "ERROL LOUIS, CNN POLITICAL COMMENTATOR",
+      "sentences": "We all -- we're all used to seeing public officials who shade the truth, lie, and so forth and so on. This is a whole other, you know, dimension, this is a different order of magnitude where he admits it almost every single thing about him.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:21:45",
+      "speaker": "LEMON",
+      "sentences": "Everything.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:21:45",
+      "speaker": "LOUIS",
+      "sentences": "I mean, from his name, to his -- I mean, like almost everything, his work, life, his education life, his mother's life, his grandparents' life, his immigrant story, on and on and on. All just completely invented. And so, it's a little bit unusual to run into somebody like that.And we don't have a system, even the informal parts of our system, media vetting, opposition research, party mechanisms, and so forth. We don't really have great mechanisms for trapping or catching something like this, because it doesn't happen very often.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:21:45",
+      "speaker": "MAGGIE HABERMAN, CNN POLITICAL ANALYST",
+      "sentences": "At the same time, usually, there is one mechanism that will catch something, right? There's the media, there's the rival opponents. There's the national Republicans, and then there's the local Republicans.And I don't think that's getting talked enough about which is what exactly Republicans, you know, who saw this guy run two years ago. What were they aware of, what were they willing to tolerate in the hopes that they could see how far it would go in this climate. And the other thing we've never really seen is silence like this from leadership. And as you see Kevin McCarthy in the middle of his own battle to stay alive in leadership and to become the next speaker, he has been incredibly quiet about this, in part, because he needs every vote. There is no reason to believe Santos is not going to get seated, I believe he is going to get seated. And then these investigations will continue.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:21:45",
+      "speaker": "HARLOW",
+      "sentences": "Essentially, he has.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:21:45",
+      "speaker": "HABERMAN",
+      "sentences": "Right. And so McCarthy -- there's no mechanism in the House for getting rid of him. I think that's something --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:21:45",
+      "speaker": "HARLOW",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:21:45",
+      "speaker": "HABERMAN",
+      "sentences": "-- that people haven't really understood. And it's going -- you know, there could be a law enforcement effort to get rid of him, and I think we're going to see focuses on that. But I can't remember any time where there has been, you know, even a fraction of this and leadership has been so quiet in either party.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:21:45",
+      "speaker": "LOUIS",
+      "sentences": "Yes. I mean, some of the quiet is just as you say, I mean, it's the Constitution says if you're 25 years old, and you've been in the state, you've been in the country as a citizen for seven years and you live in the state, that's it. And, you know, the House doesn't get to pick and choose who gets this seat.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:21:45",
+      "speaker": "HARLOW",
+      "sentences": "That's right, but there's also just like, what's right and what's wrong. And when you speak up when something is just so wrong, I mean, he took American tragedies -- LEMON",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:21:45",
+      "speaker": "HARLOW",
+      "sentences": "-- like 9/11, like the Pulse nightclub shooting --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:21:45",
+      "speaker": "LEMON",
+      "sentences": "Yes, yes, yes, yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:25:19",
+      "speaker": "LEMON",
+      "sentences": "Just in the old days, Poppy, but he would have just -- don't you think the reason I said, I can't -- I'm not going to take all these people --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:25:19",
+      "speaker": "HARLOW",
+      "sentences": "There would have been more shame. What do you think?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:25:19",
+      "speaker": "LOUIS",
+      "sentences": "I think, look, I -- it's deep in American culture. You think about a play like The Music Man, right? I mean, the con man who comes into town and starts telling everybody what they want to hear. In this case, you know, he's got something for everybody, right?You like pets? Oh, I've got a pet charity. I've saved 3,000 animals, which he hasn't. You know, he says, he's this and he's that. And you know, one point he says he has -- he's the son of a black father. You know, he's just like every piece of voting support that he can pick up. He's making up stories.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:25:19",
+      "speaker": "HABERMAN",
+      "sentences": "He's not a Jewy's Jewish. Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:25:19",
+      "speaker": "LOUIS",
+      "sentences": "Jew, right.(CROSSTALK)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:25:19",
+      "speaker": "HABERMAN",
+      "sentences": "Yes, yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:25:19",
+      "speaker": "LOUIS",
+      "sentences": "So we should get used to the idea that these creatures exists, these people who will come into town and tell everybody exactly what it is they want to hear. And then we have to figure it out. And, honestly, look, I -- we have a system that the justice system is cranking up, we've got an attorney general, we've got federal prosecutors all looking into him, the Nassau County district attorney saying if any laws were broken here, we're going to prosecute it.So, it's cranking up a little bit. The media has certainly exposed a lot of lies, people are coming forward. The truth is known that's not a small thing, or is becoming known. It's going to have to catch up with the political system. And, you know, and what, in about 24 months at the latest --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:25:19",
+      "speaker": "HARLOW",
+      "sentences": "That's right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:25:19",
+      "speaker": "LOUIS",
+      "sentences": "-- that voters will have a chance to fix it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:25:19",
+      "speaker": "LEMON",
+      "sentences": "Can I give you this culture of lying, is this something, obviously, something that Trump normalized, right? Because you just say what you want, lie about whatever and just double, triple, quadruple down and, you know, and just refuse to back down. It -- look, that may work for a lot of people usually just work for Trump. Do you think it's going to work for George Santos?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:25:19",
+      "speaker": "HABERMAN",
+      "sentences": "He's going to be seated. And I think that then we're going to see what happens with these investigations. I think Errol was right to make the point that, you know, lying is not new in American culture and it's certainly not new in politics but not to this extent.We have never seen -- I can't -- we were talking about this in the greenroom. I can't think of a precedent for this. I have covered politicians who have lied, lied to me, lied to voters, you know, they've padded their resumes. We've never seen something like this. And, you know, I don't think that you would have seen silence like this as you have in the pre-Trump. I don't think you would have seen this level of sort of just write it out and see what happens. But everything is about party tribalism now. And that's a lot of what we're saying.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:25:19",
+      "speaker": "LEMON",
+      "sentences": "Can you guys give us -- I'm telling you, this is the thing that everybody's talking about. Give us a little bit more time with the segment, because I want to ask you, you are a member. You cover politics in New York.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:25:19",
+      "speaker": "LOUIS",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:25:19",
+      "speaker": "LEMON",
+      "sentences": "I live out on Long Island, and the leader out on Long Island did this, cover this story. What happened to the local media that it didn't catch all of these lies, or were not interested enough, or I don't know, you tell me.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:25:19",
+      "speaker": "LOUIS",
+      "sentences": "Well, you know, I'm -- I've asked that very question. There are -- there's at least a paper I believe in Oyster Bay that actually did catch --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:25:19",
+      "speaker": "HARLOW",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:25:19",
+      "speaker": "LOUIS",
+      "sentences": "-- some of this and did publish some of it. But the way things work is that it's got to be sort of moved up the chain. You know, I mean, I'm based in New York City, Spectrum News, where a small piece of this district is in New York City. So we sort of paid some attention to it -- Queens.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:25:19",
+      "speaker": "LEMON",
+      "sentences": "Queens.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:25:19",
+      "speaker": "LOUIS",
+      "sentences": "But it wasn't our thing.Was it, well, we'll let the newspapers and the folks out in Long Island, they'll have the main piece of it. And, you know, a local paper did, but it didn't get moved up to say, I don't know, News 12, or whatever the local cable station is.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:25:19",
+      "speaker": "LEMON",
+      "sentences": "News 12. LOUISAnd so, this is, you know, another chapter in the long-standing tragedy of the collapse or the decline of local news.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:25:19",
+      "speaker": "HABERMAN",
+      "sentences": "It is that because the reality is that, you know, especially in this sort of a treated news environment, congressional races are rarely treated as top priorities unless they are sort of marquee races. And I think that this is an example of where -- it just basically fell through the cracks. I don't think it's a great excuse for any of us. But I do think that it is largely a death of local media story.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:25:19",
+      "speaker": "LEMON",
+      "sentences": "What is Kevin McCarthy do? What do the Republicans --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:25:19",
+      "speaker": "HARLOW",
+      "sentences": "Whoever is --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:25:19",
+      "speaker": "HABERMAN",
+      "sentences": "With him? McCarthy continues focusing on Kevin McCarthy and trying to become the speaker. And I really think that's it. And I don't think --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:25:19",
+      "speaker": "HARLOW",
+      "sentences": "Whoever is speaker has to say something.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:25:19",
+      "speaker": "LOUIS",
+      "sentences": "They need one vote from George Santos and they don't need anything else.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:25:19",
+      "speaker": "HABERMAN",
+      "sentences": "Correct, right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:25:19",
+      "speaker": "LEMON",
+      "sentences": "And then after that, do you think they're done with him after?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:25:19",
+      "speaker": "LOUIS",
+      "sentences": "I think, you know, no committees sit in the corner --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:25:19",
+      "speaker": "HABERMAN",
+      "sentences": "Yes, that's right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:25:19",
+      "speaker": "LOUIS",
+      "sentences": "-- you know, that's about it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:25:19",
+      "speaker": "HABERMAN",
+      "sentences": "And try to marginalize him. And then to your point in two years, that we're going to be doing this again, and I think the Democrats will be approaching this race differently. It's very hard to see George Santos surviving a re-election assuming that he makes it that far. But I think that basically they just try to leave this as a problem that they don't have to deal with.",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

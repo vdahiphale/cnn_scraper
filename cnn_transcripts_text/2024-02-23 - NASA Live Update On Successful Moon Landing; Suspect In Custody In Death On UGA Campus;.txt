@@ -1,0 +1,391 @@
+Headline: The Lead with Jake Tapper
+Sub-headline: NASA Live Update On Successful Moon Landing; Suspect In Custody In Death On UGA Campus; Savannah Guthrie Reveals Personal Journey Of Faith; The Ukrainian Fighter Who Survived Every Single Major Battle; Jury: Longtime NRA Head Wayne LaPierre Should Pay Over $4.3 Million For Misusing Charitable Funds. Aired 5-6p ET
+
+Aired February 23, 2024 - 17:00 &nbsp; ET
+THIS IS A RUSH TRANSCRIPT. THIS COPY MAY NOT BE IN ITS FINAL FORM AND MAY BE UPDATED.
+<br>[17:00:00]
+ 
+JAKE TAPPER, CNN ANCHOR: Step back in history with me to this time yesterday. We were anxiously awaiting to see if this small private American company partnering with NASA could pull off landing on the moon surface for the first time in more than 50 years.
+ 
+And then, NASA Administrator Bill Nelson came here to this desk, on THE LEAD. And he announced there were technical difficulties. And in fact, he seemed to be preparing us for the chance that this lunar lander nicknamed "Odie" might crash into the moon.
+ 
+(BEGIN VIDEO CLIP)
+ 
+BILL NELSON, NASA ADMINISTRATOR: Well, it's white knuckle. Their ability to land is not with a radar, but with light pulses called Lidar. And it is on the blank.
+ 
+TAPPER: It's not working?
+ 
+NELSON: It's not working. Whether that eventually degrades into a crash on the moon or out into space, I don't know the answer to that. Let's hope that this might be one of those miracles.
+ 
+(END VIDEO CLIP)
+ 
+TAPPER: So after all that and those white knuckle moments, the miracle apparently didn't happen. And the company behind Odie announced that the lander was in fact upright and transmitting from the moon.
+ 
+(BEGIN VIDEO CLIP)
+ 
+UNIDENTIFIED MALE: We're in that standing effort. I know this was a nail biter, but we are on the surface, and we are transmitting. And welcome to the moon.
+ 
+UNIDENTIFIED MALE: Houston, Odysseus has found his new home.
+ 
+(END VIDEO CLIP)
+ 
+TAPPER: Odysseus is Odie's full name. CNN's space and defense correspondent Kristin Fisher is here with me. Kristin, Intuitive, the name of the company, says Odie is safely on the moon and is transmitting but we have not seen any photos yet. Why not?
+ 
+KRISTIN FISHER, CNN SPACE AND DEFENSE CORRESPONDENT: I think by this point 24 hours after landing, it's clear that they're having some big issues getting these images back to Earth. We don't have an official reason why but there's two likely culprits. And the first would be the landing location at the south pole of the moon. It is much harder to get a clear signal back to Earth at the South pole than at the equator, which is where the Apollo missions all landed.
+ 
+And if you think about it down at the South pole, the curvature of the moon makes it much easier for the signal to get blocked by like a boulder or --
+ 
+TAPPER: Yes. So I'm going to interrupt because the press conference is starting at NASA.
+ 
+FISHER: All right.
+ 
+TAPPER: And I know you want to hear this more than I do even. So let's listen in.
+ 
+FISHER: OK.
+ 
+(BEGIN LIVE COVERAGE)
+ 
+NILUFER (ph): On February 22nd, Intuitive Machines' I Am One Mission will softly landed in the South pole region of the moon near Malapert A. Named Odysseus, the lander completed a seven day journey to become the first US soft landing on the moon in more than 50 years.
+ 
+Joining us today to provide insight on this historic mission and to answer questions, we have Steve Altemus, Co-founder and CEO at Intuitive Machines, Joel Kearns, Deputy Associate Administrator for Exploration Science Mission Directorate at NASA headquarters in Washington, Dr. Tim Crain, Chief Technology Officer and Co-founder at Intuitive machines, and Dr. Prasun Desai, Deputy Associate Administrator of the Space Technology Mission Directorate at NASA headquarters.
+ 
+First we'll start with some initial remarks from our briefers before opening it up for questions. We'll be taking your questions on our phone bridge this afternoon. So if you've joined us today, please press star one to add your name to the queue and ask your question.
+ 
+We'll now begin with opening remarks from Steve.
+ 
+STEVE ALTEMUS, CO-FOUNDER/CEO, INTUITIVE MACHINES: Thank you, Nilufer (ph). Well, hello, everybody. It's reflected before we came into the briefing studio this afternoon, that this is the first briefing about being on the surface of the of the moon for the first time in about 52 years in this room. So that's quite incredible and it's a pleasure to be here.
+ 
+Intuitive machines, Odysseus lander landed yesterday at 5:24 Central time. We did have a stable controlled landing and a safe soft touchdown. I'll give you a little bit of description today about the state of Odysseus, or Odie, and its attitude on the surface and what you can expect from it over the coming days.
+ 
+It's pretty incredible. It was a quite a spicy seven day mission to get to the moon. And I'll give me some fun facts about how far we've traveled and how fast we've gone.
+ 
+So just to begin with, the vehicle is stable, near or at our intended landing site. We do have communications with the lander. It's from the larger radio astronomy dishes around the world that are part of our lunar telemetry network, and to the spacecraft from several of the antennas and two of the radios. So that's phenomenal to begin with.
+ <br>[17:05:02]
+ 
+So we're beginning to -- now that we're on the Goonhilly dish in the United Kingdom, we're downloading and commanding, downloading data from the buffers in the spacecraft and commanding the spacecraft, and trying to get you surface photos because I know that everyone's hungry for those surface photos. But we got some interesting data that gives us a position on attitude of where the lander is. And I'll explain that in a moment.
+ 
+We have some of the sun impinging on the solar rays and charging our batteries. We are providing power to the spacecraft and we're at 100% state of charge. That's fantastic. I talk to you about the communications and we will be taking an image, hopefully, this weekend from the Lunar Reconnaissance Orbiter to find the lander and pinpoint its location in the South pole region of the moon.
+ 
+If you can go to the photo here that we have, this is a photo that I thought you'd find interesting that we'll release to the public here. Here we're flying about 10 kilometers over the surface of Schomberger crater near the South pole region of the moon. We're still about 200 kilometers up range from where our intended landing site is. But here we have one of our public affairs cameras taking this beautiful image. And you see how shadowed and, you know, undulating the terrain is. And that's important to understand how difficult it is to land on the surface of the moon. So thanks for that image.
+ 
+Going back, I could say that it was quite phenomenal that if you think about it, we were traveling 25,000 miles an hour. And we came down and touched down at about six miles an hour with downrange traverse of about two miles an hour. That's walking speed. So that's kind of just an interesting metric for you, we traveled two and a half times the distance to the lunar surface that's about 600,000 miles due to the trajectory and the number of orbits that we've gone through.
+ 
+In doing that and in performing that incredible deceleration, our first of a kind liquid oxygen, liquid methane additively manufactured 3D-printed engine burned six times for a cumulative burn time of over 20 minutes. It's just an incredible performing machine, and we're really proud to take that technology to TRL level 9.
+ 
+I got to say something about the team, the ops teams were cool under pressure for the whole seven days. It was quite amazing to see him and work, real space cowboys. And, you know, we worked through all the difficulties. If you think back from Apollo days, there wasn't one mission that went absolutely perfectly, so you have to be adaptable, you have to be innovative, and you have to persevere. And we persevered right up until the last moments to get this soft touchdown like we wanted to.
+ 
+Let me just talk briefly about attitude on the surface. This a little lander, I'm going to pretend that's the rock that the lander is leading on. We think we came down with, like I said, about six miles an hour this way, and about two miles an hour this way, and caught a foot in the surface and the lander has tipped like this. And we believe this is the surface -- the orientation of the lander on the moon.
+ 
+We're getting sun moving this way around the lander so the solar arrays are being powered. And we believe a little later, we'll get solar sun on the top deck solar array. The majority of our payloads are all in view. And we are collecting science, and we've collected science along the way to the moon, and I've been downloading that data. In particular, three payloads that are positioned on the lander, they have been active operationally used in this mission.
+ 
+The LN-1 payload out of Marshall Space Flight Center, we actually -- assisted us in determining our precise location in space, orbit determination, we call it, using a Doppler measurement. That was very useful, and as it was part of the Deep Space Network and augmented our communications from our own commercial network.
+ 
+The other one you've heard about was the NASA Doppler Lidar from Langley Research Center. And we integrated their telemetry stream into our nav application, navigation application, and we use that for our power descent initiation. And then finally, the one that was very useful was a new technology out of Glenn Research Center. And that was the radio frequency bass gauging. And that instrument really gave us an understanding of what the propellant tank levels were which helped us budget the amount of propellant to take us all the way safely to the surface of the moon.
+ <br>[17:10:00]
+ 
+So very interesting mission so far as we get more telemetry and turn more things on, we'll be updating you over the coming days of the analysis and the reconstruction of, you know, the landing. Tim can comment on that a little bit today on how we did the power descent all the way to the surface and why we believe in the data that I'm talking to you about today.
+ 
+Yesterday, we thought from just to clear up some confusion, we thought we were upright. And the reason was that the tanks we're reading, this is the x direction and the tanks were reading gravity on the moon. The fill levels, there were still residuals in the tank, and we saw those measurements in the x direction.
+ 
+But that was stale telemetry. So when we work through the night to get other telemetry down, we noticed that in the z direction, this direction, is where we're seeing the tank -- residual tank quantities. And so that's what tells us with certain, fairly certain terms, the orientation of the vehicle. And hopefully we'll get a picture here this weekend and share it with you. Nilufer (ph), that's all I have.
+ 
+NILUFER (ph): Thank you so much, Steve. Next up, we have Joel Kearns. Joel?
+ 
+JOEL KEARNS, NASA DEPUTY ASSOCIATE ADMINISTRATOR: Hey. Thank you, Nilufer (ph). First, let me congratulate Intuitive Machines for three major accomplishments. The first, as Steve said, is for having the first successful soft landing on the moon by the United States since 1972. The second is for being the first non-government commercial organization to actually touch down safely on the surface of the moon. And the third is for having a touchdown point 80 degrees south latitude much closer to the south pole of the moon than any earlier US robotic or human explorers.
+ 
+Let me give you some of the context for the importance of Intuitive Machines accomplishment on their mission. In 2017, the nation charged NASA to expand our scientific and technical work in the area of the moon, science technology and human explorers under Artemis Initiative. As part of that, NASA went down the path to listen to what industry had been telling us for some years, which is that for robotic landing services, that we should be able to purchase that from US industry instead of doing it ourselves and NASA for robotic systems.
+ 
+Now, NASA is very good at building an operating robotic probes throughout the solar system, but we knew we'd be going back to the moon repeatedly to do science and technical studies, and eventually human exploration. So we put into place this Commercial Lunar Payload Services initiative, or CLPS, to buy in effect the service to bring NASA cargo down to the surface of the moon, and have the data from those experiments brought back to Earth by industry.
+ 
+Intuitive Machines is one of the participants in that initiative that has now been awarded three service contracts to bring NASA equipment experiments and cargo down to the surface of the moon. And this was intuitive machines first attempt, their first mission to the moon carrying our cargo.
+ 
+Now, I have talked about all the potential advantages of having industry do this for NASA. The industry, it told us years ago that they thought they were technically ready to do it, that they thought if they specialized in doing it that they could probably do it at less cost and much more frequently, and much faster from initial order than NASA probably could, since we would normally build a custom spacecraft for every endeavor. And we've seen that so far in the progress that our CLPS vendors have made as they're working down to fly off their first missions.
+ 
+Intuitive Machines, though, however, in doing a soft touchdown on the moon has provided the first real evidence that this is possible to do. It's possible with today's technology with dedicated engineering and appropriate financial management to have a private company actually design a spacecraft, develop a mission by a rocket and fly all the way to the moon and soft land on the surface of the moon. Not just in an area where we landed earlier decades ago near the equator with the Apollo missions, but in the unusual territory of the south pole, which is the focus of our future human Artemis missions.
+ 
+This is a gigantic accomplishment. On this particular mission, we had the company bring six NASA science and technology experiments onboard down to the lunar surface. They arranged to get to do studies in science, in looking at the electron density and plasma on the surface of the moon, technology studies such as measuring a rocket plume impingement during landing navigation studies on the way to the moon down to the surface of the moon, laser ranging, fuel quantity as other investigations.
+ <br>[17:15:00]
+ 
+And interestingly enough when we started this, we had put together a list of different instruments and payloads that the Commercial Lunar Payload Services companies could volunteer to take down to the surface of the moon. And Intuitive Machines pick the complement of five payloads, which we later augmented with the radio frequency mass gauge fuel measurement experiment. And Intuitive Machines pick the number of payloads and experiments for NASA to bring down which is seaboard out greatly benefited them during the execution of their mission.
+ 
+So at this point today is Intuitive Machines looks to make sure they understand the status of the Odysseus vehicle. We are already looking back at scientific and technological data that we accumulated during the transit out to the moon, during the deorbit operations. And we're looking forward to get even more data as Intuitive Machines figure -- finishes the checkout of Odysseus.
+ 
+(END LIVE COVERAGE)
+ 
+TAPPER: Now, so we have been listening to an update from NASA after this historic moon landing last night. Officials from Intuitive Machines, a private company that partnered with NASA, confirming that lander named Odysseus, nicknamed Odie, is transmitting from the south pole of the moon despite some serious last minute complications.
+ 
+They did confirm some problems that Odie is not upright. Odie has tipped over after landing and is on its side. CNN's Kristin Fisher is back with me.
+ 
+And, Kristin, I think we've gotten the major news from that news conference. I don't think we're going to get photos. I think that's pretty clear. They said something about stale telemetry, you want to explain what that means?
+ 
+FISHER: Stale telemetry or old telemetry, old data coming from the spacecraft. The reason Steve Altemus, the CEO of Intuitive Machines, came out and said that is because, yesterday, the company put out a post on X and said that the lunar lander, Odysseus, is up right. After that press conference just there, you can see that that was not the case, that Odysseus had indeed tipped over. Steve Altemus said that a leg got caught and that it tipped over on a rock.
+ 
+So I think Steve was really kind of going out of his way to say, hey, we're not deliberately misleading all of you by saying it was up right. We just had old telemetry, old data.
+ 
+TAPPER: Is that how these people talk, stale telemetry, instead of just saying we had still old -- old data?
+ 
+FISHER: Hey, that's better than some of the lengthy NASA acronyms.
+ 
+TAPPER: Well, and also -- at least they did disclose it, right? I mean, they did.
+ 
+FISHER: They did disclose it. I think the big question right now, Jake, is, you know, what is the definition of a successful soft landing? Historically speaking, a successful soft landing on the surface of the moon is, if a spacecraft makes a controlled landing, and successfully is transmitting signals. And so, Intuitive Machines and NASA is saying, yes, we met that benchmark because it is -- the payloads are still working, the solar cells are charging. And there is a signal being transmitted to and from mission control on Earth, and Odysseus up on the moon.
+ 
+But for those of you saying, hey now, it landed but it tipped over. That's not a perfect landing. And, hey, we haven't seen pictures yet. It really gets down to the definition of what is a successful soft landing.
+ 
+TAPPER: Yes.
+ 
+FISHER: And there's a lot of gray area there.
+ 
+TAPPER: Right, could have been worse.
+ 
+FISHER: Could have been a lot worse. I mean, we were talking about --
+ 
+TAPPER: We thought it was going to crash.
+ 
+FISHER: Potential for an Apollo 13 of a robotic lander yesterday. I will say the fact that --
+ 
+TAPPER: Except we got the happy ending.
+ 
+FISHER: Yes. The fact that they were able to make that quick fix at the last minute yesterday is incredible.
+ 
+TAPPER: Kristin, stick with me. I want to bring in Miles O'Brien, who's CNN's aerospace analyst, and also Jim Bell, who has worked with NASA on their Mars projects. Jim, let me start with you.
+ 
+What do you make of the news Odie has tipped over?
+ 
+JIM BELL, PLANETARY SCIENTIST: Well, OK. They didn't stick the landing, OK? But in my book, if you're able to get a signal through and start to get some scientific engineering data that they were originally setting out to get, then this, I think, it's going to be regarded as a success, absolutely.
+ 
+TAPPER: And, Miles, we heard that moment NASA's administrator last night told me this was a white knuckle moment, Bill Nelson, when the success of the landing was in doubt. So obviously, this is better news than that. Help us understand what happened in terms of the landing and how this ended up being another moment of extraordinary human problem solving.
+ 
+MILES O'BRIEN, CNN AEROSPACE ANALYST: Yes. I would say any landing you can walk away from is a good one, that's what pilots always say anyway. And I think you've hit the nail on the head, Jake. The extraordinary effort of that team to -- in real time with a certain deadline facing, come up with a software patch to piggyback on to do an experiment which is on the craft surely somebody had thought about this before. I want to hear what the story is on that.
+ <br>[17:20:07]
+ 
+But whatever the case, to come up with that solution, in short order, otherwise, probably would have been just another crater in the moon. And we don't need another one of those. And so, I think this is a success on several levels. It's a different kind of voter. It's 3D- printed. It's methane-fueled. We've never done that on the moon before, that rocket motor work well. There's a lot of things to put in the w column. But clearly the Romanian judge would not give that landing a 10.
+ 
+TAPPER: And, Jim, you've been a part of complicated missions such as this. Help us understand what a team effort, what the melding of minds that are both tactically brilliant, and also extraordinarily creative at the same time.
+ 
+BELL: Absolutely. You know, one of the great things about working with the kinds of engineers like we're seeing in Intuitive Machines, and they're all over NASA as well, is that they think about every possible thing that could go wrong, a contingency in that NASA language that you and Kristin were talking about.
+ 
+And so, you know, they've thought about these things ahead of time. The improbable happens and they're prepared for it. OK, we're going to switch to plan B, and they're ready with that. And also to add to Miles' admiration for this situation, you know, the spacecraft itself was built and designed with the robustness to handle being tipped over on its side, and still getting solar power still able to communicate with the earth, and potentially still able to do much of its scientific mission.
+ 
+TAPPER: All right. Thanks, everyone. Really appreciate it. Keep it here on CNN. Check with cnn.com for more updates on this historic moon landing. It's a story we're going to continue to cover in the hours and days ahead.
+ 
+Up next, breaking news. A major update in the case of a student killed on the campus of the University of Georgia. We'll be right back.
+ 
+(COMMERCIAL BREAK)
+ <br>[17:25:48]
+ 
+TAPPER: We're back with breaking news, sad breaking news. A suspect is now in custody in connection to the death of a young woman on the campus of the University of Georgia. CNN's Ryan Young is live near the campus in Athens, Georgia. Ryan, what do we know about the arrest?
+ 
+RYAN YOUNG, CNN NATIONAL CORRESPONDENT: Well, this is what we've been told so far. First, it was developed as a person of interest that has now turned into a person who's in custody. This apartment complex that's behind me, that's where everyone's been focused all afternoon. If you look over there, you can see the mobile command unit.
+ 
+We've seen more reinforcements come in over the last hour or so. They brought in large lights. They brought in more officers. It looks like they're going to be here for quite some time. Over here, we've also seen them searching the wood line and also anything like a dumpster or by the fences. We've seen them even talking to some of the businesses nearby to ask them for their video surveillance to see if someone was moving along their back property line.
+ 
+The reason why is they're desperately searching for something. We've seen these detectives sort of sorting through the trash, going hand through hand through some of these bags. This has been the focus now on the backside of this apartment complex that's right here. That's where the trail is that they found this young university student, Laken Hope Riley who was 22 years old.
+ 
+This community is shock. We were outside her sorority a little earlier. You can see all the tears flowing. There are people dropping off flowers. You understand that this community is so tightly woven. This is one of the premier universities in the state of Georgia. And there's nothing like this has happened in 20 years.
+ 
+This trail, people were still using it today, some of them unaware of this crime. We've walked parts of this trail, you understand people felt pretty safe back there. But all that safety has been broken because of something that happened out there, and there's really been no details about that just yet.
+ 
+Now we're told at 7:00, Jake, that they'll finally have a news conference. And we're hoping to get some of these answers from police and investigators who, from all across the state, have poured into this area, to find out whoever committed this crime. We now know a suspect has been arrested. Don't have a motive yet, don't have any of the details that we're desperately all trying to search. But this entire community has been shaken by what happened just on the other side of this apartment complex. Jake?
+ 
+TAPPER: Ryan Young in Athens, Georgia, thank you so much. We'll be right back.
+ 
+(COMMERCIAL BREAK)
+ 
+TAPPER: And our Faith Lead today, every day in her role is co-anchor of NBC News Today Show Savannah Guthrie brings millions of Americans their morning news. Now she is stepping outside her comfort zone and revealing what many viewers may not know about the news anchor and her deeply personal account of her faith. Here now is Savannah Guthrie, a friend of mine I should disclose, author of the book, "Mostly What God Does: Reflections on Seeking and Finding His Love Everywhere." Savannah, thank you for being there. We should note that the book cover looks different from what we just showed there. Because this has you but it's like -- it can be used as a bookmark?
+ 
+SAVANNAH GUTHRIE, NBC CO-ANCHOR, "TODAY": Well, that's what I told you. This was my compromise at the publisher. I didn't want my picture on it. So they said what if we put it there, you can remove it and now it's a bookmark, Jake, isn't that -- so it's a value added.
+ 
+TAPPER: But I can understand why the publisher would do that because you are beloved, you're America's sweetheart. So they would want to put you on the book
+ 
+GUTHRIE: I turned it around it has the message of the message of the book.
+ 
+TAPPER: The message of the book is mostly what God does is love you. So let's talk about this. The book is a beautiful collection, a very personal essays on your faith, on your relationship with God. Now, faith is the belief in things that we cannot prove. It's like the definition of faith.
+ 
+GUTHRIE: Yes.
+ 
+TAPPER: You professionally do the exact opposite. You're all about what you can prove, what are facts.
+ 
+GUTHRIE: Yes.
+ 
+TAPPER: So was it uncomfortable to talk about something that is, in a way, and I don't mean this disparagingly at all. But it's not what you do.
+ 
+GUTHRIE: It's not what I do. But this isn't about my professional life. This is about my personal side. But yes, if you're asking me, was it terrifying? Was it outside my comfort zone? Oh, yes. I feel it's the most vulnerable thing I've ever done. And if you had told me, you're going to write a book, Savannah, any book, let alone one about faith. I'm not a prolific author like you Jake.
+ 
+TAPPER: You are brilliant, brilliant person. It does not surprise me that you wrote a book.
+ 
+GUTHRIE: I never thought I would. And I certainly didn't think I'd be writing about my faith. Because when you write about your faith, you know, the book is about God. It's not about me. But faith doesn't happen in a vacuum. It happens in real lives and real circumstances and faith. You really figure out what your faith is not in times of great triumph of it in sadness and darkness and doubt. And I write a lot about that.
+ 
+TAPPER: Yes.
+ 
+GUTHRIE: And I try not to run from those questions. And I think, you know, while this isn't a book of journalism, this is a book about faith. And it's called mostly what God does is love you. That's the thesis of the book. I do try to not dodge the hard questions that faith presents about the world that we live in the world that you cover and I cover and the way we probably ask ourselves every day, how can this be? How would a good God let a world like this continue?
+ 
+TAPPER: And why don't you share with people I read the book it's beautiful when you share with people, how can you justify it because, you know, you write about in the book about how being a mother opened your eyes to what it's like for God because the love that God has for us is like the love a mother has for a child. But some people lose their children.
+ <br>[17:35:14]
+ 
+GUTHRIE: Yes.
+ 
+TAPPER: You know, I mean, there's --
+ 
+GUTHRIE: I read about that.
+ 
+TAPPER: Yes. I mean, you and your beautiful family are alive and well and wonderful. There they are. Look at Feldy over there. But there's horrible stuff that happens.
+ 
+GUTHRIE: Yes. And that's, to me, that's the crucible of faith. I mean, that's doubts, mic drop. There's some people struggle with, is there a God at all? For me, that has not been the particular obstacle of my life? But have I wondered where God is whether God is well intentioned toward me or the world, but this plan is, how there can be suffering? Yes, I've wondered about all those things.
+ 
+I mean, spoiler alert, Jake. I do not answer the unanswerable existential questions of all time in this book. And if I did --
+ 
+TAPPER: And you want to sell books.
+ 
+GUTHRIE: He was going to say --
+ 
+TAPPER: All the answers are here everybody.
+ 
+GUTHRIE: No. I charged triple for it, if I had those answers. It's just an exploration and an embracing of doubt. And for me, doubt is not the opposite of faith. Doubt is an aspect and a feature of faith. In fact, I think doubt is really faith being worked out. And I -- it is my belief, and not just something I made up, but I think that's something that's grounded scripturally and doctrinally is that God wants us to bring our doubts and our questions and is eager to engage them.
+ 
+TAPPER: So it's not like your life has been without struggles. Your -- you lost your father, when you were only 16 years old. And you write about recently getting your first tattoo.
+ 
+GUTHRIE: Yes.
+ 
+TAPPER: Would you can show us all my love.
+ 
+GUTHRIE: Yes.
+ 
+TAPPER: Which is written in your father's handwriting from a letter that he wrote to your mom, I think, right?
+ 
+GUTHRIE: Yes.
+ 
+TAPPER: With my love. It's a beautiful thing. You say it represents what you've learned about faith? How?
+ 
+GUTHRIE: Yes, so this was this was a love letter that my father wrote to my mother. And this is his actual handwriting. I never thought I'd get a tattoo that was even more unlikely than writing a book. But I liked it because it was, you know, an homage to him and reminded me, it's a good mantra for life, all my love. I feel like there are all these perplexing questions that we have interpersonally in our professions, and I have a sign on my desk that says love is the answer to most questions.
+ 
+It feels like a throwaway. It is quite simple, but it's not easy. But you know, I kind of feel in life like surge love to the problem, that's usually going to be the answer, the answer will lie there. And then I also feel like that is what I've learned about faith through ups and downs. You know, I think so many people, whether you believe in God, or don't I think we all kind of wrestle with the concept one way or the other.
+ 
+And a lot of people or at least I know I've always wondered all my life. You know, what does God think of me? What does God think of my choices? Have I made mistakes in my life? Am I worthy of love? You know, I grew up in a very kind of religious churchy background, which I love and treasure many aspects of. But I think I felt a lot of guilt and shame and self-doubt.
+ 
+And when I came across this verse, in Ephesians, that was retranslated for a book called "The Message," it changed everything for me. It just reframed how I thought about faith. And the verse was, watch what God does, and you do it to like the way children learn proper behavior from their parents. Mostly what God does is love you. What does God think of my choices? Mostly what God does is love you. It belongs to all of us.
+ 
+And my theory is and my belief and I think what I found is that, if you could really let it in, like if you could really absorb that just for one moment, that God really does love every human heart, and you let it penetrate you. Well, it's transformative. It's profound. And I think that love can't be contained. And I think that's what I'm trying to express. But again, not running away. This isn't happy talk.
+ 
+TAPPER: Yes.
+ 
+GUTHRIE: I don't think our God is one of happy talk and throw away slogans. But I think that if you really reflect on it and think of it can be quite profound and change you from within.
+ 
+TAPPER: The book is "Mostly What God Does: Reflections on Seeking and Finding His Love Everywhere." The author is my dear friend, Savannah Guthrie. And it is a beautiful book. And whether or not you believe in a God with a flowing robe and a big beard or the concept of God is just the universe itself, and the unexplained and the unexplainable. It's worth reading and pondering. Thank you so much for being here.
+ 
+GUTHRIE: Thank you Jake for having me.
+ 
+TAPPER: So good to see you.
+ 
+GUTHRIE: Appreciate it.
+ <br>[17:39:25]
+ 
+TAPPER: We also want to bring you one man's remarkable story from Ukraine two years after Russia's invasion. CNN found a Ukrainian fighter who has seen almost every single turning point of the war in his country, CNN's Nick Paton Walsh will have his story next.
+ 
+(COMMERCIAL BREAK)
+ 
+TAPPER: We're back with our World Lead, it is after midnight in Ukraine. It is February 24th in Ukraine -- in marking two years since Russia began its brutal assault on that country and its people. The reality on the front lines is stark and desperate as Ukraine is running low on supplies and ammunition. Russia is claiming more pockets of Ukrainian territory. Still, still, the resolve of many Ukrainians is as strong as it gets. CNN's Nick Paton Walsh shares now the remarkable story of one fighter whose last two years seems horrifyingly encompassed all the major turning points of the war.
+ 
+(BEGIN VIDEOTAPE)
+ 
+NICK PATON WALSH, CNN CHIEF INTERNATIONAL SECURITY EDITOR (voice- over): If one man's story spanned, all two years of Ukraine's war, you might expect it had ended abruptly by now. But Oleksandre is alive. A glass eye from the siege of Azovstal, gratitude from surviving Russian prisons, courage from battling in the summer counter offensive, and now exhaustion from fighting in Kherson in a daring advance across the river. The Russia claimed it ended this week. Two years ago, you remember shock, but Russia's brutal attack but also Ukraine's bold defense.
+ 
+OLEKSANDRE, 36TH MARINE BRIGADE (through audio translation): I personally didn't believe it but I imagined something could happen. But we underestimated our strength as if someone was deliberately putting a stick in our wheels. But our guys were ready. Those were some of the strongest men I know and have known.
+ <br>[17:45:06]
+ 
+WALSH (voice-over): Serving already four years around Mariupol, had a friend move his family to Denmark. And slowly his unit fell back to the Azovstal plant unaware of the iconic battle it would become.
+ 
+WALSH: What was the worst part of Azovstal?
+ 
+OLEKSANDRE (through audio translation): When you look at your friends, your boys who are wounded, you want to help them but you can't. This is the worst. We had no medicine. The boys were just rotting.
+ 
+WALSH: Is there a flashback that is most vivid to you?
+ 
+OLEKSANDRE (through audio translation): There are many flashbacks, but mostly, I think, only about my guys. Those that I lost and those that are alive but now in captivity.
+ 
+WALSH (voice-over): Four hundred colleagues died, 45 taken prisoner, he said, surrender the worst feeling.
+ 
+OLEKSANDRE (through audio translation): Panic. I mean it wasn't really panic. It was a bad feeling, a feeling of powerlessness especially when they take away your weapon. It's like you're standing naked. It was like Russian roulette. No one there was sure of anything.
+ 
+WALSH (voice-over): Six months in prison, the Russian anthem daily porridge boiled cabbage, friends dying and threats of being hung or shot. They ended abruptly.
+ 
+OLEKSANDRE (through audio translation): We didn't know that we were being released. They put us on buses and took us somewhere else. Our eyes were duct taped. No one saw anything. They just took us out, and that's it, you are in Ukraine.
+ 
+WALSH (voice-over): He rested and returned to fight in the bitter and bloody southern counter offensive near (inaudible). He said he was grateful to feel fear again.
+ 
+WALSH: Have your experience has left you feeling more courageous or more fearful on the front line?
+ 
+OLEKSANDRE (through audio translation): I'm not an iron man, I get scared too. It's good to have fear in you. You just need to master your fear. If you don't control it, it will swallow you up. You won't be human anymore. I don't pity the recruits, pity is a bad quality. You just have to do your job.
+ 
+WALSH (voice-over): We talk in Kherson and his break from assaulting Russian positions across the river, a risky advance Ukraine hoped would edge towards occupied Crimea. It hasn't. Many lives have been lost, and the city of Kherson liberated now for 15 months is also an exhausted ghost. And while Western support has slowed, Russia is not.
+ 
+OLEKSANDRE (through audio translation): This is a difficult freedom. I don't argue. But I don't want to lost it. They were well zombified the Russians. They simply win in numbers. It will be difficult but we will try.
+ 
+WALSH (voice-over): No end is in sight. He says he does of course not want his son to fight in this war. He is seven.
+ 
+(END VIDEOTAPE)
+ 
+WALSH (on camera): Now as we enter into the third war, it's important to hear voices like that to kind of answer the question many perhaps here in the West have, why doesn't this war just end? Why isn't there a peaceful negotiation? Well, for many Ukrainians, I'd say the majority of Ukrainians, the notion of Russian occupation is essentially, well, potentially death for those who fought against Russia, certainly a chance of violence or abuse against their families. He sent his family abroad because he'd heard stories of how other Ukrainian soldiers families had been hurt or repressed by Russian occupying forces.
+ 
+This is for so many Ukrainians as simply an existential matter. And while the sanctions today against 500 targets announced by the Biden administration mark, possibly the White House digging deeper into his toolbox to try and find something else to economically hurt the Russians without denting the U.S. economy. Here, they need that $60 billion of aid urgently now.
+ 
+Back in December, when it was initially announced as being delayed, there were concerns that would potentially in weeks or months damage Ukraine on the front lines, but that time is here now. And there are multiple points across the front line where it is quite clear. Ukraine is not doing as well as it wants to be if not ceding ground to a Russian force now that is well financed, well equipped, and on the front foot, frankly.
+ 
+And so this third year, an exceptionally complex one for Ukraine and the West where essentially, I think NATO has to realize that this is also their fight rather than just Ukraine's on their behalf and that Putin doesn't really himself see an end in sight here. Many analysts believe that really this continuing war is now becoming essential for him to maintain the repressive machine that keeps him in power. So a dark dawn I think as many Ukrainians as you heard there don't really know where this end. Jake?
+ <br>[17:50:05]
+ 
+TAPPER: All right, Nick Payton Walsh in Zaporizhzhia, Ukraine, thank you so much. Now, let's bring in Deputy Pentagon Press Secretary Sabrina Singh. Sabrina, Good to see you. So your boss is Secretary of Defense Lloyd Austin. He regularly convenes the Ukraine defense contact group. That's dozens of countries coming together to discuss what Ukraine needs defensively. Secretary Austin mentioned in a statement today that multi country coalition. That coalition has, quote, 15 U.S. allies, that as a percentage of GDP, contribute more to Ukraine's capability needs than the United States does. Do you think that the U.S. is losing credibility among our allies, given U.S. lawmakers on Capitol Hill repeated failure to pass this $60 billion security assistance package for Ukraine?
+ 
+SABRINA SINGH, DEPUTY PENTAGON PRESS SECRETARY: Yes, thanks, Jake, so much for having me on today. I think certainly the failure of Congress to not give us, to not pass that supplemental package certainly puts at risk not only our reputation, but our just actions and where we stand with our allies. And certainly, and most importantly, where our adversaries, what they are watching. It is because of congressional inaction that we've seen Ukraine have to make strategic withdrawals from the city of Avdiivka in order to preserve and conserve more resources to continue to hold their defensive lines in the East and the South. So that's why you've seen the Secretary, both very publicly and privately urged Congress to pass that supplemental that we need so much so that we can deliver Ukraine, the military assistance it needs on the battlefield.
+ 
+TAPPER: And we should note, it's not just Ukraine suffering, senior army officials tell CNN that they're pulling from their own budget and, quote, without a 2024 budget approved by Congress, and without additional funding specifically for Ukraine, the command has roughly 3 billion to pay for 5 billion of operations costs, unquote. So how is the Pentagon going to ensure the shortfall does not have a direct effect on U.S. military readiness?
+ 
+SINGH: Well, that's absolutely right. Right now, the army or other services are in a really tough spot, they're going to have to make critical decisions that impact other programs, possibly pulling from other programs or not participating in other exercises, to continuing to support Ukraine, and the training that we're doing with their military in some of our facilities all around the world.
+ 
+And so it's incredibly important that Congress hears our message that we need this funding, we need the supplemental passed. And as you mentioned, we still don't have an FY 24 budget. Right now, we're literally quite literally fighting for funding with one arm tied behind our back as we support Ukraine with what it needs on the battlefield, while we continue to surge military assistance to Israel. And of course, we're always keeping an eye on our pacing challenge in the Indo Pacific.
+ 
+TAPPER: At the beginning of the war, the U.S. seemed to have a different position on Ukrainian attacks inside Russia. At the beginning of the war, the U.S. did not condone them, is that still the position of the U.S. to not condone when the U.S. attack? I mean, when the Ukraine attacks inside Russia, has that stance changed or softened and why?
+ 
+SINGH: Our position hasn't changed. We still believe this war is confined to Ukraine. Ukraine is right now in the fight of their lives for their own sovereign territory. We don't want to see this conflict expand out further. We want to be able to give Ukraine the military equipment capabilities and systems it needs to take back its sovereign territory.
+ 
+TAPPER: So do you condemn the attacks? If Ukraine attacks within Russia, is it the position of the U.S. to condemn that or to condone it?
+ 
+SINGH: Look, we're always in touch with our Ukrainian counterparts. Actually, just earlier this week, the Secretary had a call with his counterpart. Our focus right now is on Ukraine, getting the military systems it needs to take back its sovereign territory. So that's our focus. That's our priority. But of course, as you mentioned, we can't do that without a supplemental package. And we haven't been able to provide military assistance to Ukraine since December.
+ 
+TAPPER: Retired U.S. General David Petraeus tells CNN, quote, I'm not sure that either side is winning this war, is that the Pentagon's view as well?
+ 
+SINGH: Look, I'll let Ukraine speak to how they characterize this war. We certainly believe that they are making progress. And we're on the -- we're almost at the two-year anniversary. That's tomorrow. Two years ago, we were talking about key falling within days. And then the Ukrainians fought very valiantly. We're able to hold Kyiv. Continued to push on to Kherson to Kharkiv, and now they're fighting for the Donbas.
+ 
+And they're in the east and the south holding those defensive lines against Russia. So they have defined success on their own. I'm certainly not going to characterize it for them. But we are, you know, continuing to stand with them. That's what the President has said that we are in them, with them for as long as it takes. We just need Congress's support to continue to get that done.
+ 
+TAPPER: All right, Pentagon Deputy Press Secretary Sabrina Singh, thank you so much for joining us.
+ 
+SINGH: Thanks, Jake.
+ 
+TAPPER: And we have breaking news for you out of New York City, there is a verdict in the civil corruption trial involving longtime top National Rifle Association or NRA CEO, Wayne LaPierre, a jury has ruled that LaPierre should pay the powerful gun rights group more than $4 million in damages for mismanagement and misspending. CNN's John Miller joins me now. John, walk us through this decision.
+ <br>[17:55:21]
+ 
+JOHN MILLER, CNN CHIEF LAW ENFORCEMENT AND INTELLIGENCE ANALYST: Well, the jury spent a good deal of time going over this because there were a lot of counts. Now this is a civil case, not a criminal case. But what they found is that Wayne LaPierre or was the NRA $4.3 million on top of a million dollars that they assess he has already paid back. That's the money he conceded that he owed. The jury also found cause to remove him as head of the NRA even though he resigned just before this trial started.
+ 
+The judge will decide whether to permanently bar him from association with the NRA in a bench trial that will come up after this portion of the case. Wayne LaPierre did secure for himself a job as a basically an outside adviser or consultant to the NRA, a paid roll, which the jury found was not something that made him guilty of self-dealing. But this has been an eye opening case.
+ 
+In the closing remarks, the Assistant Attorney General Monica Connell summed it up by saying, this case is about corruption. Misuse of funds spent on jets, on black cars, five star hotels, hundreds of thousands of dollars in suits, million dollar deals to insiders, payments to local -- to loyal board members and pervasive violations of internal controls. So LaPierre was obviously the key defendant in this civil case brought by the New York State Attorney General because, A, the NRA was founded in New York State 153 years ago as a nonprofit organization. And B, in New York State, the Attorney General has sway over nonprofit organizations in because of the Attorney General's charity bureau. So this was basically the Attorney General of New York, Letitia James, the same attorney general who bought the civil case against Donald Trump and his business empire, calling the NRA onto the carpet and saying that essentially its management had turned the nonprofit organization into a personal piggy bank to use her words.
+ 
+TAPPER: I want to bring in Mike Spies, senior writer with The Trace, which covers gun issues. Mike, your reaction to the verdict.
+ 
+MIKE SPIES, SENIOR STAFF WRITER, THE TRACE: It's exactly what I expected to happen. Maybe the monetary amount was even higher than I thought it would be. But to me, this is also very much a case about greed, about not telling the truth to the people that you're taking money from, and about theater about putting on a show for 30 years to bring in as much money as possible to enrich yourself and those around you really well. And while doing that harming the country in the process.
+ 
+TAPPER: What kind of impact do you think this verdict will have on the NRA, both in the short term and the long term?
+ 
+SPIES: I mean, I think the brand is greatly diminished. I mean, even before the verdict came in the last few years have just been brutal, members have dropped out. Its entire communications infrastructure has been gone for several years. And I think that it's going to be impossible for it to ever regain the status that it once had. And now what you see is a sort of gun rights movement in the organizations that represented kind of splinter into a lot of different groups that are going to focus more on lawsuits, overturning regulations and that kind of thing.
+ 
+TAPPER: What kind of role did Wayne LaPierre have in transforming the NRA, from what it was once which was, you know, an organization for hunters and sportsmen into a powerful lobbying organization opposing virtually any kind of limit or control on gun ownership, which is what it is today?
+ 
+SPIES: You know, he was the projection of us, you know, while behind the curtain being a very timid, fearful man who was playing a role. But that role that he played was transformative, you know, in that he was leading like a what I would call a tribal war. He was at the forefront of the culture wars. And it was under his leadership that the organization became a second amendment absolutist group, was not interested in compromise, wanted to be as divisive as possible in order to perpetually fuel the outrage machine that allowed them to continue to raise more and more money. For what? For of course, you know, self-enrichment and for bloated contracts and for people to live lifestyles that would be utterly unimaginable to the vast majority of NRA members who have paid their dues.
+ <br>[18:00:09]
+ 
+TAPPER: John Miller final thoughts? MILLER: Well, the question is what happens to the NRA? They will be getting $4 million back. But what will their future be? And that is probably going to be a very different NRA, both in their politics and their message.
+ 
+TAPPER: John Miller and Mike Spies, thanks to both of you.
+ 
+Our coverage continues now with Wolf Blitzer in "THE SITUATION ROOM." I'll see you tomorrow night for special coverage of the South Carolina primary that starts at 6:00 p.m. Eastern.

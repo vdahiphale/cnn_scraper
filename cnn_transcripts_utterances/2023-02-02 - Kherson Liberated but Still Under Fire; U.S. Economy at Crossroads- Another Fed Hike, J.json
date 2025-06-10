@@ -1,0 +1,535 @@
+{
+  "date": "2023-02-02",
+  "headline": "CNN This Morning",
+  "subHeadline": "Kherson Liberated but Still Under Fire; U.S. Economy at Crossroads: Another Fed Hike, Job Openings Rise; D.A. Looks at More Charges in Tyre Nichols Fatal Beating; Prosecutors: Video Places Murdaugh at Scene Before Murders; FBI Finds No Classified Docs at Biden's Beach Home; Hunter Biden Wants Criminal Probe in 'Weaponization' of Private Info. Aired 6-6:30a ET",
+  "utterances": [
+    {
+      "timeStamp": "06:00:10",
+      "speaker": "DON LEMON, CNN ANCHOR",
+      "sentences": "Good morning, everyone. Thank you for joining us. We're going to get to what's happening down in Florida. There you see Kaitlan is live on Capitol Hill for us.President Biden on the Hill this morning as he faces a series of investigations and battles over the nation's economy and police reform.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:10",
+      "speaker": "KAITLAN COLLINS, CNN ANCHOR",
+      "sentences": "Also moments from now, the GOP is gearing up to kick Congressman Ilhan Omar off of a key committee. Big questions on whether or not they have enough votes. They believe they do, but they faced some pushback from Republicans.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:10",
+      "speaker": "POPPY HARLOW, CNN ANCHOR",
+      "sentences": "Also Hunter Biden with a counter offensive. The president's son demanding investigations into those who accessed data from his personal laptop. What is behind this really aggressive new legal strategy?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:10",
+      "speaker": "LEMON",
+      "sentences": "We're going to get to all of that in a moment. But we're going to begin with breaking news. It's out of Ukraine. CNN is live in the Southern city of Kherson, where there is heavy shelling this morning.Live to Sam Kiley. Sam, hello to you. What are you hearing?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:10",
+      "speaker": "SAM KILEY, CNN SENIOR INTERNATIONAL CORRESPONDENT",
+      "sentences": "Well, hearing is quite literally what we've been doingWhere I'm standing here is in Freedom Square. This was where you'll remember there were those enormous celebrations just a few months ago when this city was liberated from Russian occupation. The Russians are about 500 meters in that direction. Straight down the main drag on the other side of the river. And they're firing into the town very regularly, direct fire with -- there you go. There's two detonations. Direct fire with either tanks or sometimes indirect fire with mortars. A lot of multiple rocket-launching systems. Last night, two people, according to the local authorities, were killed in -- on the outskirts of the city. That has become all too routine. And rather than being a -- excuse me -- a city that is thronged with people, celebrating their liberation, most people here have been asked to leave. Those that remain behind really only turn up in this central area seeking help. We've spoken to half a dozen people, mostly old people but some of them mothers of young children who were in areas that are too dangerous, frankly, for the emergency services to even get to, asking us for help, asking us to direct them as to where they might get food, water and other supplies.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:10",
+      "speaker": "LEMON",
+      "sentences": "OK. So there -- you see our Sam Kylie is on the ground in Kherson, where heavy shelling is going on. Sam, for how long has this been happening? It seems quiet where you are, but is this intermittent?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:10",
+      "speaker": "KILEY",
+      "sentences": "It's anything but quiet. It just doesn't happen to have gone off -- in fact, it did go off at the beginning of our live. It may well go off again. We are a little bit away from the main focus of the shelling, because it's extremely dangerous. But it's been going on like this for several months and escalating very significantly.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:10",
+      "speaker": "LEMON",
+      "sentences": "OK. Sam Kylie, we will check back with you. Thank you very much. Happening out of that war. It's been going on --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:10",
+      "speaker": "HARLOW",
+      "sentences": "Yes. Almost a year. You were there.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:10",
+      "speaker": "LEMON",
+      "sentences": "Yes. So we'll check back in with our reporters and producers in Ukraine.As we mentioned, it's a very busy morning on Capitol Hill. You see Kaitlan there. The president will be attending the National Prayer Breakfast. But a lot going on in the background. It's one of the busiest days, I believe.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:04",
+      "speaker": "HARLOW",
+      "sentences": "Kaitlan --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:04",
+      "speaker": "LEMON",
+      "sentences": "We saw a video also -- No, we saw Kevin McCarthy, saw the video of him leaving yesterday.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:04",
+      "speaker": "HARLOW",
+      "sentences": "He seemed happy.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:04",
+      "speaker": "LEMON",
+      "sentences": "-- and I thought -- what I thought was interesting is that he said I'm not -- I don't want to share much. He gave a lengthy press conference, but he said, I don't want to share much of my conversation with the president, which I thought was very good.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:04",
+      "speaker": "HARLOW",
+      "sentences": "Yes. True. Keep it --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:04",
+      "speaker": "LEMON",
+      "sentences": "Until we see what works out, keep it tight.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:04",
+      "speaker": "HARLOW",
+      "sentences": "I was just going to ask Kaitlan before you go, I was just thinking about sort of what happened in 2011 when it was then-Vice President Biden leading those negotiations with Republicans in the House, with Speaker Boehner with Eric Cantor, and sort of what came from that and where we ended up.They had sort of this dollar-for-dollar spending cut deal. And then it ends in sequestration, eventually. And, you know, just lessons from that and how that has informed -- all the failures eventually from that and how that has informed Biden's position now.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:04",
+      "speaker": "COLLINS",
+      "sentences": "We talk about what this would mean for the average American. How it would really put the United States on the breach of a crisis when it comes to the U.S. economy, if it actually came to that over the summer.Technically, they've already hit the limit, but they've got a few emergency measures that the Treasury Department is working. And you've heard Republicans say that, yes. You know, when Biden was vice president, he was involved in these negotiations. But of course, he was vice president then. The White House's stance has been they're not going to negotiate over the debt ceiling, per se. If they have other talks going on on the sidelines of where they could go after spending, that remains to be seen. But certainly, that is an experience that has shaped how Republicans are viewing this, how the White House is viewing this. But it's a very different White House and a very different Republican Party that is at these talks right now.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:04",
+      "speaker": "LEMON",
+      "sentences": "And very different when you're the actual president.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:04",
+      "speaker": "HARLOW",
+      "sentences": "Totally. And new rules in the House, right? So Kaitlan, thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:04",
+      "speaker": "LEMON",
+      "sentences": "We'll see you in a bit.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:04",
+      "speaker": "HARLOW",
+      "sentences": "So the American economy -- we were talking about how the debt ceiling plays into all of that -- is at a critical point. Let's take a look at some key economic indicators, where things stand right now.Just at a glance, there is an increase in job openings. The Fed did raise its benchmark interest rate for the eighth time in a year yesterday, signaling a few more increases likely ahead. President Biden, as we said, met with Leader McCarthy, talking about the debt ceiling. And McDonald's, right? Sometimes a bellwether for the economy. Reported a big increase in sales and revenue in the fourth quarter of the year. A lot of people opting in for less expensive foods because of a possible recession? Maybe that's it. Christine Romans, our chief business correspondent, here to help break it down. CHRISTINE ROMANS, CNN ANCHOR/CHIEF BUSINESS CORRESPONDENT: What all these --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:04",
+      "speaker": "LEMON",
+      "sentences": "Eight times. ROMANS",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:04",
+      "speaker": "LEMON",
+      "sentences": "That really put it in perspective when Poppy said eight times. It's like, is it --ROMANS In a year.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:04",
+      "speaker": "LEMON",
+      "sentences": "In one year.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:04",
+      "speaker": "ROMANS",
+      "sentences": "And can I show you? So now you've got official interest rates that are knocking on the door of 5 percent. But it's so interesting, because banks' savings rates are still just, on average, under 1 percent. So savers really haven't been -- you know, felt the boon of those higher interest rates.But if you borrow money, you really felt the pain of them. And that is just an unfortunate way the system seems to be working here. But there it is. Look at how fed -- the federal funds rate has gone up. But the money you get from putting your money in a bank hasn't really. Unless you have a lot of cash, and then people are sort of searching for yield. There's another number we saw yesterday that really got my attention. Eleven million open jobs in America. Eleven million!",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:04",
+      "speaker": "HARLOW",
+      "sentences": "My gosh.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:04",
+      "speaker": "ROMANS",
+      "sentences": "That's \"help wanted\" signs in leisure and hospitality, in construction, in hotels. That's two open jobs for every person looking for one.So when we heard so much about tech layoffs, you guys, this tells you that employers don't want to let go of people, and they want to hire good people if they can. So that's a good position to come from heading into what could be an uncertain area, I think.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:04",
+      "speaker": "HARLOW",
+      "sentences": "Yes. For sure.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:04",
+      "speaker": "LEMON",
+      "sentences": "All right. We'll see you soon.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:04",
+      "speaker": "ROMANS",
+      "sentences": "OK.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:04",
+      "speaker": "LEMON",
+      "sentences": "Could be another rate hike in this broadcast. We'll see. Thank you. Appreciate it. Christine Romans.More charges could be coming in Memphis following the death of Tyre Nichols. The Shelby County district attorney is looking at potential charges over the initial police report that he says contradicts what the videos depict. (BEGIN VIDEO CLIP) STEVEN MULROY, SHELBY COUNTY DISTRICT ATTORNEY: It's fair to say that the incident report that has gone public does not match up on all fours with what one sees when one looks at the video that has already been released. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:10:02",
+      "speaker": "RYAN YOUNG, CNN CORRESPONDENT",
+      "sentences": "Morning, Don.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:10:02",
+      "speaker": "LEMON",
+      "sentences": "Yet, the investigation continues. Can you tell us what the D.A. is saying and who may be the target of these potential charges?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:10:02",
+      "speaker": "YOUNG",
+      "sentences": "Don, they're going to go through all that video to make sure that everyone who was involved in that scene actually will face charges if they need to.There's an administrative procedural investigation going on at the police department. Then the TBI is doing a separate investigation. But all eyes yesterday were on the family of Tyre Nichols. (BEGIN VIDEOTAPE) ROWVAUGHN WELLS, TYRE NICHOLS'S MOTHER: Tyre was a beautiful person. And for this to happen to him is just unimaginable. YOUNG (voice-over): A good-bye to a beloved son. (MUSIC) YOUNG (voice-over): Moving tributes. (MUSIC) YOUNG (voice-over): And a call for change.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:10:02",
+      "speaker": "RODNEY WELLS, STEPFATHER OF TYRE NICHOLS",
+      "sentences": "We have to fight for justice.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:10:02",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:10:02",
+      "speaker": "RODNEY WELLS",
+      "sentences": "We cannot continue to let these people brutalize our kids.YOUNG (voice-over): Grieving family and friends celebrating the life of Tyre Nichols today. ROWVAUGHN WELLS: I promise you, the only thing that' keeping me going is the fact that I really, truly believe my son was sitting here beside me from God. KEYANA DIXON, TYRE NICHOLS'S SISTER: I see the world showing him love and fighting for his justice. But all I want is my baby brother back.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:10:02",
+      "speaker": "LATOYA YIZAR, FRIEND OF NICHOLS FAMILY",
+      "sentences": "I'm just trying to go home. Don't I deserve to feel safe?YOUNG (voice-over): A young father, artist and avid skateboarder who died after a violent encounter with Memphis Police.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:10:02",
+      "speaker": "KAMALA HARRIS, VICE PRESIDENT OF THE UNITED STATES",
+      "sentences": "This is a family that lost their son and their brother through an act of violence at the hands and the feet of people who had been charged with keeping them safe.YOUNG (voice-over): A service painfully familiar for black communities in America. REV. DR. J. LAWRENCE TURNER, SENIOR PASTOR, MISSISSIPPI BOULEVARD CHRISTIAN CHURCH: We serve notice to this nation that the rerun of this episode that makes black lives hash tags has been canceled and will not be renewed for another season. YOUNG (voice-over): The videos of the brutal police beating were released less than a week ago. And more videos of the incident are expected to be released soon. The city of Memphis saying it's preparing to release the recordings, once an administrative investigation is complete and that the Nichols family and their attorneys have already seen the audio and video footage.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:10:02",
+      "speaker": "MULROY",
+      "sentences": "There's a lot of footage, maybe as much as 20 hours. And some of it, I think, may be more relevant because of the audio. And then a lot of it depicts things that take place, you know, after the beating has already occurred and, you know, people are sort of talking afterwards, even after the ambulance takes Mr. Nichols away.YOUNG (voice-over): The Shelby County District Attorney's Office tells CNN that the office is continuing to investigate potential charges on false reporting on the initial police report, since it contradicts some of the events of the scene, as seen in video released by police. They are continuing to examine possible charges for, quote, \"every other officer and fire department personnel at the scene.\" But even as questions in this case linger, the call for change is clear. REV. AL SHARPTON, CIVIL RIGHTS ACTIVIST: We're going to change this country, because we refuse to keep living under the threat of the cops and the robbers. (END VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:10:02",
+      "speaker": "YOUNG",
+      "sentences": "Don, something that stood out to me yesterday watching this funeral was the role that women were playing in this funeral. You think about his mom stepping up and giving that emotional speech. His sister and then all the other mothers who showed up, who also had sons or daughters who were victims of what they call police brutality, was something to see -- Don.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:10:02",
+      "speaker": "LEMON",
+      "sentences": "Not to mention the vice president of the United States, Kamala Harris, playing a big role, as well. Ryan Young. Ryan in Memphis. Thank you, Ryan. Nice job. Appreciate it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:10:02",
+      "speaker": "HARLOW",
+      "sentences": "Well, testimony resumes this morning in Alex Murdaugh -- Alex Murdaugh's double murder trial in South Carolina. In court Wednesday, prosecutors presented pivotal evidenceOur Randi Kaye is covering the trial. She joins us live again this morning from Walterboro, South Carolina. Good morning, Randi.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:15:07",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "What do you hear on the video?LT. BRITT DOVE, SOUTH CAROLINA LAW ENFORCEMENT DIVISION: You hear three different voices in the video. You can tell, because they're so different. You can tell that they're different voices. KAYE (voice-over): Listen closely.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:15:07",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "At this time, the state is going to publish that video. It is not under seal. ALEX MURDAUGH, ON TRIAL FOR MURDER (UNINTELLIGIBLE) Ken (ph).",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:15:07",
+      "speaker": "MAGGIE MURDAUGH, WIFE OF ALEX MURDAUGH",
+      "sentences": "Hey, he's got a bird in his mouth.A. MURDAUGH: Hey, Bubba.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:15:07",
+      "speaker": "PAUL MURDAUGH, SON OF ALEX MURDAUGH",
+      "sentences": "Hey, Bubba.M. MURDAUGH: It's a guinea. A. MURDAUGH: It's a chicken. P. MURDAUGH: It's a chicken. KAYE (voice-over): The time that the video was taken is key to the prosecutors' case.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:15:07",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "What time was that video recorded again, Lt. Dove?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:15:07",
+      "speaker": "DOVE",
+      "sentences": "The camera begins at 8",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:15:07",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "And ends when?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:15:07",
+      "speaker": "DOVE",
+      "sentences": "At 8KAYE (voice-over): The witness told the jury the video was taken about 8:45 p.m. on June 7, 2021, the night of the murders. Alex Murdaugh had told investigators at least twice that he wasn't at the kennels earlier in the night. His 911 call that night puts him at the scene at around 10:07 p.m. But the audio in this video, if it's him, as prosecutors suggest, would undercut his alibi and put Alex Murdaugh with the victims at the time of the murders, at the time their cell phones ceased all activity and locked. That was about 8:49 p.m.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:15:07",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Were there ever any other outgoing calls made from Paul's phone?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:15:07",
+      "speaker": "DOVE",
+      "sentences": "No, sir, not that I found.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:15:07",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Were there ever any other calls that were answered, incoming calls that were answered on Paul's phone?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:15:07",
+      "speaker": "DOVE",
+      "sentences": "No, sir.KAYE (voice-over): Alex Murdaugh was not identified by prosecutors on the video. But this witness, Rogan Gibson, testified that Paul was sending the video in question to him that night, so Gibson could see his injured dog. He told the court he's sure that's Alex Murdaugh's voice on the recording.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:15:07",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "And did you hear -- recognize the voices on there?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:15:07",
+      "speaker": "ROGAN GIBSON, FRIEND OF PAUL MURDAUGH",
+      "sentences": "I did.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:15:07",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Did you recognize the voices of your second family?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:15:07",
+      "speaker": "GIBSON",
+      "sentences": "I did.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:15:07",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "And what voices did you hear?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:15:07",
+      "speaker": "GIBSON",
+      "sentences": "Paul's and Miss Maggie and Mr. Alex.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:15:07",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "And how sure are you now?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:15:07",
+      "speaker": "GIBSON",
+      "sentences": "Positive.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:15:07",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "A hundred percent?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:15:07",
+      "speaker": "GIBSON",
+      "sentences": "That's correct.KAYE (voice-over): On cross-examination, the defense tried to chip away at Gibson's testimony about the tape, but it seemed to backfire.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:15:07",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Then you heard a voice say, \"No, it's a chicken.\" Do you remember whose voice that was?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:15:07",
+      "speaker": "GIBSON",
+      "sentences": "That was Mr. Alex that said it the first time, and then Paul also said it was a chicken.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:15:07",
+      "speaker": "KAYE",
+      "sentences": "And it only got worse for the defense when Paul's long-time friend and roommate, Will Loving, said he heard Alex on the recording, too.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:15:07",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "How sure are you?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:15:07",
+      "speaker": "WILL LOVING, FRIEND OF PAUL MURDAUGH",
+      "sentences": "A hundred percent.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:15:07",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "The person whose voice you recognize on there that you identify as Alex Murdaugh, do you see him in the courtroom here today?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:15:07",
+      "speaker": "LOVING",
+      "sentences": "Yes, sir.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:15:07",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Can you point him out for the jury?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:15:07",
+      "speaker": "LOVING",
+      "sentences": "He's sitting right there.(END VIDEOTAPE) KAYE (on camera): And Poppy, whatever happened that night happened very, very fast. We know that video was recorded about 8:45 p.m. We also know from testimony that Paul Murdaugh read a text at 8:48:59 p.m., and then just 3 seconds later, Poppy, he got another text that was never read. His phone, and it seems, Paul Murdaugh, had been silent forever.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:15:07",
+      "speaker": "HARLOW",
+      "sentences": "Wow. Randi Kaye, what a day in court. Thank you very much.Well, the FBI's search of President Biden's beach home turns up empty- handed. Where will this investigation over those classified documents go from here, now that a special counsel has officially started on the job?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:22:20",
+      "speaker": "COLLINS",
+      "sentences": "All right. Good morning from Capitol Hill. As the president is getting ready to come visit over here this morning for the National Prayer Breakfast. The FBI finding no classified documents after they completed a search at President Biden's private vacation home in Rehoboth, Delaware, on Wednesday.This as the president's handling of classified material has continued to dog the White House. (BEGIN VIDEO CLIP) IAN SAMS, WHITE HOUSE COUNCIL'S OFFICE SPOKESPERSON: I don't want to speak too much to the DOJ's practices in an ongoing investigation. I can say, you know, that we have cooperated fully. The president's personal attorneys have provided information to DOJ. We've addressed openly and directly the searches that were conducted, first at the president's Wilmington residence, and then today at the Rehoboth residence. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:22:20",
+      "speaker": "COLLINS",
+      "sentences": "CNN's Paula Reid is joining us now.This is the third property of President Biden's that has been searched. I think one question that I had immediately yesterday upon learning about this is why were they searching it now?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:22:20",
+      "speaker": "PAULA REID, CNN SENIOR LEGAL AFFAIRS CORRESPONDENT",
+      "sentences": "So originally, the president's personal team, after they found those documents at his former office here in D.C., knew it, and they searched the Wilmington home. They searched the Rehoboth home.It was very much expected, once this became a full-blown special counsel investigation that the FBI would want to conduct its own searches. So about ten days ago, we saw them do their own search of the Wilmington home and then it was very much expected, which is why we had cameras there, right -- we've been waiting for this -- that this home would also be searched. But what really strikes me, Kaitlan, is there's clearly a desire to move quickly here. Because yesterday, it was the special counsel's first day.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:22:20",
+      "speaker": "COLLINS",
+      "sentences": "Yes, and I think that's an important part of this. Because it was reporters who spotted the sedans and the SUVs going to this house. That's when people started asking the White House and Justice Department about this.The special counsel, though, has started, Robert Hur. He is now going to be overseeing this. You know, once you get started, what does that really look like? Where does he get started? And what's the time line expectation?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:22:20",
+      "speaker": "REID",
+      "sentences": "So what we've had so far has been a review. Gathering some facts, assessing whether they need to do a full-blown criminal investigation.Now that Hur is on the job, he will have the opportunity to use a grand jury. We expect he'll do that. He'll likely conduct interviews. Most of the interviews so far have been informal. But he'll be able to interview, reinterview people. And then there's this big question about additional searches. Yesterday, the White House was asked if any other locations had been searched. They wouldn't answer. But that's been par for the course, that they've chosen to, instead of getting out in front of things, letting the process play out but also letting the news leak out.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:22:20",
+      "speaker": "COLLINS",
+      "sentences": "Yes. And the big question, they said no classified documents yesterday, but they did take some personal hand-written notes relating to his time as vice president.Paula Reid, I know you'll stay on this. But thank you so much for doing so, for that reporting.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:22:20",
+      "speaker": "REID",
+      "sentences": "Of course.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:22:20",
+      "speaker": "COLLINS",
+      "sentences": "Don, Poppy.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:25:09",
+      "speaker": "EVAN PEREZ, CNN SENIOR JUSTICE CORRESPONDENT",
+      "sentences": "It really is. What he's trying to do, Don and Poppy, is he's trying to turn the tables on the people who really have -- have been attacking him over the last couple of years.And in these letters to the Delaware state attorney general, to the Justice Department, to the IRS, what Hunter Biden and his lawyers are asking for is for criminal investigations of the -- the computer repair salesman that -- the shop owner, as well as Rudy Giuliani and a number of other right-wing figures. In the case of John Paul Mac Isaac, he's the one who allegedly accessed these -- the personal data on a laptop that he says Hunter Biden dropped off back in 2019. I'll read you just a part of what Abbe Lowell, Hunter Biden's attorney, says in his letters. He says that \"Mr. Mac Isaac's intentional, reckless and unlawful conduct allowed for hundreds of gigabytes of Mr. Biden's personal data without any discretion to be circulated around the Internet.\" He says that this is a dirty trick that was really used -- trying to use the -- his personal data to weaponize it against his father.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:25:09",
+      "speaker": "HARLOW",
+      "sentences": "I find this term to be really fascinating, Evan. He hires Abbe Lowell, a really, you know, well-known representative, which I thought it was interesting that, you know, the other side of the legal team is saying, well, he just got this fancy lawyer, et cetera, and sort of brushing off the strategy change.But isn't it significant that -- that his legal team now is saying for the first time, yes, this is Hunter Biden's personal data that is being trafficked?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:25:09",
+      "speaker": "PEREZ",
+      "sentences": "Yes. That's a really -- certainly, the biggest thing we've noticed is that, for a couple of years now, Hunter and his lawyers have basically tried to not comment at all on these -- on these stories.And what they're trying to do now is say these people have actually broken the law. As you know, Poppy and Don, he's under investigation for -- a criminal investigation by the Justice Department. So this allows him to fight on another -- in another stage.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:25:09",
+      "speaker": "HARLOW",
+      "sentences": "We'll watch it all, Evan. Thank you for the reporting.Ahead, there's outrage in Ohio over a Nazi homeschooling network, reportedly using Hitler quotes as an educational resource.",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

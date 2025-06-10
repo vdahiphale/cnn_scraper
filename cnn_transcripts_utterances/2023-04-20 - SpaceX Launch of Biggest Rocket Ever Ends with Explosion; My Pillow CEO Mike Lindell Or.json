@@ -1,0 +1,223 @@
+{
+  "date": "2023-04-20",
+  "headline": "CNN News Central",
+  "subHeadline": "SpaceX Launch of Biggest Rocket Ever Ends with Explosion; My Pillow CEO Mike Lindell Ordered to Pay $5 Million to Expert Who Debunked His Election Data; Tornado Kills At Least Two People Near Oklahoma City. Aired 10-10:30a ET",
+  "utterances": [
+    {
+      "timeStamp": "10:00:00",
+      "speaker": "JOHN BERMAN, CNN ANCHOR",
+      "sentences": "A new phrase for us this morning, rapid unscheduled disassembly. What a euphemism. The SpaceX Starship explodes minutes after a successful liftoff, CNN is live at the launch pad with the new details.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:00:00",
+      "speaker": "SARA SIDNER, CNN ANCHOR",
+      "sentences": "And we're tracking the major threat in the skies here on Earth, more than 50 million people from Texas to Wisconsin are bracing for severe weather after deadly tornadoes tore up parts of Oklahoma overnight. Officials fear the death toll there could rise.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:00:00",
+      "speaker": "KATE BOLDUAN, CNN ANCHOR",
+      "sentences": "A critical 36 hours, the fate and future of abortion pills now before the Supreme Court, and the Supreme Court asked for a bit of a pause. We are following these major stories and more all coming in right here to CNN News Central.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:00:00",
+      "speaker": "BERMAN",
+      "sentences": "What a morning this has been, things you almost never see, the huge Starship from SpaceX, the rocket, it did successfully lift off from the launch pad off the coast of Texas. That part went well, not so much after that. What was going on in space, it seemed the rocket could not separate from its booster. The spaceship could not separate from its booster. And right there, it just exploded after a few minutes in the air.CNN's Ed Lavandera is on South Padre Island in Texas, where the launch took place. The good part took place, the bad part, Ed, miles above you. Explain what happened.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:00:00",
+      "speaker": "ED LAVANDERA, CNN SENIOR NATIONAL CORRESPONDENT",
+      "sentences": "Well, as you can see, the launch pad of smoke from the launch has finally been blown back inland. But that launch cleared the launch pad and this area erupted in cheers as the rocket ship cleared the launch pad and we saw it go straight up for several minutes. And so that was a spectacular sight. And it was about that three-minute mark where we started anticipating that -- getting the sense that something wasn't going quite wrong, that this was not the best case scenario.And from what we've been able to gather so far, that booster unable to separate from the rocket, and that's what caused the disassembly, the explosion there. And what is stunning, though, is that you could see the smoke trail going east out over the Gulf of Mexico. And at some point, just with our eyes, we kind of lost sight of it. But you could then here a second round of intense rumbling and explosive sounds. I'm guessing that is probably the point where things went exactly wrong. From our vantage point here on the ground miles away, impossible to tell, but we're hoping to gather more information to determine exactly why the separation wasn't able to happen. Was it caused by crews here on the ground or was it something technical onboard the rocket ship? That is something we don't have an answer to him will continue to monitor. But by all accounts, many people, at least the people who are, you know, aficionados of watching these types of space programs, everyone kind of viewing this as a success. Even Elon Musk, John, on Sunday night was preparing people for a catastrophic failure. He was hoping at least saying publicly that he was hoping that the rocket would clear the launch pad so there wouldn't be some epic firework explosion there on the launch pad, which would be a costly process of rebuilding all of that infrastructure there at the star base. So, anyway, so it's just absolutely stunning sight to see. And just to kind of give people a sense of what it was like to be here on the ground, John, seconds after the rocket ship cleared, the top of the launch pad is when you could feel and start to begin hearing the rumbling of these 33 engines. And you could feel yourself shaking, vibrating from the from the thrust of all of that, and that was -- everybody I've talked to here this morning felt that same experience, which is simply just stunning.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:00:00",
+      "speaker": "BERMAN",
+      "sentences": "I can understand the excitement. I can understand why they were so happy with the liftoff itself. My hunch is it's always better when things don't explode, but they will learn from this for next time. Ed Lavandera in South Padre Island in Texas, thank you very much.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:00:00",
+      "speaker": "SIDNER",
+      "sentences": "All right. Joining us now, Dr. Michio Kaku, professor of theoretical physics at the City University of New York and CNN Aerospace Analyst Miles O'Brien is back with us.Dr. Kaku, I do want to ask you about -- people see this explosion, and as John just mentioned, it's not exactly the most successful thing we've ever seen, but people were cheering. Why were they cheering? What happened that went well.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:05:02",
+      "speaker": "BERMAN",
+      "sentences": "It's named after an awful band. Sorry. I'm sorry.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:05:02",
+      "speaker": "KAKU",
+      "sentences": "So you see that this is different. This is a different kind of rocket, not just for the moon or Mars by Jupiter, Saturn. We're talking about a new chapter in the history of lunar exploration opening up.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:05:02",
+      "speaker": "BOLDUAN",
+      "sentences": "And, Michio, isn't this what science is about, tests, failures and learning from them?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:05:02",
+      "speaker": "KAKU",
+      "sentences": "That's right. That's the name of the game. In fact, you know, Silicon Valley, they say, what, you didn't collapse in your latest venture? What? You didn't lose money? You didn't go bankrupt? It's expected that you're going to have failures. And like I said, even mature rockets fail about 1 percent of the time.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:05:02",
+      "speaker": "BERMAN",
+      "sentences": "And I get that there is a lot to learn from this. I get the enjoyment and the cheer and the feeling of success that they have in Texas right now, and it's SpaceX over this. But, Miles, this rocket is not reusable. The one that just exploded, they are not going to reuse again and the timeline on using this rocket to get human beings to the moon, it was supposed to be, what, 2025 at this point. Do you think that timeline is still achievable now?MILES O'BRIEN, CNN AEROSPACE ANALYST:  Yes I'm still trying to figure out how many stars to give this Uber ride. But is it five for the good test or -- but put that aside, this rocket was never designed to be recovered. They were going to do a lap around the Earth, drop it into the ocean. So, in that respect the pipeline behind it really hasn't changed much. They've got a production facility there and they're cranking out these Starships fairly quickly. You know, what Michio is saying is significant, a fully the reusable rocket twice the thrust of a Saturn V. Everything is changed by orders of magnitude here as far as the amount of payload you can get into space and the cost diminishes as well. So, it really is a game changer. But you got to get a little bit beyond, what do they call it, rapid uncontained disassembly --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:05:02",
+      "speaker": "BOLDUAN",
+      "sentences": "Rapid disassembly, get it right. Yes.O'BRIEN:  You do have to get beyond that. But, I mean, clearly, getting 33 rocket engines to go and operate together, that's not an easy thing. And even in this day and age and the fact that half dozen or so then were out on the way up, that's asymmetric thrust, probably too much asymmetric thrust for it to handle and that's what caused the tumbling to begin and who knows what happened after that. We'll find out soon enough. But this is how you get there. You have to test and, you know, we get to see it. It's kind of -- it's a little bit scary. It's a little bit nervy, but you can't help but watch.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:05:02",
+      "speaker": "SIDNER",
+      "sentences": "I have to say being a bit of a grump, sorry, people, there are billions of dollars in contracts between SpaceX and the U.S. It used to be NASA was the one doing all these things. Now, that's sort of been fettered out to private entities. Is there a concern here that this is the vehicle that they are planning to use to help get people to the moon instead of using sort of the government contracts that they used to do in times of old?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:05:02",
+      "speaker": "KAKU",
+      "sentences": "Well, I think NASA is hedging its bets, not just one moon rocket but two moon rockets are being funded by NASA, the SLS booster rocket for the Artemis system, and now the Starship program of Elon Musk. And so I think NASA is playing a good game. It's basically saying they're going to spread the money out.And just remember that even though even though Elon Musk sometimes exaggerates on the timeframe, usually, his long-term projections are correct. For example, in Japan, he's already selling tourist tickets to go to the moon. There's Japanese billionaire who the entire rocket and he fully expects to go to the moon. These are these tickets are being sold already. In fact, it's sold out. And so the point of raising is that even through Elon Musk is part showman, of course, he is, of course, selling stocks and so and so forth, the basic thrust of what he's doing is in the direction of history.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:10:03",
+      "speaker": "SIDNER",
+      "sentences": "Miles O'Brien, it's always a pleasure having you on, and thank you to you, Dr. Kaku, we appreciate your expertise on this.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:10:03",
+      "speaker": "KAKU",
+      "sentences": "Yes, anytime.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:15:00",
+      "speaker": "BOLDUAN",
+      "sentences": "This just, in My Pillow CEO Mike Lindell has now been ordered to pay out $5 million to an expert who debunked his 2020 election conspiracy theory. That's according to a decision by the arbitration panel, which was obtained by CNN. This comes after Lindell, who repeatedly peddled election conspiracies, he vowed to award a multimillion dollar sum to any cyber security expert who could disprove his data.CNN's Sara Murray is following the story. Sara, you have fresh reporting on this. What are you picking up?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:15:00",
+      "speaker": "SARA MURRAY, CNN POLITICAL CORRESPONDENT",
+      "sentences": "Well, look, Mike Lindell held this big cyber symposium in 2021. He invited experts. He invited journalists. He invited politicians to come and said, I'm going to give you this data that's related to the 2020 election. Lindell, of course, believed it was stolen. And he said, if you can debunk it, if you can prove it's not related, I'll give you $5 million.Well, a cyber security expert took him up on that. They went to arbitration, and the arbitration panel said, this data is not related to the 2020 election. Mike Lindell, it's time to pay up the $5 million. So, here is what an attorney for that cybersecurity expert now has to say about this decision. He says the lawsuit in verdict marked another important moment in the ongoing proof that the 2020 election was legal and valid and the role of cybersecurity in ensuring that integrity. Now, as part of this story, we got access to some of the filings related to this arbitration. We also got access to some of the depositions. And in Mike Lindell's deposition, he's pretty confident he's not going to have to pay this out. Take a look. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:15:00",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "When you have the idea for the Prove Mike Wrong Challenge, did you have an expectation you might have to pay out $5 million?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:15:00",
+      "speaker": "MIKE LINDELL, CEO, MY PILLOW",
+      "sentences": "No. why would I have that? Because I already have validated it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:15:00",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "So, you didn't have any concerns that someone might win the Prove Mike Wrong Challenge?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:15:00",
+      "speaker": "LINDELL",
+      "sentences": "No, because they would have to show it wasn't from 2020, and it was, you know?(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:15:00",
+      "speaker": "MURRAY",
+      "sentences": "Now whether this cyber security expert, Robert Zeidman, who brought this suit against Lindell ever gets his money is still going to be an open question. I just spoke to Mike Lindell briefly on the phone. He assured me this is going to end up in court. Kate?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:15:00",
+      "speaker": "BOLDUAN",
+      "sentences": "That maybe is the only not surprising thing about this. It's great to see you, Sara, great reporting, as always. Thank you so much. Sara?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:15:00",
+      "speaker": "SIDNER",
+      "sentences": "All right. At least two people are dead in Oklahoma after multiple tornadoes touched down in the state. Both deaths happened in the small town of Cole, that's south of Oklahoma City. The damage there is significant and it's also widespread. Officials are searching the debris for potential survivors in fear the number of people killed could rise today.One local storm chaser was right in the middle of the storm. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:15:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Oh my gosh, this is incredible. Kyle One, back up a little bit more. We're fine where we're at the tornado is getting stronger.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:15:00",
+      "speaker": "SIDNER",
+      "sentences": "More than 14 tornadoes were reported across three states, seven confirmed so far. New video this morning shows the extensive damage across Shawnee, Oklahoma, several homes flattened in the neighborhood. You're seeing their roofs torn off, as you see so many times, tornadoes, you can also see semi trucks were tipped over and tossed across a parking lot.[10:20:00] CNN's Derek Van Dam is joining us now. We're at the point where these are just so regular and the threat is not over, is it?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:15:00",
+      "speaker": "DEREK VAN DAM, CNN METEOROLOGIST",
+      "sentences": "That's right. We do have an additional threat of tornadoes today, but let's go back to what happened last night, because this is astounding aerial footage taken from one of our affiliates, one of the helicopters, and this is a rain shelf, the super cell thunderstorm and the top portion of the screen. It's likely that there's a tornado embedded within that.But this is what makes these tornadoes so dangerous, because often when they produce what is called a wedge tornado, not saying that there is one here, but they're often wider than they are tall, so the potential to have a tornado that's over a mile wide, leaving that path of destruction is very real with these larger super cell threats. So, here's our threats for today. This is the latest information just updated from the Storm Prediction Center. That is a slight risk where you see that shading of yellow. It basically extends from outside of the Chicago suburbs all the way to the Gulf Coast. But I'm highlighting these areas across Central Illinois as well as Central Texas. That's where we have our greatest probability of tornadic activity today, the main threat being large hail and damaging winds, but we cannot rule out a tornado. We know these storms have already produced tornadic super cells and currently the radar quiet, but I think once we once we start to destabilize the atmosphere, get that sunshine, we start to make things a little bit more volatile in the atmosphere and we'll see those thunderstorms pop up once again today. Sara?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:15:00",
+      "speaker": "SIDNER",
+      "sentences": "I know you will be watching and we will be coming back to you. Thank you so much, Derek Van Dam. John?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:25:00",
+      "speaker": "SIDNER",
+      "sentences": "Welcome back to CNN News Central. Our top story this hour, the SpaceX Starship explodes. The massive rocket blew up midair shortly after a successful launch. Starship was the largest and most powerful rocket ever built. It does mark a new chapter in space exploration. SpaceX's long-term goal is to use the Starship rocket to take people to the moon and maybe even Mars.Today's test launch took off from the coast of Boca Chica, Texas. It was scheduled to fly nearly one full lap around the planet and then splash down off the coast of Hawaii. Earlier, Elon Musk congratulated his team writing in part on Twitter, learned a lot for the next test launch in just a few months. John?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:25:00",
+      "speaker": "BERMAN",
+      "sentences": "Thanks, Sara.This morning, new charges could be coming from the man who shot and killed a woman who pulled into the wrong driveway. 65-year-old Kevin Monahan currently faces second degree murder charges for killing 20- year-old Kaylin Gillis as the car she was in turned out of his driveway in Upstate New York. Now, the Washington County district attorney says they will ensure justice for Kaylin, saying more charges as possible or possible as the investigation progresses. CNN's Brynn Gingras has been following this story. Brynn, you were inside the courtroom in this case, and it really just was incredibly emotional.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:25:00",
+      "speaker": "BRYNN GINGRAS, CNN NATIONAL CORRESPONDENT",
+      "sentences": "I mean, it was a bail hearing, and for that, it just seemed so emotional because Kaylin Gillis' boyfriend, who -- let's keep in mind, she died next to that night, along with all her friends, some of them who were in the same car, and her father were at that bail hearing.And it was pretty intense because, you know, the defense attorney in this hearing argued that his client, 65-year-old Kevin Monahan, he has no criminal history, he is a member of that community for 30 years and so they were arguing, let him go, and he'll be back to court. And, of course, the judge decided, you know, saying this is a very serious case, a girl has died at the end of this and has now remanded him. But, yes, there were cheers coming from the courtroom, from the boyfriend, from the dad when the judge made that decision, and it's a very emotional time in that community, because we know it's a small part of -- a small rural area of New York State. And I want you to hear from the dad because he gave such emotional interview at the end of this hearing, and he asked a question I think a lot of people are asking right now about this case. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:25:00",
+      "speaker": "ANDY GILLIS, FATHER OF KAYLIN GILLIS",
+      "sentences": "For this man to sit on his porch and fire at a car with no threat, it just angers me so badly. And I just hope to God that he dies in jail.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:25:00",
+      "speaker": "GINGRAS",
+      "sentences": "Kaylin's dad is actually a member of law enforcement himself. And when he walked into the courtroom, he said -- he turned around to her boyfriend and others and said, you know, you just got to trust the justice system. And he says, that's how he's getting through this right now.But, yes, you said it, more charges are possible for this man, because let's remember, again, there are multiple people in those cars who were pulling up to his driveway, just trying to turn around and allegedly got shot at.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:25:00",
+      "speaker": "BERMAN",
+      "sentences": "I can't imagine being in the father's shoes right now and the emotions he must be feeling to be able to contain himself, as he did. Brynn Gringras, terrific reporting. Thank you so much. Kate?",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

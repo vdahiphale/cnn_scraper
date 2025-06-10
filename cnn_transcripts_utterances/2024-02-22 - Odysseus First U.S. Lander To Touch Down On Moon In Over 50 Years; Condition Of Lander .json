@@ -1,0 +1,517 @@
+{
+  "date": "2024-02-22",
+  "headline": "Anderson Cooper 360 Degrees",
+  "subHeadline": "Odysseus First U.S. Lander To Touch Down On Moon In Over 50 Years; Condition Of Lander Remains In Question; Biden Admin To Impose Sanctions On More Than 500 Targets In Response To Death Of Russian Dissident Alexei Navalny; Ex-FBI Informant Charged With Lying About The Bidens Has been Re-Arrested; Two Years After The Russian Invasion Of Ukraine, Daily Life In Kherson Grows Harder By The Day; Judge Denies Trump's Request For Delay In Finalizing $355 Million Judgement In Civil Fraud Trial; Manhattan DA Bragg Accuses Arizona Prosecutor Of Playing \"Political Games In A Murder Case\"; Two Days Ahead Of SC Primary, Local Talk Radio Airwaves Lighting Up On Who's The Best Candidate; AT&T: Outage Linked To Network Expansion, Not Cyberattack. Aired 8-9p ET",
+  "utterances": [
+    {
+      "timeStamp": "20:00:00",
+      "speaker": "JIM SCIUTTO, CNN HOST",
+      "sentences": "Tonight, a judge is rejecting former President Trump's request to delay the $355 million penalty in his New York civil fraud case. That means once the judgment is officially entered, Trump will have 30 days to appeal. During that time, however, he will need to put up cash or post bond to cover the $355 million payment and the roughly hundred million dollars in interest that he's been ordered to pay as well.New York Attorney General Letitia James threatened to seize Trump's assets, including his prized 40 Wall Street, if he does not pay up. Thanks so much for joining us tonight. AC 360 starts now.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "20:00:00",
+      "speaker": "ANDERSON COOPER, CNN ANCHOR",
+      "sentences": "Tonight on 360, more than 50 years since the last time an American lunar lander is once again on the moon's surface and about to send back pictures. How it came to be at long last and how it almost didn't.Also tonight, more breaking news as the Biden administration prepares to impose new sanctions on Russia over the death of Alexei Navalny and the former president is still not criticizing Putin. My conversation with Trump's former top Russia expert, Fiona Hill. And later, Trump wanted another month to pay that massive civil penalty for the business fraud he committed. Now the judge has ruled, the answer is no. We begin tonight with breaking news that has not happened since Richard Nixon was president. For the first time since Apollo 17, back in December of 1972, an American lunar lander has touched down on the surface of the moon. We're expecting any minute, we're told, the first images coming in from the Odysseus lander, from a spot just north of the moon's south pole. Odysseus lifted off seven days ago. It is the first privately built vehicle to make the mission. And like the Apollo 11, its descent to the lunar surface included some last minute technical difficulties to overcome. But just like Apollo 11's Eagle, Odysseus has landed. Here's what it looked and sounded like in Houston. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "20:00:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "We can confirm without a doubt that our equipment is on the surface of the moon and we are transmitting. So congratulations IM team, we'll see how much more we can get from that.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "20:00:00",
+      "speaker": "COOPER",
+      "sentences": "Joining us now is CNN Space and Defense Correspondent, Kristin Fisher.So what is mission control saying at this hour, Kristin?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "20:00:00",
+      "speaker": "KRISTIN FISHER, CNN SPACE AND DEFENSE CORRESPONDENT",
+      "sentences": "Well, so far mission control isn't saying anything beyond the fact that they have equipment on the surface of the moon and that it is transmitting signals back to the mission control in Houston, Texas.So Anderson, at the very least this is a partial success according to the company. The big question now is what condition is this lunar lander in and can it send back pictures? We're still waiting on those first images. One taken by the lander itself and then another one - there's a little camera that popped off - called the EagleCam - it popped off of the lander shortly before landing and so we should be getting images from that as well. That's what we're waiting for. But the fact that this spacecraft has even touched down on the surface of the moon and did transmit that signal is a pretty tremendous accomplishment in and of itself. The first time a private company has ever done this. The first time an American-made spacecraft has done this since 1972. And Anderson, it's the first time that any spacecraft has touched down on the south pole of the moon, a critical spot. They think that's where ice is, water. It's where NASA wants to build a lunar base for Artemis astronauts, the first astronauts to return to the moon since the Apollo program and it's where China wants to build a base as well. But Anderson, some real nail-biting moments.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "20:00:00",
+      "speaker": "COOPER",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "20:00:00",
+      "speaker": "FISHER",
+      "sentences": "The NASA administrator described it as an Apollo 13 moment with no humans on board, of course, because of some of the technical issues they had to troubleshoot.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "20:00:00",
+      "speaker": "COOPER",
+      "sentences": "Yes, what happened? I mean, up until the last second, the difficulties. FISHERThere was a problem with Intuitive Machines' LIDAR navigation system. And so it just so happened that NASA had an experimental LIDAR payload on the lander as well. They were somehow able to patch it through to the lunar lander, Odysseus. And that experimental NASA navigation system, LIDAR, is what they were able to use to get this on the surface of the moon. So pretty incredible that they were able to pull it off.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "20:00:00",
+      "speaker": "COOPER",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "20:05:01",
+      "speaker": "COOPER",
+      "sentences": "Yes, Kristin, stick around. I want to bring in CNN Aerospace Analyst, Miles O'Brien, former NASA astronaut as well, Leland Melvin.So Leland, you flew in two missions to space. I'm wondering what stands out to you about this landing?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "20:05:01",
+      "speaker": "LELAND MELVIN",
+      "sentences": "Anderson, any time that you go to space, you always find something that's not going to work. And so in my space shuttle missions, we had some things we had to kind of work on the fly, just like they did with Nova-C, where we had to switch the radar for the LIDAR in a payload that wasn't meant to be used for this.And I think this shows the American ingenuity, what you can do on the fly when you have to make something work and it's an incredible accomplishment for the for the team.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "20:05:01",
+      "speaker": "COOPER",
+      "sentences": "Yes. And Miles, I mean, we saw that two-hour period when controllers were troubleshooting the navigation system. I mean, it was - we've seen this in movies about former - about other missions in space. How difficult is it for a team on the ground to affect what's actually happening in space?MILES O'BRIEN, CNN AVIATION ANALYST: Yes, that's kind of the frustrating, challenging thing and this is why engineers get in this racket. What's interesting about a team like this is the approach is to just work the problem, just keep working the problem. Something comes up, you work it. You don't sit on your hands and wait for things to happen. You come up with alternatives. And when you think about Apollo, what are you - everybody remembers Apollo 11, the first moon landing. What's the next one they remember? Apollo 13. That was, by all intents and purposes, you could call that a failure. You could call it NASA's greatest triumph, which is what I would ascribe to, and that was because of this very fact, you had an engineering team, the best of the brightest, coping with the situation in real time. And to the extent that this vehicle is on the surface, we're going to give it a victory. Maybe it's not - we're not going to give this landing a 10 from the Romanian judge, they didn't quite stick it. But they're on the surface of the moon and we've got to give them all credit for that. Watching that team do that is exciting, I think.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "20:05:01",
+      "speaker": "COOPER",
+      "sentences": "Kristin, this laser sensor patch that Odysseus ended up using was improvised and then uplinked, can you explain, kind of for non- space experts, what exactly that means and the risk of it all?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "20:05:01",
+      "speaker": "FISHER",
+      "sentences": "Yes. So, think about what Neil Armstrong did on Apollo 11. He was able to look out the windows of the Eagle lander, and he saw that it was going to come down in a big boulder field, right? And so he was actually able to take control of the lander and move it to a safe spot.On these robotic spacecrafts, you can't do that. And so 21st century modern lunar landers are using things like cameras and sensors to figure out where to land. And so this LIDAR was using lasers to ping the laser beams off the surface of the moon to try to figure out some of the best spots, safest spots to land. And so that - we don't know what the problem was, but that was the instrument that had a problem. And like I said, Anderson, it just so happened that NASA had this other experimental LIDAR payload that was already on board the lunar lander, and they were able to use that to help figure out exactly where this spacecraft should land.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "20:05:01",
+      "speaker": "COOPER",
+      "sentences": "Leland, we know - I mean, there was NASA technology on board Odysseus. How much oversight involvement do they actually have? How does it work? How much oversight involvement do they have on private missions?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "20:05:01",
+      "speaker": "MELVIN",
+      "sentences": "Well, I think, this CLPS program where they're letting American companies build the hardware, just like what we did with SpaceX when we had the crew cargo program to the International Space Station. So they're building this low-cost hardware to take payloads and things, NASA payloads to the moon so we can usher in the Artemis program.And I think the oversight is probably, hey, let these guys build the vehicle, we'll take our payloads, but they're going to get all the technical assistance from NASA, all these years of storied knowledge of how to put things on the moon, how to have people working and living together on another surface of something. And I think, this is a gateway to getting my friend Victor Glover and Christina and the Artemis 2 crew going to the moon in the next year. So I'm really excited, Anderson, and I think this is the way we're going to be living and working one day on another planet.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "20:10:04",
+      "speaker": "COOPER",
+      "sentences": "And Kristin, as we mentioned, we're waiting for pictures, for images. If and when we get them, how are they actually going to show up? What would - I mean, are - what do they look like?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "20:10:04",
+      "speaker": "FISHER",
+      "sentences": "Well, we should be getting two different sets of images and they will come from the company Intuitive Machines and their mission control, which is in Houston, right by the Johnson Space Center. The two sets of pictures, one should come - and we should have gotten it a while ago, to be honest - one should come from the lunar lander, Odysseus itself, a camera that's mounted on the lander.And then the other one should come from what's called the EagleCam. And this was a - it's the camera essentially pops off Odysseus right before Odysseus lands so that it can get kind of a third person perspective of the landing and capture a shot of Odysseus with the moon behind it or underneath it. Anderson, I should note that the company that designed that EagleCam, they say that the EagleCam is intact and working. So it's a good sign, but we just don't have the images yet, so it's tough to really confirm that it worked, but they could come any minute (inaudible) ...",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "20:10:04",
+      "speaker": "COOPER",
+      "sentences": "And I just want to - and Kristin, just so I can - the images we're showing right now, is this like an animation?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "20:10:04",
+      "speaker": "FISHER",
+      "sentences": "Yes, this is a rendering that you're seeing here from the company Intuitive Machines. And I should just note that this is a new era of space exploration where commercial, private, in this case, publicly traded companies are leading the charge. This is not a NASA government run operation that is required to share certain information publicly.NASA is a sponsor. They have several payloads on this mission. But just like with all these SpaceX launches and missions, we are sort of at the mercy of these private companies to give us these pictures and give us this data. And I will say Intuitive Machines and the previous U.S. lunar landing attempt last month, Astrobotic, they were both very transparent. But all of us journalists following this really want some more information right now about the status of Odysseus.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "20:16:51",
+      "speaker": "COOPER",
+      "sentences": "The Biden administration is set to announce new sanctions against Russia tomorrow. Now, the Treasury Department is saying that they'll target what they call Russia, its enablers and its war machine. They follow the arrest in Russia, a Russian-American dual national, the murder of a Russian defector in Spain and, of course, the death of Alexei Navalny.Late today, we learned that Russian authorities put yet more conditions on Navalny's mother in exchange for releasing his body to her. Navalny's widow and daughter, meantime, met today in San Francisco with President Biden. According to the White House, he expressed his condolences as well as admiration for Navalny and characterized tomorrow's new sanctions as major. Gentler words than the president used at a fundraiser last night, quoting him now, \"We have a crazy S.O.B.,\" the President said, \"that guy Putin and others - and we always have to be worried about nuclear conflict. He added that the existential threat to humanity is climate. Responding today, the Kremlin spokesman said, quote, \"Clearly, Mr. Biden is demonstrating behavior in the style of a Hollywood cowboy to cater to domestic political interests,\" which is really kind of the thing anyone familiar with the Cold War will recognize, that sort of language. What is unrecognizable, however, in Cold War terms is an American presidential candidate, a Republican, no less, refusing to criticize a Russian leader. Donald Trump has still not even mentioned Vladimir Putin's name in connection with Navalny's death. Instead, he says things like this. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "20:16:51",
+      "speaker": "DONALD TRUMP, FORMER PRESIDENT OF THE UNITED STATES",
+      "sentences": "We are turning into a communist country in many ways, and if you look at it, I'm the leading candidate. I got indicted - I never heard of being indicted before. I was - I got indicted four times ...",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "20:16:51",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "(Inaudible) ...",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "20:16:51",
+      "speaker": "TRUMP",
+      "sentences": "It's a form of Navalny. It is a form of communism or fascism.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "20:16:51",
+      "speaker": "COOPER",
+      "sentences": "The other ism he fails to mention is his own, narcissism.More on these new conditions, Alexei Navalny's mom says Russian officials have set to release her son's body. CNN's Matthew Chance is in Moscow for us. So I know she put out a video message today. What did she say?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "20:20:03",
+      "speaker": "COOPER",
+      "sentences": "And what's the Kremlin's response to all of this?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "20:20:03",
+      "speaker": "CHANCE",
+      "sentences": "Well, I spoke to Dmitry Peskov, who's Vladimir Putin's spokesman, earlier tonight about this and he's not in Moscow. They're elsewhere in the country. And he said, look, I haven't even seen these comments or these allegations, so I can't comment on it. We're dealing with business that's important to Russia, he said to me, as if this isn't important to Russia.But I think it's pretty clear that the Kremlin is worried about what a funeral for Alexei Navalny, a public funeral for Alexei Navalny might mean. I mean, this is a guy who could rally 10s of thousands, if not hundreds of thousands of people on the streets of Russian towns and cities when he was alive. And the concern, I think, for the authorities who don't like dissent and have tried to crack down on it is that his funeral, a public funeral, could be a focal point for anti-government protests. And that's particularly - they're particularly sensitive about that in the - just a few weeks now before presidential elections in this country.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "20:20:03",
+      "speaker": "COOPER",
+      "sentences": "So is it clear what exactly needs to happen and when it might happen? I mean, whether Navalny's body could be released to his mom?Well, I mean, the - Navalny's mom says that basically she was threatened. They said, look, you've got to decide now what you want to do, because if you don't, then we'll do something to the body. That's the word she used. I mean, I assume they mean they'll bury the body themselves or something like that. But, look, the body is in the morgue in this Arctic region to the north of Moscow. I think everybody has agreed on one thing, which is the body is going to come back to this area, to Moscow, to be buried. And so, look, we're expecting that decision to be made very shortly. The authorities said a couple of days ago they needed two weeks to conduct medical tests, autopsies, post mortems on Navalny's corpse to find out the cause of death. But it seems that that situation has now been resolved, at least officially. And so it could be any day now that the body is handed over to the family and that funeral takes place. And it could be a private secret funeral that we won't hear about until it's actually finished. I mean, that was the situation, you'll remember last year with Yevgeny Prigozhin, when he was sort of secretly buried in the city of St. Petersburg. We didn't know about it until the funeral was already over and that could be what the authorities want to achieve this time, too.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "20:20:03",
+      "speaker": "COOPER",
+      "sentences": "Matthew Chance in Moscow. Matthew, thank you.Between imprisoning and possibly murdering Alexei Navalny, arresting another American, the killing of that Russian defector in Spain and revelations the Russian intelligence may again be meddling in American politics in the Biden impeachment inquiry certainly feels like a lot. To add to that this new war of words, new sanctions tomorrow and, of course, the war in Ukraine. And it's hard not to wonder how much more strain the U.S.-Russia relationship can get. So with all of that as the backdrop, we want to get perspective tonight from Fiona Hill. She's a senior fellow at the Brookings Institution, the former senior director for Europe and Russia at the National Security Council. (BEGIN VIDEO CLIP) COOPER: So do you think the U.S.'s new sanctions on Russia, which, as we mentioned, are expected to be announced tomorrow, I mean, will have much of an impact?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "20:20:03",
+      "speaker": "FIONA HILL, BROOKINGS INSTITUTION SENIOR FELLOW, FOREIGN POLICY",
+      "sentences": "Well, they won't have much of an impact in the short-to-medium term, most likely. I mean, there's obviously quite a lot of symbolism associated with these, especially as they're being applied after the death of Alexei Navalny. But over the longer term, sanctions are having an impact on the Russian economy. They're also having an impact on Russia's ability to rearm itself. It's just that we don't always see the results right away.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "20:20:03",
+      "speaker": "COOPER",
+      "sentences": "Are you surprised - I mean, given your knowledge of the former president, are you surprised at all that he has not condemned Vladimir Putin for Alexei Navalny's death and, in fact, has compared his own legal problems to what Navalny endured?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "20:20:03",
+      "speaker": "HILL",
+      "sentences": "Well, I am a little bit surprised that he went so far as to compare himself to Alexei Navalny. I mean, that's pretty brazen, to be frank. But I'm not ...",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "20:20:03",
+      "speaker": "COOPER",
+      "sentences": "Well, he compared himself to Mandela in the past, so it seems sort of ...",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "20:20:03",
+      "speaker": "HILL",
+      "sentences": "Well, yes, I suppose that if you put it into that comparison, this is already a pattern here. In terms of the fact that he hasn't criticized Putin, I'm not surprised at all. I mean, for former President Trump, Putin is, to him, the epitome of the strongman. He's the kind of person that he likes to style himself on. So there's no way that he would criticize him for anything. So that's just really par for the course there.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "20:20:03",
+      "speaker": "COOPER",
+      "sentences": "Navalny's mother has talked about pressure that she says she's receiving from Russian authorities in regards to release of her son's body and his burial. Do you - can you foresee the Kremlin actually giving her the body, allowing for her to have a public funeral for her son?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "20:25:01",
+      "speaker": "COOPER",
+      "sentences": "We've been reporting on this former FBI informant who, according to federal prosecutors, falsely accused the Biden family of illicit business dealings involving Ukraine, now telling investigators that some of the lies were passed to him by Russian intelligence. We don't know if that's true or if that's also a lie, as well. I'm wondering what you make of that development.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "20:25:01",
+      "speaker": "HILL",
+      "sentences": "Well, look, we've been played by Russian intelligence throughout our electoral campaigns, going back definitely to 2016. We've got plenty of evidence of this. This is hardly a surprise. I myself, when I was asked to testify in the first impeachment trial of President Trump, pointed out that so much of the information that was circulating around was either being amplified or being put out there in the first instance by Russian intelligence and was part of a Russian pressure and influence operation, so that's hardly a surprise there.But again, we're in that kind of environment where it's very difficult for us to discern truth from lies, and Putin and the people around him like it that way. So we shouldn't also be surprised if this in and of itself is meant to muddy the waters even further.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "20:25:01",
+      "speaker": "COOPER",
+      "sentences": "The indication was that he had information that - which might even impact the 2024 election that he was trying to spread. How concerned are you about interference by Russia in this upcoming election?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "20:25:01",
+      "speaker": "HILL",
+      "sentences": "Well, look, I'll be frank, Anderson, that we're our own worst enemies here. We've got plenty of misinformation circulating around from American political operatives.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "20:25:01",
+      "speaker": "COOPER",
+      "sentences": "It's true.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "20:25:01",
+      "speaker": "HILL",
+      "sentences": "So there's not really that much that the Russians have to do. But what is useful for them is our discord, is the rancor, is the whole back and forth among our own politicians. And all they can do is amplify that. So we're already in that kind of environment where Russia has been stirring the pot and they don't really have to do very much to get a reaction from us.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "20:25:01",
+      "speaker": "COOPER",
+      "sentences": "I still am stunned by what the former president said about welcoming the invasion of NATO countries that, in his opinion, haven't fully paid their bills to NATO. I mean, it got something of an uproar, although it's sort of something we come to expect from the former president. How damaging do you think that is? The counter argument as well, he's saying that to try to force NATO countries to spend more. But it certainly sends a message to Vladimir Putin, doesn't it?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "20:25:01",
+      "speaker": "HILL",
+      "sentences": "It does send a message to Putin. I mean, basically what the president has done is undercut the value of Article 5, because when you think about a mutual defense pact, you're supposed to be protecting those who may be weaker in that alliance, the countries that, even if they are spending 2 percent of their defense, obviously that their defensive capacity doesn't match up to the stronger members of the alliance. That's what an alliance is supposed to be about.And frankly, President Trump has been threatening the integrity of Article 5 going right back to the beginning of his presidency, where he didn't actually want to invoke that commitment in his very first address at the NATO headquarters. COOPER: Yes. Fiona Hill, thanks so much.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "20:25:01",
+      "speaker": "HILL",
+      "sentences": "Thank you, Anderson.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "20:32:12",
+      "speaker": "COOPER",
+      "sentences": "By the end of this week, it'll be two years since Russia invaded Ukraine. While Republicans in the House make it impossible for Congress to approve funds for the defense of the country, Russia is making advances. And we want to show you what it's like on the ground in a city on the front lines plagued by constant shelling every day.CNN's Nick Payton Walsh is there. (BEGIN VIDEOTAPE) NICK PATON WALSH, CNN CHIEF INTERNATIONAL SECURITY CORRESPONDENT (voice-over): It's night when it's loudest. Kherson has seen every stage of the war's two years invasion, occupation and liberation. Yet day is when the damage is clearest.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "20:32:12",
+      "speaker": "PATON WALSH",
+      "sentences": "Well, the Russians may be now on the other side of the river, but you can see the force of the explosions that hit here just by these tree branches thrown up here on top of a roof. And it feels kind of like a remote occupation through Russian drone strikes, artillery attacks as well. So many of the buildings around here, devastated.PATON WALSH (voice-over): But Russian positions are visible across the water. And on this side, freshly dug trenches show how worried Ukraine is still. Across the river, Ukraine sent troops months ago, their hopes of a lightning dash to Crimea stuck in this rubble. And this week, Russia raised their flag over the tiny Ukrainian foothold of Krynky. Kyiv denied they'd taken it and said drone footage showed the Russians fleeing. Yet just meters from the Ruhr, a thousand of daily silent stories of survival in a city Russia cannot own, only crush with seemingly inexhaustible shelling. At 4:00 a.m., we were woken by three shells. They landed 100 meters away.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "20:35:04",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "(Speaking Foreign Language)UNIDENTIFIED FEMALE (through translator): Welcome. My eyes hurt. But my deepest desire -- I don't want anything, anything but the bright sun. PATON WALSH (voice-over): The old radio brings bad news of Russia assaulting Krynky. UNIDENTIFIED FEMALE (through translator): Those bastards, they jumped on us. UNIDENTIFIED FEMALE (through translator): They already took Krynky. UNIDENTIFIED FEMALE (through translator): No they didn't. I just heard that they didn't. It's hard, there was a fight there today. UNIDENTIFIED FEMALE (through translator): We will not push them back. Why? They will push them back, why not? PATON WALSH (voice-over): The wall in every home, the normal, the boring still targets today and tomorrow. (END VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "20:35:04",
+      "speaker": "COOPER",
+      "sentences": "Nick, I mean, just the resilience of people getting through each day, it's, I mean, it's remarkable and heartbreaking. Do any of the people you talked to there, many of them elderly, do they have any plans to leave Kherson?PATON WALSH (on-camera): No, and that's what's so utterly staggering, Anderson, is obviously in some cases they are simply stuck here. The man whose house you saw blown up by what seemed to be a mortar strike essentially is a pensioner. He has nothing to fund a departure or can dream of starting a new life somewhere else. I'm standing in a building where two years ago, almost to the day, we learned of the Russian invasion across the bridge over there, and the people who run this building, they've barely left. Remember, it's not just the invasion, the occupation, the liberation, there were intense floods that ran through Kherson, too, in the height of summer, after a dam upstream in the river burst. So much damage done to this city. And I think what's remarkable standing here to think about over these two years is quite what the Russian goal is. They're really thinning out the population here through this persistent shelling. I mean, it's remarkable just how nonstop the blasts really are. It is essentially a war zone, a city that was huge, vibrant and bustling two years ago. Really reduced to a ghost at this point. You've got to wonder what Putin's end goal is. To occupy areas with nobody left in them, without basic services, without any of the real buildings standing here. They celebrated replacing the 10th, 1000th window here in the last few weeks or so, some repair workers told me. It is literally barely a piece of glass remaining. And from a basic civilian level, that's the spoils of Putin's war, it seems, even if he did manage to get back into Kherson. So much damage done to so many of these cities and towns across Ukraine because of this invasion of choice by the Kremlin. Anderson?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "20:42:26",
+      "speaker": "COOPER",
+      "sentences": "Tonight, new developments in the former president's New York civil fraud case. Trump requested a delay in paying the $355 million penalty, and now a judge has said no.CNN's Kara Scannell joins us now with the latest. What was the reasoning the judge gave?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "20:42:26",
+      "speaker": "KARA SCANNELL, CNN CORRESPONDENT",
+      "sentences": "So, Trump had asked for this delay because of the magnitude, this $355 million judgment. And the judge said that he did not provide, as he put it, he didn't -- he failed to explain, much less justify any basis for delay.And this is because the New York Attorney General's office had written up a proposed judgment and they were saying they wanted some time to look at it. The judge is saying this matches my order exactly, so we're going to move forward. So he indicated to the parties in an email that he was going to now finalize this judgment because, you know, as we know, the ruling came down Friday, but it doesn't really become official until it's entered into the docket. So the judge noted on the docket that he was doing that, but it still has to get processed by a clerk. And once it is finally entered, which could be as soon as tomorrow or might take a couple days, then this will become official.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "20:42:26",
+      "speaker": "COOPER",
+      "sentences": "So the clock starts ticking once it's finalized?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "20:42:26",
+      "speaker": "SCANNELL",
+      "sentences": "That's right. So from whenever it is finalized, Trump will have 30 days to appeal and 30 days to post-$355 million plus $100 million in interest. So a lot of money. He'll have to put that together either by posting the cash himself or getting a bond that can be backed by collateral, some of his properties.But he'll have, you know, about 30 days and that includes the weekends. So if you kind of can guesstimate if this judgment does become final soon, that means he could have to foot this bill right when he's about to go to trial on the criminal hush money charges.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "20:42:26",
+      "speaker": "COOPER",
+      "sentences": "Wow. All right, Kara Scannell, thanks so much.More legal battles now. Manhattan District Attorney Alvin Bragg, who's a Democrat, is hitting back at a Republican Arizona prosecutor after she refused to extradite a suspect in a New York City murder case. The suspect is accused of murdering a woman in a SoHo hotel room earlier this month. He was arrested in Arizona this week on suspicion of stabbing two women in the state. The Maricopa County attorney cited Bragg's handling of other violent criminals as her reason not to send the suspect back to New York. CNN's Brynn Gingras has details. (BEGIN VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "20:42:26",
+      "speaker": "ALVIN BRAGG, MANHATTAN DISTRICT ATTORNEY",
+      "sentences": "It is deeply disturbing to me that a member of my profession, a member of law enforcement, would choose to play political games in a murder case.BRYNN GINGRAS, CNN NATIONAL CORRESPONDENT (voice-over): Manhattan District Attorney Alvin Bragg, not mincing words responding to this overt dig from Maricopa County, Arizona Attorney Rachel Mitchell.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "20:45:15",
+      "speaker": "MITCHELL",
+      "sentences": "We will not be agreeing to extradition.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "20:45:15",
+      "speaker": "BRAGG",
+      "sentences": "I've been doing this now for 20 years. I have never seen anything like it, let alone in a murder investigation.GINGRAS (voice-over): After bludgeoning 38-year-old Denise Oleas- Arancibia, a bloody iron found next to her body, Almansoori seen on surveillance video wearing the victim's leggings. The NYPD says he hopped a plane to Arizona where he allegedly stabbed two women in two days before being arrested and confessing to the New York murder.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "20:45:15",
+      "speaker": "JOE KENNY, NYPD CHIEF OF DETECTIVES",
+      "sentences": "While in the custody of Arizona law enforcement, he informs them that he is wanted for homicide in New York City and tells the cops that they should Google SoHo 54 Hotel.GINGRAS (voice-over): Despite Mitchell having the right to keep Almaansoori in her jurisdiction, it's the way she made the call Bragg takes issue with.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "20:45:15",
+      "speaker": "BRAGG",
+      "sentences": "Plain and simple, old-fashioned grandstanding, and politics.GINGRAS (voice-over): Bragg, a Democrat consistently taking hate from conservatives.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "20:45:15",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Let's talk about Alvin Bragg. He's a woke, progressive district attorney.GINGRAS (voice-over): -- who accused him of being soft on crime in the country's biggest city and the attacks gaining traction as his office is gearing up to take former President Donald Trump to criminal court next month on charges of falsifying business records in the hush money case.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "20:45:15",
+      "speaker": "BRAGG",
+      "sentences": "These are felony crimes in New York State, no matter who you are. We cannot and will not normalize serious criminal conduct.GINGRAS (voice-over): Mitchell is a lifelong Republican. In 2018, she helped Trump get his Supreme Court nominee, Brett Kavanaugh, across the finish line with a hardline questioning of Christine Blasey Ford, who had accused Kavanaugh of sexual assault.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "20:45:15",
+      "speaker": "MITCHELL",
+      "sentences": "How were you able to narrow down the time frame?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "20:45:15",
+      "speaker": "CHRISTINE BLASEY FORD, PROFESSOR OF PSYCHOLOGY, PALO ALTO UNIVERSITY",
+      "sentences": "I can't give the exact date.GINGRAS (voice-over): Another cross country political standoff not over yet.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "20:45:15",
+      "speaker": "MITCHELL",
+      "sentences": "We're saying we're going first.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "20:45:15",
+      "speaker": "BRAGG",
+      "sentences": "County D.A. Mitchell has, I don't know how else to say it, just got it wrong at every single turn.(END VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "20:45:15",
+      "speaker": "COOPER",
+      "sentences": "And, I mean, what options does Bragg have here?GINGRAS (on-camera): Yes, so this murder suspect Almansoori has to go in front of a judge in Arizona for an extradition hearing. Of course there, he can either consent to come back here to New York or he could stay there. More than likely, he's going to stay there. So Bragg said he's really not going to back down here. He's going to put together an extradition package, which would then go to New York's governor Kathy Hochul. And I reached out to her to see how she's going to get involved in this. If she's going to get involved in this, no answer back. But again, clear neither side here is backing down.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "20:45:15",
+      "speaker": "COOPER",
+      "sentences": "All right. Brynn Gingras, thanks so much.GINGRAS (on-camera): All right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "20:51:45",
+      "speaker": "COOPER",
+      "sentences": "Two days until the South Carolina primary, and polls suggest the former president is headed to a massive win over Nikki Haley. But despite the long odds for an upset, the race is still a hot, sometimes contentious, topic of local talk radio. Randi Kaye has more.(BEGIN VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "20:51:45",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "We are talking nothing but politics today, particularly the Republican primary on Saturday.RANDI KAYE, CNN NATIONAL CORRESPONDENT (voice-over): Just days away from the South Carolina Republican primary, and the phone lines on The Point Radio in Columbia are lighting up.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "20:51:45",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "You all have got to watch Nikki Haley. She's nothing but a Trojan horse for the Democratic Party. She is bought and sold by the Democrats. She will -- she's going to be the equivalent of Joe Biden in office.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "20:51:45",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "Nikki Haley will be who I will be voting for tomorrow. She's got that foreign policy down pat. She already has some contacts, and hopefully it would be a change of pace.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "20:51:45",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Vote for Donald Trump and the main reason is the border. The border is an absolute mess.KAYE (voice-over): Nikki Haley got high marks from most callers for her job as governor of this state.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "20:51:45",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "As far as Nikki, if you really drill down, I -- you know, me, with all the state house politics, she did a lot. That E- Verify that she pushed through? You know, that's real stuff.KAYE (voice-over): Some callers praise Donald Trump.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "20:51:45",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "I'll be voting for Trump. The biggest issue, by far, is over 8 to 10 million illegal aliens sucking up billions of dollars in benefits that should be going to American citizens, not to illegal aliens.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "20:51:45",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "You are Trump, no matter what, you can stomach the guy, his bombastic, narcissistic self, you're OK with the guy.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "20:51:45",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Yes. To me, I want a good president. I don't care about the other stuff, that's lost on me. I want someone who's going to be strong on foreign policy, strong for economy, strong for this country. And I believe that's Donald Trump.KAYE (voice-over): Others sounded tired of his antics.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "20:51:45",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "The biggest problem, he just can't close his mouth. He just can't hush and let it go. You know, and Nikki, she's not perfect, but us younger folks out there, you know, we need to start doing something a little different.KAYE (voice-over): One Trump supporter called in to suggest certain people won't vote for Haley because she called for the removal of the Confederate flag from South Carolina's state Capitol following the shooting death of nine African Americans at Mother Emanuel AME Church in 2015.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "20:51:45",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "I don't think that the Confederate-flag-gun- totin-pick-up-truck-bubbles are going to vote for because people haven't forgiven her for taking the flag down.KAYE (voice-over): Other callers said they hope Haley stays in the race just in case.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "20:51:45",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Do you think she has a chance this weekend?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "20:51:45",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Very little --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "20:51:45",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "20:55:11",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "I'm registered Democrat and I'm like the previous caller. I am voting for Nikki.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "20:55:11",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "When the general comes around, if it's Nikki versus Biden, will you vote Nikki again?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "20:55:11",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "You know, then it's going to be close.(END VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "20:55:11",
+      "speaker": "COOPER",
+      "sentences": "Randi joins us now. Did a lot of the callers say how they would vote in the general?KAYE (on-camera): They did, Anderson, and that's where it got interesting, because the Democrats who were supporting Haley in the primary said that if she is the Republican nominee, they would be really torn about supporting her versus Joe Biden. These are Democrats, they said, that they would have a really tough decision to make. Now, on the flip side of that, you had one Republican man who was also supporting Haley, and he was asked if it is not Haley and it's Trump- Biden, he said he would support Biden, and that really shocked the radio host. That's a Republican man supporting Biden. But now, of course, Trump did have plenty of support among the callers, although one person did say he would write in somebody if Trump was the Republican nominee. But one of the issues that really came up a lot, Anderson, was age. Many of these callers had a real problem and a lot of angst about the age of both Donald Trump and Joe Biden. And many of the Haley supporters said they would like to see a fresh face in the White House, Anderson.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "20:55:11",
+      "speaker": "COOPER",
+      "sentences": "All right, Randi Kaye, thanks so much.Coming up, more breaking news and AT&amp;T moments ago issued a statement on what caused that massive cellular outage for its customers. We have details next. (COMMERCIAL BREAK)",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

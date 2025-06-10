@@ -1,0 +1,997 @@
+{
+  "date": "2023-08-05",
+  "headline": "The Whole Story with Anderson Cooper",
+  "subHeadline": "What Happened To Georgia? Aired 10-11p ET",
+  "utterances": [
+    {
+      "timeStamp": "22:00:32",
+      "speaker": "ANDERSON COOPER, CNN ANCHOR",
+      "sentences": "Welcome to THE WHOLE STORY. I'm Anderson Cooper.Former President Donald Trump has now been criminally indicted three times with the most recent federal indictment last week from Special Counsel Jack Smith. A part of his wide ranging investigation looked into the efforts by the former president and his allies to subvert election results in seven states after President Biden won in 2020. One of those states is Georgia, which President Biden flipped blue for a win in 2020. President Trump refused to accept the result and he and his allies engaged in a number of plots to overturn Biden's win. Some of these actions were so aggressive, they drew the attention of the Fulton County District Attorney who launched her own criminal probe in 2021. Now, a grand jury has been convened, and the former president could face even more indictments in the weeks to come. So, what exactly did Trump and his allies do in Georgia and what charges might they face? Over the next hour, CNN's Sara Murray will lay out the entire investigation and piece together what we know about the pressure campaigns, Trump's private calls to election officials, a major data breach and the plots and subvert the Electoral College process.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:00:32",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Breaking news into CNN, this hour prosecutors in Georgia have opened a criminal investigation.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:00:32",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "Criminal investigation into former President Trump, why, because of his January phone call to the Georgia Secretary of State.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:00:32",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Focus on the floor, president's attempts to influence the administration of the 2020 Georgia general election.GEOFF DUNCAN, (R) FORMER GEORGIA LT. GOVERNOR: Donald Trump got beat by Joe Biden, handily.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:00:32",
+      "speaker": "DONALD TRUMP, FORMER PRESIDENT OF THE UNITED STATES",
+      "sentences": "There's no way we lost Georgia. That was a rigged election.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:00:32",
+      "speaker": "DUNCAN",
+      "sentences": "He went on a warpath like a scolded child to do anything he possibly could overturn that election. TRUMP",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:00:32",
+      "speaker": "DUNCAN",
+      "sentences": "I underestimated his willingness to push the envelope as far as he did to just bold faced lie again and again and again.SARA MURRAY, CNN POLITICAL CORRESPONDENT (voice-over): Three months after the election, the District Attorney in Fulton County, Georgia, Fani Willis officially opened an investigation into former President Donald Trump's efforts to overturn the state's presidential election results.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:00:32",
+      "speaker": "FANI WILLIS, DISTRICT ATTORNEY, FULTON COUNTY",
+      "sentences": "This is a criminal investigation. We're not here playing a game. I plan to use the power of the law because I sit here in this jurisdiction is my responsibility.TAMAR HALLERMAN, SENIOR REPORTER ATLANTA JOURNAL-CONSTITUTION: Fani Willis is known as a prosecutors prosecutor.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:00:32",
+      "speaker": "WILLIS",
+      "sentences": "I am Fani Willis.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:00:32",
+      "speaker": "HALLERMAN",
+      "sentences": "She's known as a tough cookie, who's a real prepare as she likes to say I don't like to try things skinny. I don't like to be in a courtroom unprepared.MURRAY (voice-over): It's in that vein that Willis requested a special purpose grand jury to assist in her investigation.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:00:32",
+      "speaker": "ROBERT JAMES, ATTORNEY",
+      "sentences": "Special purpose grand juries are very, very, very rare in Georgia.MURRAY (voice-over): Robert James is one of the few district attorneys who has overseen a special purpose grand jury in Georgia.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:00:32",
+      "speaker": "JAMES",
+      "sentences": "Their own powers are much broader than a regular grand juries.MURRAY (voice-over): Well, a special purpose grand jury doesn't issue indictments, it can be a useful tool for a prosecutor. MICHAEL MOORE, FORMER U.S. ATTORNEY: The DA wanted it because she wanted to use the powers to subpoena people, to get evidence, documentary evidence that she wouldn't otherwise have access to. Special purpose grand jury would give her more information about specific details of the allegation that she was investigating. MURRAY (voice-over): A special purpose grand jury was impaneled in May 2022. And after nearly seven months and 75 witnesses, they authored a report in December 2022 recommending indictments. This sprawling case has involved some of the biggest names in the Trump orbit, as well as some local and state level politicians, many of which you may have never even heard of. And this entire investigation stems back to a single phone call.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:00:32",
+      "speaker": "MARK MEADOWS, FORMER CHIEF OF STAFF",
+      "sentences": "OK. All right. So, Mr. President, everybody is on the line and just so this is Mark Meadows, the chief of staff just so we all are aware.MURRAY (voice-over): To this day, Trump --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:00:32",
+      "speaker": "TRUMP",
+      "sentences": "Many people --MURRAY (voice-over): -- says he did nothing wrong.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:00:32",
+      "speaker": "TRUMP",
+      "sentences": "Lawyers, nobody found anything wrong with that perfect call.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:00:32",
+      "speaker": "HALLERMAN",
+      "sentences": "It all started on Fani Willis's first full day in the office after she was sworn in as Fulton County's first female district attorney.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:00:32",
+      "speaker": "WILLIS",
+      "sentences": "So help me God.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:00:32",
+      "speaker": "HALLERMAN",
+      "sentences": "Morning of January 4, she walks in and sets her stuff on her desk and immediately takes note of the story that's dominating cable news coverage that day.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:00:32",
+      "speaker": "FREDRICKA WHITFIELD, CNN ANCHOR",
+      "sentences": "A major breaking news this hour.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:05:01",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "The president heard pressuring Georgia's secretary of state to overturn his defeat there.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:05:01",
+      "speaker": "HALLERMAN",
+      "sentences": "They're all airing snippets of this extraordinary leaked phone conversation between then President Donald Trump and Brad Raffensperger.MURRAY (voice-over): Brad Raffensperger is the secretary of state in Georgia, and one of the few Republicans who publicly stood up against Trump's conspiracy theories and claims of election fraud after losing the 2020 presidential election.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:05:01",
+      "speaker": "TRUMP",
+      "sentences": "OK, thank you very much. Hello Brad and Ryan and everybody. We appreciate the time and the call.MURRAY (voice-over): Trump was joined by a number of advisers, including Chief of Staff Mark Meadows, and conservative attorney Cleta Mitchell.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:05:01",
+      "speaker": "TRUMP",
+      "sentences": "And we could just go over some of the numbers, I think it's pretty clear that we won. We weren't very substantially in Georgia.MURRAY (voice-over): At the time of the election, Gabriel Sterling was the voting systems implementation manager. (on camera): When did you learn that that call was taking place?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:05:01",
+      "speaker": "GABRIEL STERLING, ELECTION OFFICIAL",
+      "sentences": "About 60 seconds before the call took place.MURRAY (on camera): And what was your thought when you learned that he was about to hop on the phone with the president at the time?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:05:01",
+      "speaker": "STERLING",
+      "sentences": "I was kind of irritated. I wasn't in the call. And then I heard the call the next day, I'm like, I'm so thankful I was not on that call. It was an hour of which 55 minutes the president spoke. And it was a, you know, greatest hits of all the stuff that we had been debunking for two months.Giving any oxygen to this continued, disinformation, is leading to a continuing erosion of people's belief in our elections. MURRAY (voice-over): Trump appeared to threaten the secretary of state,",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:05:01",
+      "speaker": "TRUMP",
+      "sentences": "You know what they did and you're not reporting it? That's a -- and you know, that's a criminal -- that's a criminal offense. And you know, you can't let that happen. That's a big risk to you.MURRAY (voice-over): And then there's this.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:05:01",
+      "speaker": "TRUMP",
+      "sentences": "I just want to find 11,780 votes, which is one more that we have. Because we want to say --MURRAY (voice-over): Eleven thousand 780, the exact number of votes Trump needed to win Georgia. (on camera): How are you taking this in?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:05:01",
+      "speaker": "BRAD RAFFENSPERGER, FORMER GEORGIA SECRETARY OF STATE",
+      "sentences": "Well, I realized there weren't the votes to find. We had checked out all the allegations, so we knew that we had the right results.MURRAY (voice-over): Raffensperger refuse to budge.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:05:01",
+      "speaker": "RAFFENDPERGER",
+      "sentences": "Well, Mr. President, the challenge that you have is, the data you have is wrong.MURRAY (voice-over): By this point, Raffensperger had overseen three separate ballot counts, conducted many other reviews of the process and investigated more than 250 claims of voter fraud. The fact remained, Trump had lost the state of Georgia.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:05:01",
+      "speaker": "RAFFENSPERGER",
+      "sentences": "All I knew is we had to, you know, lean into the law and into the facts. And we had both on our side.MURRAY (voice-over): Raffensperger also received a call from Republican Senator Lindsey Graham, the Secretary of State left the call believing Graham implied he should try to throw out ballots. Graham denies that claim.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:05:01",
+      "speaker": "RAFFENSPERGER",
+      "sentences": "Well, I asked if the ballots can be matched back to the voters, and then I got the sense it implied that, then you can throw those out.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:05:01",
+      "speaker": "HALLERMAN",
+      "sentences": "Then President Donald Trump made phone calls to a handful of elected officials in Georgia in the aftermath of the 2020 elections. He called Frances Watson who was then an investigator in the secretary of state's office.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:05:01",
+      "speaker": "TRUMP",
+      "sentences": "The people of Georgia are so angry at what happened to me. They know I won. I won by 100s of 1000s of votes. It wasn't close. Whatever you could do Frances, it would be a -- it's a great thing, it's an important thing for the country.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:05:01",
+      "speaker": "HALLERMAN",
+      "sentences": "The former president called Attorney General Chris Carr in December 2020 asking him basically not to get involved as Texas was fighting Georgia's election results at the Supreme Court.MURRAY (voice-over): Trump also made phone calls to officials requesting a special session of the legislature so Georgia legislators could appoint their own electors, instead of the ones for Biden, the voters had selected. He called the former speaker of the Georgia House of Representatives.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:05:01",
+      "speaker": "HALLERMAN",
+      "sentences": "David Ralston, a Republican.MURRAY (voice-over): And the governor.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:05:01",
+      "speaker": "HALLERMAN",
+      "sentences": "He made at least two phone calls to Governor Kemp.MURRAY (voice-over): Both refused to call for a special legislative session.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:05:01",
+      "speaker": "DUNCAN",
+      "sentences": "There was a very orchestrated, calculated process going on around us in Georgia trying to get us to change our minds and put pressure on us.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:05:01",
+      "speaker": "TRUMP",
+      "sentences": "So far, we haven't been able to find the people with the courage to do the right thing.MURRAY (voice-over): This is Trump, just hours after Governor Brian Kemp declined his request.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:05:01",
+      "speaker": "TRUMP",
+      "sentences": "Your governor could stop that very easily if he knew what the hell he was doing. Could stop it very easily.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:10:04",
+      "speaker": "RUDY GIULIANI, FORMER DONALD TRUMP ATTORNEY",
+      "sentences": "Dead people fell and --MURRAY (voice-over): Rudy Giuliani hijacks the Georgia legislature.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:10:04",
+      "speaker": "GIULIANI",
+      "sentences": "Phony mail in ballots.MURRAY (on camera): So, he lied?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:10:04",
+      "speaker": "STERLING",
+      "sentences": "Yes.(COMMERCIAL BREAK) MURRAY (voice-over): For Jen Jordan, December 3, 2020 began as she expected. The then Georgia Democratic State Senator made her way downtown to the Capitol for a meeting. JEN JORDAN. FORMER MEMBER OF THE GEORGIA STATE SENATE: It was a government oversight meeting to talk about what happened in the elections and the issues. And it ended up being a pretty straightforward committee hearing.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:10:04",
+      "speaker": "RYAN GERMANY, FORMER GENERAL COUNSEL, GEORGIA SECRETARY OF STATE OFFICE",
+      "sentences": "We have not seen anything that would suggest widespread fraud or widespread problems.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:10:04",
+      "speaker": "JORDAN",
+      "sentences": "here I am thinking OK, great. We've answered some of these conspiracies, we've dealt with the issues. It felt like an adult committee hearing. So I went to my office and then I almost immediately get a text. Somebody was like, you've got to get over to the Capitol, something's going on.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:10:04",
+      "speaker": "WILLIAM LIGON, FORMER MEMBER OF THE GEORGIA STATE SENATE",
+      "sentences": "Call the subcommittee of the judiciary to order.MURRAY (voice-over): Unbeknownst to Jordan, her Republican colleague, then State Senator William Ligon convened another separate special committee to look into questions of election fraud.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:10:04",
+      "speaker": "LIGON",
+      "sentences": "These complaints deserve full investigation.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:10:04",
+      "speaker": "HALLERMAN",
+      "sentences": "And his committee ended up playing host to Rudy Giuliani and many of these election deniers related to the Trump campaign.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:10:04",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "God bless you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:10:04",
+      "speaker": "GIULIANI",
+      "sentences": "God bless you too.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:10:04",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Don't give up.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:10:04",
+      "speaker": "GIULIANI",
+      "sentences": "Oh, I'm not going to give up.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:10:04",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Never, ever give up.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:10:04",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "We love you, Rudy.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:10:04",
+      "speaker": "GIULIANI",
+      "sentences": "Distinguished members of the committee, thank you very much for giving us this hearing. I represent President Trump along with Jenna Ellis.MURRAY (voice-over): Rudy Giuliani wasn't the only surprise appearance.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:10:04",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Mr. Mayor -- JORDANEpoch Times, Newsmax, OAN, all of these various news outlets that had a very particular view in terms of how they were covering the election post November. And it was incredibly troubling. MURRAY (on camera): Do you remember having any other kind of committee proceeding where all of a sudden Newsmax and OAN are there?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:15:02",
+      "speaker": "JORDAN",
+      "sentences": "It wasn't me. It wasn't voters or just the random person. They were Trump supporters who needed to be fed this conspiracy and be shown that there was evidence.MURRAY (voice-over): As the lieutenant governor at the time, Geoff Duncan, served as the president of the Georgia Senate.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:15:02",
+      "speaker": "DUNCAN",
+      "sentences": "Those weren't official meetings. I didn't sanction those. Those were just something that had the formality of feeling like official meetings.They wanted a special session because that added one layer of authenticity to their conspiracy theories. MURRAY (voice-over): Perhaps the most egregious allegations came in the form of a video. The Trump team presented what they claimed was evidence of fraud from election night ballot tabulating at the State Farm Arena in downtown Atlanta. It purported to show a number of nefarious moments, including sending election observer's home to secretly count ballots.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:15:02",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "Four people stay behind and continue counting and tabulating well into the night.MURRAY (voice-over): They claimed election workers were pulling out suitcases of hidden ballots after others were sent home.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:15:02",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "Once everyone is gone, coast is clear, they are going to pull ballots out from underneath a table.MURRAY (voice-over): And scanning ballots multiple times.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:15:02",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "How many ballots went through those machines in those two hours when there was no one there to supervise? We believe that can easily be and probably is certainly beyond the margin of victory.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:15:02",
+      "speaker": "JORDA",
+      "sentences": "The story she told was just chilling, in terms of look at what they're doing, video doesn't lie.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:15:02",
+      "speaker": "GIULIANI",
+      "sentences": "And when you look at what you saw on the video, which to me was a smoking gun.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:15:02",
+      "speaker": "JORDAN",
+      "sentences": "The problem was is that the video had been selectively edited.MURRAY (on camera): What did you make when you saw when he was showing his video of what happened at State Farm Arena?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:15:02",
+      "speaker": "STERLING",
+      "sentences": "We found their magical suitcase full of ballots. When I'm looking at him like that's a ballot carrier. Those are sealed ballot carriers, which is a normal thing you'd have elections. But they sliced that thing down to this one little narrow thing. They intentionally misled the state Senate in order to keep pushing this narrative and try to get the election thrown out.MURRAY (on camera): So he lied?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:15:02",
+      "speaker": "STERLING",
+      "sentences": "Yes. I mean, they never backed off from it.MURRAY (voice-over): The FBI and the Department of Justice also got involved in chasing the allegation. Both came to the same conclusion as the secretary of state's office.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:15:02",
+      "speaker": "BILL BARR, FORMER ATTORNEY GENERAL",
+      "sentences": "My opinion then and my opinion now is that the election was not stolen by fraud.MURRAY (voice-over): There was no illegal activity by the election workers.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:15:02",
+      "speaker": "JORDAN",
+      "sentences": "There has to be a villain or the enemy. And in this hearing in particular, the villain really was the election workers in Fulton County.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:15:02",
+      "speaker": "GIULIANI",
+      "sentences": "There's more than ample evidence to conclude that this election was a sham.MURRAY (voice-over): Once that video was made public and misrepresented as evidence of fraud, two of the women counting ballots, Ruby Freeman and her daughter Shaye Moss were doxed. Their faces, names addresses, phone numbers, shared online. A motley crew emerged phoning Freeman and showing up at her home. Steve Lee, a pastor from suburban Chicago, parked outside Freeman's house until she dialed 911.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:15:02",
+      "speaker": "STEVE LEE, PASTOR",
+      "sentences": "Yes. My name is Steve Lee.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:15:02",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:15:02",
+      "speaker": "LEE",
+      "sentences": "And I'm a pastor and I'm also working with some folks who are trying to help Ruby out.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:15:02",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "OK.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:15:02",
+      "speaker": "LEE",
+      "sentences": "OK. And also gets some truth on what's going on. It would be nice if I could talk to her.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:15:02",
+      "speaker": "RUBY FREEMAN, FORMER FOULTON COUNTY ELECTION WORKER",
+      "sentences": "I don't trust nobody.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:15:02",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "OK, so you don't want to talk to him?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:15:02",
+      "speaker": "LEE",
+      "sentences": "No.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:15:02",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "No? OK.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:15:02",
+      "speaker": "FREEMAN",
+      "sentences": "Yes, I'm not interested. I have a pastor.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:15:02",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "OK. Yes, ma'am.MURRAY (voice-over): Almost three weeks later, Trevian Kutti, a publicist, who had previously done work for R. Kelly and Kanye West, also showed up in Georgia. Freeman agreed to talk to Kutti at a police precinct. According to court documents, Kutti allegedly pressured Freeman.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:15:02",
+      "speaker": "TREVIAN KUTTI, PUBLICIST",
+      "sentences": "We have probably 48 hours in which to move you.MURRAY (voice-over): Offering her protection if she would confess to engaging in election fraud, even though Freeman had done nothing wrong.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:15:02",
+      "speaker": "KUTTI",
+      "sentences": "I cannot say what specifically will take place, I just know that it will disrupt your freedom. You are a loose end for a party that need to tidy up.MURRAY (voice-over): Freeman and Moss later testified in front of the January 6 committee about vile racist threads they received.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:20:12",
+      "speaker": "RAFFENSPERGER",
+      "sentences": "We get text, personal cell number was doxed, personal e-mails for doxed.MURRAY (on camera): It wasn't just you, it was your family members.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:20:12",
+      "speaker": "RAFFENSPERGER",
+      "sentences": "Yes, my wife mostly. And she got -- she got the more vile, you know, personal kind of stuff.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:20:12",
+      "speaker": "DUNCAN",
+      "sentences": "State Patrol and heightened security and bomb sniffing dogs. And there was a website that formed that put a picture of my house and my address and my name and my kids names.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:20:12",
+      "speaker": "JORDAN",
+      "sentences": "You should go to jail. You are Judas, you're a traitor, you've committed treason.MURRAY (voice-over): The December 3 hearing would bring even more chaos to the state in the aftermath of the election, when a then little known attorney appeared. (on camera): What do you remember about John Eastman's presentation that day?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:20:12",
+      "speaker": "JORDAN",
+      "sentences": "I thought it was ridiculous.JOHN EASTMAN, TRUMP'S DEFENSE LAWYER: These significant statutory violations are in my view, more than enough.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:20:12",
+      "speaker": "HALLERMAN",
+      "sentences": "He saw it as the duty of the legislature to step in and basically throw out the will of Georgia voters and for the legislature to convene a special session and appoint their own Republican alternate electors.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:20:12",
+      "speaker": "EASTMAN",
+      "sentences": "I don't think it's just your authority to do that. But quite frankly, I think you have a duty to do that, to protect the integrity of the election here in Georgia.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:20:12",
+      "speaker": "JORDAN",
+      "sentences": "He didn't have a clue what he was talking about. I'm like, he's wrong. And anybody who can read and especially somebody who purports to be some kind of constitutional, you know, expert, this is -- this does not feel like it's legit.MURRAY (voice-over): The December 3 hearing wouldn't be the only appearance by Giuliani and other Trump allies in the Peach State. Giuliani appeared at two other hearings in front of the Georgia legislature in December 2020, where he continued to push the debunked claims of fraud.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:20:12",
+      "speaker": "GIULIANI",
+      "sentences": "There are 10 ways to demonstrate that this election was stolen, that the votes were phony, that there were a lot of them, dead people, felons, phony ballots.MURRAY (voice-over): And at the last hearing where Giuliani appeared on December 30, the Senate subcommittee that State Senator William Ligon chaired released a report with their findings. The first stating, quote, \"The November 3 2020, election was chaotic, and the results cannot be trusted.\"",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:20:12",
+      "speaker": "HALLERMAN",
+      "sentences": "That basically regurgitated a lot of those conspiracy theories and half truths about the vote count in Georgia without actually investigating any of those claims. And that report, in turn ended up being cited by the Trump campaign and many others in their pushes to invalidate election results elsewhere.MURRAY (on camera): So the report comes out, what kind of weight did that carry?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:20:12",
+      "speaker": "JORDAN",
+      "sentences": "It had none. But again, that really wasn't the point.MURRAY (on camera): You get all of the legitimacy that --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:20:12",
+      "speaker": "JORDAN",
+      "sentences": "All the info monitor of the Georgia State Senate, right? All of it. And they got that close. I got that close.MURRAY (voice-over): Coming up --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:20:12",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "So you follow him?MURRAY (voice-over): -- a secret meeting at the Capitol.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:28:15",
+      "speaker": "MULTIPLE SPEAKERS",
+      "sentences": "(CHANTIN) Stop the steal.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:28:15",
+      "speaker": "GEORGE CHIDI, JOURNALIST",
+      "sentences": "I'm driving by the Capitol because I'd heard there might be something going on. And as I turn the corner, I see this big black, thought it was an SUV, it was an armored personnel carrier. And Alex Jones out of the cupola at the top looking like a dime store Mussolini just exhorting people like, don't let them take this away from you off in the distance.MURRAY (voice-over): George Chidi is a Democrat and a local Georgia journalist who reports on politics and crime in his blog, the Atlanta Objective. He covered the far right groups that descended on the Georgia capitol for stop the steal rallies after the 2020 election.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:28:15",
+      "speaker": "CHILI",
+      "sentences": "And this -- like they filled the stairs and they're talking about taking over the Capitol. Then I started to think, all right, what exactly are you going to do? There was a conversation that was happening in right wing spaces about disrupting the electoral count. So I went to the Capitol on December 14.LAUREL N. LEE, SECRETARY, DEPARTMENT OF STATE: If you would please complete your ballots. MURRAY (voice-over): December 14 was the date that the state's electors all across the country would meet to certify their vote.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:28:15",
+      "speaker": "CHIDI",
+      "sentences": "I thought maybe the 3 percent militia or some other group were going to show up and do something stupid that I wanted to bear witness.MURRAY (on camera): So did you see any of those types when you got to Georgia State Capitol?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:28:15",
+      "speaker": "CHIDI",
+      "sentences": "I didn't.MURRAY (voice-over): What Chidi did see was a conservative activist who we recognize from his reporting.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:30:01",
+      "speaker": "CHIDI",
+      "sentences": "I followed him.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:30:01",
+      "speaker": "MURRAY",
+      "sentences": "Did you go into the room?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:30:01",
+      "speaker": "CHIDI",
+      "sentences": "I went into the room and I walked in the door. Hey, what is going on here? What are you doing? Like, what's -- we are having a meeting.And there was a woman's voice. I'm looking around and I've got the thing going. And then she says, he's got a camera going. And then another fellow comes and sort of hustles me out. I said, but what -- what is this meeting? And she says, it is an education meeting.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:30:01",
+      "speaker": "MURRAY",
+      "sentences": "So, they told you it was an education meeting --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:30:01",
+      "speaker": "CHIDI",
+      "sentences": "Yes, then they -- then they all frog marched me out of the room. And then they posted somebody out front to make sure nobody else went in.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:30:01",
+      "speaker": "MURRAY",
+      "sentences": "So, were you convinced it was an education meeting?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:30:01",
+      "speaker": "CHIDI",
+      "sentences": "I was convinced it was exactly what I thought it was.MURRAY (voice-over): And what he thought turned out to be right. A group of Republican shadow electors gathered to sign an illegitimate certification for President Trump.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:30:01",
+      "speaker": "HALLERMAN",
+      "sentences": "Many of the Republicans who served as alternate electors that mid-December day were high up figures in the state party.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:30:01",
+      "speaker": "JORDAN",
+      "sentences": "There was State Senator Burt Jones, who is now the lieutenant governor.MURRAY (voice-over): Georgia Lieutenant Governor Burt Jones was initially a target of the investigation. But the judge presiding over the special-purpose grand jury blocked the district attorney from investigating him after Fani Willis hosted a fundraiser for Jones' then political opponent.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:30:01",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "It's a what are you thinking moment. The optics are horrific. MURRAY (voice-over)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:30:01",
+      "speaker": "JORDAN",
+      "sentences": "At the head of the table was David Shafer, who was the current chair of the GOP in Georgia.MURRAY (voice-over): Shafer played a key role in organizing Georgia's fake slate of electors. He helped secure the room they met in, convene them at the Capitol and served as one of the fake electors.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:30:01",
+      "speaker": "HALLERMAN",
+      "sentences": "Afterwards he said, he had acted in response to what the Trump campaign had told him.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:30:01",
+      "speaker": "DAVID SHAFER, FORMER CHAIRMAN, GEORGIA GOP",
+      "sentences": "Because the president's lawsuit contesting the Georgia election has not been decided or even heard, we held this meeting to preserve his rights. Had we not held the meeting then his lawsuit would effectively be mooted.MURRAY (voice-over): Shafer's attorney said he broke no laws and was following legal advice when he cast a -- quote -- \"contention\" ballot for Trump. (On camera): So, what is your impression at that point? It is like David Shafer has got to come out and say something now because we have caught them?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:30:01",
+      "speaker": "CHIDI",
+      "sentences": "I thought so. I thought that's exactly what it was.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:30:01",
+      "speaker": "MURRAY",
+      "sentences": "What do you make of that narrative now?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:30:01",
+      "speaker": "CHIDI",
+      "sentences": "I have never been thrown out of a -- you know, a meeting in a public legislative space. Like that is unheard of. You know, I wasn't being disruptive. They did not have a good reason to do it. There are no such things as secret meetings at the state Capitol. Like that is just not how things work.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:30:01",
+      "speaker": "MURRAY",
+      "sentences": "So, does that explanation hold water to you that ---",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:30:01",
+      "speaker": "CHIDI",
+      "sentences": "No.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:30:01",
+      "speaker": "MURRAY",
+      "sentences": "-- you know, we were not trying to hide anything?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:30:01",
+      "speaker": "CHIDI",
+      "sentences": "I think they absolutely were trying to hide something, at least at first.MURRAY (voice-over): Shafer's attorney told CNN that his client did not try to keep things secret. But that claim is contradicted by an email the fake electors received just 18 hours before they met at the Capitol. The email sent by Robert Sinners, the Trump campaign's Election Day operations lead in Georgia at the time asked for -- quote -- \"complete secrecy and discretion.\"",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:30:01",
+      "speaker": "HALLERMAN",
+      "sentences": "He told them to conceal what they were going to do.MURRAY (voice-over): The email instructed the fake electors to tell security guards they were attending a meeting with two then state senators, Brandon Beach and Burt Jones. According to the author of the letter, he was directed to send it by Trump campaign lawyers and David Shafer.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:30:01",
+      "speaker": "MOORE",
+      "sentences": "In a process that is probably one of the most public things that the government does, to get an email from somebody saying, keep all this secret and under the radar, there is probably no good motive behind it. And I think it's good evidence of intent.MURRAY (voice-over): Sinners now regrets his part in the fake elector scheme. In a deposition to the January 6th committee, he expressed regret for his actions.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:35:00",
+      "speaker": "HALLERMAN",
+      "sentences": "The January 6th committee on Capitol Hill has really helped Fani Willis in her criminal investigation here.MURRAY (voice-over): According to a final report from the January 6th committee, the motivation behind creating the slate of fake electors in Georgia and other states was to create enough chaos to persuade then Vice President Mike Pence to subvert the constitution and throw out the 2020 election results on January 6th. The Fulton County prosecutors zeroed in on John Eastman's part in the plot.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:35:00",
+      "speaker": "HALLERMAN",
+      "sentences": "They were very interested in his alleged role at the center of coming up with the scheme of appointing these Republican electors.MURRAY (voice-over): The conservative attorney made various unfounded claims of voter fraud when he pushed the plan to overturn Biden's victory to Georgia lawmakers.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:35:00",
+      "speaker": "JOHN EASTMAN, FORMER TRUMP LAWYER",
+      "sentences": "The constitutional power to decide on the method for choosing electors remains exclusively with the state legislatures.MURRAY (voice-over): New York attorney, Kenneth Chesebro was also a focus due to his alleged role coordinating the plan and execution of the fake electors. Chesebro has not responded to multiple inquiries from CNN about his actions. His attorney told \"The New York Times\" the only communication Chesebro had with anyone in Georgia regarding the alternate electors was sending ballot forms to David Shafer. But emails released by the January 6th committee show it was more than just paperwork. GEOFF DUNCAN (R), FORMER GEORGIA LIEUTENANT GOVERNOR: There was legal structure to this. There was constitutional structure to this. There was logistics. There was secrecy. There is no doubt in my mind that this started in the Oval Office and worked its way outward. MURRAY (voice-over): Coming up, inside the plot to seize voting data --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:35:00",
+      "speaker": "ZACHARY COHEN, CNN NATIONAL SECURITY REPORTER",
+      "sentences": "Really who is who of election deniers.MURRAY (voice-over): -- all caught on tape.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:41:35",
+      "speaker": "COHEN",
+      "sentences": "The story of Coffee County was really under the radar. There was this effort to gain access to voting systems specifically in Georgia. Trump wanted to find evidence of fraud, to find evidence that would support those baseless conspiracy theories that he was pushing. And the idea was once you get a copy of the voting system then you can produce the evidence that there was widespread fraud.MURRAY (voice-over): Coffee County, seen as a Trump friendly area became a target for those looking to access voting systems.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:41:35",
+      "speaker": "COHEN",
+      "sentences": "January 7, 2021, was the day that they finally were let in the front doors.MURRAY (voice-over): And it was all caught on tape.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:41:35",
+      "speaker": "HALLERMAN",
+      "sentences": "Technicians from the data services firm Sullivan Strickler were let into the election's office by Cathy Latham who at the time was chairwoman of the Republican Party in Coffee County and who, a couple of weeks earlier, had served as one of the 16 fake electors in Georgia.MURRAY (voice-over): Latham initially denied the election equipment had been accessed until security footage proved otherwise. An evidence now shows Latham communicated directly with the then election supervisor in Coffee County about getting access to the office.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:41:35",
+      "speaker": "COHEN",
+      "sentences": "You see on the surveillance video they spent hours inside this restricted room in the election's office.MURRAY (voice-over): They being Scott Hall and Paul Maggio. Paul is an Atlanta area bail bondsman who served as a poll watcher and is an ardent Trump supporter. Maggio works for Sullivan Strickler, the data firm hired to gain access to the records. In a statement to CNN, Sullivan Strickler said the firm was directed by the attorneys who hired them to obtain access to certain data and distribute it to certain individuals and quote -- \"The firm had no reason to believe these attorneys would ask or direct Sullivan Strickler to do anything either improper or illegal.\"",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:41:35",
+      "speaker": "COHEN",
+      "sentences": "Ultimately, they were able to basically to take an entire copy of the voting system with the idea that it would be used to, you know, point to vulnerabilities, point to different issues with the voting machines themselves. And the plan was to use that as evidence of widespread voter fraud.MURRAY (voice-over): Another shocking twist in the story, the Coffee County data breach would remain secret for 20 months. (On camera): When did you guys learn that there was, you know, a potential breach involving Coffee County?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:41:35",
+      "speaker": "STERLING",
+      "sentences": "About a year after it happened. But when we heard about this, at first, it actually got sprung on us in a lawsuit.MURRAY (voice-over): That lawsuit, which is unrelated to the 2020 election, was filed in 2017. After independent coalition initially sued the secretary of state over the security of the Georgia voting system. The video of the data breach was one piece of evidence in that civil suit. But it revealed exactly what these Trump supporters were up to after he lost the state.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:45:04",
+      "speaker": "SCOTT HALL, TRUMP SUPPORTER",
+      "sentences": "I'm the guy that chartered the jet to go down to Coffee County to have them inspect all of those computers. They scanned all the equipment, imaged all the hard drives, and scanned every single ballot.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:45:04",
+      "speaker": "COHEN",
+      "sentences": "Without that recording of Scott Hall we probably never know what we know now.MURRAY (voice-over): The Georgia Bureau of Investigation has been looking into the incident since the summer of 2022 and says that their investigation is still ongoing. (On camera): Did you have any sense this was tied to maybe other operatives in the Trump campaign that there was anything beyond sort of lower-level people in Coffee County?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:45:04",
+      "speaker": "RAFFENSPERGER",
+      "sentences": "Not initially but there were allegations. And as you dig down deep, more is revealed. Then you realize that that wasn't truthful.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:45:04",
+      "speaker": "HALLERMAN",
+      "sentences": "Sidney Powell was the one who ended up commissioning the services of Sullivan Strickler.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:45:04",
+      "speaker": "COHEN",
+      "sentences": "Her involvement is really what exposes the broader Trump team's involvement in Coffee County.MURRAY (voice-over): Powell advocated seizing voting machines with an executive order from Trump at an explosive White House meeting in December 2020.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:45:04",
+      "speaker": "COHEN",
+      "sentences": "Another idea that was pitched during that meeting was raised by Rudy Giuliani. And he thought that they could coerce or convince local election officials to voluntarily give their investigators access to the voting systems.MURRAY (voice-over): In other words, exactly what happened in Coffee County on January 7th, 2021. (On camera); Do you feel like -- I mean, the longer this goes on does it ever sort of feel like, wow, this is bigger than even we realized at the time?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:45:04",
+      "speaker": "STERLING",
+      "sentences": "I think when you start with the president of the United States saying the election was stolen nothing outside of that is going to be surprising at that point. Nothing is surprising to me.MURRAY (voice-over): Despite searching for evidence that would back up their theories of election fraud there is no indication there were any voting irregularities discovered during the data breach. And to this day, we don't know where the data lives and how exactly the Trump supporters plan to use it. Up next --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:45:04",
+      "speaker": "MOORE",
+      "sentences": "We are about to have the David and Goliath fight.MURRAY (voice-over): The extraordinary challenges of trying to indict a former president.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:51:35",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "It's over.MURRAY (voice-over): In the midst of the riot then lieutenant governor of Georgia Geoff Duncan begged residents of his state involved to stand down. GEOFF DUNCAN (R), FORMER GEORGIA LIEUTENANT GOVERNOR: I want to speak directly to Georgians. Every Georgian that can hear my voice, put down your differences, put down your partisanship. MURRAY (voice-over): More than 20 Georgia residents would go on to face charges stemming from their actions in Washington, D.C. on January 6th, according to a CNN tally.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:51:35",
+      "speaker": "DUNCAN",
+      "sentences": "Donald Trump stopped caring about this country the moment he started lying about the election. The conspiracy theories that literally seeded the beginnings and endings of January 6th, in my personal opinion was a direct attack against democracy itself.MURRAY (voice-over): The election lies and conspiracy theories may have reached their apex on January 6th. But even no, more than two years later, Donald Trump refuses to acknowledge the 2020 election results --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:51:35",
+      "speaker": "DONALD TRUMP, FORMER PRESIDENT OF THE UNITED STATES",
+      "sentences": "It was a rigged election.MURRAY (voice-over): -- and still can't accept his loss in Georgia.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:51:35",
+      "speaker": "TRUMP",
+      "sentences": "We have elections that were horrible. If you look at what happened in Atlanta, millions of votes, and all you have to do is take a look at government cameras.MURRAY (voice-over): Even at the Fulton County district attorney, Fani Willis, is expected to ask a grand jury for multiple indictments, after investigating efforts to overturn the election results in Georgia. Local officials fear, another Trump indictment could spark violence especially among the Trump supporters who still believe the last election was stolen.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:51:35",
+      "speaker": "MOORE",
+      "sentences": "If January the 6th was sort of the result of somebody dropping a few drops of gas on the fire, then I think that these indictments could be like turning open the pump. It really, really causes some problems. I think that we will see a number of sort of far right fringe groups become much more active.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:51:35",
+      "speaker": "TRUMP",
+      "sentences": "If these radical, vicious, racist prosecutors do anything wrong or illegal, I hope we are going to have in this country the biggest protest we have ever had in Washington, D.C., in New York, in Atlanta, and elsewhere, because our country and our elections are corrupt. CHIDI",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:55:04",
+      "speaker": "UNKNOWN",
+      "sentences": "President Trump?MURRAY (voice-over): Trump pleaded not guilty to the latest charges, after pleading not guilty in two other cases.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:55:04",
+      "speaker": "TRUMP",
+      "sentences": "I consider it a badge, a great, great beautiful badge of honor and courage. Because I'm being indicted for you.MURRAY (voice-over): A fourth indictment in Georgia would only intensify the already unprecedented moment in American history.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:55:04",
+      "speaker": "TRUMP",
+      "sentences": "I ran twice. I won twice.MURRAY (voice-over): In Georgia, it isn't just former President Donald Trump prosecutors are looking at. We know they are considering racketeering and conspiracy charges allowing the district attorney to bring charges against multiple defendants who took part in the former president's plot.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:55:04",
+      "speaker": "ROBERT JAMES, FORMER DEKALB COUNTY DISTRICT ATTORNEY",
+      "sentences": "Here is the Armageddon scenario, all right? There is this RICO indictment, and there's several public officials that are indicted and that are -- you know, that are brought into this indictment. Every one of them is going to have their own army, a team of lawyers. And every one of them is going to be filing all of these motions, and you're going to have to respond to all of them.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:55:04",
+      "speaker": "MURRAY",
+      "sentences": "If she does bring charges, and this does go to trial, what do you think the biggest hurdle for Willis is going to be?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:55:04",
+      "speaker": "MOORE",
+      "sentences": "Her biggest hurdle is going to be can she get a conviction with jurors who essentially are going to be like a snapshot of the electorate.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:55:04",
+      "speaker": "TRUMP",
+      "sentences": "The ridiculous and baseless indictment of me by the Biden administration weaponized department of injustice will go down as among the most horrific abuses of power in the history of our country. JAMESMURRAY (voice-over): And Trump isn't just a former president. He is also the leading Republican candidate for 2024. (On camera): How does it feel now to see, you know, obviously Donald Trump is heading for the White House again?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:55:04",
+      "speaker": "RAFFENSPERGER",
+      "sentences": "More of the same. A lot of noise that's not supported by the facts.MURRAY (voice-over): But his candidacy is a point he could try to use to his advantage in the courtroom. (On camera): Hearing Donald Trump in this, how do you juggle the court dates, again, two, three, four indictments, with campaigning for president of the United States?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:55:04",
+      "speaker": "MOORE",
+      "sentences": "Yes, I think that's going to be a legitimate issue he brings up to the court. And while we all want to see some resolution I don't think there's any question that he's got a good credible case to make that he shouldn't be forced now to have to try his case in the middle of a presidential primary.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:55:04",
+      "speaker": "MURRAY",
+      "sentences": "What happens if he's re-elected president of the United States before these cases are decided?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:55:04",
+      "speaker": "MOORE",
+      "sentences": "I think that he's immune at least from prosecution in the state court. I think in the federal system, it is a different question all together. If he were elected, he does hold sort of the ultimate pardon pin and the question is the same as we got to at the end of his last term and that is, does he have the authority to pardon himself?MURRAY (voice-over): We're more than two years past the pressure campaigns, the harassment of public and private citizens, the coordinating of fake electors, the breach of election equipment. And we still don't know, will Trump and his allies face charges here in Georgia? And if so, will there be convictions?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:55:04",
+      "speaker": "TRUMP",
+      "sentences": "They rigged the presidential election in 2020, and we're not going to allow them to rig the presidential election of 2024.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:55:04",
+      "speaker": "MURRAY",
+      "sentences": "Did voters deserve an answer to this question before Donald Trump became, you know, an announced candidate again?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:55:04",
+      "speaker": "MOORE",
+      "sentences": "Yes. I don't think there is any question about that. I mean so from a national perspective, no question about it. From a local perspective here, no question about it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:55:04",
+      "speaker": "MURRAY",
+      "sentences": "Do you see any risk in moving forward with an indictment of a former president? I mean, are we setting any kind of a dangerous precedent?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:55:04",
+      "speaker": "JORDAN",
+      "sentences": "I think we're setting a dangerous precedent if we don't move forward. If we don't hold him accountable, I think, the risk is much more significant.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:55:04",
+      "speaker": "MURRAY",
+      "sentences": "We saw former President Trump lie to the American people. We saw him gin up this outrage. Is it a remedy if he is charged with a crime in Georgia?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:55:04",
+      "speaker": "STERLING",
+      "sentences": "If they indict him and they can't convict him, there will be an exoneration. Is that better or is that worse? I don't know.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:55:04",
+      "speaker": "MURRAY",
+      "sentences": "What message does it send if they don't -- if you don't bring charges against someone who tried to overturn the results, who, you know, allowed these sorts of threats to permeate?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:55:04",
+      "speaker": "STERLING",
+      "sentences": "Again, there is no good solutions here.",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

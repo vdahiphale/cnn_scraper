@@ -1,0 +1,475 @@
+{
+  "date": "2024-09-07",
+  "headline": "CNN Newsroom",
+  "subHeadline": "Boeing's Starliner Lands Successfully, No Crew On Board; 14- year-old Suspect, Father Appear in Court Friday; Zelenskyy Warns of \"Significant\" Shortfall in Vital Aid. Aired 12-1am ET",
+  "utterances": [
+    {
+      "timeStamp": "00:00:23",
+      "speaker": "LAURA COATES, CNN ANCHOR",
+      "sentences": "Touchdown. We've heard touchdown. Starliner back on Earth. It was successful.Kristen, let's go to you. This is very significant.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:00:23",
+      "speaker": "KRISTIN FISHER, CNN SPACE AND DEFENSE CORRESPONDENT",
+      "sentences": "Yeah, Boeing's got to be breathing a big sigh of relief. NASA, too. I mean, you still got to get the recovery crews on the ground to make sure everything looks OK.But I think it's almost safe to say, you know, if Butch and Suni had been inside Starliner on this return to Earth, they almost certainly would have been OK. But, you know, NASA is saying with all those issues with the thrusters and the helium leaks, it just was not a risk that they were willing to take when they had a backup vehicle ready to go. But so now the big question is going to be, does Starliner need another crewed test flight or perhaps another uncrewed test flight before it can be certified and be a fully functioning part of NASA's commercial crew program? You've got Boeing and SpaceX who were doled out these contracts in 2014 to ferry NASA astronauts to and from the International Space Station. So far, only SpaceX has been able to do it. So what happens now? Because this landing and reentry appears to be successful, does Boeing have to do another one of these test flights before it's certified? A lot of money is on the line, Laura. I mean, remember this program over a billion dollars over budget already, years behind schedule. So that's really what Boeing and NASA are going to be focused on now. But first, you got to deal with the recovery. So what you're going to be seeing in just a few minutes are all these recovery crews, Boeing and NASA recovery crews that have been stationed at a nearby staging facility at White Sands, New Mexico. They're going to slowly converge on the capsule, do some checks, make sure it's safe before they proceed and officially end this mission. But a successful landing, certainly --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:00:23",
+      "speaker": "COATES",
+      "sentences": "Well, we're learning a mission --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:00:23",
+      "speaker": "FISHER",
+      "sentences": "-- Boeing Starliner.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:05:11",
+      "speaker": "GARRETT REISMAN, FORMER NASA ASTRONAUT",
+      "sentences": "Well, it was a measure of relief at that point, once the parachutes are out, the thing that we've been worrying about, these thrusters, they no longer have a role to play. And really, from that point on, it all happened exactly as you -- as by design.And yes, it looks dramatic with a lot of moving parts. But as a crew member riding home in one of these vehicles, that's what you're trained to expect. So Kristin's absolutely correct. I mean, this is definitely a measure of vindication for a very hard-working team of Boeing engineers and operations folks that brought Starliner home. But there are open questions. And I think we're very anxious to -- to get to the day where we're flying people in Starliner again. I know both Cady and I have good friends that are signed up to be. And the next crew that's supposed to be in Starliner. But -- but there -- but there's going to be a lot of hard questions to answer first, because there's no way that that NASA and Boeing want to go through something like this again, where there's so many open questions.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:05:11",
+      "speaker": "COATES",
+      "sentences": "Well, Cady, to that point, and you heard Kristin talk about that one of the big questions is, is this particular test run enough to placate and alleviate any concerns about having crews on board now that you have seen what has transpired? There's an element of, you know, hindsight being 2020. Do you have concerns about this being enough to alleviate those concerns?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:05:11",
+      "speaker": "CADY COLEMAN, RETIRED NASA ASTRONAUT",
+      "sentences": "Well, I think there's a -- there's a lot of data that I mean, one of the best things about having this capsule come down safely is that we're going to be able to collect a lot of data from the descent and understand the performance, the stress, the thrusters. One of the big questions that they've wrestled with the whole time has been they've tested the thrusters in white sands. But then how does that compare to how we expect them to perform in orbit?And so now -- now that the capsule is back and they'll be able to take a look at the thrusters and understand more of that. And I think that that idea of, you know, at NASA, we're always simulating, but it's never exactly, you know, the same. And but it's been a really big question. If we understand this down here, do we understand it up there? And I think they're going to get a lot of valuable data to be able to do that. But that will be the question to answer.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:05:11",
+      "speaker": "COATES",
+      "sentences": "You know, right now we're watching on the ground as you have a caravan of a recovery crew in route to retrieve this Starliner. We should mention the reason this is in right now. You're seeing it in black and white.It is, of course, darkness in New Mexico. And the ability to be able to see with a kind of night vision is the reason it's showing up on your screens in this fashion. Eric, this recovery, though, the idea of going to retrieve Boeing Starliner. Talk to me a little bit about why this might be valuable in trying to determine the safety of Starliner in the future to perform the very functions that NASA has asked it to.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:05:11",
+      "speaker": "ERIC BERGER, SENIOR SPACE EDITOR, ARS TECHNICA",
+      "sentences": "Well, it's important to get the spacecraft back and look at the condition of the vehicle. But really the bigger concern, of course, with the performance of those thrusters on the service module. And NASA and Boeing did get some good data tonight on that vehicle when it was flying in space. And they'll talk more about that later, I'm sure.But, you know, I agree with the other panelists that there are some very hard questions for NASA and Boeing to face. You know, this spacecraft was launched, quite frankly, with this thruster as a known issue. And both NASA and Boeing signed off on that. And so they're going to really want to get to the root cause of those problems before they put people back in this vehicle again.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:05:11",
+      "speaker": "COATES",
+      "sentences": "You know, I have to just, you know, as a layman, not an astronaut, looking at the precision and the expectations of what would transpire, Garrett, it happening in order. You know, the plan is almost like, you know, back in the day, the A-team loving it when a plan comes together. But there's got to be a sense of, you know, real concern and anxiety when you're waiting for all of those dominoes to fall right in line. And how many different people would have to be involved in just making sure that everything went according to plan?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:10:11",
+      "speaker": "COATES",
+      "sentences": "And yet, Cady, I mean, these the options, it's not as if one can just turn to the other one within a few hours, even the next day. You've got the two astronauts who are -- who are still there, Butch and Suni, you're talking, you know, next year they'll be able to return. They've seen the success of touching down. I do wonder what you think they might be thinking, seeing the success of this operation.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:10:11",
+      "speaker": "COLEMAN",
+      "sentences": "Well, I think that, you know, when the decision was made, it was in terms of it's a test flight, so there's some risk there. There's added risk because there's a problem with the thrusters and we understand -- understand it, but don't understand how to make sure we can -- that we want that everything can go correctly. And so was it the safest option for bringing them home? No, it wasn't.So I don't think anyone is shocked to see the -- the successful landing here. And I think it was disappointing for them not to be able to climb in. And knowing they'd probably be safe on the ground, but it wasn't the right thing to do. So I'm sure there's a lot of mixed feelings up there in terms of actually just being in space and spending longer. I can't see Garrett's face, but I think if you ask Garrett and I, we'd be up there. And, you know, they've been -- they've been the shepherds of this spacecraft for a long time, for a couple of years now and not going on flights. And then they were going to come up for eight days. And now they get to spend months. They're a fully trained crew. They're so good on orbit. And in these past two months with having so many people up there, it's literally a different space station with that to do list like knocked out of the way. So I think it's -- there's mixed feelings both on the ground and up in space. But we're always learning.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:10:11",
+      "speaker": "COATES",
+      "sentences": "It's an important thing. It's kind of like that mindset. If I don't have to do it, I get to do it. That's probably the best way to approach that over the next several months for them in particular. And of course, living your whole life with this passion and now being able to be there must be very exciting under all the circumstances.Eric, we're looking at the success of this particular endeavor, but it's not that Boeing will be left without a black eye in all this.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:10:11",
+      "speaker": "BERGER",
+      "sentences": "No, it's really not. I mean, this commercial crew program now really dates back to 2014 when Boeing and SpaceX both won contracts from NASA for these services. And at the time, Boeing was really the gold standard in human spaceflight. Everyone at NASA felt that way.And SpaceX, they felt they were kind of taking a flyer on. And now for 10 years later, for SpaceX to have to fly up and bring Butch and Suni back eventually because NASA didn't feel Starliner was safe enough for its crew, that is really a devastating blow to Boeing and its position in spaceflight. So it's important to see how they recover from this.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:10:11",
+      "speaker": "COATES",
+      "sentences": "It will be. And of course, for every cheer that's happening with Boeing, there might be a little bit of gloating on the other side when you're talking about this sort of space race, but both can learn from the successes or failures from the other. And in the end, I mean, Kristin, let me go back to you. You have been covering this so closely. You have been our eyes, our ears, our mind on the ground to see this finally come to fruition. This is really fascinating and exciting.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:15:06",
+      "speaker": "COATES",
+      "sentences": "Well, let me tell you something. I'm not married to an astronaut, but I would have one heck of a honey do list when he got home. Thank God, you got right now.Thank you so much. You're in space. What are you doing up there? I'm doing all this. It would be a whole conversation, y'all. Thank you so much, everyone. NASA is going to be holding a press conference in the next hour. You'll be able to see that right here on CNN. And our coverage is going to continue after a very quick break. (COMMERCIAL BREAK)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:15:06",
+      "speaker": "ANNOUNCER",
+      "sentences": "Live from Atlanta, this is CNN Newsroom with Lynda Kinkade.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:20:08",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "Touchdown. Starliner is back on Earth. That landing coming at 11(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:20:08",
+      "speaker": "KINKADE",
+      "sentences": "Well, the astronauts who were supposed to return on Starliner remain on the Space Station. Astronauts Suni Williams and Butch Wilmore will return to Earth on a SpaceX flight in February.With Terry Virts is a former NASA astronaut and retired Air Force colonel. He joins us live from Houston, Texas. Good to have you with us. COL. TERRY VIRTS, FORMER NASA ASTRONAUT: Thanks for having me, Lynda.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:20:08",
+      "speaker": "KINKADE",
+      "sentences": "So Starliner was expected to hit its mark at 12",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:20:08",
+      "speaker": "VIRTS",
+      "sentences": "Well, it looked pretty good. There was no one inside to report on what it actually felt like. But when I landed in the space shuttle, it was a nice channel, I'll call it an Air Force landing since I'm an Air Force pilot myself, just like landing an airliner on a runway.When I landed in a Russian Soyuz capsule, it was more like being in a bowling ball. The thing really hit the ground hard. It thudded. And then it spun 360 degrees around. It was like being in a bowling ball. The Boeing capsule looked pretty gentle from what you could see from that video. They had nice, soft airbags. So we'll see when the crews fly, hopefully next year, we'll see what they say. But it didn't look too bad.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:20:08",
+      "speaker": "KINKADE",
+      "sentences": "Yeah, it certainly looked to be a smooth landing. Of course, when it docked back on the International Space Station in early June, five of the 28 thrusters had malfunctioned. One of those was taken offline today due to performance concerns. What role do those thrusters play on re-entry?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:20:08",
+      "speaker": "VIRTS",
+      "sentences": "That's a good question. I actually have a Starliner model here. So after the capsule undocks from the International Space Station, the thrusters are in the back part in this area. And this is called the service module. And they point the spaceship. They point it in the right direction. Then they have some big thrusters that fire and slow the capsule down by a few hundred miles an hour. And then it comes back and lands.But before it comes back to Earth, it separates. So this is called the CM or command module. And the crew is in here with the parachutes. And that's what we saw the landing. This service module where those small rockets that they had the problems with, it also de-orbits itself, but it burns up in the atmosphere. And so they're never going to get those jets back that they had the problems with. They got lots and lots of data. They've done a lot of tests. They've had it up there for months. But this is the part that comes back with the crew in it. This part burns up. And so they're never going to actually get to physically test the rockets that they had problems with. KINKADE: It's good to see that model and that explanation. Of course, you said this is the craft that the astronauts come back in. That didn't happen. Of course, Butch Wilmore and Suni Williams were meant to be gone for eight days. Now it could be eight months. Why did NASA make the call to leave them up there? And was it the right call?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:25:01",
+      "speaker": "KINKADE",
+      "sentences": "Yeah, exactly. Former NASA astronaut Terry Virts, good to have your insight on this landing of the Starliner. Thanks so much for your time.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:25:01",
+      "speaker": "VIRTS",
+      "sentences": "Thanks for having me on.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:25:01",
+      "speaker": "KINKADE",
+      "sentences": "Well, still to come after the break, father and son appear in court as they face charges in the deadly Georgia school shooting. We're going to have more with a live report. Plus, Donald Trump can delay any concerns about being sentenced beforethe presidential election. Coming up after the break, the latest decision in his hush money case. (COMMERCIAL BREAK)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:30:05",
+      "speaker": "KINKADE",
+      "sentences": "Well, two separate juries awarded E. Jean Carroll $5 million and $83 million in damages after finding that Trump sexually abused and defamed her. A decision on Trump's motion is not expected until after the election.Well, the race for the White House is in a critical stage right now with just about 60 days until election day. Both Trump and the Harris campaigns are focusing on key battleground states, even as they get ready for their first debate on Tuesday. Vice President Kamala Harris' campaign has been focused on the southeastern states of Georgia and North Carolina with the Trump team tackling the Democrats so-called blue wall of Pennsylvania, Michigan and Wisconsin. Meantime, several states will start in-person early voting in about two weeks. Charged with four counts of felony murder, suspected Georgia high school shooter Colt Gray is now facing life in prison if convicted in Wednesday's shooting. The 14-year-old and his father appeared separately in court on Friday to face charges for that shooting that left four people dead. CNN's Isabel Rosales spoke with one student who came face to face with the alleged gunman. (BEGIN VIDEOTAPE) ISABEL ROSALES, CNN CORRESPONDENT (voice-over): 14-year-old Bri Jones was the first student to lay eyes on Colt Gray just moments before she says he began his deadly rampage.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:30:05",
+      "speaker": "BRI JONES, BLOCKED THE SHOOTER FROM HER CLASSROOM",
+      "sentences": "He knocked on the door. I went up. I saw him holding a bag and just pulling the gun out. I'm not sure what kind of bag was it, but I see him pulling out of a bag and like the gun was so big, like.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:30:05",
+      "speaker": "ROSALES",
+      "sentences": "Gray was her classmate and their class the first he tried to enter, she tells CNN.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:30:05",
+      "speaker": "JONES",
+      "sentences": "I always look out the door before I open it. There's just like my -- it's a habit my mom taught me.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:30:05",
+      "speaker": "ROSALES",
+      "sentences": "But as her teacher instructed her to let him back in, she said --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:30:05",
+      "speaker": "JONES",
+      "sentences": "I know he has a gun. If I would have opened the door, then like he would have got every single one of us in that class. And I don't want me, my teacher, my friends in the class and my other classmates. I don't want none of us to get hurt. So I just -- I just didn't go like, I thank God that I did not open that door.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:30:05",
+      "speaker": "ROSALES",
+      "sentences": "Jones said Gray moved on to her sister's class down the hall.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:30:05",
+      "speaker": "MALASIA MITCHELL, SAW HER TEACHER FINALLY SHOT",
+      "sentences": "Colt shot my teacher multiple times.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:30:05",
+      "speaker": "ROSALES",
+      "sentences": "Malasia Mitchell says she'll never be able to erase the image of her teacher, Richard Aspinwall, begging for help.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:30:05",
+      "speaker": "MITCHELL",
+      "sentences": "And we had to drag our teacher, our teacher's body and fully into the classroom. We heard him take his last breath.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:30:05",
+      "speaker": "ROSALES",
+      "sentences": "Mitchell says she felt powerless.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:30:05",
+      "speaker": "MITCHELL",
+      "sentences": "I've been trained what to do, like give CPR and other stuff, but I couldn't because --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:30:05",
+      "speaker": "ROSALES",
+      "sentences": "Help him?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:30:05",
+      "speaker": "MITCHELL",
+      "sentences": "-- I couldn't help him. So I ended up having a seizure.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:30:05",
+      "speaker": "ROSALES",
+      "sentences": "The 14-year-old suspect who allegedly caused all this pain in court, the families of the victims just feet behind him.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:30:05",
+      "speaker": "JUDGE CURRIE MINGLEDORFF II, JACKSON COUNTY, GEORGIA",
+      "sentences": "You're charged with four counts of felony murder.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:30:05",
+      "speaker": "ROSALES",
+      "sentences": "Just minutes after the suspected shooter left the courtroom where he did not enter a plea. His father walked in for his own first appearance.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:30:05",
+      "speaker": "MINGLEDORFF",
+      "sentences": "Two counts of felony murder in the second degree. You're charged with four counts felony involuntary manslaughter.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:30:05",
+      "speaker": "ROSALES",
+      "sentences": "And he's charged with eight counts of second-degree felony cruelty to children.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:30:05",
+      "speaker": "ROSALES",
+      "sentences": "An arrest warrant for Colin Gray alleges he gave his son a firearm when he knew his son was a threat to himself and to others. It's only the second time a parent has been charged in connection with a mass shooting carried out by their child.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:30:05",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "The GBI has arrested Colin Gray.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:30:05",
+      "speaker": "ROSALES",
+      "sentences": "Last April, in an unprecedented case, the parents of Ethan Crumbley were each sentenced to 10 to 15 years for involuntary manslaughter. The D.A. in the case says Colt Gray may face additional charges.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:30:05",
+      "speaker": "BRAD SMITH, DISTRICT ATTORNEY, PIEDMONT JUDICIAL CIRCUIT",
+      "sentences": "You can anticipate there will be new charges on Colt Gray because we've never addressed the other victims in the school.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:30:05",
+      "speaker": "ROSALES",
+      "sentences": "At Apalachee High, some students left wondering how they can possibly move forward.(On camera): Do you think you'll be able to come back to school?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:30:05",
+      "speaker": "MITCHELL",
+      "sentences": "Yes, because I'm not going to walk in fear.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:30:05",
+      "speaker": "ROSALES",
+      "sentences": "Isabel Rosales, Winder, Georgia, CNN.(END VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:35:04",
+      "speaker": "MICHAEL MOORE, CNN LEGAL ANALYST",
+      "sentences": "They are. They're serious. I mean, and I think probably this is not the last case that you'll see where a parent's charged. You're starting to see an awareness that there should be some parental supervision. And that's what we saw in the first case that was tried. And there was a conviction in a sentence of some length of time recently. And that is that there was a -- the parents should have known around the time that it happened. There was this issue about access to the weapon. They had some advanced knowledge about what the child was going through at the time and whether or not there would be problems at the school.You have some of those same factors in this case. You don't necessarily have the exact timeline, but you do have somebody who knew, who was reckless, who was sort of wanton and unreasonable in their conduct. And the law provides that they can be, in fact, charged criminally as well as the shooter.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:35:04",
+      "speaker": "KINKADE",
+      "sentences": "And in this case, we know that in May last year, both the teenager and parent were interviewed by the local sheriff after an FBI tip about a threat of a possible school shooting. I've got some of that sound. I just want to play some of that sound by the parent.(BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:35:04",
+      "speaker": "INVESTIGATOR",
+      "sentences": "Do you have weapon in the house?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:35:04",
+      "speaker": "COLIN GRAY",
+      "sentences": "I do.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:35:04",
+      "speaker": "INVESTIGATOR",
+      "sentences": "Are they accessible to him?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:35:04",
+      "speaker": "GRAY",
+      "sentences": "They are. I mean, there's nothing loaded but they are down.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:35:04",
+      "speaker": "INVESTIGATOR",
+      "sentences": "OK.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:35:04",
+      "speaker": "GRAY",
+      "sentences": "We actually, we do a lot of shooting, we do a lot of deer hunting. He shot his first deer this year.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:35:04",
+      "speaker": "INVESTIGATOR",
+      "sentences": "Yeah.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:35:04",
+      "speaker": "GRAY",
+      "sentences": "You know, so, like, I'm pretty much in shock to be honest with you. I'm a little pissed off to be even really honest with you, if that is what was said.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:35:04",
+      "speaker": "KINKADE",
+      "sentences": "So his dad was aware that this threat of a school shooting was made, yet that same year, Christmas that year, he gifted his son an AR-15, his then 13-year-old son. How is that going to be used by the prosecution?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:35:04",
+      "speaker": "MOORE",
+      "sentences": "This is probably one of the most crucial pieces of evidence that the prosecutor will have, and that is because it shows the knowledge of the father and actually he knew that there was this issue with his child beforehand. It was before he bought the weapon. He also talks about the fact that the weapons, while unloaded, are accessible. He said they're down, which tells me they're probably kept in a closet in the corner of a bedroom, something like that. They're not locked up in a safe.And then to know that potentially these threats have been made, or these comments have been made by his child earlier, and then to go buy this weapon and to apparently leave it accessible to the child, it was accessible because he got it and used it at the school the other day. This is going to be sort of the theme of the prosecutor's case and provides that element that the prosecutor's going to have to show, and that is, is there some knowledge on the part of this parent about the child's propensity to do some harm, and then a willingness to provide him a weapon, you know, where he could take advantage of that and carry out the shooting. So this is critical.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:35:04",
+      "speaker": "KINKADE",
+      "sentences": "And here in the state of Georgia, is there any law that says a child, a teenager, can't own or possess an AR-15 weapon?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:35:04",
+      "speaker": "MOORE",
+      "sentences": "There's an interesting law in the state that talks about a handgun, and it makes it criminal to give a handgun to a child. Long guns have long been protected by the legislature, and that is because they consider them to be hunting weapons, sporting weapons. You know, they don't want to criminalize a father giving his son, you know, a gun to shoot at the range or to take out a deer hunt or whatever it is they're going to do.But there is some laws that provide the sense that a parent can't act grossly negligent. You can't have criminal negligence that causes the death of another. And by making this gun accessible, by giving it to a minor child, knowing that this child was suffering from other factors, whether he was diagnosed by a health care professional, mental health professional, whatever, the parent was obviously aware of it because of the law enforcement intervention earlier, you know, that's in fact fits the statutes in this state. And I think that's why you saw a fairly quick decision by the prosecutor to bring charges of the case. It's going to be unusual, and frankly, remember, he's presumed innocent. He'll have to have a jury convict him of these things, and that can vary, frankly, from county to county, because you're going to have some places where, you know, they consider themselves very pro-gun.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:35:04",
+      "speaker": "KINKADE",
+      "sentences": "Yeah.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:35:04",
+      "speaker": "MOORE",
+      "sentences": "You'll have other places not.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:35:04",
+      "speaker": "KINKADE",
+      "sentences": "Well, we'll be following this case when they reappear in court, I believe, in December. Michael Moore, good to have you here. Thanks so much.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:35:04",
+      "speaker": "MOORE",
+      "sentences": "Great to be with you. Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:42:40",
+      "speaker": "KINKADE",
+      "sentences": "Welcome back. I'm Lynda Kinkade. You're watching a CNN.Boeing Starliner is back on earth after a successful landing. Take a look. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:42:40",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "Touchdown. Starliner is back on earth. That landing coming at 11 --(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:42:40",
+      "speaker": "KINKADE",
+      "sentences": "The spacecraft is Boeing's effort to provide commercial space service for NASA. The Starliner program has had numerous problems. Starliner launched in June and then docked with the International Space Station. It was supposed to return to earth the week later, but helium leaks and thruster problems prompted NASA to delay the return.CNN Aerospace Analyst Miles O'Brien joins us now from Falmouth, Massachusetts. Good to have you with us Miles up late at this hour, after seeing the Starliner land. How would you describe that landing? Was it a textbook landing? MILES O'BRIEN, CNN AEROSPACE ANALYST: Well, Lynda, yeah, it was a textbook landing. One detail, no passengers aboard which of course blemishes that good landing by quite a bit. Everything seemed to work according to plan of course, they'll be further data that will be revealed as time goes on here, but the thrusters clearly fired as they should. The Spacecraft was able to thread the needle and re-enter the atmosphere not too hot, not to -- not skipping off the atmosphere. Parachutes deployed, airbags deployed and they landed pretty much on target right there in White Sands, New Mexico. So you could say all's well that ends well. But that would not be right in this case because now begins a very thorough investigation as to what went wrong with this spacecraft Months ago as it approached the International Space Station and several of those thrusters which seemed to work OK tonight failed and those answers are still open.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:45:10",
+      "speaker": "KINKADE",
+      "sentences": "And talk to us about this collaboration between NASA and Boeing. Because this was a mission that was years behind schedule, more than a billion dollars over budget, what does this say about Boeing's future relationship with NASA in space?O'BRIEN: Yeah, I mean Boeing has been there, Lynda, since the beginning if you look at the company and all the companies it has acquired over the years. It's been involved in every program that NASA has flown including the space station itself. But this one was different in the sense that it was a fixed price contract previously Boeing has operated with NASA, with defense style contracts, cost plus as it is called. And there's not a different set of incentives there. When you have a fixed price and you have to deliver a certain thing any -- any overruns those costs are borne by the contractor itself. And in this case, Boeing perhaps in the space division wasn't able to adapt to this different kind of doing business in space. What that means for the future is -- is very uncertain that the company has a lot of other problems certainly on the civilian airliners side, the space portion of it is a separate division. But it might be a scenario where if it is determined a huge redesign is required of this spacecraft. It might not be cost-effective for Boeing to march forward. So lots of questions that remain open here.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:45:10",
+      "speaker": "KINKADE",
+      "sentences": "Yeah, and so talk to us more, Miles, about the lessons learned and how that could shape improvements in technology and potential design changes going forward?O'BRIEN: Yeah, it's -- you know, I think it's some of the lessons unfortunately were burned up in the atmosphere tonight. The thrusters in question didn't make it home. They were part of a service module portion of the spacecraft which gets jettisoned right before it re- enters the atmosphere. And so the smoking gun evidence is gone, which is too bad. Now, there's been a lot of data that they've developed while it was on orbit these months as they tested various aspects of how it would fire and so forth. But I think, you know, there is a lesson here on -- from NASA's perspective on how much it can safely afford to have a hands- off approach to building spacecraft. It has had great success doing the same type of contracting with SpaceX. But SpaceX comes at it as a much more nimble completely vertically integrated organization. They build everything themselves. Boeing a more traditional contractor with subcontractors in this case the thrusters built by Rocketdyne and perhaps not able to manage the -- the contract, the fixed-price contract in the same way. So maybe they need to think a little differently about how they supervise these programs. KINKADE: Yeah, exactly. Great insight as always. Miles O'Brien, pleasure having you on the show. Thanks so much. O'BRIEN: You're welcome, Lynda.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:53:02",
+      "speaker": "KINKADE",
+      "sentences": "Well, typhoon Yagi is closing in on northern Vietnam where it's expected to make another landfall in the coming hours. Yagi is re-intensified and is once again the equivalent of a category 4 Atlantic hurricane.One of the year's strongest storms, it is expected to bring significant wind damage and widespread rain from northern Vietnam to neighboring Laos through Sunday. The typhoon weakened slightly after making landfall on China's Hainan Island on Friday. But it still managed to pack a punch clocking a maximum sustained wind speeds of 230 kilometers per hour. That's about 140 miles per hour, making Yagi the strongest typhoon to make landfall on the popular holiday island in a decade. Ukrainian President Volodymyr Zelenskyy is warning of a significant shortfall in vital military aid. He urged international allies to speed up deliveries of promised air defenses while attending a meeting of the Ukraine Defense contract group in Germany. CNN's Frederik Pleitgen has more. (BEGIN VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:53:02",
+      "speaker": "FREDERIK PLEITGEN, CNN SENIOR INTERNATIONAL CORRESPONDENT",
+      "sentences": "Clearly a very important meeting by the Ukraine contact group for the Ukrainians, Ukrainian President Volodymyr Zelenskyy himself making his way to Rammstein in Germany to plead the country's case for more weapons deliveries.Now, one of the things that Volodymyr Zelenskyy said is he thanked the partner nations for the air defense weapons that they have already provided to Ukraine and of course also those that have been pledged. But he also warned that a lot of the air defense systems that partners have pledged for Ukraine have so far not arrived and that that every day is costing Ukrainian lives. Here's what he said.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:55:04",
+      "speaker": "PLEITGEN",
+      "sentences": "Now, of course all of this comes as Ukraine has suffered some of the most severe Russian airstrikes over the past a couple of weeks. In fact, in the middle of this week, there was a big strike on the city of Poltava killing more than 50 people and wounding nearly 300. At the same time this Monday, there were massive strikes on the city of Kyiv just as children were set to go back to school for the new term.But on top of air defense systems, which Ukrainians say are absolutely essential to them. The Ukrainians also say that they need in general more weapons and longer-distance weapons and the other thing that they're demanding specifically from the United States is to lift some of the restrictions on using those longer-distance weapons to strike deeper into Russian territory. Now, Ukraine's partners first and foremost the United States have said they will continue to provide Ukraine with that essential military support. Fred Pleitgen, CNN Central Ukraine. (END VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

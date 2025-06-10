@@ -1,0 +1,235 @@
+{
+  "date": "2023-04-28",
+  "headline": "CNN News Central",
+  "subHeadline": "Rep. Jim Himes (D-CT) Discusses Pentagon Leak Suspect's History Of Violent, Racist Remarks, Security Clearances, Pentagon To Review Vetting Process; MTA Suspends Use Of Twitter For Service Alerts; Spacewalk Underway To Upgrade International Space Station Power Station; Study: ChatGPT Outperforms Doctors On Providing Medical Advice. Aired 1:30-2p ET",
+  "utterances": [
+    {
+      "timeStamp": "13:30:17",
+      "speaker": "JIM SCIUTTO, CNN HOST",
+      "sentences": "Stunning further details from prosecutors about intelligence leak suspect, Jack Teixeira, have raised yet more serious questions. Namely, how someone like this fell through the cracks and yet still got a top-secret security clearance.The Justice Department says, just a few months ago, Teixeira posted that he wanted to, quote, \"kill a blank ton of people\". And allegedly asked a user for tips on carrying out a mass shooting. Court documents allege that a pennant with the insignia of the Russian military general staff -- you see there -- was found hanging in the suspect's bedroom. Joining us is the ranking member of the House Intelligence Committee, Democratic Congressman Jim Himes. Congressman, thanks so much for taking the time today. REP. JIM HIMES (D-CT): Thanks for having me, Jim.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:30:17",
+      "speaker": "SCIUTTO",
+      "sentences": "Given the failures here -- and you have been watching this closely, and as a member of the intelligence committee, you have been briefed on this and how this happened.Since this is not the first time that we have seen breaches, particularly in the Defense Department, did DOD Fail not just in this case, a failure here, but in its broader standards and protocols for granting security clearances?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:30:17",
+      "speaker": "HIMES",
+      "sentences": "You know, I think it is not nearly the system it needs to be. And the list of things that we need to do as a Congress and that the DOD And the I.C. need to tighten up on is very long.I mean, some of it is really kind of head-shaking. You know, interestingly enough that this individual had access to the information. He was just a network administrator, didn't really need to read the information. But he could print it out. I mean, that just boggles the mind that -- there's obviously a technological issue there. There are culture issues. My understanding is that the leadership of that particular unit has been dismissed. You know, I'm sure there was a lot about not sufficient training. But you raise a really interesting question, which is, are we screening people well enough? You take me back to when Edward Snowden blew all those secrets from the NSA. I looked at Edward Snowden's resume and I thought, I would not hire this guy to be an intern in my office, and yet he had the highest security clearances there are. So I think we need to do a much better job at looking at people's background. Not just phoning up to see if somebody may be disloyal, but looking at the data that is out there that might raise red flags.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:30:17",
+      "speaker": "SCIUTTO",
+      "sentences": "Let me ask you this then. If there are still open questions, if those standards are still too lax today, should the DOD pause issuing clearances?Because what's to prevent someone else from getting through at this point? Or do they have to do, in addition to that, a vetting, right, an audit of all the folks who already have clearances?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:30:17",
+      "speaker": "HIMES",
+      "sentences": "Yes. Well, as a practical matter, you can't stop issuing clearances, right? You need new people. We constantly have people retiring from places like the CIA and the DIA and the NSA. You can't stop granting clearances. You really need to fix the plane while it's flying.But look, there's some things that feel like a no-brainer to me. Right now, at least the Pentagon doesn't look at your publicly available social media, your Twitter feed, your Facebook, et cetera. Publicly available so you have no expectation of privacy in that. And they don't look at that. Well -- and by the way, I should acknowledge that that could get -- there are a lot of gray areas, right? You wouldn't be denied a security clearance because you're an ardent Republican or ardent Democrat or because you have strong political feelings. But if somewhere, you're posting that you would like to kill a whole lot of people, at a minimum, that should lead to further conversations, and today it doesn't.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:30:17",
+      "speaker": "SCIUTTO",
+      "sentences": "Let me ask you about another issue here because these closed chat groups, this Discord group is not like posting to Facebook or Twitter in that you can't see it publicly, right? We know that the I.C. has trouble penetrating those closed groups.What's the solution for that? Because you can stop posting \"I want to kill people\" on social media, but still share it with a dozen friends via a gaming platform.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:30:17",
+      "speaker": "HIMES",
+      "sentences": "Yes. So I mean, in that case, you've got some both technical and legal issues, right?So the legal issue, of course, is do you have a reasonable expectation of privacy? If the answer to that question is yes, the government can't go in there without a warrant or without special authority. Then you've got a technological issue. I mean, again, I'm pulling my hair out over the fact that this classified information lived in various chat rooms and I think publicly available for months, right?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:30:17",
+      "speaker": "SCIUTTO",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:30:17",
+      "speaker": "HIMES",
+      "sentences": "On the one hand, you say that should never be true. On the other hand, you also don't want a world in which NSA and CIA are sending crawlers all over the Internet constantly to look for this stuff.So both the legal and the technical aspects of this are challenging.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:35:10",
+      "speaker": "HIMES",
+      "sentences": "It's hard to answer that question because you don't know what you don't know.Now what I can tell you is -- and you can get into classified realms here pretty quickly. What I can tell you is that anything that was accessed and downloaded and certainly printed, if we don't know it today, we will know it very, very soon. But, again, I've learned to be a little skeptical about our technical capabilities. So it's a very hard to answer that question that you just asked. But it's a very serious issue, and it's one that we're going to push the FBI and the I.C. to be all over.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:35:10",
+      "speaker": "SCIUTTO",
+      "sentences": "Congressman Jim Himes, we appreciate you joining us today.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:35:10",
+      "speaker": "HIMES",
+      "sentences": "Thank you, Jim.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:35:10",
+      "speaker": "SCIUTTO",
+      "sentences": "Goodness. Lots more to know, Boris. That's one thing we keep hearing every day on this.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:35:10",
+      "speaker": "BORIS SANCHEZ, CNN HOST",
+      "sentences": "Certainly, Jim.So Twitter has left the station. North America's largest transportation network is saying so long to the tech company. New York's MTA is suspending Twitter use for service alerts, claiming the reliability of the platform can no longer be guaranteed. Joining us now, CNN media analyst and senior media reporter for \"Axios,\" Sara Fischer. Sara, great to see you. Another day, another public resource off of the platform.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:35:10",
+      "speaker": "SARA FISCHER, CNN MEDIA ANALYST",
+      "sentences": "Yes, it's a big deal. The Metro Transport Authority represents 15 million-ish people across New York, Long Island, et cetera. So a lot of people will be impacted by this.This handle itself has 1.3 million followers. And so when people want to go on Twitter and find out if there's a subway delay, a crash, if people could be hurt, they want to know this is a tool and a resource. What the MTA is saying is that because Twitter is now charging for back-end access to be able to plug in their API, which is kind of like a technical term for being able to share data --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:35:10",
+      "speaker": "SANCHEZ",
+      "sentences": "Right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:35:10",
+      "speaker": "FISCHER",
+      "sentences": "-- they no longer can service these alerts. Basically, they no longer can afford it. They're not going to pay tens of thousands of dollars a year to send these alerts.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:35:10",
+      "speaker": "SANCHEZ",
+      "sentences": "Could this spell bigger problems for Twitter?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:35:10",
+      "speaker": "FISCHER",
+      "sentences": "Yes. They're not the only ones who have done this. Air France has also said they will not be sending alerts. National weather services around the country have said it's harder for them to send alerts when it comes to tornadoes and natural disasters.I think ultimately this means that Twitter will no longer be an authoritative place where people can get information about transportation, emergency services. To me, that will make the platform less useful.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:35:10",
+      "speaker": "SANCHEZ",
+      "sentences": "We should note, it appears that Elon Musk is paying for some celebrities to get verified. Maybe public resources that people use. Maybe that's a good idea. I don't know. I'm just saying.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:35:10",
+      "speaker": "FISCHER",
+      "sentences": "You know, it's interesting. He is not -- he was not going to charge organizations like MTA to be verified. Now he's giving it to them somewhat for free, but at a discount. But you can still pay for it as an organization.But what he's not paying for is their access to Twitter's back-end data, and that's what they need to send the alerts. In fact, if you are MTA, I think verification matters. But what matters more is being able to physically alert people when there's a problem, and that Elon Musk has not indicated any willingness to pay for anyone.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:35:10",
+      "speaker": "SANCHEZ",
+      "sentences": "All right. Sara Fischer, thank you so much for that. FISCHER",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:35:10",
+      "speaker": "SANCHEZ",
+      "sentences": "Brianna?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:42:49",
+      "speaker": "SCIUTTO",
+      "sentences": "Now to some of the other headlines we are watching this hour.After nearly a decade and multiple Emmy Awards, James Corden bid farewell to \"The Late Late Show.\" He gave a heartfelt parting message Thursday night, calling on Americans to look past our differences and instead, quote, \"look for the light.\" Also, an emotional moment to kick off the 2023 NFL draft. The National Football League honored the lives of the three University of Virginia football players who were killed in a shooting during a class field trip, you may remember, back in November. The NFL commissioner, Roger Goodell, welcomed the families of the three Devin Chandler, DeShawn Perry and Lavel David Jr on stage for a tribute celebrating the legacies of these young athletes. And it was a harrowing journey home for a group of middle schoolers in Warren, Michigan. You've got to watch this. Their driver -- you can see on the camera there -- fell unconscious. That prompted one student to jump into action. You can see there he took the wheel. Carter Middle School honored seventh grader, Dylan Reeves, during a press conference on Thursday. They called his actions -- and they're right -- quote, \"an extraordinary act of courage and maturity.\" Reeves was able to bring the bus all the way to a full stop. No students were injured. The driver's doing OK. He does remain in the hospital for examination. Brianna?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:45:02",
+      "speaker": "KEILAR",
+      "sentences": "You've done a number of these yourself. But I wonder if you can kind of look back to your first one -- I imagine you can't fully know what to expect until you're doing it.So put yourself, for us if you will, in Al Neyadi's boots or shoes because this is momentous on his first one. Tell us what it's like.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:45:02",
+      "speaker": "GARAN",
+      "sentences": "It is. My first spacewalk was also on my first space mission, and so everything is new.And, you know, I think, as humans, we experience everything in the context of what we have experienced in the past. And when you go out the hatch on a spacewalk, there's no prior context to compare this experience to. It is a brand-new experience. And my first spacewalk, it almost didn't feel real. It was almost as if I was watching it unfold in front of me, as if it was on a video. But obviously, it was very real. And after a while, after you do a few of them, it starts to sink in, the real magnitude of that experience.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:45:02",
+      "speaker": "KEILAR",
+      "sentences": "I also want to mention you got to the International Space Station on a Russian Soyuz rocket. We heard here in the last few days from NASA's administrator, Bill Nelson, that he does expect that Russia/U.S. space cooperation is going to continue through 2030 when the ISS is supposed to be decommissioned.What does that mean to you that the cooperation in space exploration is continuing between the U.S. and Russia, even as we see this war in Ukraine playing out?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:45:02",
+      "speaker": "GARAN",
+      "sentences": "Right. I think this is a really important point. And the point is that we have built a foundation that we can potentially jump off from, a foundation based on things we agree upon, like space exploration, that we can potentially now use to start to address the things we don't agree on, like the war in Ukraine.So despite everything that has happened and everything that is happening in Ukraine, there still remains cooperation in space. Albeit, that cooperation is very fragile. But I think it really drives the point home that when we find the low- hanging fruit, when we find those points of commonality, those things we agree on, we need to double down on those, and we need to keep the doors of dialogue open and we need to keep talking. The worst thing we can do in any crisis, any situation is to stop talking to each other, stop -- you know, close those lines of communication, stop working together. So I think it's really, really important that we see this as a shining example of international cooperation. And, you know, we're going to get past this present crisis, and we're going to learn from it, hopefully mature from it, hopefully evolve past this because it's obviously a very, very horrible thing that's happening. But I think this is a shining light amidst that terrible situation.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:45:02",
+      "speaker": "KEILAR",
+      "sentences": "Yes. Let's certainly hope.Look, Colonel, thank you so much. There are so few people who have been in this position to tell us about what it's like to go through a spacewalk, especially in this historic one. So thank you for your time today.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:45:02",
+      "speaker": "GARAN",
+      "sentences": "Thank you, Brianna.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:49:02",
+      "speaker": "SANCHEZ",
+      "sentences": "Coming up, the A.I. doc will see you now. Does ChatGPT have better bedside manners than your doctors? What studies are revealing about the role of artificial intelligence in medicine, when we come back.(COMMERCIAL BREAK)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:49:02",
+      "speaker": "SANCHEZ",
+      "sentences": "Thanks, Doc, but I'm going with the chat bot. That's essentially the conclusion of a new study comparing how people responded to medical advice from ChatGPT versus real-life doctors. In some cases, 100 percent of those asked preferred the bot.CNN's health reporter, Jacqueline Howard, joins us now live with more on this. Jacqueline, what kind of medical advice are people getting from ChatGPT?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:54:58",
+      "speaker": "SANCHEZ",
+      "sentences": "The second one reads like it was written by a computer so I'll go with that longer answer.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:54:58",
+      "speaker": "HOWARD",
+      "sentences": "It's natural to be concerned?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:54:58",
+      "speaker": "SANCHEZ",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:54:58",
+      "speaker": "HOWARD",
+      "sentences": "Yes. Yes. That was the chat bot. You're right. It is interesting. You passed the test.But it is interesting that the chat bot response was a lot longer, like you pointed out, and it tended to have a little more empathy. Like it started out saying, it's natural to be concerned, or, I understand, I'm sorry you might feel this way, whereas the doctors were more succinct and to the point. This study just shows that A.I. might be able to be used as a tool to help guide doctors in their communications with patients -- Boris?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:54:58",
+      "speaker": "SANCHEZ",
+      "sentences": "Well, that is much kinder bedside manner than the first response, which was kind of like, yes, we may not be able to get that toothpick. You might be screwed.(LAUGHTER)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:54:58",
+      "speaker": "SANCHEZ",
+      "sentences": "Jacqueline Howard, thank you so much for the reporting.Brianna?",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

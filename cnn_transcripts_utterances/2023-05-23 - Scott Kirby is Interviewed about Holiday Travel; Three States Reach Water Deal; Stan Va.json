@@ -1,0 +1,631 @@
+{
+  "date": "2023-05-23",
+  "headline": "CNN This Morning",
+  "subHeadline": "Scott Kirby is Interviewed about Holiday Travel; Three States Reach Water Deal; Stan Van Gundy is Interviewed about the NBA Playoffs. Aired 8:30-9a ET",
+  "utterances": [
+    {
+      "timeStamp": "08:30:58",
+      "speaker": "POPPY HARLOW, CNN ANCHOR",
+      "sentences": "You're probably going away maybe this weekend for the long Memorial Day weekend. It's just days away. And airlines are bracing for significant crowds. AAA forecasts that 3.4 million travelers will fly this holiday weekend. That's up 11 percent over last year. This will be a true test for the airline industry which suffered mass cancellations and delays last summer. And as many more passengers take to the skies, the FAA is also warning of more delays out of some airports in particular that could increase up to 45 percent over last summer.Joining us now is United Airlines CEO Scott Kirby. Scott, good morning. It's good to have you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:30:58",
+      "speaker": "SCOTT KIRBY, CEO, UNITED AIRLINES",
+      "sentences": "Good morning. Thanks for having me.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:30:58",
+      "speaker": "HARLOW",
+      "sentences": "We don't want another last summer. You don't want another last summer. Can you guarantee people United is prepared for this surge in demand over the summer, or should they buckle up for more delay and cancellations?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:30:58",
+      "speaker": "KIRBY",
+      "sentences": "Well, I think the whole industry has done a very good job of getting prepared for this summer. At United, you know, we have 10 percent more employees per block hour than we had pre-pandemic. We've got 25 percent more spare aircraft. We've doubled our investment in spare parts around the system. And so we are -- we are prepared. We've also, this year so far, have run the best operation that we've run in our history.You know, there will be weather. There will be air traffic control delays that happen here and there, but we feel very well prepared for the summer.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:30:58",
+      "speaker": "HARLOW",
+      "sentences": "OK. So, bottom line, people won't experience -- not weather- related, but other than weather, the same thing they had to deal with last summer for United?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:30:58",
+      "speaker": "KIRBY",
+      "sentences": "Well, it won't (ph) be perfect. It's never - it's never going to be perfect. But, you know, we - again, we have the lowest cancellation rate that we've had in our history. We're running the best operation we have in our history. And so I think it will be, you know - you know, summers are always busy. There's always thunderstorms. There's always those challenges. So, it won't be perfect, but I think it will be a good summer overall.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:30:58",
+      "speaker": "HARLOW",
+      "sentences": "How worried are you about the FAA's shortage in air traffic controllers?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:30:58",
+      "speaker": "KIRBY",
+      "sentences": "It's my number one concern for the long term and -- for the near term and the long term on structural.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:30:58",
+      "speaker": "HARLOW",
+      "sentences": "Wow.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:30:58",
+      "speaker": "KIRBY",
+      "sentences": "I mean the secretary of transportation, you know, publicly said a couple weeks ago that the air traffic control system is 3,000 controllers short. We have fewer controllers today than we had 30 years ago.I'm here in Denver the last two days, you know, because of sick calls, they had a staffing shortage, reduced the capacity of the airport by 30 percent.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:30:58",
+      "speaker": "HARLOW",
+      "sentences": "Right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:30:58",
+      "speaker": "KIRBY",
+      "sentences": "The arrival rate at this, you know, huge, wonderful facility, 30 percent reduced because we have air traffic controller delays. And the -- the challenge is, you know, it's a two to three-year period of training from the time you start. And you need 3,000 controllers and there's something like 1,500 a year retiring.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:30:58",
+      "speaker": "HARLOW",
+      "sentences": "Wow.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:30:58",
+      "speaker": "KIRBY",
+      "sentences": "And so what we really need is the FAA reauthorization bill to authorize more funds. It's not their fault, by the way. It's a 20-year problem. That we need money so that they can have the authorization to go start hiring and addressing it. But if we don't address -- this is - this is the issue that limits the operations around the country. It's by far the biggest issue.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:30:58",
+      "speaker": "HARLOW",
+      "sentences": "Clearly your biggest concern and that says a lot because you have a lot of things to think about every day.Let me ask you about what the Biden administration has been speaking a lot about and what they put forth just a few weeks ago saying they're going to establish basically new rules - a new rule to require airlines to provide cash payments instead of just refunds for significant travel disruptions that are not caused by weather, that are within your control as an airline.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:30:58",
+      "speaker": "KIRBY",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:30:58",
+      "speaker": "HARLOW",
+      "sentences": "How will that affect United? Do you support this?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:35:00",
+      "speaker": "HARLOW",
+      "sentences": "OK.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:35:00",
+      "speaker": "KIRBY",
+      "sentences": "And we should focus on getting the FAA reauthorization done and getting more staffing for them.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:35:00",
+      "speaker": "HARLOW",
+      "sentences": "OK. But bad policy is your view on what the White House wants to do.Look, I -- every CEO right now has to be thinking, is this country going to default potentially in nine days. I'd just like your private sector view on that. Your message to Congress, Scott, this morning.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:35:00",
+      "speaker": "KIRBY",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:35:00",
+      "speaker": "HARLOW",
+      "sentences": "And what a default would mean for all your employees.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:35:00",
+      "speaker": "KIRBY",
+      "sentences": "So, look, I think we've done a pretty good job this year of going through, you know, the inflation and, you know, what the Fed has done to get inflation headed back in the right direction. I think our base case is, we're either going to have a mild recession or a soft landing. And that's a pretty good outcome.But the economy is balanced on a knife's edge. We saw this with Silicon Valley Bank. We had a 15 percent drop in bookings right after that happened.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:35:00",
+      "speaker": "HARLOW",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:35:00",
+      "speaker": "KIRBY",
+      "sentences": "That was just a scare. But we should not have an unforced error. And we did our political class on both sides equal to find a compromise and avoid an unforced error that could tip an otherwise pretty good economy into something really bad, that could affect the whole -- everyone, all of their constituents -",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:35:00",
+      "speaker": "HARLOW",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:35:00",
+      "speaker": "KIRBY",
+      "sentences": "Whether they're Democrats or Republicans. It affects their constituents on both sides. Let's just get it done.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:35:00",
+      "speaker": "HARLOW",
+      "sentences": "But the fact that you had a 15 percent drop in bookings after just one California bank failed, what are you predicting?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:35:00",
+      "speaker": "KIRBY",
+      "sentences": "Yes, after -",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:35:00",
+      "speaker": "HARLOW",
+      "sentences": "Are you modeling out like JP Morgan has a war room where three times a day they're meeting to discuss what a default would mean.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:35:00",
+      "speaker": "KIRBY",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:35:00",
+      "speaker": "HARLOW",
+      "sentences": "Do you have that? Are you modeling out what that would mean for your business?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:35:00",
+      "speaker": "KIRBY",
+      "sentences": "We're watching it, but, you know, we're - you know, unlike JP Morgan, who's doing a lot of - you know, financial -",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:35:00",
+      "speaker": "HARLOW",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:35:00",
+      "speaker": "KIRBY",
+      "sentences": "Things will happen immediately (ph). It will be a little slower fuse for us. And we're watching it. And my hope is that we avoid it entirely, but that also that we get through it quickly. But it just -- it puts a huge risk on the economy because the kind of things that Jamie Dimon has to worry about at JP Morgan, they can become a contagion. That's the risk of this. You know, you knock one domino down and the other dominos start to fall.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:35:00",
+      "speaker": "HARLOW",
+      "sentences": "Right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:35:00",
+      "speaker": "KIRBY",
+      "sentences": "And if it's just the one domino and two days later nothing else happens, then it's no big deal. But you - you -- why do you want to knock one domino down when the rest of them are lined up and -",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:35:00",
+      "speaker": "HARLOW",
+      "sentences": "By the way, you don't have to.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:35:00",
+      "speaker": "KIRBY",
+      "sentences": "And this is why we should just avoid it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:35:00",
+      "speaker": "HARLOW",
+      "sentences": "Right. Right, you don't have to. It's totally self-inflicted.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:35:00",
+      "speaker": "KIRBY",
+      "sentences": "I agree. I agree.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:35:00",
+      "speaker": "HARLOW",
+      "sentences": "Let me end on this.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:35:00",
+      "speaker": "KIRBY",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:35:00",
+      "speaker": "HARLOW",
+      "sentences": "We've been talking a lot about AI as a society, but -- and in particular on this show we're all fascinated by it and a little terrified, if I'm being honest. How do you think about artificial intelligence, Scott, running one of the biggest airlines in the world?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:35:00",
+      "speaker": "KIRBY",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:35:00",
+      "speaker": "HARLOW",
+      "sentences": "Are there problems it could help solve for United? It's not going to fly our planes, I hope.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:35:00",
+      "speaker": "KIRBY",
+      "sentences": "It's not going to fly our planes. But I think there are huge opportunities for us. One of the ones that I'm most intrigued with is communicating better with consumers. When something happens and we have a delay or a cancellation, you know, I think we're better than any other airline in the world at actually telling you what's going on and telling you why. But we're still not good at it.And I think artificial intelligence -- this is just an example. There's tons of example. But an example of where we can tell you, like, look, there's - there's xyz issue, there's this maintenance issue, there's this - there's a strike in Paris and because of that, you know, your airplane is on the ground in Paris and it's going to be delayed. Whatever the -- giving people the details of what causes a delay or cancellation is one of those examples. If you tell people what's going on, it just de-stresses the situation. They can understand. They may not like it, but they can understand.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:35:00",
+      "speaker": "HARLOW",
+      "sentences": "Could - OK. Do you think it could fix the lack of enough -- having enough FAA and air traffic controllers?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:35:00",
+      "speaker": "KIRBY",
+      "sentences": "You know, I am intrigued with the idea of changing how we use airspace. Today we still fly highways in the sky that were laid down 100 years.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:35:00",
+      "speaker": "HARLOW",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:35:00",
+      "speaker": "KIRBY",
+      "sentences": "A lot of them were old bonfires (ph). And so instead of flying, you know, straight from here in Denver to you in New York, we fly a zig-zag path on the highways in the sky. I'm intrigued that AI might help us get more efficient in the air traffic system. That will take years. I mean, look, the FAA's got to have different technology before we can do that.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:35:00",
+      "speaker": "HARLOW",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:35:00",
+      "speaker": "KIRBY",
+      "sentences": "But it is an intriguing possibility somewhere down the road.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:35:00",
+      "speaker": "HARLOW",
+      "sentences": "Yes. All right, we look forward to it. Scott Kirby, CEO of United Airlines. Always good to have you. Thanks.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:35:00",
+      "speaker": "KIRBY",
+      "sentences": "Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:43:40",
+      "speaker": "SIDNER",
+      "sentences": "Three states have reached a landmark deal to protect the Colorado River, Arizona, California and Nevada. They agreed to cut at least 3 million acre feet of water through 2026. About 10 percent of the state's Colorado River allocation. This comes after months of tense negotiations to save the vital watersupply. CNN's Lucy Kafanov has all the details. (BEGIN VIDEOTAPE) LUCY KAFANOV, CNN CORRESPONDENT (voice over):  A landmark deal to prevent the Colorado River crisis from worsening. The Biden administration striking an agreement with California, Arizona and Nevada to cut at least 3 million acre feet of water from the river through 2026.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:43:40",
+      "speaker": "BRONSON MACK, PUBLIC INFORMATION OFFICER, LAS VEGAS WATER DISTRICT",
+      "sentences": "This is the largest conservation agreement in the history of the Colorado River. So, it really is monumental.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:43:40",
+      "speaker": "KAFANOV",
+      "sentences": "That's roughly 10 percent of the water supply those states rely on from the river. California plans to contribute more than half of the allotted savings.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:43:40",
+      "speaker": "SHON HIATT, PROFESSOR, UNIVERSITY OF SOUTHERN CALIFORNIA",
+      "sentences": "Historically, this water has been extremely contentious, all right. California was not going to give up its seniority rights for water. So what I see today was quite historic in that California was willing to seed some of its water rights.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:01",
+      "speaker": "KAFANOV",
+      "sentences": "But the drought has pushed farmers, like Will Thelander, to the brink.KAFANOV (on camera): Do you fear that the future of farming in Arizona is under threat?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:01",
+      "speaker": "WILL THELANDER, ARIZONA FARMER",
+      "sentences": "Yes. No one can produce it like the Colorado River can for food. It's just -- nowhere on earth is it done like that. So, yes, I'm really worried. Fifty years down the road, unless we come up with solutions, farming won't be here.(END VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:01",
+      "speaker": "KAFANOV",
+      "sentences": "Now, the proposed cuts amount to about half of the reductions the federal officials initially called for. So, there are some concerns that this reduction won't necessarily be enough to sustain the system as drought conditions intensify in the years to come, but the proposal does buy some more time. The plan now must go -- undergo a review and the federal government is expected to release a common schedule later this week.Sara, Poppy, back to you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:01",
+      "speaker": "SIDNER",
+      "sentences": "Lucy, this is really significant and it is really scary to see how low the Colorado River has gotten.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:01",
+      "speaker": "HARLOW",
+      "sentences": "yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:01",
+      "speaker": "SIDNER",
+      "sentences": "Appreciate your reporting.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:50:58",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "It's over! It's over! Denver makes history. The Nuggets are going to the NBA finals for the first time in franchise history.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:50:58",
+      "speaker": "HARLOW",
+      "sentences": "We really mean it when we say a history-making night in the NBA with Denver ending the Lakers' season after a four-game sweep and now heading to the NBA finals for the first time ever. With four seconds on the clock, LeBron drove to the bucket, but his attempt at a tie was blocked. Still, the Lakers star set his personal record with 31 points in the first half of a conference game, but it might not be enough for him to stay. There's speculation about LeBron's future after he delivered this message in a post - in the postgame pre conference -- postgame press conference.(BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:50:58",
+      "speaker": "LEBRON JAMES, LOS ANGELES LAKERS FORWARD",
+      "sentences": "I have a lot to think about, to be honest. And just for me personally going - going forward with the game of basketball, I got a lot to think about.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:50:58",
+      "speaker": "HARLOW",
+      "sentences": "Joining us now, former Miami Heat coach and analyst for \"NBA on TNT,\" Stan Van Gundy. Stan, you've got be happy about the Heat.STAN VAN GUNDY, ANALYST, \"NBA ON TNT\": Well, the Heat are happy about the Heat. You know, to be ahead as an eighth seed 3-0 in the conference finals, I think everyone is surprised. Boston was the team left in the playoffs with the best record and they've been dominated in this series.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:50:58",
+      "speaker": "SIDNER",
+      "sentences": "All right, we heard the comment from LeBron -",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:50:58",
+      "speaker": "HARLOW",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:50:58",
+      "speaker": "SIDNER",
+      "sentences": "After someone asked him. Would you -- what did you make of it? It's leading to people saying, uh-oh, he is going to retire after this season.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:50:58",
+      "speaker": "VAN GUNDY",
+      "sentences": "He's not going to retire. I don't think that guy's ever going to retire. I think 20 years from now we're going to be talking about what he's doing at 58 years old. I mean, what he's doing at 38 -",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:50:58",
+      "speaker": "SIDNER",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:50:58",
+      "speaker": "VAN GUNDY",
+      "sentences": "Most guys would give their right arm for one season like that in the prime of their career. He's been absolutely amazing. You know it's coming at some point where he'll retire, but I think he's serious about wanting at least to try to play with his son. So, I think he'll hang on for a little while longer. He's still playing at a really high level.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:50:58",
+      "speaker": "HARLOW",
+      "sentences": "So why do you think he said that? Just exhaustion from the season, disappointment? I mean, every -- we all have to reassess at certain points, right?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:50:58",
+      "speaker": "VAN GUNDY",
+      "sentences": "Well, absolutely. And I think, for a professional basketball player at 38 years old, I think he's had to reassess probably several times. And I think at the end of that -- look, he didn't even come out in the first half until there were four seconds to go last night. The guy was obviously exhausted, disappointed, everything else. And it will make you think.But I think as he gets some rest and realizes he can still play at a really, really high level and -- he's already the NBA's all-time leading scorer. This guy could get to 40,000 points and start to put some of those records out of reach.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:50:58",
+      "speaker": "SIDNER",
+      "sentences": "The Lakers went to the playoffs as the seventh seed, which is pretty unusual for the Lakers. Are you surprised by this sweep?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:50:58",
+      "speaker": "VAN GUNDY",
+      "sentences": "I really wasn't totally surprised. The games were all really competitive. I mean, it wasn't like Miami just blew out Boston in game three. There were no games like that in that series. They were all very, very close.What has surprised me all year is people have underestimated the Denver Nuggets. The Denver Nuggets, from the middle of December on, were in first place in the west. They have -- they're 12-3 in the playoffs. They're just rolling through people. And people have talked about everyone else as the team to beat in the west. The Warriors, the Lakers, the Suns, the Clippers.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:50:58",
+      "speaker": "HARLOW",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:50:58",
+      "speaker": "VAN GUNDY",
+      "sentences": "No one was talking about Denver, even though they had been the best team. I think now people will have to concede that Denver was clearly the best team in the west all year.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:55:02",
+      "speaker": "VAN GUNDY",
+      "sentences": "A probably the favorite to win the championship going in. But I certainly wouldn't count out the Miami Heat.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:55:02",
+      "speaker": "SIDNER",
+      "sentences": "Stan, forgive me, I'm going to get in big trouble, but I have to ask you, who is the GOAT, the greatest of all time, Michael Jordan or LeBron James?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:55:02",
+      "speaker": "VAN GUNDY",
+      "sentences": "Well, I think we leave some names out of that, unfortunately. So I'm going to, as any great politician would do, I'm just going to hedge on this.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:55:02",
+      "speaker": "HARLOW",
+      "sentences": "(INAUDIBLE).",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:55:02",
+      "speaker": "SIDNER",
+      "sentences": "Oh, come on, Stan.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:55:02",
+      "speaker": "VAN GUNDY",
+      "sentences": "And if you're in the discussion - no, no, if you're in the discussion, that's good enough for me. But we need to include Kareem Abdul Jabbar -",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:55:02",
+      "speaker": "SIDNER",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:55:02",
+      "speaker": "HARLOW",
+      "sentences": "Totally.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:55:02",
+      "speaker": "SIDNER",
+      "sentences": "Absolutely.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:55:02",
+      "speaker": "VAN GUNDY",
+      "sentences": "Who maybe had the best career of anyone.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:55:02",
+      "speaker": "SIDNER",
+      "sentences": "Agreed.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:55:02",
+      "speaker": "VAN GUNDY",
+      "sentences": "Certainly Bill Russell's championships bring him into the equation. And people have to look at guys like Wilt Chamberlain and Oscar Robertson and what they did throughout their careers. So, it's not a -- it's not a two-man race by any means, but it's hard to say that anyone - I'll say this, it would be hard for anyone to make the case that anyone has had a better career than LeBron James.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:55:02",
+      "speaker": "SIDNER",
+      "sentences": "All right. Stan, thank you for that political answer. Appreciate it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:55:02",
+      "speaker": "HARLOW",
+      "sentences": "Thanks, Stan.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:55:02",
+      "speaker": "SIDNER",
+      "sentences": "Happening in the next hour -",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:55:02",
+      "speaker": "VAN GUNDY",
+      "sentences": "Thanks.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:00:19",
+      "speaker": "HARLOW",
+      "sentences": "We wouldn't leave you without a \"Morning Moment,\" especially this one.Cowboys on horseback in Michigan trying to lasso a runaway cow in the middle of I-75. The cow was eventually captured, and traffic resumed to normal. But that is quite some video.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:00:19",
+      "speaker": "SIDNER",
+      "sentences": "Giddy up.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:00:19",
+      "speaker": "HARLOW",
+      "sentences": "The producers were right, that is quite some video.Thank you for being with us. Thank you for being with me.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:00:19",
+      "speaker": "SIDNER",
+      "sentences": "My pleasure.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:00:19",
+      "speaker": "HARLOW",
+      "sentences": "You can sleep a little more tomorrow.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:00:19",
+      "speaker": "SIDNER",
+      "sentences": "Hey.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:00:19",
+      "speaker": "HARLOW",
+      "sentences": "Go back to your normal show, lucky duck, at 9",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

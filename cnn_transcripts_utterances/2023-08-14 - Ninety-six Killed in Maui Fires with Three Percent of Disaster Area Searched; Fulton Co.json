@@ -1,0 +1,385 @@
+{
+  "date": "2023-08-14",
+  "headline": "CNN This Morning",
+  "subHeadline": "Ninety-six Killed in Maui Fires with Three Percent of Disaster Area Searched; Fulton County, Georgia, District Attorney Fani Willis to Present Evidence to Grand Jury Concerning President Trump's Attempt to Overturn 2020 Presidential Election Results in Georgia; Attorney General Merrick Garland Gives U.S. Attorney David Weiss Special Counsel Status in Hunter Biden Investigation. Aired 8-8:30a ET",
+  "utterances": [
+    {
+      "timeStamp": "08:00:40",
+      "speaker": "POPPY HARLOW, CNN ANCHOR",
+      "sentences": "Morning, everyone. Top of the hour, 8",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:00:40",
+      "speaker": "PHIL MATTINGLY, CNN ANCHOR",
+      "sentences": "Good morning.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:00:40",
+      "speaker": "HARLOW",
+      "sentences": "Good morning. We have a lot to get to. We'll get to the destruction in Hawaii in a moment, but let's start here. The district attorney in Fulton County, Georgia, gearing up to present her case to a grand jury as Donald Trump faces a fourth potential indictment for trying to overturn the election. We have exclusive reporting on evidence obtained by prosecutors directly linking Trump's lawyers to the breach of a voting system there.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:00:40",
+      "speaker": "MATTINGLY",
+      "sentences": "And CNN is on the ground in Maui where the death toll from the catastrophic wildfires has risen to 96 and it's expected to keep climbing. Only three percent of the scorched area even searched.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:00:40",
+      "speaker": "HARLOW",
+      "sentences": "Police in Los Angeles trying to track down a flash mob of robbers who ransacked a Nordstrom's store in broad daylight.This hour of CNN THIS MORNING starts right now.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:00:40",
+      "speaker": "MATTINGLY",
+      "sentences": "You're looking at live pictures of the Fulton County courthouse. This morning, a fourth possible indictment now looming over Donald Trump as the district attorney in Fulton County, Georgia, prepares to present her case to a grand jury. As soon as today, Fani Willis is expected to start presenting evidence in her sprawling investigation for the alleged scheme to overturn Joe Biden's 2020 election victory in the state.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:00:40",
+      "speaker": "HARLOW",
+      "sentences": "CNN has exclusively learned through reporting by our colleague, Sara Murray and Zach Cohen that prosecutors have obtained text messages and e-mails that show Trump's lawyers were behind the breach of a voting system in Georgia. Sources say the messages showed Trump's team pushed for and gained access to sensitive voting software in the heavily Republican county there as they desperately tried to find evidence to back up their baseless claims of election fraud. And over the weekend, Trump continued to insist he did nothing wrong.(BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:00:40",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Is there any chance you'd take a plea deal in Georgia?DONALD TRUMP, FORMER U.S. PRESIDENT:  We don't take plea deals. We did nothing wrong. We don't ever take plea deals. It's a wise guy question. You're just a wise guy. We don't take plea deals because I did nothing wrong.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:00:40",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "President Trump, did you attempt to overturn the 2020 election?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:00:40",
+      "speaker": "TRUMP",
+      "sentences": "You know the answer to that.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:00:40",
+      "speaker": "HARLOW",
+      "sentences": "At least two witnesses are set to appear before that grand jury this week. A journalist who witnessed a meeting of fake electors and Georgia's former Republican lieutenant governor Geoff Duncan both key witnesses.Few people more familiar with the alleged scheme to overturn the election than our next guest, Tim Heaphy. He was the lead investigator for the January 6th Committee. Tim, I appreciate you being with us this morning, and I just want to begin on the significant new reporting that we just laid out from our colleagues about the fact that prosecutors in Georgia have text messages and emails that directly link folks at the top of the Trump camp, top Trump lawyers, to this effort to access and breach voting systems in Coffey County, Georgia. How significant that they have those things, they say, in writing?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:00:40",
+      "speaker": "TIM HEAPHY, FORMER FEDERAL PROSECUTOR",
+      "sentences": "Yes, Poppy, it's more of the same. It's really obviously that the Trump campaign, people in Washington, were responsible for a lot of what was going on in Georgia. That's why Fani Willis's investigation stretches beyond people in Georgia to folks in Washington. Apparently, the Trump campaign believed that there may have been some voting issues in Coffey County, and they were able to obtain actual ballots and access to voting machines. It was at their direction that local officials in Coffey County provided that access. Again, that may be criminal and part of Fani Willis' ultimate indictment.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:00:40",
+      "speaker": "HARLOW",
+      "sentences": "Part of this reporting has to do with what you guys dug into on the January 6th committee, and that is that last year to the committee, a former Trump official testified under oath that there were discussions about plans to access voting systems in the state of Georgia. Those discussions happening at the White House in a meeting in the Oval Office on December 18th, 2020. As you think about that now in the context of this new CNN reporting, what stands out to you?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:05:00",
+      "speaker": "HARLOW",
+      "sentences": "Tim, for people waking up this morning and hearing this news and this new reporting, they might say, but Trump already faces four federal charges as it pertains to efforts to overturn the election. And when you read through Jack Smith's latest indictment, it talks about what happened in Georgia. They think, well, what's different? One thing that's different is that if he's indicted on a state level, that's harder for him to get rid of, right. But what else is different?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:05:00",
+      "speaker": "HEAPHY",
+      "sentences": "Look, Georgia may be the most dramatic illustration of a pattern that occurred around the country. As the special counsel's indictment indicates, this was not unusual. There were similar efforts afoot in other contested states.But Georgia, the president is on the phone with the secretary of state. He calls the governor, he calls the lieutenant governor. His direct involvement is perhaps most pronounced. And that's probably because Georgia was perhaps the biggest surprise. It was a state that had not voted for a Democrat for president for a long time. So local officials, and we're seeing this in Michigan, we're seeing it in other places, are bringing their own state charges because of criminal conduct that occurred in those states.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:05:00",
+      "speaker": "HARLOW",
+      "sentences": "I want to switch topics here and ask you about what happened in terms of David Weiss, the U.S. attorney getting special counsel status, because you are a former U.S. attorney for the western district of Virginia. What is the significant of David Weiss getting special counsel status in the Hunter Biden investigation after the plea deal fell apart? And do you think it is way too late? Should Merrick Garland have done this a long time ago?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:05:00",
+      "speaker": "HEAPHY",
+      "sentences": "I don't actually think it has much practical significance, Poppy, because the facts are the facts. And facts determine whether or not there's criminal exposure, whether there's a trial or a negotiated disposition. The facts haven't changed.Now, U.S. Attorney Weiss has the ability to now bring charges in other jurisdictions beyond Delaware. It means that he will continue to do some investigative work, but I don't know that there are really many or any new facts on this that are going to come out. The department has been at this for a long time. So it provides him some flexibility in terms of charging and negotiating, but I don't know that it really changes the bottom line, the facts.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:05:00",
+      "speaker": "HARLOW",
+      "sentences": "He said, though, Weiss, that he had that flexibility in other jurisdictions prior to this. I guess that's my question, are you surprised that it's happening now? Why didn't it happen before? HEAPHY",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:05:00",
+      "speaker": "HARLOW",
+      "sentences": "Tim Heaphy, I really appreciate your time with us this morning. Thanks.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:05:00",
+      "speaker": "HEAPHY",
+      "sentences": "Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:05:00",
+      "speaker": "MATTINGLY",
+      "sentences": "And joining us now, national political reporter for the Associated Press Michelle Price, White House correspondent for \"Reuters,\" Jeff Mason, and CNN senior legal analyst and former assistant U.S. attorney for the Southern District of New York Elie Honig.I want to get to the special counsel with Hunter Biden in a minute, but I want to swing back around, Elie, because you'd made the point that some of the reporting that our colleague Zach Cohen and Sara Murray had over the course of this weekend, their exclusive reporting that there were text messages tying Trump officials, Trump campaign officials to what happened in Coffey County. Again, this can get very granular very fast. Explain to people why you think that matters?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:05:00",
+      "speaker": "ELIE HONIG, SENIOR CNN LEGAL ANALYST",
+      "sentences": "It's great evidence because, first of all, it's an electronic communication. This isn't just some witness testimony about something that they overheard or saw. This is in black and white, and it directly ties members of Donald Trump's legal team, not necessarily Donald Trump himself according to the reporting, but people who were one step removed from him from this effort to breach these voting machines.And we've heard the defense from Donald Trump's lawyers, this was all just speech. If you want to say what crosses the line into conduct. Breaching voting machines, physically breaching voting machines, that's a pretty clear example to me.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:05:00",
+      "speaker": "HARLOW",
+      "sentences": "So where this goes from here, we could be two days out from this, we don't know, but Jeff, can you speak to the significance of who we know is testifying that Fani Willis is bringing before this grand jury, the Republican former lieutenant governor who would have been overseeing the senate at the time, right, in all of this, the state senate, Geoff Duncan, and then this independent journalist?JEFF MASON, WHITE HOUSE CORRESPONDENT, \"REUTERS\":  Exactly. So people who are involved, who are in the know and can shed more light on this whole process. And I think it ties directly to giving some concrete examples of what we've all been watching and hearing about for the last two years.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:10:07",
+      "speaker": "MICHELLE PRICE, NATIONAL POLITICAL REPORTER, ASSOCIATED PRESS",
+      "sentences": "And that's the question, because for so long, the Attorney General Merrick Garland was saying that Mr. Weiss had this authority of a special counsel, that it wasn't necessary. And we had Republican politicians in Congress calling for one. And now that we have one, they're saying, well, he said it before.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:10:07",
+      "speaker": "MATTINGLY",
+      "sentences": "This is such a great point, because there's a letter that came from a bunch of Republican senators saying we need a special counsel on this issue. I think Ted Cruz, Lindsey Graham, you can go down the line.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:10:07",
+      "speaker": "HARLOW",
+      "sentences": "Whistleblowers were calling for it, too.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:10:07",
+      "speaker": "MATTINGLY",
+      "sentences": "Whistleblowers -- they got it, and now they're really upset about the special counsel that they asked for.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:10:07",
+      "speaker": "HARLOW",
+      "sentences": "Right. Well, they're mad that it's David Weiss, right?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:10:07",
+      "speaker": "MATTINGLY",
+      "sentences": "Am I being too cynical?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:10:07",
+      "speaker": "PRICE",
+      "sentences": "Who is a Trump appointee.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:10:07",
+      "speaker": "MATTINGLY",
+      "sentences": "Who is a Trump appointee who was held over intentionally to try and have separation.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:10:07",
+      "speaker": "PRICE",
+      "sentences": "No, no, that's exactly the point, that no matter what move they make here, Attorney General Merrick Garland, Joe Biden, whether he says it or not, they're going to be hit with criticism, and so there's just a very narrow line for them to walk here politically about what they say, what they do, whether they touch it at all.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:10:07",
+      "speaker": "HONIG",
+      "sentences": "I'm with you. I was shocked. I thought that Republicans who had been calling for more investigation, more transparency, would be delighted by this news.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:10:07",
+      "speaker": "HARLOW",
+      "sentences": "But is their criticism fair? The criticism is that it's David Weiss, and he's the one who dealt with DOJ on this plea deal, that he came to a plea like this in the beginning, which they thought was a sweetheart deal.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:10:07",
+      "speaker": "HONIG",
+      "sentences": "I do think that's fair, because if the question is, if this is the prosecutor who had signed off on a deal, where this whole case was going to go away for two misdemeanors and the dismissal of a gun charge, I think it's fair to argue, is this the right person to now expand this investigation and take it everywhere it needs to go?And by the way, a little nuance here, the special counsel regulations actually say specifically, the special counsel is supposed to come from outside of government. It can't be somebody that's employed by the government. Bill Barr broke that when he appointed John Durham a few years ago. He found this, well, I'm the attorney general, so I can do what I want. But that's been violated again. And I think maybe it goes to this exact reason you're saying, Poppy. The point of special counsel is you don't just take someone who's already been doing this, the U.S. attorney, and slap on a new title.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:10:07",
+      "speaker": "HARLOW",
+      "sentences": "Fresh eyes. You need fresh eyes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:10:07",
+      "speaker": "HONIG",
+      "sentences": "Fresh eyes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:10:07",
+      "speaker": "MASON",
+      "sentences": "But it doesn't change the credentials that he had going in, which is the fact that he was appointed by the former president. And that's an important thing, I think, for the political calculation. This is not somebody who President Biden appointed, that a Democrat appointed. It was appointed by a Republican.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:10:07",
+      "speaker": "HONIG",
+      "sentences": "And with democratic support. I don't think the question at this point is so much about David Weiss's motivations. It's just the competency of this investigation.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:10:07",
+      "speaker": "MATTINGLY",
+      "sentences": "That's all you're going to ask? You're not going to ask?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:10:07",
+      "speaker": "HARLOW",
+      "sentences": "I'm not going to ask anything.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:10:07",
+      "speaker": "MATTINGLY",
+      "sentences": "They wrapped us.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:10:07",
+      "speaker": "HARLOW",
+      "sentences": "When they tell me to go to commercial, I go to commercial.(LAUGHTER)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:10:07",
+      "speaker": "MATTINGLY",
+      "sentences": "Fine. Michelle Price, Jeff Mason, Elie, thanks again, we appreciate it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:10:07",
+      "speaker": "HARLOW",
+      "sentences": "Coming up, we have new reporting out of Lahaina where our very own Bill Weir is on the ground showing us how people there are coping and helping each other in the wake of these deadly wildfires.(BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:17:36",
+      "speaker": "HARLOW",
+      "sentences": "Well this morning, the historic deadly wildfires in Hawaii are now being blamed for 96 deaths and the search is ongoing.The power company there is now facing a lawsuit for not cutting electricity when forecasters warned about powerful wind gusts. The suit alleges power lines blown over by the high winds made the situation even worse. Hawaii is governor is also giving just chilling new details about what happened.  (BEGIN VIDEO CLIP) GOV. JOSH GREEN (D-HI):  The fire traveled one mile every minute, resulting in this tragedy. With those kinds of winds and the thousand- degree temperatures, ultimately all the pictures that you will see, it will be easy to understand because that level of destruction in a fire hurricane is something new to us in this age of global warming was the ultimate reason that so many people perished. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:17:36",
+      "speaker": "HARLOW",
+      "sentences": "CNN's chief climate correspondent, Bill Weir is on the ground and has learned more about the recovery efforts underway in Lahaina.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:20:08",
+      "speaker": "ARCHIE KALEPA, MAUI RESIDENT",
+      "sentences": "I don't think that's fair. I don't think that's fair, because this is a crime scene. This right here is a crime scene.And so what people don't understand is the government has to do due diligence before they start moving in. So they're at 30,000 feet. They're looking and evaluating about how they need to come in to begin to facilitate this operation. At the same time, they have to figure out how to take care of this operation. And so, you know, that is not easy.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:20:08",
+      "speaker": "WEIR",
+      "sentences": "So it's a humanitarian response in the middle of a working crime scene.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:20:08",
+      "speaker": "KALEPA",
+      "sentences": "Exactly. The truth of the matter is, when you look at the overall devastation, we are not going to be ready to allow people to see what we're living through in six months.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:20:08",
+      "speaker": "WEIR",
+      "sentences": "We're hearing from a lot of people outside of the sort of quarantine zone right now, the fire zone, they're frustrated, because they can't get back in to see what happened to their homes or belongings. They are afraid that people up here aren't getting the help they need, that there's too much red tape in the shelters down in the center of Maui there.But those folks here say, right now it's a matter of managing the outpouring of aid. They don't want a lot of this to turn into trash, so they're trying to manage it as it's coming in. FEMA is now starting to bring in shipments, we understand. So right now, the message from here is they have enough, plenty of tangible supplies. They would love to get a dust shield to protect this community from all of that toxic dust that's blowing up the hillside from down below, containers to store a lot of this stuff and keep it to when they need it maybe months from now. And they are really begging for sustainable compassion and grief. They're afraid that our attention here will run out and shift elsewhere. Maybe another tragedy on our overheated planet as a result of fossil fuels. They dream -- they are already starting to talk about rebuilding this place in a sustainable way that adheres to sort of traditional Hawaiian values and a balance with nature, as well, so they are trying to get through this in real time. It's so striking, but like I always say, you guys have heard me say it a million times, Mr. Rogers taught us to look for the helpers when things get scary. There is no shortage of that in Maui right now. But it is key that people do this right and pay attention for the long term, because there is so much here worth salvaging. It is paradise and it can be again. Much more tonight, coming up. I'll send it back to you guys in the studio.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:20:08",
+      "speaker": "MATTINGLY",
+      "sentences": "Thanks to Bill Weir for that.  The head of FEMA, FEMA administrator, Deanne Criswell getting afirsthand look at the devastation in Hawaii. She says only three percent of Lahaina was destroyed by fire has even been searched. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:20:08",
+      "speaker": "DEANNE CRISWELL, FEMA ADMINISTRATOR",
+      "sentences": "They have gridded out the area, they use the dogs, and they have the teams that go in there, but it's hot. The ground still has hot spots, the dogs can only work so long before they need a break.And so the three percent -- covers three percent of the grids that they have mapped out, and now they will just methodically continue to go through that. But I think one of the challenging things is many of the areas that they're in searching, there are structures that are partially standing, and so the engineers are embedded with them to evaluate the stability of that structure. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:20:08",
+      "speaker": "MATTINGLY",
+      "sentences": "One team on the ground in Maui helping displaced residents is ground force by Cajun Navy, their founder and CEO, Gaudet joins us now.Rob, I appreciate your time. I want to start with what Bill was getting out there in the sense of there is a huge influx of aid. People that want to help or at least the process of that getting in. What are you seeing on the ground in terms of what is most needed at this moment? And how do you streamline that process?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:25:12",
+      "speaker": "HARLOW",
+      "sentences": "Our colleague, Bill Weir, who you just heard from reporting on the ground there talked about the hope of residents that people don't turn their eyes, right? When the news cameras largely leave, there is going to be a lot of need for a long time, and you're working to that effect, to set up what is known as a safe camp, is that right there, in Lahaina for nonprofits to work out of?  GAUDETthat we can embed into the community with nonprofit volunteers to provide, I call it a countless range of services to those that need not only the victims, but all the volunteers who are going down there and helping and the workers that will be cleaning up the debris. And, you know, hope is really the most important thing that we need and to be sensitive to those who have lost everything and have to rebuild their lives, many of them elderly, that, you know, have to find the energy and the passion from our community to find a way to rebuild their lives. It's a difficult journey for so many people.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:25:12",
+      "speaker": "MATTINGLY",
+      "sentences": "Rob, have you been in touch with kind of the search and rescue operations? Do you have a sense of what they're seeing given -- you know, we heard from the FEMA administrator, there is still so much that needs to be investigated and surveyed, just searched at this point.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:25:12",
+      "speaker": "GAUDET",
+      "sentences": "You know, our mission isn't search and rescue and we've been very respectful of the authorities. You know, we're saying don't go to the burn zone, unless you're a resident and I haven't been there.We're not here to sightsee. We're here to provide long-term relief. And it's important that I think the world understands that this isn't, you know, rush, rush, rush. This is a marathon. It's going to be a long journey, and we have to embed and take care of those in need. And the world really, I think, needs to understand that the first responders and the individuals doing searches are still looking for bodies. That's a really horrific thing. It's not that they're incompetent, I think it's just an enormous tax, and this is the worst fire and over a hundred years for human loss, and it's a major tragedy. It doesn't need to end when the media cycle ends, it needs to continue. The crisis isn't the fire. The crisis is the human impact to the people who lost their lives.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:25:12",
+      "speaker": "MATTINGLY",
+      "sentences": "It's an important point to remember. Robert Gaudet, thank you very much. Appreciate your time.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:25:12",
+      "speaker": "GAUDET",
+      "sentences": "Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:25:12",
+      "speaker": "MATTINGLY",
+      "sentences": "And for more information about how you can help Hawaii wildfire victims, go to cnn.com/impact or text Hawaii to 707070 to donate.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:25:12",
+      "speaker": "HARLOW",
+      "sentences": "We will keep you posted on that.Meantime, just stunning new video. It shows two people eject from a vintage fighter jet during the Thunder Over Michigan Air Show. You can see their parachutes open as they were expelled from the MiG- 23 on Sunday afternoon. The jet later crashed in the parking lot of an apartment complex in Wayne County. Officials say two people who ejected landed in the lake. They didn't suffer any significant injuries, thank goodness. No one on the ground was hurt either. No word on what triggered that ejection. The FAA and the National Transportation Safety Board are investigating.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:25:12",
+      "speaker": "MATTINGLY",
+      "sentences": "And some good news this morning, four male divers who went missing south of Cape Fear, North Carolina yesterday have been found and rescued by the US Coast Guard and Navy crews.They were searching -- crews researching throughout the night to find the divers after they failed to resurface around noon. A Coast Guard official told local outlets that multiple helicopters and patrol boats were involved in the mission and that no injuries have been reported.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:25:12",
+      "speaker": "HARLOW",
+      "sentences": "They've already pleaded guilty to federal related to torturing two Black men. We reported this to you a few weeks ago. Now six former law enforcement officers in Mississippi will be back in court today on state charges.",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

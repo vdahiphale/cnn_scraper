@@ -1,0 +1,367 @@
+{
+  "date": "2024-12-27",
+  "headline": "CNN Newsroom",
+  "subHeadline": "CDC: Bird Flu Virus In First Severe Human Case Shows Mutations; Christmas Eve Stowaway Caught On Delta Flight In Seattle; New Details On Russia's Secretive Drone Factory Uncovered. Aired 10-10:30a ET",
+  "utterances": [
+    {
+      "timeStamp": "10:00:36",
+      "speaker": "PAMELA BROWN, CNN ANCHOR",
+      "sentences": "Right now, a health alert from the CDC over bird flu the unsettling discovery found in the first severe human case of the virus. I'm joined by former trump white house coronavirus response coordinator Dr. Deborah Birx to discuss what this means for you and your family.Plus, a second stowaway incident on the same airline for Delta in just a matter of weeks. How does this keep happening this time it was on a flight from Seattle to Honolulu, how this happened again. We're going to dive into that. And inside the secret drone factory fueling Russian attacks in Ukraine. New CNN reporting just out this morning. I'm Pamela Brown in Washington. Jim has the morning off and you're in the CNN NEWSROOM. And we begin with a concerning new CDC report on the first severe human case of bird flu in the U.S. Samples taken from a patient Louisiana show mutations that could make it easier for this virus to spread from person to person. Now right now there's no evidence it has passed -- it's been passed along to anyone else and the CDC says risk to the public remains low. But experts warn a single mutation like this could potentially lead to another pandemic. (BEGIN VIDEO CLIP) DEAN BLUMBERG, INFECTIOUS DISEASE EXPERT, UC DAVIS CHILDREN'S HOSPITAL: The virus may mutate and become more easily transmitted person to person. So, the more this virus circulates and specifically co-circulates with human strains that's going to increase the odds of the virus evolving to more human-to-human transmission and that -- that of course could signal another pandemic. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:00:36",
+      "speaker": "BROWN",
+      "sentences": "Joining us now is Dr. Deborah Birx. You may remember her as the response coordinator for the White House Coronavirus Task Force in the first Trump administration.We are very fortunate to have your expertise as we try to figure out what's going on with bird flu and what it could mean. So, so far 65 human cases of bird flu have been reported in the U.S. this year all contracted by animals. But now we have this new mutation in Louisiana. How worried should we be about bird flu potentially becoming another pandemic.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:00:36",
+      "speaker": "DEBORAH BIRX, FMR TRUMP WH CORONAVIRUS RESPONSE COORDINATOR",
+      "sentences": "Well, I love the way you said 63 cases because I have no idea how many cases there were or are. Because our number one principle in preventing pandemics is detect. And if you go to the CDC website you can see that they're monitoring more than 10, 000 exposures but they've only tested 530. What does that mean? That means we're not testing enough and we know from other viruses that a lot of the spread can be asymptomatic.So, we're kind of have our head in the sand about how widespread this is from the zoonotic standpoint from the animal to human standpoint. Now also remember most of those cases described to date happened in the spring and the summer, not when we had H1N1 circulating right now when we're running the flu pandemic with throughout the -- throughout the United States.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:00:36",
+      "speaker": "BROWN",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:00:36",
+      "speaker": "BIRX",
+      "sentences": "So, we have rising flu cases and now we have still zoonotic events coming. So now you've set up for potentially a farm getting H5N1 also getting the current flu strain and reassorting in that individual. To me that's almost a bigger threat to these mutations happening in individuals over time.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:00:36",
+      "speaker": "BROWN",
+      "sentences": "When you say reassorting in that person, what does that mean?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:00:36",
+      "speaker": "BIRX",
+      "sentences": "OK. So, the H5 virus which doesn't adapt too well to our upper respiratory tract and is preventing us from getting infected but conspecting cows and pigs and cats and dogs. So, our flu which is has the binding sites for us for our nasal passages -- viruses are very specific. And so, they're very animal or human specific. Now we have human flu circulating at the same time we have the zoonotic flu circulating.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:00:36",
+      "speaker": "BROWN",
+      "sentences": "And the zoonotic is for --(CROSSTALK)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:00:36",
+      "speaker": "BROWN",
+      "sentences": "The bird flu.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:00:36",
+      "speaker": "BIRX",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:00:36",
+      "speaker": "BROWN",
+      "sentences": "OK.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:05:09",
+      "speaker": "BROWN",
+      "sentences": "And it could become infectious to humans even after -- even if it's not coexisting with the human flu, right?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:05:09",
+      "speaker": "BIRX",
+      "sentences": "Well, if it mutates like it did in this individual --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:05:09",
+      "speaker": "BROWN",
+      "sentences": "Yes, like the Louisiana case.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:05:09",
+      "speaker": "BIRX",
+      "sentences": "-- or in the case in Canada, but that sometimes is a random slower process.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:05:09",
+      "speaker": "BROWN",
+      "sentences": "OK.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:05:09",
+      "speaker": "BIRX",
+      "sentences": "But if you have that co-infection, then you can share genes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:05:09",
+      "speaker": "BROWN",
+      "sentences": "OK.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:05:09",
+      "speaker": "BIRX",
+      "sentences": "And that's a really, to me, the spring and the summer where we had all of the dairy cattle to farm worker exposure, we didn't have human flu circulating. So now we're entering --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:05:09",
+      "speaker": "BROWN",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:05:09",
+      "speaker": "BIRX",
+      "sentences": "-- a much more dangerous period, yet we're still not testing and we should be providing tests free of charge to dairy farm workers so they can test anonymously weekly because they'll want to know if they have both cases of potential flus co-circulating in their own body to protect their families.People are very smart. I find the American public to be incredibly smart. If you tell them the risk and you give them the tools, they will utilize them to protect themselves and their family.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:05:09",
+      "speaker": "BROWN",
+      "sentences": "So, given this double whammy that you laid out, do you think it's just a matter of time until there's just a full-fledged pandemic here?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:05:09",
+      "speaker": "BIRX",
+      "sentences": "Well, certainly we're setting ourselves up for that potential, which I, you know, I -- I flash back to January of 2020.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:05:09",
+      "speaker": "BROWN",
+      "sentences": "Right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:05:09",
+      "speaker": "BIRX",
+      "sentences": "And I'm hearing the same words come out of the CDC.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:05:09",
+      "speaker": "BROWN",
+      "sentences": "Like what?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:05:09",
+      "speaker": "BIRX",
+      "sentences": "Low risk, low risk of human-to-human transmission. Didn't we hear that from the WHO and the CDC about COVID? So, I think our way through this is to use 21st century technology. Remember, it was the private sector that gave us tests within weeks. We went from 20,000 tests to 2 million tests.So, if we got the private sector engaged in our response, they would help us get tests out to all of the dairy farms, all the poultry farms, where they could test both the chickens and the people exposed to the chickens. And then we would know how far spread this virus was. Right now, we're just looking for symptoms again. We should never be tracking viruses through symptoms. You don't see a virus through a symptoms. You see the virus through the test. And we know from COVID, most of the spread was asymptomatic. If we had been testing in January, as many other countries were, we wouldn't have had the spread that we had. So, I'm hoping we learn from --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:05:09",
+      "speaker": "BROWN",
+      "sentences": "But it sounds like it doesn't --(CROSSTALK)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:05:09",
+      "speaker": "BROWN",
+      "sentences": "-- it sounds like from what you're laying out --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:05:09",
+      "speaker": "BIRX",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:05:09",
+      "speaker": "BROWN",
+      "sentences": "-- you don't think this country has learned --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:05:09",
+      "speaker": "BIRX",
+      "sentences": "We did not.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:05:09",
+      "speaker": "BROWN",
+      "sentences": "-- from the COVID pandemic. And there's not a sense of urgency right now.(CROSSTALK)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:10:00",
+      "speaker": "BIRX",
+      "sentences": "What I'm really hoping happens is the merit (ph) -- what these individuals represent is a lot of what the American people are thinking right now. So instead of burying our head in the sand and acting like they're over there by themselves and there's not a lot of people who think that way, we need to bring everybody into the same discussion, hopefully that will happen in the hearings, where we can hear from the individuals and there can be that exchange, and out of that can come people moving more towards the center of the response that we need.There were states that probably overlocked down. And we just have to admit that and say, what are we going to do? Where is our school guidance for the next pandemic? That's what we need. We need practical school guidance. I was out on the road keeping universities and schools open. How did we do it? Testing. Once a week testing. Didn't quarantine. Just removed the acute cases. And they didn't have any campus spread. So, we know how to do it, but we're not using everything that we learned and applying it. Because now we're just arguing about individuals on either side rather than saying, let's find a practical place in the middle where we can all agree, this is going to be our response. This is how we can keep the schools open. And it really comes down to being able to see what viruses are circulating. That's why I keep coming back to testing.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:10:00",
+      "speaker": "BROWN",
+      "sentences": "So obviously you think testing was a miss the first time around, and you think it's a miss right now.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:10:00",
+      "speaker": "BIRX",
+      "sentences": "I do.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:10:00",
+      "speaker": "BROWN",
+      "sentences": "What were some other lessons learned? Things that, in hindsight, hindsight 2020, as they say, you would have done differently the first time around. As we look ahead to the potential, I don't want to fear monger, but there is the potential of another pandemic here with the bird flu.What do you think the lessons learned should be applied to that? And what should we all be doing right now? I mean, should we just avoid it's the holidays? Should we avoid gathering with a lot of people? What do we do now? BIRX: No, I think to me, testing is fundamental because I have my children test and I have the grandchildren test because we're still protecting people. My grand -- my mother is 96. She hasn't gotten COVID. She's been in a multi-generational hassle. So, all of these things are possible if you give people the information that they need to protect each other. And I think of what we learned, anything from the last pandemic, education is much more important than mandating. Mandated at the beginning because we had nothing. But as soon as we had tests, you can see we had the Reopen America in April and it was all about now testing and then having therapeutics in the summer and then having vaccines. That's the way you approach a pandemic. But fundamental to that was starting with testing. And I think coming out of this, we should have really clear guidelines for schools about testing. Schools before covid used to have flu breaks where they would send children home for a week or two because they had such widespread flu. If we had tested and they had removed the asymptomatic cases and the early diagnosis cases once a week, you wouldn't have had the flu spread. Now we know it's really important to keep kids in school and keep them in school now. So, keeping them in school by applying 21st century solutions is so key. And we have them. What I really worries me every day is we have the technology and the science to do better, but we're still trying to lead by perception, my personal perception rather than the data. If I had to do over again --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:10:00",
+      "speaker": "BROWN",
+      "sentences": "(INAUDIBLE) I'm just trying to --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:10:00",
+      "speaker": "BIRX",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:10:00",
+      "speaker": "BROWN",
+      "sentences": "-- you know, like some viewers who really were turned into skeptics during the first pandemic because they feel like these mandates were thrust upon them and they feel like --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:10:00",
+      "speaker": "BIRX",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:10:00",
+      "speaker": "BROWN",
+      "sentences": "-- stuff like social distancing. It turned out that maybe that wasn't so backed by as much backed by science as maybe they felt like the time was being conveyed to them. Those things. Are you worried that perhaps the way that it was handled the first time has hurt trust and, in the science, moving forward, coming from the government?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:15:05",
+      "speaker": "BROWN",
+      "sentences": "Yes. Wow.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:15:05",
+      "speaker": "BIRX",
+      "sentences": "We should be able to.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:15:05",
+      "speaker": "BROWN",
+      "sentences": "All right. Well, Dr. Deborah Birx, great to have you on.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:15:05",
+      "speaker": "BIRX",
+      "sentences": "Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:15:05",
+      "speaker": "BROWN",
+      "sentences": "And, you know, really important conversation. We appreciate your insights and we hope to have you back on soon.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:15:05",
+      "speaker": "BIRX",
+      "sentences": "Glad to be with you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:15:05",
+      "speaker": "BROWN",
+      "sentences": "Happy holidays.Well for the second time this month, a stowaway was caught trying to hitch a ride on board a Delta Airlines flight, this time from Seattle to Hawaii. The attempt happened on Christmas Eve and according to officials, the stowaway went through security screening, but without a boarding pass. The unticketed passenger was discovered as Delta flight 487 was taxing on the runway. How does this happen again? Joining us now with CNN's Carlos Suarez. So, Carlos, can you help us answer that question? How does it happen to get on the same airline? CARLOS SUAREZ, CNN CORRESPONDENT (on-camera): Well, Pamela, there are so many unanswered questions. We know that this passenger was able to clear a TSA security checkpoint the night before that flight on Christmas Eve, meaning that this passenger who again did not have a ticket was able to get past this checkpoint and was in this terminal for several hours before getting on that flight again without a boarding pass. As you noted that Delta flight was taxing getting ready for departure when the flight crew finally realized that someone that was on board that plane should not be on that plane. And so, they decided to go back to the gate. It's at that point that we're told that for reasons that haven't been explained yet. The passenger was able to get off the plane before law enforcement arrived at the gate and so law enforcement gets there and then has to figure out exactly where this passenger is. We're told that at some point they were able to figure out that the passenger was in a bathroom and so they were able to detain that person. Now in response to all of this, Delta Airlines released a statement that read quote, as there are no matters more important than safety and security Delta people followed procedures to have an unticketed passenger removed from the flight and then apprehended. They went on to say, we apologize to our customers for the delay in their travels and thank them for their patience and cooperation. Pamela the name of this passenger has not been released by authorities. Though we're told that the passenger was detained on a trespassing charge.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:15:05",
+      "speaker": "BROWN",
+      "sentences": "All right, so the suspect went through security on the evening of December 23rd, didn't gain access to the loading bridge until the next day.Do we know what the suspect was doing in the airport all that time? SUAREZ (on-camera): No, we don't know exactly what that passenger was doing in between the time that they cleared that the TSA security checkpoint and then the flight on Christmas Eve. Again, all we're being told by authorities is that this person was able to clear the checkpoint the night before that flight and then of course the flight was scheduled to depart on Christmas Eve.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:25:16",
+      "speaker": "BROWN",
+      "sentences": "Clare Sebastian, thank you for that. Let's discuss all of this with retired Army Major Mike Lyons. Thank you for sharing part of your holiday week with us.So, let's begin with CNN's reporting on this Russian drone factory. You heard Clare really lay it out. How significant is Russia's strategic shift to this technology, in your view? MIKE LYONS, RET. U.S. ARMY: Hi, Pamela. Happy holidays. Yes, I do believe it's very strategic, and I think this is all part of this 2025 strategy that they have in order to increase their drone capability. As they recognize that they have an advantage here, they bring in workers from China and from Africa and the like, parts from China as well, using Iranian-based designs here. And making those decoys is just as important as making the actual Shahed drones there that they use to fly. And so, they can quickly overwhelm the Ukraine air defense platform. So, these are kamikaze drones. They fly in one direction only. They fly just to kill. They're not used to return or anything like that back to Russia. So, I think this is part of a ramp-up that you're going to see Russia do in 2025 when it comes to trying to get some kind of technology advantage over Ukraine. And the only way that Ukraine really will be able to defense is if Western countries continue to pour in the air defense platforms, both anti-ballistic missiles as well as some of the small arms, because you could take some of these drones out with some of the small arms once they get into close range.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:25:16",
+      "speaker": "BROWN",
+      "sentences": "Do you think this drone factory is a likely military target for Ukraine?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:25:16",
+      "speaker": "LYONS",
+      "sentences": "So, it's very deep inside of Russia, 600 miles from Moscow to the east. I think that it would be too difficult for Ukraine to hit. It would require a mission if they decided to use, let's say, their air platforms, they would have to go very deep into Russia. That would likely be a suicide mission.I don't think that they're capable of hitting it. And I think that's why Russia put it in this place. It's an area that it had been for economic advancement inside of Russia, whatever that means. But it's well outside kind of prying eyes of Western satellites and the like. You could see some of the satellite shots that were got there. They're hard to get. So, I think that's really why they put it there. It's really not a military target, something that Ukraine could hit.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:25:16",
+      "speaker": "BROWN",
+      "sentences": "All right. So, let's turn to this passenger plane crash in Kazakhstan. State media, as I said earlier, in Azerbaijan, where this flight originated, is reporting that the preliminary investigation finds, quote, physical and technical interference caused the disaster.Do you believe the evidence is stacking up that Russia's military is to blame here?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:25:16",
+      "speaker": "LYONS",
+      "sentences": "Pamela, no question. I look at the duck rule, right? Looks like a duck, quacks like a duck -- the forensic evidence of bullet holes on the side of airline fuselage means something happened, something hit that. And given the fog of war that likely takes place any time anything enters Russian airspace, that was a plane designed to go into. It was going into Grozny. There was going into Russia.There was clearly a mistake made on the ground. Not allowing that plane to land inside of Russia is also unforgivable from an air traffic controller perspective. They clearly wanted it to outside of Russia. They didn't want any evidence there. But now those black boxes are inside of Kazakhstan and those authorities will have them. So, I do think that will show that the pilots will say that they were hit with something that came out of nowhere, likely air defense systems. And the pilots, miraculous, were able to save some of the passengers there. But clearly, what a disaster it was and something that the rest of the world, if it needs to get in the game here of Russia, have done this before --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:25:16",
+      "speaker": "BROWN",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:25:16",
+      "speaker": "LYONS",
+      "sentences": "-- and clearly, the airspace right now is a very dangerous place.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:25:16",
+      "speaker": "BROWN",
+      "sentences": "OK. So, I don't know if you can see, but we're showing video of holes --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:25:16",
+      "speaker": "LYONS",
+      "sentences": "Right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:25:16",
+      "speaker": "BROWN",
+      "sentences": "-- on the plane. What do you think that is? And how do you hold Russia accountable for this, if it is to break?",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

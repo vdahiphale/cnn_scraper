@@ -1,0 +1,427 @@
+{
+  "date": "2023-08-12",
+  "headline": "CNN Newsroom",
+  "subHeadline": "Wildfires Devastate Large Parts Of Maui Causing Billions Of Dollars In Damage; Hawaii State Officials Criticized For Lack of Preparedness For Recent Wildfires Spread by Hurricane Winds; U.S. Attorney General Merrick Garland Names Special Counsel in Hunter Biden Probe; Judge in Trump Election Subversion Case Limits Information Former President Can Make Public; New York City Running Low On Resources To Handle Migrants; Conference Invites Computer Hackers to Try Hacking Artificial Intelligence Programs. Aired 10-11a ET",
+  "utterances": [
+    {
+      "timeStamp": "10:00:00",
+      "speaker": "AMARA WALKER, CNN ANCHOR",
+      "sentences": "Good morning, everyone. It is Saturday, August 12th, I'm Amara Walker.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:00:00",
+      "speaker": "RAHEL SOLOMON, CNN ANCHOR",
+      "sentences": "And I'm Rahel Solomon in for Victor Blackwell. You are in the CNN Newsroom.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:00:00",
+      "speaker": "WALKER",
+      "sentences": "This morning, we are beginning to learn the costs of those devastating fires in Hawaii. Officials confirmed 80 have lost their lives in the fires that broke out on Tuesday. But they warn the death toll will likely rise in the coming days. Crews have not yet searched the inside of most of the buildings and it's still unclear just how many people are missing.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:00:00",
+      "speaker": "SOLOMON",
+      "sentences": "The search is expected to be long, it's expected to be exhausting, and officials say that more than 2,200 properties have been destroyed. And FEMA put the estimated cost of the rebuild from the Lahaina fire at more than $5.5 billion. Newly released video shows just the horror of the fires as people tried to escape. This video is from the Coast Guard. And it shows the view of the Lahaina fire on Wednesday. Coast Guard crews were able to rescue 17 people who went into the ocean to try to escape the flames.And take a look at this TikTok video. It appears to show some of those desperate people in the water after they were forced to jump in to try to save themselves from the fire. CNN has not been able to determine the source or the video of the video, or independently verify the video, but dense smoke and high winds created what we can imagine just was an incredibly chaotic and a terrifying situation. And take a listen to this next video. It is hard to hear, but it captures the terror as a resident tries to escape the flames in her car. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:00:00",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "We got to walk somewhere over there by the beach. Oh --(SCREAMING)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:00:00",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "Oh -- oh -- no, no, no. Not like this. Not like this. Not like this. No. The car --(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:00:00",
+      "speaker": "WALKER",
+      "sentences": "The terror speaks for itself, doesn't it? This morning, we spoke with Congresswoman Jill Tokuda. Maui and Lahaina are in her district and she said her state has to learn from this disaster.(BEGIN VIDEO CLIP) REP. JILL TOKUDA (D-HI): It is not like hurricane force winds or unknown to Hawaii, or dry brush, or red flag conditions. We saw this before in Lane. We did not learn our lesson from Lane, that brush fires could erupt as a result of churning hurricane winds we lost to south. And we underestimated the lethality, the quickness of fire in this situation. We have got to make sure that we do better. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:00:00",
+      "speaker": "WALKER",
+      "sentences": "CNN's Gloria Pazmino joining us now from Honolulu. Glorida, obviously, we are hearing so many traumatic stories of survival, and of course, the rescue and recovery efforts are continuing as well.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:05:00",
+      "speaker": "STEVE DOLAN, HAWAII RESIDENT",
+      "sentences": "The police won't let us go to our home. We lived in the same house for 50 years, since 1971. So I wanted to go down there, see if anything is left. But they won't let us. I guess it's dangerous or something. So we'll deal with it. We will wait a week or two, and we can go see what's left, and start from scratch and rebuild.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:05:00",
+      "speaker": "PAZMINO",
+      "sentences": "Now, we are waiting to see if and when residents will be allowed back into the area today. For a couple of hours, yesterday, the one road that is currently leading in and out of Lahaina was opened up, but officials had to close it quickly after that because there were so many people and cars that were trying to get into an area that still remains unsafe. Amara, Rahel.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:05:00",
+      "speaker": "WALKER",
+      "sentences": "All right, Gloria Pazmino, thank you.And as we have been talking about all morning, there is obviously a lot of questions and some criticism over how authorities handled the early moments before the wildfires began to spread just really quickly across the island.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:05:00",
+      "speaker": "SOLOMON",
+      "sentences": "Yes. Hawaii's attorney general will lead a review of the state's response leading up to the fires. And as you said, the questions are mounting, criticisms are mounting about the state's response and why warning signs were not activated, which critics say cost some people their lives. And that is not the only concern about Hawaii's wildfire preparedness. CNN's Pam Brown reports now.(BEGIN VIDEO TAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:05:00",
+      "speaker": "PAMELA BROWN, CNN CORRESPONDENT",
+      "sentences": "CNN is learning Hawaii officials underestimated the risk of wildfires in a recent report, even as other documents show officials knew they lacked resources to prevent and fight fires.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:05:00",
+      "speaker": "ABBY FRAZIER, CLIMATOLOGIST, CLARK UNIVERSITY",
+      "sentences": "We had advanced notice coming into the summer this week, the winds, the low humidity, and the fuels. Any ignition would have sparked a pretty big fire, and that's exactly what we saw.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:05:00",
+      "speaker": "BROWN",
+      "sentences": "In a state report out just last year ranking natural disasters, Hawaii officials classified the wildfire risk to human life as low in this color-coded chart. The assessment though coming years after hurricane Lane fanned the flames of fires in Hawaii, raving Maui and Oahu in 2018.That perfect storm of conditions highlighted the threat and how unprepared officials in Hawaii were dealing with such a disaster, with a county report in 2021 noting hurricane Lane made small fires swell and stretch public safety resources, with strong winds grounding air support. That storm should have been a wakeup call according to this planning document from Hawaii's emergency management agency. Other state and local documents show Hawaii lagged behind in preparedness for the devastating wildfires playing out now that have killed more than 50 people, left countless people missing, and triggered widespread evacuations, a cruel deja vu for some residents.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:05:00",
+      "speaker": "MARK STEFL, LOST HOME IN FIRE TWICE",
+      "sentences": "About four years ago, we had another hurricane, and we lost the house in the fire. Rebuilt. And what happened yesterday is killing me right now. We just lost our house again twice in four years.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:05:00",
+      "speaker": "BROWN",
+      "sentences": "A 2021 report also makes the troubling point that despite the increasing number of wildfires, fire prevention was given, quote, \"short shrift\" in a strategy plan from the Maui county's Department of Fire and Safety. The plan also included, quote, \"nothing about what can and should be done to prevent fires,\" which it called a significant oversight.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:05:00",
+      "speaker": "FRAZIER",
+      "sentences": "Given how catastrophic this event was, I think there will be a lot of pressure on the state and other organizations to improve the fire prevention actions that they're taking statewide.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:05:00",
+      "speaker": "BROWN",
+      "sentences": "The increase in fires in Hawaii comes as Maui has faced increasing drought conditions in recent years, contributing to warnings like this in a May webinar from Nani Barretto with the Hawaii Wildfire Management Organization.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:05:00",
+      "speaker": "NANI BARRETTO, HAWAII WILDFIRE MANAGEMENT ORGANIZATION",
+      "sentences": "Hawaii has a big wildfire problem. We are on par with the most fire prone states in the western continental U.S. The impacts of the fire are broad and long lasts.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:05:00",
+      "speaker": "BROWN",
+      "sentences": "Now residents like Mark Stefl are left to rebuild again as the threat of future disasters looms with no clear plan in place.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:05:00",
+      "speaker": "STEFL",
+      "sentences": "I know what I need to do. We've done it before. This sucks.(END VIDEO TAPE) BROWN (on camera): It is still unclear whether additional preparation and mitigation could have reduced the devastation, and all of the damage we have been seeing from the Lahaina wildfires, given its intensity and speed. As to responsibility, the governor of Hawaii tells CNN, the responsibility falls on all of us. Back to you, Amara, Rahel.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:10:00",
+      "speaker": "SOLOMON",
+      "sentences": "And turning to other news this morning, Iowa is in the political spotlight this weekend as more and more Republican presidential hopefuls flock to the Iowa state fair.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:10:00",
+      "speaker": "WALKER",
+      "sentences": "It is a chance for the candidates to make their case straight to the voters from the Des Moines Register's soapbox, or in a fair- side chat with the popular governor. CNN Kyung Lah joining us now from Des Moines with more on this political pilgrimage. Kyung, it's going to be a busy day today. What can we expect?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:10:00",
+      "speaker": "KYUNG LAH, CNN SENIOR NATIONAL CORRESPONDENT",
+      "sentences": "Yes, it is already picking up, Amara and Rahel. We are seeing the presidential candidate for the Republican side, Vivek Ramaswamy, already sitting down with a fair-side chat with Iowa's popular Governor Kim Reynolds, taking questions, talking about his various platforms and his vision for the country moving ahead should he be the nominee.We are expecting a total of seven candidates running for president, both on the GOP and the Democratic sides, although it is going to be dominated by the Republicans vying for that position to challenge President Joe Biden. The main event, of course, and this is the big day of the Iowa state fair politically, Donald Trump and Ron DeSantis. Both of them will be here today, not at the same exact event, but they are going to be at the Iowa state fairgrounds at around the same time. Joining Donald Trump will be the nine Florida representatives. And people here in Iowa don't exactly know who these folks are, but he is clearly sending a message to DeSantis, who is closest to him, though behind in double digits in most polls, sending a message to DeSantis, saying this is your home state, and guess what I have. So Amara and Rahel, you can think of it as Donald Trump trolling the way he does on social media, bringing it here to the state fair in person.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:10:00",
+      "speaker": "SOLOMON",
+      "sentences": "All right, Kyung Lah, lots to watch there, thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:10:00",
+      "speaker": "WALKER",
+      "sentences": "And for more now on the Iowa state fair, let's bring in Laura Barron-Lopez, CNN political analyst and White House correspondent for the \"PBS NewsHour.\" First, Laura, great to have you. Good morning. Let's talk about why this event is so significant.LAURA BARRON-LOPEZ, CNN POLITICAL ANALYST: This event is really a key draw for all of the candidates, because it is a chance for them to press the flesh, essentially, with all of these voters and really make a case for them along with other local Iowa elected, that they are the ones that can take on President Biden come the general election. It is a chance for candidates to try to attempt, in the past, to break out behind who might be the favorite. And so we've seen that a lot of the candidates like Vice President Mike Pence, Florida governor Ron DeSantis, Senator Tim Scott, are all really trying to convince voters that they're the better option than Trump, but they are still very much in the shadow. And I'm a little bit skeptical that this time around, this fair will actually be a potential breakout for any of these candidates.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:10:00",
+      "speaker": "WALKER",
+      "sentences": "That is certainly something a lot of people are watching. Laura, I will play for you, just about 30 minutes ago or so, we heard from Vivek Ramaswamy, of course one of the candidates vying for votes. I want to play for you what he said, and then we can discuss on the other side.(BEGIN VIDEO CLIP) DR. VIVEK MURTHY, U.S. SURGEON GENERAL: There's other great people running in this primary, by the way. I love them all. They're my colleagues, not my competitors. We're all colleagues in a national revival. That's why I'm not going to bash any of them. They're great people. The choice we face is, do you want incremental reform? In which case I'm probably not your guy. Do you want reform, or do you want revolution? I stand on the side of revolution. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:15:03",
+      "speaker": "SOLOMON",
+      "sentences": "Laura, speaking of resetting, one person who seems to be resetting his campaign is DeSantis. And you said that you're skeptical that this, the Iowa state fair, will necessarily provide a breakthrough, but you could argue, perhaps, no one needs it more than DeSantis.BARRON-LOPEZ: That's right. He definitely needs it. His campaign has been floundering since essentially January where he was really showing that he could be neck and neck with the former president, and since then he has just gone steadily downhill, is now trailing the former president by double digits. And his campaign has spent, well, a PAC that is associated with his campaign, a PAC, a separate independent PAC that supports him, has spent a substantial amount of money in the last month or so really trying to make voter contact, and so far, DeSantis doesn't have much to show for it. It seems that the Republican consultants that I talked to say that this tactic by a lot of the candidates to not go after the former president, to not go after Trump, to not talk about what he did on January 6th, is not necessarily helping them. Candidates like DeSantis and Ramaswamy have actually floated pardons for Trump, saying that -- accusing the Justice Department baselessly of weaponizing themselves and running a conspiracy and being corrupt. So how they try then to take down the former president when they aren't willing to attack them is something that a number of Republican consultants I've talked to say is not helping them in their bid to come out from behind.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:15:03",
+      "speaker": "SOLOMON",
+      "sentences": "Really fascinating stuff, and a lot to watch. Laura Barron- Lopez, thanks for being with us today.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:21:32",
+      "speaker": "WALKER",
+      "sentences": "The federal prosecutor who has been investigating Hunter Biden since 2018 has been given more authority. David Weiss has just been elevated to special counsel in the case.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:21:32",
+      "speaker": "SOLOMON",
+      "sentences": "Earlier this summer, Weiss had set up a deal with Biden to plead guilty on tax offenses and also resolve a gun charge. But that didn't happen. And on Friday, court documents revealed that the deal had completely fallen apart.We want to now bring in CNN's Marshall Cohen. So Marshall, what does this mean now for the investigation, this elevation to special counsel status?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:21:32",
+      "speaker": "MARSHALL COHEN, CNN REPORTER",
+      "sentences": "Well, good morning, guys. What this means is that the investigation that seemed to be over just a few weeks ago might only be starting, with a possible trial looming in the future. As you mentioned, a huge announcement yesterday from the Attorney General Merrick Garland that in the past few days, David Weiss, the prosecutor in Delaware, had requested special counsel status, and that the attorney general decided to grant him that status.Why? Why did this happen? Why now? What appears to be the most reasonable explanation is what you mentioned, the plea talks between these two parties completely breaking down in the last few days, and prosecutors describing in a court filing, literally, while Merrick Garland was speaking yesterday, prosecutors said in a court filing that the talks had reached an impasse, and that a trial was likely necessary. Guys?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:21:32",
+      "speaker": "WALKER",
+      "sentences": "And it really is a twist in event, right? Because Hunter Biden was potentially facing just probation as a result of the plea deal, and now, a potential trial as you say. Is Hunter Biden's team responding? What are they saying? Where do we go from here? COHENresponse. They have not been attacking the prosecutors. And they have been pointing out that, while this case is all about taxes and things like that, he eventually did pay his full tax bill of about $2 million. But I want to play for you what one of the lead attorneys for Hunter Biden, Abbe Lowell, what he told our colleague Kaitlan Collins last night. Take a listen. (BEGIN VIDEO CLIP) ABBE LOWELL, HUNTER BIDEN'S ATTORNEY: It should not change the outcome. Who could say that they have been the subject of such a painstaking investigation, looking at every nook and cranny, in which a conclusion was two tax misdemeanors and a diverted gun case, to turn into anything else? There's been no evidence or fact that wasn't uncovered a week ago that will be uncovered tomorrow. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:21:32",
+      "speaker": "COHEN",
+      "sentences": "So he's basically saying that nothing changed, but Rahel and Amara, I'll tell you something huge that changed. This case went from a likely plea deal to a possible trial. They are adversaries now. More charges could be on the table. Everything is different. And here we go.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:21:32",
+      "speaker": "SOLOMON",
+      "sentences": "And Marshall, If I remember correctly, you were in the courtroom the day that this plea deal fell apart, and so this will be a lot to watch, and we know you will be watching it for us. Marshall Cohen, thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:21:32",
+      "speaker": "WALKER",
+      "sentences": "Yes, what a huge shift. Thank you so much, Marshall.The judge presiding over Donald Trump's election subversion case is setting some boundaries when it comes to what he can and cannot talk about publicly.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:21:32",
+      "speaker": "SOLOMON",
+      "sentences": "Yesterday, she issued a protective order barring Trump from publicly disclosing any sensitive information. She also made it clear that if he violated that order, there would be consequences.Here is CNN's Jessica Schneider.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:30:53",
+      "speaker": "WALKER",
+      "sentences": "The lifestyle of Supreme Court Justice Clarence Thomas bankrolled by gifts and hospitality from his wealthy friends is once again under scrutiny. According to a new report by \"ProPublica,\" he accepted more vacations and gifts from billionaire benefactors than previously reported, including numerous flights on private planes, VIP passes to sporting events and stays at luxury resorts.Now, Justice Thomas is already under the scanner for gifts he received from Harlan Crow, a Republican billionaire megadonor. And the new revelations are shining a spotlight on Supreme Court justices and the ethics rules they're supposed to follow. Don Fox is former general counsel of the U.S. Office of Government Ethics. Don, appreciate you joining us this morning. Good morning to you. I read a quote from you in \"The Washington Post,\" where you said the height of hypocrisy to wear the robes and live the lifestyle of a billionaire, that is what you said in reaction. Tell us more regarding the thoughts on this report. DON FOX, FORMER GENERAL COUNSEL, U.S. OFFICE OF GOVERNMENT ETHICS: Well, the scale of this whole thing and the revelations in \"ProPublica\" is just breathtaking. I worked in the executive branch for 30 years, and I cannot imagine any executive branch official or any executive branch ethics adviser thinking that this was OK. And the same law, in terms of public financial disclosure that applies to members of the executive branch applies to members of the judiciary. So I think the hair-splitting that has gone on with Justice Thomas justifying these gifts from so-called friends is just -- yes, it's hypocritical.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:30:53",
+      "speaker": "WALKER",
+      "sentences": "Some of these itemized gifts and, I guess, favors that he's received allegedly, and this is according to \"ProPublica,\" 26 private jet flights, eight helicopter flights, a dozen VIP passes to professional college sporting events, even one of his funds, wealthy friends, sending his personal 737 to pick up the justice.Give us context here in terms of the scale and scope, the extravagance, as you say, how does it compare to other government officials? Because, as you know, other Supreme Court justices like Samuel Alito and Sonja Sotomayor, they have been accused of bending or breaking ethical rules, but this is on a different level, right?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:30:53",
+      "speaker": "FOX",
+      "sentences": "On an exponentially different level. So, and \"ProPublica\" I'm sure has more reporting to do on the justices, but there are also justices about which we have seen nothing. And so clearly there are different moral standards that these justices are applying in making these decisions. I don't know who is advising Justice Thomas that some of these things are OK.The really troubling thing to me is this is really about the super wealthy, the one-tenth of one percent, buying access to an associate justice of the Supreme Court. We now know, I guess, what that access is worth, and apparently it is worth a lot.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:30:53",
+      "speaker": "WALKER",
+      "sentences": "So all government employees have to abide by some kind of code of ethics, right? But the Supreme Court, the justices there, who are appointed for life, they're not bound to any ethical code or regulations, is that correct?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:35:01",
+      "speaker": "WALKER",
+      "sentences": "Well, Don Fox, we will leave that conversation there. Obviously, there have been strong call, including from Democrats, for ethical reforms. We will see where it leads. Thank you. SOLOMONYork to try to evaluate how to help the city deal with the overwhelming migrant crisis. The office of the Mayor Eric Adams says that over the next three years this issue is expected to cost New York over $12 billion. Right now, about 60,000 asylum seekers are in the city's care. CNN's Polo Sandoval was given rare access to a migrant shelter, one of the city's approximately 200 sites being used to house asylum seekers. (BEGIN VIDEO TAPE) DR. TED LONG, SVP, NYC HEALTH AND HOSPITALS: As we've seen the numbers of asylum seekers at the border go down, we've seen our numbers in New York City take the opposite direction and go up.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:35:01",
+      "speaker": "POLO SANDOVAL, CNN CORRESPONDENT",
+      "sentences": "Senior city officials faced a grilling this week from city councilmembers, who were told that hundreds of adult asylum seekers have been issued 60 days notice to leave city shelters, part of a policy Mayor Eric Adams recently announced that requires migrants without children who have been in city shelters for a significant amount of time to find other means of housing.MAYOR ERIC ADAMS, (D) NEW YORK CITY: It is a road to help those who are needed to move out of shelters and take their next steps forward.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:35:01",
+      "speaker": "DIANA AYALA, NEW YORK CITY COUNCIL",
+      "sentences": "It almost feel like we're sacrificing one group of people because we have a higher responsibility to children and families.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:35:01",
+      "speaker": "SANDOVAL",
+      "sentences": "New York City officials insist they are completely out of option, and say all you have to do is look inside any of the city's nearly 200 shelters, like this one in a building next to New York's JFK air cargo terminals that normally serves as a postal facility. Now it is serving as a temporary home for some 750 male asylum seekers. The space typically dedicated to sorting mail during the holidays now a massive dormitory. The parking lot, bathrooms, and showers, loading dock, a makeshift prayer room.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:35:01",
+      "speaker": "ZACH ISCOL, COMMISSIONER, NEW YORK CITY EMERGENCY MANAGEMENT",
+      "sentences": "Initially a lot of folks coming here from Venezuela, we now in a lot of these places have 12, 14, 15 different languages spoken here.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:35:01",
+      "speaker": "SANDOVAL",
+      "sentences": "Zach Iscol is New York City's emergency management commissioner.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:35:01",
+      "speaker": "ISCOL",
+      "sentences": "Every day we have about 500 people, 300 to 500 people that we're looking for room for, looking for places for. We can't open up sites fast enough.So you can see this as sort of the layout here.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:35:01",
+      "speaker": "SANDOVAL",
+      "sentences": "He offered CNN this rare look inside one of the city's nearly 200 sites currently being used to house about 60,000 migrants and counting. This particular site serves as a so-called respite center originally designed to be short term and basic housing needs. But not anymore, warns the commissioner.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:35:01",
+      "speaker": "ISCOL",
+      "sentences": "We modelled this after the emergency storm shelters we set up for coastal storms. Those are designed just to house people for generally 48 to 72 hours. We now have folks that are staying in these facility for much longer, upwards of a month, a month-and-a-half.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:35:01",
+      "speaker": "SANDOVAL",
+      "sentences": "Iscol admits the facility is not ideal for long-term housing, but with options running out, residents are making do. Some skip the laundromat and air dry their clothes. Then there's this makeshift barbershop on the main floor. Only room for one client at a time. But none of this is sustainable. According to Iscol and his fellow city officials.Finding migrant families private shelter place is a whole other challenge. At the city's primary intake center in Manhattan, we met Soheyelli (ph) Mistahi (ph) where she waits to be assigned long-term housing for her family. \"We don't know where they will place us,\" says the Venezuelan mother. Like many of the nearly 100,000 asylum seekers who have arrived in New York since last spring, the only guarantee is uncertainty. (END VIDEO TAPE) SANDOVAL (on camera): And we have seen so much of that uncertainty on the faces of migrants that wait outside of the Roosevelt hotel behind me, which is that first initial intake center for most of those asylum seekers after they arrive in New York. This is where, up to 300, 400, even 500, as you just heard from the commissioner, have to wait to be placed in the system, Rahel. You also mentioned that federal team. I've learned that they have been on the ground since this week assessing the situation, a DHS officials telling me it will be their job to then report back to Washington to see what resources can be provided in addition to the close to $140 million that have been offered to the city. But when you hear from city officials, they will tell you that is just a drop in the bucket in terms of the money they've spent on this crisis. Rahel?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:35:01",
+      "speaker": "SOLOMON",
+      "sentences": "Polo, really interesting to have that inside look inside one of those shelters. Thanks for bringing it to us. Polo Sandoval there.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:45:00",
+      "speaker": "SOLOMON",
+      "sentences": "So what are they going to be looking for? And how are they going to be doing it? What's the competitive element in this?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:45:00",
+      "speaker": "CHOWDHURY",
+      "sentences": "Yes, so my nonprofit Humane Intelligence designed the challenge. The challenges are designed around hacking, so specifically getting the model to say something that maybe it shouldn't be doing, tricking it, but also to get the kind of organic harms that people might see in everyday interactions. I call these imbedded harms.These are things like societal bias, information integrity and misinformation, political misinformation, inaccurate information about citizens' rights, or accidental defamation. What we're trying to do is gather information about all of the potentially bad things that could happen in these models and have the companies fix them.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:45:00",
+      "speaker": "SOLOMON",
+      "sentences": "I think I read in \"The Washington Post\" it was where you pointed out some examples of what some of these hackers might be looking for and the ways in which they might do it. Can you give us an example to really drive home how these hackers are trying to exploit some of these biases, for example?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:45:00",
+      "speaker": "CHOWDHURY",
+      "sentences": "Yes, absolutely. So one example that has come up is defamation. These models accidentally hallucinate or make up lawsuits against people, for example. Open A.I. is currently being sued by somebody because the model had said that they had a sexual harassment lawsuit against them when it actually didn't.Another example may be political misinformation. We have an election coming up in 2024. Any media platform is always concerned about malicious actors speaking political misinformation. Now we have to worry about these large language models accidentally producing political misinformation. So one of the challenges, for example, is around getting the model to say something incorrect about your rights as a citizen.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:45:00",
+      "speaker": "SOLOMON",
+      "sentences": "It is interesting, we've seen Open A.I., Meta, Google, all express support for this event, which I think maybe some would not have expected. Help me understand why the company is behind Open A.I. would support something like this?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:45:00",
+      "speaker": "CHOWDHURY",
+      "sentences": "Well, I think there's an understanding across everybody building these kinds of models, first of all, about how powerful they are, but second of all, about how hard it is to make sure they're safe and secure. Some of the challenges that we are tackling are things that these companies have been struggling with for years, and also the extent to other companies, like, for example, social media companies, content moderation has always been a big issue.The hope is that with a wide range of perspectives we can bring in a diverse range of input. Now getting this kind of red-teaming job traditionally in Silicon Valley is basically the one percent. These are the people who are extreme experts in ethics, cybersecurity, and they get called to join these internal teams. What we're doing with this is we're creating an independent body, we're opening it up to basically anybody in America who wants to come to DEF CON, and we're saying the public should have something to say. And the companies agree with us.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:45:00",
+      "speaker": "SOLOMON",
+      "sentences": "Because the idea being that if you have a more diverse group of people who are actually doing some of these tests, they might actually have a broader sense of what they're looking for, rather than a very select group of, as you say, the one percent. Rumman Chowdhury, very interesting. Thanks for being with us this morning.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:53:15",
+      "speaker": "WALKER",
+      "sentences": "So it sounds like we've been on repeat for the last several weeks, right? But once again, here we go. More than 100 million people are under heat alerts today. We're talking triple digit temperatures that are expected across the south and the pacific northwest.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:53:15",
+      "speaker": "SOLOMON",
+      "sentences": "And more than 110 million are under severe storm threats from the central plains to the northeast. Let's go to meteorologist Jennifer Gray in the Weather Center. So Jennifer, you would be the one to tell us, have we been on repeat? So it sort of feels that way.(LAUGHTER)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:55:03",
+      "speaker": "WALKER",
+      "sentences": "Yes, it is surprising to see the triple digit temperatures out in the northwest, right? And here, it is like, I'm sure when you step outside --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:55:03",
+      "speaker": "SOLOMON",
+      "sentences": "I think the high today in Atlanta is 93. So Jennifer --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:55:03",
+      "speaker": "GRAY",
+      "sentences": "Brace yourself.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:55:03",
+      "speaker": "WALKER",
+      "sentences": "Brace yourself, Rahel.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:55:03",
+      "speaker": "SOLOMON",
+      "sentences": "I think what you're saying is we shouldn't complain for 93 compared to triple digits.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:55:03",
+      "speaker": "WALKER",
+      "sentences": "Yes, yes. But there is humidity here, too, so that accounts for the feels like, I don't know, what, Jen, 100?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:55:03",
+      "speaker": "GRAY",
+      "sentences": "And we have air conditioning where a lot of people in the pacific northwest don't, so that makes a big difference as well.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:55:03",
+      "speaker": "WALKER",
+      "sentences": "That's true.Good to be with you all, ladies. Thank you so much for being with us this morning.",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

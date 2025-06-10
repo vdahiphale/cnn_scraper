@@ -1,0 +1,49 @@
+{
+  "date": "2025-01-07",
+  "headline": "CNN Newsroom",
+  "subHeadline": "Trump Speaks at Mar-a-Lago. Aired 11:30a-12p ET",
+  "utterances": [
+    {
+      "timeStamp": "11:55:01",
+      "speaker": "QUESTION",
+      "sentences": "Mr. President, thank you.I wanted to touch on the world on fire that you mentioned, but let's start, if we could, with your references to Greenland and the Panama Canal and so forth.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:55:01",
+      "speaker": "TRUMP",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:55:01",
+      "speaker": "QUESTION",
+      "sentences": "Can you assure the world that, as you try to get control of these areas, you are not going to use military or economic coercion?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:55:01",
+      "speaker": "TRUMP",
+      "sentences": "No.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:55:01",
+      "speaker": "QUESTION",
+      "sentences": "And can you tell us a little bit about what your plan is? Are you going to negotiate a new treaty? Are you going to ask the Canadians to hold a vote? What is the strategy?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:55:01",
+      "speaker": "TRUMP",
+      "sentences": "Yes, I can't assure you. You're talking about Panama and Greenland. No, I can't assure you on either of those two.But I can say this, we need them for economic security. The Panama Canal was built for our military.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:55:01",
+      "speaker": "QUESTION",
+      "sentences": "(OFF-MIKE)",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

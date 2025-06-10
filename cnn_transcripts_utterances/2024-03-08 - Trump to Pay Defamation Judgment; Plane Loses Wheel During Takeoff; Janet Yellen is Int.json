@@ -1,0 +1,241 @@
+{
+  "date": "2024-03-08",
+  "headline": "CNN News Central",
+  "subHeadline": "Trump to Pay Defamation Judgment; Plane Loses Wheel During Takeoff; Janet Yellen is Interviewed about the Economy. Aired 9:30-10a ET",
+  "utterances": [
+    {
+      "timeStamp": "09:33:49",
+      "speaker": "JOHN BERMAN, CNN ANCHOR",
+      "sentences": "All right, this morning we are learning that Donald Trump has days to come up with tens of millions of dollars, weeks to find hundreds of millions. Can he? Will he? This is for the expensive combination of the defamation verdict against him and the New York civil fraud verdict.CNN's Kara Scannell is with us now. So, what's going on here?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:35:02",
+      "speaker": "BERMAN",
+      "sentences": "And he's appealing all of these things, but you have to put the money up even then while you're appealing?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:35:02",
+      "speaker": "SCANNELL",
+      "sentences": "Yes. I mean in some cases that's your ability to appeal. So, people know that an appeal is going to take a long time, maybe months, maybe a year, and so this way the money is set aside in case the person appealing loses, so the person who won the case can actually get their hands on the money.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:35:02",
+      "speaker": "BERMAN",
+      "sentences": "All right, we will soon see, as I said, if or can Donald Trump find this money in time? Kara Scannell, thank you very much.Sara.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:40:48",
+      "speaker": "SIDNER",
+      "sentences": "This morning, a startling image out of San Francisco where a wheel came flying off a United Airlines flight as it was just taking off. Now we're hearing new audio that captures the moment that the pilot realized things had gone wrong.(BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:40:48",
+      "speaker": "AIR TRAFFIC CONTROLLER",
+      "sentences": "The last departure lost a wheel on departure, so we're going to have to shut the runway down.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:40:48",
+      "speaker": "PILOT",
+      "sentences": "Do you guys know where that tire went?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:40:48",
+      "speaker": "AIR TRAFFIC CONTROLLER",
+      "sentences": "No, so it's probably going to be a few minutes for you guys.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:40:48",
+      "speaker": "SIDNER",
+      "sentences": "Yikes. Air traffic controllers immediately stopped traffic on the runway. And, by the way, here's where that wheel ended up landing, inside an airport employee parking lot. Luckily, no one hurt, but there were cars that were smashed up.But look at this, it did quite a bit of damage. There you're seeing one of that -- I think that's a Toyota Corolla right there just smashed. Joining us now is CNN safety analyst and former FAA safety inspector David Soucie. All right, everyone wants the answer to this, how does something like this happen? Is this a maintenance issue? Did someone forget to like, you know, crank down on the nuts and bolts? Like, what happened?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:40:48",
+      "speaker": "DAVID SOUCIE CNN SAFETY ANALYST",
+      "sentences": "Well, it's certainly extraordinary, Sara. What I thought when I first heard this is that maybe a tire blew out. There was something on the runway. But that's not the case here. This is the rear of six tires. This landing gear truck, which is on the left side, carries six tires on it, six wheels and tires. And when I first thought it was a tire that occasionally you'll have something on the runway, that sort of thing, but extraordinary because the copilot before every flight goes down and inspects these trucks. They look at all the tires. They make sure everything's fine, everything's secured properly, it has safety wire, it has everything it has. So, this was a catastrophic failure or some kind in that axle. There's three axles. And one of those fell off or one of those broke or something because that entire wheel came with it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:40:48",
+      "speaker": "SIDNER",
+      "sentences": "How difficult is a landing when you've got one of these tires? Obviously this is a huge, huge plane with lots of tires and the landing gear. But how -- how - how does it affect your landing?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:40:48",
+      "speaker": "SOUCIE",
+      "sentences": "Well, in this case, it wouldn't have much at all because of the fact that there's triple redundancy. So, in other words, you've got three sets of tires where you really only could land on two. It's certified to land on just two of those six tires on one side. So, it is safe. It was safely landed. And it's - they probably wouldn't have even noticed much of a difference except possibly the braking action would have been different. When you break the aircraft, it would - might veer to one side or the other because there's more traction on the - on the runway. But as far as the landing, it's - we're really -- really fortunate more people on the ground weren't hurt from this -",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:40:48",
+      "speaker": "SIDNER",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:40:48",
+      "speaker": "SOUCIE",
+      "sentences": "Because when those tires come off, those are heavy tires, as heavy as a car.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:40:48",
+      "speaker": "SIDNER",
+      "sentences": "Yes. We were - we were just talking about it. I had no idea how heavy those ties were.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:40:48",
+      "speaker": "SOUCIE",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:40:48",
+      "speaker": "SIDNER",
+      "sentences": "I do want to shift focus now because today is a very difficult day for tons of people who had members on the flight MH370. It is perhaps, and correct me if I'm wrong, one of the biggest aviation mysteries ever in history. Where are we now with this -- with this flight? What happened? What do we know now, ten years later? Anything new?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:40:48",
+      "speaker": "SOUCIE",
+      "sentences": "Yes, Sara, certainly the tragedy for the families is just re- upping in their minds and hearts for -- at this point, as well as ours.But, yes, at this point there are some things on the horizon. They're actually talking about reinstituting it. Ocean Infinity has found a new technology, a new method that they haven't even shared with me. It's very secret. And what they're saying is that we're going to go start looking. And they made a proposal to the Malaysian government to do so. And it looks like it's being well received. So, it's possible they may start that search again. In addition, there's some other news on the parts that were found. That flap - a flap aron (ph) on the right side of the aircraft was found washed up on Reunion Island, and they - they're looking at the crustaceans and the things that made homes on that piece as it came in. And from that we have some real sophisticated science looking at where that might have gone. And it could trace us back to a particular part of the ocean exactly where that thing first started and where it picked up these crustaceans. So, there is hope that that will be found. And I think that that's going to happen.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:45:03",
+      "speaker": "SOUCIE",
+      "sentences": "Yes. Yes, absolutely. And like you said, the technology is the key and they do feel confident. They're making a $100 million bet that they can use this technology to find it now.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:45:03",
+      "speaker": "SIDNER",
+      "sentences": "Wow.All right, David Soucie, thank you so much for bringing us that. I was there in Malaysia when -- right after this happened. And I still have questions. It is the biggest mystery I can think of in my mind, where did this whole plane go.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:45:03",
+      "speaker": "BERMAN",
+      "sentences": "Ten years.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:45:03",
+      "speaker": "SIDNER",
+      "sentences": "Yes. And why.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:50:08",
+      "speaker": "BOLDUAN",
+      "sentences": "As \"The New York Times\" put it, if the economy is slowing down, nobody told the labor market. The monthly jobs report released just last hour shows 275,000 jobs were added in February. That's definitely more than what economists were expecting. The unemployment rate climbed higher to 3.9 percent. That is the 25th straight month though the jobless rate has stayed below 4 percent, the longest stretch in more than 50 years. And this report is one that President Biden will likely be more thanhappy to tout as he's heading to Pennsylvania today to speak directly to voters after last night's State of the Union Address. Over the next 18 days, White House officials and Biden -- and Biden's cabinet are going to be fanning out across the country to promote his agenda, including and especially his economic agenda. And included in those traveling, Treasury Secretary Janet Yellen. And joining us right now is the Treasury secretary. Thank you so much for taking the time this morning.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:50:08",
+      "speaker": "JANET YELLEN, TREASURY SECRETARY",
+      "sentences": "Thanks.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:50:08",
+      "speaker": "BOLDUAN",
+      "sentences": "What I hear often from the administration is the economy is doing great, it's back on track, but that you still have more work to do. I heard that again in this speech from President Biden last night. What do you think you still need to prove with this economy?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:50:08",
+      "speaker": "YELLEN",
+      "sentences": "Well, the president's top priority is high prices and burdens on the cost of living facing middle class families that he wants to do everything in his power to relieve. And in the areas of health care and energy, he's already accomplished a lot, brought down the cost of insulin, of health insurance, prescription drugs. The prices are going to be negotiated and come down. And in the areas of clean energy, we have historic investments that are going to expand renewable energy and bring down costs and already most homeowners are eligible for investments in insulation, in heat pumps, in other investments in their homes that can serve to bring down monthly costs.And as the president outlined last night, housing remains a tremendous concern. There's a shortage of affordable housing in this country. And he put forth proposals to help, especially first-time homebuyers be able to afford housing. And in his vision for the future that he set out, he discussed childcare. The fact that childcare is such a burden and such a high cost for so many middle class families, increasing the availability of paid leave. So, this is really his top priority, making sure that middle-class families in this country have -- can afford a decent life and get help with major expenses that are a burden.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:50:08",
+      "speaker": "BOLDUAN",
+      "sentences": "Yes, and, Secretary, you know, when it comes to this being a top priority and the Republican response to the president's address, Republican Senator Katie Britt, she portrayed the president as out of touch with how Americans are doing, how Americans are really doing.Listen to this. (BEGIN VIDEO CLIP) SEN. KATIE BRITT (R-AL): Let's be honest, it's been a minute since Joe Biden pumped gas, ran a carpool or even pushed a grocery cart. Meanwhile, the rest of us see our dollar and we know it doesn't go as far. We see it every day. (END VIDEO CLIP) BOLDUAN: How do you respond to that?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:55:00",
+      "speaker": "BOLDUAN",
+      "sentences": "Let me ask you about that. You said how they're feeling. Polling has consistently shown that while Americans are feeling better about the economy, they don't give Biden credit for it, they don't trust him to handle it. In a CBS poll that was released just this week, almost six in 10 voters described the economy under President Biden as bad. If you don't convince more Americans otherwise, what is that a failure of? What is that a sign of?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:55:00",
+      "speaker": "YELLEN",
+      "sentences": "Well, first of all, I think that polls are showing increased optimism about the economy. Just day before yesterday there was -",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:55:00",
+      "speaker": "BOLDUAN",
+      "sentences": "Right, but not giving him credit for it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:55:00",
+      "speaker": "YELLEN",
+      "sentences": "Well, I think we need to explain what the president is doing to improve people's lives. And my colleagues and I in the cabinet will be fanning out around the country to talk about the economic accomplishments of President Biden and his administration. And what Americans are going to see is that we're finally investing in America. We're fixing the bridges, the roads, investing in the internet to make sure every family has access. During the pandemic we saw all too many Americans driving their children to parking lots in front of McDonalds to be able to use the internet, and that's going to change. And we're seeing massive investments in private investments, in the clean energy economy, in battery production, electric vehicle, renewables, and in semiconductors. And this is creating good jobs in parts of the country that really haven't seen a lot of opportunity.And people without a college education are finally going to be able to get good jobs in - in our economy, in parts of the country that just have not seen a lot of job opportunities. And I'm afraid that to few Americans are aware of all -",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:55:00",
+      "speaker": "BOLDUAN",
+      "sentences": "Which also shows why you're definitely going to be hitting while - oh, I'm sorry, Secretary. So, sorry, Secretary, I was saying, which is why you're going to be one of the cabinet members hitting the road.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:55:00",
+      "speaker": "YELLEN",
+      "sentences": "Yes. BOLDUAN",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:55:00",
+      "speaker": "YELLEN",
+      "sentences": "That's right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:55:00",
+      "speaker": "BOLDUAN",
+      "sentences": "Secretary -- Treasury Secretary Janet Yellen, thank you for coming on with me this morning. Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:55:00",
+      "speaker": "SIDNER",
+      "sentences": "All right, and thank you for joining us. This is CNN NEWS CENTRAL.\"CNN NEWSROOM\" with Jim Acosta, up next.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:55:00",
+      "speaker": "BERMAN",
+      "sentences": "We did it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:55:00",
+      "speaker": "BOLDUAN",
+      "sentences": "We did it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:55:00",
+      "speaker": "BERMAN",
+      "sentences": "We did it.",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

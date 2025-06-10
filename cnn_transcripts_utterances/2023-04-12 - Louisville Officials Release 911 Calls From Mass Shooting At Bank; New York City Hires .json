@@ -1,0 +1,991 @@
+{
+  "date": "2023-04-12",
+  "headline": "CNN Tonight",
+  "subHeadline": "Louisville Officials Release 911 Calls From Mass Shooting At Bank; New York City Hires Its First Rat Czar; Should Colleges Have Trigger Warnings For Classroom Content That Some May Find Upsetting; Cornell University Rejects Student Group's Call For Trigger Warnings; MLB Teams Extending Beer Sales Into Games; Arnold Schwarzenegger Fills A Pothole In L.A. Aired 10-11p ET",
+  "utterances": [
+    {
+      "timeStamp": "22:00:03",
+      "speaker": "KAITLAN COLLINS, CNN ANCHOR",
+      "sentences": "Thanks so much for joining us tonight. Alisyn Camerota is standing by up next with CNN TONIGHT. Hi, Alisyn.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:00:03",
+      "speaker": "ALISYN CAMEROTA, CNN ANCHOR",
+      "sentences": "Hey, Kaitlan. Thanks so much.Good evening, everyone. I'm Alisyn Camerota. Welcome to CNN TONIGHT. Police have released the desperate 911 calls from the Louisville bank shooting. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:00:03",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "I just saw a shotgun as he was coming around the corner.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:00:03",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "Okay.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:00:03",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "People have been shot.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:00:03",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "Okay, we have it. We have it. We're going to get them up there, okay?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:00:03",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Yes. Mass shooting, he shot probably 15 rounds.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:00:03",
+      "speaker": "CAMEROTA",
+      "sentences": "In a minute, we'll also play you the anguished call from the shooter's own mother. His family says he had mental health challenges that they were actively addressing as a family. So, would a red flag law have worked? We'll show you what's happening in the states that have them.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:00:03",
+      "speaker": "CAMEROTA",
+      "sentences": "Plus, Mike Rowe is here with us tonight to describe the future of work. Is it remote? Is it A.I.-based? We will also get his take on one of the dirtiest jobs out there, the newly appointed New York City rat czar.Also, baseball games are shorter this season, which means you've got less time to buy beer. Harry Enten will be here to tell us all of the unintended consequences of that rule. He's also crunching the numbers on the optimum beer drinking inning. So, stay tuned for that. But let's start with what we've learned about the Louisville shooting. We have here tonight. Vanity Fair's Molly Jong-Fast, the one and only Mike Rowe here, Pollster Frank Luntz is here and our favorite player on and off the court, Patrick McEnroe. All right, that's our last moment of levity guys for this segment, because, as I said, we have heard more of the 911 calls. And Kaitlan Collins just sat down with the governor of Kentucky tonight, Andy Beshear, who lost a friend. I mean, he was choked up throughout this entire interview, basically, because someone close to him was murdered in this bag. So, let me just play another portion of that interview for you all. (BEGIN VIDEO CLIP) GOV. ANDY BESHEAR (D-KY):  I believe we can respect and honor people's Second Amendment rights to protect themselves and their family, but at the same time at least take a step so that we can intervene when we know somebody is about to go out and murder a whole bunch of people. Red flag law involves the court system. It ensures that everybody's rights are protected, that evidence is heard and has every check on it that we could ask for. But at least it lets us stop that next individual, at least when we know before they murder people. And, listen, I know people will say that wouldn't have stopped this situation, and it probably wouldn't have, but maybe it will the next one. I don't want another family go through this. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:00:03",
+      "speaker": "CAMEROTA",
+      "sentences": "Mike, I'll start with you. I mean, it's impossible to know what would have stopped this one, but they did say that he had mental health challenges. He did leave a note for his family and for his roommate in one of them. He said he was suicidal. What are your thoughts?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:00:03",
+      "speaker": "MIKE ROWE, CEO, MIKEROWWORKS FOUNDATION",
+      "sentences": "Why have you got to start with me?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:00:03",
+      "speaker": "CAMEROTA",
+      "sentences": "Well, because I haven't talked to you about this, and I have talked to many of the other people on our panel about this. And, honestly, we're always looking for solutions, and it's so mystifying in a case like this because he doesn't fit what our images of the deranged loner yet it sounds like he had a bad week. He bought the gun six days earlier. He was having mental -- he had a bad week. And because of access to guns, a bad week turns into a mass shooting.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:00:03",
+      "speaker": "ROWE",
+      "sentences": "Well. If it's just because of access to guns, then, yes, there's a real simple solution to this. But speaking only for myself, I don't think it's just access to guns. I think it is mental health. And I think there're some other things that, as desperate as we would love to be able to quantify it and spell it out, it's not there. We can't we can't look into the future. We can look back at the past and we can probably conclude some things. But at this moment in time, I'm just -- I just feel nothing but pity for the survivors, for the victims, for their families, and all the usual stuff that just sounds so platitudinous and ridiculous and empty. But --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:00:03",
+      "speaker": "CAMEROTA",
+      "sentences": "Are you a gun owner?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:00:03",
+      "speaker": "ROWE",
+      "sentences": "Yes. I grew up with guns.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:00:03",
+      "speaker": "CAMEROTA",
+      "sentences": "You grew up with guns. And so what's your feeling about guns? You need one. You're comfortable around them. You're less comfortable now.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:05:03",
+      "speaker": "CAMEROTA",
+      "sentences": "Yes. But your point is that he that we have the ability to traumatize with it?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:05:03",
+      "speaker": "ROWE",
+      "sentences": "I'm saying that we have the ability with that device to turn the First Amendment upside down in the same way that that guy has the ability with that device to turn the Second Amendment inside out. And those two amendments, last I looked at the math, are in the top three. They matter. And when people abuse them like this, to answer your question, it just makes me angry and sad, except for those times when it makes me sad and angry.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:05:03",
+      "speaker": "CAMEROTA",
+      "sentences": "Molly?MOLLY JONG-FAST, HOST, FAST POLITICS PODCAST:  No other country lives like this. I mean, besides Syria, we have the highest number of mass shootings. We are shooting among shooting among shooting. I mean, every -- there were two shootings in the last, you know, five days. I mean, these are mass shootings. We have so many children killed by guns. Guns are like the second -- you know, the first or second highest thing that kills children. I mean, we are out of control. This is not a well-regarded militia. This is craziness. And like nobody has ever been killed by a phone, like I understand that there that the media has power, but like the we're literally seeing children who are scared to go to school board, who are traumatized by the drills. I mean, this is not we don't have to live like this.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:05:03",
+      "speaker": "CAMEROTA",
+      "sentences": "Frank?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:05:03",
+      "speaker": "FRANK LUNTZ, POLLSTER AND COMMUNICATIONS STRATEGIST",
+      "sentences": "We have Constitution, and yet I read the Second Amendment. Not every individual should have the right to buy any gun at any time for any reason anywhere in America, that there is a sensible, reasonable, responsible approach that involves both some sort of restrictions and addressing the human dynamic of this. Because if we limit every gun, it says that we don't believe in this Constitution, don't believe in that document. But it doesn't mean that every gun should be available all the time.And the problem is the Democrats come across as one that take your guns, Republicans come across is not caring, and they're both wrong. And I'm not sure that those are the accurate perceptions. But there's so much emotion that's tied to this and so much division and so much polarization that we cannot solve it because we don't want to act reasonably. We take an extreme point of view and so this show is going to do this segment again and again because it's going to happen again and again.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:05:03",
+      "speaker": "CAMEROTA",
+      "sentences": "We do it all the time. I mean, we keep having this circular conversation. But, occasionally, there are suggestions, Patrick, that bring logical and, for instance, in Florida, okay, red state, Florida, DeSantis' Florida, after Parkland, they passed, red flag laws. And since that time -- it's remarkable. In just the past six months, okay, so, in a six-month chunk, six or seven months between July 2022 and February 2023, 2,000 protection orders, in other words, red flags. A judge agreed 2,000 times that a gun had to be taken away somebody for their own self-harm or a danger to others. That's just in recent, you know, six months. Before that, it's something like 8,700 times. So, it's working there, in other words. Judges are seeing a reason that people shouldn't have guns.One more thing I want to show you before I let you chime in, and that's in Connecticut, which also has a red flag law. Duke Law School determined through their study that for every 10 to 20 guns removed by a red flag law, they stopped one suicide.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:10:02",
+      "speaker": "MCENROE",
+      "sentences": "I'm glad Frank is here because I always hear, you know, he talks about all his polling. And I don't believe that people don't -- believe what people say when it comes to guns. It's a little bit like talking about racism. Are you racist? Who's going to say, yes, they're racist? There's a lot of people that are racist. There's a lot of people, a lot more people than I think we're acknowledging that want to have gun more than they want to have the security and safety.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:10:02",
+      "speaker": "CAMEROTA",
+      "sentences": "I don't know if that's true. Isn't it that the politicians are just not reflecting what the regular Americans want?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:10:02",
+      "speaker": "MCENROE",
+      "sentences": "That's because of money. Go ahead.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:10:02",
+      "speaker": "LUNTZ",
+      "sentences": "We actually pulled NRA members about this and they support some limitation of some sales in some guns, NRA, by 70 percent or 80 percent. And there's some ways which is just by delaying the purchase, that you can't walk into a store right now and get that gun and go out and use it, they're fine with this. So, there aren't --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:10:02",
+      "speaker": "MCENROE",
+      "sentences": "But why doesn't it happen?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:10:02",
+      "speaker": "LUNTZ",
+      "sentences": "Because the politicians are afraid.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:10:02",
+      "speaker": "MCENROE",
+      "sentences": "Because they're afraid of losing their jobs, because many people, in addition to the companies, many people -- if the people rose up and walked to the Capitol, walked -- just as they were doing in Kentucky, right, or in Tennessee, that people got motivated and they actually went up. That's, to me, the only way this is ever going to change and these actual laws are going to be enacted, is if the actual people say, you have to do it to the politicians. They're not saying that now. JONG-FAST",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:10:02",
+      "speaker": "LUNTZ",
+      "sentences": "But they did advertising. They did advertising. And they made gun owners look like they were hicks, southern hicks. They're good law abiding people. They're decent people. They're Mike Rowe and they should not be demonized. And that's the problem is that they're trying to score political points rather than trying to get the job done.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:15:00",
+      "speaker": "CAMEROTA",
+      "sentences": "All right. We want to talk about what the future of work looks like. Will we all be back in the office together someday? Will we all be working alongside robots?But, first, we want to tell you about a very unique job that was filled today. New York City hired a rat czar. You heard me right. The job description called for someone who is, quote, highly motivated and somewhat bloodthirsty, with a swashbuckling attitude, crafty humor and general aura of badassery. The lucky woman who landed this gig, Kathleen Karate, a former elementary school teacher who The New York Times reports will make $155,000 a year. My panel is back.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:15:00",
+      "speaker": "MCENROE",
+      "sentences": "Give her a raise.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:15:00",
+      "speaker": "CAMEROTA",
+      "sentences": "How much your take, Patrick?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:15:00",
+      "speaker": "MCENROE",
+      "sentences": "Can I do it remote, like how many days that you have to actually --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:15:00",
+      "speaker": "CAMEROTA",
+      "sentences": "No, you'll be in there. You'll be in there.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:15:00",
+      "speaker": "MCENROE",
+      "sentences": "Because you have to actually get the rats, right?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:15:00",
+      "speaker": "CAMEROTA",
+      "sentences": "Well, you don't have to have a net where you're like in the subway system grabbing the rats, but you have to, I think, be pretty hands.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:15:00",
+      "speaker": "MCENROE",
+      "sentences": "Maybe I'd go for 160.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:15:00",
+      "speaker": "CAMEROTA",
+      "sentences": "Okay, you would have held out for that? Okay. Frank, what do you charge for that? LUNTZ",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:15:00",
+      "speaker": "CAMEROTA",
+      "sentences": "No, that does not require badassery. That requires something entirely different, a different skill set.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:15:00",
+      "speaker": "LUNTZ",
+      "sentences": "Truth serum.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:15:00",
+      "speaker": "CAMEROTA",
+      "sentences": "Yes, exactly. The other -- I thought just the skill set -- it's so funny how they did this, how they filled this in how humorous they were. They said the skill set requires if we determine to look at all solutions from various angles, including improving operational efficiency, data collection, technology innovation, trash management and wholesale slaughter.JONG-FAST:  Wholesale slaughter, that's the best kind of slaughter.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:15:00",
+      "speaker": "CAMEROTA",
+      "sentences": "How much would it take for you? How much money?JONG-FAST:  I live in New York City. There are so many rats here. I'm telling you, I mean, I was at a restaurant yesterday where I heard a squeak, squeak in the outdoor -- yes, those outdoor -- there's a lot of that there.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:15:00",
+      "speaker": "LUNTZ",
+      "sentences": "You want to name it?JONG-FAST:  No, I'm not naming it. I only have like four places I go.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:15:00",
+      "speaker": "LUNTZ",
+      "sentences": "We can get a lawsuit going right here, right now.JONG-FAST:  The rats in the city is a big rat city. I mean, this is our thing.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:15:00",
+      "speaker": "CAMEROTA",
+      "sentences": "It's a big job. Yes. Mike, I feel like it all of your dirty jobs somewhere along your laundry list, this must -- was rodent mitigation ever --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:15:00",
+      "speaker": "ROWE",
+      "sentences": "We did a huge rat abatement program in New Orleans not long after Katrina. The place was, I mean, overrun, like unlike anything I'd ever seen. But I'm surprised your producer didn't find footage. You know, I had a show on CNN a couple of years ago called Somebody Has Got to Do It, back in 2014. And one of the first segments we did, I profiled this group of people who have rat terriers, and they just call him ratters, right? These are dogs with incredible drive, bred specifically for the purpose of hunting rats.And these guys met downtown like about 10:00 at night, and they'd stay out until 2:00 A.M. with this pack of rat terriers. And when they -- we watched those rats kill maybe 50.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:20:00",
+      "speaker": "ROWE",
+      "sentences": "The dog tore them in half. I mean, it is a bloodbath.So, here's the qualification -- MCENROE:  I'm scrambling to find that tape right now.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:20:00",
+      "speaker": "ROWE",
+      "sentences": "Here's the qualification this person needs. They need to be prepared for the blowback that they're not expecting. Because when the public sees piles of rats piled up, believe it or not, as unsympathetic as we all feel right now, I got more hate mail of that segment for celebrating the death of about 50 rats.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:20:00",
+      "speaker": "CAMEROTA",
+      "sentences": "Yes. You clean up the mound of rat carcasses before people wake up and go to work?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:20:00",
+      "speaker": "ROWE",
+      "sentences": "No. I think that it's important part of the job, you leave the carcasses there to, A, send a message to the people and to the other rats. Absolutely, let them know you're not messing around.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:20:00",
+      "speaker": "CAMEROTA",
+      "sentences": "That's appalling, Mike. I knew you were going to have a story. I didn't know it was going to be that graphic. That is fantastic.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:20:00",
+      "speaker": "ROWE",
+      "sentences": "You've got footage. If you want it, it's there.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:20:00",
+      "speaker": "CAMEROTA",
+      "sentences": "Okay. Well, we'll be digging that up momentarily. They're finding it. They're telling me they're finding it right away.Okay. Meanwhile, let's talk about the rest of our jobs. So, what is the future -- what is the future of work look like, Mike?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:20:00",
+      "speaker": "ROWE",
+      "sentences": "So, you know what, not to go back to the last segment, God help us, but so much of what goes on in these conversations is painting with a really broad brush. And in my view, I run a foundation, we try and stay in our lane. I don't know about the future of work, in general, but I do know that if you have mastered a skill that's in demand, plumbing, steam fitting, pipe fitting, welding, electric, heating, air conditioning, there's never been a better time to be alive and working in this country.You can set your own hours. You can write your own ticket. You can work as much or as little as you want. You can join a union if you want or not, if you don't. It is a terrific time to master a skill that's in demand.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:20:00",
+      "speaker": "CAMEROTA",
+      "sentences": "You know what's very interesting is that there used to be a prediction, Patrick, that A.I. was going to replace those jobs. But now, The Wall Street Journal says it's actually the opposite. We had it wrong. And The Wall Street Journal says, as long as artificial intelligence has existed, so have the predictions that it would disrupt and someday replace blue collar work, now, according to a new study by researchers at the University of Pennsylvania and OpenAI, most jobs will be changed in the form by generative, pre-trained transformers, or GPTs, which use machine learning based on internet data to generate any kind of text from creative writing to code, meaning white collar jobs. Those kinds of jobs are the ones that will be replaced.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:20:00",
+      "speaker": "MCENROE",
+      "sentences": "Yes, I agree. I mean, I think, Mike said -- I'm glad he said that because I think that -- I don't think we do enough in this country for blue collar-type jobs. You know, there should be more training, there should be more -- it should be a better route to take.I do think, though, that working from home, the office, you see that a lot in the financial world, right, the big companies, and to Mike's point, the people that are in the most -- the highest demand have the most flexibility, right? Because, you know, those companies, those big companies, they need the best people, so the better off you are in your -- even go back to sports. You know, my thing in sports, like you're the best one of the best basketball players. You see them all, you know, they changing teams out. They're making their own rules. Even the college players now, the best college players, you see with this NIL, they're playing for one year for one school, there's one kid in North Carolina now he's going to Michigan next year. So, you know, if you can pull it off, why not?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:20:00",
+      "speaker": "CAMEROTA",
+      "sentences": "Be the best of whatever you do.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:20:00",
+      "speaker": "MCENROE",
+      "sentences": "Be the best of whatever you do, whether you're a plumber or you're a basketball player.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:20:00",
+      "speaker": "LUNTZ",
+      "sentences": "But we need to change the language because it's not a job, it's a career. And the public by two to one wants a career over a job, number one. Number two is you get to own your career. Plumbers, who have three or four people working for them are making more than lawyers. And number three is you don't have to go into debt like you have to do in so much so many universities.There has never been a better time for this. The problem is that there are too many teachers who are telling their students you have to go to a traditional college and get a traditional -- have a traditional career, when, in fact, this is more financially rewarding, you get to control your hours, to control who you work for. You are absolutely right and there are a few politicians now, and I hope you're working with them, who have changed the focus of the education system in their states to promote career education, stop calling it vocational and they're not blue collar jobs. They're actually self employed careers.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:20:00",
+      "speaker": "ROWE",
+      "sentences": "The thing, Frank, that I've seen and probably I have research on this is that so much of this comes down to something we always dismiss, which is P.R. The stigmas, the stereotypes and the myths and the misperceptions to keep millions of people from exploring these careers, they're real, right?Every time I talk about the welders that we've helped train who are making mid-six figures, people just go, what do you -- that's not possible. And then I show them that it's possible. And all of a sudden we're having a different conversation. But until the trades get better P.R. broadly, we're going to keep lending money. We don't have to kids who can't pay it back training for jobs that don't exist anymore.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:20:00",
+      "speaker": "CAMEROTA",
+      "sentences": "Okay. Hold on, hold that thought, because your wish is our command.[22:25:01] We have found the Mike Rowe hunting rats, hunting rat video. There we go. Oh, no, are we about to see one attack --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:20:00",
+      "speaker": "MCENROE",
+      "sentences": "Oh my goodness.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:20:00",
+      "speaker": "CAMEROTA",
+      "sentences": "Oh my gosh.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:20:00",
+      "speaker": "ROWE",
+      "sentences": "There's no way they're going to show the things seared in my retina, but I saw a rat the size of a loaf of bread get torn in half by two dogs, playing a tug-of-war with the thing.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:20:00",
+      "speaker": "CAMEROTA",
+      "sentences": "That is revolting.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:20:00",
+      "speaker": "ROWE",
+      "sentences": "Right, not three blocks from here.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:20:00",
+      "speaker": "CAMEROTA",
+      "sentences": "That is so revolting.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:20:00",
+      "speaker": "MCENROE",
+      "sentences": "That's some strong production work.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:20:00",
+      "speaker": "CAMEROTA",
+      "sentences": "Well, that was great. It was very like cinema verite.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:20:00",
+      "speaker": "ROWE",
+      "sentences": "It was like in a war. Yes. In those days, I was all black and white.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:20:00",
+      "speaker": "CAMEROTA",
+      "sentences": "I could see that. That was excellent. All right, that was great.Everyone stay with us. Should college come with a trigger warning? Students at one school say yes. My panel has thoughts on this, next. (COMMERCIAL BREAK)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:30:08",
+      "speaker": "LUNTZ",
+      "sentences": "But it's more than that. We talked about the importance of diversity in society. At a university campus, isn't intellectual diversity the most important? I teach at USC, and the fact is, most of my students have never had a conservative professor or maybe one. I asked them how many conservatives come onto campus. Almost none of them do.I don't want to make a case for conservatism. I know that where I teach and I teach all over the globe. The only school that I've found that is truly deeply in every possible way committed to the truth is West Point, and they have to be because their lives are at stake. We're all just playing a game. They're the ones to protect our rights, our privileges, our constitution, and those students are the best. I love my USC students. I love my NYU students, but the ones at West Point would look at that and say that's pathetic.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:30:08",
+      "speaker": "CAMEROTA",
+      "sentences": "But to be clear, they're not talking about conservative -- this isn't about partisan stuff and about political stuff. They want a heads up on material that's like about sexual violence or suicide.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:30:08",
+      "speaker": "LUNTZ",
+      "sentences": "Get used to life. That's what this show. You talked about death as the first segment on the show. These things happen and we can't have that conversation anymore or we have to warn people about this. Come on, that justifies the whole claim about the snowflake culture. It justifies. It really does.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:30:08",
+      "speaker": "CAMEROTA",
+      "sentences": "Mike's enjoying this.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:30:08",
+      "speaker": "MIKE ROWE, CEO, MIKEROWEWORKS FOUNDATION",
+      "sentences": "How is that kid, how is that kid going to deal with the live streaming mass murder?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:30:08",
+      "speaker": "CAMEROTA",
+      "sentences": "I don't want them to have to deal with the live streaming mass murder.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:30:08",
+      "speaker": "ROWE",
+      "sentences": "I don't either, but they're going to have to because it just went live.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:30:08",
+      "speaker": "CAMEROTA",
+      "sentences": "Well --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:30:08",
+      "speaker": "ROWE",
+      "sentences": "It just happened, right? It's just -- it's -- we are surrounded. Frank said it perfectly. The world should come with a trigger warning.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:30:08",
+      "speaker": "CAMEROTA",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:30:08",
+      "speaker": "ROWE",
+      "sentences": "And then we should get on with living it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:30:08",
+      "speaker": "CAMEROTA",
+      "sentences": "I agree, but again, to play devil's advocate, we even give our viewers, we say we have disturbing video coming up.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:30:08",
+      "speaker": "ROWE",
+      "sentences": "Which makes them go, yeah, yeah.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:30:08",
+      "speaker": "CAMEROTA",
+      "sentences": "Maybe, but I mean--",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:30:08",
+      "speaker": "ROWE",
+      "sentences": "Do they tear the rat in half. What am I going to see next?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:30:08",
+      "speaker": "CAMEROTA",
+      "sentences": "Sometimes some people do, but I feel like we do give them based -- and that's basically a trigger warning in another world.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:30:08",
+      "speaker": "LUNTZ",
+      "sentences": "Because you're afraid of your own viewers.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:30:08",
+      "speaker": "CAMEROTA",
+      "sentences": "No, because we want to let people know something really upsetting is about to come up. If you want to turn away, go ahead right now.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:30:08",
+      "speaker": "PATRICK MCENROE, FORMER PROFESSIONAL TENNIS PLAYER",
+      "sentences": "I -- sorry go ahead, Molly.MOLLY JONG-FAST, HOST, FAST POLITICS PODCAST:  I don't know that we need to extrapolate so much from this. I mean, I think they're welcome to ask for it if the university doesn't want to do it. There are people who have been raped. There are terrible, you know, there are people who have had mass shootings in their schools. You know, you give that kid \"American Psycho\" they may feel very uncomfortable. I don't think it's; you know, we're not saying don't give them the book. They're saying that we just like a heads up. I mean, I don't think that's the craziest want. I mean, and I think the college is well within its rights to say no.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:30:08",
+      "speaker": "MCENROE",
+      "sentences": "I believe it's common sense. It's common sense. I mean, I actually agree with the guys, but I think Molly hit it because in this -- this was a situation where it was a couple of young women that were reading just like you said, Alisyn, something to do with rape or sexual abuse, and this one particular student had some history involved with this.So, in that case, wouldn't it be nice if it was the teacher sort of took the prerogative, not legislated by the university or some directive, but the teacher who knows their students, who knows, you know, this could be a sensitive -- to give him a little bit of heads up. That wasn't part of the curriculum, but it was just the right thing to do. Is it crazy to think that common sense at a big-time university could be the way to go and it starts there.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:35:04",
+      "speaker": "LUNTZ",
+      "sentences": "And we're banning books-- JONG-FAST",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:35:04",
+      "speaker": "LUNTZ",
+      "sentences": "Right. But it's not left or right.JONG-FAST:  Right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:35:04",
+      "speaker": "LUNTZ",
+      "sentences": "It's -- we have to stop seeing everything is left or right.JONG-FAST:  No. But -- right. But I'm not saying that they should ban these books. I'm just saying that a heads up, you know, and more just that these students are welcome to ask for a heads up. You know, I have teenagers, and I would be proud if they had sort of, you know, especially if they had a friend who was a victim of sexual violence and who was, you know, trying, you know, upset by something and asked. I mean, and I think the school has every right to say no too. I mean, I do think that a discourse that's not too hot and it's just talking about this is the right thing. And again, you and I have talked about this book banning thing is bananas, right?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:35:04",
+      "speaker": "LUNTZ",
+      "sentences": "As a professor I don't want to be afraid of my students. As a professor, I want to feel comfortable challenging them. I want them to hear from people they never heard of. I want them to see things that they hadn't seen. I want to truly -- and I mean this. I want to educate them. I want to be a teacher, not a professor.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:35:04",
+      "speaker": "ROWE",
+      "sentences": "How about one step further? How about make -- do you want them to be uncomfortable? Do you want them to have doubts? Do you want them to really be uneasy? I do.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:35:04",
+      "speaker": "LUNTZ",
+      "sentences": "I want them to embrace it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:35:04",
+      "speaker": "ROWE",
+      "sentences": "Right. Look for it. Look for the --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:35:04",
+      "speaker": "LUNTZ",
+      "sentences": "The youth on this show. Any moment, any of the four of us could say something that gets us banned from this show because we used the wrong language, we embarrass ourselves. I embrace that because it requires me to think and requires me to ponder and I don't think we teach that of our kids.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:35:04",
+      "speaker": "CAMEROTA",
+      "sentences": "Yeah, I hear you. I mean, I think that part of growing up is learning to be comfortable being uncomfortable. Finding a comfort with discomfort, and they have to get used to that. But I also see what you're saying, like would it kill somebody to say, guys, by the way, there's going to be a rape scene in this book, just letting --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:35:04",
+      "speaker": "MCENROE",
+      "sentences": "No, it would not. Absolutely not.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:35:04",
+      "speaker": "CAMEROTA",
+      "sentences": "I mean, but then the question is what happens next? Then do the students say I don't want to read that.(CROSSTALK)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:35:04",
+      "speaker": "MCENROE",
+      "sentences": "That's why I said common sense.JONG-FAST:  Except you're seeing in Florida, right? I mean, they're taking away books that make people uncomfortable.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:35:04",
+      "speaker": "CAMEROTA",
+      "sentences": "I know.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:35:04",
+      "speaker": "ROWE",
+      "sentences": "They're going to turn the classroom into the last 40 seconds of every pharmaceutical commercial where the entire thing is, okay, now, you might be offended if this and that and you might be offended if this and this and this, except it's not going to be the end of the commercial. It's going to be the beginning of the commercial.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:35:04",
+      "speaker": "CAMEROTA",
+      "sentences": "And might cause diarrhea.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:35:04",
+      "speaker": "ROWE",
+      "sentences": "Yeah. And, by the way, lord of the fly's piggy backs at the end. Have a nice day. Everybody goes home. Now you're smart.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:35:04",
+      "speaker": "CAMEROTA",
+      "sentences": "Thanks for ruining it for us.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:35:04",
+      "speaker": "ROWE",
+      "sentences": "And by the way, why doesn't this ever happen in trade schools? Just saying, okay.(CROSSTALK)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:35:04",
+      "speaker": "LUNTZ",
+      "sentences": "They're not trade schools, they're career schools.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:35:04",
+      "speaker": "CAMEROTA",
+      "sentences": "We have to go. We've already changed the language.JONG-FAST:  Junior colleges.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:40:00",
+      "speaker": "UNKNOWN",
+      "sentences": "Take me out to the ball game. Take me out to the crowd. Buy me some peanuts and cracker jack.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:40:00",
+      "speaker": "CAMEROTA",
+      "sentences": "Those were the Chicago Cub fans in 2015, raising their beers in tribute to the legendary Harry Caray, nailed it, with his rousing rendition of \"Take Me Out to The Ball Game\" in the seventh inning stretch. That's the inning when baseball teams have traditionally stopped beer sales. But now games are getting shorter and teams like the Arizona Diamondbacks and Minnesota Twins and the Milwaukee Brewers, the Brewers, are selling beer through the eighth inning.That could have some unintended consequences and there's nobody better to help us understand this and crunch the data, data on beer, than senior data reporter Harry Enten. My panel is also back. Harry, how much time have you spent or how many beers, I guess, did you -- have you drank to research this?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:40:00",
+      "speaker": "HARRY ENTEN, CNN SENIOR DATA REPORTER",
+      "sentences": "Only diet A&amp;W cream. So that was why I was asking you before about your cream soda preferences.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:40:00",
+      "speaker": "CAMEROTA",
+      "sentences": "What do we need to know here?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:40:00",
+      "speaker": "ENTEN",
+      "sentences": "Here's what you need to know. Here's what you need to know. You need to know number one, that baseball games are on average this year about 31 minutes shorter than they were last year because of the pitch clock that they've instituted, that essentially, they wanted the games to be shorter because they thought the long games were keeping fans from watching games especially young people, like myself.But here is the unanticipated consequence, right. Essentially, what has occurred is that means that now you have less time to sell beer. About, I think it was about 24 minutes on average or so, less time to sell beer. And that, of course, is something that MLB teams don't necessarily like because it turns out using let's say Minute Maid Park, which is where the Houston Astros play for example, last year, I believe, they sold about $28 million worth of alcohol. And now some of that was from concerts, but the vast majority that was from baseball games. So, my estimate is that they might have lost, you know, somewhere in the area of a few million dollars based upon these new -- the new timing rules. So, they're trying to gain some of that back by going to sell alcohol for eight innings instead of seven.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:40:00",
+      "speaker": "CAMEROTA",
+      "sentences": "Oh, did they have a solution to this national problem.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:40:00",
+      "speaker": "ENTEN",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:40:00",
+      "speaker": "CAMEROTA",
+      "sentences": "This was going to be a national crisis, but they have a solution.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:40:00",
+      "speaker": "ENTEN",
+      "sentences": "They -- they -- apparently, they have a solution to this national national crisis, but of course, there are unintended consequences to this, right?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:40:00",
+      "speaker": "CAMEROTA",
+      "sentences": "Such as?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:45:02",
+      "speaker": "CAMEROTA",
+      "sentences": "There's a lot to this beer sales thing.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:45:02",
+      "speaker": "ENTEN",
+      "sentences": "You think it's a small thing, but it's a (inaudible).",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:45:02",
+      "speaker": "CAMEROTA",
+      "sentences": "No.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:45:02",
+      "speaker": "ROWE",
+      "sentences": "Very large. How about that.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:45:02",
+      "speaker": "CAMEROTA",
+      "sentences": "Yes. Mike, why are you rolling the hairy eyeball?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:45:02",
+      "speaker": "ROWE",
+      "sentences": "Well, what do you do with doubleheaders? Right? I mean, extra innings obviously is a thing. It's just -- this just makes me thirsty right now. Right now, in real time we'd be fools not be closing out this whole thing.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:45:02",
+      "speaker": "CAMEROTA",
+      "sentences": "You're so right. We need beer right now.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:45:02",
+      "speaker": "ROWE",
+      "sentences": "What are we doing?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:45:02",
+      "speaker": "CAMEROTA",
+      "sentences": "I mean, just for research purposes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:45:02",
+      "speaker": "ROWE",
+      "sentences": "Of course. Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:45:02",
+      "speaker": "CAMEROTA",
+      "sentences": "You're the sports (inaudible).",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:45:02",
+      "speaker": "MCENROE",
+      "sentences": "Can I bring my I'm athletic background here.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:45:02",
+      "speaker": "CAMEROTA",
+      "sentences": "Yes, please.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:45:02",
+      "speaker": "MCENROE",
+      "sentences": "Thank goodness because I love baseball and I'm bored, you know what, watching a lot of these games, particularly during the regular season. The playoffs are a little bit different. I love what they've done with the pitch clock. We did it in tennis a couple years ago, the serve clock. It makes the games move much quicker. And you know what, they're getting in their cars. They get a little more time. You see, it's Harry (ph).They just don't want them walking to the cars with the beer in the hand, okay. Whether it was the sixth or the seventh or the eighth inning, hopefully, they didn't have too many. They could take an uber.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:45:02",
+      "speaker": "CAMEROTA",
+      "sentences": "Got it. Frank, we only have about 30 seconds left so, I'll give you the last word.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:45:02",
+      "speaker": "LUNTZ",
+      "sentences": "I'm so glad to do this show because I'm glad to meet you. I really appreciate all that you've done for the ignored and forgotten. You have given people the respect that they deserve for doing the jobs that they had to do, and they want to do. You celebrated them. You are a treasure in this country. And to be on this show with you, I like you all, but you're special. And this is such an honor.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:45:02",
+      "speaker": "ROWE",
+      "sentences": "You're making me blush, Frank. Thank you. Our next round of work ethics scholarships is happening right now. Anybody is welcome to apply. Shameless plug, I'm sorry.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:45:02",
+      "speaker": "CAMEROTA",
+      "sentences": "Where can we go?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:45:02",
+      "speaker": "ROWE",
+      "sentences": "Mikeroweworks.org. These are not for four-year schools. These are for trades. We got $2 million. We're giving it away next month. Apply today.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:50:00",
+      "speaker": "CAMEROTA",
+      "sentences": "Arnold Schwarzenegger taking matters into his own hands, filling a pesky pothole in his Los Angeles neighborhood. Here's what he posted to social media.(BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:50:00",
+      "speaker": "ARNOLD SCHWARZENEGGER, FORMER GOVERNOR OF CALIFORNIA",
+      "sentences": "You're welcome. You all got -- we have to do it yourself. I mean, this is crazy. Three weeks I've been waiting for this hole to be closed.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:50:00",
+      "speaker": "UNKNOWN",
+      "sentences": "Thank you. Bye.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:50:00",
+      "speaker": "CAMEROTA",
+      "sentences": "The neighbors were so grateful, but it turns out it wasn't a pothole. It's a city-approved service trench for Southern California Gas. Mike Rowe is back. How many times have you mistaken a pothole or a trench?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:50:00",
+      "speaker": "ROWE",
+      "sentences": "It's not a trench. It's a pothole.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:50:00",
+      "speaker": "CAMEROTA",
+      "sentences": "So, I just feel like you have filled your share of potholes, am I right?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:50:00",
+      "speaker": "ROWE",
+      "sentences": "Well, it's embarrassing. We're hearing the break and I'm just -- I told you, I'd like, if I google micro manhole or pothole like there are eight pages of it. We just literally did a segment on \"Dirty Jobs\" with manhole rehabilitators.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:50:00",
+      "speaker": "CAMEROTA",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:50:00",
+      "speaker": "ROWE",
+      "sentences": "So, we went to Tennessee and we went into these manholes and we spray this magic stuff on the walls, and it extends the life of the sewer system by 50 years, and it's sweaty and disgusting.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:50:00",
+      "speaker": "CAMEROTA",
+      "sentences": "Yeah.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:50:00",
+      "speaker": "ROWE",
+      "sentences": "And so, it's a hole, but you don't fill it up for crying out loud. Arnold, you put a -- you put a cover on the manhole.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:50:00",
+      "speaker": "CAMEROTA",
+      "sentences": "That's a manhole. But he thought this was a pothole because --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:50:00",
+      "speaker": "ROWE",
+      "sentences": "That's a trench. Arnold is, like his resume is brilliant. He's done a lot of great works, governor, for God's sakes, but a hole is round and goes down the trenches. It's horizontal man. This is a rookie mistake. You don't fill in a trench, folks. You see an empty trench in your street, just walk on by.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:50:00",
+      "speaker": "CAMEROTA",
+      "sentences": "If only he had called you for the definition. You know the definition between a pothole and a service trench.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:50:00",
+      "speaker": "ROWE",
+      "sentences": "I'm easy to find. I'm up there in California. I'm up there. You can call me. Arnold, you just -- we'll fill in some trenches, holes, whatever you want.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:50:00",
+      "speaker": "CAMEROTA",
+      "sentences": "Because, I mean, it seemed great because you know, you don't often see like famous celebrities and former governors out there, you know, dealing with asphalt.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:50:00",
+      "speaker": "ROWE",
+      "sentences": "Let me say something kind of lousy though and like suspicious. I mean, it's filmed. Somebody filmed it, and then somebody posted it. So, what's really going on? I mean, is this an altruistic thing or was this -- I mean, I'm not -- I'm just saying, if I saw somebody as famous as Arnold Schwarzenegger out in front of my house, filling in a hole, yeah, I guess I would expect to see somebody filming it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:50:00",
+      "speaker": "CAMEROTA",
+      "sentences": "Yes, you would think something was u.?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:50:00",
+      "speaker": "ROWE",
+      "sentences": "Next thing you know you're chasing rats with terriers. You got your own T.V. show. Then you're sitting here talking to you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:50:00",
+      "speaker": "CAMEROTA",
+      "sentences": "Bingo. Now, we see what was going on there. Mike, such a pleasure. So great to have you here.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:50:00",
+      "speaker": "ROWE",
+      "sentences": "Thank you for having me.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:50:00",
+      "speaker": "CAMEROTA",
+      "sentences": "Am I seeing you tomorrow?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:50:00",
+      "speaker": "ROWE",
+      "sentences": "I'm going to be in the city. If you got -- if you got an empty chair, I'll come by. This was fun.",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

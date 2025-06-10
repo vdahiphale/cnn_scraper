@@ -1,0 +1,577 @@
+{
+  "date": "2023-06-02",
+  "headline": "CNN This Morning",
+  "subHeadline": "Wave of Attacks on Kyiv; Stores Sound the Alarm on the Economy; Consumer Spending Shifts; Nuggets Cruise Past Heat; Judge Approves Halyna Hutchins Settlement. Aired 6:30-7a ET",
+  "utterances": [
+    {
+      "timeStamp": "06:30:31",
+      "speaker": "RAHEL SOLOMON, CNN ANCHOR",
+      "sentences": "This morning, Ukrainian officials say that two people were injured after the sixth wave of attacks over Kyiv in six days. Residents of the city taking shelter in the subway, as they have so many nights in the last few weeks. Ukraine says that all 36 missiles and drones launched during the attack were destroyed, but an 11-year-old child is hurt and a 68-year-old man has been hospitalized from the falling debris.Meanwhile, the governor of Russia's Smolensk region says that two drones targeted fuel and energy facilities there. CNN's Sam Kiley, live in Kharkiv, Ukraine, with more. Sam, good morning. So, what do we know about yet another wave of strikes there?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:30:31",
+      "speaker": "SAM KILEY, CNN SENIOR INTERNATIONAL CORRESPONDENT",
+      "sentences": "Well, nowadays we have to say strikes where, don't we, because are we talking about Russian strikes against Ukraine or Ukrainian, although they deny it or don't attribute it to themselves, strikes against Russia. But, clearly, you're talking about Kyiv in the first instance.This is, yes, another attempt by the Russians to penetrate the air defenses of the Ukrainian capital. It's very interesting how the Ukrainian capital itself has been the overwhelming focus of the drone and missile strikes by Russia over the last month or so. A relentless campaign there trying to get through. In the past, last year, they were targeting the energy facilities and energy generating capabilities of Ukraine, particularly in the winter months. Now what do we see? We see mysterious drone attacks against energy facilities in Smolensk and a few days ago in Krasnodar, almost opposite ends of the country in terms of the Russian border with Ukraine. Both of them targeting oil refining facilities. Both of them causing fires. Neither of them being claimed, obviously, by Ukraine. But you could certainly assume that Ukrainian backed groups at the very least are responsible - they're then responsible for them, as indeed they were for the drone attacks recently in Russia. And we have the ongoing, according to the Russian governor of Belgorod, campaign not far north of where I am in Kharkiv, just across the border there, with raids and shelling going on with claims from the Russians that we can't verify of some civilian casualties there too.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:30:31",
+      "speaker": "SOLOMON",
+      "sentences": "All right, Sam Kiley in Kharkiv, Ukraine for us.Sam, thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:37:28",
+      "speaker": "HILL",
+      "sentences": "A potential red flag for the U.S. economy this morning. Big chains, big stores, like Macy's, Costco, warning that shoppers are pulling back when it comes to spending and they say they see consumers changing up what they're buying.CNN business reporter Nathaniel Meyersohn joining us now to explain. So, we're looking specifically - it is earnings season. So what we're hearing from Macy's, from Dollar General, what are these reports telling us.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:37:28",
+      "speaker": "NATHANIEL MEYERSOHN, CNN BUSINESS REPORTER",
+      "sentences": "So, shoppers are being much more careful right now about what they're buying and how they're spending.You look at Macy's sales. Macy's said yesterday that sales dropped 8.7 percent last quarter from a year ago. The company said that people were buying less clothes and they were shifting their spending to basically paying for essentials, and also to spending on travel. They weren't able to take trips early in the pandemic, so shifting some of their discretionary spending there. The CEO called it a reallocation of spending. Then you look at Dollar General. Dollar General reported earnings yesterday. It's a really good way to look at the state of lower income shoppers. Sales increased just 1.6 percent. Now, that's not very much. Dollar General, the typical customer makes under $40,000. And the company said that they're really squeezed right now. They basically have very little income to spend on anything discretionary. And so that's why we see sales nudge up just a bit. And the stock yesterday plunged, down about 20 percent.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:37:28",
+      "speaker": "HILL",
+      "sentences": "Wow.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:37:28",
+      "speaker": "MEYERSOHN",
+      "sentences": "The CEO said that more of their shoppers had to rely on food banks and dip into their savings to afford groceries.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:37:28",
+      "speaker": "HILL",
+      "sentences": "So, those are two really interesting snapshots we're getting from Macy's and Dollar General. What else are we seeing?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:37:28",
+      "speaker": "MEYERSOHN",
+      "sentences": "Yes, so there's some other clues into shopper behavior right now. Costco, they said that shoppers are switching from premium steaks and expensive meats into cheaper items, like pork, canned tuna, chicken. That's potentially a recession sign.And then Home Depot, we see a decline in home improvement projects. Best Buy, we also see a drop in electronic spending. But it is a good time to be a beauty retailer right now. People are still shopping for lipstick, makeup. Ulta Beauty sales up 9.3 percent.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:37:28",
+      "speaker": "HILL",
+      "sentences": "Wow, look at that, a lot of lipstick. And it makes sense as we've been talking about, people have probably reached their limit when it comes to home improvement projects. You only need so many TVs.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:37:28",
+      "speaker": "MEYERSOHN",
+      "sentences": "You only need so many TVs.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:37:28",
+      "speaker": "HILL",
+      "sentences": "So, bound to happen at some point. And I like that they 're -- we're ending on a little bit of a bright spot.Nathaniel, thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:40:04",
+      "speaker": "CHRISTINE ROMANS, CNN CHIEF BUSINESS CORRESPONDENT",
+      "sentences": "Good morning.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:40:04",
+      "speaker": "SOLOMON",
+      "sentences": "Good morning.Christine, this is part of what we have been seeing, right, that people have shifted where they're spending.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:40:04",
+      "speaker": "ROMANS",
+      "sentences": "Right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:40:04",
+      "speaker": "SOLOMON",
+      "sentences": "But people are also now calling for perhaps a discretionary recession?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:40:04",
+      "speaker": "ROMANS",
+      "sentences": "Yes, isn't that the new buzz word \"discretionary recession.\" It doesn't mean that the U.S. economy is in a recession, it means consumers are being very careful and they're focusing on essentials and then the must haves like Taylor Swift tickets and airplane tickets and a trip to the Bahamas.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:40:04",
+      "speaker": "SOLOMON",
+      "sentences": "Obviously.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:40:04",
+      "speaker": "ROMANS",
+      "sentences": "I mean people are spending money on essentials at those big box stores. But then outside of that, they're going out to eat more. They're doing more traveling. And they're buying big experiences. So, they're calling this a discretionary recession, meaning, if you're selling couches -- and you made a very good point, Erica, if you're selling couches or TVs or sporting goods, you already loaded up on all of that over the past couple of years now, right, and it is experiences people are going for. So, it's a different moment for the American consumer.The American consumer, by the way, that holds up the American company here.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:40:04",
+      "speaker": "HILL",
+      "sentences": "Yes, two-thirds - two-third, right?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:40:04",
+      "speaker": "SOLOMON",
+      "sentences": "Right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:40:04",
+      "speaker": "HILL",
+      "sentences": "Two-thirds of the economy depends on consumer spending.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:40:04",
+      "speaker": "SOLOMON",
+      "sentences": "Right. (INAUDIBLE).",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:40:04",
+      "speaker": "HILL",
+      "sentences": "When we look at this and we talk about this a lot, especially with the both of you in terms of signs that we can look at, there are so many mixed signals in this economy because it's one we haven't seen before.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:40:04",
+      "speaker": "SOLOMON",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:40:04",
+      "speaker": "HILL",
+      "sentences": "Is there a sense of overall how that American consumer that's holding up the economy is actually doing?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:40:04",
+      "speaker": "ROMANS",
+      "sentences": "Surprisingly well and resilient. I mean the word that I keep using about the economy and the consumer is resilient. I mean every port -- report where I see some cracks start to form, then the next one shows the consumer is still spending.And I think basically people are still just so scarred by the Covid experience, we're coming out of that and behavior has changed. People want to splurge. That's why lipstick, for example, and makeup goods and, you know, stuff for your pets. I mean people are still -",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:40:04",
+      "speaker": "HILL",
+      "sentences": "Taylor Swift tickets. That's a splurge.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:40:04",
+      "speaker": "ROMANS",
+      "sentences": "And Taylor Swift tickets. So, people are being very smart about their priorities for spending. And, you know, gas prices are down more than a $1.10 I think from last year, so that is - that's good for the American consumer, but grocery prices are still too high, so that's why they're really having to zero in on the essentials and then be careful on the other stuff.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:40:04",
+      "speaker": "SOLOMON",
+      "sentences": "Well, one thing that's been propping up the consumer is the labor market.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:40:04",
+      "speaker": "ROMANS",
+      "sentences": "That's right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:40:04",
+      "speaker": "SOLOMON",
+      "sentences": "And, Christine, of course, we get the next labor report in less than two hours from now. What are you expecting?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:40:04",
+      "speaker": "ROMANS",
+      "sentences": "Probably still pretty resilient, strong, but slowing. I was looking at these numbers with my producer. Since we started raising interest rates, the Fed, in March 2022, 4.7 million jobs have been added in this economy.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:40:04",
+      "speaker": "HILL",
+      "sentences": "Wow.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:40:04",
+      "speaker": "ROMANS",
+      "sentences": "Is that remarkable?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:40:04",
+      "speaker": "HILL",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:40:04",
+      "speaker": "ROMANS",
+      "sentences": "With higher interest rates, 4.7 million jobs added. So, it has been a very strong job market. We're looking to see signs that it's cooling a little bit. That could be a good thing.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:40:04",
+      "speaker": "SOLOMON",
+      "sentences": "And so we'll watch that. In about two hours we'll have that.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:40:04",
+      "speaker": "ROMANS",
+      "sentences": "Yes. Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:40:04",
+      "speaker": "HILL",
+      "sentences": "Christine, thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:40:04",
+      "speaker": "SOLOMON",
+      "sentences": "All right, thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:40:04",
+      "speaker": "ROMANS",
+      "sentences": "Nice to see you guys.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:40:04",
+      "speaker": "HILL",
+      "sentences": "Well, Christine was just talking about spending on experiences. If you want to see Billy Joel at Madison Square Garden, can recommend, two thumbs up, been there three times, you might want to hurry because he's moving on out.(BEGIN VIDEO CLIP) BILLY JOEL, MUSICIAN (singing): That's what it's all about. Mama, that's moving up and I'm moving out. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:40:04",
+      "speaker": "HILL",
+      "sentences": "Officials at Madison Square Garden confirming Billy Joel will end his record-breaking ten-year residency at The Garden. His ten final performances set to kick off in October and they will conclude with his 150th lifetime show. That will be in July of 2024. Joel actually first performed at The Garden in 1978 and holds the record for most consecutive performances by any artist at Madison Square Garden.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:40:04",
+      "speaker": "SOLOMON",
+      "sentences": "So, you've gone three times. Does that make you a super fan?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:40:04",
+      "speaker": "HILL",
+      "sentences": "I'm not - no. I mean I do love Billy Joel.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:40:04",
+      "speaker": "SOLOMON",
+      "sentences": "I mean -",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:40:04",
+      "speaker": "HILL",
+      "sentences": "I will say two -- two of my like dearest friends who I - from my first TV job who I worked with actually work on the show as well. So, I've been fortunate to go thanks to them a few times.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:40:04",
+      "speaker": "SOLOMON",
+      "sentences": "Tough job. Tough life.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:40:04",
+      "speaker": "HILL",
+      "sentences": "Thanks. Thanks, Joe and Simon.The Denver Nuggets cooling the Miami Heat's hot streak. The highlights ahead. Plus -- (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:40:04",
+      "speaker": "DEV SHAH",
+      "sentences": "P-s-a-m-m-o-p-h-I-l-e, psammophile.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:40:04",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "That is correct.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:48:29",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "The first finals game in franchise history is a rousing success. Denver's 9-0 at home in the playoffs. They take game one.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:48:29",
+      "speaker": "SOLOMON",
+      "sentences": "The Denver Nuggets there breezing past the Miami Heat last night, clinching game one of the 2023 NBA finals. It was the franchise's first ever finals game and the team led by double digits for most of the second half.CNN's sports anchor Andy Scholes joins us now. So, Andy, the Nuggets really dominating last night.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:48:29",
+      "speaker": "ANDY SCHOLES, CNN SPORTS ANCHOR",
+      "sentences": "Yes, they did.Good morning, guys. And, you know, the Nuggets and their fans, they had waited 47 years to play their first NBA finals game there in Denver. And Coach Mike Malone, he wanted to really make sure they were ready for the Heat. So much so that he gave the team a pop quiz about the game plan at shootaround. Well, they passed then and during game one. The Nuggets showing no rust from those nine days off. Two-time MVP Nikola Jokic just dominated again. He had 27 points, 14 assists and 10 rebounds for a triple-double, while only taking 12 shots the entire game. Jamal Murray also had 26 points. Nuggets had a 21-point lead to start the fourth. The Heat did made it kind of interesting, going on an 11-0 run to start that final period to get within ten, but they just couldn't make enough shots. Max Strus and Caleb martin, they combined to go one for 17. Jimmy Butler had a playoff low 13 points as the Heat -- they only shot two free throws all game long, which was an NBA playoff record. Nuggets ended up taking game one 104-93. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:01",
+      "speaker": "JIMMY BUTLER, MIAMI HEAT FORWARD",
+      "sentences": "We missed a lot tonight and we'll be better in game two. At the end of the day, that's what it is. So, we'll take this. We'll learn from it. And we'll be back in two days.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:01",
+      "speaker": "SCHOLES",
+      "sentences": "Yes, so, today and tomorrow off days there in Denver. Game two of the finals will be Sunday night at 8And, Rahel and Erica, bad news for the Heat. Teams that win game one at home in the finals go on to win the series about 78 percent of the time.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:01",
+      "speaker": "SOLOMON",
+      "sentences": "Ooh.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:01",
+      "speaker": "HILL",
+      "sentences": "Wow.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:01",
+      "speaker": "SCHOLES",
+      "sentences": "So, yes, the Heat - the Heat have defied expectations this entire playoffs, but this matchup against the Nuggets, it might not be the best one for them.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:01",
+      "speaker": "HILL",
+      "sentences": "That is a crazy stat, 78 percent of the time? Wow.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:01",
+      "speaker": "SOLOMON",
+      "sentences": "Yes, Denver has to be on fire. I used to live in Denver. I was a reporter. Denver has to be like going nuts right now.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:01",
+      "speaker": "HILL",
+      "sentences": "Yes. Such a big deal. It's so great to watch.So, Andy, also stay with us because we want to get your take on this, a game changer potentially in a region that we know can be rather uncomfortable certain months of the year, hot, sticky, especially when we're talking about football season and specifically the training season. Well, now, LSU players, could it be a potential edge maybe on the competition? They have a new way to beat the heat. Take a look at this. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:01",
+      "speaker": "ON SCREEN TEXT",
+      "sentences": "LSU football players reacting to air conditioned helmets.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:01",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Oh, my God.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:01",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "That's not bad, right?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:01",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Yes, that's for real.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:01",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Yes. We got them for practicing and games this season.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:01",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "That's crazy.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:01",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "That's right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:01",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "That feel good, bro.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:01",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "You lying.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:01",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Swear. Swear.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:01",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Let me (INAUDIBLE).",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:01",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Like this in all season too.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:01",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "I need this.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:01",
+      "speaker": "HILL",
+      "sentences": "Air conditioned helmets. This is wild. The university unveiling the new gear. So the air conditioning is actually inside the helmets. You hear the reactions there. Players seem to be pretty happy about it, Andy.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:01",
+      "speaker": "SCHOLES",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:01",
+      "speaker": "HILL",
+      "sentences": "I mean, this is remarkable. They have a five-hour life before they need a recharge.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:01",
+      "speaker": "SCHOLES",
+      "sentences": "It - yes, guys, I don't know if you've been to Baton Rouge in September when the humidity is about a thousand percent. I have.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:01",
+      "speaker": "HILL",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:01",
+      "speaker": "SCHOLES",
+      "sentences": "I can't imagine having a helmet on for practices or games, but, you know, this is -- the reactions from the guys is just amazing. And they -- I'm actually kind of surprised that it took till 2023 for us to get this kind of technology in these helmets.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:01",
+      "speaker": "SOLOMON",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:01",
+      "speaker": "SCHOLES",
+      "sentences": "But I can guarantee you this, once other players in other campuses in the south start hearing about this, they will be clamoring for these same LSU helmets.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:01",
+      "speaker": "SOLOMON",
+      "sentences": "For sure. For sure.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:01",
+      "speaker": "HILL",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:01",
+      "speaker": "SOLOMON",
+      "sentences": "Andy, that was my thought. Like, how did it take so long to get here, but here we are.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:01",
+      "speaker": "HILL",
+      "sentences": "Yes. And how long will it take for everybody to follow suit, right?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:01",
+      "speaker": "SOLOMON",
+      "sentences": "That too. Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:01",
+      "speaker": "HILL",
+      "sentences": "We'll be watching for that.Andy, thanks.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:01",
+      "speaker": "SCHOLES",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:01",
+      "speaker": "SOLOMON",
+      "sentences": "All right, coming up for us, sandbag. President Biden playing (ph) off his fall during an Air Force graduation ceremony. What the White House is saying.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:57:55",
+      "speaker": "SOLOMON",
+      "sentences": "Welcome back.A judge in New Mexico has approved the settlement in the wrongful death lawsuit that was filed by the family of Halyna Hutchins. Remember, she's the cinematographer who was fatally shot with a prop gun by actor Alec Baldwin on the \"Rust\" movie set back in 2021. The settlement was announced last October but just received court approval. CNN's Chloe Melas joins us now. Chloe, this has been a long time coming for the family. What do we know about the settlement?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:03",
+      "speaker": "SOLOMON",
+      "sentences": "Yes, good to have you bring us up to speed on where things stand both civilly and criminally.Chloe Melas, thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:03",
+      "speaker": "MELAS",
+      "sentences": "Thank you.",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

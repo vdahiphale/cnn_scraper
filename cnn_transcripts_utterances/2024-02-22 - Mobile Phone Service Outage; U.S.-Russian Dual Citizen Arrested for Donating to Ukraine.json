@@ -1,0 +1,271 @@
+{
+  "date": "2024-02-22",
+  "headline": "CNN This Morning",
+  "subHeadline": "Mobile Phone Service Outage; U.S.-Russian Dual Citizen Arrested for Donating to Ukraine; Lunar Lander Barreling Towards the Moon; New Study Regarding Overdose Crisis. Aired 6:30-7a ET",
+  "utterances": [
+    {
+      "timeStamp": "06:32:37",
+      "speaker": "POPPY HARLOW, CNN ANCHOR",
+      "sentences": "All right, we are tracking this possible outage, really big outage, impacting cell service across the country.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:32:37",
+      "speaker": "MATTINGLY",
+      "sentences": "Now, to be clear, there are still a lot of unanswered questions. We're reporting this out right now. But people in various states have been reporting trouble making calls on their phones. It's impacting several carriers, but people with AT&amp;T appear to be having the most trouble, unable to make or receive calls.Our CNN national security analyst Juliette Kayyem joins us now. Juliette, it appears, based on our reporting, that people are starting to get their service back.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:32:37",
+      "speaker": "JULIETTE KAYYEM, CNN SENIOR NATIONAL SECURITY ANALYST",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:32:37",
+      "speaker": "MATTINGLY",
+      "sentences": "Still haven't heard anything specifically from AT&amp;T. What should be -- people be thinking right now? Is this a glitch? Should people be concerned?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:32:37",
+      "speaker": "KAYYEM",
+      "sentences": "Yes. So, look, I -- all I can do is give you the range of possibilities. It would be nice to hear from the carriers. I never understand why private companies take so long. Their customers are waking up to, you know, to alerts essentially telling them that they don't have service, as well as were hearing reports that emergency services are down.I want to tell you the most likely explanation based on the evidence we have so far. And because it's hitting multiple carriers, so it's not like it's an attack on 18 only or that it might be some insider threat, someone in there trying to muck things up, is essentially solar activity. It's not very sexy, so to speak, but, there's - there's sunspots and solar flares and other things that can impact the capacity of there to be connectivity between cell lines, cell satellites, and your cell phones. There's these things called coronal mass ejections. I apologize for the terminology. It's CME for shorthand. Essentially they're flares that can disrupt the distribution of services. So that - if I'm in the room right now, I'm thinking that's the most likely explanation if I'm hearing that other carriers have it. But we always have to be worried about attacks on critical infrastructure, in particular ones that impact our communications. And so you would also be looking at that possibility. But it would be a very sophisticated attack hitting multiple carriers.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:32:37",
+      "speaker": "HARLOW",
+      "sentences": "What about the factually, Juliette, that Downdetector, which is like a service that tracks things like this, is saying that the biggest outages are in big cities, Chicago, New York, Dallas, LA, Atlanta.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:32:37",
+      "speaker": "KAYYEM",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:32:37",
+      "speaker": "HARLOW",
+      "sentences": "Does that track with being normal with potentially a solar issue like you mentioned?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:03",
+      "speaker": "HARLOW",
+      "sentences": "Yes. For sure.All right, Juliette, any of any those - any of the companies are welcome to call in to us and help share some answers.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:03",
+      "speaker": "KAYYEM",
+      "sentences": "Exactly. Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:03",
+      "speaker": "HARLOW",
+      "sentences": "Thanks very much for the perspective. Appreciate it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:03",
+      "speaker": "KAYYEM",
+      "sentences": "Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:25",
+      "speaker": "MATTINGLY",
+      "sentences": "Well, this morning, a U.S.-Russian dual citizen and Los Angeles resident is behind bars after being arrested in Russia on charges of treason. Thirty-three-year-old Ksenia Karelina was arrested in Russia for allegedly donating just $51 to a Ukrainian charity according to her employer in California. Her boyfriend spoke to CNN's Brianna Keilar last night.(BEGIN VIDEO CLIP) CHRIS VAN HEERDEN, BOYFRIEND OF U.S.-RUSSIAN CITIZEN ARRESTED IN RUSSIA: She also makes it clear that it's day by day. One day she wakes up and she's so positive and so strong and believes that she will be home soon. She believes in America. She believed that they will help her get home. And then one day she - she says one day it's like I'll just sit on my bed and stare at a wall for hours, like knowing that I'm going to be here forever. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:25",
+      "speaker": "HARLOW",
+      "sentences": "Well, joining us now CNN contributor, adjunct professor at Georgetown University, Jill Dougherty. She's also our former Moscow bureau chief.Jill, this is so stunning when we first reported this yesterday, $51. Putin, obviously, has detained dozens of people for no offense at all, by the way. But the fact that he is doing this with her, what does it tell you?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:25",
+      "speaker": "JILL DOUGHERTY, CNN CONTRIBUTOR",
+      "sentences": "Well, I think there's no question that what is happening right now in Russia, essentially it is becoming -- the entire society is becoming militarized. So, any threat to Putin, any threat to his power, will be shut down immediately. And, if you have a Russian - she has dual citizenship. And as we know, Russia does not recognize the American part of that. So, she is fair game.And I think what they're doing is a couple of things. Number one, they're collecting a bunch of people that they can use as hostages, therefore that's why the United States State Department is saying, don't go to Russia if you are an American. And then also I think they're sending a message to the rest of the world, and especially to Russians who are outside of the country, there are millions of them right now who fled after that -- after the invasion of Ukraine. And what they're saying essentially is, we can do whatever we want, whenever we want. So, it's a very, I think, very disturbing moment here.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:25",
+      "speaker": "MATTINGLY",
+      "sentences": "Jill, to your point about kind of essentially kind of rolling up Americans that are over there over the course of the last several months. Obviously, Evan Gershkovich is over there, wrongfully detained for doing his job as a journalist for \"The Wall Street Journal.\" Paul Whelan has been over there for years now. Our Jenny Hansler has done incredible work interviewing him, his situation. They have been top of mind for Biden administration officials trying to figure out a way to strike a deal to bring them home. How does this latest arrest and detainment kind of impact all of that, if at all?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:25",
+      "speaker": "DOUGHERTY",
+      "sentences": "You know, it's really hard to say. Right now what's happening is, there are negotiations. I mean they are talking, the U.S. and Russia. But the problem is, Russia has certain people that it wants to get out. And according to what I guess we know this point, there's one particular person in Germany, a Russian hitman, who obviously belongs to the security services in Russia, that Russia wants out. So, I think it's really pretty transactional here. They want to trade these Americans for people that they want. And if the United States can't do that or will not do it, then there's not going to be any deal. But the Russians are really playing hardball at this point now.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:25",
+      "speaker": "MATTINGLY",
+      "sentences": "Yes, and transactional is absolutely the right way to put it.Jill Dougherty, thank you, as always.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:25",
+      "speaker": "DOUGHERTY",
+      "sentences": "Sure.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:48:22",
+      "speaker": "MATTINGLY",
+      "sentences": "Well, welcome back.Today could mark a landmark moment in space exploration. The Odysseus lunar lander is currently barreling toward the moon and aiming to make the first touchdown of a U.S. made spacecraft on the moon in five decades. CNN's space and defense correspondent Kristin Fisher reports. (BEGIN VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:48:22",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "And liftoff.KRISTIN FISHER, CNN SPACE AND DEFENSE CORRESPONDENT (voice over): Just days after lifting off from Florida, Odysseus is now barreling towards the moon, sending back spectacular pictures of earth along the way, and is now hours away from the most perilous test yet for the robotic lunar lander, a softer controlled landing on this surface of the moon. UNIDENTIFIED MALE: Is go for launch.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:48:22",
+      "speaker": "FISHER",
+      "sentences": "Intuitive Machines is trying to pull off something no private company has done. And if successful, it will be the first time an American-made spacecraft has done it since the last Apollo mission in 1972.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:48:22",
+      "speaker": "STEVE ALTEMUS, CEO, INTUITIVE MACHINES",
+      "sentences": "We are steely-eyed rocket scientists, but deep down this is quite an emotional feeling to -- to be here at this position.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:48:22",
+      "speaker": "FISHER",
+      "sentences": "Just last month, the Pennsylvania company, Astrobotic Technology, had its first lunar landing mission end in failure. And last year, the Japanese company, ispace, and the government of Russia, both crashed landers into the moon.So, why is it so tough to repeat a feat that was first accomplished within half a century ago?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:48:22",
+      "speaker": "NEIL ARMSTRONG, ASTRONAUT",
+      "sentences": "That's one small step for man.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:04",
+      "speaker": "ALTEMUS",
+      "sentences": "Do it for a hundred million. When in the past it's been billions of dollars.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:04",
+      "speaker": "FISHER",
+      "sentences": "Then there's the purely technical challenge of landing a spacecraft in a specific spot, roughly a quarter of a million miles away.DR. SCOTT PACE, GEORGE WASHINGTON UNIVERSITY'S SPACE POLICY INSTITUTE: Some people have likened it to, you know, hitting a golf ball in New York and having it go into a particular hole in one and L.A.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:04",
+      "speaker": "FISHER",
+      "sentences": "The distance means there's also a time delay, roughly three seconds for signals from mission control rooms on earth to get to the moon and back.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:04",
+      "speaker": "PACE",
+      "sentences": "A lot can go wrong in that time. So, when the vehicle is actually landing, it pretty much as on its own.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:04",
+      "speaker": "FISHER",
+      "sentences": "Finally, there's the experience factor, the loss of the Apollo era expertise that no amount of new technology can make up for.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:04",
+      "speaker": "PACE",
+      "sentences": "Simply because somebody else did it in an earlier age doesn't mean that this generation or this organization can do it. These are people doing it for the first time, and there's no -- there's no substitute for that experience.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:04",
+      "speaker": "ALTEMUS",
+      "sentences": "We all collectively have to be resilient to failures. And we all have to be helping each other lift up and break down these barriers so that we can begin a lunar economy. That's what this is, a beginning of an emerging economy around the moon.(END VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:04",
+      "speaker": "FISHER",
+      "sentences": "And so it all comes down to this. The landing is set for 5",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:04",
+      "speaker": "MATTINGLY",
+      "sentences": "Yes, it is a huge moment. One I know you'll be following every step of the way.Kristin Fisher, as always, thank you. And you will want to stick around for our 08:00 a.m. hour. We're going to speak to NASA administrator Bill Nelson about this historic mission.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:57:43",
+      "speaker": "MATTINGLY",
+      "sentences": "Well, this morning, a new survey reveals troubling data about the nation's drug overdose crisis. It shows nearly half of Americans personally know at least one person who has died from a drug overdose on average (ph) and know two people who died that way.CNN's Meg Tirrell joins us now. Meg, we've seen so many studies like this, but this one is particularly jarring. What does it show?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:57:43",
+      "speaker": "MEG TIRRELL, CNN MEDICAL CORRESPONDENT",
+      "sentences": "Well, it really its jarring. And one of the things the researchers point out is that we just don't have a lot of information about the impacts of overdose loss on the people who are left behind. And so really this is a call to action to study this more, to understand the prevalence and the effect on people who survive overdose loss.And so this is a Rand Corporation survey of American adults. And what they found is that 42 percent of people in this survey report personally knowing someone who died by a drug overdose. That's about 125 million Americans. HARLOW: Wow.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:57:43",
+      "speaker": "TIRRELL",
+      "sentences": "And 13 percent said the loss disrupted their lives and 4 percent said it had a significant or a devastating impact on them. And so really this is a call for more research into the folks who have this sort of traumatic bereavement and the health impacts on them and just how widespread it is.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:57:43",
+      "speaker": "HARLOW",
+      "sentences": "It's also a problem that has just been getting bigger. I mean the opioid epidemic obviously exacerbated and exacerbates all of this, but it doesn't seem to be getting better.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:57:43",
+      "speaker": "TIRRELL",
+      "sentences": "No. Unfortunately, the numbers of drug overdose deaths have been going up in the United States and hitting record levels. They're now at about 111,000 per year. Most of those are related to opioids and specifically fentanyl. And one thing you hear from experts, of course, is that a lot of these times you don't even know you're getting fentanyl.It could be adulterating another substance and that is leading to more overdose deaths. And so there's a lot of talk about needing for better treatment for drug use so that we can start to mitigate this problem, but also this study today really focusing on the people left behind by these tragedies.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:57:43",
+      "speaker": "HARLOW",
+      "sentences": "Yes, of course. Isn't there -- someone was telling me about some way or a kit that you can test for fentanyl and other pills, right, just for parents out there that are worried.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:57:43",
+      "speaker": "TIRRELL",
+      "sentences": "There are fentanyl test strips. And so a lot of people are trying to make those more accessible to folks. Of course, along with naloxone, which is the opioid overdose drug.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:57:43",
+      "speaker": "HARLOW",
+      "sentences": "Yes. Thank you, Meg.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:57:43",
+      "speaker": "TIRRELL",
+      "sentences": "Thanks.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:57:43",
+      "speaker": "HARLOW",
+      "sentences": "CNN THIS MORNING continues now.(BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

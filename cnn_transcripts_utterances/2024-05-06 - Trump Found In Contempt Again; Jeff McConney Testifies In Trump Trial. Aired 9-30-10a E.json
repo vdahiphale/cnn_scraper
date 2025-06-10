@@ -1,0 +1,451 @@
+{
+  "date": "2024-05-06",
+  "headline": "CNN Live Event/Special",
+  "subHeadline": "Trump Found In Contempt Again; Jeff McConney Testifies In Trump Trial. Aired 9:30-10a ET",
+  "utterances": [
+    {
+      "timeStamp": "09:30:00",
+      "speaker": "JENNIFER RODGERS, CNN LEGAL ANALYST",
+      "sentences": "But more importantly why Trump is responsible for them.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:30:00",
+      "speaker": "KATE BOLDUAN, CNN HOST",
+      "sentences": "Right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:30:00",
+      "speaker": "JOHN BERMAN, CNN HOST",
+      "sentences": "Do you have that before or after Cohen? Do you get the documents in before -",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:30:00",
+      "speaker": "RODGERS",
+      "sentences": "Before. I think they've got to do it today.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:30:00",
+      "speaker": "BERMAN",
+      "sentences": "All right, Jennifer -",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:30:00",
+      "speaker": "JOEY JACKSON, CNN LEGAL ANALYST",
+      "sentences": "Yes, soon.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:30:00",
+      "speaker": "BERMAN",
+      "sentences": "Jennifer Rodgers, Joey Jackson - we have confirmation on that.All right, thank you all for joining us. This has been CNN NEWS CENTRAL. Our special live coverage of the trial of Donald Trump begins right now.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:30:00",
+      "speaker": "KAITLAN COLLINS, CNN HOST",
+      "sentences": "You are looking live at 100 Centre Street here in downtown Manhattan where minute ago Donald Trump made that now familiar walk past cameras and into that courtroom where his future, and maybe his freedom, are on the line. Ini minutes a possible ruling from a judge on whether or not Trump violated a gag order again, plus the next witness the prosecution plans to use to convince a jury of Mr. Trump's peers that he is a criminal.I'm Kaitlan Collins in New York, and you are watching CNN's special live coverage of Donald Trump's hush money trial.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:30:00",
+      "speaker": "JIM ACOSTA, CNN HOST",
+      "sentences": "And I'm Jim Acosta in Washington. We begin week three of testimony with the question, who will go under oath as the prosecution's tenth witness? Manhattan prosecutors have sped through their presentation of facts. Friday hit a dramatic high point when the government called Hope Hicks to the stand. Hicks, the former White House communications director, testified through tears, leaving an emotional impression that may pierce Trump's defense.The jury has already heard from multiple other big-name witnesses. It leaves a one-time Trump confidant, as well as the adult film actress at the center of the alleged scheme as the only two main characters who have yet to make an appearance, Michael Cohen and Stormy Daniels. The pair are no doubt important, but has the defense done enough to make the jury question their credibility, or has the prosecution done the equally important task of convincing the jury that Donald Trump attempted to keep these stories hidden because he wanted to help his election odds. Let's get right so CNN's Kaitlan Collins, my colleague, back in New York, for some breaking news. Kaitlan.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:30:00",
+      "speaker": "COLLINS",
+      "sentences": "Yes, Jim, we just got that decision from the judge on whether or not Donald Trump has, in fact, violated his gag order again. And the judge has decided that, yes, Donald Trump has now violated it for the 10th time and he has now been found in criminal contempt yet again. It was an historic decision when the judge decided that he had violated it the initial time. Prosecutors argued he did so four more - on four more occasions. And now, the minute that Donald Trump walked into this courtroom this morning, the judge said that, yes, he had violated it. And he said, going forward, if Donald Trump violates it again, he will consider jail time.I've got CNN chief legal affairs correspondent Paula Reid, and Karen Friedman Agnifilo, the former for chief assistant district attorney in the Manhattan DA's Office, here with me. And, Paula, this is really notable because the judge is saying, I don't want to have to put you in jail, but you're walking up to that line essentially.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:30:00",
+      "speaker": "PAULA REID, CNN CHIEF LEGAL AFFAIRS CORRESPONDENT",
+      "sentences": "Yes, clearly the $1,000 per contempt violation fine that he has received so far is not really working as a deterrent. So here the judge said the magnitude of such a decision is not lost on me. And at the end of the day, though, I have a job to do.Now, Trump is shaking his head as they're handing down a paper copy of this ruling. Now, this contempt finding, this comes after last week, prosecutors argue that Trump had violated his gag order four additional times. The judge had already found that he had violated it nine times. And based on today, he says, I'm finding you in criminal contempt for the 10th time. It appears, again, based on these live updates we're getting from inside the court, that the judge only found him in contempt for one of the additional alleged violations. Now, the judge saying to Trump, your continued willful violations of this court's lawful order constitute a direct attack on the rule of law. Truly extraordinary, Kaitlan, that here you have a judge threatening to jail a former president in the United States if he cannot abide by this gag order.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:30:00",
+      "speaker": "COLLINS",
+      "sentences": "And what's different is the last time he made clear that this was an option, Karan, but now the judges is directly saying it to Donald Trump right now inside that courtroom, as Donald Trump, we were told by reporters inside the room, is looking at this judge, he's saying, I don't want to have to take this step, but this is going to be the next option if you continue to violate this.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:35:05",
+      "speaker": "COLLINS",
+      "sentences": "How does he make the decision on what that looks like, because he made clear that he's constrained on what the fines can be. He can only decide $1,000 per fine, which he has said clearly, just now, is not stopping him. I mean, how would he decide how much jail time that would be?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:35:05",
+      "speaker": "AGNIFILO",
+      "sentences": "He can take into consideration several things whenever you're sentencing someone, which is essentially what he'd be doing, because he find - he found him beyond a reasonable doubt to have violated this gag order willfully, even though it's - it is technically civil. And so he'll take certain things into consideration. How egregious is it? How many times does he do it. That sort of thing.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:35:05",
+      "speaker": "COLLINS",
+      "sentences": "Paula, you're reading through the contempt violation.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:35:05",
+      "speaker": "REID",
+      "sentences": "Yes. Exactly.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:35:05",
+      "speaker": "COLLINS",
+      "sentences": "What does it say?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:35:05",
+      "speaker": "RIED",
+      "sentences": "I'm reading through the judge's actual decision. And one of the arguments that Trump made, has made consistently throughout this, is that the gag order is - is not fair. It's asymmetrical. He cannot, for example, attack witnesses in this case, like Michael Cohen or Stormy Daniels, but they, in particular Michael Cohen, have attacked him repeatedly. And the judge did leave the door open in one of the previous proceedings to saying, yes, look, you have a point. And interestingly here the judge says that with two of the referenced alleged violations that had to do with Michael Cohen, the judge said the court cannot find, beyond a reasonable doubt, the defendant's statements referenced were not protected political speech in response to political attacks by Michael Cohen.So, here the judge is giving Trump somewhat of a win that two of these alleged violations, comments he made directed at Michael Cohen, were protected political speech because the judge has acknowledged that Michael Cohen repeatedly, consistently, attacks the former president. Now, he's the defendant. It's a different standard for him. But here the judge ruling that is protected political speech, something Trump's lawyers have argued repeatedly and up till now unsuccessfully.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:35:05",
+      "speaker": "COLLINS",
+      "sentences": "Because they were basically arguing that if Donald Trump can't go out and respond to someone like Michael Cohen when he's - I mean Todd Blanche was reading directly from Michael Cohen's tweets, what he has said in podcasts and videos as a reason that Trump should be able to respond to that, that he's not just seeking out Michael Cohen specifically to attack him.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:35:05",
+      "speaker": "REID",
+      "sentences": "Exactly. And they said, look, this is asymmetrical. This guy attacks Trump all the time. They argue he's made a career out of it, which I think is supported by Michael Cohen's recent body of work, his podcast, his book, right, \"Revenge.\" It's what makes him a difficult witness.But here, the judge finding that he cannot find, beyond a reasonable doubt, that this was not protected political speech. So, while Trump is being - right now being threatened by jail, he's been found in criminal contempt, on at least two of these violations, the judge agreed with his lawyers.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:35:05",
+      "speaker": "COLLINS",
+      "sentences": "What about the fact that Trump has continued to talk about this gag order in ways that just - it's not true. I mean just going into the courtroom just now he was complaining, saying that he was being asked questions about this case this weekend and he could not answer those questions from reporters. I'm not sure which ones specifically because he was posting about this all weekend, Karen.I mean, he can still talk about this case, he just can't directly attack witnesses, the prosecution team, the judge's family, at he can't comment on the jury.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:35:05",
+      "speaker": "REID",
+      "sentences": "Exactly. He could talk about the case. He can comment on the judge himself. He can talk about Alvin Bragg himself. He can respond to, it sounds like, things that - attacks by Michael Cohen. So, he can also testify in his own defense. I heard someone asked him as he was going in, are you going to testify, and he said, well, I'm under a gag order again. And the judge has made it very clear that the gag order only talks about statements made outside of court. He can absolutely have a right to testify and take the stand in his own defense.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:35:05",
+      "speaker": "COLLINS",
+      "sentences": "And I should note, we are now finding out who the next witness is going to be, Jim. It is Jeff McConney. He is a former Trump Organization controller. We were waiting to see who it was going to be next on the witness stand to follow Hope Hicks. And now we've just learned from - from the judge, though Trump's team seems to be complaining that they did not get enough advanced notice of who today's witness was going to be.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:35:05",
+      "speaker": "ACOSTA",
+      "sentences": "Yes, that's been a running complaint all along, but it sounds as though, Kaitlan, what they're doing here is they're not going from blockbuster witness to blockbuster witness. We saw the week end last week with Hope Hicks. They're not doing that again with Stormy Daniels and Michael Cohen right off the bat this Monday morning. But Kaitlan with the breaking news down at the courthouse, thank you.Laura Coates, let me go to you first. I mean we're now hearing the judge raise the prospect of jail time for Donald Trump.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:35:05",
+      "speaker": "LAURA COATES, CNN ANCHOR",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:35:05",
+      "speaker": "ACOSTA",
+      "sentences": "As Karen was saying a few moments ago, it could be an hour, it could be a couple of hours. Might not be overnight, but he's talking jail.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:35:05",
+      "speaker": "COATES",
+      "sentences": "He is. And I want to go to my tablet here because I want to explain to people a little bit about the timing of this and why it is the judge is saying, look, you've been warned before, this happened before I (ph) actually had my order before. I'm going to put this up here for everyone to you. And it's the gas order slide I want to look at. Because you had the original gag order that was issued on this date here, on, of course, March 26th. Then you have the different dates where he was alleged to have occurred and had these violations in red on the 10th, the 13th, the 15th. I mean some of these were multiple dates, by the way, Jim.Then you had these other due dates in question. You had the 22nd, 23rd, and the 25th there. These all happen though. And the allegations occurred before this important date here, April 30th, which is when you had the first ruling of the $9,000 in fines, $1,000 for each of the actual posts, which is the maximum they can get -",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:40:05",
+      "speaker": "COATES",
+      "sentences": "And the post. He didn't have a requisite (ph) amount of warning. That's why this is important here. And he says, look, had these happened essentially before I - after I'd given this warning, it's a whole different ballgame. But now it can escalate beyond that. Which is part of the reason many were so concerned about the idea, well, why did you wait so long to have, one, the hearing about these issues, and, two, to make your decision because conceivably he could have had other dates he violated as well. So, you can see it maybe a graduate, now there's notice happening. Whether that will be the deterrent or an invitation to martyrdom is a different story.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:40:05",
+      "speaker": "ACOSTA",
+      "sentences": "Yes, and I do want to talk about the politics of this with John, Jamie and Chris in a moment. But, Elie, to your first.You know, what does the judge gain out of putting Trump in jail for an hour? I mean is that going to curb his behavior? I mean he's really in a box here, the judge, a little bit.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:40:05",
+      "speaker": "ELIE HONIG, CNN SENIOR LEGAL ANALYST",
+      "sentences": "The judge has a remarkably limited set of enforcement tools at his disposal here, as Laura was just laying out. All he can do is put these sort of ineffectual $1,000 fines in place, or the big punishment of locking Donald Trump up, even for a few hours, which is fraught politically, it would worry me what that would do to the jury. They would certainly know that he had been locked up for some reason or other. But I think the timeline is crucial here, as Laura was pointing out, because while I share in the criticism of the judge for taking too long to hold these hearings and to issue these rulings, it sort of looks like it's working a little bit, right? Ever since the judge came out last week and said, if I have to, I will lock you up, Trump has not violated the gag order. Now, he doesn't deserve a gold medal for that or anything, but it's been a solid week and change since Donald Trump has actually violated the gag order.And he now seems to understand what he can and cannot do. And let's all keep in mind, this gag order is extraordinarily narrow. Donald Trump, those - those pre-court rants that he goes on every day where he says the judge is out to get me, these charges are bogus, the DA has bad motives, false as they are -",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:40:05",
+      "speaker": "ACOSTA",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:40:05",
+      "speaker": "HONIG",
+      "sentences": "They are allowed within the gag order.So, let's hope, in the sake - for the sake of efficiency moving forward, that we've reached some sort of understanding here and the judge's threats are working.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:40:05",
+      "speaker": "ACOSTA",
+      "sentences": "Yes, I - to - we do have to point out, he is not telling the truth about the gag order.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:40:05",
+      "speaker": "HONIG",
+      "sentences": "Right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:40:05",
+      "speaker": "ACOSTA",
+      "sentences": "He continued to say that this morning, just a few moments ago, because I'm under a gag order I can't do this. I - you can - you can testify. You can tell your side of the story if you want.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:40:05",
+      "speaker": "HONIG",
+      "sentences": "Oddly, the gag order allows him to lie about the gag order.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:40:05",
+      "speaker": "ACOSTA",
+      "sentences": "Yes. Exactly.Andrew, your thoughts.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:40:05",
+      "speaker": "ANDREW MCCABE, CNN SENIOR LAW ENFORCEMENT ANALYST",
+      "sentences": "I think it's almost impossible to predict how anything will affect Donald Trump's behavior. So that's the - that's the wild card.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:40:05",
+      "speaker": "ACOSTA",
+      "sentences": "There is that.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:40:05",
+      "speaker": "MCCABE",
+      "sentences": "But it - but you have to give him credit for not having violated the gag order since we got the ruling down. So, we'll see where that goes.But I do think that Judge Merchan has proven himself to be a guy who will make the tough choice. So, if pushed to what he believes is the edge of this cliff, I think you could see jail time coming. How he administers that amount of time or when that jail time is served are all kind of up in the air. I actually think a post-trial sentence, if you will, is the most likely alternative because it pushes some of those trial impact, jury impact issues off the table.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:40:05",
+      "speaker": "ACOSTA",
+      "sentences": "He could say I'm going to do this to you, but you're going to have to wait. We're all going to have to wait to see that.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:40:05",
+      "speaker": "MCCABE",
+      "sentences": "It also gives him an opportunity to change his mind before that day comes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:40:05",
+      "speaker": "ACOSTA",
+      "sentences": "Interesting. And -",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:40:05",
+      "speaker": "COATES",
+      "sentences": "And an important - on that too, just to follow that quickly -",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:40:05",
+      "speaker": "ACOSTA",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:40:05",
+      "speaker": "COATES",
+      "sentences": "Is that the judge refused to allow this jury to know about the violations. That had been a request from the prosecution to say, you've already held him in contempt, can we - if he takes the stand, can we present that to this jury?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:40:05",
+      "speaker": "ACOSTA",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:40:05",
+      "speaker": "COATES",
+      "sentences": "And the judge said no because this jury is in front of me. It would be unduly prejudicial. They probably know, they respect me, they're used to me. If I tell them I have told him he has a violation, that might hold too much weight.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:40:05",
+      "speaker": "ACOSTA",
+      "sentences": "Yes, I mean, but John King, I mean, if we get to that point where the judge says, you're going in - back - you know, you're going back there for an hour or two. We made a - I mean this was obviously a huge deal when we saw Donald Trump get that mug shot down - down and Fulton County. I mean this would be - it would be an historic moment, however you slice it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:40:05",
+      "speaker": "JOHN KING, CNN CHIEF NATIONAL CORRESPONDENT",
+      "sentences": "It would be an historic moment from a legal perspective, and it would be another crossroads moment from how this gets politically processed in the country for the suburban swing voters, for the Nikki Haley voters who could well decide the presidential election come November. What do they think of that, a former president put in jail for contempt of court? His own supporters, you know what Trump would do. You've covered Trump for a long time. Trump would say the Democrat judge, Soros prosecutor, Joe Biden gestapo. He used the word gestapo just, you know, in recent days about this.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:40:05",
+      "speaker": "ACOSTA",
+      "sentences": "Right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:45:08",
+      "speaker": "ACOSTA",
+      "sentences": "Right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:45:08",
+      "speaker": "KING",
+      "sentences": "Is that too far if they see a judge find him in contempt again and ultimately put him in court?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:45:08",
+      "speaker": "ACOSTA",
+      "sentences": "Yes, I mean, Jaime -",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:45:08",
+      "speaker": "JAMIE GANGEL, CNN SPECIAL CORRESPONDENT",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:45:08",
+      "speaker": "ACOSTA",
+      "sentences": "You know, there - there was the debate that was going on, it's been going on for months, if - and it's been reflected in some of the polling, if he is convicted, you know, of a felony, of whatever, that might affect the way people look at him in terms of whether they want to vote for him again or not.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:45:08",
+      "speaker": "GANGEL",
+      "sentences": "Right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:45:08",
+      "speaker": "ACOSTA",
+      "sentences": "As John was saying a few moments ago, there was the mug shot. They made t-shirts out of that. They made mugs out of it and so on. Jail is - jail is jail. That -",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:45:08",
+      "speaker": "GANGEL",
+      "sentences": "To John's point -",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:45:08",
+      "speaker": "ACOSTA",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:45:08",
+      "speaker": "GANGEL",
+      "sentences": "We don't know yet.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:45:08",
+      "speaker": "ACOSTA",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:45:08",
+      "speaker": "GANGEL",
+      "sentences": "The base is the base. A lot of people who are not the base just think these trials are unfair. You hear that as well. Do they go out and vote for him as a result? Do they sit on their hands and not vote? We have some months to figure that out.There's one other thing - I've spoken to people who know Judge Merchan very well. He is known for judicial temperament. He runs a tight courtroom. I do not take it lightly when he says, Mr. Trump, it's important you understand last thing I want to do is put you in jail. But then he says, your continued willful violations of this court's lawful order constitute a, quote, \"direct attack on the rule of law.\" We have heard that before.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:45:08",
+      "speaker": "ACOSTA",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:45:08",
+      "speaker": "GANGEL",
+      "sentences": "There's one other thing, the lawyers can speak to this, that Judge Merchan can do -",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:45:08",
+      "speaker": "ACOSTA",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:45:08",
+      "speaker": "GANGEL",
+      "sentences": "He may not look - if he is - if Trump is convicted, he may not look on his behavior kindly. And, you know, you want to connect with the judge. ACOSTA",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:45:08",
+      "speaker": "GANGEL",
+      "sentences": "Right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:52:05",
+      "speaker": "COLLINS",
+      "sentences": "Already a dramatic morning inside that courthouse that you're looking at here in Manhattan. The judge just ruling that Donald Trump has violated his gag order once again and then openly discussing what he believed could be his next option, jail, and his hesitancy to do so.Judge Juan Merchan says the presumptive Republican nominee did violate the order when he said this on April 22nd. (BEGIN VIDEO CLIP) DONALD TRUMP (R), FORMER U.S. PRESIDENT AND 2024 PRESIDENTIAL CANDIDATE: That jury was picked so fast. Ninety-five percent Democrats. The area is most all Democrat. You think of it as a - just a purely Democrat area. It's a very unfair situation, that I can tell you. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:52:05",
+      "speaker": "COLLINS",
+      "sentences": "Trump, as a result of this gag order, is not allowed to comment on the jury at all or to direct any public statements about them. And that is why he is therefore in violation of this gag order.I should note, we also just got our first images from inside the courtroom this Monday morning of the former president. You can see him here. He is seated at the defense table. We are told his son, Eric Trump, has returned to the courtroom and is seated behind him, along with his other attorney, Alina Habba. Right now the 10th prosecution's witness, a former Trump Organization controller, who has testified in his civil fraud trial, is back on the stand. That is Jeff McConney. Paula Reid and Karen Friedman Agnifilo are back with me. And we know - this is not a household name.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:52:05",
+      "speaker": "REID",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:52:05",
+      "speaker": "COLLINS",
+      "sentences": "It's not Stormy Daniels. It's not Michael Cohen, as we've been waiting to see who. But this is an interesting person because he testified in the civil fraud trial. He actually broke down in tears on the stand during that case, talking about when he left the Trump Organization, why he retired, because there were so many investigations and he was just talking about stressful it was.But what do you - what's the prosecution's point in bringing him up to the stand in this trial?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:52:05",
+      "speaker": "REID",
+      "sentences": "He's critical, even though, as you said, he's not a household name. This was the controller at the Trump Organization. He worked there for 35 years. And this is finally, on day 12th, a witness who can talk about the alleged crime at the heart of this case, which is falsifying business records.And I know in speaking with sources in and around the defense team, they've always thought that Jeff McConney would be a helpful witness for them because they could talk about how Trump wasn't really that involved in the day-to-day, in invoices, you know, in the minutia of the business. But it's interesting, as McConney took the stand, he described how Trump was, quote, the brains of the Trump Organization up until, though, 2017, which is, of course, the year that all of this alleged criminal conduct occurred. So, this, again, not the most exciting name on its face, but Jeff McConney really is going to be critical for the prosecution. And again, day 12 and this is the first winning who can speak directly to these documents.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:55:04",
+      "speaker": "AGNIFILO",
+      "sentences": "He's certainly not reliable for the prosecution for that reason. And he did testify at the - at the trial involving the Trump Organization, but he refused to talk about Donald Trump directly. And so perhaps the prosecution is deciding not to call him and they can get this information through Mr. McConney instead, who doesn't come with that same baggage.",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

@@ -1,0 +1,397 @@
+{
+  "date": "2023-08-21",
+  "headline": "CNN This Morning",
+  "subHeadline": "Storms Cause Flash Flooding and Mudslides in Southern California; Former President Trump and Co-Defendants in Fulton County Election Interference Case to Turn Themselves in For Processing; Reporting Indicates Special Counsel in Hunter Biden Investigation David Weiss Changed Charges Multiple Times; Donald Trump Says He will Skip Primary Debates. Aired 8-8:30a ET",
+  "utterances": [
+    {
+      "timeStamp": "08:01:38",
+      "speaker": "POPPY HARLOW, CNN ANCHOR",
+      "sentences": "Good morning, everyone. So glad you're with us. It is the top of the hour. Hilary is now a post-tropical cyclone. That actually means it has slowed a bit after slamming southern California with historic rainfall and huge mudslides. And the threat isn't over yet as the storm races north. We have a momentous week ahead.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:01:38",
+      "speaker": "VICTOR BLACKWELL, CNN ANCHOR",
+      "sentences": "Yes, there's a lot going on. Donald Trump is expected to surrender in Fulton County, Georgia, on Thursday or Friday, according to a senior law enforcement source. We're live at the courthouse with what to expect.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:01:38",
+      "speaker": "HARLOW",
+      "sentences": "This morning, a new poll out of Iowa shows Trump completely dominating his Republican rivals five months before the caucuses. We'll break down the numbers.This hour of CNN THIS MORNING starts right now. Here's where we begin. Glad you're with us right now. Millions of people, though, across the southwest are at risk of dangerous flash flooding after tropical storm Hilary unleashed record-shattering rainfall and catastrophic floods in southern California. It left desert towns under water. This is new video into CNN of Cathedral City being overtaken by floodwaters overnight. The storm has been dumping a year's worth of rain in some areas. Hilary has weakened to a post- tropical cyclone, but the threat is not over. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:01:38",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Holy -- Go!(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:01:38",
+      "speaker": "HARLOW",
+      "sentences": "Forecasters warning this morning there could be more mudslides today, more life-threatening flooding throughout the day. This was the scene in San Bernardino County. You can see trees and boulders rushing by.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:01:38",
+      "speaker": "BLACKWELL",
+      "sentences": "Up in the mountains, firefighters had to run for safety when a mudslide came crashing down around their station. So first they heard a rumbling noise, and they went outside to check it out, and that's when they saw a big wall of mud and rocks flowing down the hill towards them. And right as the storm was hitting, then a 5.1 magnitude earthquake rocked southern California. Thankfully, no significant damages, no injuries reported.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:01:38",
+      "speaker": "HARLOW",
+      "sentences": "Now to Ventura County, California, where overnight, Ventura County firefighters helped rescue two people who were trapped in these floodwaters in the Santa Clara River. Officials are now warning everyone stay out of river bottoms, stay out of the canals.Joining us now is a public information officer for the Ventura County Fire Department Captain Brian McGrath. Captain McGrath, thank you for being with us. Just seeing these images is so striking. To have a storm like this hit southern California in the summer, especially. So people there are not prepared for this. They're not used to it. What is the danger level this morning as you wait for the sun to come up? CAPT. BRIAN MCGRATH, VENTURE COUNTY FIRE DEPARTMENT:  Yes, good morning. Luckily, the bulk of the rain has passed through Ventura County. So now, as the sun comes up and people get back on the roads, it's going to be, was there extra damage that was done to the area, trees being down, as well as if there was anything from that earthquake that we haven't been able to see just yet.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:01:38",
+      "speaker": "HARLOW",
+      "sentences": "You say get back on the roads. Can people get up and drive to work this morning?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:01:38",
+      "speaker": "MCGRATH",
+      "sentences": "Oh, yes. We do not have any significant road closures here in Ventura County. Some of the little neighborhood roads may have some closures, but no -- all main roads are open.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:05:02",
+      "speaker": "MCGRATH",
+      "sentences": "Yes, that's what we're seeing, yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:05:02",
+      "speaker": "HARLOW",
+      "sentences": "What about the earthquake? It's so striking that in the middle of all of this yesterday afternoon, there's 5.1 magnitude earthquake. Did that complicate efforts?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:05:02",
+      "speaker": "MCGRATH",
+      "sentences": "I wouldn't say it complicated efforts, but it definitely opened our eyes to that anything can happen at any time, kind of gave us a little reminder. And luckily, there was no significant damage that we found. We are still out surveying the areas, and geologists will be getting back us to.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:05:02",
+      "speaker": "HARLOW",
+      "sentences": "OK, Captain Brian McGrath, glad things are better than I think even expected. We appreciate your time this morning.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:05:02",
+      "speaker": "MCGRATH",
+      "sentences": "Thank you for having us. I really appreciate it. And like you said earlier, stay out of those rivers and canals. They are made for moving water quickly.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:05:02",
+      "speaker": "HARLOW",
+      "sentences": "Great reminder. Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:05:02",
+      "speaker": "BLACKWELL",
+      "sentences": "Let's take a look at the Fulton County jail this morning. Just days from now, former President Trump is expected to turn himself in for the fourth time in under five months. That's according to a senior law enforcement source with knowledge of the surrender. This time, the former president set to appear in Georgia where he's facing charges related to 2020 election interference there. The Fulton County district attorney has set a deadline of Friday for Trump and 18 co- defendants to surrender at the county jail. CNN senior crime and justice reporter Katelyn Polantz is live outside of Rice Street there, the Fulton County -- actually at the courthouse. Not at Rice street at the jail. What are we expecting there?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:05:02",
+      "speaker": "KATELYN POLANTZ, CNN CRIME AND JUSTICE REPORTER",
+      "sentences": "Well, Victor, we are expecting Donald Trump's lawyers at some point to come to this location so that they can have a negotiation with the district attorney that is now bringing this case against Donald Trump. That negotiation is important to them, because this is a different situation than when Donald Trump had to appear and be arrested and processed into the system in the federal cases when he was charged twice by the special counsel's office related to documents in Florida after his presidency as well as January 6th.Here in Georgia, now that he's facing these state charges, he has to go to the physical jail at some point, and his lawyers are going to want to make that as smooth as possible. They don't want him to be sitting inside that jail for an elongated period of time. It is not a pleasant place to be, and they have a large amount of people coming in every day. There's already dozens of people that have been booked at that jail just this morning. And it's Monday morning, overnight and into the morning. And so Trump is not going to want to spend a lot of time there as he's being arrested in responding to this warrant here. So his lawyers are very likely going to be coming over here first so that they can get everything negotiated, set, his bail time, approved by the judge so that they can be on their way to the arrest. Of course, we're going to have to see exactly if Donald Trump is going to be treated differently than any other criminal defendant and how much time he spends in the jail as opposed to the 18 other defendants in this case, who are also going to have to go through this process, very likely also going to want to negotiate their bail terms, and then head over later this week, to be processed, arrested, fingerprinted, potentially even searched and mug-shotted.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:05:02",
+      "speaker": "BLACKWELL",
+      "sentences": "One of those other 18, Trump's former chief of staff Mark Meadows, he is asking a federal court to throw out the charges he's facing in Georgia. Explain his argument.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:05:02",
+      "speaker": "POLANTZ",
+      "sentences": "Yes, Mark Meadows has moved really fast to try and derail this state criminal case against him. He is one of the other defendants next to Trump. But what he's done is twofold. One, he went to the federal court and said, I'm a federal official, I want my case to be in federal court. That's something that the law allows. He did that very soon, like, within two days after being indicted.And now over the weekend, his lawyers came back to the federal judge and said, we're asking to dismiss these charges because everything Mark Meadows did after the 2020 election he would not have done if he had not been the chief of staff to Donald Trump in the White House at that time. Someone who was carrying out their official duties, even if what Trump was doing does have some level of criminality around it. Meadows is trying to argue that he does not, in the federal case against Trump, he's not even named as a co-conspirator. He's another person, very likely a witness there, talking about what Trump and others were doing after the election. And so his lawyers are trying to move fast, get rid of these charges. We'll see if they're successful, but the thing to watch, Victor and Poppy, as we head into this week and into a hearing for Mark Meadows next Monday is whether this case will move differently for him than Donald Trump, and how much Mark Meadows wants to push himself away from his former boss.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:05:02",
+      "speaker": "BLACKWELL",
+      "sentences": "Kaitlan Polantz for us there outside the Fulton County courthouse, thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:10:05",
+      "speaker": "HARLOW",
+      "sentences": "And part of a conspiracy, she said.AGANGA-WILLIAMS:  Part of a conspiracy. And I think the fact that he may try to narrow it down and say, I was acting, I was making phone calls, I was doing kind of logistical aspects, I think she would say, well, no, you were acting and interfering in a Georgia political process. And the president of the United States has no role in Georgia election law. The president of the United States has no role in certifying Georgia results. So if the president has no official role, what official role as chief of staff could Mark Meadows have been acting on? I think that's what they're focusing on.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:10:05",
+      "speaker": "BLACKWELL",
+      "sentences": "So literally, just days ago, Mark Meadows asked for this to be removed to federal court. And now the request is to throw the charges out. Is this an extension of the first request or is it a change in strategy?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:10:05",
+      "speaker": "ELIE HONIG, SENIOR CNN LEGAL ANALYST",
+      "sentences": "It's an extension of the first request. They really go hand in hand. If you're Mark Meadows -- and by the way, expect to see very similar motions from Donald Trump, from Jeffrey Clark, who worked at DOJ. It's sort of a two-step. First is, well, I was acting as a federal official, therefore I need to be over in federal court.And then you say, I was acting within the scope of my job, in this case, as White House chief of staff. Therefore, I have immunity, and throw it out. There's really actually very little daylight in between those two things. And that's why it's so important to see, once they get into federal court, they are an inch away from a dismissal. That's why it's so high-stakes with these motions.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:10:05",
+      "speaker": "WALKER",
+      "sentences": "OK, you are both former assistant U.S. attorneys, eastern district, southern district, and there is a bombshell report out from \"The New York Times\" over the weekend about David Weiss, the now special counsel, prosecuting Hunter Biden, what he wanted to do and then what he did do.Elie, let me read this relevant graph for people. Earlier this year, \"The Times\" found Mr. Weiss appeared willing to forego any prosecution of Mr. Biden at all,\" talking about Hunter Biden, \"and his office came close to agreeing to the end of an investigation without requiring a guilty plea on any charges. But around the spring, around the time a pair of IRS officials on the case accused the Justice Department of hamstringing the investigation, Mr. Weiss suddenly demanded Mr. Biden plead guilty to committing tax offenses.\" What is the takeaway for everyone this morning?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:10:05",
+      "speaker": "HONIG",
+      "sentences": "The takeaway is DOJ has made an unholy mess of this whole Hunter Biden situation. And I fault David Weiss, who I've spoken positively about on this show given his long service as U.S. attorney. But if you look at that reporting, first he was willing to let this thing go altogether. Political pressure ramped up, he backtracks and says, no, we're going to need to take misdemeanor pleas.Then they go into court ready to take misdemeanor pleas, more pressure, more testimony from the IRS, and then this deal falls apart. Now he says, now I need to be called special counsel, I need expanded powers. But it seems like all of this is only happening in a reactionary posture. It seems like he's now twice tried to make this case go away cheaply, twice been called out on it, and twice backtracked only in response to the whistleblowers.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:10:05",
+      "speaker": "BLACKWELL",
+      "sentences": "And Temidayo, I read that you think that there is a legitimate question as to whether Hunter Biden is being treated unfairly.AGANGA-WILLIAMS:  I think 100 percent. I think what we're seeing is that Hunter Biden appears to be getting a harsher result because of his proximity to President Biden. And frankly, that's unfair, right? This entire process should always be about equal treatment for equally situated people. And here, Hunter Biden, more and more appears that if his last name were Smith, he would be out of this mess already. But because it's Biden, it's going deeper and deeper, and that's a problem.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:10:05",
+      "speaker": "BLACKWELL",
+      "sentences": "This investigation is five years old. What more, what else does the now special counsel think he's going to learn that he didn't get over the first five?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:10:05",
+      "speaker": "HONIG",
+      "sentences": "It's a great question and it goes to really one of the issues that the whistleblowers have raised. They have claimed that there were certain investigative avenues that were cut off, that were prematurely stopped. No, you can't go down that road.Normally, as a prosecutor, you're supposed to be able to investigate whatever you need. What have they been doing for five years? I can't even begin to answer. Hunter Biden, look, we learned during that brief court appearance that he had failed to pay over $1 million in taxes owed. To get a misdemeanor when you owe $1 million in taxes -- yes, he paid later, that's a decent deal for a defendant. I don't weep for Hunter Biden.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:15:00",
+      "speaker": "HARLOW",
+      "sentences": "Can I ask you why it's not believable when we have now two IRS whistleblowers who have testified before Congress, one of them came on this program, one of them was a self-proclaimed, you know, liberal, say there are avenues that weren't even explored.So if you don't go down the avenue, you don't have a stone to turn over. AGANGA-WILLIAMS:  I don't have any visibility into the investigation. Right? But the suggestion I believe that they were getting at is whether they are avenues into President Biden. Now, if there's evidence that --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:15:00",
+      "speaker": "HARLOW",
+      "sentences": "We are just talking about Hunter here.AGANGA-WILLIAMS:  Hunter, but I am saying, if there were evidence that there were avenues to, for example, President Biden that were not pursued, sure, but I've not seen anything to support that.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:15:00",
+      "speaker": "HARLOW",
+      "sentences": "Yes.AGANGA-WILLIAMS:  And I think what's important is to zoom out on Hunter Biden, with every -- with most white collar defendants, the investigation goes forward, you find a wider way of criminal conduct. That's not shocking, meaning, you often find tax issues here, perhaps a lie on a form there. That's not -- that's pretty common for federal prosecutors. But after five years, and a holistic view, prosecutors decide, how do we get rid of this case? What is this case worth? David Weiss' team did that. They made a plea deal, they made it harsher, and had taken that away would suggest they are being influenced by something external and not by the facts and the law.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:15:00",
+      "speaker": "HONIG",
+      "sentences": "I think -- but all of this raises the question of why is he being named special counsel now? Why two weeks ago, five-plus years in?I think you're exactly right, though, in your take on the investigation. It is one of the really perplexing questions that are raised here. David Weiss and Merrick Garland are going to have to explain this at some point because they have just been all over the map on this. They're not doing DOJ any favors. Frankly, they're not doing Hunter Biden any favors. They're not even doing the whistleblower any favors. You need to -- sometimes, the DOJ, we were just talking about this, you just need to pick the right course of action and stick with it, whatever the political winds may be.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:15:00",
+      "speaker": "BLACKWELL",
+      "sentences": "Pick a direction and go. All right, Elie, Temidayo, thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:15:00",
+      "speaker": "HARLOW",
+      "sentences": "Thanks, guys.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:20:58",
+      "speaker": "BLACKWELL",
+      "sentences": "In two days, Republican presidential hopefuls are set to take the stage in the first primary debate -- this one is in Milwaukee -- but the frontrunner, former President Trump, he will not be there.Trump made the announcement on social media yesterday afternoon writing: \"The public knows who I am and what successful presidency I had. I will therefore not be doing the debates.\" Plural.  Sources tell CNN, the former President plans to sit down for an interview with former Fox host, Tucker Carlson instead. The interview is set to air on X, formerly known as Twitter around the same time as the debate. CNN senior media correspondent, Oliver Darcy is here. So the debate is Wednesday, and then you've got the debate, you've got the former president. If he's trying to upstage them, putting a video on X, does that do it?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:20:58",
+      "speaker": "OLIVER DARCY, CNN SENIOR MEDIA REPORTER",
+      "sentences": "That's probably not going to do much, but not going to the debate that's going to hurt Fox News in the ratings.I mean, if you look at the 2015 primaries, the first debate that Fox News hosted with Donald Trump taking on the rest of the GOP field, that averaged about 24 million viewers. People wanted to see Trump in that environment. And if he cannot go into this debate, it's really going to put a dent in Fox News' ratings, which is why the executives were basically pleading with him. You know, they went to his Bedminster club and asked him to participate in this debate. We know that on air, the hosts have been encouraging him to participate. It would be very beneficial for their ratings.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:20:58",
+      "speaker": "HARLOW",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:20:58",
+      "speaker": "DARCY",
+      "sentences": "Of course, he doesn't -- he actually is feuding with Rupert Murdoch. So, I think he's very happy to take a sledgehammer to that.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:20:58",
+      "speaker": "HARLOW",
+      "sentences": "Yes. Okay, aside from Fox ratings, I'm not too concerned about what their ratings are, but what I am concerned about is American people getting direct answers to important questions, right? And that's what they're not going to get.They're not going to get that if he doesn't go to this debate or any debate. Martha MacCallum and Bret Baier are good journalists. They are going to ask important questions. And so, you know, that is a key thing is that he is not forced to answer any of those. I mean, aside from Kaitlan's interview in the CNN Town Hall, he doesn't really do tough interviews.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:20:58",
+      "speaker": "DARCY",
+      "sentences": "He really comes out the winner in not going to this debate. I mean, you have to really wonder why he would go potentially, because he would be faced with hard questions, not only from the moderators, but from some of his rivals.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:20:58",
+      "speaker": "HARLOW",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:20:58",
+      "speaker": "DARCY",
+      "sentences": "Like Chris Christie, right?And so him not going, he doesn't have to deal with that, he also gets to hurt Rupert Murdoch, and he gets to go on Tucker Carlson, who is obviously going to lob softballs to him and so he gets that benefit as well. So I think politically, he's probably benefiting quite a bit from this. Of course, everyone else, maybe not -- not so much.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:20:58",
+      "speaker": "BLACKWELL",
+      "sentences": "Yes, we saw how big of a challenge announcing candidacy was for Ron DeSantis when he did it live with Elon Musk on what was Twitter then I think now, but if he's just putting this video up, I mean, yes, we'll take pieces from it. But it's not going to be something that the whole world shifts from the debate. It's just his absence that is the most valuable point for him.All right, Oliver Darcy, good to see you in person.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:20:58",
+      "speaker": "HARLOW",
+      "sentences": "He will be up late with us Wednesday night.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:20:58",
+      "speaker": "BLACKWELL",
+      "sentences": "Thanks.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:20:58",
+      "speaker": "DARCY",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:20:58",
+      "speaker": "BLACKWELL",
+      "sentences": "Yes, yes. And up early morning.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:20:58",
+      "speaker": "HARLOW",
+      "sentences": "Yes. I think so.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:20:58",
+      "speaker": "BLACKWELL",
+      "sentences": "Back with us now, national politics reporter for Bloomberg, Christian Hall and CNN political analyst and White House correspondent for PBS NewsHour, Laura Barron-Lopez.All right, so not only is the former president skipping the first debate, it's plural. But I want to talk about his kind of sitting back from going to speak with the people of Iowa. The governor, Kim Reynolds says that there will be a cost to pay likely for that. Let's listen to what she has to say. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:20:58",
+      "speaker": "SHANNON BREAM, FOX NEWS CHANNEL ANCHOR",
+      "sentences": "He skipped a lot on the big stuff. He didn't do the Fair-Side Chat. Are Iowans kind of giving him a pass from some of those rules?GOV. KIM REYNOLDS (R-IO):  No, I think they still, they expect him to be here. They want to interact. They want to interact with all of the candidates. We've had -- we had great turnout at the Fair-Side Chats. I had a lot of Iowans and people outside of the state come up and just say thank you for doing that. It was a great opportunity to hear from the candidates. And so you know, I always take it very seriously. They're very knowledgeable and they want to interact with the candidates. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:25:09",
+      "speaker": "HARLOW",
+      "sentences": "Our Stephen Collinson, as he often does, in his pieces and his analysis writes this, that I just think encapsulates what we're looking atWhat do you make of that, Christian?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:25:09",
+      "speaker": "CHRISTIAN HALL, NATIONAL POLITICS REPORTER, BLOOMBERG",
+      "sentences": "I mean, it's a really unique situation. You know, a lot of the other candidates who are going to be on the debate stage, they're really there to introduce themselves to voters, introduce their campaign messaging.Donald Trump is in a unique position. He was a former president. These voters, they know who Donald Trump is. So I think Donald Trump is not new to media. He was a media personality before being president, so he understands that he can go on with this interview with Tucker Carlson, it's a much friendlier environment for him, so he doesn't have to answer those tough questions.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:25:09",
+      "speaker": "HARLOW",
+      "sentences": "He doesn't have to go to any debates, does he? Any? Primary? General if he gets there.BARRON-LOPEZ:  No. And --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:25:09",
+      "speaker": "BLACKWELL",
+      "sentences": "And he essentially could be right in that first line. I mean, there were a lot of lies in the rest of that post, but people know who he is, and they are not voting for him, because he's got some new big policy proposal.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:25:09",
+      "speaker": "HARLOW",
+      "sentences": "It is sort of, in spite of the other stuff, many voters have said.BARRON-LOPEZ:  A lot of voters vote based on emotion, despite the fact that, you know, we do look at whether or not the economy, abortion, and other issues may be a motivator for them to get to the polls. But I think that if he doesn't show up in the primary debates, there's little evidence that it would necessarily hurt him. Could it help the other candidates try to make inroads in Iowa or in other states? Sure. Is it enough to catch Donald Trump? I'm skeptical that it is. In the general, if he doesn't show up to those debates, I think that's a different calculation and that could potentially hurt him because general election voters are a whole different ballgame than primary voters.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:25:09",
+      "speaker": "HARLOW",
+      "sentences": "Okay, so you're on your final hours, days of debate prep now. You're Chris Christie, who is going to go after Trump. What do you do now? You're a Ron DeSantis. We've learned this morning, his campaign team is saying he plans expects to be the \"center of attacks.\" How does this affect what do they do, the ones that will be on the stage now?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:25:09",
+      "speaker": "HALL",
+      "sentences": "Well, I think even if Donald Trump isn't physically there --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:25:09",
+      "speaker": "HARLOW",
+      "sentences": "He is there.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:25:09",
+      "speaker": "HALL",
+      "sentences": "He is still there. You know, there are definitely going to be questions about Donald Trump and the candidates may also pivot to the next, the second frontrunner, Ron DeSantis, who is going to be on the stage.So even though Trump isn't physically there, he's still there. They're going to be talking about Trump. And I think the candidates are prepping very hard to kind of go after the former president's record as president, go after the mounting legal challenges against him.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:25:09",
+      "speaker": "BLACKWELL",
+      "sentences": "But okay, so the DeSantis campaign says that he is prepared for a pile-on, right? He is the highest polling person on the stage. But you take a great hit at the guy who is polling at 16 percent, right? What does that get you when the person who is not there is at fifty, sixty-two percent in the CBS poll?BARRON-LOPEZ:  It gets you to second place. Maybe you knock out DeSantis who is in second place, and you become the one right behind the former president.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:25:09",
+      "speaker": "BLACKWELL",
+      "sentences": "Who is 30 percent behind.BARRON-LOPEZ:  Right, right. I mean, that's exactly what I was just saying, which is that a debate can help make moments and we've seen where it helps some of the Democrats in the Democratic primary last go round, but it wasn't enough to take out the top guy. It wasn't enough to take out Joe Biden when he was the candidate. And that, again, historically, a candidate has never had this significant of a lead and lost it and lost the nomination.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:25:09",
+      "speaker": "HARLOW",
+      "sentences": "All right, people keep pointing to McCain that that analogy doesn't really hold because the lead is so much wider here.BARRON-LOPEZ:  Right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:25:09",
+      "speaker": "HARLOW",
+      "sentences": "And this, I think, is why Chris Sununu, who a lot of people thought was going to run for the Republican ticket, governor in New Hampshire, writes in his op-ed this morning in \"The Times,\" at a minimum, any candidate who does not make the debate stage for the first two debates must drop out. Anyone who is polling in the low single digits by Christmas must acknowledge their efforts have fallen short.\"But is anyone listening?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:25:09",
+      "speaker": "HALL",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:25:09",
+      "speaker": "HARLOW",
+      "sentences": "Who is not going to be on that stage?",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

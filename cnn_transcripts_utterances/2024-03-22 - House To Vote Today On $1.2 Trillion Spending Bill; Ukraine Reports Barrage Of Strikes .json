@@ -1,0 +1,463 @@
+{
+  "date": "2024-03-22",
+  "headline": "CNN This Morning",
+  "subHeadline": "House To Vote Today On $1.2 Trillion Spending Bill; Ukraine Reports Barrage Of Strikes On Power System; Now: Blinken In Israel For Talks With Netanyahu. Aired 5:30-6a ET",
+  "utterances": [
+    {
+      "timeStamp": "05:30:00",
+      "speaker": "KASIE HUNT, CNN ANCHOR",
+      "sentences": "All right, a live look down the National Mall -- there's the Washington Monument -- on this Friday morning. Just before 5It is deadline day to avoid a government shutdown once again. Top House Republicans expect to have the votes today to pass the spending package. They're going to need Democrats to do it. If the bill does pass the House we could still be in for a partial shutdown if the Senate doesn't time -- have time to read it and cast votes before the midnight deadline -- entirely possible. Here's what Sen. Mike Rounds told me yesterday. (BEGIN VIDEO CLIP) SEN. MIKE ROUNDS (R-SD):  The Senate may not even get the bill until tomorrow or Saturday, and so there may be a shutdown over the weekend. I don't like that idea. I think -- and I think this is a terrible way to run a government and this is a terrible thing to do to the country. This was supposed to be done last October. And so, here we are. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:30:00",
+      "speaker": "HUNT",
+      "sentences": "Here we are.I'm joined by Farnoush Amiri, congressional reporter at the Associated Press; and Catherine Lucey. She's White House reporter for The Wall Street Journal. Good morning, ladies. Thank you for being here. Farnoush, where does this actually stand? Is it going to pass the House today?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:30:00",
+      "speaker": "FARNOUSH AMIRI, CONGRESSIONAL REPORTER, ASSOCIATED PRESS",
+      "sentences": "I mean, it looks like it is. I mean, just seeing what's happened in the past few weeks -- like, every time people have seemingly underestimated Johnson who has come out with these -- you know, these statements with all four corners of Congress coming together with a deal last-minute and getting Democrat support.Do I think there will be more Republicans than Democrats on this? No. I think we've seen from the past few CRs and budget fights that Democrats are likely going to have the majority of numbers on this. But I personally -- mainly because I want a weekend, I see this going well. I have to put that out.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:30:00",
+      "speaker": "HUNT",
+      "sentences": "I'm sharing that optimism for you that you don't have to spend your weekend --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:30:00",
+      "speaker": "AMIRI",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:30:00",
+      "speaker": "HUNT",
+      "sentences": "-- chasing members of Congress.Catherine, what's your sense of this here -- I mean, and Johnson, in particular? I mean, he -- it's the toughest job in Washington. He's really pretty new at it. There are -- there's a lot of grumbling and griping about him behind the scenes. That said, I take Farnoush's point. At this point, he's likely to get this done?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:30:00",
+      "speaker": "CATHERINE LUCEY, WHITE HOUSE REPORTER, THE WALL STREET JOURNAL",
+      "sentences": "Yeah. I mean, it's a terrible job but he has shown some ability to move these things along, right? He is dealing with frustration from the right flank of his party but he is making clear they are moving forward. He was pretty clear this week that he says they have to govern. And I think that other Republicans are supportive of that.He's shown he's comfortable working with Democrats -- getting Democratic votes on this. And he's trying to obviously highlight what he sees as Republican priorities that they are moving forward with in this package -- defense spending and more beds for -- detention beds for migrants. So he is -- he is trying to frame this as wins but he is clearly showing that he is prepared to move forward and govern.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:30:00",
+      "speaker": "HUNT",
+      "sentences": "On the substance of this, Farnoush, there has been a lot of back and forth around -- Democrats would call them, like, culture war add-ins to some of these things related to -- whether it's LGBTQ issues or trans issues.How is that -- how has that sorted itself out? I mean, what would you point to in this package that Americans should be paying attention to?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:30:00",
+      "speaker": "AMIRI",
+      "sentences": "Yeah. I think it's -- I think it's really interesting. I mean, if see the statements, as you mentioned -- if you see the statements, both sides are like this is a Democratic win. Republicans are like this is a Republican win. But no one got like everything that they wanted, right, and that's how these things work. I think Johnson is coming to terms with you're not going to get everything in it.But what they did get is a 24 percent increase in migrant beds while they're waiting for their immigration proceedings or removal from the country. They were able to get the removal of any flags that are not officially U.S. flags, like LGBTQ pride flags from U.S. diplomatic sites. So that was a win.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:30:00",
+      "speaker": "HUNT",
+      "sentences": "Sort they're how long pride flags --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:30:00",
+      "speaker": "AMIRI",
+      "sentences": "Yes. HUNT",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:30:00",
+      "speaker": "AMIRI",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:30:00",
+      "speaker": "HUNT",
+      "sentences": "Interesting.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:30:00",
+      "speaker": "AMIRI",
+      "sentences": "And so they got stuff like that.But they also got -- they were able to prohibit funds going to the U.N. Relief and Works Agency, which has been a major fight during this battle over Israel aid. Obviously, it's the largest donor of Palestinian aid and they were able to probe (PH) that fund until the end of the fiscal year.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:30:00",
+      "speaker": "HUNT",
+      "sentences": "Very interesting.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:30:00",
+      "speaker": "LUCEY",
+      "sentences": "And Democrats will point to money for child care --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:30:00",
+      "speaker": "AMIRI",
+      "sentences": "Yeah.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:30:00",
+      "speaker": "LUCEY",
+      "sentences": "-- and head start as some of the things that they're really trying to tout.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:35:00",
+      "speaker": "AMIRI",
+      "sentences": "Yeah -- no. I mean, I think you have to make note of what subset of the Republican Party this is, right? Bob Good is the chair of the House Freedom Caucus. This is the most far-right group of members in Congress. But also, notably -- I mean, it goes to -- it goes to show that whileRepublicans are trying to do damage control on what happened in Alabama and are trying to put out ads saying we want to support IVF however we can help American families create -- you know, add to their families -- we want to do that. But then there is this subset of their -- of their conference and of their party that is going to continue to give Democrats exactly what they want, which as you said, is these campaign hits.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:35:00",
+      "speaker": "LUCEY",
+      "sentences": "That's right. I mean, Democrats see abortion and access to abortion and reproductive health care as the biggest -- if not the biggest -- you know, if not -- if not one of the biggest issues in this campaign. And so, moments like this and letters like this play into their arguments that Republicans are trying to curtail access to all these kinds of procedures.And so, the -- and you've seen the Biden campaign talking about this and they'll continue -- they will -- they may highlight this because these are the kinds of things that they want to point to when they say look, Republicans aren't being straight with you when they say that they support these procedures -- and look at this.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:35:00",
+      "speaker": "HUNT",
+      "sentences": "Yeah. I mean, it does seem like, Farnoush, they've tied up the -- we were just talking about their culture war battles, right? And this is about -- it's not about coverage for what, it seems like they're defining as the nuclear family based on how they say it. Not trying to remake the nuclear family. Because again, this is something that the VA is extending to single people and to same-sex families. That they're kind of pulling those two things together.But again, I mean, where Americans are on IVF is different.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:35:00",
+      "speaker": "AMIRI",
+      "sentences": "Yeah -- no. I mean, you see this with so many issues. I mean, you see this with what's going on with the war in Ukraine and what's going on with Israel. I mean, it does -- it does not seem to connect that this is not what the majority of the American public wants, right? IVF has been seen as not a partisan issue for years despite a hard-right version of religious parts of this country trying to make it one.But again, if you, like, listen really quietly you'll hear the campaigns cutting the ads for this, right, as we speak. And this just goes into Democrats' play.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:35:00",
+      "speaker": "HUNT",
+      "sentences": "Well -- because Catherine, I mean, the -- it's very rare that we get, like the NRC -- the NRSC over on the Senate side -- very rarely issues like blanket memos saying, like, here is, like, what you should say. They'll do things, obviously, with specific campaigns. But, especially on the Senate side, there are big differences between how you campaign in Montana or various different states.They were very direct in saying, like, you should say that we support IVF. This seems to, again, like make clear that like, no -- actually, this is what's underneath that. And it does seem to make the Democrats' argument for them because they -- because Democrats will say well, actually, if they had their way they would do this. Does this seem -- not seem to underscore that?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:35:00",
+      "speaker": "LUCEY",
+      "sentences": "I mean, it certainly gives the Democrats the ability to make that argument, right? They can say look, even as they come out saying they support IVF, this is what's going on in at least one wing of their party.And we saw after the court ruling in Alabama and the back and forth about IVF access there that -- how many Americans support this. How many Republicans support this. And that's why the NRSC and other Republicans are trying to figure out ways to message on this because this is a big problem for them.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:35:00",
+      "speaker": "HUNT",
+      "sentences": "All right, Catherine Lucey, Farnoush Amiri. Thank you guys both very much. Happy Friday. I hope it's actually your Friday.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:35:00",
+      "speaker": "AMIRI",
+      "sentences": "I hope so, too.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:35:00",
+      "speaker": "HUNT",
+      "sentences": "I hope it's a weekend.All right. Up next here, Ukraine reporting power outages across the country after a new barrage of Russian strikes overnight. Ukraine's energy minister calls it the largest attack on the power system in recent times. Let's get to our Fred Pleitgen who is live for us from Berlin. Fred, how bad was this air attack? What's happened?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:45:55",
+      "speaker": "HUNT",
+      "sentences": "Welcome back.Secretary of State Antony Blinken is in Tel Aviv this morning for a high-stakes meeting with Israeli Prime Minister Benjamin Netanyahu. Right now, the secretary is meeting with Netanyahu and the Israeli war cabinet. The talks are expected to have some tension with the prime minister vowing to carry out a military operation in Rafah despite U.S. and international opposition. I'm joined now by former deputy assistant Secretary of State in the Obama administration, Joel Rubin, to talk more about this. Joel, good morning. You have been part of --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:45:55",
+      "speaker": "JOEL RUBIN, FORMER DEPUTY ASSISTANT SECRETARY OF STATE, OBAMA ADMINISTRATION",
+      "sentences": "Good morning.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:45:55",
+      "speaker": "HUNT",
+      "sentences": "-- many talks like the one that's unfolding here. I mean, can you take us inside the room? What is this going to be like for Blinken today?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:45:55",
+      "speaker": "RUBIN",
+      "sentences": "It's going to be a very tough meeting. There are several different avenues of diplomacy happening right now.First, is that yesterday, the secretary met with multiple Arab countries in Cairo. And at those meetings they talked about the end game. What is the unified Arab position, frankly, that they're presenting to Sec. Blinken and the United States about getting to a two-state solution? Concurrent to that, CIA Dir. Bill Burns in Doha trying to negotiate a temporary ceasefire and hostage exchange -- the ongoing discussion between Israel and Hamas. And so, now, Sec. Blinken has to bring those together while pressing Israel to allow more humanitarian aid in and to have an end-game horizon. This is not going to be a resolving meeting. This is going to be a process meeting most likely.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:45:55",
+      "speaker": "HUNT",
+      "sentences": "Right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:45:55",
+      "speaker": "RUBIN",
+      "sentences": "Because we're then going to see, next week, the defense minister, Yoav Gallant, coming to Washington to talk about this potential Rafah invasion as well.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:45:55",
+      "speaker": "HUNT",
+      "sentences": "Yeah.Let me show you -- you mentioned humanitarian aid. Tony Blinken talked a little bit about this in the course of his trip. Watch what he said. (BEGIN VIDEO CLIP) ANTONY BLINKEN, U.S. SECRETARY OF STATE:  Children should not be dying of malnutrition in Gaza or anywhere else for that matter. One hundred percent -- 100 percent of the population of Gaza is experiencing severe levels of acute food insecurity. We cannot and we must not allow that to continue. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:45:55",
+      "speaker": "HUNT",
+      "sentences": "I mean, I have to say this is the one place, in particular, where it seems obvious, right? Like, why --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:45:55",
+      "speaker": "RUBIN",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:45:55",
+      "speaker": "HUNT",
+      "sentences": "-- is the U.S. allowing this to be so bad? I mean, can we not be doing more to prevent this?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:45:55",
+      "speaker": "RUBIN",
+      "sentences": "We need to be doing more. And as a Jewish American, it's incredibly troubling to watch this, especially as the Passover is coming -- Easter. It's Ramadan right now. We should not be witnessing starvation and hunger as a policy.And my fear is that the Israeli government consistently tries to prevent more aid from getting into Gaza and has not set up mechanisms inside Gaza for the certitude of distribution of that food. There are international -- there are international agencies. The World Food Program, for example, is there. But they're not getting enough surged in. So now we have to send in by boat -- aid -- and that's just -- that's just an embarrassment.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:45:55",
+      "speaker": "HUNT",
+      "sentences": "I mean, well, like why is this happening? I mean, I get, like, the Israelis --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:45:55",
+      "speaker": "RUBIN",
+      "sentences": "Yeah.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:45:55",
+      "speaker": "HUNT",
+      "sentences": "-- talking about over food. They don't want people to be able to smuggle weapons -- or fuel, excuse me, not food. This seems -- like, just -- I just -- I don't understand. RUBINAnd so, the security overlay is incredibly intense and Israel is making sure that they are reviewing everything going in, but it's a slow-down level. And then we have Itamar Ben-Gvir as well -- who is a far-right member of the governing coalition and minister of national security -- putting his finger on the thumb to slow down aid and to put up red tape barriers. And so, there's just a continual slowdown. But there's no time for the people in Gaza and food should not be part of any kind of strategy in this case.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:45:55",
+      "speaker": "HUNT",
+      "sentences": "I mean, it's -- we -- I was talking to Max Foster, our international anchor, about this earlier that cover the economists -- Israel, alone, right?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:00",
+      "speaker": "HUNT",
+      "sentences": "It seems to me this is one of those things where -- I mean, do you think there's a recognition that they could do long-term damage to Israel's standing in the world on this humanitarian -- the food situation, specifically?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:00",
+      "speaker": "RUBIN",
+      "sentences": "Well, I think there's a difference between the Israeli people and the Israeli government. I think the Israeli people -- they see it, we see it, everyone sees it. But the Israeli government, right now, is not taking the affirmative decision to truly surge aid in.They are talking about 100 to 200 trucks a day going in. Their estimates now is there need to be 300 to 400. A couple hundred a month-two months ago perhaps, but now the scarcity is so intense. And so, they just need to make a decision to do it and that is not a tradeable asset in the negotiation. They can still have the negotiations on the ceasefire and about getting the hostages out, which is a must, without having food as part of that discussion.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:00",
+      "speaker": "HUNT",
+      "sentences": "Yeah. Again, the wanting to eliminate Hamas is a completely understandable objective --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:00",
+      "speaker": "RUBIN",
+      "sentences": "That's right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:00",
+      "speaker": "HUNT",
+      "sentences": "-- I think.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:00",
+      "speaker": "RUBIN",
+      "sentences": "And this is short-sided thinking and it's turning the population into a hostile one as well. We've seen this in Iraq, Kasie, I've got to say, in our experience.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:00",
+      "speaker": "HUNT",
+      "sentences": "Yeah.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:00",
+      "speaker": "RUBIN",
+      "sentences": "You know, you can win the fight but lose the war. And that is what happened in Iraq. We went in and it was total chaos after a couple of months of being there. And then the insurgency happened.And that's my big fear with this is that Israel -- they may knock out Hamas but they will not control the space and the population will be incredibly angry at them, and then an insurgency will then start.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:00",
+      "speaker": "HUNT",
+      "sentences": "Yeah.Briefly, let's talk about what's going on here in Washington --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:00",
+      "speaker": "RUBIN",
+      "sentences": "Yeah.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:00",
+      "speaker": "HUNT",
+      "sentences": "-- because there is this specter of Benjamin Netanyahu potentially addressing Congress at the invitation of the Republican House Speaker.What are the dynamics of that?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:00",
+      "speaker": "RUBIN",
+      "sentences": "It brings up some great memories of 2015 when I was at the State Department.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:00",
+      "speaker": "HUNT",
+      "sentences": "I was at that address when he came.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:00",
+      "speaker": "RUBIN",
+      "sentences": "Goodness.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:00",
+      "speaker": "HUNT",
+      "sentences": "Yeah.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:00",
+      "speaker": "RUBIN",
+      "sentences": "Look -- you know, first of all, I think if Speaker Johnson really cares about Israel what he would do is not play photo op and invite Bibi. He would pass a national security supplemental bill. He would pass the aid to Israel that's in it. And frankly, the prime minister -- he should say I won't come until you pass this aid, and maybe take a page of Zelenskyy's playbook and say provide it to my country and other countries who need it, including Ukraine.I think this is going to be very divisive if he comes and there's no aid bill passed. And Speaker Johnson just wants to say he stands with Israel when he really doesn't.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:00",
+      "speaker": "HUNT",
+      "sentences": "Yeah. It might, honestly, make it worse, especially because Democrats --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:00",
+      "speaker": "RUBIN",
+      "sentences": "That's right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:00",
+      "speaker": "HUNT",
+      "sentences": "-- increasingly want to condition the aid.All right, Joel Rubin for us. Joel, thanks very much --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:00",
+      "speaker": "RUBIN",
+      "sentences": "Thanks, Kasie.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:00",
+      "speaker": "HUNT",
+      "sentences": "-- for spending part of your Friday with us. I appreciate it.All right. Three crew members are safe after their launch to the International Space Station from Kazakhstan was aborted. NASA officials say the Soyuz rocket automatically aborted just 20 seconds before liftoff Thursday after one of the service towers next to the rocket failed to initiate an engine start. Engineers are still trying to determine what caused the failure. The next launch opportunity comes tomorrow. All right. How is your bracket doing this morning? March Madness tips off with some big upsets. Andy Scholes has this morning's Bleacher Report. Andy, good morning.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:00",
+      "speaker": "ANDY SCHOLES, CNN SPORTS ANCHOR",
+      "sentences": "Good morning, Kasie.You know, yesterday, I told you to pick those 11-seeds and all three of them won in upsets over the 6-seed they were playing yesterday. But the biggest upset of the day -- it belonged to 14-seed Oakland who took down 3-seed Kentucky. And what a night it was for Jack Gohlke. The senior for the Golden Grizzlies made 10 threes. Gohlke scoring 32 points, which is the most points ever in the tournament for a player who did not make a 2-point shot. Oakland would pull off the upset over the Wildcats 80-76. Kentucky is now 1-4 in their last five tournament games. And here was Gohlke after the big upset. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:00",
+      "speaker": "JACK GOHLKE, GUARD, OAKLAND GOLDEN GRIZZLIES",
+      "sentences": "I know they have draft picks and I know I'm not going to the NBA. But I know on any given night I can compete with those type of guys and our team can compete with those type of guys. And that's why I was so confident going into it and that's why I say we're not a Cinderella. Because when we play our A-game, we can be the best team on the floor.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:00",
+      "speaker": "SCHOLES",
+      "sentences": "All right. Dayton, meanwhile, looked like they were just toast against Nevada. They were down 17 with 7Nate Santos here with a big bucket to put Dayton up one with 38 seconds. And Nevada -- their last-second three no good. Dayton moves on after an incredible comeback winning that one 63-60. And LeBron James high school coach Keith Dambrot. Duquesne, meanwhile, dancing into the second round. The Dukes taking down BYU 71-67 in one of those 11-seed upsets. And this was Duquesne's first tournament win since 1969. Now, Dambrot already announced he's retiring after this run but that's going to have to wait because now they've got a date with Illinois in the second round. (BEGIN VIDEO CLIP) KEITH DAMBROT, HEAD COACH, DUQUESNE:  They just won't let me retire, man. I'm trying to retire but we keep winning games. They're going to make me an old man. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:55:00",
+      "speaker": "HUNT",
+      "sentences": "All right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:55:00",
+      "speaker": "SCHOLES",
+      "sentences": "I'm hoping we go all the way.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:55:00",
+      "speaker": "HUNT",
+      "sentences": "We'll be watching it for you, Andy.My bracket is pretty busted -- I'm not going to lie. But that 11-seed advice, phenomenal. It was really good.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:55:00",
+      "speaker": "SCHOLES",
+      "sentences": "Yeah.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:55:00",
+      "speaker": "HUNT",
+      "sentences": "Next year, I'm doing it -- I'm picking all of them.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:55:00",
+      "speaker": "SCHOLES",
+      "sentences": "Just listen to me. Listen to me next year, Kasie.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:55:00",
+      "speaker": "HUNT",
+      "sentences": "I -- you now -- clearly.Andy, thank you very much.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:55:00",
+      "speaker": "SCHOLES",
+      "sentences": "All right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:55:00",
+      "speaker": "HUNT",
+      "sentences": "Have a great weekend.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:55:00",
+      "speaker": "SCHOLES",
+      "sentences": "You, too.",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

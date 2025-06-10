@@ -1,0 +1,541 @@
+{
+  "date": "2022-11-25",
+  "headline": "CNN Newsroom",
+  "subHeadline": "Ukraine Races To Restore Power As War Enters Tenth Month; CNN Witnesses Struggle Of Ukrainians Who Fled Homes; E.U. Energy Ministers Fail To Agree On Gas Price Cap; U.N. Passes Resolution To Investigate Protest Crackdown; Ronaldo The First Male Player To Score In Five World Cups; Russia Duma Approves Bill Toughening \"LGBT Propaganda\" Law; Hong Kong Cardinal Found Guilty in Protest Fund Trial; Biden and Xi Face Off in Microchip War; U.S. Urges De-escalation as Turkey Targets Kurds in Syria; African Leaders' Agreement Calls on Rebels to Withdraw; Venezuela Government, Opposition Agree to Restart Formal Talks; Cuba Hopes to Attract Visitors with Shark Tourism. Aired 1-2a ET",
+  "utterances": [
+    {
+      "timeStamp": "01:01:08",
+      "speaker": "MICHAEL HOLMES, CNN ANCHOR",
+      "sentences": "Hello and welcome. Coming to you live from Studio 7 at the CNN Center in Atlanta, I'm Michael Holmes. Appreciate your company. Coming up on CNN Newsroom, constant blackouts, freezing temperatures, no running water. Ukrainians try to adapt without access to the basic needs.Cristiano Ronaldo makes history in Qatar just days after a turbulent departure from Manchester United. And later, swimming with sharks. Why there's a big effort to save the predators.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:01:08",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Live from CNN Center, this is CNN Newsroom with Michael Holmes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:01:08",
+      "speaker": "HOLMES",
+      "sentences": "Ukraine entering its 10th month of the war in a race to bring the lights back on. Officials say the country is now receiving about half of its usual power supply. More power plants are slowly coming back online, but Ukrainians say the process is taking a while because Russian strikes left so much of the country in the dark on Wednesday.The attacks initially cut the water supply in Kyiv, forcing residents to wait in line for water before service was restored. In one hospital, doctors had to perform a heart surgery by flashlight because power went out halfway through the procedure. President Zelenskyy spoke about power outages on Thursday. (BEGIN VIDEO CLIP) VOLODYMYR ZELENSKYY, UKRAINIAN PRESIDENT (through translation): The electricity situation remains difficult in almost all regions. We are gradually recovering from the blackout little by little. With every hour, we restore power to more consumers. The most difficult situation is now in the capital and 15 regions. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:01:08",
+      "speaker": "HOLMES",
+      "sentences": "Meanwhile, at least seven people are dead after Russian artillery attacks on the city of Kherson on Thursday. 21 other people injured in what Mr. Zelenskyy called revenge for Russia's recent defeat and forced pullout from the city. Russian attacks have forced many Ukrainians to flee their homes, and with lives in limbo, they're now relying on aid deliveries to get them through.As CNN's Matthew Chance saw firsthand in Odesa, they're still facing an uphill battle.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:01:08",
+      "speaker": "MATTHEW CHANCE, CNN SENIOR INTERNATIONAL CORRESPONDENT",
+      "sentences": "Right. Well, all over Ukraine, people -- because of the Russian missile strikes -- are being forced to abandon their towns and villages and their homes and come to receptions like sensors like this one in a desert, to try and get some basic supplies.What kind of things do you have here? I'm asking her.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:01:08",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "(Speaking Foreign Language)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:01:08",
+      "speaker": "CHANCE",
+      "sentences": "What's that? All right. OK. Sanitizer, sanitizer. Yes, soap. Food as well. That's flower. Yes. River, you know, fish, it's tin fish. So all sorts of things. Some of it, of course, given by private donors. You can see some of it from USAID, AID from USAID organization, the government aid organization. And it is really just scratching the surface when it comes to the humanitarian needs.All right. Well, we've come inside the reception center. And you can see there are people who are crowded in here giving their details so they can receive some of this aid distribution. I'm going to speak to one of the organizers here. Victoria, hi. Have you got a minute?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:01:08",
+      "speaker": "VICTORIA POPOVA, VOLUNTEER",
+      "sentences": "Hi.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:01:08",
+      "speaker": "CHANCE",
+      "sentences": "Yes. Hi. How many --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:01:08",
+      "speaker": "POPOVA",
+      "sentences": "Hello.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:01:08",
+      "speaker": "CHANCE",
+      "sentences": "Thank you. How many people do you look after every day here in the center?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:01:08",
+      "speaker": "POPOVA",
+      "sentences": "Every day, we have from 500 to 700 families --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:01:08",
+      "speaker": "CHANCE",
+      "sentences": "Families?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:01:08",
+      "speaker": "POPOVA",
+      "sentences": "-- a day. Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:01:08",
+      "speaker": "CHANCE",
+      "sentences": "So that's how many people?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:01:08",
+      "speaker": "POPOVA",
+      "sentences": "I cannot count how many.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:01:08",
+      "speaker": "CHANCE",
+      "sentences": "That's more than 1,000, right?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:01:08",
+      "speaker": "POPOVA",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:01:08",
+      "speaker": "CHANCE",
+      "sentences": "Yes, it's a lot. And is that number increasing?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:01:08",
+      "speaker": "POPOVA",
+      "sentences": "It goes up. The quantity goes up. I don't know. It's very hard because these three days we had no light.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:05:06",
+      "speaker": "POPOVA",
+      "sentences": "And, you know, a lot of houses are totally depends on light, so.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:05:06",
+      "speaker": "CHANCE",
+      "sentences": "Yes. It's like people got no electricity.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:05:06",
+      "speaker": "POPOVA",
+      "sentences": "Yes. We have no warmth, we have no --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:05:06",
+      "speaker": "CHANCE",
+      "sentences": "No heating.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:05:06",
+      "speaker": "POPOVA",
+      "sentences": "Yes, yes, so.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:05:06",
+      "speaker": "CHANCE",
+      "sentences": "No heating. Well people can't cook food and keep warm.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:05:06",
+      "speaker": "POPOVA",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:05:06",
+      "speaker": "CHANCE",
+      "sentences": "All right, well, just outside the reception center, we found this food kitchen that's been set up here in the center of Odesa, which is obviously giving people perhaps the only hot meal they can get in these very difficult times of power cuts, food shortages. It's been here, this facility, for some years before the war, but in the past few months, the situation has got a lot worse.Refugees, displaced people from around Ukraine are highly dependent on this. And the humanitarian situation in the country because of the Russian missile strikes and the ongoing conflict is getting a lot worse. Matthew Chance, CNN, in the center of Odesa in southern Ukraine.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:05:06",
+      "speaker": "HOLMES",
+      "sentences": "For more, I'm joined by Vladimir Shulmeister, a former First Deputy Minister of Infrastructure in Ukraine. He's also the founder of the nonprofit Infrastructure Council. I appreciate you making the time. So when we talk about these energy attacks, these attacks on the energy grid, how widespread is the damage, because of course you have the flow on effects, don't you? Water supply, health care, food and medicine storage and so on.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:05:06",
+      "speaker": "VLADIMIR SHULMEISTER, FORMER UKRAINIAN FIRST DEPUTY INFRASTRUCTURE MINISTER",
+      "sentences": "Good morning. Indeed Ukrainians, they have to get used to new way of living when their civilians are terrorized by Russian Federation and they have to get used live without electricity, without water, without heating, and recently, also with some problems with mobile networks and internet. The damages acquired severe, that's why we have these consequences. And people, they are already for several weeks trying to buy generators, accumulators, but it doesn't help a lot. So actually, what needs to be done is to -- the grid needs to be repaired, the power supply needs to be restored, and this indeed takes some time.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:05:06",
+      "speaker": "HOLMES",
+      "sentences": "You know, there are those who would say that in many ways, attacks on energy infrastructure in a time of war are effective in some ways, just as effective in some ways as damaging frontline battles. It's a weapon of war. The President Zelenskyy said, these are terror attacks, crimes against humanity. Would you agree?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:05:06",
+      "speaker": "SHULMEISTER",
+      "sentences": "Absolutely. This is terrorizing civilians. The main goal of that is that civilians, Ukrainians they would put pressure on the government, on the President to change their line in the war, to make some steps towards the enemy. But actually, Putin achieve totally another goal. Ukrainians get stronger, they get definite in the original goal to be independent.And actually what is happening now, these Ukrainians become real nation. So this consolidation of nation takes place and Ukrainians get national idea to be independent of Russia.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:05:06",
+      "speaker": "HOLMES",
+      "sentences": "You know, I will say, I've been through Ukrainian winter or at least a couple of months of it and it is tough. I mean, trying to get people a sense of how much this hurts, the people though at this particular time of year, how it affects their daily lives. It can be brutally cold.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:05:06",
+      "speaker": "SHULMEISTER",
+      "sentences": "Yes, indeed. My mother is now in Kyiv, my brother is in Odesa, and I get daily information from them. And it's really tough. When -- my mother lives on the 20th floor and she doesn't have any possibility to go down and up. She's now 74. So she's waiting until electricity is there so they can buy something.So people become dependent on this situation. But they are really angry on Russia and they keep fighting. It doesn't matter where they are, what they do, they are definite in the struggle against Russia in this world.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:10:00",
+      "speaker": "SHULMEISTER",
+      "sentences": "It's getting stronger and stronger. I read a lot of articles on Facebook of Ukrainians and I see that they become stronger in this fight. It's, you know, the situation is similar to Putin was trying to move NATO out of the borders of Russia, and now you see that Finn and Sweden is getting to NATO.So actually, Putin reaches totally opposite goals and the same is happening now with Ukrainians. But they will -- they become stronger and they become more decisive in their struggle, in their fight. HOLMES: Yes, it certainly appears so. That the opposite of what Vladimir Putin wants is happening. Vladimir Shulmeister, we're going to leave it there. I really appreciate you making the time. Thanks so much.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:10:00",
+      "speaker": "SHULMEISTER",
+      "sentences": "Thank. Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:10:00",
+      "speaker": "HOLMES",
+      "sentences": "Europe's plans to keep a lid on gas prices have been called a joke, as E.U. leaders have failed to agree on a deal to bring down energy bills. They gathered for an emergency meeting in the hope of agreeing on a price cap for natural gas. But the talks ended with no deal, some calling the plan ineffective, others not wanting a price cap at all. Leaders will now try again next month. Poland's climate minister said no one could be happy with the outcome.(BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:10:00",
+      "speaker": "ANNA MOSKWA, POLISH CLIMATE MINISTER",
+      "sentences": "The gas price cap, which is in the document currently, it doesn't satisfy any single country. It's a kind of joke for us after so many amounts of discussions and proposals, written proposals which were presented by member states.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:10:00",
+      "speaker": "HOLMES",
+      "sentences": "Meanwhile, Russian President Vladimir Putin is warning Western leaders that any plan to cap oil prices would have, in his view, grave consequences. Amid all of the fighting, there was a rare moment of celebration.Russia and Ukraine exchanging 100 prisoners of war on Thursday. The Russian Defense Ministry says it's 50 soldiers will be taken to Moscow for evaluation and treatment. Ukraine's presidential office reports two officers were among its 50 soldiers. They were captured in battles in Mariupol, Snake Island and around the churnable nuclear power plant. Ukraine says nearly 1,300 of its soldiers have been released by Russia since Russia invaded back in February. The U.N. Human Rights Council has voted to investigate Iran's deadly crackdown on protesters. Hundreds of people marching in the capital of Tehran on Thursday night. Iranian authorities accused of committing widespread abuses as they tried to put down the movement that started more than two months ago now. It began, of course, with the death of 22-year-old Mahsa Amini, while in morality police custody back in September. Iran's representative called the U.N. resolution, quote, completely biased and said it did not reflect facts or realities. But in the end, 26 countries voted in favor. Here's the U.N.'s human rights chief. VOLKER TURK, U.N. HIGH COMMISSIONER OF HUMAN RIGHTS: The unnecessary and disproportionate use of force must come to an end. The old methods and the fortress mentality of those who wield power simply don't work. In fact, they only aggravate the situation. We are now in a full- fledged human rights crisis. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:10:00",
+      "speaker": "HOLMES",
+      "sentences": "More now on the investigation from CNN's Jomana Karadsheh, reporting for us from Istanbul.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:15:16",
+      "speaker": "HOLMES",
+      "sentences": "Now, just days after his bad breakup with Manchester United, Cristiano Ronaldo makes World Cup history and kick starts a flurry of goals. And once again, also when we comeback, lawmakers targeting Russia's gay community with new amendments to an already discriminatory law.(COMMERCIAL BREAK)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:15:16",
+      "speaker": "HOLMES",
+      "sentences": "Well, every country competing in the World Cup has now finished at least one match, and two of the tournament's favorites are celebrating big wins. Portugal overcame Ghana 3-2, with star Cristiano Ronaldo becoming the first male player to score in five World Cups. And top ranked Brazil beat Serbia two nil.Don Riddell with the latest from Doha.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:20:04",
+      "speaker": "HOLMES",
+      "sentences": "Thanks to Don Riddell. And joining me now from London, Darren Lewis, who is an assistant editor and columnist at the Daily Mirror. That's not an argument. It's going to be settled.I want to get to Manchester United with you in just a moment, but let's talk about Ronaldo, five-time Ballon d'Or winner, first player now to score in five people World Cup. Just a sense for those who don't know, how much of an achievement that is? DARREN LEWIS, ASSISTANT EDITOR &amp; COLUMNIST, DAILY MIRROR: It is massive. He's a legend. And I think it's even more of an achievement because he's 37 years of age, that some players aren't even playing at 37 years of age, let alone playing at the highest level, scoring goals at the highest level. And it comes, you know, Michael, at the end of a really difficult week for him. He'd done that interview with the broadcaster Piers Morgan for his outlet. He was highly critical of the club, Manchester United, of the Custodians, of the manager, of some of the younger players, of the facilities at the club as well. So it's quite interesting that many United fans had made it in good rhythms. They were of the opinion that the club were moving backwards with him in it. Even in Portugal, I've got to tell you, one of the Dailies back in September had a headline which basically said, less Ronaldo, more Portugal. They, too --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:20:04",
+      "speaker": "HOLMES",
+      "sentences": "Wow.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:20:04",
+      "speaker": "LEWIS",
+      "sentences": "-- felt that the country could move forward without him.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:20:04",
+      "speaker": "HOLMES",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:20:04",
+      "speaker": "LEWIS",
+      "sentences": "So this last night was a wonderful repost to all of them and a massive victory for Brando Analda (ph).",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:20:04",
+      "speaker": "HOLMES",
+      "sentences": "Yes, shut down the noise. You mentioned Manchester United. I wanted to ask you this and we'll come back to the World Cup. But Man U could be up for sale. The price estimates are as high as a staggering $6 billion. ESPN, I think, said $7 billion.Some are suggesting Tim Cook and Apple might be interested. How attractive is the club in a sales sense?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:20:04",
+      "speaker": "LEWIS",
+      "sentences": "Well whenever the travails of Manchester United, Michael, they are one of the biggest clubs in the world and one of the biggest brands in the world, and they still have a wonderful set of players. They've got a top manager as well. They're resurgent in the Premier League, as things stand, with 14 wins from their last 21 matches. So they're in good shape.I think, as far as how attractive they would be to investors, well, we know that Sir Jim Ratcliffe, the billionaire, is interested, as it always appears to be in some of the biggest clubs in the Premier League. Tim Cook said in 2019 that sports a great unifier. He has that interest in the MLS at the moment, Major League Soccer. I know Don was talking a second ago about soccer versus football, so I don't want to confuse anybody there. And we also know that there's big Saudi interest in the Premier League. It is one of the biggest brands in world sport. It's sold to 212 territories around the world and it is massive. So there will be big interest in Manchester United. They're a formidable club, they've got a formidable history, and I expect some very big hitters to get involved.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:20:04",
+      "speaker": "HOLMES",
+      "sentences": "If Apple buys, and I suppose, they could get an update every few months. I'm not going to go there. Back to the football. So we're a few days in, there have been several upsets. Japan beat Germany. The Saudis beat Messi's Argentina. And I wanted to show a tweet a bit because after the Japan match, you tweeted simply, \"This World Cup.\" What's your take on how it's all going so far?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:25:05",
+      "speaker": "HOLMES",
+      "sentences": "Wow.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:25:05",
+      "speaker": "LEWIS",
+      "sentences": "So that was some achievement by them.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:25:05",
+      "speaker": "HOLMES",
+      "sentences": "Absolutely. And I must point out that Australia were defeating current reigning champions France for about -- 10 minutes. But I digress. I'm curiously, you know, and you talk about the powerhouses, obviously, you know, your Brazil's and your Germany's. Have some of the results shown, though, that can anyone win on a given day? Or do you think the sports giants are eventually going to face off in the final? Does a Minnow have a chance to play for the Cup?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:25:05",
+      "speaker": "LEWIS",
+      "sentences": "I think a strong team, a powerhouse, as you quite correctly put it, would probably win this World Cup. We have seen shocks in the major tournaments before. Greece, for example, were winners of the European Championship in 2004, but I think they were outliers. Generally, it's one of the superpowers, but what this tournament so far has shown us is that the gap is closing between the super powers and the so-called smaller nations.The African champion Senegal are a formidable team. The Japanese have 19 of their 26 squad members playing European football. I do believe there is a new world order emerging. You look at Qatar and the investment that they've put in their football facilities. And around the Asian region, the money that's being invested, they want to catch the Europeans and the South Americans up. And I think the evidence of the first few days of this World Cup suggests that they're taking a few steps.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:25:05",
+      "speaker": "HOLMES",
+      "sentences": "Yes, yes. Fascinating, always love chatting with you, Darren. Always a good chat. Darren Lewis, thanks so much. I appreciate you getting up early today.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:25:05",
+      "speaker": "LEWIS",
+      "sentences": "Really appreciate it. Thank you, Mike.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:25:05",
+      "speaker": "HOLMES",
+      "sentences": "All right, talk to you soon.Now, the Wales Football Association says FIFA has confirmed that rainbow colored items will be allowed inside all World Cup stadiums. Now, that's despite FIFA banning European team captains from wearing \"OneLove\" armbands that feature a rainbow hat. The Wales Football Association tweeted that they urged FIFA to, quote, \"Adhere to their message that everybody will be welcomed in Qatar during the World Cup and continue to highlight any further human rights issues. We remain with the belief that football is for everyone.\" Well the lower house of Russia's parliament has passed amendments which toughen the law banning so called LGBT propaganda, as it's called. Once it goes into law, it will mean that anyone who promotes or praises homosexuality could end up with a heavy fine. More now from CNN's Fred Pleitgen in Moscow.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:25:05",
+      "speaker": "FREDERIK PLEITGEN, CNN SENIOR INTERNATIONAL CORRESPONDENT",
+      "sentences": "So this so called LGBT propaganda law was passed by the lower house of Russian parliament, by the state Duma. And gay activists here in this country say that it essentially could criminalize being openly gay in Russia.Now, according to the text of all of these, it bans praising nontraditional sexual relationships or suggesting that they are normal. Now, all this really pertains to all facets of the public sphere. We're talking about media, radio, television, also the Internet as well, but even books. And the fines are really steep. It ranges from thousands of dollars for individuals to tens of thousands of dollars for legal entities or companies. And if you're talking about foreigners, they face up to 15 days in prison and then possibly being deported. Now, we were watching some of the proceedings in Russian parliament, and essentially what the lawmakers there were suggesting is that they believe that the west was trying to spread homosexuality here in Russia and undermine traditional Russian values. In fact, the speaker of Russian parliament called this law the answer to Blinken. Of course, talking about the U.S. Secretary of State. Well listen in to some of what the speaker parliament had to say. (BEGIN VIDEO CLIP) VYACHESLAV VOLODIN, CHAIRMAN OF RUSSIA'S STATE DUMA (through translation): It is the best answer to the United States Secretary of State Blinken. Stop imposing on us foreign values. You destroyed your values. We'll see how it ends. But that is sad for sure, because it is sodomy. I can't say it in any other way. The United States of America has become the global center of this sodomy. Let them live there. Do not touch us. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:29:55",
+      "speaker": "MICHAEL HOLMES, CNN ANCHOR",
+      "sentences": "For the second day in a row, China has set a new high for daily COVID infections. It recorded more than 32,000 new cases on Thursday. Big outbreaks have been occurring across the country, with the southern city of Guangzhou and southwestern Chongqing reporting the bulk of new infections.Meanwhile, a verdict has been reached in a high profile trial in Hong Kong. An elderly cardinal and several others were accused of helping pro-democracy protesters. We'll have a live report from our own Anna Coren in Hong Kong in just a moment. (COMMERCIAL BREAK)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:29:55",
+      "speaker": "HOLMES",
+      "sentences": "In Hong Kong, we have a verdict in the trial of a Catholic cardinal and five others. 90-year-old Cardinal Joseph Zen and the other defenders have been found guilty of failing to register a relief fund that helped pro democracy protesters. Zen has been an outspoken critic of China's ruling communist party.Let's get more on the high profile trial from CNN's Anna Coren, joining me live from Hong Kong. So Anna, how did this all unfold? It wasn't perhaps what the Chinese authorities expected or set out to do.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:34:58",
+      "speaker": "COREN",
+      "sentences": "They were all found guilty and they were each fined roughly $500 U.S. So you think, national security law, potential life imprisonment. And they're walking away now with a $500 U.S. fine.The reason being is that this fund they had set up was providing financial and legal assistance to about 2,000 protesters. Remember, the pro democracy movement here in Hong Kong in 2019, where, you know, at one stage, two million people took to the streets. In total about 10,000 people were arrested over those months. This fund, this one humanitarian relief fund, was supporting 2,000 of those protesters. In those two years, it raised something like $35 million U.S., an extraordinary amount of support. Well, the national security law comes in. The police then demand that they hand over the list of donors and beneficiaries. The fund is disbanded and, you know, that is where police then built this national security law case against Cardinal Zen and these five other activists. That didn't go the way that the authorities had planned. So instead it's this, you know, technical administrative era that they have carried out. You know, critics, obviously are saying, Michael, this is incredibly petty of authorities. But as you said, Cardinal Zen, an outspoken critic of the CCP and of the Hong Kong government's very controversial national security law.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:34:58",
+      "speaker": "HOLMES",
+      "sentences": "Yes. And meanwhile, what does the Vatican have to say about this? That's a complicated issue too.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:34:58",
+      "speaker": "COREN",
+      "sentences": "Yes, very complicated. This comes at a highly sensitive time for the Vatican. We haven't heard from Pope Francis or from the Vatican. It has just gone after 7But at the heart of this matter is this deal, if you like, that the Vatican has done with the Chinese government, allowing the CCP to basically appoint Catholic bishops in China. This was a deal they struck back in 2018. And Cardinal Zen, Michael, has been, you know, a very outspoken critic of this. He said the deal was a sellout of China's underground Catholics. These are Catholics who are remaining loyal to Rome, not to the CCP. He said that the deal would legitimize the CCP's control over China's Catholics and that, quote, \"be like giving the flock into the mouth of the wolves\".",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:34:58",
+      "speaker": "HOLMES",
+      "sentences": "All right. Anna, appreciate the update. Anna Coren there in Hong Kong for us. Good to see you.Now the U.S. and China are locked in a battle over microchips and it is a fight that is stretching global supply chains to their limits. Selina Wang now takes a look at how U.S. President Joe Biden's Chips Act, banning certain high tech exports to China, is hurting Beijing's technological ambition. (BEGIN VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:34:58",
+      "speaker": "SELINA WANG, CNN CORRESPONDENT",
+      "sentences": "China wants its two million strong military combat-ready but war is already playing out between the U.S. And China on the technological battlefield.New export controls from the Biden administration choked off on China's access to advanced computer chips, throttling China's high tech ambitions.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:34:58",
+      "speaker": "JOE BIDEN, PRESIDENT OF THE UNITED STATES",
+      "sentences": "those Chinese computer chips --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:34:58",
+      "speaker": "WANG",
+      "sentences": "Washington upping the ante just weeks before U.S. President Joe Biden and Chinese leader Xi Jinping met in Bali, where they promised to stabilize U.S.-China relations. But fierce competition on technology set to intensify despite the handshakes and smiles.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:34:58",
+      "speaker": "ARTHUR DONG, MCDONOUGH SCHOOL OF BUSINESS, GEORGETOWN UNIVERSITY",
+      "sentences": "This act is unprecedented in terms of modern times. This certainly poisoned the waters further.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:34:58",
+      "speaker": "WANG",
+      "sentences": "The goal? To protect America's national security interests by stopping China from advancing its military capabilities that Washington says includes weapons of mass destruction.But America's latest move hits virtually of China's industries, because almost everything has a chip in it -- your smartphone, car, refrigerator.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:34:58",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "This has had a tremendous effect on the Chinese economy.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:34:58",
+      "speaker": "WANG",
+      "sentences": "Beijing claims Washington is strangling the country by the neck. China's read out of Biden and Xi's meeting at the G20 said, starting a trade war or a technology war pushing for decoupling and severing supply chains run counter to the principles of market economy. Such attempts serve no one's interests.China has poured billions of dollars and years of efforts into building its semiconductor industry, but it still lags far behind the U.S., Taiwan and South Korea.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:39:52",
+      "speaker": "WANG",
+      "sentences": "Xi Jinping is urging the country to be self-reliant in technology and innovation, telling chip engineers at a factory to \"grasp the life blood of technology in our own hands\" and prepare for even more restrictions from Washington.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:39:52",
+      "speaker": "JORDAN SCHNEIDER, ANALYST, RHODIUM GROUP",
+      "sentences": "I expect these types of export controls to be rolled out and lots of other key strategic industries.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:39:52",
+      "speaker": "WANG",
+      "sentences": "The new rules bar the exports to China of advanced chips made anywhere the world using U.S. technology, bans U.S. companies from selling tools needed to make those chips, restricts Americans from supporting chip development at certain manufacturing facilities in China, cutting China off from critical talent.The U.S. sees China as its biggest long term strategic threat that has the power and intent to reshape the international order, so Washington wants to stop selling anything to China that could later be used against the U.S. But as China turbochargers its homegrown industries, the battle for technology supremacy is only beginning. Selina Wang, CNN -- Beijing. (END VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:39:52",
+      "speaker": "HOLMES",
+      "sentences": "A quick break now for us. When we come back, the U.S. is calling for a de-escalation of tensions as Turkey launches an aerial assault on Kurds in Syria. We will have the very latest coming up.(COMMERCIAL BREAK)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:39:52",
+      "speaker": "HOLMES",
+      "sentences": "The Taliban have resumed public floggings for people charged with crimes in Afghanistan. According to a statement from the Afghan Supreme Court, the Taliban supreme leader has ordered the punishment for men and women convicted of adultery, robbery and other offenses. It's the latest sign that the country is returning to hardline rule, governed by Sharia law.The Taliban have been harshly criticized for their treatment of women and girls, where the latter are forbidden from attending school beyond on the sixth grade. U.S. Officials are urging Turkey to end its aerial assault on Kurdish forces in northern Syria. Turkey has been targeting what it calls terrorists in the region, following an explosion in Istanbul that killed six people last week. One of the Kurdish groups is the SDF, a key ally in the U.S. fight against ISIS, while Turkey is a critical NATO ally. The U.S. State Department calls the Turkish actions destabilizing and says they're putting civilians and U.S. personnel in danger. CNN's Scott McLean with the latest. (BEGIN VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:44:53",
+      "speaker": "MCLEAN",
+      "sentences": "Turkey has not yet responded to the claims but previously said that it had hit almost 500 targets in Syria since the start of its recent operation in response to a terror attack in central Istanbul less than two weeks ago that Turkey blames on Kurdish groups that it considers terrorists. Those groups deny the claims.This has put the United States in a very uncomfortable position. It is Turkey's NATO ally, but it is also allied with the SDF in fighting what's left of the Islamic state. The U.S. says that a Turkish strike on an SDF and coalition forces base in Syria on Tuesday, directly threaten the safety of Americans, though none were hurt. The U.S. has called on Turkey to immediately de-escalate the situation but so far, diplomatic efforts and public statements have done nothing to get Turkey to change course. On Wednesday, President Recep Tayyip Erdogan even floated the possibility of sending ground troops across the border into Syria. Scott McLean, CNN -- London. (END VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:44:53",
+      "speaker": "HOLMES",
+      "sentences": "A diplomatic agreement to end the violence in the eastern part of the Democratic Republic of Congo could be in jeopardy. Earlier this week leaders from several central African countries signed the agreement, calling for a cease-fire that is due to take effect today. It calls on the M23 rebel group to withdraw from occupied territories of the DRC.But Agence France-Presse reports that the rebels say the agreement does not concern them because they weren't part of the summit. Zain Asher reports on the regional force that could be deployed if diplomacy fails. (BEGIN VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:44:53",
+      "speaker": "ZAIN ASHER, CNN CORRESPONDENT",
+      "sentences": "Soldiers with the Kenya Defense Forces arrive at Goma airport in the Democratic Republic of the Congo. These members of the East African Community Regional Force are part of an operation hoping to stabilize the region as fighting between the DRC's army and M23 rebels intensifies.As the M23 advance closer to the eastern city of Goma, the KDAF military commander says that his priority is both diplomacy and disarming the rebels. MAJ. GEN. JEFF NYAGAN, COMMANDER, EAST AFRICAN CMTYR REGIONAL FORCES: We have over 120 armed group to the DRC. And they have instigated significant degree of insecurity. If these two tracks fail then we will automatically transit to the (INAUDIBLE) track. That is military action.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:44:53",
+      "speaker": "ASHER",
+      "sentences": "Tensions have flared in recent days, forcing hundreds to flee their homes to makeshift camps in the village of Tobaki (ph), about 15 kilometers north of Goma.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:44:53",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "It was the day before yesterday when I decided to flee my home because of the detonations. There were several detonations. I decided this because I did not want to die in the village.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:44:53",
+      "speaker": "ASHER",
+      "sentences": "This is just the latest wave of displacement. According to the United Nations, more than 262,000 people have fled their homes since March, when the violence began.M23 stands for the March 23 movement. Originally part of the Congolese military, they are mostly made up of Congolese Tutsis, who claim they want to protect Tutsis from Hutu military. The group has staged a major comeback in the eastern DRC this year since being chased into Rwanda and Uganda in 2013. The renewed fighting has caused diplomatic hostility between the DRC and Rwanda, as Congo accuses its neighbor of backing the rebels, a claim Rwanda denies. In his first state visit to the Congo, Kenyan President William Ruto met with the Congolese president and assured him that the Kenyan military would remain in the country as long as necessary to help subdue the instability.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:44:53",
+      "speaker": "WILLIAM RUTO, KENYAN PRESIDENT",
+      "sentences": "A peaceful and secure and stable eastern DRC and DRC is not only good for the people of Congo, it is good for the people of our region. And it is also good for the people of Kenya.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:44:53",
+      "speaker": "ASHER",
+      "sentences": "Uganda says it plans to deploy a thousand troops to the Congo by the end of the month, making it the third country to be part of the regional force after soldiers from Burundi also arrived in the area.Children line up for cups of porridge provided by volunteer groups as more people arrive at the camps. As efforts are being made to restore peace, the fighting continues and the humanitarian situation grows more dire each day. Zain Asher, CNN. (END VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:49:52",
+      "speaker": "STEFANO POZZEBON, JOURNAL",
+      "sentences": "In two coordinated statements published on Thursday, the delegations of the Venezuelan government and the opposition have announced they will travel to Mexico on Saturday to sign an agreement to facilitate international aid in the country as well as restart a negotiation process that has been halted for more than a year.The agreement was brokered by Norway with the support of Mexico and the United States, all of whom welcomed the news on Twitter. The announcement came after months of painstaking rapprochement between the two parties as well as years of deep political crisis in the South American nation. According to two sources with knowledge of the process who spoke with CNN, the talks will gather around three main areas. The creation of a fund to address the Venezuelan humanitarian crisis managed by the United Nations and backed by Venezuelan foreign reserves. The partial relief of U.S. Treasury sanctions on the Venezuelan oil industry, and the guarantees of free and fair elections to elect the new Venezuelan president. Venezuela has been suffering a deep economic downfall since 2014 due to chronic mismanagement and the collapse of the price of oil. To this day, still 80 percent of Venezuelans live below the poverty line, according to an independent survey by the Andres Bello Catholic University in Caracas. And according to the United Nations, over 7 million Venezuelans have fled the country in recent years to escape the crisis. For CNN, this is the Stefano Pozzebon, Bogota. (END VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:49:52",
+      "speaker": "HOLMES",
+      "sentences": "Still to come on the program, we will go swimming with the sharks, as Cuba dives deep to feed its tourism income and help the environment as well.(COMMERCIAL BREAK)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:49:52",
+      "speaker": "HOLMES",
+      "sentences": "Twitter CEO Elon Musk says he will restore most of the accounts that were banned by the social media platform's previous management. This after he pulled followers on Wednesday, not very scientific, about whether to offer, quote, \"general amnesty\" to suspended accounts if the account holders had not broken the law.The poll got more than 3 million votes, according to Musk, with about 72 percent in favor, according to Musk. And so on Tuesday he tweeted, quote, \"The people have spoken. Amnesty begins next week.\" Well last week, Musk announced he would reinstate Donald Trump's Twitter account after another poll showed a slight majority in favor of doing so. Trump was banned after the attack on the Capitol on January the 6th, 2021. The waters of eastern Cuba our teeming with sharks and the island nation is letting visitors swim with them so they can learn how important sharks are to our world and also to boost tourism. Patrick Oppmann takes us underwater for the story. (BEGIN VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:54:57",
+      "speaker": "OPPMANN",
+      "sentences": "Local guides say this is the only place in Cuba, perhaps one of only a handful in the world where divers can safely swim alongside bull sharks. We're taking them at their word, praying the sharks had a big breakfast.Bull sharks are considered some of the most aggressive in the world, but the ones we see seem mostly curious, swimming around me closer look before gliding away. Guy Glasrose (ph) says they wants to teach visitors to respect sharks and to protect them. \"The shark is the perfect machine and the perfect predator,\" he says. \"It's inspiring, emotional and satisfying to interact with them\". Marine biologists say robust shark populations are necessary to maintain a healthy coral reefs. In 2015, Cuba placed restrictions on shark fishing, one of an increasing number of countries in the Caribbean to realize that sharks are not only important to the environment but a way to attract visitors. People in the Caribbean used to commonly catch and kill sharks either for food or because they were considered a nuisance. But more and more countries in this region are now taking steps to protect sharks. It's not just about conservation, shark tourism, visitors specifically coming to a country to dive with sharks can generate millions of dollars in revenue. Just before her first dive with sharks, Canadian tourist Carrie (ph) tells us she has been terrified at them ever since seeing \"Jaws\".",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:54:57",
+      "speaker": "CARRIE PREVOST, DIVING WITH SHARKS",
+      "sentences": "I watched the movie very young, and I was even afraid to swim in pools, let alone the ocean. So this is a challenge to overcome. OPPMANNthe minimum bait necessary. They say they've never had an attack involving a client or guide and that people who come to dive here gain a new perspective on sharks. \"It's the myth of the shark being dangerous, a man eater that is aggressive,\" he says. \"Then you manage to see a shark a meter and a half away from you, and when you come out the water, they say this is the best dive of my life.\" The sharks we swim with are undeniably powerful and also incredibly beautiful. At the top of the food chain but never seeming to threaten us. And they said that the shot of adrenaline in the arm, they were not kidding. And I want to admit to being afraid, but they are very impressive creatures. Creatures that there are now more and more reasons to try and protect. Patrick Oppmann, CNN, Playa Santa Lucia, Cuba. (END VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

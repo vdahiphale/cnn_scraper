@@ -1,0 +1,679 @@
+{
+  "date": "2023-07-16",
+  "headline": "CNN Newsroom",
+  "subHeadline": "Weather Conditions Cause Flight Disruptions Across Northeast; American Woman Released In Mexico; White House: Europe Can Train Ukrainian Soldiers On F-16 Fighter Jets. Aired 3-4p ET",
+  "utterances": [
+    {
+      "timeStamp": "15:01:18",
+      "speaker": "FREDRICKA WHITFIELD, CNN HOST",
+      "sentences": "Hello again, everyone. Thank you so much for joining me. I'm Fredricka Whitfield.And we continue to follow Breaking News on this weekend of weather extremes. Right now, a travel nightmare across the Northeast as major airports issue ground stops because of severe storms moving through the area. More than a thousand flights have been canceled so far today, and thousands more have been delayed. Let's go straight to CNN's Polo Sandoval live for us in New York. What's the latest?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:01:18",
+      "speaker": "POLO SANDOVAL, CNN CORRESPONDENT",
+      "sentences": "And I hate to be the one to say, too, Fred, but it is bound to get worse, especially when you look at what the National Weather Service is currently saying in terms of what is expected in the coming hour or two.In fact, all you have to do is look at the radar to see a large presence of rainfall slowly making its way to the northeast, and that's why weather officials have issued a flash flood warning in effect for at least the next hour, it certainly wouldn't be surprising if there is any sort of modification there in terms of an extension. The thing here though, is that that has potential to affect at least five million people in the New York, New Jersey, Connecticut tristate area. This is why officials are essentially trying to get us up ahead by issuing that warning. I can tell you from our perspective here in Manhattan, except for a small drizzle, you wouldn't really know it. But again, just looking at that radar shows that large weather presence that's making its way here and also a reminder that these warnings are being issued after what was a deadly last 24 hours in Pennsylvania where at least four people have been confirmed dead in floodwaters. The concern at least for now is that the situation will certainly get worse. So there is the human toll, but also just the logistical nightmarish travel that is certainly going to be in store for many people. When you look at the rate of flight cancellations and delays at major American airports, that's certainly going to add up for some -- for some further trouble. So this is certainly going to be something to continue to monitor in the coming hours. Of course, our weather experts can be tracking this as well as this large weather system continues to set its sights on the New York, New Jersey areas as far as Philadelphia potentially affecting at least five million Americans -- Fred.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:01:18",
+      "speaker": "WHITFIELD",
+      "sentences": "Oh my goodness. It sounds like a nightmare that's going to stretch over many, many hours.Polo Sandoval, thank you so much, from New York. Let's bring in CNN meteorologist, Brandon Miller. So Brandon, extreme weather on both coasts, but let's focus right now on the northeast and what a real headache for a lot of travelers.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:05:18",
+      "speaker": "WHITFIELD",
+      "sentences": "Oh boy, and now, let's zero in on the polar opposite, which is the blistering heat out West. MILLERYou see 82 in Dallas and 87 in Shreveport. That's because they had storms just roll through there. It was 109 last hour, it felt like in Shreveport. But the showers have cooled that down. Backed up travel of course in Dallas, that's adding to the headaches for fliers, and Las Vegas, Phoenix up to 108 and 107 already today, and it's going to stay this way for the rest of the week. It's going to be a long, hot week from the Gulf Coast all the way to California.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:05:18",
+      "speaker": "WHITFIELD",
+      "sentences": "Oh my goodness. Hot, sweltering summer.All right, thank you so much. Brandon Miller, appreciate it. All right, in the heat, our Rafael Romo. He is there in Nevada. Well, it is really pretty there at the Hoover Dam. Those are some pretty tough conditions. Are there a lot of tourists there? Are you by yourself? You and crew?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:05:18",
+      "speaker": "RAFAEL ROMO, CNN CORRESPONDENT",
+      "sentences": "Yes, no, it's incredible, Fred. A lot of people here and you can only imagine that these people have plans and find them very difficult to change, and it is just past noon here and it is 108 degrees already here now, but we're not done yet. The temperature here at Hoover Dam is expected to reach 113 degrees today.And let me tell you something, the place seems just as busy as usual, Fred, like I was saying before, the tourists are here enjoying themselves and they do what I do when I'm not on the air, right? We have our umbrella. We use it as much as we can. When we go on camera, we do that. But as bad as it is here, it doesn't even begin to compare to what's happening in Death Valley, California. That's known as the hottest place on earth. I had an opportunity to talk to a Park Ranger earlier, and he told me about the conditions that they are going through right now. Let's take a listen. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:05:18",
+      "speaker": "MATT LAMAR, DEATH VALLEY PARK RANGER",
+      "sentences": "If we ended up getting to 130 degrees or they're not calling for it, but if we got to a 131, we'd be talking about an all-time temperature. So that would be pretty unusual.Where we're at right now, 125, 127, that's less unusual. That's pretty typical for a place like Death Valley. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:05:18",
+      "speaker": "ROMO",
+      "sentences": "And we were in Las Vegas for the last couple of days, Fred, let me tell you, very, very hot there. The tourists are still there. They were looking at the temperatures because if they've reached the 117 degrees, that would have a tied the all-time record.It was expected to be 113 degrees today, so it may not happen. It may happen tomorrow, but they're under a Heat Advisory until at least Tuesday evening. Fred, back to you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:05:18",
+      "speaker": "WHITFIELD",
+      "sentences": "Oh my goodness, Rafael, so among your essentials, you've got the umbrella. I'm going to guess you've got the sunscreen and you're hydrating as well, right?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:05:18",
+      "speaker": "ROMO",
+      "sentences": "That's right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:05:18",
+      "speaker": "WHITFIELD",
+      "sentences": "A hundred thirteen, I mean, that's brutal.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:05:18",
+      "speaker": "ROMO",
+      "sentences": "It is brutal. And let me tell you, when you get out, the heat is like, it hits you in the face and it is just gnawing around you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:05:18",
+      "speaker": "WHITFIELD",
+      "sentences": "How about breathing?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:05:18",
+      "speaker": "ROMO",
+      "sentences": "You just have to endure it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:05:18",
+      "speaker": "WHITFIELD",
+      "sentences": "Is it difficult to breathe?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:05:18",
+      "speaker": "ROMO",
+      "sentences": "Well, the old time excuse in having lived in Arizona for seven years, the old time excuse that people use here is that yes, it's hot, but it's a dry heat.But let me tell you when it's 109 like it is right now, probably 110 already, Jay -- yes, it's just unbearable.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:05:18",
+      "speaker": "WHITFIELD",
+      "sentences": "Okay, but with that Arizona experience, you've had -- you're conditioned. You're a pro.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:05:18",
+      "speaker": "ROMO",
+      "sentences": "That's right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:05:18",
+      "speaker": "WHITFIELD",
+      "sentences": "All right, Rafael Romo, thank you so much. We'll check back with you.So as the temperatures rise like this, it's not just the air that is a cause for concern. Officials in Arizona are warning about the blistering hot surfaces. Roads and walkways can become dangerous just to the touch, leaving some of society's most vulnerable exposed to the elements there. Joining us right now. Dr. Kevin Foster. He is a burn surgeon and director of the Arizona Burn Center at Valleywise Health. Doctor, good to see you and hear from you. So I understand, you've already treated several patients who have been burned by the hot surfaces. How does that happen? DR. KEVIN FOSTER, SURGEON AND DIRECTOR, ARIZONA BURN CENTER, VALLEYWISE HEALTH: Yes, we've actually treated probably several dozen people already this summer.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:10:13",
+      "speaker": "FOSTER",
+      "sentences": "Well, anything that's exposed to direct sunlight and directly to the heat can cause pretty bad burns, but the things that we see are people who fall down on a hot asphalt, on to concrete. People who touch hot things in direct sunlight, for instance, door handles, upholstery inside of cars, anything that you can think of. Water in your homes coming out is oftentimes close to boiling.So the biggest problem we're having right now and our biggest problem in the summertime is asphalt and concrete, people who go down and get really bad burns, because they can't get back up again.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:10:13",
+      "speaker": "WHITFIELD",
+      "sentences": "Wow. I bet they're shocked when that happens. So I mean, how are you treating them?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:10:13",
+      "speaker": "FOSTER",
+      "sentences": "So there are a couple of things. First of all, when people go down, and they don't get back up again, they can get really bad burns in a very short period of time.On a hot summer afternoon with direct sunlight, asphalt or concrete, sidewalks can be 170 to 180 degrees, and that can cause really bad burns. The other thing that is really bad for patients is that if they go down and they can't get up, oftentimes they suffer heat shock by their internal temperature going up far beyond normal. So it can be kind of a double whammy.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:10:13",
+      "speaker": "WHITFIELD",
+      "sentences": "So if you can avoid it, of course, don't fall. But I mean, there are circumstances when people fall, but when you talk about like grabbing the handle of a door, you know, or a car handle, and that has caused burns because of you know, the hot surfaces. What is your recommendation to people about -- because you know, this heat wave is going to go on for at least another 10 days, right?So what do you recommend to people about how they can protect themselves given the conditions?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:10:13",
+      "speaker": "FOSTER",
+      "sentences": "Right. So what we try and tell people is don't go out in the middle of the afternoon, stay inside from 10 or 11 in the morning, until probably five or six o'clock in the late afternoon.If you do have to go out, make sure you're protected. Wear protective clothing, wear a hat, always wear shoes, and don't just trust socks, and be very careful when you touch anything. You know, one of the biggest problems we see is people going out to their cars and the steering wheel, the seatbelt buckles. Anything that you touch inside of a car can be really hot.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:10:13",
+      "speaker": "WHITFIELD",
+      "sentences": "So like have a hankie or something, right? I mean, you're saying you need to have something to grab on to these things, because it might be unavoidable. You need to get into your car, you need to put your safety belt on, but you're going to touch it, so maybe have something between your skin and it -- those surfaces.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:10:13",
+      "speaker": "FOSTER",
+      "sentences": "Yes, that would be very helpful. The other thing we try and get people to do is to park in the shade. You know, if you can find shade somewhere, a garage or underneath the tree, that really helps. It makes a big difference to be not exposed to direct sunlight.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:10:13",
+      "speaker": "WHITFIELD",
+      "sentences": "I know you're a doctor to humans, but what about you know, folks who are out walking their pets? You know, what, what recommendations do you have for them to protect their pets and those hot surfaces? Their little paw pads hitting the surface.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:10:13",
+      "speaker": "FOSTER",
+      "sentences": "Right. That causes a big problem, and oftentimes, you know, pets, particularly cats and dogs, they end up with bad burns on their paws on the bottom of their feet because they're excited to be outside, they are running, and they don't pay attention obviously, as human beings do, to temperature and the pain. So you're right, that's a big problem also.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:10:13",
+      "speaker": "WHITFIELD",
+      "sentences": "Wow. Lots of precautions to take.All right, Dr. Kevin Foster, I know you've got your hands full. Thanks so much for taking the time for us. Appreciate it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:10:13",
+      "speaker": "FOSTER",
+      "sentences": "Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:18:13",
+      "speaker": "WHITFIELD",
+      "sentences": "A California woman who was kidnapped eight months ago in Mexico has been released alive and is on her way home according to the FBI.Officials say 30 -year-old, Monica De Leon Barba was kidnapped while walking her dog in Jalisco, Mexico last November. The FBI says De Leon was released by her captors on Friday. CNN's Mike Valerio is covering these developments for us. Mike, what more do we know about the kidnapping? Her release?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:26:29",
+      "speaker": "WHITFIELD",
+      "sentences": "The US will now allow European countries to train Ukrainian pilots on F-16 fighter jets according to a top Biden administration official. The move is a potential boon for Ukraine's efforts to counter Russia's air superiority, and is a stark turnaround for the president who said earlier this year that he did not believe Ukraine needed the F-16s.CNN's Priscilla Alvarez joins us now from Washington. Priscilla, what's behind this change of heart?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:26:29",
+      "speaker": "PRISCILLA ALVAREZ, CNN WHITE HOUSE REPORTER",
+      "sentences": "Fred, there is certainly added urgency as this counteroffensive gets underway and as Ukrainian forces has struggled to make major gains in this counteroffensive.So there has been an added support and urgency again for that support to Ukraine on security assistance, and this is one example of that. And it was ultimately President Biden who signed off on it. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:26:29",
+      "speaker": "JAKE SULLIVAN, WHITE HOUSE NATIONAL SECURITY ADVISER",
+      "sentences": "The president has given a greenlight and we will allow permit, support, facilitate, and in fact provide the necessary tools for Ukrainians to begin being trained on F-16s as soon as the Europeans are prepared.You said today, what the Europeans have said is that they need a couple of weeks to be able to put in place the necessary training facilities, and the President has said we are going to meet whatever timeline our European partners need today, tomorrow, the next day, it doesn't matter. The United States will not be the holdup in ensuring that this F-16 training can get underway. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:26:29",
+      "speaker": "ALVAREZ",
+      "sentences": "Now President Biden had previously informed G-7 leaders that they would provide support, the US would provide support, but the timeline was unclear. Now, we know that the US will allow that training to continue.But this comes against the backdrop of the US making that controversial decision to send cluster munitions to Ukraine, again to move forward in that counteroffensive, and also on the heels of the NATO Summit last week where President Biden and leaders in the Summit all vowed to continue to provide support to Ukraine, one of the big ones being security assistance and security support. So all of this part of that ongoing effort to show support for Ukraine as it continues in that war against Russia -- Fred.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:33:09",
+      "speaker": "WHITFIELD",
+      "sentences": "Israeli prime minister, Benjamin Netanyahu has left the hospital after being fitted with a heart monitor. His doctors say tests show his heart is normal, but this will allow them to continue monitoring his condition.Here is CNN's Hadas Gold.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:35:09",
+      "speaker": "WHITFIELD",
+      "sentences": "Hadas, thank you so much.All right, hundreds of migrants died or are missing off the coast of Greece after a boat capsized last month. Among them, a 14-year-old boy from Pakistan, who had already traveled hundreds of miles just to risk the boat crossing from Libya. CNN's Anna Coren follows his journey and the desperation that drove him to risk everything for a better life. (BEGIN VIDEOTAPE) ANNA COREN, CNN INTERNATIONAL CORRESPONDENT (voice over): The lush plains of Gujarat in Punjab Province are home to some of the most fertile land in all of Pakistan. he mighty Indus River and its tributaries, the lifeblood. But not everyone here prospers from its richness. Fourteen-year-old Mohammed Abuzza (ph) felt the heavy burden of responsibility. His father, a school van driver earning less than $90.00 a month, was struggling to provide for the family. Abuzza (ph) worried about the future of his younger brothers, especially six-year-old Hassan (ph), who is severely disabled. (UNIDENTIFIED MALE speaking in foreign language.) COREN (voice over): \"My son pleaded with me to be sent abroad,\" he explains. He said, \"Look at how we live. We'll die of hunger. It's best for me to leave so I can support our family.\" Many older boys from the village had already made the trek to Europe through human smuggling operations, sending hefty remittances back home. (UNIDENTIFIED MALE speaking in foreign language.) COREN (voice over): Abuzza's (ph) uncle had decided to go, and the teenager knew this was his chance. (UNIDENTIFIED MALE speaking in foreign language.) COREN (voice over): \"The people smuggler said it would cost more than $8,000.00 to send my son to Italy. I said, I can't afford it. He told me, Your kid will earn that in a couple of months.\" At the beginning of May this year, Abuzza (ph), his uncle, and a small group of teenage boys from the village set off. Human smugglers organized for the group to fly from Karachi to Dubai, then to Egypt before transiting to Libya. From Tripoli International Airport, they drove to the Libyan port city of Tobruk and waited in a cab filled with other illegal migrants for the next month. The day before the group set sail for Italy, their final destination, Abuzza (ph) sent a video to his brothers, hoping to make them laugh. He then recorded the group's final prayers. That night, he called his father. (UNIDENTIFIED MALE speaking in foreign language.) COREN (voice over): \"My son was really happy. He said, 'Don't worry, Dad. It will be okay. We'll have lifejackets. It's a big boat. Once I'm there, you'll have nothing to worry about.\" On the 9th of June, Abuzza (ph) boarded the Adriana, a fishing vessel with a capacity of 100. Instead, 750 illegal migrants were crammed aboard, of which almost half were from Pakistan, according to the Pakistani Interior Ministry. Within days, the trawler would capsize off the coast of Greece, as a Greek coast guard ship watched on. More than 600 people drowned, in what would become one of the deadliest migrant boat tragedies. Among the survivors, only 12 Pakistanis. Abuzza (ph) was not one of them. (UNIDENTIFIED MALE speaking in foreign language.) COREN (voice over): \"Dying of hunger is better than this. Don't send your children away. For us, life and hell are now the same.\" But this grieving father's warning is falling on deaf ears. According to UN Migration, last year Pakistanis weren't even among the top ten nationalities arriving in Europe. This year, however, they're ranked number five, with economic migration fueling the surge. A financial crisis in Pakistan and record-high unemployment is driving many families to make these life-altering decisions.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:44:32",
+      "speaker": "WHITFIELD",
+      "sentences": "All right, the new CNN Original Series, \"See It Loud,\" you've got to bear with me, I'm losing my voice here -- \"The History of Black Television\" celebrates the artists and the show creators behind productions that have impacted entertainment and American culture.This week, we take a look at comedy and its impact. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:44:32",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Your biggest superstars in comedy have been Black.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:44:32",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "The Chappelle Show redefined sketch comedy.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:44:32",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "\"In Living Color\" set up a platform for Black comedians blowing up.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:44:32",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "\"The Richard Pryor Show\" was ahead of his time.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:45:10",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Adele Givens, Bernie Mac, Steve Harvey.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:45:10",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "\"Def Comedy Jam\" was a Black comic experience.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:45:10",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Laughter is healing. Laughter purifies the air.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:45:10",
+      "speaker": "WHITFIELD",
+      "sentences": "Joining us right now, Lisa Respers France. She is a senior writer for CNN Digital's Entertainment Section and here we're talking about, \"See it Loud,\" and I can't even speak that loud right now.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:45:10",
+      "speaker": "LISA RESPERS FRANCE, SENIOR WRITER FOR CNN DIGITAL ENTERTAINMENT",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:45:10",
+      "speaker": "WHITFIELD",
+      "sentences": "But we're going to talk more about, you know, the influence of comedy on so much and television shows and movies.But first, I wanted to take the opportunity, this ongoing strike that is industry-wide with SAG-AFTRA, actors joining writers who had been striking and Georgia is a huge movie and television industry.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:45:10",
+      "speaker": "FRANCE",
+      "sentences": "It is.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:45:10",
+      "speaker": "WHITFIELD",
+      "sentences": "It too is being impacted in a very big way. What are creators, actors, writers telling you?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:45:10",
+      "speaker": "FRANCE",
+      "sentences": "People are really worried because it affects so much more than people are thinking people think about the top tier, you know, movie stars and TV stars and say, oh, they are wealthy, they're just going for more money.But the vast majority of people who are in SAG-AFTRA do not make as much money as people think. And part of the concern is that they are now making less money because of less residuals, because of the effect of streaming, and they say, it is not just about them. You know, they're worried about AI, you should be worried about AI coming for your job as well.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:45:10",
+      "speaker": "WHITFIELD",
+      "sentences": "Sure.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:45:10",
+      "speaker": "FRANCE",
+      "sentences": "And I think that's one of the things that --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:45:10",
+      "speaker": "WHITFIELD",
+      "sentences": "Right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:45:10",
+      "speaker": "FRANCE",
+      "sentences": "Right, Fran Drescher who is the head of the SAG union has done a really great job in really making people understand that it's not just about our labor issue, this is about everybody who is working and who is concerned that CEOs are making a lot of money, and that's not trickling down.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:45:10",
+      "speaker": "WHITFIELD",
+      "sentences": "Right. In Georgia alone, it is a $4.4 billion industry. Look, I'm a SAG member, while I'm a broadcaster. I'm not directly being impacted here. I have been an extra, you know, in films before. So I don't think I would want to agree to, you know, my image, my likeness, and production companies being able to use it in perpetuity.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:45:10",
+      "speaker": "FRANCE",
+      "sentences": "Absolutely. And it's not just the extras, it is the makeup artists, it is everybody who owns a restaurant near a studio, there is a whole industry built around this industry.You know, it's not just, as you point out in Georgia, it's a big deal because if you are a mom and pop shop that's near Tyler Perry Studios, and you depend on these folks that are coming through every day to buy lunch and dinner, and now everything is shut down, it affects your business.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:45:10",
+      "speaker": "WHITFIELD",
+      "sentences": "Right. It impacts a whole lot.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:45:10",
+      "speaker": "FRANCE",
+      "sentences": "It impacts a whole lot of people, much more than the people that you see on screen.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:45:10",
+      "speaker": "WHITFIELD",
+      "sentences": "And just getting a feel, I talked to Margaret Cho earlier. You know, I did get a sense from her, no one expects this to end overnight.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:45:10",
+      "speaker": "FRANCE",
+      "sentences": "No, not at all, because there is a lot of push and pull right now and we are also in a different place than we were years ago, when there was the last strike because now streamers have a lot more power.So prior to when we had the actors' strike, there was a lot of concern -- and the writers' strike -- there was a lot of concern that oh, you know, there's just all this reality TV and game shows and there are reruns, but now, there is so much content available to people that the general public is not going to be complaining in the same way that they were before, about, you know, having a lack of something to watch. And so that kind of tips, the power over to studios, a lot of people feel.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:45:10",
+      "speaker": "WHITFIELD",
+      "sentences": "All right, now let's talk about \"See It Loud.\"",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:45:10",
+      "speaker": "FRANCE",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:45:10",
+      "speaker": "WHITFIELD",
+      "sentences": "I mean, it's been an incredible series.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:45:10",
+      "speaker": "FRANCE",
+      "sentences": "It is so good. It is so good.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:45:10",
+      "speaker": "WHITFIELD",
+      "sentences": "It has been so revealing in so many ways, because I think a lot of people forget, don't really understand, you know, the reference point, the history of the evolution of Black creators, writers, talents, and how much of an influence they have made on television, on movie and now we're zeroing in on comedy.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:45:10",
+      "speaker": "FRANCE",
+      "sentences": "Yes.I mean, think about back in my grandmother's time, people were performing in blackface. You know, these are White artists who were performing in blackface and they were making a mockery in a lot of ways, caricatures of Black life. So now we finally have gotten to the point where we have Black creators behind the scenes, who can actually present Black life the way it is, and when it comes to comedy, comedy, I always like to say, you know, my grandmother used to always love to say about how you know, a little spoonful of sugar makes the medicine go down. When you're on stage and you're a Black comic and you can talk about race and you can talk about politics and you can talk about history but you can make people laugh, it definitely is received in a different way.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:45:10",
+      "speaker": "WHITFIELD",
+      "sentences": "Right. And mainstream making people laugh.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:45:10",
+      "speaker": "FRANCE",
+      "sentences": "Exactly.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:45:10",
+      "speaker": "WHITFIELD",
+      "sentences": "I mean, think about you know, Flip Wilson.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:45:10",
+      "speaker": "FRANCE",
+      "sentences": "Yes. WHITFIELD",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:45:10",
+      "speaker": "FRANCE",
+      "sentences": "Geraldine.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:45:10",
+      "speaker": "WHITFIELD",
+      "sentences": "And then \"In Living Color.\"",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:45:10",
+      "speaker": "FRANCE",
+      "sentences": "Right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:45:10",
+      "speaker": "WHITFIELD",
+      "sentences": "You know, and how -- \"In Living Color\" also encompassed so much and made fun of things that seemed to be you know, coffee- table type of things, but it became universally funny and embraced and the creation by these young family members.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:45:10",
+      "speaker": "FRANCE",
+      "sentences": "Right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:50:04",
+      "speaker": "FRANCE",
+      "sentences": "Absolutely. Everybody enjoys comedy, everybody likes to laugh and it feels like Black creatives have been able to have the last laugh because they've been able to present our lives in a way that people get to see it and experience it and find it funny without making the joke out of it that might have been made by someone who actually does not understand it.And now you have like, you know, the Nick Cannons of the world with his series that's bringing on a whole new generation of comedians who are making us laugh, but who are still saying important things.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:50:04",
+      "speaker": "WHITFIELD",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:50:04",
+      "speaker": "FRANCE",
+      "sentences": "You know, and my friends and I talk about how they're like the inside jokes in the Black community are no longer inside because of comedy.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:50:04",
+      "speaker": "WHITFIELD",
+      "sentences": "Everything is out.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:50:04",
+      "speaker": "FRANCE",
+      "sentences": "Everything is out and that's perfectly fine, because, you know, Black history is American history. So everybody should be able to enjoy it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:50:04",
+      "speaker": "WHITFIELD",
+      "sentences": "Right. All right, Lisa Respers France, so good to see you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:50:04",
+      "speaker": "FRANCE",
+      "sentences": "Good to see you, too.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:50:04",
+      "speaker": "WHITFIELD",
+      "sentences": "Thanks for putting up with my voice, and hanging with me out here.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:50:04",
+      "speaker": "FRANCE",
+      "sentences": "Healing energy.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:50:04",
+      "speaker": "WHITFIELD",
+      "sentences": "Thank you so much. Appreciate it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:50:04",
+      "speaker": "FRANCE",
+      "sentences": "You're welcome.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:55:27",
+      "speaker": "WHITFIELD",
+      "sentences": "All right, what an exciting afternoon it's been or I should say morning, it was a Wimbledon morning. Twenty-year-old Carlos Alcaraz has won his second Grand Slam title after defeating four-time defending champion, Novak Djokovic in the men's singles match in Wimbledon after a thrilling five set final.Alcaraz is now the third youngest man in the open era to win at Wimbledon. Joining me right now is CNN sports anchor and correspondent, Patrick Snell. Wow, that was quite the match. I didn't get to see all of it fluidly, but I got to see portions of it and I was on the edge of my seat.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:55:27",
+      "speaker": "PATRICK SNELL, CNN WORLD SPORT ANCHOR",
+      "sentences": "Fred, it was quite phenomenal, it really was and the way that match started, you know, Alcaraz losing the first set to Djokovic in barely half an hour. And at that point, we thought this is going to be over in about 90 minutes or so, but we could not have been more incorrect.It was vintage from Alcaraz. I am telling you, look what was on the line for Djokovic. He was going for a record equaling 24th Grand Slam title level with the Australian great, Margaret Court. He was also going for a fifth straight men's singles title at the All England Club. Oh and just for good measure, Fred, he was going for an eighth men's single crown overall, but he was absolutely meeting his match on this day. Look at that bit of footy skill, soccer skills there from Alcaraz as he gleefully kicks the ball into the crowd there.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:55:27",
+      "speaker": "WHITFIELD",
+      "sentences": "He is even rubbing it in.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:55:27",
+      "speaker": "SNELL",
+      "sentences": "Just wonderful for him. It seems he didn't read the script, did he, because he has also ended, Fred, a decade of dominance for Djokovic in the Old England Club.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:55:27",
+      "speaker": "WHITFIELD",
+      "sentences": "Wow. Yes. SNELLHe is the reigning US Open champ. He is now the Wimbledon champ and between them, these two players currently hold all four Grand Slam titles in the men's game. It's quite incredible. I do want to hear from Alcaraz now speaking just a short while ago on this historic Sunday. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:55:27",
+      "speaker": "CARLOS ALCARAZ, TENNIS PLAYER",
+      "sentences": "I am really proud of myself, you know in the submission round, you know making history in this beautiful tournament, you know playing final against legend for our sports.It's unbelievable that you're -- you inspire me a lot. You know, I started playing tennis watching -- watching you. I mean, since I was born, you know, you are already winning tournaments. You know, I tis amazing. Probably you are in a better good shape than me. You just said that 36 is the new 26 and you made that happen in real. You know, it's amazing. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:55:27",
+      "speaker": "SNELL",
+      "sentences": "Fantastic, Fred, but I am quite sure, Djokovic will be back and soon.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:55:27",
+      "speaker": "WHITFIELD",
+      "sentences": "Yes. He is not going anywhere.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:55:27",
+      "speaker": "SNELL",
+      "sentences": "Nowhere.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:55:27",
+      "speaker": "WHITFIELD",
+      "sentences": "Oh my gosh, and people are really happy to see a lot more of Lionel Messi, too, right?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:55:27",
+      "speaker": "SNELL",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:55:27",
+      "speaker": "WHITFIELD",
+      "sentences": "Shift gears a little bit.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:55:27",
+      "speaker": "SNELL",
+      "sentences": "And they are going to be -- especially here in the United States.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:55:27",
+      "speaker": "WHITFIELD",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:55:27",
+      "speaker": "SNELL",
+      "sentences": "Because hey, if you happen to be in the Miami area later on this Sunday evening, then there's just one place to be because the iconic Lionel Messi, it was made finally official, he is now an Inter Miami player.What a coup this is for Major League Soccer. That video right there, one icon meeting another. Messi meets David Beckham, no less, Fred. Becks of course is one of the co-owners there at Inter Miami and played a very big role indeed in bringing him to South Beach. But this is a major coup as I said for Major League Soccer. He is a current World Cup champion. He finally won the World Cup late last year with his country, Argentina. He is a seven-time Ballon d'Or winner, and he is still, I believe, people write him off as a player, he is still for me, not quite at the peak of his powers, but he is still a fantastic footballer, 16 goals and 16 assists, it was, last season. In the top flight of French football for Paris Saint-Germain, so he is going to be an improvement, I tell you on the current Inter Miami squad, which to be polite is not very good at the moment, currently, Boston with the Stallions in the Eastern Conference, so he can only improve that score.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:55:27",
+      "speaker": "WHITFIELD",
+      "sentences": "Only up, only up from here.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:55:27",
+      "speaker": "SNELL",
+      "sentences": "Only up.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:55:27",
+      "speaker": "WHITFIELD",
+      "sentences": "Right? Okay, well, we've got more sports and perhaps among the most favorite and famous of WNBA stars, folks got a chance to see her last night. Take a look.(BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:55:27",
+      "speaker": "ANNOUNCER",
+      "sentences": "Star appearance leading the Mercury in pass, rebounds and blocks, welcome back, BG, Brittney Griner.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:55:27",
+      "speaker": "WHITFIELD",
+      "sentences": "Oh, yes. How exciting was that. Phoenix Mercury superstar, Brittney Griner making her return to the WNBA All-Star game since being released from a Russian penal colony last year.The nine-time WNBA All-Star scored her team's first six points and dunked twice in front of a sold-out stadium. Griner's team won the game, but she told her fans she was just honored to be on the court and I can't wait because I bought tickets. I'm going to see you in a couple of weeks. I'm taking the kids, too.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:55:27",
+      "speaker": "SNELL",
+      "sentences": "Well enjoy that.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:55:27",
+      "speaker": "WHITFIELD",
+      "sentences": "It is exciting. I know. I can't wait.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:55:27",
+      "speaker": "SNELL",
+      "sentences": "Truly making an impact. A big, big moment, a big occasion for her, no question.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:55:27",
+      "speaker": "WHITFIELD",
+      "sentences": "Oh, she is amazing.We've got so much more straight ahead. Patrick, good to see you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:55:27",
+      "speaker": "SNELL",
+      "sentences": "Thank you Thanks for having me.",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

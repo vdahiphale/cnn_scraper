@@ -1,0 +1,271 @@
+{
+  "date": "2023-01-11",
+  "headline": "CNN Newsroom",
+  "subHeadline": "New Information Emerges on Uvalde Massacre; Biden Speaks Out on Classified Documents; George Santos Under Fire; California Flooding; Aviation Glitch. Aired 1-1:30p ET",
+  "utterances": [
+    {
+      "timeStamp": "13:00:01",
+      "speaker": "JOHN KING, CNN HOST",
+      "sentences": "The Illinois Democratic Governor Pritzker signing a new law banning the sale of military-style guns and high- capacity magazines, that law coming six months after a gunman killed seven people with a legally purchased assault weapon at a Fourth of July parade in that state.Thanks for your time today on INSIDE POLITICS. We will see you tomorrow. Bianna Golodryga picks up our coverage right now.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:00:01",
+      "speaker": "BIANNA GOLODRYGA, CNN HOST",
+      "sentences": "Hello, everyone. I'm Bianna Golodryga in New York.U.S. airports are scrambling to get back on schedule this afternoon after another early morning glitch throws the nation's air travel into chaos. A key safety system for the FAA went down, forcing a nationwide ground stop on all departing domestic flights. Thousands have been delayed or canceled, and that's left travelers stranded in airports or trapped on board park airliners. The ground stop has now lifted, but the backlog, as you can imagine, of flights is still jamming airports across the country. CNN correspondents and analysts have been following all of these developments. Let's begin with Adrienne Broaddus at Chicago's O'Hare, one of the busiest airports in the country. So, Adrienne, are things getting back to normal there this morning?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:00:01",
+      "speaker": "ADRIENNE BROADDUS, CNN CORRESPONDENT",
+      "sentences": "Hello, Bianna. Things are getting back to normal, but travelers passing throughChicago O'Hare will still experience delays and cancellations. If they stop right here at the information board, they will see boarding. That's a nice sign for folks leaving the airport. But there are also other indications that there have been technology issues. Here in Chicago, there are about 500 delayed flights and cancellations standing at 109. That is according to the Chicago Department of Aviation. And this is a reflection of the big picture. If you take a look at what airports are experiencing across the country, according to FlightAware, there have been more than 7,300 delays and about 1,100 cancellations. We spoke with a father and daughter earlier this morning. They told us their flight from Nashville to Chicago was delayed by two-and-a-half- hours. They're traveling to Brussels. But he said, intentionally, he booked a 10-hour layover in case something were to happen. And this is based on things that we have seen happening with air travel, he says, in the past. But things are returning to normal here in Chicago. Travelers need to pack a little patience -- Bianna.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:00:01",
+      "speaker": "GOLODRYGA",
+      "sentences": "It is indicative when you have passengers booking a 10- hour layover, assuming that there's going to be a delay. Obviously, no one knew that this was going to be the cause of the delay. But given the disruptions we have seen because of weather over the past few weeks, that was probably a smart thing to do.Thank you so much. And we want to bring in our panel, David Soucie and Richard Quest. Richard, let me start with you. So explain to us what this safety system, the NOTAM, is, and how crucial is it for pilots?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:00:01",
+      "speaker": "RICHARD QUEST, CNN BUSINESS EDITOR AT LARGE",
+      "sentences": "NOTAM stands for notice to airmen.It's a system whereby all the air traffic control information, the airport information is put together by the FAA and then distributed in a variety of bulletins. So, if you are flying to Los Angeles, you -- from Newark, you will be -- you may be told that runway X is having repairs between 2:00 and 4:00 in the morning. You will be told that this air traffic control system is not working. The ILS at this airport isn't working. It is the raw information that is given to pilots who will check the NOTAMs before every flight. It is not as crucial, in a sense, as the en route stuff, permission to take off, permission to land. It's not at that level. But the NOTAMs are the basics of what tells pilots what airports and what conditions there are in aviation",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:00:01",
+      "speaker": "GOLODRYGA",
+      "sentences": "So pilots aren't flying blindly without it, right?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:00:01",
+      "speaker": "QUEST",
+      "sentences": "Oh, no, no, no. And you can fly without NOTAMs. But you might get a nasty surprise at the other end.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:00:01",
+      "speaker": "GOLODRYGA",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:00:01",
+      "speaker": "QUEST",
+      "sentences": "It's not -- it just tells you the information about the aviation system specific to your route.In a way, it's not the sexy bit, by the way, of air traffic control, which is takeoff and landing and maneuvering the planes in the air.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:00:01",
+      "speaker": "GOLODRYGA",
+      "sentences": "Right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:00:01",
+      "speaker": "QUEST",
+      "sentences": "This, to an extent, is the Cinderella aspect of it. It is the library of what's in the aviation at the moment.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:00:01",
+      "speaker": "GOLODRYGA",
+      "sentences": "And still, David Soucie, this is the Cinderella aspect of aviation, and, thankfully, so far, at least what we have heard from Transportation Secretary Pete Buttigieg, is that there's no indication of foul play. Of course, it can't be ruled out at this point.But he did say that this is because of irregularities in the messages going out. We haven't seen this system go down before, bringing and raising the question of how did we get here and what are investigators going to be looking at as they piece all of this together?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:05:02",
+      "speaker": "GOLODRYGA",
+      "sentences": "So what is the fear, then, Richard, about what they could possibly find as they're investigating what led to this?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:05:02",
+      "speaker": "QUEST",
+      "sentences": "Right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:05:02",
+      "speaker": "GOLODRYGA",
+      "sentences": "I mean, that is sort of a big concern. Are there any other bugs in the system?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:05:02",
+      "speaker": "QUEST",
+      "sentences": "Number one, cyber.The secretary said on CNN there was no direct evidence, but they're going to want to look closely to make sure there isn't any indirect evidence. Number two, things are always going to fail. But, as the secretary said, why did the redundancy not kick in? Why did the thing fall over? And related to that, even though billions of dollars have been spent on next generation and all the FAA's CapEx requests, is it enough?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:05:02",
+      "speaker": "GOLODRYGA",
+      "sentences": "Yes.And, David, if I can get back to you, something I heard from John King in the last hour that I think is a poignant question to ask, listen, Democrats and Republicans both fly. This is not a political issue. And yet we don't have an effective and a permanent director in at the FAA at this point. One was nominated by the president in July. And, apparently, he has to be re nominated with the new Congress. Does that worry you at all in terms of how Congress is prioritizing travel?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:05:02",
+      "speaker": "SOUCIE",
+      "sentences": "You know, well, I was with the FAA for the 20 years that I was there -- or 16 years -- excuse me -- that I was there, this was a big problem, because the budgeting for these types of systems, it takes five to six years to develop a system, implement a system, and then sunset it at the end.So that's a long period of time. And if all you have is assistant or temporary administrators in there, like Administrator Nolen right now is temporary, they don't have the ownership. They don't have the way to see this all the way through. And that budget requires them to go in year after year after year to Congress and report on that budget and let us know how it's going and what they need and what they don't need. If that doesn't happen, these systems will continue to fail.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:05:02",
+      "speaker": "GOLODRYGA",
+      "sentences": "And it seems like it should be a priority number one, then, to get a permanent director of the FAA in for this Congress. Learning lessons from this today.Richard Quest and David Soucie, thank you so much. Well, we turn to California now, where today the risk for more life- threatening flooding is growing by the hour, as a new round of powerful storms moves in. At least 17 people have died, and the concern is that more rain could trigger catastrophic mudslides because of how saturated the ground already is. Meteorologist Tom Sater is standing by. But, first, let's go to Camila Bernal live in Santa Cruz. Camila, what are you seeing today?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:05:02",
+      "speaker": "CAMILA BERNAL, CNN NATIONAL CORRESPONDENT",
+      "sentences": "Bianna, we have had light, steady rain all morning long, so more water on top of all of this standing water that is still here. Today is a day for cleanup for a lot of the people in thisneighborhood. I want to show you this house in particular, because they're actually taking out the floor at the moment. They started today. They have to take all of it out. And the neighbor here even has a sign that says, \"Welcome. Flooded.\" So, a little bit of humor in all of this. But it is very difficult for people who are having to deal with this. Look, they all put sandbags out, and so many of them telling me these sandbags did nothing because there was so much water. And, normally, in this neighborhood, when it floods, the water recedes very quickly. That's not the case this time around. That's why you're having to deal with all of the water in this neighborhood. In other neighborhoods, it is dealing with the mud and the debris, trying to get all of that out of the homes. And, look, they're trying to dry it out, but it is raining. Again, you see all of the sandbags trying to stop that water. But it is still so deep. We know authorities are telling people to continue to be extremely careful with all of this, because it could lead to a very dangerous situation. In San Luis Obispo, we know there's a 5-year-old who was swept away by the waters. He was identified as Kyle Doan. But he is still missing. Authorities are still searching. So it is a life-or-death situation in some of these cases, Bianna.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:05:02",
+      "speaker": "GOLODRYGA",
+      "sentences": "Horrible story, and for that for a boy's family to be going through right now. And the images are horrific as well.Let's bring in Tom Sater. And, Tom, this has been weeks of storms now. What is your biggest concern with this latest round? Is there an end in sight either?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:10:01",
+      "speaker": "GOLODRYGA",
+      "sentences": "Unbelievable.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:10:01",
+      "speaker": "SATER",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:16:45",
+      "speaker": "GOLODRYGA",
+      "sentences": "Well, the pressure is growing for the House GOP to deal with a problem that seems to get more controversial by the day.Nassau County, New York, Republicans just called on newly elected Congressman George Santos to resign over his lies to voters and fabrications about his personal life. It's a move that would seriously impact the GOP's razor-thin House majority. So, let's get more on this from CNN's Manu Raju at the Capitol. Manu, what are we hearing from Santos and, more importantly, from House leadership?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:16:45",
+      "speaker": "MANU RAJU, CNN SENIOR CONGRESSIONAL CORRESPONDENT",
+      "sentences": "The House Republican leaders are not saying much about this so far.In fact, Kevin McCarthy for weeks has really refused to talk about George Santos. He did tell me earlier this week he wants to deal with this issue internally. Today, he told me that he will not serve on any of the key committees in Congress. George Santos won't, he told me. But it's unclear whether or not he would serve on some of the lower- profile committees on Congress. That is something that he has not made -- not said one way or the other whether he will allow that to happen. Now, I am told that Santos actually made a request to serve on the House Financial Services Committee. It's one of the key committees in Congress. That will not happen, despite Santos' request. Now, in the aftermath of the call for -- from New York party leaders for Santos to resign, a number of top Republicans, because they have not yet answered the question, saying they wanted more information. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:16:45",
+      "speaker": "RAJU",
+      "sentences": "Do you expect George Santos to be on any of these key committees, on these eight committees? Do you think George Santos...The Nassau County Republicans called on George Santos to resign? Do you have any reaction? But do you think that Santos should resign, Mr. Scalise? (CROSSTALK) REP. STEVE SCALISE (R-LA):  ... committees that we're doing right now.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:16:45",
+      "speaker": "RAJU",
+      "sentences": "Do you think Mr. Santos should resign, Mr. Emmer?(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:16:45",
+      "speaker": "RAJU",
+      "sentences": "Santos has been defiant in the face of the calls for resignation from some of his leaders back home.He said in a tweet just moments ago: \"I was elected to serve the people of the New York Third Congressional District, not the party and politicians. I remain committed to doing that and regret to hear that local officials refused to work with my office to deliver results to keep our communities safe and lower the cost of living. I will not resign.\" And, Bianna, the real challenge for House Republican leaders is that, if he were to resign, that would set up a special election in a district that leans Democratic. And that could be a huge problem for Kevin McCarthy is this narrow Republican majority. If they were to see another seat flip to the Democrats, it would make his margin even tighter, which is one big reason why Republican leaders have said little about this so far.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:16:45",
+      "speaker": "GOLODRYGA",
+      "sentences": "And they clearly were trying to avoid you at all costs when you were answering this question -- asking this question. Keep asking it, Manu. Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:16:45",
+      "speaker": "RAJU",
+      "sentences": "Thanks.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:16:45",
+      "speaker": "GOLODRYGA",
+      "sentences": "Well, President Biden for the first time is reacting to the classified documents found in his private office.They included U.S. intelligence memos and briefing materials related to Ukraine, Iran and the U.K. CNN's Phil Mattingly is following all of this for us. So, Phil, what is the president saying about it? And do we know anything new about the next steps in this investigation?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:20:07",
+      "speaker": "JOE BIDEN, PRESIDENT OF THE UNITED STATES",
+      "sentences": "People know I take classified documents, classified information seriously.I was briefed about this discovery and surprised to learn that there were any government records that were taken there to that office. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:20:07",
+      "speaker": "MATTINGLY",
+      "sentences": "The president making clear he was not aware that those records had been there. And he also made clear last night that he still does not know what is actually in those records, what those records contained.And that is deliberate effort by his lawyers to ensure that he doesn't get any more deeply involved in this. I think, when you talk to White House officials, Bianna, they look at this timeline right now. And I think they are cognizant of the fact people want answers, answers as to why it took two months for this information to come out, how the documents actually got there in the first place. But they also acknowledge that there is currently review under way by the U.S. attorney in Chicago. That U.S. attorney has been giving information to the attorney general. And there's a very real possibility hanging out there that the attorney general could decide to appoint a special counsel. That is something White House officials do not want, do not believe is merited, when you talk to them, based on what they know up to this point. That's in part why they have been so quiet about additional details. The president and his team have both pledged there will be more details once that review is complete and we hear from the attorney general. When exactly that will be, though, is still an open question. I will note the first White House press briefing since this news broke with Karine Jean-Pierre, the White House press secretary, is in about 30 minutes. We will see if there's any more that comes out of that, but, at the moment, White House officials keeping a very close eye on what's happening with the investigation that's ongoing right now, the review that's ongoing, beyond that, not saying much else.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:26:38",
+      "speaker": "GOLODRYGA",
+      "sentences": "New clues might help North Carolina investigators in the case of a missing child; 11-year-old Madalina Cojocari has been missing since late November.The police say her parents didn't inform them until mid-December. Well, they're both now in custody and charged with failing to report her missing. Search warrants revealed police took dozens of items out of her family home, including three cell phones. And students at the University of Idaho are back in class today nearly two months after four of their classmates were brutally stabbed to death. The suspect is due in court tomorrow; 28-year-old Bryan Kohberger faces four counts of first-degree murder. Right now, the motive for the killings is still a mystery. And now to a CNN exclusive. For the first time, we can see and hear exactly what the Uvalde Schools police chief told investigators the morning after the massacre. Pete Arredondo was publicly silent at that time, as chilling failures began to be exposed. Our Shimon Prokupecz obtained a video of the interview. And we want to warn you, this report is troubling. (BEGIN VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:26:38",
+      "speaker": "PETE ARREDONDO, FORMER UVALDE, TEXAS, CONSOLIDATED INDEPENDENT SCHOOL DISTRICT POLICE CHIEF",
+      "sentences": "I know there was probably victims in there. And with the shots I heard, I know there was probably somebody was going to be deceased.SHIMON PROKUPECZ, CNN CRIME AND JUSTICE CORRESPONDENT (voice-over): Former Uvalde School Police Chief Pete Arredondo heard for the first time, the day after the May 24 shooting, attempting to explain his actions. In new video obtained by CNN, Arredondo telling investigators he assumed students in the room with the shooter were already dead, so he chose to clear children from surrounding classrooms. We now know he was wrong. At least three victims were pulled out of the room alive who later died from their injuries.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:26:38",
+      "speaker": "ARREDONDO",
+      "sentences": "My first thought is that we needed to vacate, we haven't contained, and this is where what our training told us to do, but we haven't contained. There's probably going to be some deceased in there, but we don't need any more from out here.So I called out and I said, get these kids out, whatever I told him, bust those windows, get them out.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:26:38",
+      "speaker": "PROKUPECZ",
+      "sentences": "Stunning admissions while being questioned by the FBI and Texas Rangers.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:26:38",
+      "speaker": "ARREDONDO",
+      "sentences": "Throughout this ordeal, I was trying to get -- make communication with him.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:26:38",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Can you hear me, sir?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:26:38",
+      "speaker": "PROKUPECZ",
+      "sentences": "Arredondo explains he kept trying to talk to the shooter, and, for the first time, we learned that he heard the gunman alone in a room full of children reloading his weapon. And, still, he took no action that stopped the gunman.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:26:38",
+      "speaker": "ARREDONDO",
+      "sentences": "I was certain I heard him reload. I heard something over the pin. Obviously, we all know what that sounds like -- getting started with a -- with a clip.I'm assuming he reloaded, but I know he did something with it. I didn't hear that one time. I don't know if there was a second. He never responded at all.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:26:38",
+      "speaker": "PROKUPECZ",
+      "sentences": "Now considered one of the worst law enforcement failures in recent memory, Arredondo knew that criticism would come. ARREDONDOgoing to get scrutinized why we didn't go in there.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:26:38",
+      "speaker": "PROKUPECZ",
+      "sentences": "Days later, Arredondo would be labeled the incident commander by the Texas State Police. They say he was the officer in charge and the man to blame for the deadly delay.PROKUPECZ (on camera):  Who was the incident commander, sir?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:26:38",
+      "speaker": "STEVEN MCCRAW, DIRECTOR, TEXAS DEPARTMENT OF PUBLIC SAFETY",
+      "sentences": "The chief of police of the Consolidated Independent School District is the incident commander. It is his school. He is the Chief of Police, OK?",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

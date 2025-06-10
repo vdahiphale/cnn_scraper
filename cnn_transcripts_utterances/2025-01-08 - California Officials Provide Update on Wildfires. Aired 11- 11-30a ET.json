@@ -1,0 +1,25 @@
+{
+  "date": "2025-01-08",
+  "headline": "CNN Newsroom",
+  "subHeadline": "California Officials Provide Update on Wildfires. Aired 11- 11:30a ET",
+  "utterances": [
+    {
+      "timeStamp": "11:00:42",
+      "speaker": "ANNOUNCER",
+      "sentences": "This is CNN breaking news.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:00:42",
+      "speaker": "PAMELA BROWN, CNN HOST",
+      "sentences": "Well good morning to you. You are live in the CNN NEWSROOM.I'm Pamela Brown in Washington. And we have some breaking news out of California. Out-of-control wildfires are raging across parts of Los Angeles. We're waiting an update right now from officials. They're going to be talking to us any minute. We want to learn more about these fires and the windstorm. What is happening there in California? It's a very dynamic situation. And, going to be honest with you, we don't even fully have our arms wrapped around just how widespread, how bad this is and how many have been injured and how many could be dead at this hour. This -- let's go straight to the press conference right now.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:00:42",
+      "speaker": "KATHRYN BARGER, LOS ANGELES COUNTY, CALIFORNIA, BOARD OF SUPERVISORS",
+      "sentences": "... in real time.So I want to thank the city of Pasadena, who's opened up the Pasadena Convention Center for those impacted by the Eaton Canyon fire. I also want to acknowledge our faith-based partners. All Saints has opened up their church for those that are evacuating the Pasadena area. But, again, it's important for us to recognize that, while the firefighters are there to protect structures, life is first and foremost front line. We need to make sure that people heed the advice of our first responders. With that, I'm going to introduce our L.A. County fire chief, Anthony Marrone, to give you an update on what is going on. But I just want to thank Chief Marrone, as well as Chief Crowley, for the work that they are doing to make sure that our first responders have all the resources necessary. Chief Marrone.",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

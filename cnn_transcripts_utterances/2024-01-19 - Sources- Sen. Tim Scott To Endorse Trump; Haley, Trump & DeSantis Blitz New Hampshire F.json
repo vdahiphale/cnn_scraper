@@ -1,0 +1,553 @@
+{
+  "date": "2024-01-19",
+  "headline": "The Lead with Jake Tapper",
+  "subHeadline": "Sources: Sen. Tim Scott To Endorse Trump; Haley, Trump & DeSantis Blitz New Hampshire Four Days Before GOP Primary; Sen. Fetterman Vows To Force Vote Next Week On Barring Indicted Members From Classified Briefings, A Move Aimed At Sen. Menendez; Biden, Netanyahu Speak For First Time In Nearly A Month; Report: Special Grand Jury Chosen to Examine Uvalde Mass Shooting Response; Putin Burning Through Troops In Attempt To Take Ukrainian City. Aired 4-5p ET",
+  "utterances": [
+    {
+      "timeStamp": "16:00:00",
+      "speaker": "BRIANNA KEILAR, CNN HOST",
+      "sentences": "I've been on the receiving end of it where I ended up responding to something saying, you do realize you are texting me about me, right? I wish it had just been a bathtub picture.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:00:00",
+      "speaker": "BORIS SANCHEZ, CNN HOST",
+      "sentences": "They were gossiping about you and they sent it to you?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:00:00",
+      "speaker": "KEILAR",
+      "sentences": "Yeah.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:00:00",
+      "speaker": "SANCHEZ",
+      "sentences": "Not a good feeling. Not a good feeling.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:00:00",
+      "speaker": "KEILAR",
+      "sentences": "No, it wasn't a good feeling.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:00:00",
+      "speaker": "SANCHEZ",
+      "sentences": "Brianna, it's a great feeling that it's Friday and we've got a weekend and it's great to anchor with you, too.Thanks so much for joining us on \"CNN NEWS CENTRAL\". THE LEAD WITH JAKE TAPPER starts right now. (MUSIC)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:00:00",
+      "speaker": "JAKE TAPPER, CNN HOST",
+      "sentences": "Senator Tim Scott is endorsing Donald Trump, even though Nikki Haley appointed him to the Senate.THE LEAD starts right now. Four days before the all-important New Hampshire primary, former presidential candidate and Senator Tim Scott is about to weigh in on race and endorse Donald Trump. Will his pick make a difference? Is Ron DeSantis and Nikki Haley barnstorm the Granite State, trying to put the brakes on Donald Trump's road to the GOP nomination? Plus, President Biden, Israeli Prime Minister Benjamin Netanyahu, have a lot of catching up to do. They spoke today for the first time in nearly a month, as Netanyahu openly rejects the U.S.-backed plan for the future of Gaza and the Palestinian people and the possible Palestinian state. What we know about that critical call coming up. And two major developments in two major criminal cases. Actor Alec Baldwin indicted today for his role in that deadly accidental \"Rust\" movie set shooting. And the L.A. Innocence Project is looking to defend and exonerate one of the most notorious convicted murderers ever, Scot Peterson, whom a court found killed his wife and unborn son. (MUSIC)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:00:00",
+      "speaker": "TAPPER",
+      "sentences": "Welcome to THE LEAD. I'm Jake Tapper.And we start today with our 2024 lead and a shock endorsement in the Republican race for president. Tonight, South Carolina Senator Tim Scott, a former presidential candidate himself, will endorse Donald Trump, a source close to the Trump campaign tells me and a video that Tim Scott just posted makes very clear, that's a very public repudiation for the former South Carolina Governor Nikki Haley, who personally appointed Scott to the U.S. Senate. Now this is the kind of endorsement you might usually expect after the New Hampshire primary, closer to when South Carolina is scheduled to vote, which is the end of February. But one political observer suggested that it's possible Trump -- the Trump campaign is just trying to blunt any more of Haley's momentum, anything left, and put the nail in the coffin of this race as quickly as possible. As of New Hampshire, sources say Governor Haley's campaign was caught completely off guard by the announcement. Haley released a statement saying, quote, interesting, the Trump's lining up with all the Washington insiders when he claimed he wanted to drain the swamp, but the fellas are going to do what the fellas are going to do. We should note, this announcement doesn't come without some calculations from Senator Scott's team either, as one source tells me close to the Trump campaign. Senator Scott is on Trump's, quote, medium list as opposed to shortlist for vice president. CNN's Omar Jimenez starts off our coverage today from the campaign trail in Goffstown, New Hampshire. And, Omar, not the kind of announcement the Haley team wanted to see as they go into the last weekend in the New Hampshire primary and blitz the state for every last vote.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:00:00",
+      "speaker": "OMAR JIMENEZ, CNN CORRESPONDENT",
+      "sentences": "Not at all. I mean, we saw a number of Haley events over the course of this morning. And when reporters were trying to ask her for her reaction in the initial phase of things, she ignored those comments before again, later on releasing that statement that you just read. And as you mentioned as well, Tim Scott posting a video on X, on social media on his way or outside of the Trump plane, making his way soon here to New Hampshire, where again, that endorsement is expected to be announced at a Trump rally tonight, and potentially, as you mentioned as well, could slow Nikki Haley's momentum or at least an attempt to this final stretch to the primary.(BEGIN VIDEOTAPE) NIKKI HALEY (R), PRESIDENTIAL CANDIDATE:  Four days to go, we are super excited. JIMENEZ (voice-over):  All the candidates are back in New Hampshire. Ron DeSantis, Nikki Haley, and Donald Trump are making their final pitches to voters heading into the last weekend before the primary, one that Haley says carries enormous weight.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:00:00",
+      "speaker": "HALEY",
+      "sentences": "This the wake-up call for the Republican Party.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:00:00",
+      "speaker": "JIMENEZ",
+      "sentences": "Haley hit a number of events Friday, trying to find every bit of support she can --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:00:00",
+      "speaker": "HALEY",
+      "sentences": "Thank you for having me here.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:05:02",
+      "speaker": "DONALD TRUMP, FORMER PRESIDENT",
+      "sentences": "She's not going to make it. She has no chance. She's got no way. MAGA is not going to be with her.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:05:02",
+      "speaker": "JIMENEZ",
+      "sentences": "He's continued to single her out, even calling her name its on social media based on her birth name, Nimarata.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:05:02",
+      "speaker": "HALEY",
+      "sentences": "The name-calling I know President Trump well. That's what he does when he feels threatened, that's what he does when he feels insecure. It's not going to waste any energy for me. I'm going to continue to focus on the things that people want to talk about. And not get into the name-calling back with him.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:05:02",
+      "speaker": "JIMENEZ",
+      "sentences": "Haley has polled within single digits of the former president in the past month and has increasingly focused her attacks on him.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:05:02",
+      "speaker": "HALEY",
+      "sentences": "The reason he's throwing these temper tantrums is because he knows I do have a chance. The reason he's doing this is because he knows he's not able to defend his record.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:05:02",
+      "speaker": "JIMENEZ",
+      "sentences": "She sees the Granite State as a two-person race, as DeSantis appears to have scaled back appearances in the state but hasn't fully disappeared --GOV. RON DESANTIS (R-FL), PRESIDENTIAL CANDIDATE:  We're excited to be here.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:05:02",
+      "speaker": "JIMENEZ",
+      "sentences": "-- as he stresses the road for him doesn't end in New Hampshire.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:05:02",
+      "speaker": "DESANTIS",
+      "sentences": "-- major candidates.(END VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:05:02",
+      "speaker": "JIMENEZ",
+      "sentences": "And we're expecting to hear a little bit more from DeSantis, actually, just behind me here you can see this huge gathering of reporters -- he's supposed to be here 30 minutes ago. So these reporters here are waiting for them. I'm going to go back and join them in a second here.But what's significant about that is obviously DeSantis scaling back his campaign a little bit here in New Hampshire. This is really his return to the state since he announced that. But his campaign has stressed that they are in this for the long haul and they are looking beyond New Hampshire because, of course, they see the writing on the wall at this point and believed they have a better chance later down in the primary schedule.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:05:02",
+      "speaker": "TAPPER",
+      "sentences": "All right. Omar Jimenez in Goffstown, New Hampshire, for us, thanks so much.My panel's here to discuss. Amanda, how big a blow do you think this endorsement is? I mean, you know, politics tough, but I mean, she did a point Tim Scott to the Senate. He would be in the House right now if it weren't for her.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:05:02",
+      "speaker": "AMANDA CARPENTER, CNN POLITICAL COMMENTATOR",
+      "sentences": "Not to say that Tim Scott necessarily owes her because of that, but that video that he just posted out of X where he's standing outside the Trump plane. It feels like he's digging in a little bit --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:05:02",
+      "speaker": "TAPPER",
+      "sentences": "And said four more years to go.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:05:02",
+      "speaker": "CARPENTER",
+      "sentences": "Yeah, and to go give a speech in New Hampshire as Nikki Haley's trying to close a very big gap. It seems a little extra, but that's what Trump likes, right? He likes to pit people against each other, say Tim Scott, let's give a speech to give you a ride in the plane. Welcome to the fold, this is how it works there. They're all falling in line.JOE WALSH (R), FORMER U.S. REPRESENTATIVE, ILLINOIS:  That's what Trump likes, but that's the kind of stuff Trump demands, too.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:05:02",
+      "speaker": "CARPENTER",
+      "sentences": "True.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:05:02",
+      "speaker": "WALSH",
+      "sentences": "Jake, look, Trump's the leader of this party. He's going to be the nominee. I'm a boring guest. I don't think this -- I don't think --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:05:02",
+      "speaker": "TAPPER",
+      "sentences": "You're not a boring guest.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:05:02",
+      "speaker": "WALSH",
+      "sentences": "Oh, I am. I don't think there's a race. I don't think there's ever been a race. Tim Scott knows that. Maybe he wants to be VP, too.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:05:02",
+      "speaker": "TAPPER",
+      "sentences": "What do you make of it all?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:05:02",
+      "speaker": "KEVIN WALLING, DEMOCRATIC CAMPAIGN STRATEGIST",
+      "sentences": "Listen, I mean, this is a betrayal, certainly, to Nikki Haley, appointed him in 2012, and this is also falling 2017 when Tim Scott after Charlottesville said that President Trump was morally compromised, right? But we see to Joe and Amanda's point, everyone fall back in line and we have all those clips that we play where all these candidates and, you know, Tim Scott has, has called the president numerous times, but of course he's back on that plane, headed back to New Hampshire to take some of the steam, at a Nikki Haley sails.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:05:02",
+      "speaker": "TAPPER",
+      "sentences": "And we should note, there are a lot of Republican officials who are still worried about Trump, not -- forget the moral grounds or the January 6. Forget all --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:05:02",
+      "speaker": "CARPENTER",
+      "sentences": "All the stuff.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:05:02",
+      "speaker": "TAPPER",
+      "sentences": "All the principled reasons, because just they think that he would be bad for the Republican Party. We heard Erick Erickson say a few days ago, it's going to take so much money and that the money that would be devoted to Republican Senate races, Republican governors races, Republican House races.And we've just heard a lot of people say that new poll polling today from Marist found among New Hampshire voters, Biden in New Hampshire would beat Trump by seven points. Biden would beat DeSantis by nine points. And Haley would beat Biden by three points still in the margin of error. But what I think is significant about this is in Iowa and New Hampshire, they've been paying attention and a lot of different parts of the United States, people are living their lives. They don't even know that its likely going to be Trump versus Biden. There a lot of voters are surprised to hear that. New Hampshire voters know differently because they've been playing in this. That seems like ominous news for Republicans.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:05:02",
+      "speaker": "WALLING",
+      "sentences": "It does, Jake. And your point, it's not just that they've been paying attention. They've also been inundated with those ads that most of those battleground states are going to see come November, framing this argument between Joe Biden and Donald Trump. Nikki Haley's out there with ads right now, comparing the two of them and that its a time for change and we'll see if that resonates with voters in New Hampshire with four days to go.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:05:02",
+      "speaker": "WALSH",
+      "sentences": "But most -- go ahead, Amanda.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:05:02",
+      "speaker": "CARPENTER",
+      "sentences": "Yeah, it's just one thing that I think is particularly bothersome about the Tim Scott endorsement -- I mean, you know this, you know this, for many years, he's built up as the sort of new conservative, happy, optimistic. Everybody likes to be around him.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:05:02",
+      "speaker": "WALSH",
+      "sentences": "And he ran that campaign.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:05:02",
+      "speaker": "CARPENTER",
+      "sentences": "Yes, absolutely, right? WALLING",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:10:09",
+      "speaker": "WALSH",
+      "sentences": "Because it's just too late. And, Jake, they know it. He's going to be the nominee.And most Republican voters think he's the most electable in November. That's what the -- (CROSSTALK)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:10:09",
+      "speaker": "TAPPER",
+      "sentences": "Do you? Do you think he's the most electable Republican?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:10:09",
+      "speaker": "WALSH",
+      "sentences": "I think he's the only Republican who can win in November.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:10:09",
+      "speaker": "TAPPER",
+      "sentences": "Really?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:10:09",
+      "speaker": "WALSH",
+      "sentences": "Period, Jake. And the reason, the reason is, if he's not the nominee, Jake, he takes his toys and goes home.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:10:09",
+      "speaker": "TAPPER",
+      "sentences": "Because he'll take voters.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:10:09",
+      "speaker": "WALSH",
+      "sentences": "Oh, God, yeah, 30 percent of his folks will never vote for the Republican nominee. It's too late for anybody else to be the nominee.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:10:09",
+      "speaker": "TAPPER",
+      "sentences": "It's interesting.Kevin, you helped launch No Labels back in 2010. They've still that an organization, still not ruled out putting a candidate in this race to challenge Trump and Biden if those two end up being the nominees. We've heard names such as former Maryland Governor Larry Hogan, West Virginia Senator Joe Manchin floated as potential third-party candidates. What would that do to the race as it stands?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:10:09",
+      "speaker": "WALLING",
+      "sentences": "I mean, there are even conversations with Nikki Haley with Joe Lieberman, who's one of the founders of the organization. Listen, I think that's one of the biggest fears with the Biden campaign, right? It was a head-to-head race in 2020, less than I think 0.2 percent of Americans voted for a third party in that race. Not unlike 2016 where you had Jill Stein in others siphoning votes from a second, most likely Secretary Clinton.So that is a big fear with a campaign, folks that I talked to about that not just because, you know, you've got RFK out there. He doesn't have ballot access at this point. He's rejected calls for him to run as a libertarian, but the fact that No Labels is putting in the groundwork, $70 million, a lot of money. We don't know where its coming from, from the money that we've been able to find. It's a lot of Republican Trump backers to get that a valid access and then hand it to whoever that candidate is. That's the greatest fear for the Biden campaign.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:10:09",
+      "speaker": "TAPPER",
+      "sentences": "To hurt Biden.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:10:09",
+      "speaker": "WALLING",
+      "sentences": "To hurt Biden most likely.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:10:09",
+      "speaker": "CARPENTER",
+      "sentences": "Or somebody hijacks that ballot access -- I mean, they don't necessarily control it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:10:09",
+      "speaker": "WALLING",
+      "sentences": "Exactly.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:10:09",
+      "speaker": "CARPENTER",
+      "sentences": "There's a lot of work going into this -- listen, I think we'd have a healthier system if we had more parties. But as very misguided effort to try to do this from the top-down without a candidate to begin with, if you want to build a political party, really do it, you have to start with some kind of principle, some kind of grassroots bottom up thing, and until that actually happens, I feel you're not really going to have --(CROSSTALK)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:10:09",
+      "speaker": "WALLING",
+      "sentences": "There's transparency baked in to that, too.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:10:09",
+      "speaker": "TAPPER",
+      "sentences": "Where's the money coming from.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:10:09",
+      "speaker": "WALSH",
+      "sentences": "The best thing to beat Trump is one alternative, the Democratic nominee.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:10:09",
+      "speaker": "WALLING",
+      "sentences": "Exactly.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:10:09",
+      "speaker": "TAPPER",
+      "sentences": "All right. Thanks, one and all for being here.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:10:09",
+      "speaker": "WALSH",
+      "sentences": "Thanks.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:16:50",
+      "speaker": "TAPPER",
+      "sentences": "In our politics lead, should an indicted member of Congress be allowed to attend classified briefings as of now, they are allowed as evidenced by the fact that Democratic Senator Bob Menendez attended yesterday's classified briefing with Secretary of State Anthony Blinken. Menendez is facing federal charges over a bribery scheme involving foreign governments.And now his colleague, Democratic Senator John Fetterman of Pennsylvania, is vowing to force a vote next week on a resolution to bar indicted members of Congress from being able to attend classified briefings. And he added, quote, we should have chucked that sleazeball a long time ago, unquote. Joining us now, Democratic Senator John Fetterman from the great commonwealth of Pennsylvania. You're enjoying -- you're enjoying your poetry there, I see. Let me ask you, Senator, last month, Majority Leader Chuck Schumer said Menendez has the right to be in classified briefings as a senator. Have you talked to Schumer about this? And do you think Schumer should change his view and maybe even join you in calling on Menendez to resign? SEN. JOHN FETTERMAN (D-PA):  I mean, I haven't discussed personally about that. But, yeah, your last quote that you had, I think I've been very clear about how I feel about that. And this has been an ongoing issue as well. And now, literally, now after October 7, you have this issue. Now, Senator Menendez has now been accused of being a foreign agent for two nations, Egypt and Qatar, and both of them are negotiating and being very part of the whole situation. And that's -- that's outrageous, that some how -- that senator now can be getting these classified briefings.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:16:50",
+      "speaker": "TAPPER",
+      "sentences": "So, Senator Menendez says he has every right to be there as a U.S. senator. He says the charges against him are false. He's been indicted, but he hasn't been convicted. He's awaiting trial.What's your response to the argument from supportive of Senator Menendez that, you know, he should be given his day in court before he's barred from classified briefings?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:16:50",
+      "speaker": "FETTERMAN",
+      "sentences": "Yeah, the right that he has is he has the right to have his day in court, and absolutely. But he doesn't have the right to necessarily be a senator. And he definitely doesn't have the right to be in classified briefings, would that involve nations that he is now credibly accused of being a foreign agent of, and it's outrageous. And I truly can't understand why anybody would be okay of that.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:16:50",
+      "speaker": "TAPPER",
+      "sentences": "So, Menendez, as of now, it seems like he's running for reelection in New Jersey this year -- the primaries in June, the Democratic primary.(LAUGHTER)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:20:07",
+      "speaker": "TAPPER",
+      "sentences": "Right, Dave McCormick, so -- I'm sorry, Dr. Oz. Dr. OzSo, what do you --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:20:07",
+      "speaker": "FETTERMAN",
+      "sentences": "Oh, no, that's -- that's --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:20:07",
+      "speaker": "TAPPER",
+      "sentences": "What do you make of the fact that so many Democratic party leaders in New Jersey are rallying around First Lady Tammy Murphy?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:20:07",
+      "speaker": "FETTERMAN",
+      "sentences": "Well, they're part of -- they're part of the establishment that was really essentially protecting that sleaze ball. And I really don't understand how anyone is okay with that ballot. I really don't know why you can weaponize the ballot. I mean, that's really just a delivery vehicle where are you just present that the candidates, but now they have this wheel -- we see me this weird kind of where they put them into special places and its really advantage (ph). And I don't think that's really not true democracy there.But I do believe the voters of New Jersey can understand that we want we have the chance to have a safe blue vote and -- here and I think Democratic voters are going to decide that we want the kind of representative in the Senate to reflect our values here.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:20:07",
+      "speaker": "TAPPER",
+      "sentences": "You're referring to the fact that in New Jersey, they have the odd tradition of county chairman can decide the ballot position of different candidates. So, theoretically, they could put their first- choice high up and the person that's most competitive, low, it is an odd thing that our friends across the Delaware River do.You've drawn criticism from fellow Democrats, on some of your positions relating to Israel. You told semaphore this month, quote, Israel is really a beacon of the kind of values the American values and progressive ideals that you want to see, unquote. Today, Israeli Prime Minister Benjamin Netanyahu appeared to reject the idea of a post-war Palestinian state, which is at direct odds with the stated position of the Biden administration how do you reconcile that? The idea that you see Israel as a beacon where the current prime minister does not want to provide any sort of path to statehood for the Palestinian people?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:20:07",
+      "speaker": "FETTERMAN",
+      "sentences": "Well, I actually agree with the president on that as well, too. I've always said this consistently, that free have an enduring peace that we have to have to state solution as well. And I disagree with Netanyahu about that but I do believe that that doesn't change the fact that Israel is our special ally. And we had that kind of relationship. And I think it's also have the values and democracy that are just like we have here in our nation as well, too.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:20:07",
+      "speaker": "TAPPER",
+      "sentences": "I saw a poll that indicated you have very high approval among Democratic voters. And this information in Pennsylvania, and this information came along with a tag that Twitter is not real life, because obviously a lot of progressives on twitter have been attacking you for your position on Israel, for noting that in your opinion, saying that there is a crisis at the border does not make one xenophobic.Why do you think you've been so criticized by so many progressives?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:25:02",
+      "speaker": "TAPPER",
+      "sentences": "Thank you so much, Senator John Fetterman, Democrat of Pennsylvania, always good to see you, sir.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:25:02",
+      "speaker": "FETTERMAN",
+      "sentences": "Okay.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:25:02",
+      "speaker": "TAPPER",
+      "sentences": "Prime Minister Benjamin Netanyahu is facing new calls for leadership change in Israel as he gets on the phone with President Biden. \"The New Yorker's\" David Remnick is going to help us understand this critical moment on the world stage.Stay with us. (COMMERCIAL BREAK)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:25:02",
+      "speaker": "TAPPER",
+      "sentences": "Topping our world lead, President Biden and Israeli Prime Minister Benjamin Netanyahu spoke for the first time in nearly a month today. The White House says its a coincidence, but it happened today after Netanyahu publicly swatted down the idea of establishing any sort of Palestinian state after the war ends.Remember, the U.S. has pushed for a two-state solution for decades. All this has Netanyahu faces a fresh rash of criticism inside Israel. One war cabinet minister called for new elections as a former prime minister slam Netanyahu's deliberate alienation of the United States. Let's get right to CNN's Nic Robertson in Israel and MJ Lee at the White House. And, MJ, a crumbling U.S.-Israeli relationship is less than ideal for Biden during an election year when support for Israel is popular with independence and the electorate at large. What have you heard about that call?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:25:02",
+      "speaker": "MJ LEE, CNN SENIOR WHITE HOUSE CORRESPONDENT",
+      "sentences": "Well, Jake, the official readout we just got from the White House does say that the president discussed his vision for a two-state solution. The problem, of course, is that Prime Minister Netanyahu doesn't share in that vision. And more importantly, he is showing a real willingness to say that publicly. You know, we have spent months extensively reporting on the real tensions that we have seen between the U.S. and the Israel as the war has progressed. But one thing we've heard pretty consistently from us senior officials is this idea of a coaching and guiding, and even sometimes criticizing Israel, but doing it privately and not doing it in public because that isn't constructive.I think all of that context sort of makes the fact that Netanyahu has sort of made this public and explicit rejection of the president's sort of vision for post-war Gaza. And what that would look like all the more notable. This is an exchange I just had with White House spokesman John Kirby about this a few minutes ago. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:25:02",
+      "speaker": "LEE",
+      "sentences": "What would you say is the president's hope and expectation here? Is it that the prime ministers stance on this will eventually shift?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:25:02",
+      "speaker": "JOHN KIRBY, NATIONAL SECURITY COUNCIL COORDINATOR FOR STRATEGIC COMMUNICATIONS",
+      "sentences": "The hope is that when there's -- when this conflict is over, that we can work in a collaborative way with the Israeli government on and counterparts in the region on good governance in Gaza. He's not Pollyannaish about this. Look, this is just -- this -- we're not going to agree on everything. All I can tell you is that the president reiterated his strong conviction in the viability of a two- state solution.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:25:02",
+      "speaker": "LEE",
+      "sentences": "And one thing that John Kirby didn't answer is whether the president has any reason to believe that Prime Minister Netanyahu may shift his position on this, given that the two leaders are completely at odds on something that is as fundamental as the idea of creating a Palestinian state, Jake.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:25:02",
+      "speaker": "TAPPER",
+      "sentences": "And, Nic, Israeli war cabinet minister Gadi Eisenkot, two former chief of staff for the IDF. He called for fresh elections and said Netanyahu's goal of absolutely defeating Hamas is unrealistic.Do we expect Netanyahu to respond?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:25:02",
+      "speaker": "NIC ROBERTSON, CNN INTERNATIONAL DIPLOMATIC EDITOR",
+      "sentences": "If he does, he might try to put forward a version that we hear a little bit more from the military these days. It's not complete annihilation of Hamas but destruction of their capability, he may sort of pivot to that sort of message.But that's still doesn't get any ways to towards answering the criticism that's been leveled against them by Eisenkot who said, look, you've got to level with the people. You've got to tell them this straight. And by the way, if you want to get the hostages out and you want it done in the near term, then you need to accept you're going to have to do a deal. And that's his criticism from in the cabinet inside the war cabinet. So that's very important. But I think also in terms of public opinion, a who break former prime minister level, his criticism saying that its unconscionable that Netanyahu doesn't have a day after the war scenario for Gaza that this hampers the IDF's military actions, not any that it puts Israel in a potential Gaza quagmire away. You can get caught up in an intensified fighting against Hezbollah in the north, you can get caught up in intensified fighting in the West Bank. And this is going to cost you, your allies in the region. It's going to cost you support from your principal ally, the United States, has a diplomatic fallout for this. So he's taking a lot of heat. But to your point, what's he going to say? Well, he's got broad shoulders on this stuff. He does tend to put his head down and keep trying to move forward.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:25:02",
+      "speaker": "TAPPER",
+      "sentences": "Nic Robertson and MJ Lee, thank you.Let's bring in David Remnick, the longtime editor of \"The New Yorker\". David, you profiled Netanyahu in a \"New Yorker\" piece called \"The Price of Netanyahu's ambition\". It's a great piece. I recommend it to everybody. You start with his father Benzion Netanyahu. Explain why.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:25:02",
+      "speaker": "DAVID REMNICK, EDITOR, THE NEW YORKER",
+      "sentences": "Well, Benzion Netanyahu was called a revisionist Zionist, which is the much more conservative camp of Zionists that were -- that felt that there were enemies everywhere and that there will always be enemies. And the latest is only hams. Benzion Netanyahu died the age of 102.And Bibi Netanyahu, Benjamin Netanyahu is very much his father's son, fashion himself in a very similar way. I am the unique and only defender of Israel and under me, there will never be a Palestinian state. And the only time you've ever seen Netanyahu in the mode of concession or compromise is mainly to fend off American presidents. You remember he gave a speech at Bar-Ilan University while Obama was president in which he gave a kind of circumscribed compromising language about the possibility of some form of a Palestinian state. It was -- it really turned out to be, to use the expression, baloney. He, right now, his appeal to whatever base he has left and really only 15 percent of the Israeli people want to see him continue as prime minister is I am the person who will uniquely defend against there ever being a Palestinian entity at all. And considering how traumatized Israelis are after October 7, this does have some appeal and for him to be kicked out of office, there has to be either a vote of no confidence or new elections, which is a very complicated piece of business.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:25:02",
+      "speaker": "TAPPER",
+      "sentences": "Right, because they have a parliamentary system and that's also one of the reasons why he is dependent upon these extremists in his cabinet, Ben-Gvir and Smotrich, who have among them 14 seats. And they go away and Netanyahu loses power completely. We've been covering Ben-Gvir and Smotrich for some time and they're extremist, racist, anti-Arab views, and how they are based similarly calling the shots on a number of things, including what's going on in the West Bank, what happens in Gaza afterwards.A Biden administration official said to me a few weeks ago, at some point, Netanyahu is going to have to choose between governing in a way that pleases these extremists or pleases President Biden and the U.S. But I -- after I posted that, Barak Ravid, the \"Axios\" reporter said, Netanyahu's already chosen. He's siding with the extremists.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:25:02",
+      "speaker": "REMNICK",
+      "sentences": "I think -- I think Barak is absolutely right. He's already chosen and he chose from the beginning. He's made it very clear. He and Biden haven't spoken until now for three weeks and that's not -- was the word coincidence somebody used, that's polite political language, which we can come up with another English word that we shouldn't say on CNN.And they spoke for now after three weeks and right after that, Netanyahu, right around the same time, Netanyahu decided it was the right moment to have a press conference which he knew what he would say. He would say I am what stands between you and a Palestinian entity, I will uniquely defend you, the Israeli people against the Americans who are pushing for this. And at the same time accepting and even demanding American support. That's the political quandary here. So I'm not underestimating for a moment the difficult situation Israel faces, whether it's from Hezbollah or Hamas, or the Houthis, or whatever. One would be fool to underestimate that, too. All these things can be true at the same time.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:25:02",
+      "speaker": "TAPPER",
+      "sentences": "Yeah, in terms of the traumatized Israeli people -- I mean, Netanyahu, his pitch before October 7 was I'm the only one that will keep you safe. Obviously that did not come true. And you've been to Israel few times since October 7, you say the feeling among the public there is now, quote, we are no longer Israeli, we are Jewish, unquote.What does that mean?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:40:02",
+      "speaker": "TAPPER",
+      "sentences": "David Remnick, always great to have you on. Thank you so much.And I'll tweet out your article so anybody who missed it will check it out. We're just learning about a new move to bring accountability for the failures in the school shooting in Uvalde, Texas. The breaking news next. (COMMERCIAL BREAK)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:45:02",
+      "speaker": "JOSH CAMPBELL, CNN CORRESPNONDENT",
+      "sentences": "No, that's right, Jake. And this -- as you mentioned, a significant development. This would represent the first publicly known development within the criminal justice system to actually investigate the incident at Robb Elementary back in 2022.Of course, there have been a number of investigations that have been looking into that failed botched police response, coming just a day after the DOJ released its scathing report, indicating numerous incidents of failure by law enforcement on that day. At least 10 separate incidents where law enforcement officers should have made entry into that classroom in order to stop the shooter. Police waiting over for 70 minutes in order to make entry and finally, take down that shooter. Now, this new reporting from the Uvalde leader newspaper there in Uvalde, it doesn't indicate who the potential targets of an investigation might be, but presumably, we're talking about the officers themselves. The suspect obviously is dead. He will not be prosecuted. And so, again, we're learning today the special grand jury has now been assembled there in Uvalde. They will conduct an investigation, and obviously, we'll continue to watch to see what comes out of that.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:45:02",
+      "speaker": "TAPPER",
+      "sentences": "Josh, take us inside how a grand jury like this works?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:45:02",
+      "speaker": "CAMPBELL",
+      "sentences": "So grand juries are seated all the time across the United States. But this is what is called a special purpose grand jury, which a prosecutor can bring in order to look into a particular incident, in this case, in order to determine whether laws in the state of Texas were actually violated.Now, no information is coming out of the D.A.'s office. There hasn't been much information at all for quite some time, despite multiple attempts by CNN to determine what that office was actually investigating. We know that that investigation, as we often see in government agencies, provided somewhat of a cloak -- you know, authorities referring everyone back to the district attorney basically, in response to any question about law enforcement and who would be held accountable. This special purpose grand jury, according to the local newspaper, will spend the next six months, Jake, looking at evidence. The way these work, you know, they can call in witnesses. They can look at information to include that information that the DOJ assembled throughout their lengthy investigation and then make an ultimate determination. You know, we're talking about a jury of citizens to determine whether presumably any of these officers should be held accountable. Final point, Jake, it's worth pointing out as well, the grand jury secrets -- proceedings are secret, which means that were likely not going to hear anything from the prosecutor for that period of time. Witnesses who were called before a special purpose grand jury can talk about what they said and what they saw. But I think we'll see authorities can continue to clam up in that case, which obviously for the members of Uvalde community there, they're continuing, continuing to demand answers. But this appears to be at least the first publicly known step in the criminal justice system to seek accountability.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:51:56",
+      "speaker": "TAPPER",
+      "sentences": "And back with our world lead, Pentagon officials have not met since last month to decide which weapons Ukraine gets from the U.S. stockpiles because there's simply no money left. And now, President Biden is running out of time to get lawmakers to approve his $60 billion package before the election. There's that reality. And then, of course, there's the reality on the ground.CNN's Fred Pleitgen shows us now the costly lengths to which Russia is willing to go to destroy Ukraine. We must warn you, some of the images we're about to show you are disturbing. (BEGIN VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:55:01",
+      "speaker": "TAPPER",
+      "sentences": "All right. Fred Pleitgen in Dnipro, Ukraine, thank you so much.A murder that captured headlines, inspired movies and movies of the week, national outrage, and now claims of new evidence. Stay with us. (COMMERCIAL BREAK)",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

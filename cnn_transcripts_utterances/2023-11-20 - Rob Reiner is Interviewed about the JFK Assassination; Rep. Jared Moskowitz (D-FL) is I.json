@@ -1,0 +1,367 @@
+{
+  "date": "2023-11-20",
+  "headline": "CNN This Morning",
+  "subHeadline": "Rob Reiner is Interviewed about the JFK Assassination; Rep. Jared Moskowitz (D-FL) is Interviewed about Gun Violence; OpenAI Employees Pen Letter to Board. Aired 8:30-9a ET",
+  "utterances": [
+    {
+      "timeStamp": "08:30:00",
+      "speaker": "ERICA HILL, CNN ANCHOR",
+      "sentences": "To read your reporting -",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:30:00",
+      "speaker": "POPPY HARLOW, CNN ANCHOR",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:30:00",
+      "speaker": "HILL",
+      "sentences": "Because it really is - is stark and so important at the same time.Elizabeth Dwoskin, thank you. ELIZABETH DWOSKIN, SILICON VALLEY CORRESPONDENT, \"THE WASHINGTON POST\": Thank you so much, Poppy.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:30:00",
+      "speaker": "HARLOW",
+      "sentences": "It has been nearly 60 years since the assassination of JFK and the conspiracy theories about who truly killed him have run wild for decades. Actor, producer, now podcaster Rob Reiner is here to discuss his new project that will certainly add to the discussion around all of this, next.(COMMERCIAL BREAK) (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:30:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "From Dallas, Texas, the flash apparently official, President Kennedy died at 1(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:35:03",
+      "speaker": "HILL",
+      "sentences": "I did.ROB REINER, ACTOR, FILMMAKER, ACTIVIST AND CO-HOST \"WHO KILLED JFK?\" PODCAST: Oh, yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:35:03",
+      "speaker": "HARLOW",
+      "sentences": "It's doing really well. It's like very high up on Apple podcasts.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:35:03",
+      "speaker": "REINER",
+      "sentences": "Yes, like it's number eight, I think, now. And we've had two episodes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:35:03",
+      "speaker": "HARLOW",
+      "sentences": "Soon to be number one after this segment.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:35:03",
+      "speaker": "HILL",
+      "sentences": "After this interview.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:35:03",
+      "speaker": "REINER",
+      "sentences": "Of course. After this, yes. And the third one drops on Wednesday, which is the anniversary of the assassination.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:35:03",
+      "speaker": "HARLOW",
+      "sentences": "Why - why did you want to dig into this?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:35:03",
+      "speaker": "REINER",
+      "sentences": "You know, I was 16 and any -- when it happened. And anybody who was alive at the time will never, ever forget where they were when they heard.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:35:03",
+      "speaker": "HARLOW",
+      "sentences": "Of course.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:35:03",
+      "speaker": "REINER",
+      "sentences": "It was a national trauma. And we all experienced it, collectively. The whole country. Teacher told us that something terrible has happened to the president. Very bad news. They sent us all home from school, and we watched from that moment until the moment where the suspected assassin of Kennedy, Lee Harvey Oswald, was shot himself on live television. I saw that happen by Jack Ruby. And it just was bizarre. The whole thing was bizarre.And then the Warren Commission comes out a year later, and I didn't think very much about it because I was, you know, 17, 18 years old. I mean I -- but then books started coming out, \"Rush to Judgment.\" I started listening to other people. I read everything I could. And over the 60 years, we have had revelations after revelation. And -- but people don't really understand how it works in the aggregate. And so I decided, because I've been studying this for forever. I've been to Daley Plaza many times. I've talked to everybody who was alive at the time. I've talked to forensic experts. I've talked to everybody. I decided to see if we could put together, in a comprehensive, deep dive as to what actually happened that day with the best information that we have at this point and put it all together. And we do eventually tell you what we think happened. We name names of actual shooters and we talk about the positions those shooters were in. And this is based on talking to hundreds and hundreds of people and reading many, many books and looking at all -- recently there was a documentary about the Parkland doctors. Every single one of them said, all the - all the shots on Kennedy were entrance wounds. Well, if that's the case, then the shots didn't come -- there were shots from the sixth floor, but those shots are not the ones that killed Kennedy.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:35:03",
+      "speaker": "HILL",
+      "sentences": "You were saying to Poppy and I in the break, that this is really something that you, for 60 years, have thought about.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:35:03",
+      "speaker": "REINER",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:35:03",
+      "speaker": "HILL",
+      "sentences": "And you have stayed on top of.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:35:03",
+      "speaker": "REINER",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:35:03",
+      "speaker": "HILL",
+      "sentences": "When you get to this point where you're putting it all together, culminating in this podcast, did anything change for you based on what you thought you knew up until that point and where you are now?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:40:05",
+      "speaker": "HARLOW",
+      "sentences": "Rob Reiner, clearly, your passion on this shows.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:40:05",
+      "speaker": "REINER",
+      "sentences": "I am. I am. HARLOW",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:40:05",
+      "speaker": "REINER",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:40:05",
+      "speaker": "HARLOW",
+      "sentences": "I can't wait to listen over the holidays. Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:40:05",
+      "speaker": "REINER",
+      "sentences": "Yes. I - you're going to - I - you'll be -- it will be interesting. Watch -- the third one is interesting because it's the forensics.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:40:05",
+      "speaker": "HARLOW",
+      "sentences": "And that comes out Wednesday.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:40:05",
+      "speaker": "HILL",
+      "sentences": "That's Wednesday.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:40:05",
+      "speaker": "REINER",
+      "sentences": "That's Wednesday and it tells you all of the forensics.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:40:05",
+      "speaker": "HARLOW",
+      "sentences": "OK. Thanks, Rob. Appreciate it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:40:05",
+      "speaker": "REINER",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:40:05",
+      "speaker": "HILL",
+      "sentences": "Good to see you, Thanks.The United States is on pace for more than 700 mass shootings this year. It is a horrific new high, new record high. We're going to talk a little bit about new congressional efforts to curb gun violence, that's just ahead.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:40:05",
+      "speaker": "HARLOW",
+      "sentences": "Also, Defense Secretary Lloyd Austin making this unexpected trip to Kyiv this morning. He's meeting with the president and other Ukrainian leaders. His message is clear, America has your back.(BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:20",
+      "speaker": "HARLOW",
+      "sentences": "Look at that map. Texas, Tennessee, Arkansas, California, four states that all saw mass shootings just this weekend. In total, 15 people were injured in those shootings, five were killed, including four women in Tennessee who were all related. The suspect in that shooting has been found dead. And the U.S. is on pace to reach a record, 700 mass shootings this year. That is according to data from the Gun Violence Archive. And that would make it the most in a single year. It would be more than double the number of mass shootings in just 2018, the year when 17 people were murdered, 17 more injured at Marjory Stoneman Douglas High School in Parkland, Florida, that remains the deadliest high school shooting in U.S. history.And, today, six Democratic lawmakers will tour the scene for the final time because that building has remained largely untouched since the shooting. The wall still riddled with bullets. Blood still on the ground. And now that the criminal trials have concluded, the building will be demolished next year. Joining us now, Democratic Congressman Jared Moskowitz of Florida. He is a graduate of Marjory Stoneman Douglas. He currently represents Parkland in Congress. Thank you very much for being with us. Tell me about your goal. I mean just to -- it's going to be incredibly difficult, I'm sure, for those who have not walked through the hallways to do so. What do you hope they take away from it? REP. JARED MOSKOWITZ (D-FL): Well, thanks. Thanks for having me this morning. So, I've done this before. I took a bipartisan group of lawmakers in Congress through the building before. And I'm taking -- this is the second group of bipartisan lawmakers that I'm taking through the building. The building is literally a time capsule. It's exactly as it was the day of the shooting minus the victims. Every backpack that was there, every shoe that fell off, the homework that was on the desk, what was on the dry erase board that day, it's exactly as it was. And it's unique because they wanted to keep it that way for the trials. And so what I'm hoping that it accomplishes is that, to make this real, when we see these mass shootings, we see camera angles from far away, we see a picture of the building, but never see inside. And here in Florida, when I brought lawmakers to the building when I was in the state legislature, I brought Republicans and Democrats to the building, it led to the largest bipartisan gun violence prevention and mental health school safety bill in Florida history. And so, for me, this is about seeing what failed that day, not just from gun safety regulations, but also from school safety rules as well.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:20",
+      "speaker": "HARLOW",
+      "sentences": "Yes, you know, this makes me think about what \"The Washington Post\" decided to do, as you well know, and to put out this video that had not been seen before from the shooting, where you can hear gunfire, where you can hear students -- wounded students crying for help. And the executive editor of \"The Washington Post,\" Sally Buzbee explained that decision in an editor's note, writing, \"there is public value in illuminated the profound and repeated devastation left by tragedies that are often covered as isolated news events but rarely considered as part of a broader pattern of violence.\"It sounds like she is echoing what you are doing today in terms of saying you have to see it. If we want change in this country, you have to see it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:20",
+      "speaker": "MOSKOWITZ",
+      "sentences": "She's 100 percent correct. We saw this in proof positive work in Florida when lawmakers came to the building. You're talking about a-plus rated members of the NRA came to the building, folks that have, you know, every child in their house has an AR-15 and had never voted for gun regulations, gun violence prevention rules in their entire political career. And when they saw what it looked like, when they saw the devastation, they realized, well, look, we have a Second Amendment that we can protect, but we also have to keep guns out of the hand of people who shouldn't have them. And that's what led to the bipartisan deal.And so, look, look what's going on in, you know, in wars in Ukraine, wars in the Middle East. We get those images beamed onto the TV and into our social media every single day. But when there is a mass shooting in people's neighborhood, they don't get to see it. No, no, if they saw it, it would have a dramatic impact on recognizing that there is a balance that has to happen in this country between protecting the Second Amendment and people's rights to defend themselves and also keeping kids safe in schools and movie theaters and grocery stores.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:20",
+      "speaker": "HARLOW",
+      "sentences": "Let me turn to another topic, but it remains on the issue of hate in this country, and that is Florida Governor Ron DeSantis and how he responded to Elon Musk's tweet from earlier last week that was siding with an anti-Semitic comment. Now, Musk has said, I'm not anti- Semitic. You know, that's not correct. But when our colleague, Jake Tapper, read him that tweet, this is how the governor of Florida responded.(BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:50:00",
+      "speaker": "HARLOW",
+      "sentences": "Jake went on to read him the full tweet and the context and I would -- four days between when it was posted, by the way, and when that interview was.So, my question to you is, what is your response to that given the alarming rise in anti-Semitism in this country right now?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:50:00",
+      "speaker": "MOSKOWITZ",
+      "sentences": "Yes, no, listen, you know, there are very few issues that are bipartisan in this country in today's society, but anti-Semitism is one of them, right? We see Nazis in the street. We saw it in Madison, Wisconsin, the other day. We've seen it in Florida, in Orlando, near Disney World.And when things happen on let's say the right, my Republican colleagues want to ignore it. They're very quiet. But, by the way, the same thing happens to my left, which is, when there is a protest that's on a foreign policy issue, like a ceasefire protest, right, but there's people in the crowd holding signs that say gas the Jews, kill the Jews, I don't see my colleagues on the left calling that out. And so anti-Semitism is easy to call out when it's across the aisle, right? Democrats have no problem calling out Marjorie Taylor Greene or Paul Gosar, right, across the aisle, and Republicans have no problem calling out the squad. But when they want to do it from within the party, they're super quiet. When Donald Trump had dinner and tea at Mar-a-Lago with a Holocaust denier, I didn't hear many of my Republican colleagues come out and criticize the president. And so, you know, politics cannot be above, right, the -",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:50:00",
+      "speaker": "HARLOW",
+      "sentences": "I will -",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:50:00",
+      "speaker": "MOSKOWITZ",
+      "sentences": "Your jersey, your team cannot be above fighting anti- Semitism.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:50:00",
+      "speaker": "HARLOW",
+      "sentences": "I will say that our John Berman did ask Governor DeSantis a couple of weeks ago if he would do what Trump did in that circumstance, and he said after pressed by Berman a couple of times that he would not.Look, I appreciate you highlighting these really important issues, and we'll be thinking of all of you today as you walk those halls. Congressman, thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:50:00",
+      "speaker": "MOSKOWITZ",
+      "sentences": "Thank you so much.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:50:00",
+      "speaker": "HARLOW",
+      "sentences": "Of course.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:56:20",
+      "speaker": "HILL",
+      "sentences": "We are getting breaking news about the firing of former OpenAI chief Sam Altman and what is happening now at the parent company of ChatGPT.We want to get straight to CNN media analyst Kara Swisher, who joins us this morning.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:56:20",
+      "speaker": "HARLOW",
+      "sentences": "She's also the host of the \"On\" podcast and \"Pivot.\"Kara, this is extraordinary breaking news. What can you tell us? KARA SWISHER, CNN MEDIA ANALYST: Yes. Well, there's a letter that just was given to the board of OpenAI, which did this firing and then backtracked on a reunion with Sam Altman yesterday. And 505 of its 700 employees want the board to resign. And that's just 5:55 in the morning in California. So, I assume almost all of them will be signing that letter. But it was sent -- just sent to the board itself calling them essentially incompetent.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:56:20",
+      "speaker": "HARLOW",
+      "sentences": "Let's read part of it. This is - I mean, by the way, we printed out 12 pages.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:56:20",
+      "speaker": "HILL",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:56:20",
+      "speaker": "HARLOW",
+      "sentences": "I'm just trying to show people. Most of the pages are just their signatures here of all the people by name.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:56:20",
+      "speaker": "SWISHER",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:56:20",
+      "speaker": "HARLOW",
+      "sentences": "And it reads -- here is what I was talking about. It reads, \"your actions have made it obvious that you are incapable of overseeing OpenAI. We are unable to work for or with people that lack competence, judgment or care for our mission and our employees.\" Is this the end of the company if the board doesn't go?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:56:20",
+      "speaker": "SWISHER",
+      "sentences": "Well, they're all going to Microsoft. So, Microsoft just bought this company for nothing really because, you know, every day in Silicon Valley, as you know, Poppy, talent walks out the door. I mean they certainly have IP and all kinds of tech and things like that, but it's the people here created and I think that's a problem. And so Microsoft just bought this company for nothing, including its top leaders and probably almost all of its employees.Now, it probably doesn't have to keep with the terms of the contract it has with OpenAI because they don't have employees to meet the contract needs that they had and so there was -- there's billions and billions not going to be invested here by Microsoft and they're going to take that money and invest it in their own people and then own the thing anyway, because it's in - you know, this is what's happening - this is what's happening -- it's incredible. It's an incredible -- it's an incredible story of value disruption by four - four people - four people.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:56:20",
+      "speaker": "HILL",
+      "sentences": "It's remarkable too. As the headlines were coming in over the weekend, the alerts that we were getting. I think, though, for a lot of people they think of OpenAI, they think of AI, they think, I don't know which one is which, right? This is the parent company of ChatGPT.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:56:20",
+      "speaker": "SWISHER",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:56:20",
+      "speaker": "HILL",
+      "sentences": "Can you just put that in context for folks as to why this is ultimately such a big deal this morning?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:56:20",
+      "speaker": "SWISHER",
+      "sentences": "Well, first of all, the money. It was - it was valued at $80 billion. And this is something the employees have now lost, you know, in that regard. It's the leading AI company. It was started -- it's a - it's a profit and a non-profit. I'm not going to explain. Lots of companies -- several companies have done this in the past. But it was - it was leading the -- it was at the forefront of AI right now, including in the public's imagination. It was starting to make some real money. It's very expensive to do what it does and it was competing against Google and Facebook and Amazon and everything else. Amazon's made some investments in the area in a company called Anthropic. Microsoft, you know, put its bet on OpenAI and Sam Altman and now he works for them and is creating an advanced research unit, which will now be staffed by OpenAI staff, I guess.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:56:20",
+      "speaker": "HARLOW",
+      "sentences": "But, Kara, just to get to the issue of the big breaking point here was where Sam wanted to be in terms of moving fast on AI and where the board wanted to be.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:56:20",
+      "speaker": "SWISHER",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:56:20",
+      "speaker": "HARLOW",
+      "sentences": "And you look at Ilea (ph), a name that doesn't get used as much, but also an important name in all of this and where he wanted to go. But we do have this tweet from him. \"I deeply regret my participation in the board's actions. I never intended to harm OpenAI.\" What do we need to know about that divide and just what it means for humanity?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:00:02",
+      "speaker": "HARLOW",
+      "sentences": "OK. Boiled down.Kara Swisher, thank you so much and thank you for the breaking news and all that reporting.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:00:02",
+      "speaker": "SWISHER",
+      "sentences": "Thanks.",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

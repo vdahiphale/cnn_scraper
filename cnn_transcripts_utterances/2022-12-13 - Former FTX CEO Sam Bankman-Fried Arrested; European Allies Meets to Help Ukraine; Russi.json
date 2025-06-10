@@ -1,0 +1,505 @@
+{
+  "date": "2022-12-13",
+  "headline": "CNN Newsroom",
+  "subHeadline": "Former FTX CEO Sam Bankman-Fried Arrested; European Allies Meets to Help Ukraine; Russia's Fire Power Dwindling; Wounded Civilians Come Nonstop in Bakhmut; Latvian P.M. Suggest to Target Russian Military Base Inside its Turf; Scientists Found New Way to Lessen Dependence on Fossil Fuels; Fans Watching Lionel Messi's Fate in Qatar's World Cup. Aired 3-4a ET",
+  "utterances": [
+    {
+      "timeStamp": "03:00:00",
+      "speaker": "ROSEMARY CHURCH, CNN ANCHOR",
+      "sentences": "Hello, and welcome to our viewers joining us from all around the world. I'm Rosemary Church.Just ahead here on CNN Newsroom, FTX founder Sam Bankman-Fried is set to appear in court after being arrested in The Bahamas. What this means for the world of cryptocurrency. Reconstructing Ukraine's energy system, leaders are gathering in Paris to discuss aid and infrastructure support for Ukraine amid Russia's relentless attacks. And the Israeli military says they unintentionally shot a 16-year-old Palestinian girl. We will have a live report.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "03:00:00",
+      "speaker": "UNKNOWN",
+      "sentences": "Live from CNN center. This is CNN Newsroom with Rosemary.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "03:00:00",
+      "speaker": "CHURCH",
+      "sentences": "Good to have you with us. Sam Bankman-Fried, the founder and former CEO of the cryptocurrency exchange FTX has been arrested in The Bahamas. This at the request of U.S. law enforcement. Federal prosecutors are expected to unseal an indictment in the coming hours, and the Securities and Exchange Commission announced it will file its own separate charge.FTX filed for bankruptcy last month. The Bahamas had become its base of operations and Bankman-Fried was living there. He denies he defrauded investors, but the U.S. government appears unconvinced. For more, I'm joined now by Ivan Watson who's tracking the story from Hong Kong where FTX was based for some time. Ivan, what more are you learning about the possible criminal charges Sam Bankman-Fried might face now that he has been arrested.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "03:00:00",
+      "speaker": "IVAN WATSON, CNN SENIOR INTERNATIONAL CORRESPONDENT",
+      "sentences": "There is no shortage, Rosemary, of law enforcement organizations that seem to be very interested in investigating and potentially prosecuting Sam Bankman-Fried. The authorities in The Bahamas, they say that they're investigating him. They say they arrested him upon the request of U.S. authorities and that they anticipate an extradition request will come from the U.S. and they've already telegraphed that they will likely promptly hand him over to U.S. officials.As you pointed out, federal prosecutors, they are -- or have announced that they're probably going to unseal an indictment on Tuesday morning in the U.S. against Bankman-Fried, and that's also been backed up by the U.S. Securities and Exchange Commission who say that they're conducting their own parallel investigation and may press their own charges as well. A as you pointed out the, 30-year-old former CEO of FTX has kind of denied that he believes that he committed fraud. He has been speaking very publicly since his company essentially collapsed and he was forced to relinquish his role as CEO. Here's a taste of what he said at the beginning of the month at a conference sponsored by the New York Times. (BEGIN VIDEO CLIP) SAM BANKMAN-FRIED, FORMER CEO, FTX:  That's not what I'm focusing on. It's -- there's going to be a time and a place for me to, sort of think about myself and my own future, but I don't think this is it. I mean, look, I've had a bad month. This has not been any funny for me. But that's not what matters here. Like, what matters here is the millions of customers. What matters here is all the stakeholders in FTX. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "03:05:07",
+      "speaker": "CHURCH",
+      "sentences": "All right. Ivan Watson, many thanks bringing us up to date on that. I appreciate it.We are getting reports of new shelling in southern Ukraine near Dnipro. A regional leader says missiles and heavy artillery were fired at three communities, but no one was hurt. Meanwhile, there are new indications Russia is struggling with its war efforts. A senior U.S. military official says Russian supplies of new ammunition are, quote, \"rapidly dwindling, and their forces have resorted to using 40-year-old artillery. The official says that's why Russia is reaching out to Iran and North Korea to try to get more weapons. The exiled mayor of Melitopol in Ukraine says Russian forces are panicking and redeploying after Ukrainian strikes on the city over the weekend. There are conflicting casualty counts. Melitopol has been occupied by Russia since early in the invasion, and remains a major logistics hub for the Russian military. Later this hour Ukrainian aid conference -- so Ukrainian aid conference will get underway in Paris. Dozens of allies and institutions will discuss how to help Ukraine survive this winter and how to repair its badly damaged infrastructure. The Ukrainian prime minister arrived for the meetings earlier today, and President Volodymyr Zelenskyy is expected to speak via video link. CNN's Jim Bittermann is following this live from Paris. He joins us now. Good to see you, Jim. So how far might this aid conference go in helping Ukraine? What are the expectations here?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "03:05:07",
+      "speaker": "JIM BITTERMANN, CNN SENIOR INTERNATIONAL CORRESPONDENT",
+      "sentences": "Well, the expectations have been set ahead of time by the Elysee, the presidential palace here are basically saying that they -- what they really aim to do is try to get the Ukraine through this winter. They're looking for very short-term solutions on heating, water, and food supplies for the Ukraine, as well as health. Trying to help the Ukraine through mid-march is sort of the goal.So, to that end, there are something like, nearly 50 donor nations that are represented here. And as well, this afternoon, there's going to be a kind of an exposition by 500 French companies about what they can do, kind of what their -- how they can help get this to, get Ukraine through the winter with a short-term goal. And then of course, at some point there will be talking as well about long-term goals. But the primary emphasis according to the presidential policy is going to be just this short-term goal of getting Ukraine through, what is expected to be a very cold winter. It's already started out to be a very cold winter. Rosemary?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "03:05:07",
+      "speaker": "CHURCH",
+      "sentences": "All right. Jim Bittermann joining us live from Paris. Many thanks.And from the Latvian Capital Riga, I want to bring in Edgars Rinkevics who is the Foreign Affairs Minister for Latvia. Thank you, minister for joining us.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "03:05:07",
+      "speaker": "EDGARS RINKEVICS, LATVIAN FOREIGN AFFAIRS MINISTER",
+      "sentences": "Thanks for having me.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "03:05:07",
+      "speaker": "CHURCH",
+      "sentences": "So, by all accounts, Russia appears to be struggling with its war on Ukraine, their weapons and ammunition apparently in short supply. Is that your understanding of where things stand right now for Russia and its soldiers?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "03:05:07",
+      "speaker": "RINKEVICS",
+      "sentences": "Well, yes. Russia is struggling. Hold the gold so quick -- Blitzkrieg has announced in February and March, of course, have collapsed, but I think that the war is not over. There is a very challenging winter ahead for Ukraine, energy infrastructure issues, but also the war continues and we still need to continue providing Ukraine with all kinds of weapons.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "03:09:52",
+      "speaker": "RINKEVICS",
+      "sentences": "Of course, I stand by what I said from Bucharest. Also, when I was talking with CNN, and I do believe that if you really want to stop this war, if you really want to have Ukraine winning, then we also need to allow Ukraine use those weapons according to the international law, according to Geneva Conventions.Targeting also Russian military now infrastructure inside Russia because we see that many missiles have been launched against Ukrainian energy infrastructure, civilian object. And from that point of view, I also see that this kind of understanding is now broadening.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "03:09:52",
+      "speaker": "CHURCH",
+      "sentences": "The thing is though, that the allies worry that that sort of strategy targeting military sites inside Russia will escalate this war. You don't share that concern?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "03:09:52",
+      "speaker": "RINKEVICS",
+      "sentences": "No. Like two weeks ago, I didn't share that kind of concern. I don't share that also now because I believe that the only way how you can really deescalate the Russian war machine is showing that there are no limits against Russian military infrastructure.And from that point of view, of course, if you are talking about allies, there are at NATO about 30, soon to be 32. If you look at the broader coalition than even more, partners and dollars are there. And we are providing Ukraine with all kinds of weapons. So, from that point of view, I think that the understanding that if Russia is attacking Ukraine and Ukrainian infrastructure, Ukrainian civilians, then they should be allowed to defend themselves fully also in a reciprocal way.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "03:09:52",
+      "speaker": "CHURCH",
+      "sentences": "So how would you assess Ukraine's military progress in this war so far? And how far is your country willing to go to help Ukraine?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "03:09:52",
+      "speaker": "RINKEVICS",
+      "sentences": "Well, Latvia has been ranking number one when it comes per capita, per percentage of GDP providing military assistance. We are also providing assistance when it comes to generators and transformers, and also our population has been very keen to support both Ukrainian refugees and Ukrainians with everything we can.How far we are ready to go. I think that we are ready to support Ukraine through the poor victory of Ukraine, as stated also by President Zelenskyy. Why? Because we believe that this is larger than, let's say, kind of remote war, but the whole security of Europe and the world is at risk. So, if we don't stop rationale, Russia will be moving. So, from that point of view, we should not talk about any kind of security guarantees or new security architectures before war is not over and before Russia has not been contained and actually defeated.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "03:09:52",
+      "speaker": "CHURCH",
+      "sentences": "And minister, just very quickly, why do you think Russia's President Putin has decided not to hold his usual year end news conference? What do you think that signals?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "03:09:52",
+      "speaker": "RINKEVICS",
+      "sentences": "That there are no good news at all, that actually he cannot explain for his population that all the goals he stated on 21st of February have not been achieved. But Russian army is stumbling that there has been mobilization, and that actually all the kind of meter of the great Russian army is not there.Having said that, I'm not also bragging that the war is over. Russia has a lot of resources and it may have a very long war. So that means while there is a very favorable situation at this point for Ukraine and indeed for the democratic world, we should still remember that the war is not over. So, there is no any kind of reason to have a press conference where you have to answer questions, even from a very controlled environment, but you don't have very good answers.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "03:15:06",
+      "speaker": "LUCIA MARRON, MEDECINS SANS FRONTIERES",
+      "sentences": "No, it's a big issue with the electricity supplies. So sometimes there is no light or no water, so that's a bit challenging.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "03:15:06",
+      "speaker": "KILEY",
+      "sentences": "But still the injured come from Bakhmut. This woman in her 30s has been riddled with shrapnel. Her leg is shattered, but as they examine her more closely, her internal organs have been badly damaged. These two surgeons will be in this operating theater for many hours to come.The doctor says, \"she's a resident of Bakhmut. She came under artillery fire and suffered a shrapnel wound to the abdomen with damage to several organs.\" Is she going to live?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "03:15:06",
+      "speaker": "UNKNOWN",
+      "sentences": "We hope so.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "03:15:06",
+      "speaker": "KILEY",
+      "sentences": "We hope so. Are you seeing a lot of these sorts of injuries?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "03:15:06",
+      "speaker": "UNKNOWN",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "03:15:06",
+      "speaker": "KILEY",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "03:15:06",
+      "speaker": "UNKNOWN",
+      "sentences": "Every day.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "03:15:06",
+      "speaker": "KILEY",
+      "sentences": "Every day. Every day. And with a fighting in eastern Ukraine expected to intensify every day will be a bad day.Sam Kiley, CNN in Kostiantynivka. (END VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "03:15:06",
+      "speaker": "CHURCH",
+      "sentences": "And still to come, the process that fuels the stars reproduced in a lab on Earth using lasers. It sounds like science fiction, but it could become reality as a reliable source of clean energy. We'll take a look.And later this hour, the family of an American student studying in France says he hasn't been heard from in weeks, and now they fear the worst. We will have the details on his disappearance. (COMMERCIAL BREAK)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "03:20:06",
+      "speaker": "BILL WEIR, CNN CHIEF CLIMATE CORRESPONDENT",
+      "sentences": "There's an old joke among physicists that fusion is that technology it's just a decade away and always will be, but that seems to be less true with these big breakthrough moments. We'll see what Secretary Granholm announces from the Department of Energy over what happened at the Livermore Laboratory, where they use the biggest laser in the country to heat up this plasma and create more energy that they were putting in. This is after the folks in Oxford successfully doubled the time they created fusion energy back in February, but it was only to five seconds. But you know, the, the Wright Brothers first flight was only a few seconds, and within a century we were in outer space. Could this be a breakthrough moment?It certainly will mean a lot more investment and a lot more debate about priorities as other renewables, like solar and wind are about to explode.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "03:20:06",
+      "speaker": "CHURCH",
+      "sentences": "In the day ahead, Lionel Messi will continue the quest for his first World Cup title as Argentina takes on Croatia in the semifinals. This is the fifth tournament Messi has played in, and at 35 years old, it could be his last.CNN's Don Riddell explains what a championship would mean for the superstar, as well as his country. (BEGIN VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "03:25:00",
+      "speaker": "CHURCH",
+      "sentences": "All right, back to our top story. The arrest of FTX founder Sam Bankman-Fried in The Bahamas at the request of the U.S. government. Federal prosecutors in New York are expected to unseal an indictment against him later today. The SEC will also announce its own charges.Bankman-Fried is in Bahamian custody and will appear in court there in the hours ahead. The U.S. is expected to seek his extradition. Well, joining me now from Hong Kong, Primrose Riordan is the South China correspondent for the Financial Times. Thanks so much for joining us.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "03:25:00",
+      "speaker": "PRIMROSE RIORDAN, SOUTH CHINA CORRESPONDENT, FINANCIAL TIMES",
+      "sentences": "Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "03:25:00",
+      "speaker": "CHURCH",
+      "sentences": "So, what impact is the arrest of Bankman-Fried likely to have on the whole crypto industry? Can it survive this, given the FTX founder was very well connected and held in such high esteem, but now his company is bankrupt. He's in custody with an unknown future ahead of him.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "03:25:00",
+      "speaker": "RIORDAN",
+      "sentences": "Yes, it's a very good point, Rosemary. I mean, I think that his arrest initially has been very much celebrated by parts of the crypto community. Some of whom worked with Bankman-Fried and some of them who feel, you know, betrayed by the whole thing.But definitely it's had a massive im -- reputational impact on the industry, particularly for a lot of institutional investors who, you know, these sort of pension fund level groups and other, you know, state funds, which invested heavily in crypto. And they're now rethinking that. And also, some who -- who I guess partnered with FTX as well, or who worked with FTX and are wondering, you know, how they missed the red -- red flags that were, you know, in some ways visible. So, it's a really interesting impact there, I think as well. You know, a lot of the crypto community are thinking about what's next. I think a lot of people don't think that crypto is necessarily dead or going anywhere, but inside the community, I guess there's a consideration of, for example, whether or not decentralized finance or whether or not a move away from these cent --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "03:25:00",
+      "speaker": "CHURCH",
+      "sentences": "Right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "03:25:00",
+      "speaker": "RIORDAN",
+      "sentences": "-- centralized exchanges is where this is going next.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "03:25:00",
+      "speaker": "CHURCH",
+      "sentences": "It has to be asked, how was it even possible for corporate controls to fail so mis -- miserably allowing this crypto company to slip through the cracks and lose billions of dollars with no apparent internal controls or outside regulation?Of course, John Ray III who's standing in now as the FTX CEO and will have to testify. He raises the same concerns. It -- I mean, it does, it's mind blowing really, isn't it?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "03:30:03",
+      "speaker": "CHURCH",
+      "sentences": "So, what regulation does exist right now for crypto companies and how does it need to be improved to restore some level of trust if the crypto industry wants to continue, if it wants to survive this?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "03:30:03",
+      "speaker": "RIORDAN",
+      "sentences": "Yes, I guess it's a quite young industry and when you talk to regulators about this, a lot of them will say, well, a lot of these products are just moving so quickly that it's quite hard to keep up.Hong Kong, for example, is trying to become the next crypto hub for Asia, and it decided this just before the implosion of FTX and now it's deciding on how it will regulate crypto going forward. But it does create this really difficult question when a lot of the reason for crypto was to avoid these government controls in the first place. And when there are all these new different products, how to make them into securities, or how to make them into something which customers do have that protection is going to be a really big question. And I think that also it creates a lot of, you know, there's especially when people are trying to make it more decentralized. So, yes, it's a very tricky one for regulators.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "03:30:03",
+      "speaker": "CHURCH",
+      "sentences": "Yes, certainly is. So, we'll see what happens, watching it very closely of course, as you and know. Primrose Riordan, thank you so much for joining us.An investigation has been opened into the disappearance of an American college student studying in France. The parents of Kenny Deland, Jr. say they have not heard from their son in more than two weeks, and they fear the worst. CNN's Melissa Bell reports. (BEGIN VIDEOTAPE) CAROL LAWS, KENNETH DELAND'S MOTHER:  He was looking forward to coming home for Christmas.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "03:30:03",
+      "speaker": "MELISSA BELL, CNN CORRESPONDENT",
+      "sentences": "Kenny Deland, Jr., a college senior from upstate New York who's studying abroad in France, hasn't been heard from in more than two weeks according to his family.KENNETH DELAND, SR., FATHER OF U.S. STUDENT MISSING IN FRANCE:  We're waiting. We're worried. We don't know what (AUDIO GAP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "03:30:03",
+      "speaker": "BELL",
+      "sentences": "(Technical problem) local police involved when he didn't return to his host family or show up for classes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "03:30:03",
+      "speaker": "LAWS",
+      "sentences": "I haven't heard anything from them.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "03:30:03",
+      "speaker": "BELL",
+      "sentences": "That store Deland was seen at is about an hour's train ride south of the Universite Grenoble Alpes where he was studying. A Grenoble prosecutor confirmed to CNN that Deland appeared to leave school of his own accord, adding, the young man reportedly told several people that he derived in France under prepared and was having difficulty making friends.He also mentioned that he wanted to go to Marseilles before leaving for the United States.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "03:30:03",
+      "speaker": "LAWS",
+      "sentences": "I feel like I'm not really receiving any information. It's been very difficult. You know, we've (AUDIO GAP) been for us.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "03:30:03",
+      "speaker": "BELL",
+      "sentences": "Deland's school back in the U.S. and John Fisher University released a statement saying the college will continue to do all it can to assist in the investigation to find Kenneth Deland. But now, the 22-year-old's family is asking for the community's help. DELAND SR.reaching out to us.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "03:30:03",
+      "speaker": "BELL",
+      "sentences": "His parents say they last heard from him on November 27th, and his mother is worried he could be in danger.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "03:30:03",
+      "speaker": "LAWS",
+      "sentences": "When you don't know, you just don't know. We haven't heard from him.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "03:30:03",
+      "speaker": "BELL",
+      "sentences": "They set up findkenland.com asking the public if they've seen him, stating, we fear the worst and want him to be located.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "03:30:03",
+      "speaker": "UNKNOWN",
+      "sentences": "Kenny is real good kid.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "03:30:03",
+      "speaker": "BELL",
+      "sentences": "The State Department told CNN it is aware of reports of a U.S. citizen missing in France. We stand ready to provide appropriate assistance to U.S. citizens in need and to their families. But Deland's parents' message for their son is --DELAND, SR.:  We love you and we hope you can --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "03:30:03",
+      "speaker": "LAWS",
+      "sentences": "We're waiting to hear from you and we're waiting for you to come home.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "03:30:03",
+      "speaker": "UNKNOWN",
+      "sentences": "Yes, exactly.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "03:35:03",
+      "speaker": "CHURCH",
+      "sentences": "Palestinians are mourning a 16-year-old girl who was shot and killed by Israeli soldiers during a raid in the West Bank town of Jenin on Sunday. The funeral was held on Monday.The Israeli military acknowledges the shooting, but says it was unintentional, claiming their fire was directed at armed gunman, and the girl was on a roof nearby. The girl's family believes her death was no accident. CNN's Hadas Gold joins me now from Jerusalem. So, Hadas, what more are you learning about this shooting of this Palestinian teenage girl?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "03:35:03",
+      "speaker": "HADAS GOLD, CNN CORRESPONDENT",
+      "sentences": "Yes, it's just an absolutely tragic story. What we know happened is that on Sunday evening, the Israeli military carried out an arrest raid in Jenin. This is something that has become common, especially this past year. There have been these nearly nightly arrest raids across the occupied West Bank.The Israeli military saying that they are targeting militant strongholds before they say they can carry out attacks. But it seems as though this arrest raid didn't go necessarily as planned because what we're hearing from the 16-year-old's family, her name is, Jana Zakarna. They say that after the raid began and they began to hear very heavy firing, that Jana decided to go up onto her roof to see what was happening, and that it was about 20 minutes after the soldiers left the area that when her family went to go see where she was, they found her on the roof. They said that by that point she was already dead, and they said that she had been shot four times. Now, according to the Israeli military, they say that during the raid that they were fired upon from roofs and from the streets, and that they say that one of their soldiers fired at what he believed was a gunman on a roof nearby to where Jana was standing. And they said that following an initial inquiry, this is from the Israeli military, they determined that the girl who was killed was hit, they say by unintentional fire aimed at armed gunman on a roof in the area from which the force was fired upon. The IDF said that it regrets any harm to uninvolved civilians. We're also hearing from the Israeli Prime Minister Yair Lapid who says that he expresses sorrow for the girls' death and sent condolences for the family. But he adds that he has complete trust in the soldiers of the IDF and said they do their utmost -- their utmost to prevent harm to bystanders. But Jana's family is not believing these statements. They say that there were no militants in the area. They say the only militants in the area were on the street and not on the roofs, and they say there is no way this is a mistake. They say you can be mistaken with one bullet, but not with four. Now, the Palestine authority, Prime Minister Mohammad Shtayyeh, has also issued a statement calling on the United Nations to investigate this incident, and specifically calling on Israel to be placed on a blacklist. Rosemary?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "03:35:03",
+      "speaker": "CHURCH",
+      "sentences": "All right. It is a tragic story. Hadas Gold joining us live from Jerusalem, many thanks.A suspect in the 1988 Lockerbie bombing has made his first appearance in U.S. court. The U.S. believes Libyan Abu Agila Mohammad Mas'ud Kheir Al-Marimi was the bomb maker in the deadliest terrorist attack ever in the United Kingdom. Two hundred seventy people were killed when Pan Am flight 1 0 3 came down over Scotland. CNN's Nic Robertson has more now from London. (BEGIN VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "03:35:03",
+      "speaker": "NIC ROBERTSON, CNN INTERNATIONAL DIPLOMATIC EDITOR",
+      "sentences": "Finally, facing justice in a U.S. court and the possibility of life in jail. Former Libyan intelligence agent Abu Agila Mohammad Mas'ud Kheir Al-Marimi walks slowly, almost limped to the defense table. Almost 34 years since he allegedly set the timer on the Lockerbie bomb that would kill 270 people. He is being charged on three criminal counts, including destruction of an aircraft causing death.He was read his rights but did not enter a plea. How he got to Washington, unclear. KENNY MACASKILL BRITISH ALBA PARTY M.P.:  They didn't like the USA and handing over one of their citizens to the USA would be viewed as treachery. So, the surprises, they've got him, but not that he's involved.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "03:35:03",
+      "speaker": "ROBERTSON",
+      "sentences": "But a triumph for justice and the victim's families.VICTORIA CUMMOCK, HUSBAND KILLED IN PAN AM FLIGHT 103 BOMBING: Today's arraignment of Mas'ud in a Washington courthouse is a significant step, first step to address this three decades long miscarriage of justice.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "03:40:07",
+      "speaker": "JOHN MILLER, CNN CHIEF LAW ENFORCEMENT AND INTELLIGENCE ANALYST",
+      "sentences": "The boarding pass that shows he went to Malta, his fingerprint on it. The fact that he left right after the bomb was placed. The fact that he was the intelligence service's main technical expert on bomb making.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "03:40:07",
+      "speaker": "ROBERTSON",
+      "sentences": "A test now will testimony gathered by Libyan law enforcement a decade ago be admissible in the U.S. court.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "03:40:07",
+      "speaker": "AAMER ANWAR, LAWYER",
+      "sentences": "If the Americans and the Scottish authorities are now saying, Mas'ud is the bomber, well, the whole case then collapses against Megrahi. If he opens the door again on that, then the question arises, so Mr. Mas'ud on how was his confession extracted?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "03:40:07",
+      "speaker": "ROBERTSON",
+      "sentences": "Technically, Mas'ud could face the death penalty, but the government says it's not pursuing it because it wasn't constitutionally available at the time of the attack. The next hearing set for December 27th, by which time Mas'ud may have picked a lawyer. Nic Robertson, CNN, London.(END VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "03:40:07",
+      "speaker": "CHURCH",
+      "sentences": "Just ahead, people are taking to the streets of Peru, upset of the removal of the ousted president. Why Pedro Castillo is in jail saying he still holds that office.(COMMERCIAL BREAK)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "03:44:54",
+      "speaker": "SOARES",
+      "sentences": "This outrage led to violence from the Capitol Lima to Andahuaylas in southern Peru where protestors have stormed the regional airport forcing it to closed. In this mostly stronghold, the violence has already turned deadly with at least one person killed over the weekend.(FOREIGN LANGUAGE) UNKNOWN (through translator):  The right wing today has shown us that it is brutal and violent, that it doesn't see the masses. It is not aware that the people no longer believe in these politics.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "03:44:54",
+      "speaker": "SOARES",
+      "sentences": "At the center of it all, this man, former President Pedro Castillo, who only last week attempted to dissolve Congress to avoid impeachment. Hours later, though, he was impeached and arrested. Prosecutors accusing him of a crime of rebellion, a charge which he denies. His arrest sparking anger on the streets.(FOREIGN LANGUAGE) UNKNOWN (through translator):  We are here because they are violating the rights of our president. Pedro Castillo is still our president.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "03:44:54",
+      "speaker": "SOARES",
+      "sentences": "But not in the eyes of the law. His Vice President, Dina Boluarte, has stepped into his shoes. Though she hasn't had the warmest welcome. Boluarte says she's hoping to stabilize the country and regain support by bringing elections forward two years and promising to end corruption.It's a political crisis that is now reverberating across Latin America with regional allies such as Bolivia and Mexico, weighing in. Only fueling further Peru's political divide and threatening to set this tinderbox light. Isa Soares, CNN. (END VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "03:44:54",
+      "speaker": "CHURCH",
+      "sentences": "Joining me now from London, Christopher Sabatini is a senior research fellow for Latin America at Chatham House. He joins me now.Thank you so much.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "03:44:54",
+      "speaker": "CHRISTOPHER SABATINI, SENIOR RESEARCH FELLOW FOR LATIN AMERICA, CHATHAM HOUSE",
+      "sentences": "Thanks, Rosemary.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "03:44:54",
+      "speaker": "CHURCH",
+      "sentences": "So, as we just reported, Pedro Castillo claims he's still Peru's president and is calling for his release, claiming he was kidnapped and mistreated in a series of tweets that he did authorize to be posted on his behalf on Twitter.So, all this destabilizing the country, of course. What is going on in Peru right now?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "03:44:54",
+      "speaker": "SABATINI",
+      "sentences": "Well, longstanding wise, this has been just a terrible couple years for Peru. They've had seven presidents since 2016. Party system is fragmented. The Congress and the president for years now have been at loggerheads and basically, he, after three separate impeachment attempts, attempted to dissolve the Congress and oppose a state of siege.And the Congress fired back and said, no, you're, removed as president. And he tried to flee and was arrested. So, it's a long- standing dispute. And of course, what we're seeing with the popular protests is a reaction against a president who is popular in large parts of the, rural parts of the country.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "03:44:54",
+      "speaker": "CHURCH",
+      "sentences": "Indeed. And we'll get to those protests in just a moment. But I did want to ask you because Castillo called as we just reported, the new president a Dina Boluarte a usurper after she became Peru's first female president last week following Castillo's impeachment and subsequent arrest. What more do you know about Boluarte, and of course, the circumstancessurrounding Castillo's impeachment and arrest?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "03:44:54",
+      "speaker": "SABATINI",
+      "sentences": "Well, first of all, she's -- she's really a political unknown quantity. She served a few positions in the government. Of course, this is a government that because of inexperience and divisions had 80 ministers in its short one-and-a-half-year term already.She's really had never served an elected office before, but she was his vice president and she was assuming the role constitutionally after the Congress, basically removed the president for his attempted coup.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "03:44:54",
+      "speaker": "CHURCH",
+      "sentences": "And of course, meantime the U.N. Human Rights Office is concerned that these protests we're seeing in Peru may escalate further. We already know that they've turned deadly. And in addition to that, strikes are planned this week. So, how bad will this likely get, do you think? And do you worry that this could get out of hand?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "03:50:02",
+      "speaker": "CHURCH",
+      "sentences": "All right, Christopher Sabatini, thank you so much for your analysis. We appreciate it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "03:50:02",
+      "speaker": "SABATINI",
+      "sentences": "Thanks very much.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "03:50:02",
+      "speaker": "CHURCH",
+      "sentences": "And still to come, trading in a microphone for the military. The first member of BTS enters South Korea's mandatory military service. How fans are reacting to the news when we return.Plus, Prince Harry claims one or more parties lied to protect his brother in a new Netflix docu-series. A preview of the next three episodes just ahead. (COMMERCIAL BREAK) CHURCH:  Very catchy. K-Pop supergroup BTS is one member less for now. Jin is the first of the all-male group to take on South Korea's mandatory military service. The singer debuted a new look online earlier this week having chopped off his recognizable locks for a regulation hairstyle instead. CNN's Paula Hancocks has the latest. (BEGIN VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "03:50:02",
+      "speaker": "PAULA HANCOCKS, CNN CORRESPONDENT",
+      "sentences": "He is exchanging five-star hotels around the world for military barracks just sight of the DMZ, the demilitarized zone between North and South Korea. Jin, this Tuesday, officially became the first member of the pop sensation BTS to start his military service.At about quarter to two this Tuesday afternoon, we saw a convoy of some six black vehicles heading into this military barracks and there was significant security around. He has believed to have been part of that. Now, they had asked the management company and also BTS and Jin, that fans known as the army do not actually come to see him off. There were a few here though, and I met one, Mandy Lee from Hong Kong who'd flown in, especially to say goodbye.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "03:50:02",
+      "speaker": "MANDY LEE, BTS FAN",
+      "sentences": "We are here to, want to see Jin go into the military and want him and wish him all the best and stay safe and healthy and we await him the night, the 18 months.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:04:59",
+      "speaker": "CHURCH",
+      "sentences": "The Duchess of Sussex says she was fed to the wolves when she and her husband decided to leave the U.K. and their royal status.It's one of Harry and Meghan's latest claims featured in their Netflix documentary series, but they may be saving even more serious allegations for the finale. CNN's Max Foster previews the last three episodes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:04:59",
+      "speaker": "MAX FOSTER, CNN CORRESPONDENT",
+      "sentences": "Another week and another installment or set of installments of the new Harry and Meghan docu-series on Netflix. And this one promises a bombshell.(BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:04:59",
+      "speaker": "PRINCE HARRY, DUKE OF SUSSEX",
+      "sentences": "To see this institutional gaslighting.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:04:59",
+      "speaker": "MEGHAN, DUCHESS OF SUSSEX",
+      "sentences": "I wasn't being thrown to the wolves. I was being fed to the wolves.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:04:59",
+      "speaker": "UNKNOWN",
+      "sentences": "They weren't actively recruiting people to disseminate disinformation.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:04:59",
+      "speaker": "PRINCE HARRY",
+      "sentences": "They were happy to lie to protect my brother. They were never willing to tell the truth to protect us.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:04:59",
+      "speaker": "FOSTER",
+      "sentences": "It's not clear what the specifics are here. What is the lie the palace is accused of that protected William and worked against Harry and Meghan. That's the detail that everyone, including the palace will be waiting on when the series drops the final three parts on Thursday.Max Foster, CNN, London.",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

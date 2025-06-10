@@ -1,0 +1,307 @@
+{
+  "date": "2024-08-24",
+  "headline": "CNN Newsroom",
+  "subHeadline": "NASA: Starliner Crew Will Fly Home On Rival SpaceX Capsule; Israel Intensifies Gaza Operations Amid Cease-fire Talks; Manslaughter Probe Opened In Superyacht Sink; Ukraine Swap 115 Prisoners Each; Georgia Tech Stuns Florida State In Ireland Opener; College Football 12-Team Playoff Debuts This Season. Aired 6-7p ET",
+  "utterances": [
+    {
+      "timeStamp": "18:00:15",
+      "speaker": "PAULA REID, CNN HOST",
+      "sentences": "You are in the CNN NEWSROOM. I'm Paula Reid in Washington, in for Jessica Dean.We begin with breaking news tonight. Astronauts Butch Wilmore and Suni Williams will not return to Earth until next February. They are coming home in a capsule made by SpaceX instead of the Boeing one that brought them up to space. They had both been in space since arriving back in June. Now CNN's space and defense correspondent, Kristin Fisher has more.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:00:15",
+      "speaker": "KRISTIN FISHER, CNN SPACE AND DEFENSE CORRESPONDENT",
+      "sentences": "Well, Paula, NASA's top leadership says this was a really difficult and disappointing decision, but they believe it is the right one.In the end, it all came down to the astronauts' safety. It was a unanimous decision within NASA that made the call that this Boeing Starliner spacecraft with all of these helium leaks and thruster there are problems was simply just not safe enough to guarantee that Butch Wilmore and Suni Williams, the two astronauts that have been up at the International Space Station since June would be able to get back to Earth safely on that spacecraft, and this was a unanimous decision. But during this press conference today announcing this decision, NASA leaders said that Boeing felt differently and of course, Boeing has so much on the line here. This program, way over budget, way behind schedule. Boeing put out a statement shortly after this press conference started and it reads: \"Boeing continues to focus first and foremost on the safety of the crew and spacecraft. We are executing the mission as determined by NASA, and we are preparing the spacecraft for a safe and successful uncrewed return.\" And so that Starliner spacecraft is now going to undock from the International Space Station sometime in early September and when it does, were going to find out if that spacecraft and its thrusters are going to be able to orient it properly, get that heat shield in the right place so that it can withstand those really hot temperatures on re-entry. Of course, no astronauts will be inside this time, but the reason that this has caused so much concern for the astronauts' safety within NASA is because there are echoes of what happened during the Columbia tragedy back in 2003. So during this press conference today, I asked the NASA administrator, Bill Nelson, who was a member of the committee that investigated Challenger. He was a senator during in the Columbia accident. I asked him how much did those tragedies and his role in investigating them impact the decision that he made here today with Starliner. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:00:15",
+      "speaker": "BILL NELSON, NASA ADMINISTRATOR",
+      "sentences": "It has affected the decision today by this collective group and all of those that participated in the flight test readiness review this morning. It is a trying to turn around the culture that first led to the loss of Challenger and then led to the loss of Columbia where obvious mistakes were not being brought forth.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:00:15",
+      "speaker": "FISHER",
+      "sentences": "With that said, the NASA administrator says he still remains 100 percent confident that at some point in the future, NASA astronauts will fly on a Boeing Starliner spacecraft. It is just not going to be now.Butch and Suni are going to stay up at the International Space Station until February of 2025, making what was an eight-day mission up there now about eight months and they will return to Earth on Boeing's biggest competitor, SpaceX's Crew Dragon capsule -- Paula.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:00:15",
+      "speaker": "REID",
+      "sentences": "Kristin Fisher, thank you.Joining us now, retired astronaut, Jose Hernandez. Jose, I want to get your take on today's huge news.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:00:15",
+      "speaker": "JOSE HERNANDEZ, RETIRED ASTRONAUT",
+      "sentences": "Well, I think it is no surprise in the aerospace community with possibly the exception of Boeing, that NASA took this most cautious route to announce that the astronauts were not going to come back on the Starliner, but rather come back on a proven vehicle that brings astronauts back home safely, and unfortunately that's the competition, which is the SpaceX Dragon capsule.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:00:15",
+      "speaker": "REID",
+      "sentences": "Well, do you think it was maybe premature to put these two astronauts on a Boeing ship in the first place?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:00:15",
+      "speaker": "HERNANDEZ",
+      "sentences": "I don't know because we have to have these test flights. I mean, that's -- by definition, that is why they are called test flights and if everything goes as planned, this was going to be a 10- day mission. Well, it got extended to 80 days because of the thruster failures and the helium leaks.[18:05:10] And after doing some hot fire test of these thrusters, engineers were convinced that they were overheating causing Teflon seals to over- expand, over bulge restricting the flow of propellant, which degrades the performance. And that is pretty important because you want to make sure you're aligned, as was mentioned earlier, the capsule such that you protect with the heat shield as it comes in and you can be off by a degree or two or else, it could be a catastrophic failure. And I just want to mention that when the Columbia accident occurred, I was working as an engineer at NASA and someone coined a phrase of normalization of deviation that we start getting used to deviations than making exceptions and then will suffer catastrophic accident. And this is why NASA Director Bill Nelson said, hey, we are going to take the safest route because there are two lives at stake here and Butch and Suni are very good friends of mine. I am glad that NASA is making that decision.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:00:15",
+      "speaker": "REID",
+      "sentences": "Actually, Bill Nelson and Steve Stich, the manager of NASA's commercial crew program, actually spoke earlier today about the riskiness inherent in spaceflight. Let's take a listen.(BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:00:15",
+      "speaker": "NELSON",
+      "sentences": "Spaceflight is risky even at its safest and even at its most routine and a test flight by nature is neither safe nor routine.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:00:15",
+      "speaker": "STEVE STICH, MANAGER, NASA COMMERCIAL CREW PROGRAM",
+      "sentences": "It was just too much risk with the crew and so we decided to pursue the uncrewed test flight.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:00:15",
+      "speaker": "REID",
+      "sentences": "So if we accept that test flights are necessary and they are risky, does today's decision impact though the credibility of future Boeing missions?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:00:15",
+      "speaker": "HERNANDEZ",
+      "sentences": "Well, I don't think so because, you know, as Director Bill Nelson says, you know, it is not a trivial thing to go off into space and these are complex machines that get us up there. And NASA is committed to having two methods of getting humans, up into space. And this is why I think they are going to bring back the Starliner. I am sure It is going to come back safe and sound and we are going to learn a lot more and redesign the thrusters and fix those helium leaks.And it is going to take another test flight up and eventually it will get into the system where it will be normal flight, where we can take a whole crew up and bring them back home safely.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:00:15",
+      "speaker": "REID",
+      "sentences": "I mean, would you feel comfortable getting on a Boeing Starliner?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:00:15",
+      "speaker": "HERNANDEZ",
+      "sentences": "Absolutely. You know, the reason why I left is because they retired the space shuttle fleet and the only game in town at that time was going to Russia. I have five kids and I couldn't afford leaving them at home. And so -- but if NASA was to call me, giddy up, I will get up there and go up myself. Absolutely. I think I am still in good shape so I can be up.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:00:15",
+      "speaker": "REID",
+      "sentences": "Ready to giddy up. But just mentally, right? Even for people who are not astronauts thinking about what this must be like for Butch and for Suni, you think you're going up for eight days, you're up there for eight months.Mentally, how does an astronaut prepare for something like this? And then how do you handle it if you ever find yourself in this kind of situation?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:00:15",
+      "speaker": "HERNANDEZ",
+      "sentences": "Yes. I mean, you can't disregard the mental effects of having these kind of like the goal line moved up and up further open up, right, because it was a 10-day trip. Now we are at what? Day 80, and now they're talking about eight months since the start of the mission and absolutely, it affects you mentally because you've had plans, you were only planning on being gone 10 days. You had something scheduled two weeks in the future that didn't involve being up in space.And you're going to miss Thanksgiving, you're going to miss Christmas, you're going to miss birthdays -- those types of things that does have a psychological effect. But you know what? NASA does a great job at filtering people who are mentally strong and are able to withstand this. I mean, they are professionals. I personally know Suni and Butch and these guys are outstanding set of astronauts. They're going to pull out of this with flying colors and the big heroes here are their families. But NASA has a great support system, so the whole NASA family is supporting the families for anything that they need.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:10:51",
+      "speaker": "REID",
+      "sentences": "Miles, Jose and I have been talking about a lot about what this means for Boeing. But on the flip side, what does this mission now mean for SpaceX?O'BRIEN: Well, if you had asked me four or five years ago when this contract was first let, that it was going to play out this way, that we would have had you, know half dozen or so successful flights by the SpaceX Dragon, a dozen or so astronauts on board up and down the space station successfully without a hitch and Boeing would have yet to accomplish what we could call a successful mission, I would have bet against it. Boeing is the blue chip enterprise when it comes to space and aerospace or was in this country and as we've seen on the commercial airliner side of things, somehow along the way, that strong engineering culture, which made it this aerospace giant, seems to have been forgotten or needs to be relearned. There is new management at the top. Let's hope that happens, but it is really sad to see that happen and Boeing has been a partner with NASA since the very beginning. You know, NASA doesn't build its own spacecraft, it is just now they're doing a different way of contracting. Boeing has been there since the beginning, and let us hope that it can get back on track.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:10:51",
+      "speaker": "REID",
+      "sentences": "Jose, I want to pose this last question to you. I mean, put yourself in Suni and Butch's position. How do you pass the time for eight months in space? Do they have access to Netflix up there?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:10:51",
+      "speaker": "HERNANDEZ",
+      "sentences": "Well know, they are conducting science up there. The crew up there is conducting science and you've got to look at it as a lab at a university. There is a lot more work than the number of people up there.So when Butch and Suni, all of a sudden find themselves up there for eight months, believe me, NASA will put them to work. There are plenty of experiments that need to be conducted and they are going to be busy as bees working it. Now, with respect to entertainment, they pipe up movies and there is e-mail and there is the IP phone, so they can talk to their families just about any time of day and be able to have that constant communication. So it is not like they are isolated. So I think they are going to pass the time. They're going to be become part of the International Space Station crew as they are now and they are going to be working for the next six months and conducting real important science and they are going to come back, with the scientific world, it is going to be for the better for them staying up there those eight months.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:10:51",
+      "speaker": "REID",
+      "sentences": "A way to look on the upside, Jose. Thank you very much to you and to Miles.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:10:51",
+      "speaker": "HERNANDEZ",
+      "sentences": "Thank you very much.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:19:03",
+      "speaker": "JIM SCIUTTO CNN ANCHOR AND CHIEF NATIONAL SECURITY CORRESPONDENT",
+      "sentences": "Welcome back to the CNN NEWSROOM. I'm Jim Sciutto in Tel Aviv, Israel, where tonight, the IDF says it remains prepared for any retaliatory attack from Iran or Hezbollah, but is giving no indication of how or when or new information about any imminent attack.Iran has vowed retaliation against Israel for the assassination of Hamas' political leader in Tehran, but says, it is \"totally unrelated\" to Gaza ceasefire talks. High level talks are happening this weekend in Cairo. Major sticking points however, remain to reaching a deal. Yesterday, I spoke with someone who is close to the Israeli military operation in Gaza, Major John Spencer, who served in the US Army and is now chair of Urban Warfare Studies at West Point's Modern War Institute. This is some of what he told me about the state of the war in Gaza and continuing questions about civilian casualties there. (BEGIN VIDEO CLIP) MAJOR JOHN SPENCER (RET) US ARMY, CHAIR OF URBAN WARFARE STUDIES, WEST POINT MODERN WAR INSTITUTE: Well let me respond to that, Jim.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:20:30",
+      "speaker": "SPENCER",
+      "sentences": "One is because, I don't believe that number of civilian casualties. We have a problem with determining what is the civilian casualty count in operations where the only spokesman for those numbers is local sources that are Hamas validated or Hamas sources themselves. So in that strike, which I think is a great example.In that context of a strike, you would have to know what was the enemy known target, number of targets, and then what was the known status -- when did they take the strike? What did they do to prevent civilian casualties? And then what would the actual results? And this is where mass media, I am not saying you specifically, but keep parroting whatever number that comes out of Gaza within hours. And I've stayed at war for a long time, I've never seen anybody ever be able to get civilian casualty counts within hours, like we seem to be able to do repeatedly over and over.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:20:30",
+      "speaker": "SCIUTTO",
+      "sentences": "But you're dismissing your dismissing the entire -- you can take issue with the Health Ministry of Gaza's specific numbers, but as you know, the Biden administration, the Pentagon has said that civilian death tolls in Gaza, of many thousands, including many thousands of women and children, they find incredible as well.So you can't dismiss the civilian casualties as entirely credit incredible and I should note that CNN has fixers on the ground there that witnesses the results of these strikes and sees the bodies of women and children and the elderly, so you can't dismiss all the civilian casualties, so my question is, what gives you confidence --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:20:30",
+      "speaker": "SPENCER",
+      "sentences": "No, I am not dismissing that there have been civilian deaths in Gaza. That's a fact and this is war.But the question is, is Israel doing everything feasible -- that is the law of war requirements -- feasible to prevent civilian harm and there is no data that you're presenting that says they are not. Have there been civilians to include women and children that have died in Gaza? Absolutely. Is it 40,000? Absolutely not. Is it -- who is the cause of that civilian death? I think that the international fingers should be pointed at Hamas, who doesn't sometimes embed, it uses human shields and human sacrifice as its strategy. So again, I think we are coming at it from different angles when you can have your own opinions, you can't have you own facts. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:28:06",
+      "speaker": "REID",
+      "sentences": "Authorities in Italy have opened a manslaughter investigation into the sinking of a super yacht off the coast of Sicily. A British tech entrepreneur, his teenage daughter and five others died when the ship sank during a violent storm earlier this week.At first, authorities blamed the weather, but now a prosecutor says this ship may have sank because of the behavior of the crew and the way the boat was handled. Joining me now to discuss is Bruce Knecht, a former \"Wall Street Journal\" reporter and author of \"The Proving Ground,\" the story of the 1998 Sydney to Hobart yacht race that turned deadly. Bruce, are you surprised about this new manslaughter investigation? G. BRUCE KNECHT, AUTHOR, \"THE PROVING GROUND\": No, not entirely but I don't think that explains everything. I think it is a combination of extraordinary weather and I think the yacht itself, its design had some features that sets it apart from most yachts. And yes, the crew probably made some decisions that are potentially maybe decisive, but without that weather, none of this would have happened.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:28:06",
+      "speaker": "REID",
+      "sentences": "And regarding why this yacht sank, you write in \"Barron's\" that the answer almost certainly lies in a combination of extraordinary weather conditions and a trio of design features that set this yacht apart from most sailing yachts.Talk to us a little bit about those specific three design features.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:28:06",
+      "speaker": "KNECHT",
+      "sentences": "Well, the first and most obvious one is the mast.For a time, it was the tallest mast in the history of sailboats, 246 feet, just extraordinary height, which they lit up like a Christmas tree whenever it entered the harbor. And the mast is not something that adds to stability. When you start rocking turbulence or high winds, it acts something like a pendulum. So that's the first one. The second one is the key -- well, it is on the screen right now, just at the center of the mast, there is sort of a lounge, a cockpit, quite large and it is below the level of deck and that sunken deck, if it were to be filled with water as has clearly happened in this case, it joined basically the living room of the yacht and the entrance was a double glass door that retracted in and out. [18:30:35] So one of the questions I'm sure the investigators are looking at is, was that door open, because if there was water in this essentially cockpit that would have turned into a swimming pool, it could have entered through that door. But I'm not sure that's quite decisive either, because the door, if there was a lot of pressure or water probably would have broken and some of the accounts from people on the boat talked about broken glass. I don't know that that's the case, but certainly one possibility. So the third issue is the keel. Most large sailboats have a keel that's fixed. This one was unusual and that it had a so-called lifting keel that change - you could change the height of the keel, the depth of the keel, from 13 feet below the water to 32, profound difference. But the truth is boats like this sail, they don't sail that much. You would want to have the keel down when you're sailing upwind. When you're motoring, which is what they did the day before they arrived at this harbor in the north of Sicily, we know through navigational records they went in a straight line, which certainly indicates that they were under power. When you're under power, you would never leave the keel down, because all that does is increase the drag, slow the boat down, and you burn more fuel. So it's those three things that together with this weather, I think, that explain what happened here.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:28:06",
+      "speaker": "REID",
+      "sentences": "And we're seeing some beautiful pictures of the ship. Now, there has, of course, been, as I said, a manslaughter investigation that has opened. So how do you see this playing out, given that you believe it's a combination of maybe human error and weather events?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:28:06",
+      "speaker": "KNECHT",
+      "sentences": "Well, I think there's going to be a lot of litigation. And I'm sure the crew, and that probably means the captain, because the captain ultimately has the responsibility, is the keel down, is it not. There were some people were on the deck at the time when the boat was knocked down, knocked down where the mast went flat to the water. That's when the water certainly entered.Should the crew have gotten everybody out of their state rooms, their bedrooms, on deck? Maybe. Should the keel have been fully set down? If it wasn't, well, that's going to be certainly an issue for the inquest. But there's also the design of the boat. Was it - you know, was it a boat that could withstand these conditions? I think most yacht designers would say that a yacht that's knocked down to 90 degrees, essentially flat to the water, should recover. Sailboats do that. I wouldn't say they do it all the time, but they do it. And they recover even going past 90 degrees. This is a boat that couldn't withstand that. So I think the designer of the boat, the manufacturer of the boat, when it comes to litigation, I think there's going to be a whole lot of directions that's going to go in and it's going to take - and this will be played out for a long period of time. REID: Bruce Knecht, thank you so much for joining us.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:28:06",
+      "speaker": "KNECHT",
+      "sentences": "Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:40:03",
+      "speaker": "REID",
+      "sentences": "Now, we mentioned earlier that prisoner swap with each side exchanging 115 individuals. What do you make of this? Do you think this is really a sign of de-escalation or is it just a tactical move?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:40:03",
+      "speaker": "LEIGHTON",
+      "sentences": "Well, in many ways, this is something that's been going on for quite some time. There have been a few hundred prisoners exchanged at a time, really since the start of this conflict, going all the way back to 2014. But this particular action that the Russians and the Ukrainians agreed to really allows both sides to kind of replenish some of their people, also get their people back.So it could be the sign of a bit of a thaw in their diplomatic standoff. But more importantly, it is something that has been going on for some time. And even though the Ukrainians have invaded part of Russia or incurred into it, they are still allowing each other to exchange prisoners. And that is a good thing for both sides.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:40:03",
+      "speaker": "REID",
+      "sentences": "This week, the Biden administration announced, of course, it will send $125 million in new military aid to Ukraine. Can you lay out what exactly is in this new aid package?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:40:03",
+      "speaker": "LEIGHTON",
+      "sentences": "So there are several things that are critically important here, Paula. But I think one of the most important things is this, the air defense missiles. This is something that Ukraine has been asking for, for quite some time. This is designed to protect the civilian infrastructure as well as the military infrastructure, protect the cities. And of course, we're coming up on winter, and the air defense missiles are going to make a really big difference when it comes to the possibility of Russia attacking things like the heating facilities, the power plants, things like that. So they're critically important.HIMARS, this is something that the Ukrainians have been asking for, for quite some time. They're getting more of these. Anti-armor missiles, it's critical because the Russians have a lot of armored vehicles, including tanks. Counter-drone systems, this war is all about drones. And these counter-drone systems are going to help the Ukrainians really achieve a degree of security that they otherwise wouldn't be able to achieve. And then something that they always need is 155 millimeter as 105 millimeter artillery. This is very important for the war in the Donbass region, and that's really why this is so critical.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:40:03",
+      "speaker": "REID",
+      "sentences": "That's a lot. Are there any limits to how these can be used? For example, can they be used inside Russia?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:40:03",
+      "speaker": "LEIGHTON",
+      "sentences": "Well, that's the critical thing. A lot of these munitions are going to be used only in Ukraine, especially the air defense missiles. The anti-armor missiles are basically designed also for use inside Ukraine. But what the Ukrainians want to do is they want to not only use weapons like the HIMARS, but ATACMS systems, which would really allow themselves to go into areas along all of this area.So the Russians are really afraid that the Ukrainians are going to be able to use these weapons into this area. So far, the United States has not allowed the Ukrainians to use the ATACMS far into Russia. However, if they do get that permission, that would put all kinds of Russian facilities, like in Belgorod, at risk. And that really would be a critical thing. One other thing that I'd like to point out real quickly, Paula, is this town right here at Pokrovsk. This is where a lot of fighting is taking place in the east right now. If that fighting continues, it could weaken the Ukrainian defensive line, and that could make a really big difference for the war. And it could be very difficult for Ukraine to recover from this if Pokrovsk is taken by the Russians.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:48:33",
+      "speaker": "REID",
+      "sentences": "Tonight, the 2024 college football season kicking off with a major upset in Ireland. Georgia Tech stunning number 10 Florida State winning on a last second field goal, and there's more action getting underway right now. Bleacher Report College Football Reporter, Morgan Moriarty is live with the latest. Morgan, what a win by Georgia Tech.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:50:02",
+      "speaker": "REID",
+      "sentences": "And Morgan, this is the first season. We'll see the new expanded playoff field. So how do you expect this to change the postseason landscape?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:50:02",
+      "speaker": "MORIARTY",
+      "sentences": "Yes, so the 12-team field is going to be unlike anything we've seen in this sport. Now, essentially how to break it down how it will actually work, the first four teams - excuse me, the first four conference champions, they will get top four spots. So that's going to be the ACC, the SEC, the Big Ten and the Big 12. They will get bids in addition to first-round byes.The fifth-highest ranked conference champion, so that's going to be your group of five team, Boise State out of the Mountain West looks like the favorite there, but keep an eye on the likes of Liberty, maybe even an Appalachian State from the Fun Belt (ph), they will get a bid as well. If they're ranked inside the top 12, that will be their seed. If they're outside of the top 12, they'll be automatically bumped up to that number 12 spot. So it's going to be really fun to kind of see how it plays out. In addition, seeds five through eight will be able to host first-round games. This is unlike anything we've seen in college football, teams being able to host meaningful playoff games in the first round. These campuses are going to be absolutely electric as they host these games in mid to late December. From there, the bracket just kind of plays out how a normal bracket would. In addition, the traditional bowls, like the Fiesta Bowl, Orange Bowl, Peach Bowl, all of those will also be incorporated into the postseason in those later rounds. So while there are rules for kind of seeding and first-round byes, there are real no set parameters for how many teams certain conferences can get in. So although fans may not like to hear it, we can very well see multiple SEC teams earn bids, multiple teams out of the Big Ten and the Big 12. So I'm interested to see how the committee kind of values certain conferences depending on how everything plays out and if they place an emphasis on stronger conferences or weaker conferences with respect to the number of bids. So it's going to be a lot of fun and really exciting, a lot of change, but I can't wait to see how it plays out.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:50:02",
+      "speaker": "REID",
+      "sentences": "Yes, you make an important point because this is, of course, the first season under this new conference dynamic. The Power 5 is no more. How do you think that could affect the overall experience for fans?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:50:02",
+      "speaker": "MORIARTY",
+      "sentences": "Yes, I mean for fans, like I mentioned, the home playoff games, the fact that these schools will get to host playoff games is going to be so much fun. I mean, you talk about a typical college campus is dead during Christmas time in the middle of December. Now they're going - just going to be electric. This is going to be primetime matchup, so it's going to be so much fun.But as far as fans and certain teams, although it is expanding to 12 teams, there are going to still be plenty of teams left out. Florida State obviously last year left out of the 14 playoff despite being undefeated, but there are plenty of contenders across the country. The SEC Georgia and Texas, the favorites there wouldn't be surprised if they play in the SEC title game here in Atlanta, but also keep in mind Alabama, Ole Miss, a team - Lane Kiffin, he has one of the most talented rosters in Oxford that he's had since he's gotten to Ole Miss. But also don't sleep on a team like Tennessee and LSU. In the ACC, I mentioned Florida State being the preseason ACC favorite. They're still very much alive in that hunt, but this is a critically important year for Clemson. Dabo Swinney and the Tigers have missed out on the playoff each of the last four seasons, and he's been a head coach who's really actively pushed against the modern changes that we've seen with recruiting with respect to the transfer portal. Just a couple years ago, he was joking about using God's name, image and likeness to build his recruiting class. This is a critical year for him. Also a team like Miami in the ACC, I like them as well. They're really, really talented. It feels like this is the kind of Miami team that will finally take that offseason hype and momentum and translate that into on-field wins. But we've seen a lot of that happen in Miami teams in the past. In the Big Ten, the favorites there, Oregon coming in from the Pac-12, Ohio State. They'll actually play each other in late October in the regular season. And then the Big 12, one of the more fun conferences in the country, Utah's the favorite there. But just keep an eye on - it's really fascinating to see how it will all play out because there's a lot of unknowns with this new 12-team playoff, and I'm just excited to be along for the ride.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:50:02",
+      "speaker": "REID",
+      "sentences": "Morgan, thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:50:02",
+      "speaker": "MORIARTY",
+      "sentences": "Thank you, Paula.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:50:02",
+      "speaker": "REID",
+      "sentences": "And every year, tourists get far too close, up close and personal with wild animals like grizzly bears and bison in America's national parks. But how close is too close? Well, CNN's Ed Lavandera spent four days in Yellowstone, America's oldest national park, and learned, well, the hard way. Take a look.(BEGIN VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:55:02",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "(INAUDIBLE) ...(END VIDEO CLIP) LAVANDERA (voice over): Wild animals don't want to take a selfie with you and they especially don't want to be held. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:55:02",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "She's holding it.(END VIDEO CLIP) LAVANDERA (voice over): This scene was captured in North Carolina. These people pulled black bear cubs out of a tree because of this human interaction, at least one of the cubs could not be reunited with its mother. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:55:02",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "Poor little thing.(END VIDEO CLIP) LAVANDERA (voice over): Wildlife refuge staff were unable to locate the second cub. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:55:02",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "That's insane.(END VIDEO CLIP) (END VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

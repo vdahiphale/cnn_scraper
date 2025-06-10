@@ -1,0 +1,385 @@
+{
+  "date": "2022-11-04",
+  "headline": "CNN Newsroom",
+  "subHeadline": "Last Labor Report Before Election Day: 261,000+ Jobs Added; Trump Aides Eye Third Week of November For 2024 Announcement; Trump Adviser Testified To Grand Jury On Mar-A-Lago Docs. Aired 2-2:30p ET",
+  "utterances": [
+    {
+      "timeStamp": "14:00:00",
+      "speaker": "BIANNA GOLODRYGA, CNN HOST",
+      "sentences": "Hello everyone, I'm Bianna Golodryga. Welcome to CNN NEWSROOM.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:00:00",
+      "speaker": "VICTOR BLACKWELL, CNN HOST",
+      "sentences": "I'm Victor Blackwell. Good to be with you.The last jobs report before Election Day topped economist estimates 261,000 new jobs were added in October. That's a number that President Biden will likely tout when he speaks this hour. The economy remains the number one issue for voters this election and the White House is hoping to capitalize on this stronger report.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:00:00",
+      "speaker": "GOLODRYGA",
+      "sentences": "Democrats are facing headwinds with four days left before the polls close on November 8, and who controls Congress will be determined. The latest count shows more than 34 million Americans across 47 states have already cast their ballots.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:00:00",
+      "speaker": "BLACKWELL",
+      "sentences": "All right, let's go to CNN reporter Matt Egan on the new jobs numbers, unemployment rate is also a little higher.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:00:00",
+      "speaker": "MATT EGAN, CNN REPORTER",
+      "sentences": "Yes, that's right. I mean, this was a pretty mixed report. I mean, remember, the Federal Reserve is going all out trying to cool off this jobs market to get inflation under control. Jobs market is not exactly cooperating. I mean, there were some signs of cooling. You mentioned the unemployment rate going up.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:00:00",
+      "speaker": "BLACKWELL",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:00:00",
+      "speaker": "EGAN",
+      "sentences": "We also saw the fact that payroll growth, this was actually the slowest since December of 2020. Year-over-year, wage gains, they have slowed down. But there's also a lot of evidence that this is still a hot jobs market. You look at month over month, wages actually accelerated because companies are still fighting over workers. September job gains, that was revised higher and the supply of workers shrinks. So, I think at the end of the day, this jobs market still looks surprisingly resilient.I mean, is it slowing? Yes. Is it slowing enough to satisfy the Fed? Probably, not. So that means we're probably going to get some more tough medicine from the Fed in terms of interest rate hikes. In fact, Bank of America this morning, revised up its forecast for interest rates because of this jobs report. So, I think that the good news is there's nothing about today's report that screams imminent recession. I think the bad news is there's nothing about today's report that's going to get the Fed to stop slamming the brakes on the economy, and at some point that could cause a recession.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:00:00",
+      "speaker": "GOLODRYGA",
+      "sentences": "And we should know this is a backward-looking indicator. I mean, it's just last month, so a few weeks ago. But what are companies seeing going forward specifically tech companies, which are already suggesting they may start layoffs soon?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:00:00",
+      "speaker": "EGAN",
+      "sentences": "We -- right, we are seeing pink slips start to get handed out, especially in the tech sector, which makes some sense, right? I mean, tech stocks have gotten crushed this year. Tech sector was booming. They -- maybe they overextended a little bit and so now they're coming back a little bit. We've seen some layoff announcements.I mean, as we speak, Twitter right now, Elon Musk is laying off thousands of workers left, just yesterday announced that it's cutting 13 percent of its staff, that's nearly 700 workers and they specifically cited a \"probable recession.\" Some companies are not cutting jobs, but they're also just not adding them anymore, right? Amazon, they just announced a hiring freeze for corporate jobs, apple reportedly also freezing hiring. Not just tech, though, in recent weeks gap General Electric, other companies, they're also shrinking their headcount. I think we need to watch this carefully to see how it plays out, right? Because maybe some people quickly get rehired. We know there's so much demand for workers. And so, then this wouldn't necessarily be a big jump in unemployment. It's more churn in the labor market. Or maybe we have a situation where this kind of spiral, right layoffs lead to layoffs, which causes people to cut back spending. And that's where you get more concerned about the economy.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:00:00",
+      "speaker": "BLACKWELL",
+      "sentences": "All right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:00:00",
+      "speaker": "GOLODRYGA",
+      "sentences": "Matt Egan, thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:00:00",
+      "speaker": "BLACKWELL",
+      "sentences": "Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:00:00",
+      "speaker": "EGAN",
+      "sentences": "You bet.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:00:00",
+      "speaker": "BLACKWELL",
+      "sentences": "President Biden is expected to speak in about 30 minutes on the economy, specifically manufacturing, while also promoting a Democrat who's up for reelection in California.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:00:00",
+      "speaker": "GOLODRYGA",
+      "sentences": "CNN White House correspondent Jeremy Diamond is in Carlsbad, where the president is expected shortly. So, Jeremy, give us specifics on his speech.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:05:04",
+      "speaker": "JOE BIDEN, PRESIDENT OF THE UNITED STATES",
+      "sentences": "With Mike's help, we signed the American Rescue Plan. One of the things Mike is really, really working on is the environment. With Mike's help, I -- full -- I signed the Inflation Reduction Act to bring down the cost of everything you talk about around the kitchen table without a single solitary Republican vote in the House or the Senate. There are so many things that Mike helped me get done, help us get done. I'm not just being solicited, it's a fact. He did.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:05:04",
+      "speaker": "DIAMOND",
+      "sentences": "And listen, Congressman Levin won this district two years ago by six points. But now sources are telling me that this is a neck-and- neck race right now for this district. And the fact that President Biden is here in democratic California, in and of itself four days from Election Day just tells you how tough this map is for Democrats, how tough it will be for them to try and retain control of Congress, and that's why we're seeing the president in this district today.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:05:04",
+      "speaker": "BLACKWELL",
+      "sentences": "All right, Jeremy, what's ahead on the campaign trail, some big names out in these final days?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:05:04",
+      "speaker": "DIAMOND",
+      "sentences": "Yes, that's right. Well, you look at this map here, and you're going to see some big names, Vice President Kamala Harris in Illinois. You're also going to see a split screen this weekend in Pennsylvania in particular, this is perhaps one of the most closely watched Senate races, close governor's race as well there where you're going to see both former President Trump as well as foreign Presidents Obama and President Joe Biden slumping together in the state of Pennsylvania, President Biden also heading to New York on Sunday.And if you look at this map, when you see president -- former President Trump, for example, something in Ohio and Florida, President Biden, today in California, on Sunday in New York, it shows you that this is what they're focused on is turnout right now. They are focused on the states that they see as winnable, but they want to just be able to crank out that turnout even more. That's why you're seeing former President Trump in Republican-leaning states like Ohio and Florida and President Biden today in California and Sunday in New York. The only state that's truly competitive where they both will be going, is Pennsylvania this weekend.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:05:04",
+      "speaker": "BLACKWELL",
+      "sentences": "President Biden having to go to New York now. Jeremy Diamond, thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:05:04",
+      "speaker": "GOLODRYGA",
+      "sentences": "Let's go to Jared Bernstein. He's a member of the White House Council of Economic Advisers. Jared, good to see you. So strong jobs report, the one that is showing signs of cooling, the number of adults looking for work has started to decrease a bit, wage growth is slowing as well. In your view, is it cooling enough to tackle inflation meaningfully?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:05:04",
+      "speaker": "JARED BERNSTEIN, WHITE HOUSE COUNCIL OF ECONOMICS ADVISERS",
+      "sentences": "Yes. I think this is a report that's consistent with the president's top dual goals on the economy, which is to maintain the gains that we've made since he took the White House. Particularly in the job market, 10 million jobs since he got here. 738,000 manufacturing jobs since Joe Biden took office. And in fact -- and these are numbers you might hear in a couple of minutes from the president himself I would imagine. The recovery and manufacturing employment in this business cycle is faster than at any cycle going back to the 1950s. That's really important to this president to the American people because that's a sector of innovative job gains of productive job gains of good union jobs.In terms of your cooling point, yes, look, we saw 261,000 jobs in October. That's a solid number. Go back to last October, that number one north of 600,000. That's breakneck speed. We're glad to see the 21 job market gets so strong, but we need to transition to a steadier stable cooler job market, and I think that's consistent with today's report.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:05:04",
+      "speaker": "GOLODRYGA",
+      "sentences": "Well Fed Chair Powell, as you know, believes that the labor market is still overheated and that's why he said we should expect more rate increases in the months to come. We're also seeing that companies are at least are forecasting in the future possible hiring freezes, even layoffs. Is that recession, which President Biden just said last month is not something that he thinks will happen, was he wrong about that? Are we likely are now to see a recession?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:05:04",
+      "speaker": "BERNSTEIN",
+      "sentences": "I just think it's very inconsistent to be talking about a recession on a day when we've not had just 261,000 jobs last month, but over the past three months, close to 3000 -- 300,000 jobs per month with an unemployment rate close to a 50-year low 3.7 percent.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:05:04",
+      "speaker": "GOLODRYGA",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:10:15",
+      "speaker": "GOLODRYGA",
+      "sentences": "One of -- one of the sectors though that is still struggling to recover is education. I believe are a little over 13,000 employees were added in October in that sector, but public K through 12 schools are still down nearly 300,000 jobs since before the pandemic. As you know, a national assessment known as The Nation's Report Card shows that students in virtually every state are declining now in math and in reading. This is a president who ran as a teacher's husband and promised to invest more in education in this country. Has he failed on that point?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:10:15",
+      "speaker": "BERNSTEIN",
+      "sentences": "Well, first of all, I think the president has really come through when it comes to particularly higher education. Of course, student debt forgiveness and the repayment plans that we've been talking about moving out there, that's going to help a lot of people. I think, when it comes to the state and local level sector on education that you just described, that's a really important point that you make. I was glad to see the improvement in October's numbers for local education. But we've got to do better.I think one of the important things that President Biden delivered in that regard was very robust, helping the rescue plan, some of which actually, remains in the system today, to help states and localities deal with these challenges. But look, this is an area where you really have openings and vacancies, and we need to see more people coming into that sector.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:10:15",
+      "speaker": "GOLODRYGA",
+      "sentences": "Yes. Our students are failing and we need more qualified teachers. That is a fact. Jared, as you know, looking at the numbers, this is not technically a recession, we're nowhere near a recession, just given the amount of hiring we're seeing every month.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:10:15",
+      "speaker": "BERNSTEIN",
+      "sentences": "Right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:10:15",
+      "speaker": "GOLODRYGA",
+      "sentences": "That having been said, 75 percent of Americans, according to CNN polling, that's not just Republicans, believe that we are already in a recession. We are just four days away before Americans head to the polls. Why should Americans -- why should voters give your administration, give Democrats another chance, given how they feel right now? And this is their top issue.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:10:15",
+      "speaker": "BERNSTEIN",
+      "sentences": "Yes. It's a really important question. So let me quote a line of President Biden's. \"Don't compare me to the Almighty, compare me to the alternative.\" This is a great season to compare and contrast the kinds of policy preferences that you've seen from us and that the other side is proposing. Let's take the Inflation Reduction Act, which I think we heard a minute ago from your reporter. The Inflation Reduction Act lowers the cost of health care -- of healthcare premiums, lowers the cost of prescription drugs, lowers the cost of insulin, lowers the cost of clean energy. This is an Act that not only pays for itself, that is it offsets its costs, but it lowers the cost of all those components I just mentioned.Republicans have told us that they're -- explicitly, they're not hiding the ball. Their top priority is to repeal the Inflation Reduction Act. That is consistent with higher prices of medical care, higher prices of insulin, higher prices of clean energy. They've also said they're going for Social Security and Medicare.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:10:15",
+      "speaker": "GOLODRYGA",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:10:15",
+      "speaker": "BERNSTEIN",
+      "sentences": "They're gunning for those critically important programs that this president will always protect. So, I think if people understand the policy differences on the economy between the two sides here, it should certainly give some clarification to who's fighting for whom.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:10:15",
+      "speaker": "GOLODRYGA",
+      "sentences": "Yes, it's still a hard message to run on that, that I'm better the alternative than the alternative and just be patient because Americans still aren't seeing some of these results that you say are coming out of the Inflation Reduction Act.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:10:15",
+      "speaker": "BERNSTEIN",
+      "sentences": "Well, let me say something about that -- let me say something about that.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:10:15",
+      "speaker": "GOLODRYGA",
+      "sentences": "Yes, quickly.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:10:15",
+      "speaker": "BERNSTEIN",
+      "sentences": "Sure. When it comes to easing inflationary pressures, we could talk about the price at the pump down $1.20 since its peak. We could talk about the unsnarling of supply chains, the real initiative of our administration that's showing up in slower prices in the good sectors of the economy. We talked about the cooling of the housing market, very much a result of the Fed's work in that market, by the way, but in fact, we have seen some progress. And we have to keep our heads down, steady at the helm, and build on the progress we've made thus far, not reverse it and go the other way.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:10:15",
+      "speaker": "GOLODRYGA",
+      "sentences": "All right. Jared Bernstein, thank you for your time. We appreciate it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:10:15",
+      "speaker": "BERNSTEIN",
+      "sentences": "Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:10:15",
+      "speaker": "BLACKWELL",
+      "sentences": "Former President Trump is ramping up both his campaigning for GOP candidates and also speculation about his political future.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:10:15",
+      "speaker": "GOLODRYGA",
+      "sentences": "Sources now tell CNN that Trump aides are eyeing the week of November 14 to announce his 2024 presidential run. Let's bring in our own CNN's Gabby Orr. So, Gabby, what more can you tell us about these behind-the-scenes conversations?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:15:06",
+      "speaker": "DONALD TRUMP, FORMER PRESIDENT OF THE UNITED STATES",
+      "sentences": "Now in order to make our country successful and safe and glorious, I will very, very, very probably do it again, OK? Very, very, very probably. Get ready. That's all I'm telling you very soon. Get ready.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:15:06",
+      "speaker": "ORR",
+      "sentences": "So he is layering on the adjectives. First, it was he would probably run. Now, it's very, very probably. All of this leading up to a 2024 announcement most likely later this month. Of course, that would happen as he remains entangled in a number of investigations, including the probe into the documents down at Mar-a-Lago, the January 6 subpoena that he is still facing, and a number of others, Victor and Bianna.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:15:06",
+      "speaker": "GOLODRYGA",
+      "sentences": "He's not very being -- very subtle about his potential future plans. Gabby Orr, thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:15:06",
+      "speaker": "BLACKWELL",
+      "sentences": "All right, thank you, Gabby. Asa Hutchinson is the Republican governor of Arkansas. Governor, good to see you again. Let's pick off where Gabby Orr left off. I plan to start with 2022, but she set me up here. You've said that former President Trump is disqualified from 2024 because of his actions leading up to and on January 6, and you are thinking about making a run. How close are you to making that decision?GOV. ASA HUTCHINSON, (R-AR): Well, of course, voters ultimately decide who's qualified and who they want to support. President Trump talks about he will very, very, very probably run, I would say it's very, very, very unpredictable what he will do. And in terms of timing, let's get through this election, but if in fact, former President Trump does announce for president in mid-November, that accelerates the timetable for everyone who's looking at it in 2024 so a lot of decisions will have to be made the first of the year for sure. You know, in terms of this election though, if I could just add. You know, we see President Biden going around, even at this late day trying to figure out what the right message is. First, he's telling them what the biggest problem is which is a democracy, he says, which is the last election, that doesn't work and now, he's trying to tell them that the economy is in great shape. Well, Americans know what they're feeling in their pocketbooks and it's not what the Democrats are selling this year. So, I think we've got the right message as we enter the last few days of this election.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:15:06",
+      "speaker": "BLACKWELL",
+      "sentences": "I want to get into a message in just a moment but to finish up on 2024 you said that a lot of people will have to make a decision in the early 2023 if President Trump gets back in in November. If you get in, and Cheney gets in, and Christie gets in, Trump has maybe dedicated 30-35 percent of the Republican base, the rest of you will split the 70 to 65 percent. And he will just ride the winner take all primaries with his 30 percent to the nomination. Could the best strategy to -- if this is your goal, keep him from getting the nomination to be to not run, to stay out of it so that you know, it separate, you know, dilute that majority of the Republican vote?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:15:06",
+      "speaker": "HUTCHINSON",
+      "sentences": "Well, you know, that's in a dream context that every candidate who would consider running would love to have a two or three-candidate race. But that's not the reality of our democracy and that's why we have states like Iowa and New Hampshire that do the winnowing process, get to meet the candidates, and debate that.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:15:06",
+      "speaker": "BLACKWELL",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:15:06",
+      "speaker": "HUTCHINSON",
+      "sentences": "So, it's a different way to approach it. And I think it's really undetermined as to who exactly will get in but I would expect multiple candidates will enter the race, even if President Trump does.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:15:06",
+      "speaker": "BLACKWELL",
+      "sentences": "And you haven't ruled it out?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:15:06",
+      "speaker": "HUTCHINSON",
+      "sentences": "Oh, I haven't ruled it out.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:15:06",
+      "speaker": "BLACKWELL",
+      "sentences": "All right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:15:06",
+      "speaker": "HUTCHINSON",
+      "sentences": "We just want to get through and time this right. So stay tuned for next year.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:20:07",
+      "speaker": "BLACKWELL",
+      "sentences": "You've been very selective with your endorsements this cycle, should people who -- or should election denialism undermining the election talking about a stolen 2020 be disqualified?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:20:07",
+      "speaker": "HUTCHINSON",
+      "sentences": "No. First of all, I'm fully supportive of Ron Johnson. I hope he wins. It's important for the majority, of course, that we hope to achieve. And whenever you ask him about the election results, any candidates caught in a difficult position because you don't know how close is going to be, you don't know whether there's going to be a need for a recount, or questions. Those are the legitimate processes to determine how our democracy works. It doesn't express a lack of confidence. It just says, let's wait and see you know, what the process is as to how we get there. And so -- and so the big --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:20:07",
+      "speaker": "BLACKWELL",
+      "sentences": "But frankly, that's not what Ron Johnson said. What Ron Johnson said was we don't know what the Democrats have up their sleeve as if there's something nefarious happening that Democrats are going to try to steal an election in Wisconsin. He didn't say let's see what the count is and then maybe a recount to an audit is necessary.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:20:07",
+      "speaker": "HUTCHINSON",
+      "sentences": "Well, obviously, I might phrase it differently than what Ron Johnson did, but they will listen to that, and make a decision in terms of the voters. But again, there's a big distinction between being concerned about the election process and a January 6 type incident in which the peaceful transfer of power is not conveyed and followed through with by former President Trump, big difference there. And I think that the candidates really have moved away from the past election. And that's why they're gaining is because they're talking about the economy and, and crime that's on people's mind. That's the winning message and everything else is a distraction from that.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:20:07",
+      "speaker": "BLACKWELL",
+      "sentences": "OK, that leads up to the next question here. You talked about the issues -- there are really three. You mentioned inflation and crime, there's also the border, which Republicans have been talking about inflation, crime, the border. But we saw today from the ranking Republican on House judiciary released this thousand-page map on where the Oversight Committee likely will go if Republicans get control of the House. He, of course, would lead up some of these investigations talking about Hunter Biden and the search of Mar-a- Lago.You were on House judiciary when you remember the House of Representatives, is that the right message? You say that the economy and crime are the messages to go with everything else is a distraction. Is this a distraction four days before the vote?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:20:07",
+      "speaker": "HUTCHINSON",
+      "sentences": "Well, in -- of course, it depends on who you're speaking to. But in my judgment, we can't go back and involve ourselves with recrimination or getting even because we didn't like what something happened in the past. We do need to address it. And I have no doubt that a Republican Congress will be having action on the inflation and the economy and energy. All of those things will be on the table. And then what they'll do and oversight committees, there'll be some things that have to be raised, but my goodness, let's focus on the big issues that we're campaigning on now, and let's not get sidetracked with anything to deal with recriminations in the past.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:20:07",
+      "speaker": "BLACKWELL",
+      "sentences": "All right, Arkansas Governor Asa Hutchinson, always good to have you, sir. Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:20:07",
+      "speaker": "HUTCHINSON",
+      "sentences": "Thank you, Victor.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:28:38",
+      "speaker": "GOLODRYGA",
+      "sentences": "A source tells CNN that one of Donald Trump's most loyal aides, Kash Patel, has now testified before a federal grand jury.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:28:38",
+      "speaker": "BLACKWELL",
+      "sentences": "That grand jury is investigating the handling of classified top secret documents that were taken to the former president's Mar-a- Lago estate from the White House. CNN's Paula Reid is with us now. Paula, what are you learning?",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

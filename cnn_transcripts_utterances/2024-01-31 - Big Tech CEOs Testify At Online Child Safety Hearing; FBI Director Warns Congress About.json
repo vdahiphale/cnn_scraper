@@ -1,0 +1,259 @@
+{
+  "date": "2024-01-31",
+  "headline": "CNN News Central",
+  "subHeadline": "Big Tech CEOs Testify At Online Child Safety Hearing; FBI Director Warns Congress About Dangers Posed By TikTok. Aired 11:30a- 12p ET",
+  "utterances": [
+    {
+      "timeStamp": "11:30:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Thanks, Senator Coons. Were on one of two -- the first of two --(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:30:00",
+      "speaker": "JOHN BERMAN, CNN ANCHOR",
+      "sentences": "Senator Chris Coons, who had to say rarely expresses that type of cynicism or scorn --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:30:00",
+      "speaker": "KATE BOLDUAN, CNN ANCHOR",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:35:32",
+      "speaker": "BOLDUAN",
+      "sentences": "All right. Back to the Hill where the Senate is grilling tech CEOs about their social media platforms. Right now, leading the questioning is Republican Senator Mike Lee.(BEGIN VIDEOTAPE) SEN. MIKE LEE (R-UT): It's great. What's odd, what I'm trying to understand is why it is that Instagram is only restricting -- it's restricting access to sexually explicit content, but only for teens ages 13 to 15. Why not restricted for 16 and 17-year-olds as well? MARK ZUCKERBERG, FOUNDER &amp; CEO, META: Senator, my understanding is that we don't allow sexually explicit content on the service for people of any age. The --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:35:32",
+      "speaker": "LEE",
+      "sentences": "How is that going?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:35:32",
+      "speaker": "ZUCKERBERG",
+      "sentences": "You know, our prevalence metrics suggest that I think it's 99 percent or so of the content that we removed we're able to identify automatically using AI system. So, I think that our efforts in this while they're not perfect, I think are industry-leading. The other thing that you asked about was self-harm content, which is what we recently restricted. And we made that shift of the -- I think the state of the science is shifting a bit.Previously, we believed that when people were thinking about self- harm, it was important for them to be able to express that and get support. And now more of the thinking in the field is that it's just better to not show that content at all, which is why we recently moved to restrict that from showing up for those teens at all.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:35:32",
+      "speaker": "LEE",
+      "sentences": "Is there a way for parents to make a request on what their kid can see or not see on your site?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:35:32",
+      "speaker": "ZUCKERBERG",
+      "sentences": "There are a lot of parental controls. I'm not sure if they're -- I don't think that we currently have control around topics. But we do allow parents to control the time that the children are on the site. And also, a lot of it is based on kind of monitoring and understanding what the teen's experience is.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:35:32",
+      "speaker": "LEE",
+      "sentences": "Mr. Cit --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:35:32",
+      "speaker": "ZUCKERBERG",
+      "sentences": "And what they're interacting with.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:35:32",
+      "speaker": "LEE",
+      "sentences": "Mr. Citron, Discord allows pornography on its site. Now reportedly 17 percent of minors who use Discord has -- have had online sexual interactions on your platform. 17 percent. 10 percent have those interactions with someone that the minor believed to be an adult. Do you restrict minors from accessing Discord servers that host pornographic material on them?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:35:32",
+      "speaker": "JASON CITRON, CEO, DISCORD",
+      "sentences": "Senator, yes, we do restrict minors from accessing content that is marked for adults. Um, Discord also does not recommend content to people. Discord is a chat app.We do not have a feed or an algorithm that boosts content. So, we allow adults to share content with other adults in the adult-labeled spaces. We do not allow teens to access that content.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:45:09",
+      "speaker": "BERMAN",
+      "sentences": "We're going to go back to the House of Representatives right now and listen to FBI Director Christopher Wray, who has been sounding alarms about the threat that Chinese hackers pose to the United States. Now, just a short time ago, he was asked about TikTok and comments that he made of the security risks of that social media app. Listen.(BEGIN VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:50:13",
+      "speaker": "BOLDUAN",
+      "sentences": "That's happening on one side of the Capitol right now talking about one threat posed by TikTok, the social media company. On the other side of the Capitol, the CEO of TikTok is among the tech CEOs that are facing a grilling by the Senate over what they allow on their platforms. Listen to this. Senator Ted Cruz. He's asking questions now.(BEGIN VIDEOTAPE) SEN. TED CRUZ (R-TX): National intelligence efforts in accordance with the law and shall protect national intelligence work secrets they are aware of.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:50:13",
+      "speaker": "SHOU ZI CHEW, CEO, TIKTOK",
+      "sentences": "Yes, I'm familiar with this.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:50:13",
+      "speaker": "CRUZ",
+      "sentences": "TikTok is owned by ByteDance. Is ByteDance subject to the law?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:50:13",
+      "speaker": "CHEW",
+      "sentences": "For the Chinese businesses that ByteDance owns, yes, they will be subject to this. But TikTok is not available in mainland China. And, Senator, as we talked about in your office, we built Project Texas to put this out of reach.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:50:13",
+      "speaker": "CRUZ",
+      "sentences": "So, ByteDance is subject to the law. Now, under this law, which says shall protect national intelligence work secrets they are aware of it, compels people subject to the law to lie to protect those secrets. Is that correct?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:50:13",
+      "speaker": "CHEW",
+      "sentences": "I cannot comment on that. What I said again, is that we have moved to arrangement --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:50:13",
+      "speaker": "CRUZ",
+      "sentences": "Because you have to protect those secrets?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:50:13",
+      "speaker": "CHEW",
+      "sentences": "No, Senator. We -- TikTok is not available in mainland China. We have moved the data into an American --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:50:13",
+      "speaker": "CRUZ",
+      "sentences": "But TikTok is controlled by ByteDance, which is subject to this law. Now, you said earlier -- you said, and I wrote this down, we have not been asked for any data by the Chinese government and we have never provided it. I'm going to tell you, and I told you this when you and I met last week in my office, I do not believe you. And I'll tell you, the American people don't either.If you look at what is on TikTok in China, you are promoting to kids, science and math videos, educational videos, and you limit the amount of times kids can be on TikTok. In the United States, you are promoting to kids, self-harm videos and anti-Israel propaganda. Why is there such a dramatic difference?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:50:13",
+      "speaker": "CHEW",
+      "sentences": "Senator, that is just not accurate. There's a lot of --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:50:13",
+      "speaker": "CRUZ",
+      "sentences": "There's not a difference between what kids see in China and what kids see here?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:50:13",
+      "speaker": "CHEW",
+      "sentences": "Senator, TikTok is not available in China. It's a separate experience there. What I'm saying is --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:50:13",
+      "speaker": "CRUZ",
+      "sentences": "But you have a company that is essentially the same except it promotes beneficial materials instead of harmful materials.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:50:13",
+      "speaker": "CHEW",
+      "sentences": "That is not true. We have a lot of science and math content here on TikTok. There's so much of it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:50:13",
+      "speaker": "CRUZ",
+      "sentences": "All right. All right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:50:13",
+      "speaker": "CHEW",
+      "sentences": "(INAUDIBLE) to stand faithful one hundred billion to use.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:50:13",
+      "speaker": "CRUZ",
+      "sentences": "OK. Let me -- let me point -- let me point to this, Mr. Chew. There was a report recently that compared hashtags on Instagram to hashtags on tic tac -- TikTok, and what trended. And the differences were striking. So, for something like hashtag Taylor Swift or hashtag Trump, researchers found roughly two Instagram posts for everyone on TikTok. That's not a dramatic difference.That difference Trump's -- jumps to eight-to-one for the hashtag Uighur. And it jumps to 30-to-one for the hashtag Tibet. And it jumps to 57-to-one to the hashtag Tiananmen Square. And it jumps to 174-to- one for the hashtag Hong Kong protest. Why is it that on Instagram, people can put up a hashtag Hong Kong protest 174 times compared to TikTok? What censorship is TikTok doing at the request of the Chinese government?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:50:13",
+      "speaker": "CHEW",
+      "sentences": "None. Senator, that analysis is flawed --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:55:03",
+      "speaker": "CHEW",
+      "sentences": "The analysis is flawed. It's been debunked by other external sources like the Cato Institute. Fundamentally, a few things happen here.Not all videos carry hashtags. That's the first thing. The second thing is that you cannot selectively choose a few words within a certain time --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:55:03",
+      "speaker": "CRUZ",
+      "sentences": "Why the difference between Taylor Swift and Tiananmen Square? What happened at Tiananmen Square?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:55:03",
+      "speaker": "CHEW",
+      "sentences": "Senator, there was a massive protest during in -- during that time. But what I'm trying to say is -- I will use this can freely come in -- post this content.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:55:03",
+      "speaker": "CRUZ",
+      "sentences": "Why would there be no difference on Taylor Swift or a minimal difference and a massive difference on Tiananmen Square Hong Kong?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:55:03",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Senator, could you wrap up, please?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:55:03",
+      "speaker": "CHEW",
+      "sentences": "Senator, our algorithm does not suppress any content simply based on this. it doesn't.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:55:03",
+      "speaker": "CRUZ",
+      "sentences": "Well, answer that question.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:55:03",
+      "speaker": "CHEW",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:55:03",
+      "speaker": "CRUZ",
+      "sentences": "Why is there a difference? CHEW",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:55:03",
+      "speaker": "CRUZ",
+      "sentences": "There's an obvious difference. 174-to-one for Hong Kong compared to Taylor Swift is dramatic.(END VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:55:03",
+      "speaker": "BOLDUAN",
+      "sentences": "Senator Ted Cruz wrapping up his line of questioning really focusing in at the end there with the CEO of TikTok, that's who's answering these questions. Look, this is going to continue but the bottom line is this has been a brutal hearing of -- it's like an airing of grievances and just real disdain from the senators on a bipartisan basis towards these tech CEOs.",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

@@ -1,0 +1,283 @@
+{
+  "date": "2023-05-22",
+  "headline": "First Move with Julia Chatterley",
+  "subHeadline": "IBM CEO Speaks Out on Debt Ceiling Talks; Supercomputer Deal; Greece's Ruling Party Wins Big, Falls Short of a Majority; British Bomb Makers helps Train Ukrainian Forces; IBM CEO: Technology Moves Forward but we can Reduce Risk; SpaceX, AXIOM Flight Successfully Docks at ISS. Aired 9-10a ET",
+  "utterances": [
+    {
+      "timeStamp": "09:00:00",
+      "speaker": "JULIA CHATTERLEY, CNN HOST, FIRST MOVE",
+      "sentences": "A warm welcome to FIRT MOVE, fantastic to have you with us. As we enter a busy late May news fray lotsto get to in the show today including a debt deal delay, we could call it Groundhog Day, too, a last weekend in Washington, with debt ceiling negotiators reporting no major progress. High level talks set to get underway again at the White House in just a few hours' time all the details coming up. Plus, Greek investors speak Greek stocks and bonds saw after a strong showing for the country's market friendly ruling party. The country's main stock index, in fact, at its highest level in decade, amid hopes Athens can regain its investment grade status. We've got analysis just ahead and chips chopped, shares Micron technologies falling more than 4 percent pre market after China's moved to restrict purchases citing security risks. It's actually China's first big move against U.S. chip makers. Other chip firms with Chinese exposure think Qualcomm and Intel are also software pre market today too. And the move actually coming just as U.S. President Joe Biden promise that relations between the two nations the United States and China will soon improve and Beijing then blasted what it perceived as an anti-China G7 summit was an example U.K. Prime Minister Rishi Sunak, saying at the G7 that China quote poses the biggest challenge of our age to global security and prosperity. We've got a G7 summit wrap up just ahead for you too. What's required, perhaps to counter that challenge is great cooperation from other large tech nations. And perhaps we saw some of that overnight, IBM and Google today announcing a combined $150 million investment to develop a quantum centric supercomputer. Stay with me working with Universities of Chicago and Tokyo. We speak to the IBM CEO Arvind Krishna later in the show. For now no quantum leaps on U.S. stock markets a flat relatively unchanged U.S. open on tap. Europe as you can see a touch softer. I think the debt ceiling uncertainties not yet really hitting stock investor sentiment in any major way, wait for it. Facebook parents in the meantime, Meta losing ground after receiving a $1.3 billion fine from the EU tied to data privacy, but fresh gains in Asia with the red hot NIKKEI in Japan rising almost 1 percent. Asian chipmakers perhaps as you might expect, who could benefit from China's move to ban Microns technologies were big winners overnight too. Now more on the Micron mess in just a moment. But first just 10 days to go before Janet Yellen's debt ceiling X date and the deal to raise the U.S. borrowing limit still nowhere in sight. Though there are high level talks, as I've mentioned in Washington today. Lauren Fox has the latest from Capitol Hill.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:00:00",
+      "speaker": "LAUREN FOX, CNN CONGRESSIONAL CORRESPONDENT",
+      "sentences": "Julia, this is another high stakes meeting between House Speaker Kevin McCarthy and President JoeBiden. And it comes after there was a series of fits and starts in those negotiations over the weekend between White House negotiators and Republican negotiators up here on Capitol Hill. There were several moments over the weekend where it seemed like these talks were starting to break down. I am told that they are still tens of billions of dollars apart when it comes to imagining what next year and the years after spending should look like for this country. This is all part of the broader negotiation over increasing the country's borrowing limit. But they are starting to run up against the clock that is because we are just 10 days away from that June 1 deadline. That is when the Treasury Department says they may not be able to pay all of their bills. So the big question, how long is this going to take on Capitol Hill to get a deal and then once they get a deal in hand, it's going to take probably about three days in the House of Representatives to move and advance that legislation in the Senate. It could take up to about a week that doesn't leave lawmakers much time, which is why getting a deal or at least getting on track to get a deal is so essential out of this meeting today between the President and the House Speaker, Julia.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:00:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "We shall see major U.S. corporations continuing though to sound the alarm on a potential U.S. debt default and the effect it would have onbusiness and the economic outlook. IBM CEO, Arvind Krishna telling me today that a debt ceiling breach would represent a highly destabilizing event for the business community. But he is hopeful for a solution. Listen to this. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:05:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "Yes, elegantly put, it's not the F but when? Much more of my interview with Arvind Krishna later in the program, his thoughts onutilizing quantum computing power, the timing of it regulating AI, and competition between nation States and corporates just ahead. Now speaking of regulation and regulators, specifically Meta, the parent company of Facebook, Instagram and WhatsApp has been fined a whopping $1.3 billion for data privacy breaches. It's the largest fine ever handed out under the EU's landmark data privacy law. Meta says it will appeal the ruling. Melissa Bell joins us now on this. I think it's the largest ever find that we've seen under the European GDPR, the privacy rules, Meta's a big fish to catch in this EU net. But Meta is also saying, look, lots of companies do this and they have to. So, what's the deal, Melissa here?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:05:00",
+      "speaker": "MELISSA BELL, CNN PARIS CORRESPONDENT",
+      "sentences": "That's right, their defense is that they simply have no choice because of the lack of a framework between theUnited States and the European Union right now, Julia, on how data can safely be transferred at once in line with the way the American system works in terms of data in the cloud act. That allows essentially, American spy agencies pretty unfettered access to a bunch of that data and European laws. You mentioned the GDPR goes back to 2016, 2018 when it was implemented. We're just coming up, Julia, the five year anniversary. And as you say, there have been big fines up levied on American companies in the past. Amazon saw a huge one just a few years ago, nearly $800 million. Some of Meta's platforms have seen fines in the past, the size of this one applied to Meta as a whole I think is really an indication in fact, when you look at the press release from the European regulators. It's a real measure of the frustration that there is here about what they describe as systematic, repeated continuous breaches of essentially the European rights, the right of European citizens, which is a really well protected since the GDPR came into force of knowing what happens to their data and not finding it on American servers, where then falls under a completely different set of laws that are themselves in opposition to what the Europeans do and do not allow. So I think the size of the fine matters. And I think the fact that it's been applied to Meta as a whole, Julia, matters as well.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:05:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "Yes it's fascinating and it makes a refreshing change not to be talking about data privacy concerns with nations like China rather thanthese guys. But to your point, and I think this is a very important one actually sounds to me, like it's less about Meta. And it's more about the U.S. government, actually, both governments because the U.S. government has policies that allow intelligence agencies to intercept communications from abroad, including digital communications like these. So it's almost like the two governments, the EU and the U.S. need to get their heads together. Provide some clarity and some basis for legal protection for companies like Meta and then everyone can sort of abide by rules, rather than sort of opaque guideline.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:05:00",
+      "speaker": "BELL",
+      "sentences": "Exactly, and Julia, this is something that the American administration and the administration of Ursula von der Leyen have beentrying to get their heads around for a long time. There have been so many different previous incarnations of this kind of free flow of data packed between the EU and the U.S. They keep being struck down by European courts. There's another that's being figured out even now a framework that could come into effect as early as July or as late as October and of course, that will have a substantial impact on the fallout from Meta of this particular ruling, Julia.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:05:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "Yes, stop telling us what you don't want and tell us what you do want and then we'll act on it. It's shocking for me to be taping thisside of the argument. Melissa, thank you so much for that. OK, China targeting a major U.S. chipmaker. It's banning Micron from key infrastructure projects, citing security risks, shares Micron are down around 4 percent pre market, while Stocks of some of its Asian rivals have jumped. Christine Romans joins us now. Christine, what surprises me most about this is that we actually haven't seen it before, from China in some sort of -- to action to restrict technologies from the United States. But there's a shudder in the chipmakers in the U.S. as a result.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:10:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "Exactly, where I was going to take you next. And I'll see what you thought of that. Joe Biden thing I think we're going to see that beginto thaw I mean, it's sort of like a frozen solid block, like an ice sculpture, I think at this moment. So, you know, anything is possible in this regard. But as far as technology is concerned, Christine, I struggle to see a thawing in this regard, perhaps the diplomacy can improve. But on this, it's tough.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:10:00",
+      "speaker": "ROMANS",
+      "sentences": "It is tough. And, you know, look, there's a feeling in the United States that the U.S. had become too reliant. On Chinese, many chipmanufacturers I mean you just look at some of the drama after COVID, you know, when you couldn't get chips for cars, for example, in the U.S. And there is a big political movement in the United States to invest domestically in chip production, and also to just maintain kind of a global supply lines that are more in line with American ideals, if you will, if you were to have some sort of international attention. So there's a real kind of, I think, global shift happening, and we're in the early stages of it, quite frankly. And so I think that's something that the CEOs and technology Investors, quite frankly, as well are going to be closely watching to see how it all plays out.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:10:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "Yes, I'm continuing to grapple with and Christine, great to have you with us.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:10:00",
+      "speaker": "ROMANS",
+      "sentences": "Nice to see you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:10:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "Thank you, Christine Romans. Now the Chinese move against Micron come shortly after the G7 summit in Japan, where leaders of majordemocracies were united on their concerns over China, for the most part. Anna Coren has Beijing's reaction.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:10:00",
+      "speaker": "ANNA COREN, CNN CORRESPONDENT",
+      "sentences": "China has voiced its anger towards G7 countries in particular the host Japan, after summoning Japan's ambassadorto China to express serious demarche regarding discussions on China during the three day summit in Hiroshima. China's increasing aggression and Russia's war in Ukraine was very much top of the agenda of the group of seven. Let me read to you some of the statement released by China's Foreign Ministry last night following Japan's dressing down. It said Japan as the host of the G7, collaborated with relevant countries to smear and attack China in a series of activities and in the joint communique. It went on to say that such activities have grossly interfered in China's internal affairs, violated the basic principles of international law and the spirit of the four political documents between China and Japan. At the G7 summit, the leaders of the world's richest democracies were united in a growing concern over China, stressing the need to cooperate with the world's second largest economy, but also to counter its malign practices and coercion. The U.S. views China as the most serious, long term challenge to the international order. This was backed up by the British Prime Minister at the G7, who said China post \"The greatest challenge of our age in regards to global prosperity and security\". The leaders of the G7 also pledged new measures targeting Russia to choke off its ability to finance and fuel its war on Ukraine. A surprise visit by Ukrainian President Volodymyr Zelenskyy cemented leaders resolve and commitment. U.S. President Joe Biden pledged ongoing support saying we have Ukraine's back. Russia and China both hit back. Russia's Foreign Minister slammed the group of seven for indulging in their own greatness with an agenda that aim to deter Russia and China. Well, China's Foreign Minister accused G7 leaders of hindering international peace, and said the group needed to reflect on its behavior and change course. Anna Coren, CNN, Hong Kong.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:15:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "Welcome back to FIRST MOVE. Greek Stocks rallied sharply Monday after the country's ruling New Democracy party won in parliamentaryelections on Sunday. Even though Conservative Prime Minister Kyriakos Mitsotakis's party won at the ballot box though he fell short of the threshold needed to secure a single party government. The Prime Minister has ruled out the possibility of forming a coalition likely setting the stage for a second round of voting key issue at the polls among many Greece's economic future as many Greek struggle against a backdrop of high inflation and rising living costs. Nikos Vettas is General Director for the Foundation for Economic and Industrial Research. And he joins us now, Nikos, great to have you with us. They may be unable to form a single party government. But this is a far stronger showing for New Democracy than I think the polls were predicting. We can call this a win.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:15:00",
+      "speaker": "NIKOS VETTAS, GENERAL DIRECTOR FOR THE FOUNDATION FOR ECONOMIC AND INDUSTRIAL RESEARCH",
+      "sentences": "Right, the polls were predicting that New Democracywould be ahead more or less. But no one predicted that it will have effectively double the percentage that series of -- its turns out it was 20 percent of the vote for series a 40 percent for New Democracy. But as you said, this is still sort of having a full parliamentary majority. So it looks like we are heading for new elections in roughly a month from now. And the full prediction of everyone right now is that New Democracy will be able to form a single party government. This is not 100 percent certainty, but this is with high probability.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:15:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "What if they can't at that stage?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:15:00",
+      "speaker": "VETTAS",
+      "sentences": "Sorry.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:15:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "What if they can't form a government at that stage? I guess it's the loss of time that I'm worried about when you're campaigning for anelection. We're talking about perhaps another month for an election. What if they can't form a single party government at that stage?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:20:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "It's just a vote of confidence in the policies that the government has put into place, the relative stability, I think, that Greecehas enjoyed, if that's the right word over the past few years, relative to what we saw in I guess the decade, quite frankly, before I've been to one or two or many elections in Greece over the past few years. People just wanting a continuation of stability, perhaps the costs more than anything else.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:20:00",
+      "speaker": "VETTAS",
+      "sentences": "You're right stability, but you're also right to say relative stability, because it wasn't that stable with the COVID pandemic, then theenergy crisis, Ukraine is very near inflation has hit very hard the households. So it hasn't been easy. But you're right Greece has been in turmoil with the Eurozone debt crisis that was triggered with Lehman Brothers. So starting really several years back and in a word, I think, Greeks were tired of all this drama. No one wants more drama. I think no one believes things are going to be easy ahead. The expectations are positive, but realistic. Greeks know that, it is not possible that the government can go on with a policy that is going to be able to support his households in the future in the way they did during the COVID and then the energy crisis. They know that there is going to be a difficult road ahead. But indeed, they voted to have a more normal policy, a more stable policy that gradually can increase incomes, and may Greece overall converge to the Eurozone average.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:20:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "I think, it's, normal in election periods for leaders or hopeful leaders to discuss how to share out the economic pie rather thanhow to implement policies to grow that pie in general. And I'm talking about economic growth for the economy. Nikos, what do you want to see from the next government going forward that helps grow that pie rather than just as your point sharing out pieces of it, which is increasingly difficult? And are you confident that Greece gets its investment grade rating, perhaps in the second half of this year because that's vital too?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:25:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "Yes, while I'm sure Prime Minister Kyriakos Mitsotakis will be saying, give me some more time now to finish the job. We'll see, Nikos,great to have you with us. Thank you for your insights, Nikos Vettas there, the General Director for the Foundation for Economic and Industrial Research.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:25:00",
+      "speaker": "VETTAS",
+      "sentences": "Thank you",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:25:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "Thank you. OK, still to come, new developments in the bitterly contested City of Bakhmut. We're live from Southeastern Ukraine after this.(COMMERCIAL BREAK)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:25:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "Welcome back to FIRST MOVE, Ukraine's energy company says external electricity has been restored to the Zaporizhzhia nuclear powerplant. The plant which has been held by Russian troops was cut off from the grid on Monday for the seventh time since the war began after a power line was damaged in a Russian attack. Meanwhile, Ukraine is denying Russian claims that Moscow has completely captured Bakhmut. Elsewhere, the Governor of Russia's Belgorod region claims an area close to the border was shelled by Ukrainian forces, and that Ukrainian sabotage groups crossed the border into Russian territory. Sam Kiley joins us now to discuss all of this. Sam, let's start with Bakhmut because you've long said look, the importance of this is far more symbolic than it is strategic at this stage. And yet the battle continues and far from the Ukrainian officials suggesting that the Russians now or at least the Wagner group have overtaken it. They say they're in a strategic position for when Wagner's forces remove themselves. Where are we today?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:30:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "That makes more sense to me. And Sam, I want to ask you about the governor of Russia's Belgorod region as well the suggestion that asabotage group from Ukraine actually entered Russian territory.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:30:00",
+      "speaker": "KILEY",
+      "sentences": "Well, this is one of the few occasions in which the Russians and the Ukrainians are in agreement. The Ukrainians have confirmed that what theysay is a group of Russian volunteers in the Ukrainian Armed Forces. We report reported on them before there's a few hundred Ukrainians, rather Russians in the Ukrainian Armed Forces forming essentially a Russian Legion combat Legion did indeed cross into some small villages in the border areas, just inside Russia from Ukrainian territory. There are even some pictures suggesting that they were actually even in Ukrainian military vehicles when they did. So the Ukrainians are saying that they're acting as private citizens only, even though they're meant that when they're inside Ukraine, they fall under the Ukrainian Armed Forces command. Now this group, the political leader of this group, has said that they are continuing to fight inside Russia at the moment, they did issue a statement this is the fighters just as head of their deployment. They're directed at Russian citizens in that area saying, broadly speaking, fear nothing, take cover unlike the other Russians that have invaded Ukraine and murdered civilians. We're not like that, and we are there to liberate you from the yoke of the Putin regime. These are strongly anti-Putin group that has been growing in numbers over the last few years. Many of them of course, people who are ethnic Russians, but based and often married to Ukrainians in in Ukraine, Julia.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:30:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "Yes, heartbreaking, Sam Kiley, great to have you with us, as always, thank you. OK, Ukrainian forces are getting a crash course on asecret weapon that is to be used to defend themselves. CNN's Nic Robertson reports on the new tools being added to Ukraine's Arsenal. (BEGIN VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:30:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "These batteries, the cold affects them. After three or four days in the cold, if you are leaving it outside, if there's noheating, these will last probably three weeks. NIC ROBERTSON, CNN INTERNATIONAL DIPLOMATIC EDITOR (voice over): Ukrainian troops get a lesson on covert bomb making.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:30:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "And that goes through your battery.ROBERTSON (voice over): British explosives and counterinsurgency specialists pass on decades of know how to soldiers already well versed in normal frontline combat.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:30:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Killing somebody, blowing up property, we are showing just how it's done.ROBERTSON (voice over): But these are no ordinary bombs. They are secret weapons in Ukraine's clandestine arsenal to kill Russians on Ukrainian land.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:30:00",
+      "speaker": "SKIF, ARMED FORCES OF UKRAINE OFFICER",
+      "sentences": "If we have a high priority target, we of course uses equipment against it.ROBERTSON (voice over): And it's not just individual targets. Similar technology, already in very experienced Ukrainian hands was used to bring down a building on dozens of Russian troops recently in Bakhmut.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:30:00",
+      "speaker": "SKIF",
+      "sentences": "This equipment is used to destroy the enemy. We use it to produce explosive devices, we can use on the ground, on the battlefield or in theair as munitions for drones.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:35:00",
+      "speaker": "SKIF",
+      "sentences": "It's hard to measure his help with words or numbers, because it's a great moral support for us straight to our hearts. And we are very, verygrateful for this help. ROBERTSON (on camera): It's a measure, even on the eve of an expected big counter offensive of just how much help Ukraine's military still needs that more than a year into the war, even the smallest of components, and the most modest of hands on help is so gratefully received, Nic Robertson, CNN, Eastern Ukraine. (END VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:35:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "And coming up after the break from cracking encryption to far more efficient and undiscovered ways of cleaning up the planet. We'retaking quantum leaps for IBM, a 10 year mission to build the world's most powerful quantum supercomputer. IBM's CEO is up next. (COMMERCIAL BREAK)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:40:00",
+      "speaker": "ARVIND KRISHNA, CEO, IBM",
+      "sentences": "Thank you, Julia; it's always a pleasure to be on with you. And I'm talking to you here from Tokyo, because I was inHiroshima on Sunday, getting the deal signed. And it is a geographic collaboration, but technology always needs partners. And in this case, it's fantastic to collaborate with the University of Tokyo, as well as the University of Chicago, and sign it under the auspices of the g7 with both the blessings of the U.S. government and the Japanese government. Quantum computing, I think that while normal computing has served us wonderfully, 70 years of incredible innovation driven by computers, there are limits to what it can do. If we want to help solve climate change, we want to help solve food, food shortages, which means fertilizers, and we want to work on electrification. Quantum computing holds an incredible promise of being able to solve these problems from the physical world by really helping simulate the quantum mechanical properties of those processes, so the ability to then make progress. So I step back and say, quantum computing is now jumping from science to engineering. But that means we need to make a lot of progress. And the incredible talent that both these universities bring will help us on our commitment to get 100,000 qubit quantum computers done. And Julia before you even asked me, what does that mean. So the number of qubits is simply a measure of the power of these computers. And I believe that with the university's corroborating, we are going to be able to get there.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:40:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "I was absolutely going to ask you about that. Because I think for most people that are watching this, the idea of quantum computing,they've probably heard of it. But I'm not really sure. And the idea of pairing something by qubits and 100,000 of them, I think in this case is the point where their heads explode. Just if you can just give us a sense, you've given us a couple of practical examples like modeling, I think for the impact of climate change, how can we improve electric car batteries, I think is another one. But I think cyber security actually is one of the aspects that people talk about with quantum computing and the idea that perhaps, with the sheer speed and scale that these computers can work, any form of encryption can be sort of unlocked. And perhaps that's one of the benefits, but also one of the huge dangers. Can you just talk about that example and how far ahead we're talking because I know this deal is over 10 years? And that's the sort of timeframe but how quickly actually, could we be seeing this kind of simulations or sensing as it's called as well being utilized in the real world?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:40:00",
+      "speaker": "KRISHNA",
+      "sentences": "So as quantum computers get larger, and as they get more error free, today's encryption is likely to get broken, I just say it in adefinite way, not even with any qualifications. So how far away is that? Five years, seven years, definitely within a decade at the most and I would call that as both a dark side. But there's a positive, there's quantum safe encryption, which was not going to get broken by quantum computers. And that is already in a semi standard going forward. There are a number of algorithms blessed by the National Institute for Standards and Technology, NIST in the United States. And I would highly encourage people that for the data that don't want broken five or seven years from now, start using quantum safe encryption. So I agree with the possible threat. But that's the nature of all technology, technology moves forward. But as long as mitigations are in place, then the risk is not really a real risk. Also, Julia, going back to the use cases, while it's a year-long deal, I will tell you that I expect commercial advantages to start occurring in the first half, so meaning in five years.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:45:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "Just in the early stages, and we like tongue in cheek on this show. You're obviously as you said; you're coming to us from Tokyo. In thepast 24 hours, we've seen President Biden suggesting ties with China might improve. At the same time, China's now restricting its companies from buying technologies from Micron, a U.S. company because they're saying they're concerned. This sort of tit for tat in technology continues. Do you see yourself and it sort of ties to the point that you made at the beginning about the blessing from Prime Minister Kishida and President Biden on this in strategic competition, particularly with things like generative AI and quantum technologies with China?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:45:00",
+      "speaker": "KRISHNA",
+      "sentences": "Look, so we are a company, not a nation. So companies have competition with other companies, not with nations. Nation is going tocompete with each other. My preference would always be that we remain in a system of global trade and global cooperation, because increased trade, I think, if I remember the number, right 10 percent of increased trade causes 1 percent increase in GDP growth rates. And the difference between 1 percent and a 3 percent GDP growth rate is incredible. If you do the compounding that is what has led to the advances we've seen in quality of life and in quality of people's incomes over the last century. So that's sort of a macro. Now under that, am I worried? No, I'm not actually worried. I think that the advances that the Western world has made. And when I say Western, I'm sitting in East Asia, but I'm counting that as part of the ecosystem, all the way from the quad countries to Western Europe, to South America. \"So it's a bit more than\". But there's a lot of talent, and there is a lot of ability for us all to compete. And so whether I look at generative AI, or quantum or AI in general, or computing in general, I'm confident of our ability to compete. That said, the larger the underlying GDP of the nations, the better for that to be the aggregate marketplace.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:45:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "Yes. And sometimes governments can invest a huge amount of money in supporting their industries. And I do take your point about thestrategic competition as a corporate. But sometimes its microns founder the last 24 hours, you're in the firing line, whether you choose to be or not. What about regulating all of this, Arvind? I mean, there was some suggestion from Sam Altman of open AI last week, as far as generative AI is concerned, a specific AI federal agency is required to regulate this specific technology. And I'm not sure IBM agrees. We've long talked about not sort of restricting technologies or strangling technological development with regulation or the innovation that's required. What do you think is required with things like quantum and AI specific or the current agencies have the powers?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:50:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "Yes. Do you really think they understand the technology well enough, as well as you guys do to be able to regulate you even in aprecision and a precise manner?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:50:00",
+      "speaker": "KRISHNA",
+      "sentences": "I think you've hit the nail on the head. That is what every agency has to do. They have to get a few people who understand what the technologyis, what it can do, what are its limitations, what are its ills, so that they can then help govern the application of the technology to their particular agency and use cases. That is exactly what I believe has to be done.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:50:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "The question is how long it takes Arvind Krishna there, the CEO of IBM. Now coming up from Space Edge Computing to a week-long stay inspace, a history making crude docking at the International Space Station, we're live at Kennedy Space Center, next. (COMMERCIAL BREAK)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:50:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "Welcome back to FIRST MOVE. You are looking at pictures of the SpaceX Crew Dragon, the spacecraft that just docked at the InternationalSpace Station. The four person crew boarded the rocket and took off from Florida on Sunday afternoon. They will now embark on a week-long stay aboard the ISS, the second all private mission to the outpost. The crew is also making history with the first woman to command a private spaceflight, as well as the first woman from Saudi Arabia to travel to space. CNN's Carlos Suarez is live for us at the Kennedy Space Center in Florida. Lots of firsts, one second here, but definitely history in the making Carlos, talk about what we're going to expect to see and hear over the next week.",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

@@ -1,0 +1,565 @@
+{
+  "date": "2023-12-03",
+  "headline": "CNN This Morning",
+  "subHeadline": "NY Appellate Court Reinstates Trump Gag Order; Coast Guard Cover-up; Mortgage Rates Continue to Drop for Fifth Straight Week; Chaos in College Football Playoff Picture. Aired 8-9a ET",
+  "utterances": [
+    {
+      "timeStamp": "08:00:02",
+      "speaker": "STEPHANIE ELAM, CNN CORRESPONDENT",
+      "sentences": "So if you're wondering why is she telling us all about this now, well, it has a lot do with that community service. She started working with an organization called a New Way of Life. It's a non-profit here in the Los Angeles area that works with previously incarcerated women, helping them with housing, clothing and job training.She came in and the founder of the organization was actually prepared to just sit her at a desk. And she says, because she was also there for part of the interview, that, no, Huffman was like, I really do want to work. So, she started helping to organize their donations. She started coming up with exercise programs. And now, Huffman sits on the board of directors. So, all of this is being used to highlight the good work this organization is doing, using it to highly with this bit of infamy that she's earned for herself to help change the lives of some of these women. Also worth noting that her daughter did retake the SAT and is now attending college all on her own merit. Back to you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:00:02",
+      "speaker": "VICTOR BLACKWELL, CNN ANCHOR",
+      "sentences": "Stephanie Elam, thanks so much.The next hour of CNN THIS MORNING starts right now. Good morning. Welcome to CNN THIS MORNING. It's Sunday, December 3rd. I'm Victor Blackwell.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:00:02",
+      "speaker": "ISABEL ROSALES, CNN ANCHOR",
+      "sentences": "And I'm Isabel Rosales, in for Amara Walker.The Israel Defense Forces say that they struck multiple targets in Gaza overnight in including tunnel shafts, command centers and weapons storage facilities. Hamas launched a barrage of rockets towards Tel Aviv that were intercepted by Israel's Iron Dome.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:00:02",
+      "speaker": "BLACKWELL",
+      "sentences": "Israel has recalled its team of negotiators from Qatar when talks broke down Saturday after Israel insisted on the release of a group of women from Gaza and Hamas refused. Hamas blames Israel and the U.S. for the resumption of hostilities, and said there will be no hostage negotiations with Israel until there is a cease-fire in Gaza.CNN's Ben Wedeman is in Jerusalem. Camila DeChalus is at the White House. Ben, you first. The latest on the fighting, what do you know?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:00:02",
+      "speaker": "BEN WEDEMAN, CNN SENIOR INTERNATIONAL CORRESPONDENT",
+      "sentences": "Well, what we are seeing today is a resumption of intense Israeli airstrikes on targets around Gaza, but we've seen two very large air strikes on the Jabalia refugee camp, and the neighborhood, which is directly north of Gaza City. Now we don't have precise numbers on casualties and fatalities, we are looking at, perhaps as many as 300 people killed since the end of the truce early Friday morning.Now the Israelis said that, until now, they have managed to locate 800 tunnels in Gaza, destroying 500 of them yesterday, they said one of the strikes succeeded in killing a Hamas commander who had planned the 7th of October attacks on Israel. The Israelis also acknowledge that two of their soldiers have been killed in Gaza in the last 24 hours. But what we are seeing is, on the civilian side, the situation is deteriorating. The hospitals, those that are actually functioning, are full of the wounded. The morgues are too full. We saw in one hospital, they have a flatbed truck out in front filled with dead bodies -- Victor, Isabel.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:00:02",
+      "speaker": "ROSALES",
+      "sentences": "And, Ben, we know that Israel recalled its team of negotiators from Qatar, what is the latest? What do you know about talks of a new truce, and how likely does that seem?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:00:02",
+      "speaker": "WEDEMAN",
+      "sentences": "It seems at the moment, they are not going anywhere, these talks. These rallies pulled Mossad team. Mossad, of course, being the Israeli intelligence agency out of Qatar because they said that talks with Hamas had reached, in their words, a dead end.And now, Hamas, for its part, is saying that there will be no negotiations at this point, until there is a cease-fire in Gaza, as we know, the talks broke down, because Hamas could not come up with the Israeli hostages, women hostage is that the Israelis thought Hamas had, but Hamas is saying that they cannot reach them. Now we don't know if they can't reach them because of simply the situation on the ground, or perhaps other groups, like Islamic jihad are holding them. So Qatar continues to be in contact with both sides, but it appears that it's not really much passing back and forth in terms of messages from Israel via Qatar to Hamas.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:05:11",
+      "speaker": "ROSALES",
+      "sentences": "Right, and no update yet. And as these days continue, that humanitarian crisis on the ground just keeps getting worse and worse.Camila DeChalus, thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:05:11",
+      "speaker": "BLACKWELL",
+      "sentences": "So, the talks have stalled, the fighting has resumed in Gaza, but the Palestinian Red Crescent says that 100 aid trucks made it through the Rafah Crossing on Saturday.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:05:11",
+      "speaker": "ROSALES",
+      "sentences": "The trucks from Egypt carried much-needed food and water, as well as medical supplies, including body bags, because they're going to need those.Now, I spoke with UNICEF spokesperson, James Elder, earlier, who said that the conditions in Gaza are so severe, it has become nearly impossible to get meaningful aid to civilians trapped there. Listen. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:05:11",
+      "speaker": "JAMES ELDER, SPOKESPERSON, UNICEF",
+      "sentences": "Because of the intensity of the attacks, there is no way people here are getting sufficient water, food, medicines, and, then as has been said, being forced to move from A to B without anything. They go to places where there is no water, there is no food.So, as a doctor said to me, Isabel, during a cease-fire, when he prayed that we wouldn't get this horror show from the sky again, he said, we will start to see the same number of children being killed from bombardments, as from disease. We now have war on two fronts for children. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:05:11",
+      "speaker": "ROSALES",
+      "sentences": "Yeah, he's called it a war on children. Well, CNN's Larry Madowo joins us now from Cairo, Egypt.Larry, are we expecting to see more trucks crossing into Gaza today? What are you hearing?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:05:11",
+      "speaker": "LARRY MADOWO, CNN INTERNATIONAL CORRESPONDENT",
+      "sentences": "That is the expectation, that more trucks will continue to get through the Rafah crossing into Gaza. So the 100 trucks that got in on Saturday is an improvement from Friday, when no trucks at all got in, and the Palestine red crescent at the time said that the Israelis had prohibited any aid trucks getting into the Rafah crossing, until further notice.The White House said, it took the intervention of the U.S. officials to Israelis to allow that to happen, and the Israelis did confirm yesterday that, at the request of the U.S., they allowed more trucks to come into the Rafah crossing. Now, when they come from Egypt, they don't go straight into Gaza, they have to go to the Nitzana Crossing, with the Israelis verify what's coming in these trucks, before they are allowed to be unloaded in Gaza. This is a small drop in the ocean because the U.N. has said that they need at least 200 trucks coming in daily, continuously, for two months to meet the needs of people there, and the needs are exceptional. Listen to this 80-year-old man whose lost everything. (BEGIN VIDEO CLIP) ABU WAEL NASRALLAH, GAZA RESIDENT (through translator):  There is nothing left to fear. Our houses are gone. Our property is gone. Our money is gone. Sons have been murdered, some died, some handicapped in the hospital. What is left to cry for? And then, they tell, us we will get aid. Where is it? (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:05:11",
+      "speaker": "MADOWO",
+      "sentences": "So the aid is just one part. During the truce, at least 200 trucks were allowed to come in with food, and water, and cooking gas, and fuel that people badly need. But the U.S. official says the next stage has got to be the reintroduction of commercial foods into Gaza. They are discussing the Israelis. So far, no announcement of that.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:05:11",
+      "speaker": "BLACKWELL",
+      "sentences": "Larry Madowo, reporting for us. Larry, thanks so much.Let's discuss now with CNN global affairs analyst Kim Dozier. Kim, good morning to you. Let's start with the talks that have now ended, or at least stalled for this period. What does this portend for the next phase of this war? As Ben reported there, already been two strikes on refugee camps, as many as 300 killed since the end of the truce?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:10:10",
+      "speaker": "BLACKWELL",
+      "sentences": "Yes, and how they get that warning, as we reported, on some of these leaflets, it's a QR code.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:10:10",
+      "speaker": "DOZIER",
+      "sentences": "Yeah.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:10:10",
+      "speaker": "BLACKWELL",
+      "sentences": "While cell service, electricity, internet access, are sparse, if you can get it at all, and then, if it's divided into as many sectors as you say, though the places are already full with the people moved from the north down the south, as this continues.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:10:10",
+      "speaker": "DOZIER",
+      "sentences": "Exactly, but, you know, from Israel's position, Israel early on in this conflict had designated an agricultural area in southern Gaza, and asked all of the U.N. agencies to move their operations there, and the U.N., and the WHO, they all refused, saying that that is an area devoid of any services, it's basically open fields.But Israeli officials have spoken to have explained, look, the areas that we have to go after have Hamas tunnels underneath, they have an infrastructure that we have to dismantle. So that's why we need them move into this open space and that just never materialized as an option.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:10:10",
+      "speaker": "BLACKWELL",
+      "sentences": "Larry just reported that the U.S. advocated for those 100 trucks of humanitarian aid that crossed the Rafah crossing yesterday. President Biden says, as it relates to the release of hostages, that the U.S. will pursue every effort, those are his words, to release those hostages, with the talks offered now, and he's really negotiators recalled, what options does the U.S. have in getting these two sides back to the table in Doha?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:10:10",
+      "speaker": "DOZIER",
+      "sentences": "Well, there's always the Iran, option although that's a bit of a bank shot, where the U.S. offers to give more of its oil receipts, Iran sells oil to Iraq, and then cannot get the money back unless the U.S. approves the return of those funds. So those kind of things can somewhat influence Hamas, but we are now in a situation where, from the Israeli perspective, in from the Hamas perspective, they have hardened their positions, and I think you are going to see intense fighting over the next, at least a week or so, before anyone gets convinced to go back to the negotiating table.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:10:10",
+      "speaker": "BLACKWELL",
+      "sentences": "Yeah, and we heard from French President Macron, he said, this is a quote. Israel needs two more precisely defined their goal in the final outcome they are trying to achieve. What does the total destruction of Hamas mean?It's the same clarity that Israel's allies asked for a month and a half ago, but, at this point, does Israel really have to articulate any more than it has as it has not seemed to damage the alliance at all?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:10:10",
+      "speaker": "DOZIER",
+      "sentences": "I don't think you're going to see Israel change its position. Prime Minister Benjamin Netanyahu just gave another press conference in the last 24 hours, where he stressed, they are going to continue to take apart, or try to take apart the Hamas network. And that is a demand by multiple sectors of Israeli society, in order to feel safe again.But, of course, you also heard U.S. Secretary of Defense Lloyd Austin saying that taking care of civilians in a situation like this is a way to avoid future Hamas fighters from being created by those under fire. And from the U.S. officials, and the retired military officials that I am speaking, to they see them making the same take steps the U.S. made in Iraq and Afghanistan initially, not taking care of the people, and just focusing on the enemy, no matter what happens with where the bombs might fall.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:10:10",
+      "speaker": "BLACKWELL",
+      "sentences": "Kimberly Dozier, thank you,",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:20:06",
+      "speaker": "BLACKWELL",
+      "sentences": "Speaker the House Mike Johnson says Republicans have a duty to launch a formal impeachment inquiry into President Biden, and he believes that he has the votes now to do it.(BEGIN VIDEO CLIP) REP. MIKE JOHNSON (R-LA), SPEAKER OF THE HOUSE:  So, a formal impeachment in inquiry on the floor will allow us to take it to the next necessary step, and I think it's something we have to do at this juncture. Yeah, I believe we will, I suspect, no Democrats will assist in this effort but they should. The facts are so clear for everyone to see. The Constitution requires the House to follow the truth where it leads. We have a duty to do this. We cannot stop the process. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:20:06",
+      "speaker": "BLACKWELL",
+      "sentences": "Johnson also claimed the inquiry would not be used as a partisan political tool.All right. Let's see what Manu Raju, CNN chief congressional correspondent and host of \"INSIDE POLITICS SUNDAY\" has to say about this. Manu, what do you -- first good morning. What do you hear in the speaker's conference there?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:20:06",
+      "speaker": "MANU RAJU, CNN CHIEF CONGRESSIONAL CORRESPONDENT",
+      "sentences": "Well, look, it's interesting, because in September, Kevin McCarthy, then the speaker of the house, actually launched an impeachment inquiry, and didn't have a vote to authorize it. You don't need to have a vote, the first -- the second impeachment, Trump impeachment, didn't even have an inquiry. They just impeach President Trump at the time after January 6th.But Republicans want to try to for show forward momentum here, which is why they're trying to bring this to the floor. The question is going to be whether or not there will be enough Republicans in those swing districts that will ultimately side with the speaker. I talked to several of them, including some of those New York Republican swing districts. Several of them on Friday were simply noncommittal about whether they will vote to authorize the inquiry. There are some other ones, like Congressman Don Bacon of Nebraska, said he would authorize this inquiry. The speaker seems to think he has the votes. The question is, where does it go from here? Does that lead to the impeachment of the president? They actually get evidence, try to Joe Biden to the actions of his son, Hunter Biden, his business dealings. They don't have proof to define -- to tie the two together, but they're trying to get there. If they don't, will they go forward with an actual article of impeachment? And can they get the votes to do that? Those are all huge questions, especially growing ever more complicated with a narrow majority with the George Santos ouster and then heading into an election year too.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:20:06",
+      "speaker": "BLACKWELL",
+      "sentences": "Yeah, that margin has slimmed from 4 to 3 now, with Santos out, expelled at the end of last week. How are Republicans reacting to that?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:20:06",
+      "speaker": "RAJU",
+      "sentences": "Well, there are actually deep divisions within the Republican conference. I had a chance, over the day, and the aftermath of that vote, to talk to those members. It was actually a bit of a surprise. Going into that vote, it felt like the Speaker Johnson's opposition to expelling George Santos might have swayed enough Republicans to support Santos staying in his seat. Ultimately though, 105 Republicans voted to kick him out of the House, and in talking to Republicans it was clear that there was a lot of bad blood about that vote.(BEGIN VIDEO CLIP) REP. BYRON DONALDS (R-FL):  It's not even about Republicans Democrats anymore. This is about our nation being so caught up in politics, and posturing, not following the rule of law.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:20:06",
+      "speaker": "RAJU",
+      "sentences": "The ethics community said his conduct was unbecoming. The ethics committee is meant to police members, is it not?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:20:06",
+      "speaker": "DONALDS",
+      "sentences": "Manu, the ethics committee is not judged, jury and executioner.REP. MIKE LAWLER (R-NY):  The voters understand that in this instance, George Santos was unfit to serve, and it was Republicans who brought their expulsion resolution to the floor. It was Republicans that removed him from Congress. The chairman of the Ethics Committee produced a damning report, and we did what was right. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:20:06",
+      "speaker": "RAJU",
+      "sentences": "So, now, the question is, whether or not Republicans can hold on to that seat. There will be a special election to fill this vacancy that will occur sometime in the New Year, the question is, can they hold in the special election, but also in the general election? This is a Biden district, that Joe Biden carried in 2020.That tight margin can grow even tighter, which is weighing on a lot of those members minds, even as they cast a vote to come out of the House, Victor.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:20:06",
+      "speaker": "BLACKWELL",
+      "sentences": "All right, we have a couple hours until the big show. What you have for us today? RAJUWe have new reporting, along with my colleagues Melanie Zanona and Annie Grayer about how Mike Johnson is grappling with us. I actually heard from George Santos in the aftermath of the expulsion vote, he tells me why he believes he was kicked out of his seat. And also I have an exclusive interview with the leaders of the four NCAA power conferences. Why? They were up on Capitol Hill last week lobbying Congress for national law dealing with college athletes profit over their name, image, and likeness. So, you'll hear from them as well.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:20:06",
+      "speaker": "BLACKWELL",
+      "sentences": "All right. Looking forward to it. Manu Raju, good to have you. Thank you very much.And be sure to watch more on a wild week in Washington, with Manu, coming up on \"INSIDE POLITICS SUNDAY\", starts at 11:00, right here on CNN.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:20:06",
+      "speaker": "ROSALES",
+      "sentences": "And next on CNN THIS MORNING, Eric Trump is expected to return to the witness stand in the civil fraud trial against his family. A look at his likely testimony, and when this trial may end. That's straight ahead.(COMMERCIAL BREAK)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:20:06",
+      "speaker": "ROSALES",
+      "sentences": "Welcome back.Well, this Wednesday, former President Donald Trump's son Eric is set to take the witness stand in New York. That is for the civil fraud trial against his father. And Trump himself will likely take the stand here in the coming days. It is the latest in the web of legal entanglement surrounding the former president. And it comes just days after a U.S. district court judge ruled that Trump does not get immunity from criminal charges stemming from his actions in office. Joining us now is CNN legal analyst Michael Moore. Thank you for your time.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:20:06",
+      "speaker": "MICHAEL MOORE, CNN LEGAL ANALYST",
+      "sentences": "Yeah. Glad to be with you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:29:48",
+      "speaker": "MOORE",
+      "sentences": "You know, it does play a role. I think it's a little unusual to see this much effort put in to trying to keep a party to a lawsuit quiet, especially as it relates to the court staff. You know, some of this comes with the job. If you're the judge, if you're in the court staff, you expect some of these kinds of comments.Trump though is really using this as a platform to campaign.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:29:48",
+      "speaker": "ROSALES",
+      "sentences": "Truth Social especially.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:29:48",
+      "speaker": "MOORE",
+      "sentences": "That's right. I mean this is not really about the courtroom. It's about the political arena that he's in right now. So he's pushed it to the limit.So while I think that the court staff and judges will expect some -- you know, they can expect nasty comments. This has sort of pushed the bounds. And I think that's why the appellate court put the gag order back in place. Said it was sort of beyond the pale and not really about the case, but more about the personal issues that had caused problems.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:29:48",
+      "speaker": "ROSALES",
+      "sentences": "Can you dig into that a little bit more? He's pushed it beyond the pale? Do you mean the extent of what he's saying on Truth Social, the violations of the gag orders and the fines that he's gotten.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:29:48",
+      "speaker": "MOORE",
+      "sentences": "Yes. I mean the fines are pretty inconsequential to somebody of his stature. They're really meaningless when it's a couple thousand dollars here or there.But you know, when you make specific comments or post information about individuals or other folks who are acting unlawfully or maybe they're supporters who want to go and stalk or otherwise harass members of the court staff, I think you'll see the court circle and protect its people. And that's what the gag order does here. I'm sure it's a difficult job for his lawyers as they try to keep him quiet. But he has not taken that advice, and I think it's a little bit to his peril. Again, I really don't think it's about this case. I think, you know, whatever happens in this case, he's going to appeal that issue and you know, it will go on and the appeal in that case will live longer than just what this particular judge decides. But he is right now campaigning for president every day, every minute that he's on television and he gets to come out of the courtroom and talk about how he's being persecuted, that this is not a case about whether or not he lied about the values of his houses and buildings and all that kind of stuff. He wants to use this to say that again, this is a sample of how the system has been weaponized against me. I'm going to let it be -- I'm going to take the arrows for you supporters so you don't have to do it. I'm standing here as your champion. And that's the message that seems to be resonating with the voters.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:29:48",
+      "speaker": "ROSALES",
+      "sentences": "And that's got to be a lot to deal with for the court system. It's not every day you get a former president --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:29:48",
+      "speaker": "MOORE",
+      "sentences": "That's true. This is uncharted waters.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:29:48",
+      "speaker": "ROSALES",
+      "sentences": "Unique.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:29:48",
+      "speaker": "MOORE",
+      "sentences": "Right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:29:48",
+      "speaker": "ROSALES",
+      "sentences": "So where does this trial stand because Trump and his two adult sons and the company, they were already found liable. So what are the next steps here?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:29:48",
+      "speaker": "MOORE",
+      "sentences": "Well, it is unusual really in the fraud case for a judge to make a ruling that quickly before the evidence is actually presented in court.But that's what happened here on a summary judgment. And so now, we're talking about how much -- what the penalty should be, you know, how much money should be paid back and how he should be punished financially for the fraud. So this is now about valuation. That's why you're seeing people come in and say well, the property is worth x, but Mar-a-Lago is actually worth y. Anybody would pay that -- and so the judge is ferreting through that. Those differences of opinion, and some frankly, the decisions of the court making about who will and who will not be allowed to testify at the trial will become important appeal issues going forward. And I think you'll see those raised quite a bit. I mean you had last week, I think one of the banks came in and said we didn't even rely on those financial statements. That had no meaning to us. And so while the court denied the motion to dismiss the case based on that, they're saying it wasn't fraud if they didn't even rely on that. Those issues will make their way through to the appellate court.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:29:48",
+      "speaker": "ROSALES",
+      "sentences": "Ok. Well, this week it's been busy for Trump.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:29:48",
+      "speaker": "MOORE",
+      "sentences": "It's been busy.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:29:48",
+      "speaker": "ROSALES",
+      "sentences": "There's been two court rulings that highlight the tough legal road for the former president. In one, a federal appeals court in Washington pushed back on Trump's claims that there's presidential immunity and that prevents him from facing civil and criminal trials.Can you tell us about that decision? I think you have some concerns about that, right?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:29:48",
+      "speaker": "MOORE",
+      "sentences": "Well I mean I do think -- there were two decisions. One came out of the Court of Appeals in D.C. and that basically said that the president is not the president all the time that he's in office.I think that's likely to be revisited by the Supreme Court. Yes, you really -- if you think about it, they try to distinguish when somebody is campaigning and when they're not. The president can't go in for a colonoscopy without having to have somebody else become president. The United States has a president 24 hours a day, 7 days a week all the time.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:29:48",
+      "speaker": "ROSALES",
+      "sentences": "You feel it's a slippery slope.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:29:48",
+      "speaker": "MOORE",
+      "sentences": "I think It places some real questions for future presidents about whether or not they can be sued for a car wreck on the way to a campaign rally. Does that mean now that the president can be sued while he's president?That's the kind of thing that we've got to grapple with. I don't think we need to necessarily throw out our norms and other protections for future presidents just because we had a few years of craziness during the Trump term.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:29:48",
+      "speaker": "ROSALES",
+      "sentences": "Michael Moore, thank you for your perspective. A lot of unprecedented things happening in the legal system --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:29:48",
+      "speaker": "MOORE",
+      "sentences": "Absolutely. Glad to be with you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:34:49",
+      "speaker": "BLACKWELL",
+      "sentences": "Coming up, a CNN exclusive on how for nearly a decade the U.S. Coast Guard has kept secret a report exposing widespread racism, discrimination and more.And tonight we're bringing you the new \"CNN FILM: CHOWCHILLA\" which tells one of the most shocking true crime stories you have never heard. It's about the 1976 kidnapping of a school bus full of children and their driver who were buried underground for more than 12 hours before orchestrating their own dramatic escape. The incident captivated the country at the time and became a turning point in our understanding and treatment of childhood trauma. Here is a look. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:34:49",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "Chowchilla was a wonderful place to grow up.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:34:49",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "They were little innocent children.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:34:49",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "Never did I think something like this could happen.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:34:49",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "How does a school bus show up missing?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:34:49",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "I did not want to go down there.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:34:49",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "It was like somebody just took them up off the planet. UNIDENTIFIED MALE",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:34:49",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Your guess is as good as mine.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:34:49",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "It was a mystery. You had no answers.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:34:49",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "They recovered a journal encrypted in unusual writing.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:34:49",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Never seen anything like that.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:34:49",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "The kidnappers hit this town right in its heart by taking those children.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:34:49",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "All the way through they thought that they had thought of everything.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:34:49",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "I was being buried alive. And I thought to myself, we're going to die, we're going to die getting the hell out of here.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:34:49",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "When we got home, I thought life would be ok.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:34:49",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "The kids were not ok.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:34:49",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "God forgive them, because I won't.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:34:49",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "It was possibly the story of the century.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:36:44",
+      "speaker": "BLACKWELL",
+      "sentences": "This morning we're exposing another Coast Guard cover-up. CNN exclusive reporting found that top ranking military leaders concealed a damning report for nearly a decade that exposed racism, hazing, discrimination and sexual assault.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:36:44",
+      "speaker": "ROSALES",
+      "sentences": "CNN's chief investigative correspondent Pamela Brown -- she got a copy of that report.(BEGIN VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:36:44",
+      "speaker": "PAMELA BROWN, CNN CHIEF INVESTIGATIVE CORRESPONDENT",
+      "sentences": "This \"Culture of Respect\" report obtained by CNN was based on interviews with hundreds of Coast Guard employees in 2015. Among the alarming conclusions, Coast Guard personnel accept poor behavior as status quo; the Coast Guard does not provide sufficient measures to prevent sexual assault; and Coast Guard personnel have been discriminated against and sexually harassed.It's been kept from the public, dubbed for official use only. The front page saying it should be disseminated only on a need-to-know basis and kept in a locked container. The report describes the failures of Coast Guard leadership, claiming leaders are not fully aware of perpetrator/predator characteristics and have allowed Coast Guard members to escape accountability. In one example cited, a military member was reduced in rank and asked to leave the service after being involved in a sexual harassment complaint, only to be hired later by the Coast Guard as a supervisor and was even accepted as victim advocate into the Coast Guard program for sexual assault victims. KIMBERLY YOUNG-MCLEAR, COAST GUARD VETERAN: I've experienced racism. And as a black, queer woman I've experienced harassment.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:36:44",
+      "speaker": "BROWN",
+      "sentences": "Retired Coast Guard commander and whistleblower Kimberly Young McLear is one of the people who knew the report existed and has pushed for its release for years.YOUNG-MCLEAR: I and many of us were very, very angry, very upset that this was a document that spelled out exactly what the culture was, provided roadmap of how we can improve the culture, and the Coast Guard sat on it and then they buried it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:36:44",
+      "speaker": "BROWN",
+      "sentences": "In 2019 Young-McLear even testified in front of congress about the toxic culture in the Coast Guard.YOUNG-MCLEAR: If they had implemented the vast majority of recommendations that it absolutely could have prevented what happened to me, and not just me, but what continues to happen across the entire U.S. Coast Guard.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:36:44",
+      "speaker": "BROWN",
+      "sentences": "Yes, the Coast Guard and the Department of Homeland Security have for years refused to release the report publicly. And keep in mind, this newly uncovered report was written four years before another internal Coast Guard report that was kept secret until a CNN investigation last summer, dubbed Operation Fouled Anchor, it substantiated dozens of rapes at the Coast Guard academy.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:36:44",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "I again apologize to each victim, survivor, loved ones. We failed to provide the safe environment that every member of the Coast Guard deserves.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:36:44",
+      "speaker": "BROWN",
+      "sentences": "The problems outlined in both reports, still persist according to dozens of recent and current Coast Guard employees who have spoken with CNN. They worry that change will not happen in the future until the Coast Guard confronts its past.YOUNG-MCLEAR: In order to improve the culture, they have to acknowledge what the culture actually is. (END VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:44:38",
+      "speaker": "BLACKWELL",
+      "sentences": "Mortgage rates have continued to drop for the fifth week in a row now, potentially attracting buyers back to the market.CNN's business correspondent Rahel Solomon has more.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:49:44",
+      "speaker": "JEROME POWELL, FEDERAL RESERVE CHAIRMAN",
+      "sentences": "And in in many other countries around the world. High inflation imposes a significant hardship on all households and is especially painful for those least able to meet the higher cost of essentials like food, housing and transportation.It would be premature to conclude with confidence that we have achieved a sufficiently restrictive stance or to speculate on when policy might ease. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:49:44",
+      "speaker": "SOLOMON",
+      "sentences": "Now, we have seen a slight increase in mortgage applications in recent months, but despite this, pending home sales are at their lowest levels in two decades.And mortgage rates, even with these slight declines, remain stubbornly high. Now, to put this in perspective, a 20 percent down payment on a $500,000 home would cost you more than $1,000 more per month today versus November of 2020. And as home buyers slowly come off the sidelines as mortgage rates come down, still too early to know what direction prices will go as we inch closer to the new year -- Victor, Isabel.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:49:44",
+      "speaker": "BLACKWELL",
+      "sentences": "All right. Thanks so much, Rahel.More of the cold and the heavy rain and the snow is coming to the Pacific Northwest. Some areas could see up to 4 feet of snow.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:49:44",
+      "speaker": "ROSALES",
+      "sentences": "That sounds like a nightmare to me.Well, to top it off, strong winds for much of the region, as well, all of it was caused by the atmospheric river that's now in place. Here to break down all the science is meteorologist Allison Chinchar. Ok, what are we looking at?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:52:44",
+      "speaker": "BLACKWELL",
+      "sentences": "Yes, fans have Alabama to thank for that. Yes -- it's Alabama. The way I said it. Let's bring in Carolyn Manno from New York now.Carolyn, Georgia -- the two-time defending national champs lost yesterday for the first time in two years.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:59:47",
+      "speaker": "MANNO",
+      "sentences": "And as much as it hurts me as a Florida Gator, even though I am inexplicably wearing Georgia red for some reason, it's still hard to truly count out Georgia, guys, back-to-back national titles. 29 straight wins before yesterday.This is going to be tough. We'll find out around noon who makes it in.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:59:47",
+      "speaker": "BLACKWELL",
+      "sentences": "You had one opportunity this morning to support your team, and here you are in Georgia red. You had an option.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:59:47",
+      "speaker": "ROSALES",
+      "sentences": "You know what, SHE he did nail Louisville. As a Kentucky girl, I appreciate how you said that.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:59:47",
+      "speaker": "MANNO",
+      "sentences": "There you go. There you go. I'm embarrassed.(CROSSTALKING)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:59:47",
+      "speaker": "BLACKWELL",
+      "sentences": "Carolyn Manno, thanks so much.And thank you for watching this morning.",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

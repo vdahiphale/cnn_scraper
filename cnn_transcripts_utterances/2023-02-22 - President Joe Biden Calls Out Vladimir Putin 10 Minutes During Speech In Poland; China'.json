@@ -1,0 +1,271 @@
+{
+  "date": "2023-02-22",
+  "headline": "CNN Newsroom",
+  "subHeadline": "President Joe Biden Calls Out Vladimir Putin 10 Minutes During Speech In Poland; China's Top Diplomat To Meet With Sergey Lavrov In Moscow; CNN Investigation Uncovers Dozens Of \"Black Sites\" Used By Iranian Regime To Torture Protesters; U.S. Supreme Court Hears Arguments In High-Stakes Retch Case. Aired 12-1a ET",
+  "utterances": [
+    {
+      "timeStamp": "00:00:21",
+      "speaker": "JOHN VAUSE, CNN ANCHOR",
+      "sentences": "Ahead here on CNN NEWSROOM, dueling speeches from Biden and Putin, one filled with delusional claims and a twisted narrative, the other delivered by the U.S. President.CNN exclusive reporting reveals the secret torture centers across Iran, where antigovernment protesters are brutalized into making false confessions. And is social media responsible for the harmful content it promotes? The future of big tech could be decided by nine Supreme Court justices who admit they're really confused.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:00:21",
+      "speaker": "ANNOUNCER",
+      "sentences": "Live from CNN Center, this is CNN NEWSROOM with John Vause.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:00:21",
+      "speaker": "VAUSE",
+      "sentences": "The leaders of the U.S. and Russia deliver dueling firing speeches just as the war in Ukraine is about to enter a second year.Joe Biden and Vladimir Putin spoke just hours apart on Tuesday, both offering a very different perspective on the war. In Poland, Biden delivered a rallying cry, declaring Ukraine will never be a victory for Russia. He repeatedly called up Putin by name. And just as he did a day earlier in Kyiv, he again vowed unwavering support for Ukraine. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:00:21",
+      "speaker": "JOE BIDEN, PRESIDENT OF THE UNITED STATES",
+      "sentences": "One year ago, the world was bracing for the fall of Kyiv. Well, I just come from a visit to Kyiv and I can report Kyiv stands strong. Kyiv stands proud, it stands tall, and most importantly it stands free.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:00:21",
+      "speaker": "VAUSE",
+      "sentences": "In Moscow, Vladimir Putin delivered his State of the Nation Address which was scheduled for December but postponed until now because of Russian losses in Ukraine. On Tuesday, he announced Russia was suspending a nuclear arms treatywith Washington and claimed the West is to blame for escalating the conflict in Ukraine. (BEGIN VIDEO CLIP) VLADIMIR PUTIN, RUSSIAN PRESIDENT (through translator): The elite of the West do not conceal their ambitions, which is to strategically defeat Russia. Finish us off once and for all. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:05:20",
+      "speaker": "VAUSE",
+      "sentences": "That is one thing for certain. Kevin, thank you. Kevin Liptak there live for us in Warsaw.Julia Ioffe is a writer and a founding partner of the news outlet Puck. She joins us this hour from Washington. Thank you for being with us.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:05:20",
+      "speaker": "JULIA IOFFE, WRITER AND A FOUNDING PARTNER, PUCK",
+      "sentences": "Thanks for having me.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:05:20",
+      "speaker": "VAUSE",
+      "sentences": "OK, so the split screen of these two speeches from Presidents Biden and Putin was stark (PH). Putin spoke first (INAUDIBLE), not long into his speech, it seems truth was a pretty big casualty. Here he is.(BEGIN VIDEO CLIP) PUTIN (through translator): They're responsible for the escalation of the situation in Ukraine, for the huge numbers of casualties. And of course, the key of regime is essentially alien to the people of Ukraine. They are not protecting their own interests, but those who have their mind their countries. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:05:20",
+      "speaker": "VAUSE",
+      "sentences": "How important is to understand this delusion here, especially since Russia does have the world's biggest stockpile of nuclear weapons. And if Putin, you know, he went on to suspend the New START treaty, which caps the number of nuclear warheads here. So, is this considered a serious threat by Putin? Or is he just sort of phoning it in right now?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:05:20",
+      "speaker": "IOFFE",
+      "sentences": "Well, I think those are two separate questions. The first is that you know, his reprisal of his greatest most conspiracy theory minded hits in this speech, starting with the one you mentioned, it also included that Ukraine was actually not a real country, that it was just built off of -- built on historical Russian lands that were torn off from Russia, and just happened to be called the Ukraine now, which is not a real country.That is all stuff that is repeated constantly in on Russian state media, and is very important in keeping Russia united behind this war. And so far, we're seeing that it works.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:05:20",
+      "speaker": "VAUSE",
+      "sentences": "And actually, the decision to suspend the START nuclear treaty, is that -- does that actually have ramifications in the real world?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:05:20",
+      "speaker": "IOFFE",
+      "sentences": "It doesn't seem like it because there's no real legal mechanism to suspend or to pause one's cooperation in this New START treaty, you're either in it or you're out of it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:05:20",
+      "speaker": "VAUSE",
+      "sentences": "CNN also reporting that the U.S. believes Russia had failed intercontinental ballistic missile tests around the time of Biden's Ukraine visit. The Russians apparently informed Washington in advance just as Washington had informed Moscow of Biden's visit, but this test failed.So, what do you make of this? Is this just simply a case of when things go wrong, they go really wrong?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:05:20",
+      "speaker": "IOFFE",
+      "sentences": "To me it is a classically Russian case of you know, Russia going to Russia. I think it was an attempt to show that they were not cowed by the American President showing up in Ukraine. That yes, they were notified that he would be there. But that didn't mean that they would alter their course so that they would stop their attacks.And that, in fact, they would amp things up by conducting such a test to show that the American president being in Kyiv would not cow them, right. But of course, it being Russia, a lot of things don't work, for example, the invasion, or the Blitzkrieg, invasion of Ukraine. And this too, didn't work. A lot of things in Russia don't work, as the world has seen on full display in Ukraine for the last year.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:05:20",
+      "speaker": "VAUSE",
+      "sentences": "The U.S. president, on the other hand, had a very different message in a speech which has been compared to, you know, speeches delivered by JFK and Ronald Reagan in Berlin. Here's part of it.(BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:05:20",
+      "speaker": "BIDEN",
+      "sentences": "Autocrats only understand one word, no, no, no. No, you will not take my country. No, you will not take my freedom. No, you will not take my future. Ukraine will never be a victory for Russia. Never.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:05:20",
+      "speaker": "VAUSE",
+      "sentences": "As different as these two speeches were, there was one sort of common theme if you like, there was no talk of an end to the war, just messages of resolve, and this will be a drawn out conflict.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:10:07",
+      "speaker": "VAUSE",
+      "sentences": "Yes, it is a good question and an important question right now obviously. Julia Ioffe, we'll just wait and see as these -- as these things play out. Julia, thank you so much for being with us.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:10:07",
+      "speaker": "IOFFE",
+      "sentences": "Thanks for having me.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:10:07",
+      "speaker": "VAUSE",
+      "sentences": "China's top diplomat is now in Moscow set to hold talks with the Russian Foreign Minister Sergey Lavrov about the war in Ukraine. The Kremlin has said Wang Yi may actually meet with the Russian President Vladimir Putin.CNN's Kristie Lu Stout following developments from Hong Kong. Kristie, often with these sort of meetings is so little transparency, we love to read the tea leaves to work out where things stand. So, what can we expect in the coming hours? KRISTIE LU STOUT, CNN CORRESPONDENT (on camera): Yes, well, we know right now that China's top foreign policy official is in fact in Moscow that this meeting with the Foreign Minister of Russia, Sergey Lavrov is just hours away this according to the Russian state news agency task. According to the Kremlin, they said that they will not rule out a possible meeting between Wang Yi and the Russian President Vladimir Putin, and MoFA the Ministry of Foreign Affairs of Beijing has been signaling that this visit is an opportunity for both sides to exchange views about the relationship and to talk about international hotspot issues, which would include the war in Ukraine. Now, on Tuesday, Wang Yi had a meeting with the head of Russia's Security Council and during this meeting, they expressed their joint opposition to the cold war mentality, they also pledged to strengthen cooperation. They also discussed the situation in Ukraine, the specifics, details were not provided of this visit by Wang Yi to Russia is under immense international scrutiny. It was just last weekend Saturday when the U.S. Secretary of State and Antony Blinken warned Wang Yi of consequences should China go ahead and provide material support to Russia for the war in Ukraine. China multiple times has hit back and also is now accusing the U.S. of sabotage. I want to bring up this op-ed that was published in the state run tabloid the Global Times which has said this \"The U.S. has been wearing thick tinted glasses to view China-Russia friendly ties from the very beginning\". It goes on to say, \"The suspicions, provocation and sabotage from Washington toward China-Russia ties have never stopped and now they have reached a peak because of the conflict.\" Now, since the Russian invasion of Ukraine, China and Russia have been getting closer on multiple fronts politically, economically, with China buying Russian energy and also militarily as well with regular China Russia military drills, including one taking place this week. And finally, John, just want to point out, we are keeping tabs on that article, the reporting coming up in the Wall Street Journal saying that the Chinese leader Xi Jinping is planning a visit to Moscow for a summit with Vladimir Putin. Possible timeline, it could be in April or in May. Back to you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:15:15",
+      "speaker": "ELBAGIR",
+      "sentences": "I can see the dark circles around your eyes.Do you sleep?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:15:15",
+      "speaker": "SAMADI",
+      "sentences": "I'm sorry.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:20:15",
+      "speaker": "ELBAGIR",
+      "sentences": "You have had to risk so much just to do your job.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:20:15",
+      "speaker": "SOHRABI",
+      "sentences": "(Speaking foreign language) --SOHRABI (through translator): If I cry, it is not because I fear the Islamic Republic. It's not because of what I have lost. It is for the cruelty that people in Iran are facing. ELBAGIR (voice-over): Even as evidence of torture on an industrial scale points to desperation of the regime, Iran's young protesters are equally defiant, even in the face of the unimaginable: torture and death. Nima Elbagir, CNN. (END VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:20:15",
+      "speaker": "VAUSE",
+      "sentences": "We should add this, CNN reached out to the Iranian authorities for comment on our report and our findings. We're yet to receive a response.We'll take a short break, when we come back, should Google and YouTube be responsible for content their algorithms promote? That's the big question before a U.S. Supreme Court, which doesn't really seem to get it. (COMMERCIAL BREAK)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:20:15",
+      "speaker": "VAUSE",
+      "sentences": "Warnings from Walmart and Home Depot have investors worried that a U.S. recession could still happen. Both retailers lowered the outlook for the year ahead with Home Depot missing revenue expectations for the first time since the pandemic.The Dow plunged nearly 700 points Tuesday, the S&amp;P 500 down two percent. NASDAQ dropped 2-1/2 percent as well. Let's take a look at the Asian markets at the moment and they are down across the board. Nikkei down by 1-1/3. Hong Kong Hang Seng down just by a touch and Shanghai and Australia's SP down by a third of one percent. On Tuesday, the U.S. Supreme Court heard arguments in the case of Gonzalez versus Google, a case which has the potential to upend in the internet. It focuses on whether or not tech companies can be held liable for search recommendations. Justice has spent hours asking questions and presenting hypothetical situations, but different types of online content. And where the current laws and protections for companies should actually be changed. The family of Nohemi Gonzalez is suing Google, YouTube's parent company claiming the sites' algorithm promotes terrorist videos. Gonzalez was killed during the 2015 ISIS terror attack in Paris. Her parents claimed YouTube was instrumental in radicalizing viewers, and are urging the court to take action. (BEGIN VIDEO CLIP) BEATRIZ GONZALEZ, SUING GOOGLE, DAUGHTER KILLED IN 2015 ISIS ATTACK: We continue in this fight because we are seeking justice. Nothing is going to give me back my daughter but at least that is something good is going to be accomplished. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:25:02",
+      "speaker": "SHELLY PALMER, ADVANCED MEDIA PROFESSOR AT THE NEWHOUSE SCHOOL OF PUBLIC COMMUNICATIONS, SYRACUSE UNIVERSITY",
+      "sentences": "My pleasure.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:25:02",
+      "speaker": "VAUSE",
+      "sentences": "So, the Supreme Court is looking at Section 230 of the Communications Decency Act. And basically, you know, the critics say this is a get out of jail free card for sites like Google and Twitter, because under Section 230, they're not liable for the content posted on their sites.But explain the argument here before the court which focuses on the algorithms which target users and promotes content. So, what are they saying here they are responsible for? What's the argument?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:25:02",
+      "speaker": "PALMER",
+      "sentences": "So, the way -- the way that the one side looks at it is that the tech giants, the tech platforms have to be liable, because the algorithms do the following.They basically put a sign on YouTube or on any social media site or any platform that says we will use YouTube as an example. YouTube strongly recommends this content. And if you're recommending the content, and this -- that means that you have -- you are a publisher, you are an editor, you are a curator. And if you are the curator, then you are responsible for what it is you're curating. That's the argument on one side. The argument on the other side is that, no, we're a tech platform. You wouldn't be held responsible if you're the phone company for someone making a phone call that was containing the wrong kind of communication. So we are a platform like a telecommunications company. And of course, neither one is correct, because the platforms are not telephone companies, telephone calls are one to one between two people. And there's an assumption of privacy. And here you are publishing you, the user, the consumer, and user generated content, you are the person who is publishing. And Google, for example, or YouTube allows you to publish. So, it's not a gum or a candy, which makes this very complicated because it's not cut and dried. The Communications Decency Act was done in 1996, the world has changed.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:25:02",
+      "speaker": "VAUSE",
+      "sentences": "And with regard to the complexity here, at one point, Justice Elena Kagan seems to address the elephant in the room, here she is.(BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:25:02",
+      "speaker": "ELENA KAGAN, ASSOCIATE JUSTICE, SUPREME COURT",
+      "sentences": "Every other industry has to internalize the costs of its conduct. Why is it that the tech industry gets a pass? A little bit unclear.On the other hand, I mean, we're a court we really don't know about these things. You know, these are not like the nine greatest experts on the internet. Isn't that something for Congress to do, not the court? (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:25:02",
+      "speaker": "VAUSE",
+      "sentences": "Or as a news outlet Axios put it, big tech's future is up to a Supreme Court that doesn't understand it.I mean, should this be an issue for Congress? Are lawmakers on Capitol Hill better equipped to deal with this in any way?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:25:02",
+      "speaker": "PALMER",
+      "sentences": "First of all -- first of all, kudos to the Supreme Court of United States for knowing that this is, you know, something they probably are not experts in because they aren't. And I don't have really high hopes for Congress, either. Our elected officials have demonstrated time and time again that this kind of technical reality is way beyond their pay grade. And we never see any kind of serious action, we hear a lot of lip service. But these -- yes is the short answer. Congress should do somethingabout this, there should be a law. There should be a lot of different laws around communications, because the business of communications, telecom, everything to do with the internet with data with data privacy. Across the entire spectrum of how we do life in the 21st century, has changed from a telecom, from a communications perspective, and Congress needs to step in and say, well, we recognize data sovereignty, data privacy, security issues, we recognize that there is a difference between a publisher and a platform, and it's not cut and dried. And we need to enact laws that will protect those that needs to be protected, which is the job of government. We just haven't seen it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:25:02",
+      "speaker": "VAUSE",
+      "sentences": "Well, the nine justices said to your point, they have been public about their struggle through most of the arguments put forward by both sides. And here's a sample from our reporting from CNN reporting.I'm afraid I'm completely confused by whatever argument you're making at the present time, Justice Samuel Alito said early on. So, I guess I'm thoroughly confused, Justice Ketanji Brown Jackson said at another point. I'm still confused, Justice Clarence Thomas said halfway through arguments. Is there a point here that what makes it so much harder for the justices, they're not just ruling on making a decision on affecting the here and now. They're asking for a ruling that could have implications on the tech world for decades to come, for generations to come into the future. And that is kind of an impossibility in a way.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:30:16",
+      "speaker": "VAUSE",
+      "sentences": "Shelly Palmer, thank you so much for being with us. Really appreciate your insights. Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:30:16",
+      "speaker": "PALMER",
+      "sentences": "My pleasure.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:30:16",
+      "speaker": "VAUSE",
+      "sentences": "Still ahead here on CNN, the Ukrainians once liberated but now living in fear Russian soldiers may return, now that Moscow's long- awaited winter offensive is on the way.(COMMERCIAL BREAK)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:30:16",
+      "speaker": "VAUSE",
+      "sentences": "Monday's major aftershock in Turkey has now killed at least six people. Its compounding the suffering and damage from the initial earthquake, which struck Turkey and Syria more than two weeks ago.Right now, nearly 900,000 people living in temporary shelters in Turkey. About 140,000 buildings throughout the country have either already collapsed or are at risk of collapsing. Across both countries, there are now more than 48,000 confirmed deaths. More than 7000 aftershocks have been recorded in Turkey, according to the country's emergency management agency. Just as Vladimir Putin was accusing the West of escalating the war in Ukraine, came new details about a deadly Russian strike in the Southern Ukrainian city of Kherson. And a warning: the images you're about to see are disturbing. Local officials say that Russia shelled the city 17 times on Tuesday, killing five people. At least 16 others were wounded. Authorities say a transport stop and a market were targeted. For weeks now, Russian forces have been trying to take the Eastern city of Bakhmut. According to the Institute for the Study of War, Russian forces have been making incremental gains in the region, seizing a settlement North of the city. And now that Moscow's long-expected military offensive is underway, many Ukrainians who have lived under Russian occupation are increasingly on edge as the front lines, once again, edge closer to the home front. CNN's Sam Kiley picks up the story. (BEGIN VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:35:07",
+      "speaker": "KILEY",
+      "sentences": "Why do your parents not insist that you all leave as a family?KILEY (voice-over): \"My dad has a farm here. He's got land. And we can't just leave it all behind,\" she says. \"So, we just don't want to go yet. Well, if it gets serious, then we'll leave.\"",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:35:07",
+      "speaker": "KILEY",
+      "sentences": "And how would you define really serious? In most countries, having a missile that big land in the middle of town is already really serious.KILEY (voice-over): \"Very serious is probably when a lot of houses are destroyed and civilians suffer,\" she explains. It's the defiance of Ukrainian civilians that Russia is trying to crush. Putin's rockets and artillery have rained down on towns from Kherson to Kramatorsk to Kupiansk on the Northern border with Russia, along the front line of 1,300 kilometers. That's 800 miles. This latest assault on Kherson, another example of the indiscriminate shelling of civilians. This isn't accidental; it's deliberate. The areas liberated by Ukraine bear the brunt of an ever-increasing level of attacks by Russia. Here in Kupiansk province, as in Kherson, civilians survive on aid rations. \"We don't know what to do,\" she says. \"Houses are shaking. Missiles are flying. We just don't know what to wait for. We're shaking like chickens. We don't know what to expect.\" Fighting has been most intense in and around Bakhmut, with a surge in attacks by Russia on nearby villages in a foretaste of the anticipated offensive. Veterans like Alex, who captured this tank, called Bunny (ph), from Russia last March are running low on ammunition. He says that he's sometimes in combat with only ten shells a day.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:35:07",
+      "speaker": "ALEX, UKRAINIAN TANK COMMANDER",
+      "sentences": "It's really hard. We have a lot of casualties every day. And the problem is that the fighting moved inside the city, because, like, we are fighting, like, building to building, and the distance is, like, 25 to 60 meters. So we cannot use artillery well.KILEY (voice-over): Here, civilians place their faith in Ukraine's forces to hold off the Russians and play their part by staying on and staying alive. Sam Kiley, CNN, in Monitonivka (ph). (END VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:35:07",
+      "speaker": "VAUSE",
+      "sentences": "The president of Poland has thanked not just the U.S. president but U.S. lawmakers and the American people, as well, for supporting Ukraine.Both leaders held talks Tuesday before addressing a cheering crowd of thousands at the royal castle in Warsaw Tuesday. In an exclusive interview, Poland's president told CNN's Christiane Amanpour Biden's surprise visit to Kyiv on Monday was a powerful show of support. (BEGIN VIDEO CLIP) ANDRZEJ DUDA, POLISH PRESIDENT (through translator): The very thing that the president traveled to Kyiv, he was there, it sends an incredibly powerful signal, a political and strategic signal. It is a demonstration of strength of the United States indeed. It is like saying that the American leader, who as a matter of fact, is the leader of the free world, is able to travel even where war is raging, even to a place where there is a potential danger. He is not afraid, because the United States is strong enough to protect him. That is No. 1. And No. 2, he was there. And today, he's in Warsaw. He gives his speech to the whole world. And he sends a signal of the defense of everyone (ph), the defense of NATO, the defense of every inch of the territory, as the president said today. So to us, to Poles, this American signa, this allied signal, not only within NATO but first of all a signal sent by the greatest superpower in the world, a signal sent by our friend and ally today is so significant. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:41:21",
+      "speaker": "VAUSE",
+      "sentences": "Welcome back. Venice is facing unusually low tides this winter, making it impossible for gondolas and water taxis to navigate some of the city's iconic canals.They're drying up, because the Alps have received less than half of their normal snowfall. And environmental group says Italy's rivers and lakes are also suffering from a severe lack of water. But rain is in the forecast for the coming days. Meantime, Tropical Cyclone Freddy is lashing Madagascar with heavy rain and powerful winds after making landfall Tuesday night, local time. Let's go to meteorologist Britley Ritz, live at CNN Weather Center. This has a been sort of like a slow-moving cyclone over the region. What's the latest?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "00:41:21",
+      "speaker": "BRITLEY RITZ, CNN METEOROLOGIST",
+      "sentences": "Absolutely, and they're dealing with flooding rains, just as you mentioned, John.We had landfall in Mananjary, around 8 a.m. local time on the 21st with a strong tropical cyclone gust reaching over 230 kilometers per hour. The system itself still lingering over Madagascar but moving into the channel. Slowly, very slowly. West at 26 kilometers per hour, gusts right now at 160 kilometers. Still expected to strengthen as it moves over the channel back to a strong tropical cyclone. Over the next 48 hours, getting close to Mozambique with winds of 110 kilometers per hour. Once it hits the friction of that land, on the Southeast coast, then we're dealing with a weaker system. It weakens it, but we're still dealing with the strong winds and, of course, the heavy rain. Friday, local time, winds gusting over 100 kilometers per hour by landfall along that Southeast coastline of Mozambique. But, again, weakening as it moves inland. Heavy rain expected over the next 48 hours. You'll see the darker purples and the reds popping every once in a while. That's heavier rainfall. These areas could pick up roughly 100 to 150 millimeters of rain and expect more in isolated areas -- John.",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

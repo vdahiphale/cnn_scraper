@@ -1,0 +1,175 @@
+{
+  "date": "2024-05-20",
+  "headline": "CNN This Morning",
+  "subHeadline": "Iran: President Raisi Dead After Helicopter Crash; Trump Hush Money Trial Resumes Today; Wildfire Burns 5k-Plus Acres in Arizona's Tonto National Forest. Aired 5-5:30a ET",
+  "utterances": [
+    {
+      "timeStamp": "05:00:00",
+      "speaker": "ANNOUNCER",
+      "sentences": "This is CNN Breaking News.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:00:00",
+      "speaker": "KASIE HUNT, ANCHOR, CNN THIS MORNING",
+      "sentences": "Good morning, I'm Kasie Hunt in Washington, this is CNN THIS MORNING. It's 5Iranian state media reporting overnight that he is dead. The Foreign Minister and other government officials were also onboard after attending an event near Iran's border with Azerbaijan. Rescuers reached the crash site overnight, there are no survivors -- prompting Iran's government to convene an emergency meeting. CNN's Paula Hancocks is tracking the latest developments for us from Abu Dhabi. Paula, good morning to you. What is the latest here?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:00:00",
+      "speaker": "PAULA HANCOCKS, CNN INTERNATIONAL CORRESPONDENT",
+      "sentences": "Well, Kasie, we know at this point that the conditions at the time of the helicopter crash were bad. We know that the weather was challenging. We have been told that the fog and low cloud reduced visibility significantly.So, this is certainly being looked into by investigators. Now, this happened in a remote northwestern parts of the country. It is very mountainous. It is inhospitable terrain and it took rescue teams about 16 hours to be able to reach the area where this helicopter went down. They were unable themselves to put a helicopter up to try and find the location quicker, they said, because the conditions were too dangerous. So that really speaks to what the weather was like at the time of this crash. Now, we know that there has been this urgent meeting of the Iranian cabinet. We also know that the Iranian government has given their condolences, saying it's a great loss for the Iranian nation, that from the Guardian Council. And we know from the supreme leader himself, Ayatollah Ali Khamenei, that there will now be five days of mourning in Iran following this crash. He has expressed his condolences as well. Interesting though, all the Iranian officials, including the supreme leader, who have expressed condolences also point out that there will not be any disruption with this accident to the running of Iran, really trying to push forward a message of stability. Certainly, an important message they feel they need to give. Now, we know also that they have already made moves in the political scene. We know that the vice president has been now promoted to acting president, and there will be 50 days before there are elections called to replace that position. We also know that the deputy Foreign Minister has now taken the position of acting Foreign Minister. And this is a man who was known to the United States, Ali Bagheri Kani, he was the top negotiator in those indirect negotiations with the -- with the United States when it came to the Iranian nuclear deal and also hostage transfers and negotiations. So, what we're seeing at this point from the Iranian political sphere is a message of stability, at the same time as we are seeing the bodies being transferred from this crash site on the side of a mountain to the closest city to the area of Tabriz. So, a five-day morning period now in Iran, and we are seeing signs of that mourning starting already. We see on state media, the television anchors wearing black, we see prayers within the news bulletins themselves and certainly, this is a shock for many waking up in Iran.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:00:00",
+      "speaker": "HUNT",
+      "sentences": "All right, Paula Hancocks for us with this breaking news this morning, Paula, thank you. I want to go now to CNN senior international correspondent Ivan Watson. Ivan, good morning to you. What has been the reaction so far and what happens next in Iran?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:10:00",
+      "speaker": "HUNT",
+      "sentences": "Welcome back. Today, Michael Cohen returns to the witness stand in Donald Trump's hush money trial after an intense few days of testimony last week. Over the weekend, Trump spent his time away from the court on the campaign trail. The former president headlining a dinner Friday, hosted by the Minnesota Republican Party, and he of course, falsely claimed that he won the state in both 2016 and 2020. He took this jab at President Biden.(BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:10:00",
+      "speaker": "DONALD TRUMP, REPUBLICAN PRESIDENTIAL NOMINEE",
+      "sentences": "I used to treat Biden with a little respect, not a lot, but a little. Now, I say he's the worst president. He's incompetent. He's not a smart person.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:10:00",
+      "speaker": "HUNT",
+      "sentences": "President Biden was also in the Midwest over the weekend. He spoke in Detroit on Sunday and said this about Donald Trump.(BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:10:00",
+      "speaker": "JOE BIDEN, PRESIDENT OF THE UNITED STATES",
+      "sentences": "It's clear that when he lost in 2020, and I mean this sincerely, something snapped in Trump. He's not only obsessed with about losing 2020, he's currently unhinged.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:10:00",
+      "speaker": "HUNT",
+      "sentences": "All right, joining me now, national political reporter for \"The Hill\", Julia Manchester. Julia, good morning, always wonderful -- JULIA MANCHESTER, NATIONAL POLITICAL REPORTER, THE HILLmorning, Kasie --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:10:00",
+      "speaker": "HUNT",
+      "sentences": "To see you. So, both of these guys out on the trail in the Midwest, it really underscores kind of the importance of that region. But this, of course, all comes as Donald Trump heads back to court this week with Michael Cohen back on the stand. And the big looming question, is Trump going to testify or is he not going to testify?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:10:00",
+      "speaker": "MANCHESTER",
+      "sentences": "Absolutely. And legal experts have essentially said to me, it would probably not be the best idea for Donald Trump to testify. We don't know what he's going to say. We know that he's often times a loose cannon with these kinds of things.And I think right now prosecutor -- or excuse me, the defense attorneys are feeling confident that Michael Cohen's testimony in a way makes their case for them. I mean, supporters of the prosecution would say, look, Michael Cohen is putting all the pieces there, all of the evidence. But there's still this underlying question of can we trust Michael Cohen? It's so easy for Todd Blanche and the defense to say, look, this is someone who lied under oath in Congress, he'll do it again, what's stopping him now? And he's also someone who could have vendetta against Donald Trump. So, you know, even though this risk of Michael Cohen could play for the defense team, the idea of Trump testifying could also be risky for them.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:10:00",
+      "speaker": "HUNT",
+      "sentences": "Right, well, and I think that the question too is, how quickly is this? Is this all trial going to wrap up, and to your point about legal experts saying -- I mean, risky, I think doesn't even begin to quite capture what could happen for Donald Trump here on the stand, we've only gotten to see him in his life despite his involvement in so many court cases, he's only testified under oath kind of a handful of times in these instances.Julia, let's talk a little bit too about what we saw from President Biden over the weekend. He gave an address at Morehouse College. He's of course, been trying to focus on getting black voters in particular to be as excited about them as they were in 2020. And that's proven to be an uphill battle for him. I think we have a little bit of what he said in that Morehouse speech over the weekend. Let's watch. But let's talk about what happened at the speech, because people did turn their back --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:10:00",
+      "speaker": "MANCHESTER",
+      "sentences": "Yes --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:15:00",
+      "speaker": "MANCHESTER",
+      "sentences": "Striking scene, and it was something that the president's team was obviously prepared for. This is not the first time he's had to deal with these protests, other political figures have had to deal with these protests, but you know, I think he probably hit the right notes with calling for a ceasefire and saying, you know, a return for the Israeli hostages as well.But look, this is striking because we know that it's not only black voters that seem to be not as enthusiastic about the president compared to pass Democratic candidates. But it's also young black voters, young voters in general in this issue that plays for that voting bloc is really starting to hurt Biden. And so, this is a chance for him to get out there and make his case directly to the youth though.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:15:00",
+      "speaker": "HUNT",
+      "sentences": "Julia, how do you see -- I mean, we're obviously covering breaking news this morning with the leader of Iran dying in this helicopter crash -- at this point, we've had the Senate Majority leader Chuck Schumer out there saying, no indication at all of foul play. We're not hearing anything along those lines. But of course, this comes at an incredibly tense moment --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:15:00",
+      "speaker": "MANCHESTER",
+      "sentences": "Yes --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:15:00",
+      "speaker": "HUNT",
+      "sentences": "For, you know, Iran and Israel actually engaged in a shooting war, a hot war in the last couple of weeks that prompted, you know, American negotiators to do some shuttle diplomacy with the Omanis over the weekend. And of course this likely to further kind of inflame tensions here in Washington.You had Elise Stefanik going -- giving this kind of fiery address to the Israeli Knesset. How do you see the events, the breaking news playing out in terms of the conversation here in Washington?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:15:00",
+      "speaker": "MANCHESTER",
+      "sentences": "Look, I think it underscores how very carefully American officials are moving on the situation. I mean, obviously, the Middle East is a powder keg in any sort of, even if there wasn't foul play involved, any sort of event like this could, you know, sort of spark a chain reaction, especially at a time when you have Iran allied with Hezbollah and Hamas obviously in the Israel-Gaza war.So, you know, I think American officials are going to move very -- or the administration I should say, are going to be moving very carefully, but I think the administration will also get a lot of pressure still from people like Elise Stefanik from Republicans to take an even more hard-line stance on Iran.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:15:00",
+      "speaker": "HUNT",
+      "sentences": "All right, Julia Manchester for us, Julia, thank you very much for being here this morning --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:15:00",
+      "speaker": "MANCHESTER",
+      "sentences": "Thank you, too.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:15:00",
+      "speaker": "HUNT",
+      "sentences": "All right, coming up next, we're going to continue to follow this breaking news out of Iran, where their president has been confirmed dead after a helicopter crash. Plus, we've got a wildfire raging out of control in Arizona. We'll show you the latest.(COMMERCIAL BREAK) [05:20:00]",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:15:00",
+      "speaker": "HUNT",
+      "sentences": "Breaking now. Iran has confirmed that its President Ebrahim Raisi was killed in a helicopter crash in a remote part of the country. The chopper was also carrying the Foreign Minister and a number of other passengers. Their bodies now being transported to a nearby city. CNN's Matthew Chance looks back on who Raisi was.(BEGIN VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:15:00",
+      "speaker": "EBRAHIM RAISI, LATE FORMER PRESIDENT OF IRAN",
+      "sentences": "(SPEAKING IN A FOREIGN LANGUAGE)MATTHEW CHANCE, CNN CHIEF GLOBAL AFFAIRS CORRESPONDENT (voice-over): He was a staunch critic of the West, even seen as a possible successor to the Iranian supreme leader. Ebrahim Raisi came to power in 2021, winning an election with a record low turnout. And for three years, enacting policies that made him a polarizing figure at home and abroad. His presidency saw a dangerous escalation and tensions with Israel. In April, he supported a major attack against the country in an unprecedented response to a suspected Israeli strike on the Iranian consulate in Syria, which killed several Iranian commanders. Throughout Raisi's presidency, Iran pressed ahead with its nuclear program, violating an international agreement, while blaming the U.S. for withdrawing and European states for not living up to their end of the deal. Tehran also supplied lethal drone technology to Russia, fueling the conflicts in Ukraine, allowing Moscow to strike deep behind the frontlines. Meanwhile, at home, Raisi oversaw a brutal crackdown on dissent, suppressing a 2022 uprising sparked by the death of Mahsa Amini; a young woman in the custody of Iran's religious morality police. It all cemented his status as a loyal hardliner, potentially in line to succeed Iran's 85-year-old supreme leader. President Raisi's sudden death plunges that succession into chaos. Raisi died along with his Minister of Foreign Affairs, Hossein Amirabdollahian, the top Iranian diplomat took office in 2021 after a long career with the Foreign Ministry. (END VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:25:00",
+      "speaker": "DEREK VAN DAM, METEOROLOGIST",
+      "sentences": "Wow --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:25:00",
+      "speaker": "HUNT",
+      "sentences": "To you, what are you seeing?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:25:00",
+      "speaker": "VAN DAM",
+      "sentences": "Yes, good morning. It's just incredible to see the lightning illuminate that large funnel cloud that struck the western suburbs of Oklahoma City overnight, that was roughly about 10Right now, we've got several rounds of thunderstorms across the northern portions of the country and throughout the plains. We're stretch into the northeastern sections of Oklahoma, we have a severe thunderstorm watch. This includes Tulsa, but excludes Oklahoma City this morning because the greatest threat of severe weather is actually going to shift a little further to the north today. And the reason being is that we've got many of the factors driving the severe weather from warmth to instability to some sort of lift, which is a dry line or a cold front that's moving through. So, here it is, greatest chances of severe weather including Chicago suburbs. We've got a level two of five for you, but you can see are enhanced risk, including portions of Nebraska with damaging winds and can't rule out a tornado for the afternoon across many of these locations. So, we'll keep an eye to the sky. There are several days of severe weather ahead of us across the nation's midsection. Kasie?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:25:00",
+      "speaker": "HUNT",
+      "sentences": "All right, Derek Van Dam for us, lots to watch out for, Derek, thanks very much --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:25:00",
+      "speaker": "VAN DAM",
+      "sentences": "All right --",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

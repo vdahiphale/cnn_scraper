@@ -1,0 +1,637 @@
+{
+  "date": "2023-05-18",
+  "headline": "CNN This Morning",
+  "subHeadline": "Kohberger Indicted by Grand Jury; Santos Won't Resign Despite Charges; Destruction in Bakhmut; Aggression Leads to Staff Shortages in Little League; Heat Beats Celtics. Aired 6:30-7a ET",
+  "utterances": [
+    {
+      "timeStamp": "06:30:21",
+      "speaker": "KAITLAN COLLINS, CNN ANCHOR",
+      "sentences": "A grand jury has indicted the man accused of killing four University of Idaho students in November with a court official saying that Bryan Kohberger is facing four counts of murder and one count of burglary. He's now set to appear in court on Monday. Investigators accuse him of stabbing those four students to death at a home near their school. The quadruple murders shocked the campus and the small community there. It sent cops on a month and a half long search for Kohberger.CNN's Jean Casarez is here. Jean, what do we know about this indictment and what's next for Bryan Kohberger?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:30:21",
+      "speaker": "JEAN CASAREZ, CNN CORRESPONDENT",
+      "sentences": "You know, Kaitlan, what we know is we are surprised. This came out of the blue. Now prosecutors under the law can go to a grand jury at any time, but the state of the case right now is it's in the lower court to be bound over to the district court for trial.But it was all set. There was going to be a preliminary hearing, which was out in the open. It's set for the end of June, for the week of June. Witnesses would take the stand. People would listen to their testimony, cross-examination by the defense. Very out in the open. Unbeknownst to anybody, they went and convened a grand jury that heard testimony. But We'll never know who testified because the document came out yesterday, all the witnesses are sealed. And a grand jury is very secret. It is secret testimony basically. And so they determine, the grand jurors, from that community, that the case should be bound over for trial. So, now it is in district court. He will appear on Monday. He will enter a plea. And then it will proceed to trial.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:30:21",
+      "speaker": "POPPY HARLOW, CNN ANCHOR",
+      "sentences": "It is surprising that you would convene a grand jury for this.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:30:21",
+      "speaker": "CASAREZ",
+      "sentences": "At this point. HARLOW",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:30:21",
+      "speaker": "CASAREZ",
+      "sentences": "Because they could have done it right away.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:30:21",
+      "speaker": "HARLOW",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:30:21",
+      "speaker": "CASAREZ",
+      "sentences": "They could have done it right after he was charged. And, so, remember, there's a very encompassing gag order here, right? And parties can't talk. No one is talking. And so the only way you can get information is through the legal documents.Now, the pros and cons to that are that you want a fair trial. Bryan Kohberger deserves a fair trial of an impartial jury. And then too much is out, then that is at risk. Prosecutors don't want to taint the jury pool. They want that jury from Moscow, because that's the community where this happened.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:30:21",
+      "speaker": "HARLOW",
+      "sentences": "Right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:30:21",
+      "speaker": "CASAREZ",
+      "sentences": "So, I think that is the point. But you also have those constitutional rights that - that people deserve to know. They have a right to know.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:30:21",
+      "speaker": "COLLINS",
+      "sentences": "Yes. Well, keep us updated if there is any more developments in these surprising developments.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:30:21",
+      "speaker": "CASAREZ",
+      "sentences": "I will.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:30:21",
+      "speaker": "COLLINS",
+      "sentences": "Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:30:21",
+      "speaker": "HARLOW",
+      "sentences": "Meantime, drama, literal, actual drama, back and forth, heckling on the steps of the U.S. Capitol yesterday after the House voted to refer a resolution to expel Congressman George Santos to the Ethics Committee. This move allows House Republicans to avoid directly weighing in on whether he should be expelled, at least right now. But some New York Democrats made sure they were heard as Santos addressed reporters on the House steps.(BEGIN VIDEO CLIP) REP. JAMAAL BOWMAN (D-NY): Save yourself! Have some dignity! REP. GEORGE SANTOS (R-NY): Like I said, if - if I could - if I could understand you over my college screaming here -",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:30:21",
+      "speaker": "BOWMAN",
+      "sentences": "Have some dignity!",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:30:21",
+      "speaker": "SANTOS",
+      "sentences": "The reality is, is -",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:30:21",
+      "speaker": "BOWMAN",
+      "sentences": "New Yorkers need better! You gotta go, man. Come on, son!",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:30:21",
+      "speaker": "SANTOS",
+      "sentences": "How's your ethics - how's your ethics play going?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:30:21",
+      "speaker": "BOWMAN",
+      "sentences": "Come on, son, you've gotta go!",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:30:21",
+      "speaker": "SANTOS",
+      "sentences": "Are you - aren't you an ethics - (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:30:21",
+      "speaker": "HARLOW",
+      "sentences": "That was New York Congressman Jamal Bowman you just heard from heckling Santos. The chaotic scene continuing as Georgia Republican Marjorie Taylor Greene stepped in to defend Santos.(BEGIN VIDEO CLIP) REP. JAMAAL BOWMAN (D-NY): He's embarrassing y'all. REP. MARJORIE TAYLOR GREENE (R-GA): Impeach - impeach Joe Biden.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:30:21",
+      "speaker": "BOWMAN",
+      "sentences": "Impeach Biden for what?You got to get him out.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:30:21",
+      "speaker": "GREENE",
+      "sentences": "Biden is a criminal. Oh, Biden is embarrassing you completely.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:30:21",
+      "speaker": "BOWMAN",
+      "sentences": "Expel him. You've got to expel - save the party.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:30:21",
+      "speaker": "GREENE",
+      "sentences": "Not. You -",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:30:21",
+      "speaker": "BOWMAN",
+      "sentences": "Your party's hanging by a thread.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:30:21",
+      "speaker": "GREENE",
+      "sentences": "No, we've got to - we've got to get rid of Biden to save the country.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:30:21",
+      "speaker": "BOWMAN",
+      "sentences": "The party is hanging - the party is hanging by a thread.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:30:21",
+      "speaker": "GREENE",
+      "sentences": "To save the country.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:30:21",
+      "speaker": "BOWMAN",
+      "sentences": "You've got to save the party.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:30:21",
+      "speaker": "GREENE",
+      "sentences": "Impeach Biden. Impeach Biden.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:30:21",
+      "speaker": "BOWMAN",
+      "sentences": "Listen, no more QAnon.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:30:21",
+      "speaker": "GREEN",
+      "sentences": "Impeach Biden.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:30:21",
+      "speaker": "HARLOW",
+      "sentences": "Lauren Fox on Capitol Hill this morning.Quite a scene in front of everyone.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:02",
+      "speaker": "FOX",
+      "sentences": "It's important to remember that George Santos is not currently serving on any committees here on Capitol Hill. It's also important to note that the House Ethics Committee is looking into this issue already, was looking into this issue before the vote yesterday, to refer the question of expulsion back to them.But Kevin McCarthy made clear to our colleague Manu Raju that the House Ethics Committee is going to look into this and does not care whether or not the Department of Justice is also looking into it. He said that that would not affect their decision to continue their investigation. That's a very important note here because that could point to the fact that the ethics committee is continuing to pursue this despite a federal investigation.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:02",
+      "speaker": "HARLOW",
+      "sentences": "That's really interesting.Lauren Fox, thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:34",
+      "speaker": "COLLINS",
+      "sentences": "We're tracking the latest developments out of Ukraine. Overnight, explosions were heard throughout the capital of Kyiv and other Ukrainian cities and regions. As authorities said, there was a country wide air attack. This as fierce fighting has continued around that embattled eastern city of Bakhmut that we have been telling you about for several months now. Ukraine has been gaining some ground there in recent days. And CNN has obtained new satellite imagery that shows just the devastating toll that fighting has taken on the city over the last year alone.This all is happening as Ukraine is preparing for that long awaited counter offensive to reclaim occupied land that Russia took when it invaded Ukraine. With us now to talk more about this is retired U.S. Army Major Mark Lyons. Thank you, of course, for being here. So, we're talking about Bakhmut, which is this key city that they have been fighting over. We talked about it last week with the Russian mercenaries and whether or not they were going to withdrawal. This image right here is so striking to me. This is Bakhmut a year ago. And it just looks completely torched. What happened exactly? What weapons were used to take it from this to this? MAJOR MIKE LYONS, U.S. ARMY (Retired): Yes, Kaitlan, an example of, you know, a Russian war crime. This is a thermobaric weapon fired - firebombing fundamentally, weapons that are designed to do nothing but cause fire and destruction here, against civilian targets. This was a civilian apartment building, an apartment complex here. You can see the entire vegetation is gone on both sides -- on this side here. The buildings are destroyed. This is just one example of many other examples of the Russians using weapons against civilians that they shouldn't be doing.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:34",
+      "speaker": "COLLINS",
+      "sentences": "So, that's something that they would never typically use in an area where you can see homes, you can see parks?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:34",
+      "speaker": "LYONS",
+      "sentences": "Right.And we saw in apartment buildings and other places where there's other examples of the thermobaric weapons, there's a certain kind of system that they've brought to the battlefield. It's not even controlled by the Russian army. Strategically it was brought in by the senior leaders of the Russian military in order to create a weapon of terror for the civilians in that area.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:34",
+      "speaker": "COLLINS",
+      "sentences": "Just -- all of this is what makes people wonder about the Ukrainian counter offensive that we've been talking about, which was expected to happen I believe in the spring. There's now been questions about what exactly that's going to look like. I mean, obviously, now we're here through mid-May. What's your sense?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:34",
+      "speaker": "LYONS",
+      "sentences": "So, I think there's a pause taking place, rightfully so, as the Ukraine military is training its troops overseas, places like Grafenber (ph), places like the United States, has to put its weapons in place. In order for the counter offensive to be effective, the commander has the option of both where it takes place and when it takes place. So, if you look at this very long border here between where Russian troops are and where the Ukrainian troops are, I think the counter offensive, when it finally happens, kind of cuts in this way and threatens Crimea. Until the Ukraine military can threaten what Russia is doing in the south here, the Russian military is not going to stop.So, I think -",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:34",
+      "speaker": "COLLINS",
+      "sentences": "So, you think it's more towards the south than the east?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:34",
+      "speaker": "LYONS",
+      "sentences": "I do. And I think there's a little bit of a faint taking place right now and disinformation for what's going on. The battle in Bakhmut is a - is a classic example of Ukraine resilience and Russian military failure. And it's feeding into that narrative. But it also will shows that if the Russians put too much effort towards that, the Ukrainians will turn around and kind of cut their forces kind of in half here and really threaten Crimea.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:34",
+      "speaker": "COLLINS",
+      "sentences": "And as you know, President Biden is in Japan right now. He's meeting with G-7 leaders. Obviously Ukraine has got to be one of the top topics they're talking about.The White House is coming under pressure once again for the F-16 fighter jets, that are made by Lockheed Martin, to provide them to Ukraine. What's your sense of whether or not they're going to give on that?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:34",
+      "speaker": "LYONS",
+      "sentences": "I don't think they're going to give. It's still a long timeframe, 18 months, in order to get them to the battlefield for them to be effective, to train pilots and also for the logistics supply chain. They need helicopters. They need ways to move troops around the battlefield quickly. I think, besides the artillery, the air defense and the armor systems that have been given to them, you bring helicopters to that counter offensive right now, it would allow shock effect, it would allow troops to move around the battlefield, cross over the Dnipro river, cross those obstacles that we have there. I think that this conversation gets tabled again.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:34",
+      "speaker": "COLLINS",
+      "sentences": "So those are the argues against sending them, the time it would take to train and to get them there and, you know, how long it would take before they could actually use them. What's the argument for sending the F-16s?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:34",
+      "speaker": "LYONS",
+      "sentences": "Well, it sends a signal to the Russians that European communities, we've seen the Brits and the - and the Dutch have already said that they're - they're willing to - and the Belgians (ph) have said that they would like to train the pilots and do things with them. So, it's more of a strategic weapon. The bottom line is, this is leaning more and more to Ukraine likely becoming a member of NATO at some point, three, four, five years down the line when this is all over.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:45:01",
+      "speaker": "LYONS",
+      "sentences": "Thanks. HARLOWNow this, scenes like this, what we're going to play for you, are happening at little league games across America. Parents lashing out from the stands, even getting violent. The impact it's having on umpires in youth sports. Oh, my goodness. (COMMERCIAL BREAK)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:45:01",
+      "speaker": "HARLOW",
+      "sentences": "Little leagues across the country are facing major umpire shortages. Why? Our Vanessa Yurkevich spoke to some umps, some parents and players about what's behind all of this.Good morning. Is it bad behavior?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:45:01",
+      "speaker": "VANESSA YURKEVICH, CNN BUSINESS AND POLITICS CORRESPONDENT",
+      "sentences": "Good morning. A little bit of that.I went to my first little league game this week. The kids were so good and they were so professional. But I was not there to keep an eye on them.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:45:01",
+      "speaker": "COLLINS",
+      "sentences": "On the adults.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:04",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Baseball is just like - it's very fun.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:04",
+      "speaker": "YURKEVICH",
+      "sentences": "But the kids' fun is being ruined by -",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:04",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "What is happening?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:04",
+      "speaker": "YURKEVICH",
+      "sentences": "Adults.Around the country, brawls are breaking out at youth baseball games.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:04",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "Oh, my gosh.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:04",
+      "speaker": "YURKEVICH",
+      "sentences": "A coach coming after an umpire at a little league game in Alabama.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:04",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "You don't - he already heard you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:04",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "You know what, I'm going to forfeit the team.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:04",
+      "speaker": "YURKEVICH",
+      "sentences": "Parents aggressively yelling at an umpire in Texas.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:04",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Feel better?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:04",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "I feel fine.YURKEVICH (on camera): I can't understand what could get someone so upset at a children's baseball game.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:04",
+      "speaker": "JOHN DUGAN, PRESIDENT, RAMSEY BASEBALL AND SOFTBALL ASSOCIATION",
+      "sentences": "I - I don't -- I'm with you, I don't understand it either. But there's an expectation that, you know, every game is do or die for their kids' future in this sport.YURKEVICH (voice over): The physical and verbal abuse by parents is having a dramatic impact. An umpire shortage. Since 2017, the number of youth umpires in the U.S. has dropped. And at the high school level there are nearly 20,000 fewer referees across all sports than before the pandemic, but with signs those numbers may tick up this year.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:04",
+      "speaker": "DUGAN",
+      "sentences": "We've suspended people from the park and -YURKEVICH (on camera): Suspended parents from the park?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:04",
+      "speaker": "DUGAN",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:04",
+      "speaker": "YURKEVICH",
+      "sentences": "For how long?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:04",
+      "speaker": "DUGAN",
+      "sentences": "Usually it's - usually it's one game, two games to begin with. And then if it becomes worse than that, then we asked them not to come back.YURKEVICH (voice over): On this picture-perfect evening in Ramsey, New Jersey, the Robins are playing the Orioles. Twenty-one-year veteran umpire Carl Kearney is calling this little league game.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:04",
+      "speaker": "CARL KEARNEY, LITTLE LEAGUE UMPIRE",
+      "sentences": "That was low. Ball four.I'm the boss out there, no doubt.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:04",
+      "speaker": "YURKEVICH",
+      "sentences": "He's a calm boss.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:04",
+      "speaker": "KEARNEY",
+      "sentences": "All right, here we go.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:04",
+      "speaker": "YURKEVICH",
+      "sentences": "Which works in his favor.YURKEVICH (on camera): How have parents been in recent years?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:04",
+      "speaker": "KEARNEY",
+      "sentences": "Some can be a little louder than the coaches. Some vulgarity at times. But I let the parents say what they're going to say. If they continue, then you have to then tell the coach, you know, you have to kind of manage your parents. If you don't calm that down, I'm going to have to ask you to remove them.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:04",
+      "speaker": "YURKEVICH",
+      "sentences": "(voice over)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:04",
+      "speaker": "MIKE WOOD, FATHER OF LITTLE LEAGUE PLAYER",
+      "sentences": "It has been suggested maybe I should leave a game -YURKEVICH (on camera): Suggested by who?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:04",
+      "speaker": "WOOD",
+      "sentences": "But - but - but we never - but we never got to that point.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:04",
+      "speaker": "YURKEVICH",
+      "sentences": "Suggested by who?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:04",
+      "speaker": "WOOD",
+      "sentences": "By the umpire. The umpire said, look, I  mean, if you don't like the way I'm calling the game you can leave. But I'm not going to leave and it doesn't mean I have to enjoy the way that you're calling the game, you know?YURKEVICH (voice over): But his son, Jack, catcher for the Orioles, and, Evan, catcher for the Robins, see it from a different perspective.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:04",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "The umpire is like the top tier man. And like you have to respect him.YURKEVICH (on camera): Do you think it's appropriate for parents to be so involved, yelling things at the umpire?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:04",
+      "speaker": "EVAN PETERFRIEND, LITTLE LEAGUE PLAYER",
+      "sentences": "They should be excited and like focused on the game. But, like, when they, like, talk to umpires and like make - yell at the calls and stuff, I think that's a little unnecessary maybe.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:04",
+      "speaker": "YURKEVICH",
+      "sentences": "Unnecessary because why?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:04",
+      "speaker": "PETERFRIEND",
+      "sentences": "Because like it's like a kids game and it's just like little league. So, kids are just trying to have fun.YURKEVICH (voice over): When adults behave badly, the kids lose.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:04",
+      "speaker": "KEARNEY",
+      "sentences": "I have to stop the game. And nobody wants that. I can also understand that a parent, you know, wanting their child to, you know, to succeed. But not at that price.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:04",
+      "speaker": "YURKEVICH",
+      "sentences": "In the end, the Robins beat the Orioles for first place. But, really, everyone's a winner. It was a clean game by the kids and the parents.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:04",
+      "speaker": "KEARNEY",
+      "sentences": "Good game. That was a great game. Great game.(END VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:04",
+      "speaker": "YURKEVICH",
+      "sentences": "And this verbal and physical abuse by parents and coaches against umpires is happening across all sports. It's in soccer, softball, basketball. And some of the parents were telling me that some of these youth sports are big financial investments from these parents. And for some reason they feel more invested in them and that translates to this over excitedness, aggression. And these umpires, they make about $45 to $65 a game. They're not making a lot of money to put up with this. So, something really needs to change. These parents kind of need to get ahold of themselves a little bit and realize that, you know, it's in the best interest of the kids to just cheer them on and leave it at that.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:04",
+      "speaker": "HARLOW",
+      "sentences": "Yes, just chill out.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:04",
+      "speaker": "YURKEVICH",
+      "sentences": "Chill out and cheer them on.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:04",
+      "speaker": "HARLOW",
+      "sentences": "Chill out.Did you ever yell at umps in Alabama?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:04",
+      "speaker": "COLLINS",
+      "sentences": "No. I don't have any kids, a. But, b, a lot of those umpires --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:04",
+      "speaker": "HARLOW",
+      "sentences": "I mean the - the - the like college?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:04",
+      "speaker": "COLLINS",
+      "sentences": "Oh, oh, yes, but, like from the stands. No one could hear me.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:04",
+      "speaker": "YURKEVICH",
+      "sentences": "Yes,  yes, you're far back.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:04",
+      "speaker": "COLLINS",
+      "sentences": "That's different.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:04",
+      "speaker": "YURKEVICH",
+      "sentences": "Everyone's yelling at that point. You don't have a parent right there yelling at the ump.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:04",
+      "speaker": "COLLINS",
+      "sentences": "Yes, and a lot of these umpires are like teenagers.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:04",
+      "speaker": "YURKEVICH",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:04",
+      "speaker": "COLLINS",
+      "sentences": "I mean, I went to my brother's baseball games all the time growing up. They're like kids basically.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:04",
+      "speaker": "HARLOW",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:04",
+      "speaker": "YURKEVICH",
+      "sentences": "High schoolers.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:04",
+      "speaker": "HARLOW",
+      "sentences": "Chill out, parents.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:04",
+      "speaker": "COLLINS",
+      "sentences": "Wow.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:04",
+      "speaker": "HARLOW",
+      "sentences": "Thank you. That was a great piece.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:04",
+      "speaker": "YURKEVICH",
+      "sentences": "Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:59:31",
+      "speaker": "COLLINS",
+      "sentences": "The Miami Heat with a huge win against the Boston Celtics to start the conference finals last night.Andy Scholes joins us now. Andy, the Heat were - they were behind by as many as like 13 points or something in the second quarter when I was last checking in before going to sleep.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:59:31",
+      "speaker": "ANDY SCHOLES, CNN SPORTS ANCHOR",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:59:31",
+      "speaker": "COLLINS",
+      "sentences": "What happened?",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

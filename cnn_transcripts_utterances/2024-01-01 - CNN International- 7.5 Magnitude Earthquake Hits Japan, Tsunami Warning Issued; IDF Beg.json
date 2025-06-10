@@ -1,0 +1,277 @@
+{
+  "date": "2024-01-01",
+  "headline": "CNN Newsroom",
+  "subHeadline": "CNN International: 7.5 Magnitude Earthquake Hits Japan, Tsunami Warning Issued; IDF Begins To Draw Down Number Of Troops In Gaza; Maersk Pauses Shipping In Red Sea After Houthi Attack. Aired 11a-12p ET",
+  "utterances": [
+    {
+      "timeStamp": "11:00:00",
+      "speaker": "ZAIN ASHER, CNNI HOST",
+      "sentences": "Hello everyone. I am Zain Asher in New York. I want to begin with breaking news for you. Tsunami warnings are now in effect for western Japan after a powerful earthquake struck the country earlier today. I want you to take a look at the moment that earthquake hit.(VIDEO PLAYING)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:00:00",
+      "speaker": "ASHER",
+      "sentences": "So, that is what a lot of people felt when that 7.5 magnitude quake rocked the Ishikawa Prefecture. You can actually see home shaking while people inside, as you saw there, were watching TV. I want you to listen as one eyewitness in Hakuba describes how the terrifying earthquake was for him while he was waiting for a hotel shuttle. Take a listen.(BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:00:00",
+      "speaker": "JOHNNY WU, EARTHQUAKE WITNESS",
+      "sentences": "Suddenly, you get pretty strong earthquakes. You can see all the snow from the electric wire goes down and also from the roof fell down. The car is shaking. And so, everybody was panicked at that time.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:00:00",
+      "speaker": "ASHER",
+      "sentences": "Well, he clearly were afraid, and take a look at this video here where you can actually see monitors shaking in an office building, a clock also shaking as well. Certainly, terrifying for a lot of people. Japan's weather agency warns that aftershocks could continue for up to a week, for up to a week, potentially triggering building collapses and landslides as well. Officials say there are already reports of injuries. And some people who are trapped inside buildings simply at this point unable to escape the rubble. There are also reports of damaged buildings, power outages and road closures too. Officials are urging people who are in coastal areas to move to higher ground as soon as possible because there are still at this point tsunami warnings.I want to bring in Dr. Ellen Prager. She is the Chief Scientist at StormCenter Communications, a company based here in the U.S. Ellen, thank you so much for being with us. How long at this point till we get just a clearer picture of the extent of the damage right now in western Japan? DR. ELLEN PRAGER, CHIEF SCIENTIST, STORM CENTER COMMUNICATIONS: Well, I think you're already seeing some of the images come out, and we're starting to see records of water levels with regard to the potential tsunamis. The highest that they've shown is about 1.2 meters, or for those in the U.S., about 3.9 feet. That so far for gauges along the coast, that's what's been recorded. It looks like the most of the damage is going to be from building collapses.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:00:00",
+      "speaker": "ASHER",
+      "sentences": "OK. So, building collapses, that is the major threat at this point in time. We know that there are 1,000 members of the military, 1,000 military personnel that have been called up. What will be their major, also their main point of focus at this point in time?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:00:00",
+      "speaker": "PRAGER",
+      "sentences": "So, I'll be honest with you, that's not really my expertise, but I'm sure what they're looking at is the remaining threats. So, they have to go out and look at the damage. Their first thing is going to be obviously search and recovery. They're going to look at damaged buildings. They're going to look at the threat of landslides. I think the possibility, there might be some small water rises still. But, I'm sure what they're doing right now is looking for -- trying to help people where they can.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:00:00",
+      "speaker": "ASHER",
+      "sentences": "And obviously, Japan is, of course, very much prone to earthquakes. We saw what happened in 2011. Of course, we know about what happened in 1993 as well. There are early warning systems, just in terms of communication systems in effect. How helpful were they prior to this earthquake?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:00:00",
+      "speaker": "PRAGER",
+      "sentences": "Well, my understanding is there -- in some cases, they were very helpful. There was a warning that went out shortly before the earthquake hit. And so, they can affect stop trains. They can tell people to duck and cover, get undercover where they can. So, those early warning systems, even though it's very short, even just a short period of time warning is very helpful to get places secure that are vulnerable, to get people more secure and safer. So, very helpful.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:00:00",
+      "speaker": "ASHER",
+      "sentences": "How much time do they have? So, when these sort of early warning earthquake sort of warnings are issued, how much time do people have to essentially evacuate or move to an area of safety?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:00:00",
+      "speaker": "PRAGER",
+      "sentences": "So, in general, they are seconds to a minute. So, it's not very long, but that's enough to make a big difference. And Japan, of a lot of places in the world, Japan is very well prepared. They -- like you said, they have a lot of earthquakes in the east coast, on the west coast. And so, they are really leaders in earthquake preparation.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:00:00",
+      "speaker": "ASHER",
+      "sentences": "Right. Right. And how does the tsunami threat on this side of the country, the western side of the country, compared to if this had happened on the other side of the country?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:05:00",
+      "speaker": "ASHER",
+      "sentences": "And how long do you expect the tsunami warnings to remain ineffectful, do you think?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:05:00",
+      "speaker": "PRAGER",
+      "sentences": "Yeah. That's a good question, Zain. I'm not sure, because the thing with tsunamis is they can also be triggered by underwater landslides, and also an aftershock could cause one. So, they might -- even though the current threat might be reduced, they might keep the warnings in effect for a while longer because of those aftershocks. So, my guess is 24, 48 hours, they may keep that warning up. It could be shorter. It's really hard to say.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:05:00",
+      "speaker": "ASHER",
+      "sentences": "All right. Dr. Ellen Prager, thank you so much for your expertise. We appreciate you coming up on this story.And I want to go now to CNN's Hanako Montgomery joining us live now from Tokyo. Hanako, I know it's about one o'clock in the morning where you are. So, I so appreciate you staying up late to cover this story. Just walk us through what you know at this point in time.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:05:00",
+      "speaker": "HANAKO MONTGOMERY, CNN CORRESPONDENT",
+      "sentences": "Yeah, of course, Zain. So, we're seeing a lot of powerful and just very striking visuals coming out of the western part of Japan, specifically in Ishikawa Prefecture, which is, of course, very close to the epicenter. We were seeing people take cover, try to evacuate their homes, these buildings. And we're seeing also that 33,000 homes are without power at the moment. We also know from NHK, Japan's public broadcaster, that at least two people are experiencing cardiac arrest after that very powerful earthquake and tsunami.Now, we also know that hundreds of military personnel are being dispatched to the area in order to help people evacuate the area. Now, after the earthquake hit at 4:10 p.m. local time, people were told to just leave their belongings, evacuate immediately, and get to higher ground. Now, this earthquake really comes as a shock for many people in the country because this was in the middle of New Year's Day celebrations. This is a very big public holiday in Japan when families get together, friends get together, and just celebrate the turning of the year. But, of course, this devastating earthquake just interrupted those festivities. And also, this is really reminding people of the 2011 earthquake and tsunami. This happened on the eastern side of Japan. But, it killed 22,000 people. And it was just a devastating moment in Japan's recent history. And again, Zain, just people are very concerned about the full scale of devastation that we could be seeing right now. ASHER: Yeah. I mean, it is -- as we point out, I mean, a lot of people in Japan have PTSD, given what happened in 2011. Just explain to us what the biggest threat at this point is. I mean, what are people going to be seeing and experiencing when they wake up in Japan early this morning?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:05:00",
+      "speaker": "MONTGOMERY",
+      "sentences": "Yeah, of course. So, as we know, the first earthquake happened at 4Now, the tsunami warning has been lowered, but we could potentially see waves of up to 10 feet. That's around three meters. And of course, this advisory has not been lifted yet for the entire western coast of Japan. So, this is something that we're monitoring to see whether these tsunami waves really devastate parts of the western coast of Japan, Zain.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:10:00",
+      "speaker": "ASHER",
+      "sentences": "All right. We continue to follow breaking news out of Japan right now where a major earthquake has hit the western coast. I want you take a look at this office building in Toyama City. You can actually see the shelves shaking there, the monitors there against the window also shaking as well. Certainly terrifying moments for people who experienced this firsthand. The 7.5 magnitude quake struck Monday about 4People in coastal areas have been urged to leave their homes because of the risks. Japan's Defense Ministry says it's dispatching about 1,000 Defense Force personnel, deploying them to help with the earthquake. More than a dozen aftershocks have been reported. Officials warn that this could continue for several days. Now, Israel is beginning to withdraw some of its troops right now from Gaza. A statement from the Israeli Military says the move should alleviate economic burdens and enable troops to gather strength for upcoming activities in the next year. The IDF has warned the war is expected to continue many months, at least throughout 2024. We've got Nada Bashir joining us live now in Lebanon. So, Nada, the IDF basically announcing that they're going to withdraw several thousand troops. They're not necessarily characterizing this as a major downgrade just in terms of the IDF activity in Gaza. But, just walk us through what this means for the people of Gaza, given that the humanitarian situation that is so dire.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:15:00",
+      "speaker": "ASHER",
+      "sentences": "All right. Nada Bashir live for us there, thank you so much.All right. Danish shipping giant Maersk says it is pausing traffic in the Red Sea after one of its vessels came under attack. The U.S. Military says its helicopters intervened over the weekend and sank three boats belonging to Houthi militants from Yemen. All those aboard were killed, and a fourth boat ended up getting away. Maersk says the boats were trying to board one of its vessels before being fought off. Attacks by the Iranian-backed Houthis have spiked since the start of the Israel-Hamas war. I want to bring in Natasha Bertrand on this, joining us live now from Washington. The fact that the U.S. actually sank three Houthi boats, I mean, this is really the first time that the U.S. has actually killed members of the rebel group since the Israel war actually began. What more can you tell us at this point, Natasha?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:20:00",
+      "speaker": "ASHER",
+      "sentences": "Yeah, and that's certainly the last thing that the U.S. would want, a broader escalation of the conflict, as Antony Blinken has said many, many times. Natasha Bertrand live for us there, thank you so much. Appreciate it.All right. In northeastern Ukraine, local officials say people are trapped under rubble after a drone struck a residential building on Monday. It comes as the country's capital observes a day of mourning. The death toll across Ukraine from Friday's massive aerial assault by Russia rises to at least 53. Ukraine's Air Force Command says that Russia also launched a record 90 drone attacks on New Year's Eve as well. In their New Year speeches, the leaders of both countries certainly had very different messages for their nations. Here is our Clare Sebastian with more. (BEGIN VIDEOTAPE) CLARE SEBASTIAN, CNN CORRESPONDENT (voice-over): One gave a detailed account of the war. The other never directly mentioned it. In very different ways, this was two leaders calling on their conflict-weary populations to stay the course. it VOLODYMYR ZELENSKYY, UKRAINIAN PRESIDENT (TRANSLATED): And just like that, December 31, today we say we do not know for certain what the New Year will bring us. But this year, we can add, whatever it brings, we will be stronger. VLADIMIR PUTIN, RUSSIAN PRESIDENT (TRANSLATED): We have proven more than once that we can solve the most difficult problems, and will never back down. SEBASTIAN (voice-over): Vladimir Putin's speech was pared back less than half the length of the previous year, and this time, no assembled company of Military servicemen. Still, it was an opportunity to project strength and confidence as he positions himself for a fifth term as Russian President. PUTIN (TRANSLATED): We were proud of our common achievements, rejoiced at our successes, and we're firm in defending national interests, our freedom and security, our values, which have been and remain an unshakable support for us. SEBASTIAN (voice-over): And yet, Russia's security has been shaken. Increasingly brazen attacks on Russian territory have brought the war closer to home. The year closing with one of the deadliest attacks for Russian civilians yet in the border region of Belgorod. And Putin faced one of the most direct threats to his rule yet, Wagner Chief Yevgeny Prigozhin's aborted march on Moscow in June. A plane crashed two months later, closing that chapter for good. ZELENSKYY (TRANSLATED): We defeated the darkness. SEBASTIAN (voice-over): Amidst a stepped up Russian aerial campaign and waning Western weapons supplies, President Zelenskyy stuck to his well-worn tactic of accentuating the positive, including Ukraine taking one small step closer to EU membership. ZELENSKYY (TRANSLATED): This process will definitely have a logical conclusion, full-fledged membership in strong Europe, a powerful one, from Lisbon to Luhansk. SEBASTIAN (voice-over): And yet, this past week has shown Ukraine enters 2024 increasingly vulnerable. That message even spelled out by Putin in his first appearance of the New Year, promising a group of wounded Russian soldiers, the strikes would intensify. Clare Sebastian, CNN, London. (END VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:20:00",
+      "speaker": "ASHER",
+      "sentences": "Now, at the beginning of 2023, the U.S. and other Western allies promised Ukraine their unwavering support. But, by the end of the year, it was a much different story. Military aid is drying up with a few secure promises for more. Ukraine's counteroffensive is faltering as well. CNN's Melissa Bell takes a look at how a year that began with so much promise ended up with disappointment.(BEGIN VIDEOTAPE) MELISSA BELL, CNN CORRESPONDENT (voice-over): It was an 11th hour invitation that led President Zelenskyy to Washington in December, this time with a question of further funding to Ukraine stalled on Capitol Hill.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:25:00",
+      "speaker": "ZELENSKYY",
+      "sentences": "Like our victory in the Black Sea, we aim to win the air battle, crushing Russian air dominance.BELL (voice-over): A note of optimism from a leader desperate to believe that his war can still be won. Melissa Bell, CNN. (END VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:25:00",
+      "speaker": "ASHER",
+      "sentences": "After the break, we'll have much more news on that earthquake in Japan, including this. This is a scene on a bowling alley when that powerful earthquake actually hit. We'll have a live report from Tokyo just ahead.(COMMERCIAL BREAK)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:25:00",
+      "speaker": "ASHER",
+      "sentences": "All right. I want to give you a quick update in terms of our breaking news out of western Japan right now where a powerful 7.5 magnitude earthquake struck on New Year's Day, triggering tsunami warnings. Japan is now bracing for aftershocks.(VIDEO PLAYING)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:30:00",
+      "speaker": "ASHER",
+      "sentences": "And here is another video of the moment. The earthquake struck an office building. You just saw a couple of moments ago. Bookshelves violently shaking as well as the monitors here. The computer screens here shaking as well. We are getting pictures. Some of the damage, officials are reporting, power outages, damage to roads and buildings and some flight cancellations. Right now, Japan has downgraded the warning from major tsunami warning to tsunami warning. But, that still means that waves can be at least three meters high at this point in time. This video shows waves rolling into a canal in a coastal town. Officials are warning people still to get to higher grounds.CNN's Hanako Montgomery joins us live now from Tokyo. So, Hanako, you and I spoke about 20 or so minutes ago. You were saying that the Japanese Military had deployed about 1,000 service members. Just walk us through what their main priority will be at this point in time.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:30:00",
+      "speaker": "MONTGOMERY",
+      "sentences": "Yeah, Zain. So, with the 1,000 Self Defense Forces and the other 1,700 firefighters and several hundred Police officers, Japan is trying to assess the damage from this earthquake and also the aftershocks and the tsunamis. So, they're also trying to help evacuate people from these areas. We know that some people are trapped under their homes. We're seeing fires breakout in Ishikawa Prefecture, near the epicenter of this quake. So, really, as we're still trying to confirm the extent of damage, there they're trying to help people get out of their homes, get out of some of these devastating footage, as you showed, and devastating moments in order to try to get them to safety zone.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:30:00",
+      "speaker": "ASHER",
+      "sentences": "And of course, just given Japan's history, obviously, this is an earthquake-prone country, and given the level of fear that that would have been when this earthquake actually began, when the shaking began, how have authorities really tried to calm people and sort of assuage those fears?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:30:00",
+      "speaker": "MONTGOMERY",
+      "sentences": "Yeah, Zain. I think the Japanese government has been just trying to get as much information as possible, both to people near the epicenter in Ishikawa Prefecture, but also just across Japan. And they've been doing that by trying to update regularly what kind of aftershocks there are, what magnitude they measure, also just tsunami warnings. As you mentioned, right, the tsunami warning has downgraded slightly. So, we're not going to see potentially five-meter high waves.But still, there is that advisory in place because they just want to make sure, they really want to confirm that people don't go back to their homes and potentially risk their lives. Now, we have confirmed at CNN that we've seen 1.2 meter high waves already hitting parts of Japan. And as of course, we're continuing to see aftershocks, we could potentially see these tsunami waves getting bigger and potentially more damaging.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:30:00",
+      "speaker": "ASHER",
+      "sentences": "All right. Hanako Montgomery live for us in Tokyo, thank you so much.I want to bring in Dr. Eric Geist. He is a Research Geophysicist at the U.S. Geological Survey, and he joins us live now from California. So, our reporter just there, Dr. Geist, was just talking about the fact that there are fires breaking out right now in Japan. And of course, there has been quite significant structural damage. Just walk us through what you believe is the biggest risk and the biggest threat at this point in time. ERIC GEIST, RESEARCH GEOPHYSICIST, U.S. GEOLOGICAL SURVEY: Yeah. In terms of the tsunami, of course, we're still collecting data in terms of where the damage might occur. The biggest concern is the tsunami waves do last a very long time. It's not just one single wave. So, as you mentioned, the tsunami downgraded warning and advisory is certainly appropriate just because there is still tsunami danger just from the original earthquake.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:30:00",
+      "speaker": "ASHER",
+      "sentences": "And so, the fact that you have the tsunami warnings downgraded, that is good news, obviously. We're not going to see sort of massive sky-high waves. But, just in terms of how very real the threat is of tsunami at this point in time, what's your take on that, and how long will the tsunami warning still be in place to expect?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:35:00",
+      "speaker": "ASHER",
+      "sentences": "Given that Japan is so earthquake-prone, obviously, the country is prepared to the extent that a country can be right, and I'm talking about the early warning systems mainly. Just explain to us how helpful those types of communications would have been in this type of situation.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:35:00",
+      "speaker": "GEIST",
+      "sentences": "This is a very difficult situation because the earthquake was very close to shore. So, we're talking only minutes between when the ground shaking starts and the tsunami warnings. That said, they do put out the warnings very quickly in Japan. But, I'm sure the natural warning or the ground shaking is the first alert that you get that something might be happening in terms of the tsunami, and most people know to respond. But, like you said, there is a number of structural damage in the region that compounds the problem in terms of evacuations.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:35:00",
+      "speaker": "ASHER",
+      "sentences": "All right. Dr. Eric Geist, appreciate you joining us. Happy New Year. Thank you so much.All right. Still to come here, Donald Trump is the clear Republican frontrunner in the presidential race. But, will his name be on the ballot in all 50 states? That is the question. We'll talk about that after the break. (COMMERCIAL BREAK)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:35:00",
+      "speaker": "ASHER",
+      "sentences": "All right. Back to the breaking news out of Japan where a major 7.5 magnitude earthquake shook the western coast. Take a look at this.(VIDEO PLAYING)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:40:00",
+      "speaker": "DEREK VAN DAM, CNN METEOROLOGIST",
+      "sentences": "Yeah. There is such a large ramification from this wave that propagates outward in all directions. It can have local impacts, but also regional impacts. And I'll get to the details on that. But, I think it's important that we pass along this information because this is the latest from the joint -- the Japanese Meteorological Agency, and they have now downgraded from what was a tsunami warning with wave heights up to three meters down to a tsunami advisory for the entire western coastline of Japan, stretching as far north as Hokkaido, right through Honshu, anywhere you see this shading of yellow, that is where we have the potential for one meter high tsunami waves still going forward.So, we're getting this sloshing effect. And we have already realized these one meter wave heights, and some of the video that we have coming into CNN shows just that. This is one coming out of Joetsu, Japan. Here is another, Suzu City on the Ishikawa Prefecture. And you can see the tsunami wave actually toppling over the harbor and the jetty there protecting the city. Now, I want to show you this because Suzu City, this is actually the Ishikawa Prefecture, right here. And we talked details, the actual powerful earthquake, the 7.5 was just off the coastline of these Ishikawa Prefecture. But, as we zoom in, Suzu City is actually on the adjacent side of where the earthquake actually occurred. And why this is important? Here is the harbor and the break wall I was showing you on the video a moment ago. What I'm trying to portray here is that this water has a sloshing effect. Think of it like a bathtub, for instance. You drop a stone into a full bathtub and the water ripples out in all directions, hits the edges of the bathtub and comes back towards the center, creating that kind of chaotic wave motion that you would see. Well, that's happening on a local scale in and around this particular prefecture, but also on a more regional scale, as that water sloshes back and forth as far as the Korean Peninsula and into Japan as well. So, the threat, even though it's localized into Japan, western side of Japan, there is still the potential there for tsunami waves further afield as well. So, we've had these tectonic plates shifting underneath the sea floor. And what that does is it displaces water. That subduction that occurs is actually moving at about the rate our fingernails grow in the course of a year, roughly 80 to 90 millimeters a year. But, that is enough to create the seismic activity. This time, it happened to be underwater. That displaced the water at the sea surface and that water traverses towards the populated areas of western Japan. And what does it do? Well, it simply has nowhere else to go but up, and it reaches that level and creates the tsunami wave. That, of course, can be so destructive. But, from all the videos that we're seeing and collecting here at CNN, it could have been a lot worse. We think and remember about what happened in 2011 where 20,000 plus people lost their lives because of a tsunami and an earthquake. So, yeah, this was very, very bad. And the threat still looms. But, I don't believe it is as severe as what we experienced over a decade ago, Zain.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:40:00",
+      "speaker": "ASHER",
+      "sentences": "Yeah, thankfully so. Derek Van Dam live for us there, thank you so much.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:40:00",
+      "speaker": "DAM",
+      "sentences": "OK.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:40:00",
+      "speaker": "ASHER",
+      "sentences": "My former President Donald Trump has two new legal fights on his hands and those battles could throw the 2024 presidential election deeper into chaos. Trump plans to file appeals tomorrow to keep his name on the Republican primary ballot in Colorado and Maine. Both, states ruled him ineligible to seek a second term in the White House. They say that his actions during the January 6 Capitol riots violated the 14th Amendment's ban on insurrectionists holding federal office.CNN's National Security Reporter Zach Cohen joins us live now from Washington, D.C. So, Trump obviously planning to appeal. Just walk us through on what grounds his appeal is likely to be valid.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:45:00",
+      "speaker": "ASHER",
+      "sentences": "Yeah. And speaking of Supreme Court, we're hearing lawmakers Democratic lawmakers like Jamie Raskin, essentially saying that Clarence Thomas is somebody who should recuse himself on any decision about the 14th Amendment, and that is because his wife was one of the biggest proponents of the election lie, essentially saying that the election in 2020 was indeed stolen. What more can you tell us about that?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:45:00",
+      "speaker": "COHEN",
+      "sentences": "Jamie Raskin, obviously a Democrat, he was a member of the Congressional Committee that was investigating the January 6 attack. He is looking ahead to that next step to the expectation that this case does ultimately get taken up by the Supreme Court. And he wants Clarence Thomas, a conservative judge, whose wife, as you said, was one of the biggest advocates for trying to overturn the 2020 election, and that the Committee, the House Committee, investigating the attack said was really a facilitator and have fueled the violence on that day. Raskin wants Clarence Thomas to recuse himself. And listen to how he explained it, and why he wants the conservative judge to bow out if any potential decision on the 14th Amendment.(BEGIN VIDEO CLIP) REP. JAMIE RASKIN (D-MD): Anybody looking at this in any kind of dispassionate, reasonable way would say, if your wife was involved in the big lie in claiming that Donald Trump had actually won the presidential election, had been agitating for that and participating in the events leading up to January 6, that you shouldn't be participating. DANA BASH, CO-HOST, STATE OF THE UNION: So, he should recuse himself.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:45:00",
+      "speaker": "RASKIN",
+      "sentences": "He should. Oh, he absolutely should recuse himself. The question is, what do we do if he doesn't recuse himself?(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:45:00",
+      "speaker": "COHEN",
+      "sentences": "Raskin obviously jumping a few steps ahead here. But, that does underscored again this expectation that ultimately it will be the U.S. Supreme Court that will have to issue some sort of clarity on this constitutional question. And as Raskin said, what happens if he doesn't recuse himself? That's another unprecedented and uncharted water type scenario that we're in if and when that does happen.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:45:00",
+      "speaker": "ASHER",
+      "sentences": "Zach Cohen live for us there, thank you so much.All right. In the United States, a new year means new laws officially going onto the books. Rafael Romo takes a look at a slew of new ones taking effect across the United States. (BEGIN VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:45:00",
+      "speaker": "RAFAEL ROMO, CNN CORRESPONDENT",
+      "sentences": "Among the most polarizing new laws that take effect with the New Year are those related to gender affirming care for minors with several Republican-led states moving to enact restrictions. For example, in Idaho, physicians or practitioners who provide puberty blocking medication, gender affirming surgeries or other treatments to minors, could face a $5,000 fine and a felony charge. In Louisiana, it will become illegal for those under 18 to receive those treatments, and healthcare professionals can have their licenses revoked for two years or more if they provide those services.On the other hand, Maryland along with several other Democratic-led states passed protections for gender affirming care for all ages, and as of January 1, the state will require Medicaid to cover them. When it comes to abortion, the State of Washington is enacting a law with the goal of making the procedure more accessible by eliminating out- of-pocket costs including deductibles and co-pays. This is of course in response to near total bans in several Republican-led states that took effect in 2023. In California, law taking effect Monday protects local healthcare providers from out of state litigation over both abortion and gender affirming care to people from other states. When it comes to laws that are not as controversial, nearly half of all U.S. states will increase their minimum wage in 2024. Washington will continue to have the highest minimum wage of all states at $16.28 an hour, up from $15.74. Another new law for 2024 getting a lot of attention is California's ban on carrying concealed firearms in sensitive places. This is despite the federal judge's prior ruling that the law is \"repugnant to the Second Amendment\". Under the new law, people with permits would not be allowed to carry concealed firearms in places like schools, parks and hospitals, among others. A federal appeals court will allow the law to go into effect for now, while the court case continues. Rafael Romo, CNN, Atlanta. (END VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:50:00",
+      "speaker": "ASHER",
+      "sentences": "The Queen of Denmark says that she is going to be stepping down on January 14 after 52 years on the throne. Queen Margrethe II is Europe's longest serving monarch. She succeeded her father King Frederik IX back in 1972. She decided that now is the right time to pass this responsibility on to the next generation. Queen Margrethe's son, Crown Prince Frederik, will be proclaimed King, and his wife, Crown Princess Mary, will become Queen.CNN's Max Foster takes a closer look at the new line of succession. (BEGIN VIDEO CLIP) MAX FOSTER, CNN CORRESPONDENT (voice-over): A new year, a new era for Denmark and for one of the world's oldest monarchies. Queen Margrethe II will end her reign of more than half a century, a shocked decision delivered in a live address to the Danish people on New Year's Eve. MARGRETHE II, QUEEN OF DENMARK (TRANSLATED): I have decided that now is the right time. On the 14th of January 2024, 52 years after I succeeded my beloved father, I will step down as Queen of Denmark. FOSTER (voice-over): Denmark's ruler became Europe's longest reigning monarch after the death of Britain's Queen Elizabeth in 2022. Queen Margrethe put the decision down to her fragile health. Recent surgeries on her back have limited her royal duties. MARGRETHE II (TRANSLATED): The time takes its toll and the number of ailments increases. One cannot undertake as much as one managed in the past. FOSTER (voice-over): That sense of duty won the hearts of the Danish people and drew comparisons to Queen Elizabeth to who Margrethe looked to for some inspiration. Danish Prime Minister Mette Frederiksen was quick to praise the only monarch that many Danes will ever have known. \"On behalf of the entire population, I'd like to extend a heartfelt thank you to Her Majesty the Queen for her lifelong dedication and tireless efforts for the Kingdom\", Frederiksen wrote in a statement. Like other constitutional monarchies, the Danish sovereign stays above politics, but feathers can be ruffled. In 2022, the Queen removed the titles of Prince and Princess from the children of her second son, Prince Joachim. It was an effort to reduce the royal establishment and allow her grandkids more privacy. But, Prince Joaquin went public with his four children's hurt feelings, and Queen Margrethe later apologized, but did not change her decision.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:55:00",
+      "speaker": "MARGRETHE II",
+      "sentences": "I really like her very much indeed. And she, I hope, knows that in the future.FOSTER (voice-over): The new queen won't have far to look for a role model. Max Foster, CNN. (END VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

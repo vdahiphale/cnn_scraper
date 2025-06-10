@@ -1,0 +1,529 @@
+{
+  "date": "2023-02-23",
+  "headline": "CNN This Morning",
+  "subHeadline": "Cyrus Tops Billboard; Fourth Quarter GDP Released; Jens Stoltenberg is Interviewed about Ukraine. Aired 8:30-9a ET",
+  "utterances": [
+    {
+      "timeStamp": "08:30:00",
+      "speaker": "POPPY HARLOW, CNN ANCHOR",
+      "sentences": "Erin Brockovich --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:30:00",
+      "speaker": "BROCKOVICH",
+      "sentences": "We need to find help and restitution for these people. This is about these people and their future.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:30:00",
+      "speaker": "HARLOW",
+      "sentences": "Yes. Well, thank you for being a voice for them, very much. Erin Brockovich for us live in East Palestine. We appreciate it. Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:36:02",
+      "speaker": "LEMON",
+      "sentences": "Of course you know who that is. Miley Cyrus. This is her new single \"Flowers.\" It's Miley's first - it's Miley. It's Miley's first number one since this smash hit.Watch. (BEGIN VIDEO CLIP) MILEY CYRUS, MUSICIAN (singing): I came in like the wrecking ball. I never hit so hard in love. All I wanted was to break your walls. All you ever did was wreck me. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:36:02",
+      "speaker": "LEMON",
+      "sentences": "So, of course, if you see Miley, then the next person you should see is Harry Enten, our senior data reporter. That's (INAUDIBLE) --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:36:02",
+      "speaker": "HARLOW",
+      "sentences": "Naturally.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:36:02",
+      "speaker": "LEMON",
+      "sentences": "What is the number this morning?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:36:02",
+      "speaker": "HARRY ENTEN, CNN SENIOR DATA REPORTER",
+      "sentences": "I - you know, you could think we were brother and sister, right? OK.This morning's number is five, because Miley Cyrus's \"Flowers\" on the Billboard Hot 100 has been at number one for five weeks consecutively. My goodness gracious, I had not even heard of this song, but then all of a sudden all these stories start appearing. I couldn't ignore it. And - but it's not just traditional sort of metrics that tell you how big this song is. Take a look at the Spotify records for \"Flowers\" and Miley Cyrus. It's the fastest song ever to 100 million streams. It was the most streams - it's the most streamed song ever in a week at 115 million. And Miley Cyrus is the woman with the most monthly listeners ever on Spotify at 85 million. So a great hit for Miley Cyrus and also for her song \"Flowers.\" But I got one for Don here because I really wanted to make this comparison because I know Don loves Uncle Neil. And, to me, there's actually a comparison to be made.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:36:02",
+      "speaker": "HARLOW",
+      "sentences": "But isn't he actually your uncle?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:36:02",
+      "speaker": "LEMON",
+      "sentences": "Yes. ENTEN",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:36:02",
+      "speaker": "HARLOW",
+      "sentences": "I love that.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:36:02",
+      "speaker": "ENTEN",
+      "sentences": "Don and I have spoken about this many times.LEMON (singing): Breaking up is hard to do. ENTEN (singing): Is hard to do.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:36:02",
+      "speaker": "LEMON",
+      "sentences": "They didn't do \"Laughter in the Rain\" or -",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:36:02",
+      "speaker": "ENTEN",
+      "sentences": "Now, we know - no, but it's true. It's both these songs. It's \"Breaking Up is Hard to Do\" and \"Laughter in the Rain.\"",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:36:02",
+      "speaker": "LEMON",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:36:02",
+      "speaker": "ENTEN",
+      "sentences": "Look at Miley Cyrus and Uncle Neil, top of the Billboard Hot 100 by year of release. Their first number one hit, 2013 for Cyrus with \"Wrecking Ball.\" You see 2023, \"Flowers.\" About ten years in between their first number one hit and their second number one hit. Look at Neil Sedaka, 1962 for \"Breaking Up is Hard to Do,\" 1974 for \"Laughter in the Rain,\" about 12 years. So we have two singers here, two songwriters, who are comparable and did really well about a decade apart.LEMON (singing): Don't take your love.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:36:02",
+      "speaker": "ENTEN",
+      "sentences": "See, I've got to give Don his moment.LEMON (singing): Away from me.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:36:02",
+      "speaker": "ENTEN",
+      "sentences": "I've got to give Don his moment there.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:36:02",
+      "speaker": "LEMON",
+      "sentences": "Love, Neil.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:36:02",
+      "speaker": "ENTEN",
+      "sentences": "But let me just also point out that this was big for Miley Cyrus because she's just become considerably more popular over the last five years.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:36:02",
+      "speaker": "LEMON",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:36:02",
+      "speaker": "ENTEN",
+      "sentences": "Take a look here at her net popularity score. It's now up plus eight. She's recovered when she was underwater back in April of 2018 at minus 13.And I want to leave you sort of with a question here. Is social media enough to create a hit song? The days of TRL, total request live, are long gone. Cyrus has done little traditional media to promote \"Flowers\" and she hasn't performed it anywhere live either. So, the question is, do you really do -- need to do much promotion outside of TikTok these days? I give it to you guys to answer that question because I'm not quite sure.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:36:02",
+      "speaker": "LEMON",
+      "sentences": "Yes. Miley's a little bit outside of my demo, but I love her.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:36:02",
+      "speaker": "HARLOW",
+      "sentences": "I love her.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:36:02",
+      "speaker": "LEMON",
+      "sentences": "I love her and I love her dad as well.All right, thank you, Harry.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:36:02",
+      "speaker": "ENTEN",
+      "sentences": "Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:36:02",
+      "speaker": "LEMON",
+      "sentences": "Appreciate it. Say hi to Uncle Neil.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:36:02",
+      "speaker": "ENTEN",
+      "sentences": "I will. We'll text him together.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:36:02",
+      "speaker": "HARLOW",
+      "sentences": "This just into CNN, the Labor Department just released fourth quarter GDP. That actually just means how much the economy grew.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:36:02",
+      "speaker": "CHRISTINE ROMANS, CNN CHIEF BUSINESS CORRESPONDENT",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:36:02",
+      "speaker": "LEMON",
+      "sentences": "(INAUDIBLE).",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:36:02",
+      "speaker": "HARLOW",
+      "sentences": "Chief business correspondent Christine Romans.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:36:02",
+      "speaker": "ROMANS",
+      "sentences": "It's the wrecking ball of economic statistics.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:36:02",
+      "speaker": "LEMON",
+      "sentences": "Oh!",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:36:02",
+      "speaker": "HARLOW",
+      "sentences": "No!",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:36:02",
+      "speaker": "ROMANS",
+      "sentences": "It's the big, important one. It breaks down all the walls and tells you what's really happening in the engine of the American economy.You're welcome.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:36:02",
+      "speaker": "HARLOW",
+      "sentences": "Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:40:04",
+      "speaker": "LEMON",
+      "sentences": "So, let me ask you, because I - what's up is down, down is up. I always say, so is this good or is this bad? What's usually good is bad now, and what's usually bad is good. So what -",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:40:04",
+      "speaker": "ROMANS",
+      "sentences": "You know what, I wish I could put it on a bumper sticker, but you can't. I think it's confusing. And I think we're really trying to parse every single little number. The GDP number is a big number, by the way, just to see how well this economy is holding in.The consumer still remains strong. But we heard from the big box retailers this week, the CEOs, they're concerned that they might -- it might start to slow down later in the year. For now, things are fine. Job market's hot. That means the Fed still needs to keep raising interest rates. And that's where the worries come that they could accidentally tip the economy into a recession sometime later this week.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:40:04",
+      "speaker": "HARLOW",
+      "sentences": "OK.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:40:04",
+      "speaker": "LEMON",
+      "sentences": "Miley Romans -- I mean Christine Romans.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:40:04",
+      "speaker": "HARLOW",
+      "sentences": "Good one. Good one.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:40:04",
+      "speaker": "ROMANS",
+      "sentences": "You know what, her godmother is Dolly Parton. Dolly Parton is my favorite interview I've ever done.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:40:04",
+      "speaker": "LEMON",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:40:04",
+      "speaker": "ROMANS",
+      "sentences": "She's amazing.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:40:04",
+      "speaker": "HARLOW",
+      "sentences": "I bet it - I - sure. That is a keeper.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:40:04",
+      "speaker": "ROMANS",
+      "sentences": "She's amazing.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:40:04",
+      "speaker": "LEMON",
+      "sentences": "Humble brag, I am Instagram texting buddies with her dad.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:40:04",
+      "speaker": "ROMANS",
+      "sentences": "Really?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:40:04",
+      "speaker": "LEMON",
+      "sentences": "Yes. Yes. And I sat next to Miley as a big event and we became fast friends. So, there you go.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:40:04",
+      "speaker": "ROMANS",
+      "sentences": "There you go.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:40:04",
+      "speaker": "HARLOW",
+      "sentences": "You two are way cooler than me.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:40:04",
+      "speaker": "LEMON",
+      "sentences": "I don't know why I'm saying that, but, you know, it's cool.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:40:04",
+      "speaker": "HARLOW",
+      "sentences": "OK.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:40:04",
+      "speaker": "LEMON",
+      "sentences": "OK, up next -",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:40:04",
+      "speaker": "HARLOW",
+      "sentences": "You guys are way cooler than me.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:55",
+      "speaker": "FREDERIK PLEITGEN, CNN SENIOR INTERNATIONAL CORRESPONDENT",
+      "sentences": "Those streaks that you're seeing up there in the sky, I don't know how well you can see them. Actually, right now, you can see more artillery rockets apparently being fired from Russian territory towards the territory, I would say around Kharkiv. I don't know if you can hear this right now.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:55",
+      "speaker": "POPPY HARLOW, CNN ANCHOR",
+      "sentences": "That was our colleague Fred Pleitgen on the ground in Russia nearly one year ago just hours after Moscow launched a full-scale invasion of Ukraine. That was on the 24th of February, 2022.Over the past 12 months, Ukraine has withstood attacks from a much larger military force, rolled back initial gains and held the line in hotly contested regions. But, as the war hits its one-year mark, there is no end in sight as U.S. and NATO allies brace for Russia to intensify its assault on Ukraine. President Biden vowing to stand up to Russia's aggression, continuing that during a meeting with the leaders of NATO's eastern flank yesterday. Listen. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:55",
+      "speaker": "JOE BIDEN, PRESIDENT OF THE UNITED STATES",
+      "sentences": "The commitment of the United States to NATO, and I've said it to you many times, I'll say it again, is absolutely clear, Article 5 is a sacred commitment the United States has made. We will defend literally every inch of NATO. Every inch of NATO.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:55",
+      "speaker": "HARLOW",
+      "sentences": "Important words for everyone to hear, especially NATO Secretary General Jens Stoltenberg.Secretary General, thank you very much for your time this morning. And let's begin, tomorrow will be one year, and everyone across the west underestimated, including Russia namely, underestimated what Ukraine could do in this war. Why do you think we got it so wrong and what are your thoughts as you reflect on one year?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:55",
+      "speaker": "JENS STOLTENBERG, NATO SECRETARY GENERAL",
+      "sentences": "So, President Putin ultimately made two, big strategic mistakes when he invaded Ukraine. The first, and the most important, was that he totally underestimated the strength, the courage, the bravery of the Ukrainian people. The Ukrainian armed forces, but also the Ukrainian political leadership, President Zelenskyy. And then they underestimated NATO, NATO allies and partners. Our sole determination to support Ukraine and the U.S. leadership in providing unprecedented military support to Ukraine. And that's also the reason why the Ukraine have been able to push back the Russian forces from the north, in Kyiv, in the east, Kharkiv, and in the south, Kherson. And now we just need to continue to broad support Ukraine so they can liberate their own territory, their own land.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:55",
+      "speaker": "HARLOW",
+      "sentences": "As we talk about what continuing support looks like, you said President Biden's visit to Kyiv sent a clear message of, quote, America's ironclad commitment to the security of Europe. I want your reaction to what the mayor of Kyiv told me earlier this week.Here he was. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:55",
+      "speaker": "HARLOW",
+      "sentences": "Do you believe that Ukraine can win this war without longer- range missiles and without U.S. F-16 fighter jets?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:55",
+      "speaker": "VITALI KLITSCHKO, MAYOR OF KYIV, UKRAINE",
+      "sentences": "If this was upped in this moment we can tell it's enough, but right now it's not enough.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:55",
+      "speaker": "HARLOW",
+      "sentences": "He says it's not enough to win. Do you agree? Can Ukraine actually win without F-16s and longer-range missiles from the U.S.?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:50:14",
+      "speaker": "STOLTENBERG",
+      "sentences": "The answer, I said, we will continue to consult among allies and with Ukraine exactly on the specific platforms. But in those consultations with Ukraine, we also get the very clear message that it is extremely important that we ensure that older systems that are already there have the sustainment they need. Just the new battle tanks, which we are now in the process of deploying, will require a lot of support, ammunition, fuel, maintenance, to be able to operate.So, yes, we will continue to discuss and consult on new platforms. But I think what we have seen is that the Ukrainians have been able to make significant progress in the north, in the east, and in the south and now we have added even more weapons to that. We will do what is necessary. And a message from the meeting in Warsaw yesterday with President Biden, with the eastern leaders of the eastern flank of the alliance, is that we will step up and sustain our support to Ukraine.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:50:14",
+      "speaker": "HARLOW",
+      "sentences": "You grew up, Secretary General, after the Cold War. And as prime minister of Norway, you actually were able to manage a functioning working relationship with Russia. I mean considering that and now what Vladimir Putin just said about withdrawing for any cooperation of New START, a treaty, which, by the way, expires in a thousand or so days and has no automatic ability to extend itself, which would mean a whole new treaty that has to be ratified by the U.S. Senate, how concerned are you and do you believe that that makes the world a more dangerous place?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:50:14",
+      "speaker": "STOLTENBERG",
+      "sentences": "The announcement by Russia to suspend the New START agreement, which put limits on the long range strategic weapons systems, nuclear weapons systems, is the latest example of how Russia is walking away from a meaningful dialogue with NATO allies. We have seen also how they violated the INF treaty that banned all intermediate range weapons and also how they have violated international rule and law again and again.You are right, I grew up after - after the - after the end of the Cold War and - and I, as a politician in Norway, I engaged and worked with Russia, met President Putin many times, and we agreed on everything from delimitation lines in the Barron Sea and energy and the environmental cooperation. But with the invasion of Ukraine, Russia has really totally walked away from this effort to have a better and more construct relationship with Russia. And, of course, we regret that, but that makes it even more important that we invest in our security, that we have the military presence of NATO allies, especially in the eastern part of the alliance, to send a clear message to Moscow, that we were there to protect every NATO ally. An attack on one will trigger a response from the whole alliance. One for all, all for one. And this is credible (ph) deterrence. And the purpose is not to provoke a conflict but to prevent a conflict.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:50:14",
+      "speaker": "HARLOW",
+      "sentences": "Yes. STOLTENBERG",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:50:14",
+      "speaker": "HARLOW",
+      "sentences": "NATO Secretary Jens Stoltenberg, thank you very much, as we mark one year tomorrow since the beginning of this war. We appreciate your time.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:50:14",
+      "speaker": "STOLTENBERG",
+      "sentences": "Thank you so much.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:50:14",
+      "speaker": "HARLOW",
+      "sentences": "Thank you very much.Tonight, 9:00 Eastern, you'll want to join our colleague, Fareed Zakaria, he hosts top Biden national security officials for a CNN town hall, \"Russia's Invasion of Ukraine: One Year Later.\" Don.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:58:58",
+      "speaker": "LEMON",
+      "sentences": "Do you know what it's time for?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:58:58",
+      "speaker": "HARLOW",
+      "sentences": "The \"Morning Moment.\"",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:58:58",
+      "speaker": "LEMON",
+      "sentences": "Yes, we need to use that.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:58:58",
+      "speaker": "HARLOW",
+      "sentences": "I didn't do that very well.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:58:58",
+      "speaker": "LEMON",
+      "sentences": "That should be the thing when it comes out of the break, the \"Morning Moment.\"",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:58:58",
+      "speaker": "HARLOW",
+      "sentences": "But this is a great story.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:58:58",
+      "speaker": "LEMON",
+      "sentences": "So, it is time now for the \"Morning Moment.\"A pair of twin sisters - this is serious because they're great.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:58:58",
+      "speaker": "HARLOW",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:00:01",
+      "speaker": "HARLOW",
+      "sentences": "Bravo. All the hard work pays off.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:00:01",
+      "speaker": "LEMON",
+      "sentences": "Amazing.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:00:01",
+      "speaker": "HARLOW",
+      "sentences": "But before we go, huge development. A source tells CNN Alex Murdaugh is planning to testify today in his double murder trial, accused of killing his wife and son. CNN will have live coverage when court resumes at 9",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:00:01",
+      "speaker": "LEMON",
+      "sentences": "So, stay turned.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:00:01",
+      "speaker": "HARLOW",
+      "sentences": "Huge.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:00:01",
+      "speaker": "LEMON",
+      "sentences": "And we'll see you tomorrow.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:00:01",
+      "speaker": "HARLOW",
+      "sentences": "See you tomorrow.",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

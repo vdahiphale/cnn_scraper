@@ -1,0 +1,547 @@
+{
+  "date": "2022-11-30",
+  "headline": "CNN This Morning",
+  "subHeadline": "John Miller is Interviewed about Bans on TikTok; Richard Branson is Interviewed about Docuseries. Aired 8:30-9a ET",
+  "utterances": [
+    {
+      "timeStamp": "08:30:00",
+      "speaker": "BRYNN GINGRAS, CNN CORRESPONDENT",
+      "sentences": "Continue to mount in that community. Investigators removed the remaining cars at that residence Tuesday. Officials say they have received an uptick in 911 calls but no suspect has been identified and no arrests have been made.Lava from the world's largest active volcano - check that out -- it causing concerns as it comes within four miles of a major highway on Hawaii's big island. Former Chinese President Jiang Zemin has died. Zemin came to power after the 1989 Tiananmen Square protests and led the nation for a decade. He's credited with paving the way for China's emergence as a global superpower. He was 96. Kim Kardashian and Kanye West have agreed on a divorce settlement. A draft of the deal, obtained by CNN, shows that Kardashian will receive a $200,000 child support payment from West every month and they will share joint custody of their four children. And, guys, check this out, a heart-warming reunion. Two young girls in Louisiana are back with their parents after being missing for hours. Authorities found them safe and sound following their disappearance from their yard Monday with their golden retriever right by their side. That's \"5 Things to Know This Morning.\" More on these stories all day on CNN and cnn.com. Back to you guys.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:30:00",
+      "speaker": "DON LEMON, CNN ANCHOR",
+      "sentences": "Brynn, thank you so - I know the -",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:30:00",
+      "speaker": "POPPY HARLOW, CNN ANCHOR",
+      "sentences": "Good ending.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:30:00",
+      "speaker": "LEMON",
+      "sentences": "That's what I do when I need to feel good, the reuniting stories.Last night as me - no, seriously, this is what I did, dogs that were reunited, pets that were reunite with their families after like storms. They got lost. One dog, I have to say, was gone for, I think, like two weeks, but found its way home like two miles -",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:30:00",
+      "speaker": "HARLOW",
+      "sentences": "I believe that.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:30:00",
+      "speaker": "LEMON",
+      "sentences": "After breaking two legs.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:30:00",
+      "speaker": "HARLOW",
+      "sentences": "Oh.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:30:00",
+      "speaker": "KAITLAN COLLINS, CNN ANCHOR",
+      "sentences": "Oh, my gosh.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:30:00",
+      "speaker": "LEMON",
+      "sentences": "I'm like, gosh. I was like -",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:30:00",
+      "speaker": "HARLOW",
+      "sentences": "Like that movie that I watched with my kids, \"Homeward Bound\" or whatever.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:30:00",
+      "speaker": "LEMON",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:30:00",
+      "speaker": "COLLINS",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:30:00",
+      "speaker": "HARLOW",
+      "sentences": "We should move on.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:30:00",
+      "speaker": "COLLINS",
+      "sentences": "A classic of our time, Poppy.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:30:00",
+      "speaker": "LEMON",
+      "sentences": "Thank you very much.South Dakota's governor signing an executive order banning state employees and contractors from accessing TikTok on government devices.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:30:00",
+      "speaker": "HARLOW",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:30:00",
+      "speaker": "LEMON",
+      "sentences": "Kristi Noem writing, South Dakota will have no part in the intelligence gathering operations of nations who hate us.There has been renewed criticism of TikTok this year stemming from a BuzzFeed news report in June that said that some U.S. user data has been repeatedly accessed from China. In response to the report, TikTok previously said that it was - it is consistently maintained that our engineers in locations outside of the U.S., including China, can be granted access to U.S. user data on an as-needed basis under those strict controls. So, joining us now, CNN's chief law enforcement and intelligence analyst, Mr. John Miller. Good morning to you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:30:00",
+      "speaker": "JOHN MILLER, CNN CHIEF LAW ENFORCEMENT AND INTELLIGENCE ANALYST",
+      "sentences": "Good morning. Good morning.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:30:00",
+      "speaker": "LEMON",
+      "sentences": "This just sort of renews my stance at -- no TikTok for me.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:30:00",
+      "speaker": "MILLER",
+      "sentences": "Well, first of all, the governor's right on a much wider level, which is, on government phones you shouldn't be ingesting outside apps and contacts. I mean, you know, in the New York City law department we had somebody basically download SimCity, but a malware copy that was, you know, fake -",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:30:00",
+      "speaker": "LEMON",
+      "sentences": "Wow. MILLERNow, TikTok. You know, TikTok is a private company in China, but they also collect names, dates of birth, your phone number. That's what you give them to sign up. We all did that, right? That's what we hand them. But in the background they're collecting IP addresses that use, what computers you're on, what your likes and dislikes are, what your interests are. And from an intelligence gathering standpoint, that's an enormously valuable data for a place that has 1.5 billion users and 80 million in the United States.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:30:00",
+      "speaker": "HARLOW",
+      "sentences": "So, all right, it's very complicated, but it's ByteDance. It's a Chinese parent company that owns TikTok. They have an American CEO. They say they're operated -- the data is safe here, but they do -- do have engineers in China.We saw in the last year big tech companies pull out of China, like LinkedIn and Yahoo!, because they just couldn't comply with what the Chinese government required in terms of data. Is there anything that you think could be done by the U.S. government or assurances from the company to the U.S. government that you believe would make it safe to continue operating here, because Mike Pompeo said this is one of his biggest regrets that that administration could not get rid of TikTok.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:30:00",
+      "speaker": "MILLER",
+      "sentences": "So, I mean, the reason I'm laughing halfway through the question is -",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:30:00",
+      "speaker": "HARLOW",
+      "sentences": "Is?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:35:09",
+      "speaker": "HARLOW",
+      "sentences": "Wow.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:35:09",
+      "speaker": "LEMON",
+      "sentences": "John Miller.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:35:09",
+      "speaker": "COLLINS",
+      "sentences": "That's fascinating.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:35:09",
+      "speaker": "LEMON",
+      "sentences": "Yes, fascinating. Thank you very much.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:35:09",
+      "speaker": "HARLOW",
+      "sentences": "Thanks, John.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:41:01",
+      "speaker": "LEMON",
+      "sentences": "All right, we need to talk about what's happening now. This is just into CNN. The U.S. economy grew much faster than expected in the third quarter according to the latest Gross Domestic Product report, which showed GDP rose by an annualized rate of 2.9 percent.Poppy, we were just talking - was it yesterday we were talking to Christine Romans about this, yesterday or the day before, we were talking about - to Christine Romans about this, and Mark Stuart (ph), about measuring the economy and after Covid you really don't know --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:41:01",
+      "speaker": "HARLOW",
+      "sentences": "The weird economy?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:41:01",
+      "speaker": "LEMON",
+      "sentences": "The wired economy.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:41:01",
+      "speaker": "HARLOW",
+      "sentences": "I just call it the weird economy.Yes, I was just looking at the numbers. I mean it's better than they expected. They -- previous reading showed 2.6 percent growth. Consumers are spending, right, Kaitlan, we were talking about this, Black Friday, Cyber Monday spending. Spending more than ever. I think the question - this is good. It's a big headline. It's unexpected. I don't know how long it can last. I think that's the question. Are they spending savings that were there from Covid times and stimulus?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:41:01",
+      "speaker": "LEMON",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:41:01",
+      "speaker": "HARLOW",
+      "sentences": "And -- but the consumer is all powerful in the U.S. economy. We control 70 percent. Our spending controls 70 percent of this number.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:41:01",
+      "speaker": "LEMON",
+      "sentences": "I don't even know if Black Friday or Cyber Monday, if it's - it's not included in this, right? It's part -",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:41:01",
+      "speaker": "HARLOW",
+      "sentences": "It's not - it's not.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:41:01",
+      "speaker": "LEMON",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:41:01",
+      "speaker": "HARLOW",
+      "sentences": "But the point is, that they continue to have that power.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:41:01",
+      "speaker": "LEMON",
+      "sentences": "And people have more savings and that sort of thing.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:41:01",
+      "speaker": "COLLINS",
+      "sentences": "I think the thing that I've also been watching, and we'll see how the White House responds to this, is this private sector job growth slowing since -",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:41:01",
+      "speaker": "HARLOW",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:41:01",
+      "speaker": "COLLINS",
+      "sentences": "It's the slowest it been since early 2021. And I wonder how that translates and what that means in all this because, obviously, as you noted, the expectation here had been 2.6 percent. Now it's 2.9 percent.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:41:01",
+      "speaker": "LEMON",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:41:01",
+      "speaker": "COLLINS",
+      "sentences": "So, if you're the White House, how are you responding to this, this morning?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:41:01",
+      "speaker": "LEMON",
+      "sentences": "So, the -- again, the U.S. economy grew faster than expected. The third quarter, that's according to the latest Gross Domestic Product Report, which showed that GDP rose by an annualized rate of 2.9 percent. That's an improvement from initial government reading in October that showed a 2.6 growth in economic activity.Listen, any growth, that is good news.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:41:01",
+      "speaker": "HARLOW",
+      "sentences": "We'll take it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:41:01",
+      "speaker": "LEMON",
+      "sentences": "We will take it. But -",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:41:01",
+      "speaker": "HARLOW",
+      "sentences": "We're also excited for what's next.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:41:01",
+      "speaker": "LEMON",
+      "sentences": "We are. And it's a weird economy. So, we'll see. And we may -- we - we can have him weigh in on all of this.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:41:01",
+      "speaker": "HARLOW",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:41:01",
+      "speaker": "LEMON",
+      "sentences": "There is Sir Richard Branson. He's here in our studio to talk about his new HBO docuseries that offers a rare and intimate glimpse into his life and his journey to success. But we're going to talk to him about more than that, right, Poppy?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:47:01",
+      "speaker": "HARLOW",
+      "sentences": "What a treat. We have a special guest this morning on CNN THIS MORNING. It is Sir Richard Branson, knighted by the queen. The HBO's upcoming four-part documentary series billionaire and Virgin Group founder Richard Branson offers a really rare - this is different than what you've seen on him - an intimate glimpse into his life and how his relatively humble upbringing in a family that encouraged risk taking made him the man he is today despite his challenges.Watch this. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:47:01",
+      "speaker": "SIR RICHARD BRANSON, ENTREPRENEUR, BUSINESS MAGNATE AND FOUNDER, VIRGIN GROUP",
+      "sentences": "My mum tried to get us over our shyness to challenge ourselves.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:47:01",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "We allowed them to do a lot of dangerous things. That's led on to a few more daring things.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:47:01",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "He thrives on jeopardy. It's a continuation of his childhood.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:47:01",
+      "speaker": "BRANSON",
+      "sentences": "Having suffered from dyslexia, having left school at 15, I had a lot to prove.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:47:01",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "He is a bumble of contradictions.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:47:01",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "People were seduced into thinking that this was a bumbling good guy, when, in fact, Richard always had a very firm eye on the bottom line.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:47:01",
+      "speaker": "HARLOW",
+      "sentences": "Joining us now is Sr Richard Branson.What a pleasure. Thank you. Welcome to CNN THIS MORNING.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:47:01",
+      "speaker": "LEMON",
+      "sentences": "Good morning. Good to see you.SIR RICHARD BRANSON, FOCUS OF NEW HBO DOCUSERIES, \"BRANSON\": (INAUDIBLE), again, as always.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:47:01",
+      "speaker": "HARLOW",
+      "sentences": "Let's start with where this docuseries starts, OK, because I've interviewed you many times for a decade and never seen you like you are portrayed in this. You are filming a video for your family 16 days before you go to space in one of your own spaceships, Virgin Galactic, and it's only going to be seen if you die. And you can't get through it. You are choked up. And we see your vulnerability.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:47:01",
+      "speaker": "BRANSON",
+      "sentences": "Well, I have foolishly done a number of foolish things in my life. And - and before each one I've made a point of writing a letter to my kids or my grandkids now just trying to explain, you know, why I believe that they - I - I - I - why I'm pushing myself to the limit, why they should push themselves to the limit. But just in case the balloon, you know, doesn't cross the Pacific or go around the world and we end up in the sea and don't come home, I, obviously, you know, want to be able to communicate with them. And - and so the, you know, the same obviously applied because it's very early days in the space industry. And -- but it's strange talking about yourself after - after - after -",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:47:01",
+      "speaker": "HARLOW",
+      "sentences": "In the past.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:47:01",
+      "speaker": "BRANSON",
+      "sentences": "In the past. And - and - and -- and, yes, it did get to me on this occasion.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:50:00",
+      "speaker": "BRANSON",
+      "sentences": "Interestingly, you know, it was an independent documentary. So, I don't agree with everything it said. And - and - and actually my life is not focused on the bottom line. I'm focused on creating things that I - you know, that I really believe in and - and hopefully, you know, the best - you know, like, the best airline, the best cruise company, the best - you know, so - so that's -- and then I hope that more money comes in than goes out at the end of the year.As far as the economy is concerned, I think - you know, I -- I think that people -- there is pent up demand from people to spend after Covid. And, obviously, some people don't have any money to spend after Covid. But for those - for those who actually saved money during Covid, they've come out. They want to travel. I mean Virgin Atlantic planes are full again. They want to go on cruises. You know, Virgin Voyages is up. New Cruise company is finally, you know, full of people. And they want to have a good time. And so whether that will be sustainable, we'll have to see. I mean, obviously, the Fed are trying to reduce inflation and raise interest rates at the same time. And so it's going to be interesting to see when things level off and whether they go too far and will actually go into a bit of a recession. But, you know, anyway, we'll have to see.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:50:00",
+      "speaker": "LEMON",
+      "sentences": "Thanks for responding to that.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:50:00",
+      "speaker": "COLLINS",
+      "sentences": "I love that idea of pursuing excellence in the things that you're doing. But to do that, you know, you're taking big risks. And, obviously, that is how people think of you as kind of this daredevil risky guy. I wonder how you approach that because you're not immune to risk. Obviously everyone can see the rewards that have happened because of the ones that you've taken, but how do you approach risk in a situation like yours?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:50:00",
+      "speaker": "BRANSON",
+      "sentences": "Well, I'll give an example. We started Virgin Atlantic, our airline, crossing the Atlantic 38 years ago this year with one - one secondhand 747. And our team at the record company thought I'd gone mad to go into an airline business and actually I suspect on paper they were right. But I - what - so what I did was I said to Boeing, look, I'll, you know, I'll give it a go, but at the end of the first year I want to be able to hand that plane back if I've got it - if I've got it wrong and people don't like the product that we're offering. And so it wasn't going to bring the rest of the Virgin Group down.At the end of the year, people loved flying Virgin Atlantic and we bought two more planes from Boeing. So the -- by agreeing that - by agreeing to cover the downside for us, they actually ended up selling actually - and over the years many more planes. So, I think we -- I do try to protect the down side in every move I make and -",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:50:00",
+      "speaker": "HARLOW",
+      "sentences": "One of the things, to Kaitlan's good point is, you have - you wrote 50 years ago in a student newspaper you started at university, the brave may not live forever, but the cautious do not live at all. And we cover your public risks, like going to space or going around in a hot air balloon. We don't often talk about the risks you've taken to fight for equality around the world, the work you've done with Nelson Mandela on the elders, trying to talk to Saddam Hussein, the climate change work you've done, trying to abolish the death penalty, all of these things as well.Talk to us about how that plays into, if you're too cautious, you're really not living.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:50:00",
+      "speaker": "BRANSON",
+      "sentences": "So, I think, as an entrepreneur, I've had a lot of experience in trying to solve problems. So, you know, if there's -- if there's a war going on, I mean, you know, you mentioned the Saddam Hussein, you know, I - I thought it was worth giving it a shot to try to stop the war by trying to persuade Saddam Hussein to step down and go and live in Iraq for the rest of his -- sorry, go and live in Libya for the rest of his life. And using contacts with King Hussein of Jordan. He basically agreed that he would go if we could send two elders to go and talk to him and Nelson Mandela agreed to go, Kofi Annan, who was secretary general of the United Nations, agreed to go. And, sadly, the bombing started just before the trip took place.But as a result of that, we set up the elders, which is a wonderful group of men and women who do go in to try to resolve conflicts, who do talk out on climate change, who do try to address the problems with the world from a moral standpoint rather than from a political standpoint.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:50:00",
+      "speaker": "LEMON",
+      "sentences": "Why was it important -- you've been a supporter of LGBTQ rights for a long time. You see what's happening with same-sex marriage that's happening in the Senate and in Congress. You wore a pin, a rainbow pin, into space. Why such - why were -- you were ahead of the curve. Why? Why?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:55:09",
+      "speaker": "LEMON",
+      "sentences": "Yes, thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:55:09",
+      "speaker": "HARLOW",
+      "sentences": "Thank you. We - yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:55:09",
+      "speaker": "COLLINS",
+      "sentences": "The series premieres, we should note, December 1st. It's going to be so - so interesting, I think.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:55:09",
+      "speaker": "HARLOW",
+      "sentences": "Yes. Yes.Thanks for -",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:55:09",
+      "speaker": "LEMON",
+      "sentences": "Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:55:09",
+      "speaker": "HARLOW",
+      "sentences": "Thank for sticking up for folks who often don't have a voice. That's your power.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:55:09",
+      "speaker": "BRANSON",
+      "sentences": "Hey, no - you do that - you do it as well.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:55:09",
+      "speaker": "COLLINS",
+      "sentences": "And for taking risks. HARLOW",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:55:09",
+      "speaker": "BRANSON",
+      "sentences": "Yes. No, thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:55:09",
+      "speaker": "HARLOW",
+      "sentences": "Thank you, Sir Richard Branson, very much.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:55:09",
+      "speaker": "LEMON",
+      "sentences": "\"Branson\" on HBO and HBO Max. We appreciate you coming in.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:55:09",
+      "speaker": "HARLOW",
+      "sentences": "Yes, it's a great watch.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:55:09",
+      "speaker": "COLLINS",
+      "sentences": "Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:55:09",
+      "speaker": "BRANSON",
+      "sentences": "All right, thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:55:09",
+      "speaker": "HARLOW",
+      "sentences": "Thanks to all of you. We'll see you here tomorrow morning.\"CNN NEWSROOM\" is after this.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:55:09",
+      "speaker": "LEMON",
+      "sentences": "That was fantastic.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:55:09",
+      "speaker": "COLLINS",
+      "sentences": "So, I didn't ask you, but I wanted to ask you about your (INAUDIBLE).",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:55:09",
+      "speaker": "HARLOW",
+      "sentences": "Yes. Yes.",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

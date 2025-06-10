@@ -1,0 +1,433 @@
+{
+  "date": "2024-10-13",
+  "headline": "CNN This Morning",
+  "subHeadline": "Three Battleground States Start Early Voting This Week; Harris Releases Medical Report, Calls Out Trump For Lack Of Transparency; Trump Slams Immigration, California Governor During Coachella Rally; Trump Stumps In Blue States Three Weeks Before Election; Trump Appears To Address Heckler During California Rally; Harris To Visit A Black Church In North Carolina Today; Floridians Face Gas And Power Shortages While Recovering From Milton; Flooding Slows Down Recovery Efforts In Western Florida; More Than 1,000 Rescues Across Florida Since Storm; More Than 1 Million Without Power In Florida, Fuel Scarce In Some Areas; Biden Heads To Florida To Survey Damage From Hurricane Milton; Biden Announces $612 Million Towards Energy Projects In Regions Impacted By Hurricanes; One Killed, Nine Hurt In Shooting Near Tennessee State University; Former Scottish First Minister Alex Salmond Has Died; SpaceX Starship Approved For Its First Test Flight; Hamas Tried To Persuade Iran And Hezbollah To Join October 7 Attack, Iran, Hezbollah Deny. Israel PM Netanyahu To Hold Cabinet Meeting To Weigh Response To Iran's Missile Attack; Iran And Hezbollah Deny Links To Oct. 7 Attack; CNN Goes Inside Mail-In Ballot Processing Center In NC; Back-To-Back Hurricanes Take A Heavy Toll On Floridians' Mental Health; Flood Risks Persist In Florida, Days After Milton. Aired 6-7a ET",
+  "utterances": [
+    {
+      "timeStamp": "06:00:38",
+      "speaker": "VICTOR BLACKWELL, CNN ANCHOR",
+      "sentences": "Good morning and welcome to CNN THIS MORNING. It's Sunday which, actually, is a second favorite day of the week.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:38",
+      "speaker": "VERONICA MIRACLE, CNN ANCHOR",
+      "sentences": "It's my favorite day of the week.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:38",
+      "speaker": "BLACKWELL",
+      "sentences": "OK.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:38",
+      "speaker": "MIRACLE",
+      "sentences": "I love Sunday.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:38",
+      "speaker": "BLACKWELL",
+      "sentences": "All right. I love Saturday. Veronica love Sunday. I'm Victor Blackwell, October 13th. Good to be with you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:38",
+      "speaker": "MIRACLE",
+      "sentences": "Yes. We're bringing all them always.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:38",
+      "speaker": "BLACKWELL",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:38",
+      "speaker": "MIRACLE",
+      "sentences": "I'm Veronica Miracle in for Amara Walker. Here's what we're working on for you this morning. It is getting down to the wire in the race for the White House.(BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:38",
+      "speaker": "KAMALA HARRIS, VICE PRESIDENT OF THE UNITED STATES",
+      "sentences": "This is a tight race. It is a margin of error race.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:38",
+      "speaker": "MIRACLE",
+      "sentences": "With only 23 days until Election Day, Vice President Kamala Harris and former President Donald Trump are storming swing states this upcoming week.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:38",
+      "speaker": "BLACKWELL",
+      "sentences": "Harris doubled down on what she calls her underdog campaign. While Trump goes all in on an anti-immigrant message.(BEGIN VIDEO CLIP) DONALD TRUMP (R), FORMER PRESIDENT OF THE UNITED STATES: I will rescue California and every town across America that has been invaded and conquered. And we will put these vicious and blood bloodthirsty criminals in jail or kicked them the hell out of the country, which is number one. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:38",
+      "speaker": "BLACKWELL",
+      "sentences": "So, we're going in depth on the final weeks of the presidential election. That's ahead.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:38",
+      "speaker": "MIRACLE",
+      "sentences": "And new this morning, President Biden announces a massive $600 million boost for recovery in Florida as he is set to survey the damage left behind from back-to-back blows by hurricanes Helene and Milton. We're live at the White House this morning.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:38",
+      "speaker": "BLACKWELL",
+      "sentences": "Critical cabinet meeting is set for today in Israel as the country weighs how it will respond to Iran's missile attack. We'll cover that as well.Now, in the final stretch of the campaign everyone is watching, of course, the battleground states. Former President Donald Trump, Vice President Kamala Harris, they're locked in a dead heat. This week, three states will begin early voting, Georgia, then North Carolina, and Nevada. The candidates are laser-focused on those states too. Trump is in Arizona today, will be in Atlanta on Tuesday. Harris is holding an event in North Carolina today, then she'll head to Pennsylvania tomorrow.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:38",
+      "speaker": "MIRACLE",
+      "sentences": "Harris released a detailed report on her health yesterday. In part, her doctor says she's in excellent health, up-to-date on her preventative care, and just suffers from seasonal allergies and near sightedness. As she left for North Carolina, she took the opportunity to call out Trump for not releasing his own health records.(BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:38",
+      "speaker": "HARRIS",
+      "sentences": "Just a further example of his lack of transparency. It's clear to me that he and his team do not want the American people to really see what it is that he is doing and whether or not he actually is fit to do the job of being president of the United States.(END VIDEO CLIP) MIRACLE: Trump did post a letter from his own doctor on Truth Social last year, but it didn't have quite the level of details contained in Harris' reports.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:38",
+      "speaker": "BLACKWELL",
+      "sentences": "Now, former President Trump stumped in California on Saturday, and again, when on slamming immigration and threatened to withhold federal funds used to fight fires in California if he's reelected.(BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:38",
+      "speaker": "TRUMP",
+      "sentences": "We're going to take care of our farmers. We're going to take care of your water situation, and we'll force it down his throat. And we'll say, Gavin, if you don't do it, we're not giving you any of that fire money that we send you all the time for all the fire -- forest fires that you have.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:38",
+      "speaker": "MIRACLE",
+      "sentences": "CNN's Kristen Holmes explains why he may be doubling down, especially in blue states.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:38",
+      "speaker": "KRISTEN HOLMES, CNN NATIONAL CORRESPONDENT",
+      "sentences": "Victor and Veronica, Donald Trump in Coachella, California, spent much of his time increasing his dark rhetoric around immigration. Take a listen.(BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:38",
+      "speaker": "TRUMP",
+      "sentences": "I will rescue California and every town across America that has been invaded and conquered.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:00",
+      "speaker": "MIRACLE",
+      "sentences": "Thank you for that reporting, Kristen. Vice presidential candidates, Tim Walz and J.D. Vance, also hit the campaign trail this weekend. Waltz made a home state visit. The Minnesota governor is making a bid to win over male voters in midwestern battleground states.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:00",
+      "speaker": "BLACKWELL",
+      "sentences": "And as for Ohio senator J.D. Vance, he hosted a town hall in Pennsylvania, Saturday. He said his running mate would not try to prosecute his political opponents if reelected. That is a direct contradiction of Trump's previous comments.In an interview with \"The New York Times\" the senator clarified his previous controversial comments about childless cat ladies. (BEGIN VIDEO CLIP) SEN. J.D. VANCE (R-OH), VICE PRESIDENTIAL CANDIDATE: Well, as I said, when I made those comments, look, they were dumb comments. And I said it a couple of times in a couple of interviews. And look, yes. I mean, I certainly wish that I had said it differently. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:00",
+      "speaker": "BLACKWELL",
+      "sentences": "Now, despite that, Vance said that he still stood by the point that he was trying to make that he thinks the country has become, as he said, almost pathologically anti-child. Let's get to Daniel Lippman, White House reporter with \"Politico,\" for some analysis.All right, let's -- good morning to you. Let's try to take this in order here --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:00",
+      "speaker": "DANIEL LIPPMAN, WHITE HOUSE REPORTER, POLITICO",
+      "sentences": "Good morning.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:00",
+      "speaker": "BLACKWELL",
+      "sentences": "-- and let's start with the vice president's criticisms of the former president not releasing financial information, medical information, and the rest. How much momentum is there from the Harris team on this, what is he hiding narrative?Because he didn't release much of this information in 2016, it wasn't disqualifying for 63 million people. Now, of course, he is eight years older and has been found liable for fraud. So, how much do you think they can put behind this line?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:00",
+      "speaker": "LIPPMAN",
+      "sentences": "Well, I think it's an opportunity to win a new cycle this weekend. But I don't think this is going to be one of their top lines going forward because it doesn't resonate with every American or even many Americans. Because most Americans are going to vote based on their pocketbook, who they think best represents them, not based on kind of a process issue of has he released this return or that. If you're anti-Trump you kind of -- you don't need a tax return to make up your mind on him. And so, this is an effort to try to also say, hey, Trump is two decades older. Try to win that age argument, which Trump did against Biden in -- after the June debate.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:00",
+      "speaker": "BLACKWELL",
+      "sentences": "All right. Let's talk about this decision to even hold this rally in California, that's after a rally in Colorado, reliably blue states. The campaign says he could make these messages anywhere. But if he could do it anywhere, why not do it in Pennsylvania, Arizona, Georgia, Nevada?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:00",
+      "speaker": "LIPPMAN",
+      "sentences": "It's a great question. Because there's -- some Republican strategists that I've talked to who say, hey, he should be spending all his time in the swing states, that this is a waste of time, that he's never going to win California or New York.I think he likes the adulation of the crowds. If he can get tens of thousands of people to show up in Madison Square Garden then that's a victory for him. Maybe it'll help people who are Republicans running for reelection, House candidates. But in terms of actually winning Pennsylvania, or Wisconsin, or Michigan, you'd have to really show up there. And those polls are not -- are very close. And so, every day you're off the trail, is not a good day for you. And plus, he has complained about having to do lots of fundraisers because he has a big money disadvantage to Harris who doesn't have to do many fundraisers anymore.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:00",
+      "speaker": "BLACKWELL",
+      "sentences": "Yes. We played a bit of the rally from the former president. There was a moment where he was heckled. And I want to play here his reaction and his suggestion, what should be the consequence for the person who heckled him.(BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:00",
+      "speaker": "TRUMP",
+      "sentences": "Back home to mommy. She goes back home to mommy. Was that you, darling? And then she gets the hell knocked out of her. Her mother is a big fan of ours. You know that, right? Her father. Her mother. Now, you always have that.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:10:06",
+      "speaker": "LIPPMAN",
+      "sentences": "It certainly has. We remember those calls he made to, take them out on the stretcher. Basically, to advocate violence against protesters in the 2016 campaign. There weren't as many rallies in 2020 because of COVID, but I think he feels like the walls have closed in on him. That he faces potential jail time with criminal cases. He hasn't been sentenced in New York yet.If he loses this election then there's a good chance that he will go to prison. And so, this is almost an existential battle for him to not, you know, face -- you know, not be put in an orange jumpsuit. And so, he has gotten darker. And he still feels the election was stolen despite no evidence to that, you know, claim. And he has been able to whip up his supporters. So, even if he loses in -- this November I'm sure that he will claim, hey, this was fraud and I actually won the election. And maybe I'll come back in 2028.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:10:06",
+      "speaker": "BLACKWELL",
+      "sentences": "He has already --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:10:06",
+      "speaker": "LIPPMAN",
+      "sentences": "So, that's --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:10:06",
+      "speaker": "BLACKWELL",
+      "sentences": "-- laying the ground work for that saying that the only way he loses is if it's rig. Let's talk about the vice president.She, as the polls show, has some work to do to build support stronger with Black voters. She's going to be in the church this morning in North Carolina. She'll talk to Black farmers after that. She has got a radio town hall in Detroit. Fill out the strategy from the Harris campaign to boost those numbers. New York Times-Siena College poll out this weekend shows she is at 78 percent among likely Black voters.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:10:06",
+      "speaker": "LIPPMAN",
+      "sentences": "Yes, she has to really increase that to 90 percent. That's what Joe Biden won in 2020 of Black voters. She's doing better than Biden was doing back in June. And you're seeing Barack Obama out on the campaign trail to try to urge Black men, especially, to come out to the polls, to not worry about her gender, not to think about that. Instead to kind of show up for her.But I think that this is a broader indication of a gender gap because it's not just Black men, it's Hispanic men, it's White men who are favorable to Trump than, you know, Black women, Hispanic women, particularly on abortion, that affects women more. And if you look at Black men themselves and Black voters, they feel -- you know, a majority of them feel that the economy is poor, or are not doing well. They're having trouble on average to, you know, buy stuff at the grocery store because of the prices. And so, there may be a message sent by a number of them to the establishment into Vice President Harris and say, hey, we need to provide some accountability because of our economic lives.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:10:06",
+      "speaker": "BLACKWELL",
+      "sentences": "Daniel Lippman with \"Politico,\" thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:10:06",
+      "speaker": "LIPPMAN",
+      "sentences": "Thanks, Victor.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:18:11",
+      "speaker": "BLACKWELL",
+      "sentences": "This morning, recovery continues in Florida after two massive storms in two weeks. More than 1 million people, customers, I should say, are still without power and are facing fuel shortages. Just under 30 percent of Florida's gas stations have no fuel. And in the hard-hit Tampa, St. Petersburg area, more than three quarters of stations are out of gas.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:18:11",
+      "speaker": "MIRACLE",
+      "sentences": "Florida Governor Ron DeSantis says, the highway patrol is escorting fuel tankers from the port to areas most in need. And three public fuel sites have opened in Plant City, Bradenton, and St. Petersburg, where customers can receive 10 gallons of gas each for free. More sites are going to be open today.CNN's Brian Abel is in Valrico, Florida, with more.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:20:06",
+      "speaker": "BLACKWELL",
+      "sentences": "All right. Brian Abel, thank you. President Biden will visit St. Petersburg today to survey the damage from hurricanes Helene and Milton.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:20:06",
+      "speaker": "MIRACLE",
+      "sentences": "CNN's Betsy Klein is live outside the White House. Betsy, the president announced more than a half $1 billion to help recovery in Florida. What can you tell us?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:20:06",
+      "speaker": "BETSY KLEIN, CNN SENIOR WHITE HOUSE PRODUCER",
+      "sentences": "Well, Veronica, President Biden departing just moments from now from the White House for this trip to Florida where he's going to travel to the Tampa and St. Petersburg area.First, he will get an aerial tour, really get a sense of the scope and scale of that damage and destruction from Hurricane Milton. And then he is going to receive an operational briefing from state, federal, local officials who are on the ground really assisting in these recovery efforts and assessing what is still needed. Now, he is also going to step into that consoler in chief role. He's going to be meeting with some of the first responders involved, as well as people impacted by this storm. And all of this just after he signed a major disaster declaration for Florida unlocking some additional federal funding. But of course, he has said that Congress is going to need to step up and pass additional aid. Now, to your point, Veronica, he is going to be unveiling an additional round of funding. He has noted in previous days that in the wake of the storm, Florida was able to get back online, get electricity much more quickly than anticipated because of some of the infrastructure investments that took place under his watch. So today, he will be announcing about $612 million for projects through the Department of Energy aimed at really bolstering the electric grid and making energy more efficient and resilient to these natural disasters. We're seeing more extreme weather due to climate change. So, really trying to curve those power losses. But of course, as you mentioned, there are still 1 million people in Florida without power this morning. So, there's a long way to go there. Victor and Veronica.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:27:12",
+      "speaker": "BLACKWELL",
+      "sentences": "Here's some of the top stories we're following for you this morning. At least one person has died, nine others were injured in a shooting near Tennessee State University in Nashville. The shooting happened during the school's homecoming celebration yesterday.(BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:27:12",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "All I heard were a whole bunch of gunshots. Like, I was so close to it I thought it was just fireworks but end up being gunshots. And everybody was just running. And I started running, almost fell. I just thank God it wasn't me.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:27:12",
+      "speaker": "BLACKWELL",
+      "sentences": "Well, at least three children and other adults ranging in age from 23 to 55 were injured. Most are expected to recover. Police say at least one of the injured people may have been involved in that shooting. Police also say the shooting started after dispute between two groups of people.This morning, world leaders are paying tribute to former Scottish first minister Alex Salmond. He collapsed after giving a speech yesterday, before retiring. He was a key figure in Scotland's independence movement and the leader of the Scottish National Party. King Charles said his devotion to Scotland drove his decades of public service. He was 69-years-old. In about an hour-and-a-half SpaceX is set to launch its fifth uncrewed test flight of Starship, the most powerful rocket system ever made. Lift off will happen from SpaceX's Boca Chica, Texas, facility. Now, if this flight is successful, it could set the stage for the company to tackle even more ambitious projects. Like eventually putting the first humans on Mars.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:27:12",
+      "speaker": "MIRACLE",
+      "sentences": "Happening today, Israeli Prime Minister Benjamin Netanyahu is holding a cabinet meeting to discuss how to respond to Iran's missile attacks from October 1. Now, this comes as \"The New York Times\" reports on secret documents revealing that Hamas tried to convince Iran and Hezbollah to be part of last year's October 7th attack. Both Iran and Hezbollah deny involvement.Let's now go to CNN international correspondent Nada Bashir live in London for us this morning. So, what do we know about the cabinet meeting, Nada?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:30:09",
+      "speaker": "VERONICA MIRACLE, CNN ANCHOR",
+      "sentences": "Yes, very precarious situation. Nada Bashir for us in London. Thank you for your reporting.Iran is trying to get help from its neighbors in the Middle East as it tries to ward off an escalation in aggression from Israel. But if those diplomatic efforts fail Iran warns they will retaliate if Israel decides to launch a new attack against them. Let's now turn to Frederik Pleitgen in Tehran, Iran. Fred, we are hearing from some tougher talk from Iran now. FREDERIK PLEITGEN, CNN SENIOR INTERNATIONAL CORRESPONDENT (on-camera): Yes, we certainly are and it's something that we've definitely seen over the past 24 hours as we've been in touch with Iranian officials here on the ground in Tehran. In fact, one source -- the source it's very familiar with the discussions that have been going on told us that Iran will retaliate against any sort of attack from Israel. That's what the Iranians are saying right now. They also say that they have communicated all of that not just the countries here in the region, but specifically to the United States as well. Now of course we do have to note that all of that would happen through Intermediaries as Iran and U.S. do not have direct diplomatic relations with one another. But the Iranians being very clear that any sort of attack from Israel will be met by retaliation coming from Iran. Now we did have the deputy commander of the Islamic Revolutionary Guard Corps which is of course the elite units here of Iran's military who came out a couple of days ago. It said for instance if the Israelis strike oil and gas facilities here in Iran that in the future, Iran will not only target Israeli military facilities, but also Israel's energy infrastructure potentially as well. So definitely the Iranians saying that all this could have an escalatory effect. One of the other things that we've seen is that the speaker for Iran's Parliament. He was in Beirut in Lebanon to vow support for Lebanon from the Supreme Leader Ayatollah Ali Khamenei and he also warned countries in the region not to allow their territory and their airspace to be used for any sort of actions against Iran. Of course, there are some countries that are between Israel and Iran and the Iranians are saying or telling these countries do not allow Israel to use your airspace to strike Iran. And then finally guys just as we were going to air, this is really very fresh. We got this Statement coming from Iran's foreign minister. I literally just got this and I want to read quote, he says, while we have made tremendous efforts in recent days to contain an all-out war in our region, I say it clearly that we have no red lines in defending our people and interests. So, the Iranians are saying that if the Israelis strike their territory this could lead to a further large- scale escalation, Veronica.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:30:09",
+      "speaker": "MIRACLE",
+      "sentences": "Nothing that anyone wants to see. Frederik Pleitgen, thank you for your reporting from the ground in Iran.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:03",
+      "speaker": "BLACKWELL",
+      "sentences": "Today, Vice President Kamala Harris will be in North Carolina, campaigning to flip the state ahead of the election.Right now, there is no clear front runner between Harris and Trump in North Carolina.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:03",
+      "speaker": "MIRACLE",
+      "sentences": "In-person early voting will begin there on Thursday, while mail-in and absentee voting remains high. [06CNN's Paula Reid takes us inside one of the state's mail-in ballot processing centers. (BEGIN VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:03",
+      "speaker": "PAULA REID, CNN CHIEF LEGAL AFFAIRS CORRESPONDENT",
+      "sentences": "We're here at the Wake County Board of Elections Operations Center, where in just a few minutes, they're going to begin processing mail-in ballots that have already arrived.This process, it's open to the public, it's open to the media, so let's head inside and see how it works REID (voice-over): This box contains one of the first batches of mail- in ballots to be processed in the county. Officials review each envelope to make sure it's properly sealed and signed. ANGELA HAWKINS, (R) WAKE COUNTY BOARD OF ELECTIONS: Look at those instructions, follow them carefully. GREG FLYNN, (D) WAKE COUNTY BOARD OF ELECTIONS: Sometimes there's missing witness information or missing notary information, or they're voted and signed. So, these are things that we -- we --we catch.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:03",
+      "speaker": "REID",
+      "sentences": "You can see behind me the committee is hard at work, they are processing ballots that have already been mailed in. This is a bipartisan committee, two Democrats, two Republicans, and a chair appointed by the governor.REID (voice-over): Roughly a dozen members of the public came to watch the proceedings.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:03",
+      "speaker": "REID",
+      "sentences": "So once ballots are reviewed and approved by the Board of Elections, they come back here to the sort of goldfish bowl situation, where they are then further processed. And I'm whispering here because this is very quiet.REID (voice-over): This work may seem mundane, but these envelopes, and whether they have been accurately filled out, could decide the election. As Democrats have traditionally been more likely to use mail-in ballots, Republicans have already made this the subject of litigation in multiple battleground states. In Pennsylvania, a pivotal state in the 2024 race, the RNC has sued to challenge procedures that allow voters to fix issues like missing signatures or incorrect dates, so their ballots can be counted. Concerned, the Harris-Walz campaign backed the DNC and state Democratic Party quickly intervening. Ultimately, the state Supreme Court rejected this challenge, and another over counting ballots that arrive in envelopes without handwritten dates or have incorrect dates. But these types of issues could be revived after the election. GOV. JOSH SHAPIRO (D-PA): We knew that he would try his same old tactics again. And in fact, we've already begun to see some litigation to try and make it harder for certain people's votes to count. REID (voice-over): Officials are working to educate voters about how to properly fill in their mail-in ballot through videos like this.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:03",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Make sure you sign it and write the current date in the right spots on the larger envelope.REID (voice-over): Back in North Carolina, election officials are preparing for the litigation over these ballots to ramp up, especially if former President Trump is behind in the vote count.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:03",
+      "speaker": "PAUL COX, GENERAL COUNSEL, NC STATE BOARD OF ELECTIONS",
+      "sentences": "If you have close elections, I think both major parties are lawyered up and they're ready to go to court if they feel like there's something to be gained strategically from it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:03",
+      "speaker": "REID",
+      "sentences": "How likely do you think it is that this, the election, anything related to North Carolina will end up in court?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:03",
+      "speaker": "COX",
+      "sentences": "I think it depends on how close it is. That's always the case.REID (voice-over): Paula Reid, CNN, Raleigh, North Carolina. (END VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:03",
+      "speaker": "MIRACLE",
+      "sentences": "Paula Reid, thank you.Still ahead on the show, few situations are as stressful as natural disasters. We're going to speak to a psychoanalyst about the stress and strain felt by survivors and how they deal with it. And since 2020, roughly 12,000 Haitian migrants have moved to Springfield, a city that struggled once to find workers. Republican presidential nominee Donald Trump and his running mate, JD Vance, have targeted these illegal immigrants, spreading misinformation and threatening to deport them if elected.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:03",
+      "speaker": "BLACKWELL",
+      "sentences": "Well, in this week's \"WHOLE STORY,\" CNN's Omar Jimenez takes viewers inside this community to look at how Haitian immigrants have actually revitalized the local economy.(BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:03",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Pumping resources into the community is how communities grow.DONALD TRUMP (R) PRESIDENTIAL CANDIDATE: Do you think Springfield will ever be the same? You have to get them the hell out. You have to get them out. I'm sorry. Can't have it. Can't have it. They've destroyed it. You have to remove the people. We cannot destroy our country. They have to be removed.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:03",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "So, you would revoke the temporary protected status? TRUMP",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:03",
+      "speaker": "OMAR JIMENEZ, CNN CORRESPONDENT",
+      "sentences": "If we did wake up the next morning and all of the Haitians here were gone, what do you think happens to Springfield?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:03",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "That's not good for Springfield.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:05",
+      "speaker": "MIRACLE",
+      "sentences": "-- about such an important issue that impacts everyone in one way or another. So, Dr. Saltz for people to experience just one deadly storm, of course in the region is traumatizing but these back-to-back hits have to take a different kind of toll and you say can eventually even develop into post-traumatic stress disorder.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:05",
+      "speaker": "SALTZ",
+      "sentences": "Well recurrent trauma we know creates potentially mental health issues. Of course, people can get through and ultimately be resilient but initially after a significant trauma in this level, you would expect people to have an acute stress reaction. Which means they would have memories of the event that are disturbing they might have disrupted sleep, they would have a lot of anxiety during the day or low mood. They might avoid anything that reminds them of the storm.But as time goes on for most people a trauma like that would resolve but another trauma on top of that can increase likelihood that those kinds of symptoms would persist and over time if they don't go away that essentially becomes post-traumatic stress disorder. The important thing is treatment intervention can make all the difference.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:05",
+      "speaker": "MIRACLE",
+      "sentences": "Absolutely, and it certainly has to start even now which is difficult as people are trying to recover and rebuild. And let's talk about how this event can also impact future generations. Can you talk about how someone who survived one or both of these hurricanes may pass on the stress of this experience potentially to their children or even their grandchildren in years to come?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:05",
+      "speaker": "SALTZ",
+      "sentences": "Right. Well, you're sort of talking about two different phenomenon. In terms of children, children read us very well. And if you are appearing extremely anxious upset essentially traumatized, they're going to -- that will increase likelihood that they feel traumatized as well. The most important thing to children is to know that they feel safe. So, reassuring them of such trying to get a handle on your own symptoms, so that you can help guide them and help them with their emotional health. That's really important.But you bring up the point of grandchildren (ph). There are two elements here. One is the socio-financial element of what's going on that we know that over time lack of support of a community which is undone by a trauma like this and the financial consequences, the economic suffering that goes on can also affect mental health. And of course, that can affect generations. And actually, there's even some data to suggest that real trauma over a long period of time genetically loads the next generation and the generation after that, so trauma can be passed down through generations as you're mentioning. But I think in this case the most important thing for the community is to build up their coping skills that talk to each other about how they're feeling, support each other as best they can, develop some personal coping skills, paste (ph) deep breathing the ability to do some exercise, to eat well to sleep well, and if they're not doing well to get mental health care.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:05",
+      "speaker": "MIRACLE",
+      "sentences": "Yes, you're talking about very important things that people can focus on right now. So, do you have any further advice for those dealing with the acute stress of going through a natural -- natural disaster? You talked about breathing exercises and trying to build community. But what about people who are just trying to survive right now?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:05",
+      "speaker": "SALTZ",
+      "sentences": "Right. Well obviously, survival like physical survival comes first no question about it. I think that, you know, once you've gotten yourself into a safer situation, that is the point at which people often go few, you know. Like this is over. I'm OK, and they don't realize that in fact from psychiatric, from a psychological standpoint, they might not be feeling OK.So, it's about paying attention to that. Obviously once they're in a safe situation clearly on the ground people are doing everything they can for the physical situation. It's really important to get those people resources so that they are safe that they feel fed and cared for. And to get them financial assistance because we know that when you are struggling financially, that adds to the mental health burden.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:05",
+      "speaker": "MIRACLE",
+      "sentences": "Mental health, it is an important topic. I'm so glad we're talking about it this morning Dr. Gail Saltz. Thank you.",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

@@ -1,0 +1,673 @@
+{
+  "date": "2023-04-21",
+  "headline": "CNN This Morning",
+  "subHeadline": "Sen. Tammy Baldwin (D-WI) is Interviewed about the Debt Showdown; Removing Carbon from Sea and Sky; Oakland A's Could Move to Vegas. Aired 8:30-9a ET",
+  "utterances": [
+    {
+      "timeStamp": "08:30:45",
+      "speaker": "POPPY HARLOW, CNN ANCHOR",
+      "sentences": "Welcome to CNN THIS MORNING.President Biden is set to announce his bid for a second term as soon as next week. Some members of his own party are starting to question his handling of a major pressing issue, the standoff over raising the debt limit. Some Democrats are anxious over Biden's refusal to negotiate with Republicans. (BEGIN VIDEO CLIP) REP. JARED MOSKOWITZ (D-FL): I think - I think Joe Biden should be talking to Kevin McCarthy, even if those conversations right now prove nothing productive. My fear is that this gets pushed all the way to the last moment. And then if we're at the last moment and things fall apart, we go off -- we go off the cliff. SEN. JOE MANCHIN (D-WV): We're here to talk, communicate and negotiate. So, at least do it. At least they put something on the table. They said, put one on the table. They put something on the table. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:30:45",
+      "speaker": "HARLOW",
+      "sentences": "That's Joe Manchin, Democratic senator, referring to House Speaker Kevin McCarthy's proposal this week to raise the debt ceiling by $1.5 trillion in exchange for a host of domestic spending cuts and conservative political and policy priorities. The White House has, for months, insisted it's not going to negotiate, right? They only want to clean debt ceiling bill, instead calling on McCarthy to raise the debt ceiling with no conditions.That is not good enough for Joe Manchin, who said of Biden's strategy right now, quote, this signals a deficiency of leadership, and it must change. It's quite a quote from a fellow Democrat. Joining us now is another Democrat, Senator Tammy Baldwin of Wisconsin. I should note, she just announced her plans to run for re- election in 2024. Good morning. SEN. TAMMY BALDWIN (D-WI): Good morning.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:30:45",
+      "speaker": "HARLOW",
+      "sentences": "So nice to have you in person.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:30:45",
+      "speaker": "BALDWIN",
+      "sentences": "It's great to join you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:30:45",
+      "speaker": "HARLOW",
+      "sentences": "What do you think? Do you agree with Joe Manchin, it's basically an abdication of leadership?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:30:45",
+      "speaker": "BALDWIN",
+      "sentences": "Absolutely not. You know, there is a place and time for negotiations. That's our annual budget and our annual appropriations process.We cannot afford to default. The default implications for people paying their mortgages and, you know, their - on their retirements, it is almost cataclysmic if we were to default. And even to have the brinksmanship that brings us to the verge of that is so dangerous for our economy. It has incredible ramifications. So, I just plead with Speaker McCarthy, don't default. Don't put our people to this -",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:30:45",
+      "speaker": "HARLOW",
+      "sentences": "Well, it takes - right, they say it takes two to tango.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:30:45",
+      "speaker": "BALDWIN",
+      "sentences": "That's right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:30:45",
+      "speaker": "HARLOW",
+      "sentences": "It takes (INAUDIBLE) default. So, are you pleading with the White House to do the same and sit down with McCarthy? Because this bill would -- I know you don't like it, but it would avoid default.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:30:45",
+      "speaker": "BALDWIN",
+      "sentences": "You know, I -- first of all, I'm not even sure that they have gathered -- garnered the support. But there is a very clear path and I think Democrats, including the president, have been clear since day one, and we can't afford to default, that there is a time and a place called the budget and the appropriations process -",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:30:45",
+      "speaker": "HARLOW",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:30:45",
+      "speaker": "BALDWIN",
+      "sentences": "For negotiating these incredibly important issues.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:30:45",
+      "speaker": "HARLOW",
+      "sentences": "I hear you, but if nothing happens, in two months we could default. And this would avoid that. Is it a starting place for the president to sit down? Do you think the president should sit down with Speaker McCarthy? Because it's not just Joe Manchin, who you heard there. CNN has new reporting overnight that it is several, if not more, Democrats have privately told CNN that the White House position to not budge is unsustainable.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:30:45",
+      "speaker": "BALDWIN",
+      "sentences": "I think it -- I think there's absolutely room for a clean resolution in the House of Representatives to not default on our debts. We - Americans pay their --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:30:45",
+      "speaker": "HARLOW",
+      "sentences": "That's not a negotiation. That's not -- BALDWIN",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:30:45",
+      "speaker": "HARLOW",
+      "sentences": "So, don't negotiate -- that's not a negotiation to only say clean.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:30:45",
+      "speaker": "BALDWIN",
+      "sentences": "There's so much room for negotiation, including leverage for that negotiation after -",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:30:45",
+      "speaker": "HARLOW",
+      "sentences": "OK.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:30:45",
+      "speaker": "BALDWIN",
+      "sentences": "We take care of the -",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:30:45",
+      "speaker": "HARLOW",
+      "sentences": "OK.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:30:45",
+      "speaker": "BALDWIN",
+      "sentences": "We have an annual budget process, an annual appropriations process, and they have leverage in that. There's no reason why we shouldn't sit down and resolve these big issues, but not while we put Americans at risk of higher mortgage payments, jeopardizing people's retirement security and all the other things that flow from a possible default.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:30:45",
+      "speaker": "HARLOW",
+      "sentences": "So, it's not worth negotiating to avoid it?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:30:45",
+      "speaker": "BALDWIN",
+      "sentences": "Oh, we will --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:30:45",
+      "speaker": "HARLOW",
+      "sentences": "Now. Negotiating now.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:35:04",
+      "speaker": "HARLOW",
+      "sentences": "OK.Let's move on to the issue of abortion.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:35:04",
+      "speaker": "BALDWIN",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:35:04",
+      "speaker": "HARLOW",
+      "sentences": "You are the lead sponsor of a bill. It's called the women's Health Protection Act of 2023. This is federal legislation to guarantee access to abortion everywhere in the country. The Supreme Court has a deadline, and that's 11If the Supreme Court does not rule in your -- in the view the Democrats want, and if it upholds a lower court, what actually can you do?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:35:04",
+      "speaker": "BALDWIN",
+      "sentences": "Yes, so let us, first of all, look at what that lower court did. It reversed an approval of a medication that was 23 years ago. The ruling was devoid of science. It appears clear to me that it is part and parcel of a hard right effort to ban access to abortion nationwide following the reversal of Roe versus Wade, which has left this issue to the states. And we must pass the Women's Health Protection Act and we have to build towards that time so that we are not either in a situation like we are in Wisconsin where our state has the oldest criminal abortion ban in the country. It was passed in 1849. And you didn't hear me wrong, 1849, a year after statehood. That is the law of the land in Wisconsin right now. So, on all fronts, including reversing this Texas judge, we have to work to regain the rights and freedoms that have been lost where we have half of America with fewer rights than their mothers and grandmothers right now.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:35:04",
+      "speaker": "HARLOW",
+      "sentences": "Your bill, I read through it, and you talk about viability -",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:35:04",
+      "speaker": "BALDWIN",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:35:04",
+      "speaker": "HARLOW",
+      "sentences": "And you talk about sort of what stage at with you think there should be guarantees for abortion in all states. Some Republican lawmakers say that Democrats almost encouraged late term abortions. This is something you addressed, later term abortions, in your bill.I want you to listen to what Senator Tim Scott, who looks very likely to be officially running for president, what he said on CBS last week. (BEGIN VIDEO CLIP) SEN. TIM SCOTT (R-SC): But what I've heard so far, and what I've seen in the Senate, aren't proposals but votes from the left trying to figure out how to continue their campaign towards late term abortions. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:35:04",
+      "speaker": "HARLOW",
+      "sentences": "I wonder what you say to that?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:35:04",
+      "speaker": "BALDWIN",
+      "sentences": "I just -- it's a total falsehood. And I think about, you know what's happening right now in the state of Wisconsin where, you know, a miscarriage has occurred and the standard course of care would be an abortion. But we are having women have to suffer through fever, sepsis before they can get the care they need. In fact, in some places it's like lawyers in hospitals are practicing medicine, trying to figure out whether somebody is -- their life is actually in danger or not to -- in order to permit the care to happen in our state.It is devastating where you have, you know, families with wanted babies, and there's a miscarriage, water breaks, some sort of tragedy, and they're not able to access the care they need to protect their health and their lives. And that should never be the case in America. We need to regain these rights and freedoms.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:35:04",
+      "speaker": "HARLOW",
+      "sentences": "Senator Tammy Baldwin, thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:35:04",
+      "speaker": "BALDWIN",
+      "sentences": "Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:35:04",
+      "speaker": "HARLOW",
+      "sentences": "It's nice to have you in the studio.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:35:04",
+      "speaker": "BALDWIN",
+      "sentences": "Thank you. It's good to be here.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:35:04",
+      "speaker": "HARLOW",
+      "sentences": "Appreciate it very much. Don.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:35:04",
+      "speaker": "DON LEMON, CNN ANCHOR",
+      "sentences": "All right, thank you.Crucial and creative efforts underway now to remove carbon from the sea and the air. We breathe. CNN's chief climate correspondent, Mr. Bill Weir, taking a sip of coffee over there. He's going to explain the whole story, next. Did you bring enough for the whole class?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:43:03",
+      "speaker": "LEMON",
+      "sentences": "Video of carbon emissions filling our studio right now. Look, it's all over. We've got video everywhere. Just like it fills the air we breathe. Scientists say that it is no longer enough just to cut back on fossil fuels the curb climate change. Instead, we have to pull billions of tons of carbon dioxide from the air over the next quarter century.In the latest episode of \"The Whole Story with Anderson Cooper\" airing this Sunday, CNN's chief climate change -- chief climate correspondent - I guess you can say change as well -- Bill Weir met up with some of the players in this trillion dollar race to remove carbon from the sea and sky, one that even uses artificial -",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:43:03",
+      "speaker": "POH",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:43:03",
+      "speaker": "LEMON",
+      "sentences": "Whale poop. Listen.(BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:43:03",
+      "speaker": "BILL WEIR, CNN CHIEF CLIMATE CORRESPONDENT",
+      "sentences": "One pod can gobble up nutrients from the deep and poop them across hundreds of square miles of ocean surface, supercharging the bottom of the food chain.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:43:03",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Within three to four days, in that area, you might have the whole area covered with fighter plankton. And then within five days of that, that whole area becomes full of fish.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:43:03",
+      "speaker": "WEIR",
+      "sentences": "And since the biggest can weigh 28 tons, when they die, they take massive amounts of carbon godzilla to the ocean depths and could be doing millions of dollars' worth of carbon removal for free.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:43:03",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "We would say whaling has to stop completely, but you can catch as much fish as you like because we're going to return the oceans to billions of fish in this process.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:43:03",
+      "speaker": "LEMON",
+      "sentences": "So, CNN's chief climate correspondent Bill Weir joins us now. And I was just saying to you is the thing, I live in a - an old whaling town. Sag Harbor is an old whaling town we're talking about.Listen, people, I -- people don't care what you call it, if it's artificial whale poop or whatever, does it help in the fight against climate change (ph)?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:01",
+      "speaker": "LEMON",
+      "sentences": "Before petroleum you know that they used to use whales for fuel.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:01",
+      "speaker": "WEIR",
+      "sentences": "That's right. That's it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:01",
+      "speaker": "HARLOW",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:01",
+      "speaker": "LEMON",
+      "sentences": "That's where the oil came from for --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:01",
+      "speaker": "WEIR",
+      "sentences": "We used to burn whales for light. Exactly.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:01",
+      "speaker": "LEMON",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:01",
+      "speaker": "WEIR",
+      "sentences": "And at a certain point we thought, maybe we should find something else.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:01",
+      "speaker": "LEMON",
+      "sentences": "Yes, we should find something else.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:01",
+      "speaker": "WEIR",
+      "sentences": "And then there's kerosene. And then there's gasoline. And now we're at that same moment.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:01",
+      "speaker": "LEMON",
+      "sentences": "That's right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:01",
+      "speaker": "WEIR",
+      "sentences": "But the fossil fuel interests are awful powerful. HARLOW",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:01",
+      "speaker": "WEIR",
+      "sentences": "No, that's it. None of these solutions matter. And I think a lot of environmentalists have hated the idea of carbon capture because the oil companies used it as a fig leaf to continue drilling and jumping and doing business as usual. It needs both. But the latest reports are, we've kicked this can down the road so long that there is now a trillion tons of excess carbon that has to be pulled out of the sea and sky. And that's train cars and guys in hard hats and shipping ports devoted to this. It's building the entire petroleum industry in reverse in record time. That's the challenge right now.But there's this unbelievable wave of innovation out there. And we just touched on a few dozen ideas in this special.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:01",
+      "speaker": "HARLOW",
+      "sentences": "Oh.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:01",
+      "speaker": "WEIR",
+      "sentences": "I came away with so much hoping and invigorated wonder.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:01",
+      "speaker": "HARLOW",
+      "sentences": "Good. Good.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:01",
+      "speaker": "WEIR",
+      "sentences": "A little less worry.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:01",
+      "speaker": "HARLOW",
+      "sentences": "Good. Wonder over worry for now.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:01",
+      "speaker": "WEIR",
+      "sentences": "For now.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:01",
+      "speaker": "HARLOW",
+      "sentences": "Bill Weir, we cannot wait to see it. Thank you and your team.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:01",
+      "speaker": "WEIR",
+      "sentences": "Thank you, guys.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:45:01",
+      "speaker": "HARLOW",
+      "sentences": "You can watch Bill's full report for \"The Whole Story\" this Sunday, 8",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:51:38",
+      "speaker": "HARLOW",
+      "sentences": "A big blow for the hometown fans of the Oakland A's. It's looking like the Major League Baseball team will be moving to Vegas in 2027. \"The Athletic\" reports that the team has agreed to buy land near the Vegas Strip, where they will build a new ballpark. The A's are set to join the other pro-teams that sin city now has. The Raiders famously left Oakland for Vegas in 2020. In 2017 they got an NHL team with the Golden Knights. And all of these moves, of course, involve big bucks.Harry Enten is dancing. He's also a senior data reporter.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:51:38",
+      "speaker": "LEMON",
+      "sentences": "You got to get the -- do the Elvis leg.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:51:38",
+      "speaker": "HARRY ENTEN, CNN SENIOR DATA REPORTER",
+      "sentences": "I can't do it. You can do it. You're much more -- I don't have dance moves, let's put it that way. I'll just say that.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:51:38",
+      "speaker": "HARLOW",
+      "sentences": "Do we know they're definitely going?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:51:38",
+      "speaker": "ENTEN",
+      "sentences": "We're not 100 percent sure that they're going, but it looks pretty likely at this point.And that brings us to this morning's number. And that is $19.5 billion, because part of the reason that they're perhaps leaving Oakland was that they couldn't really get the financing for the stadium, right? I think sort of the last straw was federal subsidies that didn't come through. But public financing of MLB and NFL stadiums, $19.5 billion since 1990. It's very possible that Las Vegas will, in fact, put some money in. And this is something that has certainly been climbing. So, this is the inflation adjusted public money for the median new MLB or NFL stadium. Look at this, in the 2020s, look how much, $750 million for the median stadium. That's up from 2010, up from 2000, and well up from 1990 when it was $281 million. And I think the question is, do these new stadiums actually generate an economic boom for the cities? Most studies say, uh-uh, no way. But, hey, they do help team owners make a lot of money.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:51:38",
+      "speaker": "LEMON",
+      "sentences": "Well, but how does the public feel about having to put money paid for stadiums?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:51:38",
+      "speaker": "ENTEN",
+      "sentences": "They do not like it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:51:38",
+      "speaker": "LEMON",
+      "sentences": "Oh.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:51:38",
+      "speaker": "ENTEN",
+      "sentences": "They don't like it. Sixty percent in the average poll are opposed. Just 26 percent favor. There's that 14 percent that don't know. But the clear majority are opposed.And keep in mind, even though I'm an avid sports fan, most folks aren't. Just 12 percent are. Most are either a casual fan at 43 percent, or 17 percent, they're not a fan. So, the fact is, I don't know why this -- why the cities keep doing this, guys.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:51:38",
+      "speaker": "LEMON",
+      "sentences": "That's a good question. That's a good question, right?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:51:38",
+      "speaker": "HARLOW",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:51:38",
+      "speaker": "LEMON",
+      "sentences": "Somebody do a report on it, like Harry Enten.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:51:38",
+      "speaker": "HARLOW",
+      "sentences": "Harry, thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:51:38",
+      "speaker": "LEMON",
+      "sentences": "Thanks, Harry.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:51:38",
+      "speaker": "ENTEN",
+      "sentences": "Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:51:38",
+      "speaker": "LEMON",
+      "sentences": "We'll be right back.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:58:26",
+      "speaker": "HARLOW",
+      "sentences": "Beneath the ocean coral reefs support a biodiverse community of marine life and protect our coastal areas, but these valuable ecosystems are threatened. This week's CNN Hero is committed to rebuilding coral reefs in the Florida Keys with the help of a community of divers. Meet Mike Goldberg.(BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:58:26",
+      "speaker": "MIKE GOLDBERG, CNN HERO",
+      "sentences": "Coral reefs, without them, nothing is here. Simply put, they are what it is that brings the ecosystem together.Sadly, I've watched us lose that coral reef and the disappearance of that diverse marine ecosystem.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:58:26",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "All right, (INAUDIBLE), are we ready?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:58:26",
+      "speaker": "CROWD",
+      "sentences": "Yes!",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:58:26",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "All right. Let's go down.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:58:26",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "But then, he says, you know what, I'm going to do something.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:58:26",
+      "speaker": "GOLDBERG",
+      "sentences": "I truly believe we're going to be successful with this restoration work.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:58:26",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "It is amazing how fast this coral is growing.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:58:26",
+      "speaker": "GOLDBERG",
+      "sentences": "I see things every time I go in the water that give me hope.I love being a part of it. I wake up every day and say, look what I get to do. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:58:26",
+      "speaker": "HARLOW",
+      "sentences": "For more on Mike's mission visit cnnheroes.com. While you're there you can nominate your hero.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:58:26",
+      "speaker": "LEMON",
+      "sentences": "He is a hero.Speaking of missions.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:58:26",
+      "speaker": "HARLOW",
+      "sentences": "What?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:58:26",
+      "speaker": "LEMON",
+      "sentences": "Our work is done for this week.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:58:26",
+      "speaker": "HARLOW",
+      "sentences": "Our work is done.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:58:26",
+      "speaker": "LEMON",
+      "sentences": "We accomplished - mission accomplished. Did you have a good week?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:58:26",
+      "speaker": "HARLOW",
+      "sentences": "I had a great week.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:58:26",
+      "speaker": "LEMON",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:58:26",
+      "speaker": "HARLOW",
+      "sentences": "I'm so glad that everyone was with us.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:58:26",
+      "speaker": "LEMON",
+      "sentences": "You have a good weekend planned?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:58:26",
+      "speaker": "HARLOW",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:58:26",
+      "speaker": "LEMON",
+      "sentences": "Volunteering with the kiddos. What else?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:00:00",
+      "speaker": "LEMON",
+      "sentences": "In these shoes?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:00:00",
+      "speaker": "HARLOW",
+      "sentences": "In these shoes, which I've kept on, which this schedule has made it hard to train for. So, I'm going to run-walk it. How's that?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:00:00",
+      "speaker": "LEMON",
+      "sentences": "Well, as long as you complete it. That's all that matters.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:00:00",
+      "speaker": "HARLOW",
+      "sentences": "Yes. I want to cross the finish line. That's it. What about you?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:00:00",
+      "speaker": "LEMON",
+      "sentences": "Thank you. That's it. I'm going to just eat, sleep and be merry.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:00:00",
+      "speaker": "HARLOW",
+      "sentences": "And we'll see you Monday. Kaitlan will be back.",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

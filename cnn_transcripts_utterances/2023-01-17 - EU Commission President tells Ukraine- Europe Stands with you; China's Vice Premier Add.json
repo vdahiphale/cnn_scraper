@@ -1,0 +1,733 @@
+{
+  "date": "2023-01-17",
+  "headline": "First Move with Julia Chatterley",
+  "subHeadline": "EU Commission President tells Ukraine: Europe Stands with you; China's Vice Premier Addresses Davos Amid Growth Slowdown; Intel CEO: We need Resilience in our Supply Chains; BNY Mellon's Unique Perspective on Corporate Sentiment; Idris and Sabrina Dhowre Elba Rewarded for Conversation Efforts; Idris Elba: Celebrity Advocacy can be Polarizing. Aired 9-10a ET",
+  "utterances": [
+    {
+      "timeStamp": "09:00:00",
+      "speaker": "JULIA CHATTERLEY, CNN HOST, FIRST MOVE",
+      "sentences": "A warm with me welcome to \"First Move\", I'm Julia Chatterley coming to you live this week from the WorldEconomic Forum here in Davos, Switzerland. It is the first in person winter with since the pandemic began three long years ago. And I've got to say perhaps I've forgotten slightly, just how cold it can get here in the Swiss Alps in January. But I am glad to be back and I'm reminded too, of how crucial this conference can be in defrosting key dialogue. On so many of the important issues we need to talk about, call it the miracle of meeting today's main events in Davos include a strong show of solidarity for the people of Ukraine amid the unspeakable suffering, they've endured during the Russian invasion. We're delivering a powerful warning here to delegates earlier today saying, \"We are facing the collapse of the world as we know it\". The Ukraine war at the root of much of what we're discussing at Davos this year, of course, too from Europe's energy crisis the world's energy crisis to worsening food insecurity, and fears of a global recession that permeate many of the conversations on panels and of course, behind the scenes too. The theme is cooperation in a fragmented world and we have to overcome underlying tensions in sectors like trade and technology in order to tackle ethics potential crises like climate change. The head of the IMF warning here today to that fragmented trade, including protectionism could cost up to 7 percent of global GDP. We'll discuss all these critical issues coming up on the show today with a number of really important guests. Intel CEO Pat Gelsinger will be joining along with us to talk recession risks, semiconductor demand and the U.S. move of course to subsidize domestic chip production and Europe don't forget. Plus, recession fears in the corporate sector Robin Vince, the CEO of being why Mellon discusses the mood among executives during this time of slowing growth and rising interest rates. Also, some applause please actor and producer Idris Elba and his activist and conservationist wife Sabrina two of this year's recipients of the West crystal awards will join us. Later to discuss their work helping to alleviate food insecurity and with war and of course, worsening climate change all of us here at Davos, also keeping one eye across the action on global markets. U.S. stocks set to open lower on this holiday shortened trading week Europe softer too after a mostly lower Asian handover. The key data during the session, China reporting today that its economy grew 3 percent in 2022 a huge drop from the 8.4 percent the year before is COVID lockdowns weighed, and for the first time in more than 60 years, China's population declined last year. Just one more factor in the slower growth narrative here at Davos more coming up on China too in just a moment. But hey, second applause please. Larry Madowo joins us now.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:00:00",
+      "speaker": "LARRY MADOWO, CNN CORRESPONDENT",
+      "sentences": "I'm applauding for myself.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:00:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "Our first person - too, let's talk about what's going on? It's going to be an exciting week, I think, for all these conversations, but forme, rising above some of the really dramatic challenges that the world economy has faced in the last 12 months, collaboration in a time of fragmentation. And I think Ukraine is obviously at the core of that and the unity in Europe, but so to again, the focus on climate change and the need to all work together.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:00:00",
+      "speaker": "MADOWO",
+      "sentences": "We've been hearing this word a lot Julia, poly crisis, right? But I think climate is really one of the major crises in terms of that polycrisis and all these other global emergencies we have. And today we heard from the EU's Ursula von der Leyen who talked about, you can't ignore China. And I think if we're talking about cooperation in a fragmented world, the worlds second largest economy is very much a central player in this globe. And she talked about other countries are doing a lot more investment, especially in clean tech and China leading that and instead of trying to completely decoupled from China, for the EU, there has to be a level playing field. But China could teach the rest of the world a lot about in clean tech, such as solar panels and electric vehicles. And she also complained a little bit quibbled that China is attracting a lot of energy intensive companies by giving them subsidies, promising low labor costs, very lacks regulation. These are things that were at the top of her mind and her address this morning.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:00:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "Should we take a listen to a little bit of that?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:00:00",
+      "speaker": "MADOWO",
+      "sentences": "We should this is actually Ursula von der Leyen, talking specifically to the First Lady of Ukraine, Olena Zelenska, who was here togive a special message, this is the EU's response. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:05:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "And Ukraine, obviously, the words of solidarity going to be again, crucial to the discussions that take place but I think also and it'stough the realization that everybody here recognizing and acknowledging, there's no end in sight. There's no obvious solution in this war and that complicates the picture for everyone.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:05:00",
+      "speaker": "MADOWO",
+      "sentences": "Absolutely, we're just a month away from the one-year anniversary since Russia's invasion of Ukraine. And I think in all the discussions youhear from policymakers from different global leaders, especially around the EU, there's a realization. This is now a long haul plan.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:05:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:05:00",
+      "speaker": "MADOWO",
+      "sentences": "And how does Europe deal with the especially the resulting energy crisis that this has led to?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:05:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "Yes, and Swiss change has to come. Larry, we'll talk more.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:05:00",
+      "speaker": "MADOWO",
+      "sentences": "Absolutely.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:05:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "Great to have you with us thank you so much, Larry Madowo there. All right, let's carry on, I'm with that, Ukraine's First Lady OlenaZelenska as you are hearing they're opening up the World Economic Forum, with that stark warning, saying if Russia wins its war in Ukraine \"We are facing the collapse of the world as we know it\" the First Lady, obviously using her speech to draw attention to the Russian strike on Dnipro, on that apartment building on Saturday. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:05:00",
+      "speaker": "OLENA ZELENSKA, UKRAINIAN FIRST LADY",
+      "sentences": "There is nothing off limits for Russia. As we speak, in our City of Dnipro, people are still working andsorting through the debris of a residential area of a house that was destroyed by an anti-ship missile. This missile was built to destroy aircraft carriers, and was used against the civilian infrastructure. This morning, we heard about 43 casualties. Since we started this forum, it grew to 43 casualties, these ordinary people at home on a Saturday, and that's enough reason for Russia to kill. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:05:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "And CNN's Fred Pleitgen joins us now from Dnipro. Fred, you know that I think the realization is you were probably just hearing thereis that this is in now for the long haul that there isn't a solution in sight. And this isn't the first time to the devastation of civilians being directly targeted in this war has taken place. How are things there?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:05:00",
+      "speaker": "FREDERIK PLEITGEN, CNN SENIOR INTERNATIONAL CORRESPONDENT",
+      "sentences": "Alright Julia, well, you're first of all, you're absolutely right. It was very interestingto hear to listen to Ukraine. So first lady there speaking because we can see so much of that on the ground here she was talking about that very powerful missile that hit this building. In fact, when you get out of your way, so you can actually see what that translates into, you can see that there is that gaping hole there now where that residential building used to stand. And again, what you're seeing there is the damage that was brought on the Ukrainian say, by one single missile that was designed to destroy aircraft carriers, with about 2000 pound warheads. So that's a lot of ordinance there and we've been seeing over the past couple of days, the carnage that was caused by that missile. The Ukrainians now say that the search and rescue operation has ended here on site to the death toll, as you mentioned, stands at around 44. There were four bodies that were pulled from the rubble earlier today, including the body of a child. So there are now four children that have been confirmed to have been killed. And the Ukrainians now packing up but some of the numbers that they've been giving us have been simply staggering. Considering that this was the work they say of just one missile, they said that they've cleared around 8500 tons of debris from here, just in the last 72 hours. They had a little bit of ceremony earlier to mark the end of the search and rescue operations where the rescuers themselves were honored. And they themselves then also paid respects to the many victims to the many folks who were killed here. And of course, also to the many people who were injured and who still remained in hospital. And one thing we have to point out as well, Julia is that there are still a lot of people who are also missing. So certainly that anger is very palpable in the grief, as well as we still now see people coming here with flowers, laying down flowers weeping and just simply still, you know, trying to come to terms with what transcended here? What happened here? Only three days ago, Julia.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:05:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "Fred, great to have you with us thank you so much for that Fred Pleitgen there joining us from Dnipro in Ukraine! In the meantime, China'sVice Premier has addressed the World Economic Forum after Beijing reported one of the weakest years of economic growth in decades. You have said opening up is one of the pillars of China's economic plans for 2023. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:05:00",
+      "speaker": "LIU HE, CHINESE VICE PREMIER",
+      "sentences": "Almost always promote all round opening up, opening up as a basic state policy. He is a catalyst of reform anddevelopment in China and a key driver of economic progress. China's door to the outside world will only open wider. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:10:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "This had odes of Xi Jinping here, what all those years ago? I mean, it's looking some of the comments here this opening up is statepolicy as a catalyst for reform and development in China it's going to be a key driver of economic progress. Some people think this is a planned economy but that's by no means possible that we want to support the private sector --.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:10:00",
+      "speaker": "MARC STEWART, CNN CORRESPONDENT",
+      "sentences": "There is a lot to unpack here, Julia. But let's just give the reality check of where we are in 2023. China has beenunder lockdown for a good two years, people did not move to or from China, we saw the impact of COVID on ports. So for all of those reasons, combined, we saw a decline in GDP, no surprise and now, this big call to open things up again. You know, some economists are actually very optimistic that a more open China now will help revive things, despite maybe what we have been hearing from the central government. Another thing though, I do want to touch on that was discussed earlier today was also the issue of China's aging population. People are choosing not to have children in China. Some families are getting married later that impacts fertility. And this all has an economic side to things because having a child in China right now is very expensive. So when you have a society that has been basically under lockdown, you have a population that is getting older, with no necessarily no next generation workforce in the pipeline for all of those reasons. There's reason why China wants to have people do commerce open up his border, so to speak, because the challenges are just that significant right now.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:10:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "Yes, it's such a great point, Marc, sometimes I don't think you have any choice, particularly when the message, particularly in the privatesector has been you've made yourself virtually an investable. And when you've got growth rates, like we saw in the past, what several quarters, something's got to give. We'll see, Mark Stewart, thank you for joining us there from Hong Kong. Now, China, of course, at the core of discussions here about the outlook for global growth the impact, of course, too have us curves on tech exports and what that means for the future, and whether governments can work together to meet some of the biggest challenges we as a planet face. Coming up next, we'll be speaking to the CEO of one of the biggest chip makers in the world, the CEO of Intel up next. Plus-- (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:10:00",
+      "speaker": "IDRIS ELBA, ACTOR",
+      "sentences": "the call of this world are not just looking for a handout, they're looking for investment.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:15:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "Welcome back to Davos, some of the world's largest chip makers have announced major investments in the United States and beyond. Ofcourse, this specifically, following last year's Chips Act the package passed amid a global chip shortage aims to boost U.S. semiconductor manufacturing with more than $50 billion worth of government support. Leading U.S. chipmaker Intel is building a new $20 billion facility in Ohio, and expanding factories in Arizona and New Mexico. But there is a big challenge, global economic slowdown and the prospect of course of recession too. Joining us now is Intel CEO Patrick Gelsinger, great to have you on the show as always.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:15:00",
+      "speaker": "PATRICK GELSINGER, CEO OF INTEL",
+      "sentences": "Thank you so much to be here, this is such a pleasure and what a beautiful place to do it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:15:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "We're not worried about that. We're just glad to be back. You know, it's interesting; we of course, have talked many times on the showabout the hopes for the chips Act. Now of course, it's done but it sorts of plays into one of the big themes here, which is short term decision making on what's right for the economy at this moment in your business, versus those long term strategic decisions. And that's true for you as everyone else. What are you thinking? What are you seeing in the numbers?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:15:00",
+      "speaker": "GELSINGER",
+      "sentences": "Well, you know, it's a tough economic environment in the near term, you know, COVID and China right? Ukraine and energy in Europe, youknow inflation in the U.S.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:15:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "Poly crisis?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:15:00",
+      "speaker": "GELSINGER",
+      "sentences": "Yes and you look across that as where's the good news? Where's the growth market? We can't find it anywhere. So on the one hand, hey, wehave to make some austerity moves to manage costs in that environment, but at the same time, right, we need to make long term investment.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:15:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "Right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:15:00",
+      "speaker": "GELSINGER",
+      "sentences": "Three quarter economic cycles cannot dictate five and six-year capital investment cycles. Wow, that's the wrong time zone. And if hey, ifI believe semiconductors, doubles, this decade, I got to make those investments now, you invest in a downturn so where as I said, in my last earnings call, it's hitting the brakes, and hitting the gas at the same time. And, you know, doing that in this tough economic cycle. You know, it's a challenge to be a CEO these days. And, obviously, as you said, some help from, you know, governments, we believe strongly in the public private partnership benefits of the U.S. chips act, and we haven't quite seen the money yet.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:15:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "I was impact to ask you that.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:15:00",
+      "speaker": "GELSINGER",
+      "sentences": "Your crisis now when Commerce's hands to do the final rulemaking for us to apply against those grants. We expect we'll see them this year.But hey, I'm investing, please throw up money, right, because we're assuming that those helped us make these massive investments.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:15:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "There's so much that I could pick up on in there, and you're saying $3 billion worth of cost cutting measures in 2025, up to $10billion, sorry, this year, up to $10 billion by 2025. Put that in context of the billions of dollars that you're saying, look, you have to spend because you have to focus on the longer term. Would it have perhaps been more cost cutting? Had you not been hopeful, having not yet received the support from governments but in the EU, let's be clear on the United States.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:15:00",
+      "speaker": "GELSINGER",
+      "sentences": "The cost cutting is largely driven by the economic cycles, right? And you know that's the thing that we're having to right size, ourbusiness. And at the same time, and obviously, I'm almost two years now as the CEO, when we took over this is a period of rebuilding the company and the restructuring. And in some ways, I sort of say, hey, this is causing us to do some of the things that we needed to do anyway, just a little bit faster, right?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:15:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:15:00",
+      "speaker": "GELSINGER",
+      "sentences": "You know and good companies survive tough cycles, great companies get better because of them.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:15:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "Invest into them.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:15:00",
+      "speaker": "GELSINGER",
+      "sentences": "And you know, I'm viewing this as, hey, this is just going to accelerate our transformation as a company. And I'm not backing away onebit on those long term investments, because hey, this is for the second half of the decade, and a couple of quarters of tough economic picture. You know, that can't set a decade long strategy, you got to invest into this cycle. We need the partnership with governments and of course, this rebalancing the geographically balanced, resilient supply chains, if we weren't learning one thing through the COVID crisis, and this multiyear journey that we've been on is we need resilience in our supply chains.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:20:00",
+      "speaker": "GELSINGER",
+      "sentences": "You know a little bit of competition, OK that's fine. But the real message is geographically balanced and you know if we were in U.S. andEurope in 1990, 80 percent of semiconductors are manufactured there. Today 80 percent are manufactured in Asia and few very locations with extremely high concentration. This isn't OK, right? We've said, the U.S. never voted to get rid of the industry. But the Asian governments voted to get the industry. And now all everything about the U.S. chips Act and the EU chips act is balancing leveling that playing field. So that good investment decisions can be made. You know, as we say, hey, if you're going to plunk $20 billion into Ohio, right? Huge commitments on our part, you got to take five years until we get the first penny of revenue, I better be competitive with the world markets, when I start producing or that's not good for Ohio, not good for the U.S. and not good for us. They must be competitive and that's everything that the Chips Act is about is creating a level playing field to allow us to compete in the global markets. And the U.S. making the most significant industrial policy statement since World War II, right you know, we just think this is profound. And we're just thrilled that we played a part in getting that done.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:20:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "This is the point where you look at the camera here and say to the U.S. government show me the Money.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:20:00",
+      "speaker": "GELSINGER",
+      "sentences": "Please Commerce Gina Raimondo; we're looking forward to this coming soon.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:20:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "You were just in Taiwan, as well, I was just looking for the quote, because it was quite poignant. You describe Taiwan's place in thetech industry is precarious.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:20:00",
+      "speaker": "GELSINGER",
+      "sentences": "You know, right now, you have so much of the companies, the supply chains, etcetera are going there, right? And as we've said, youknow, when you have so much concentration in one location, it's not good for anybody, right? You know, its small things become big things when that's the case, we need this geographically balanced resilience supply chains. And we have so many, you know, Taiwan is really the tech cup, right? We think of Silicon Valley that way, but Taiwan is such a jewel, an emerald of innovation. And now we need to have this balance of, you know, even those companies say, I need more balance in my supply chain.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:20:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "And it's also about the geopolitics. And we just had Liu He, the Vice Premier of China come here and say opening up it sort of strategyin 2023, reform, all those words that was sort of missing, at the turn of the year, was sort of what's your thoughts on that? And that comes back, I think, to the big questions here about whether we can globally come together to tackle things like climate change pumping money to emerging and developing markets that are going to fuel the concentration, the bulk of the energy growth in the coming years, can we rise above?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:20:00",
+      "speaker": "GELSINGER",
+      "sentences": "Well, clearly, that's the message of worth, right? Why, you know, coming here each year now for a number of years?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:20:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "It - gets criticized as well.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:20:00",
+      "speaker": "GELSINGER",
+      "sentences": "Yes but you know, the idea that, hey, we should have good dialogue. We're going to have differences, we're going to have competition,and you know, different forms of government and perspectives. But dialogue brings about better answers and that's why I've always appreciated this forum, because I'm not going to agree with you on everything. But we should talk about everything. And that's why this is so powerful. You know, we believe in the power of that, you know we're a global company; we have strong footprints in Europe. We're expanding here with our German project, and our Israel and Ireland facilities, hey, I have huge business in China and we have positions in Vietnam, Malaysia, and China for manufacturing. And of course, you know, we're a U.S. company with the heart of our R&amp;D manufacturing there. We're a global company and we need to have global dialogue. And that's the right way to attack the biggest problems that we have, you know, whether it's climate change, whether it's energy issues, whether it's the globalization of the most critical resource to the future of the world, where the oil reserves are defined geopolitics for the last five decades, where the technology supply chains are and where semiconductors are built, is more important for the next five decades. Let's build them where we want to enjoy.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:20:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "Yes and that technology is going to define energy security as well. They're all connected to your point as well. Is that why thenfrequently why you come to Davos? Because I'm going to ask everybody this year, like, why do you call them and raise the cold if it's held in the winter? Is it that connection?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:20:00",
+      "speaker": "GELSINGER",
+      "sentences": "Yes, it's that important to the world.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:20:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:20:00",
+      "speaker": "GELSINGER",
+      "sentences": "And, you know, coming here to talk about the world's most important projects. And you know, clearly I always joke I said, you know,it's a Byzantine conference center. It's miserable to get here the town is inadequate to host such an important meeting. But all the right people are here. That's why you come to Davos because the right people are here; you're discussing the right and the right topics in a global setting, right for the world. And I truly am an optimist about this. We will make the world a better place. And we believe in the power of technology to do that our motto that we're going to work with technology that improves the life of every human on the plane that's what Intel's about, and it matches the ethos of this place here at the World Economic Forum.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:20:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "Yes, we hope to do better and of course you come to see me.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:25:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "--Patrick Gelsinger great to chat to you thank you, the CEO of Intel there. All right coming up a solid start to the year for globalequities but lots of concern about market volatility ahead the CEO BNY Mellon, the oldest bank in America and provider of investment services to clients all around the globe gives us his take on the economic outlook and where the money's flowing. Robin Vince will be here right after this. Don't move a muscle stay with CNN. (COMMERCIAL BREAK)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:30:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "Does that reflect your mood? How concerned are you about the economic outlook and what are you seeing in terms of flows and numbers andthoughts?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:30:00",
+      "speaker": "VINCE",
+      "sentences": "Well, certainly our data and you're right to point out that we touch such a broad variety of financial instruments around the world. In fact, wetouch 20 percent of all the world's investable assets across all of our platforms.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:30:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "Its mind blowing.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:30:00",
+      "speaker": "VINCE",
+      "sentences": "Yes, it's a very significant number. And one of the things that our data shows us is that there are certainly some trends that have evolvedover the course of the past few weeks and months. So we had a lot of dollar strength over the course of 2022. And now we see signs that we could be seeing the dollar peaking in terms of its strength. We've also seen a lot of shorting of U.S. equities that has been the case through 2022. And some of that also seems to be abating a little bit. So there couldn't be some evolutions under the hood, we'll have to wait and see.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:30:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "So just for my - just to understand what that's perhaps suggesting is, we may have seen the lows in U.S. equities, and we may haveseen the peak in the U.S. dollar just to get a sense?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:30:00",
+      "speaker": "VINCE",
+      "sentences": "So it's hard to call the top or the bottom of anything.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:30:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "Of course.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:30:00",
+      "speaker": "VINCE",
+      "sentences": "We'd be doing different things. You definitely know the answer to those things.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:30:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:30:00",
+      "speaker": "VINCE",
+      "sentences": "But the Fed is executing a tough mission, to be able to really tamp down inflation in the U.S. all the while trying to keep the U.S. economy ona reasonably a level footing. And that does going to be a tough act for them to actually do.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:30:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "It's difficult to predict I know that's not the business. But recessionary, does it feel recessionary to you based on sort of data thatyou've collected in the past? And how that correlates to the future outcomes that we've seen, particularly in light of rising interest rates, which was making life tough for everybody, in addition to everything else that's going on in the world?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:30:00",
+      "speaker": "VINCE",
+      "sentences": "Well, on rates are economists think that there's this possibility that we'll actually see slightly higher rates in the U.S. than the marketscurrently pricing. Maybe 5 percent, maybe even slightly north of that, but also that we'll probably see rates last a little longer at those higher levels. We don't see the Fed cutting rates in 2023. But of course, all of this is super data dependent. I mean, we do touch all of these assets, we see what's happening with our clients, but our real job, and we've been around for 238 years. We are as you pointed out America's oldest bank, and we're helping our clients navigate through whatever the environment happens to be.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:30:00",
+      "speaker": "CHATTERELY",
+      "sentences": "I want to talk about workers too, because this is important for a couple of reasons. One, because you have said that look, you're going toresize the business slightly. It's around 3 percent, I believe of the workforce, and you can correct me if I'm wrong there. I want you to give me some context on what that means relative to what you did or didn't do during the pandemic? Because I think this is also very important when you're talking about perhaps doing some adjustments in the business today?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:30:00",
+      "speaker": "VINCE",
+      "sentences": "Yes. Well, we have a little over 50,000 employees worldwide. And we have a significant portion in the U.S. But we also are a global firm 40percent of our revenues actually come from outside of the U.S. And you're right that through the pandemic with all of the uncertainty and the incredible investment in resilience. That's so important in a firm like ours. We held faith with our people. And we really tried to avoid layoffs during that period of time. But one of the consequences of that was that even though we had a very solid year in 2022, navigating the uncertainty, our expenses grew a lot. And in fact, they grew over 5 percent in each of 21 and 2022. And so we really needed to make a commitment to bend the curve on that expense growth. And this is one of the difficult decisions that we've had to make in order to really put ourselves on the right footing for the next couple of years.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:30:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "Yes, it's tough for the individuals involved. But I do think in light of the context of what didn't happen in the loss, perhaps that youdidn't take during that period, during the pandemic it does put some perspective and shed different light I think on what's going on, particularly in terms of recession, risks and concerns today. Let's talk about BK shares, because what we often don't talk about, I think, is a need to more and it's certainly a subject that comes up every year here in Davos is aligning incentives with workers in the business. This is about giving ownership of the business to I think just about every employee. Talk to me about how this works, and why this was important for you in terms of the values, I think it'd BNY Mellon?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:30:00",
+      "speaker": "VINCE",
+      "sentences": "Sure. And it actually echoes with one of the themes of Davos this year, which is actually resilience. And so we took a look at our company,and what we really wanted to do to try to drive our franchise forward for the benefit of our clients. And one of the things that we noticed was that we didn't feel that our all of our employees felt fully vested as owners of the company, because they weren't owners of the company. But we wanted them to act like owners of the company. And so what better way than to make them owners of the company and so we announced BK shares at the end of last year, which was giving a small number of shares to every single employee in the company so that they would feel like owners, and then we could really drive the company forward together with that mentality.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:30:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "Yes, a thousand years ago, I worked at a bank and you certainly had to reach a significant level before you start to be given stock in thecompany. And certainly my judgment on this does make a difference?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:35:00",
+      "speaker": "VINCE",
+      "sentences": "And they said that as a result of that, they sat down with their family around the kitchen table. And they decided that they were going toactually approach investing in a slightly different way, because we've given them a pathway to actually be able to do it. So the power isn't just giving people the stock is actually promoting a culture of stock ownership. And everybody gets a brokerage account as a result of this initiative. And so we also put people on that better journey, and we're proud of that.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:35:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "It caught my attention certainly, some of that you've seen your own in Scotland, and I have to talk to you about this in light of recentevents in addition to the custodian of assets. You're sort of focused on future technologies, and specifically digital ledger technology. So the Blockchain part of what often comes under the umbrella of Crypto but Crypto and you and I've discussed this as of air is a small part of that. And you actually compared it to the shift from using paper sheets to technology and where would we be if we were still using paper today? You see power influence potential in Blockchain; even if it doesn't mean profitability or profits for the next several years, explain?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:35:00",
+      "speaker": "VINCE",
+      "sentences": "We do. Underlying digital assets is a very interesting technology. Blockchain as you said, and that powers the ability to tokenize assets,which is to take assets and to represent them in a more purely digital form. And we think that there's something there. And over the course of the coming years, we think we're going to see some real opportunity and our clients look to us to help them navigate through that journey. And so we've been very clear, we are the world's largest custodian. We are a pioneer in real time payments. We've been around for 238 years. We've seen through a lot of different evolutions of technology. And this is an important one, and we want to play it forward. And we think it's the right thing to do. So we're investing, but we may not get a return in the very short term.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:35:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "The message here I think is doing throw the baby out with the bathwater?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:35:00",
+      "speaker": "VINCE",
+      "sentences": "Crypto is not the same thing as digital assets. As you point out, it's a subset of it. Some people are very, very enamored by crypto assets,but part of a broader opportunity. And it's that broader opportunity that we're focused on.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:40:00",
+      "speaker": "CHATTERELY",
+      "sentences": "Come on join to read it. This is so exciting. It is just doing my - that she's doing a better job than me. Every year Davos - celebrities- this year it's just Elba and his wife Sabrina Dhowre, make sure I get it right. Both in the spotlight - beginning forgive me. And they're being recognized for a lot more than their sparkling careers across acting, producing, and a bit of modeling too, the couple of humanity in 2019, a dedicated conservationist. They're also Goodwill Ambassadors for the United Nations International Fund for Agricultural Development EFAB for short. And last night's they presented with the West Crystal Awards for the work on Monday. It has highlighted those suffering from the effects of both food shortages and of course, the impact of climate changes and investment is better than aid. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:40:00",
+      "speaker": "ELBA",
+      "sentences": "It takes stamina to try to stay the course, to the businesses keep investing in mitigating climate change. As Sabrina said, please invest insmall farms and the small to medium businesses that support. We have greater access to finance, to markets, to resources to technology, to knowledge, and to people. We can define a different future. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:40:00",
+      "speaker": "CHATTERELY",
+      "sentences": "It's such an important message. And I completely messed up the introduction and then how would you knew entirely responsive?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:40:00",
+      "speaker": "ELBA",
+      "sentences": "I've got read it. I just got to get it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:40:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "I never stumble around like that, congratulation. Welcome to \"First Move\"! Thank you for all the work that you're doing. And I wouldlove to start with you but I can't because I think we all fell a little bit in love with you yesterday when you gave your speech. And yes, humbled proud, grateful, you're shining a light on incredibly important support, investment help not aid in parts of the world that we don't talk about enough.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:40:00",
+      "speaker": "SABRINA DHOWRE, MODEL ACTRESS AND HUMANITARIAN",
+      "sentences": "Yes. And that's what felt so great about it, I think is to know that if our cars or our work wasbeing championed, then what else was being championed was also the work that we were doing. And to be able to speak in a room with the people that were in that room and to have the platform that was provided to speak about the causes that we've been speaking about, you know, for the past couple years and banging the drum for on that much of a public platform just means so much to us. And that was really the most humbling part, you know, the work speaks for itself I think anyone who is reaching out and trying to advocate something they're passionate about, the work will speak for itself. And I think that's what I'm really taking home with me after that.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:40:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "The numbers speak for themselves. $50 billion in Co-financing and funding this is loans and grants. This is helping people helpthemselves. 50 percent of recipients are women which I know you both feel very strongly about but it's important to help women in these circumstances as well and building their businesses. I mean, to be part of something like this, to shine the light on these people is huge?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:40:00",
+      "speaker": "ELBA",
+      "sentences": "Absolutely.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:40:00",
+      "speaker": "DHOWRE",
+      "sentences": "And that's what's so great about in the investment model is that you know, you can a there's a time and place for aid and everyone needs thesupport. But it generally short sighted in the sense that once it's gone so investment helping people have this sense of independence. And that's really what we're both passionate about.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:40:00",
+      "speaker": "ELBA",
+      "sentences": "Those are we got to get out of the crisis reaction model. You know, we've got to start future proofing and I think that's why we sort ofresonate with the practices of EFAB because they come in offer solutions and stay the course, and then go and replicate. And you know each one teach one model. So for us, yes Africa is ready for investment and partnership, strategic partnership. I think for investors, you know, private sector, it's an incredible opportunity to consider Africa to consider the youth there the growth that's coming as a viable place to invest into.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:45:00",
+      "speaker": "ELBA",
+      "sentences": "Even further than that, you know, during the pandemic, because we all know the food shortages, hate closer to home than we were all comfortablewith. And you know, there's no way to, you know, future proof that, again, without investing in the future. You know, we look at investment as a short term cycle. We want our yields back very quickly. But we've got to think about it very longer term. You know, you're not investing in your lifespan you're looking in your children's lifespan, in your business's future's lifespan. You know, and you're right. It's not a welcoming, you know, environment. People have issues at home. There was a food crisis, there was an energy crisis, and there was a financial crisis, why should we care? We should care because 80 percent of food comes from smallholder farmers. They go we all starve. And that's a cruel way of saying it, but it's true.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:45:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "Yes, the impact of climate change in these parts of the world as well. I mean, we talk about this in sort of grand schemes when we'rehere in Davos, but the impact on just one small farmer, and that accelerates and builds and builds, and that has a global impact on all the supplies?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:45:00",
+      "speaker": "DHOWRE",
+      "sentences": "Now, you know what people are failing to understand in the global north, you know, we're looking at this as something that's coming. But it'son the continent; it's at the doorstep of people who are waking up to a reality of climate change. I mean, you have drought, leading to famine, you know, and on top of that, there's conflict and a lot of these rural areas. They need adaptation investment today. And, you know, a lot of the times we feel this message isn't being heard, because it's being put to the backburner and rightly so. There are lots of problems at home; it makes sense that governments are prioritizing communities at home. But if we don't do these things in parallel, you're only putting these problems on the back shelf for now and they will creep back up again.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:45:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "Yes, and I know, it's important to both not just as a couple, because you feel very strongly about doing this together, but also becauseof your family's heritage and who you are, and your father's side in Sierra Leone, and Somalia as well for you, too. So that also, part of what's great about this is sort of?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:45:00",
+      "speaker": "ELBA",
+      "sentences": "There's also good news, you know, like it's a real motivator for young people. You know, farming isn't necessarily considered something thatkeeps young people cool--",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:45:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "Exactly.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:45:00",
+      "speaker": "ELBA",
+      "sentences": "You would be surprised that the startup industry in agriculture is impressive. Young people are looking at technology and figuring out ways tosolve problems. So there is a silver lining, you know, we're seeing a growing especially on the African continent, there's a growing young populace, and they want to work, and they want to figure out solutions. They're not looking for handouts. So it's a really interesting space.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:45:00",
+      "speaker": "DHOWRE",
+      "sentences": "And I hope that through our work, we can change the perception of people in rural areas, because you know, my mom always spoke about thepastoral lifestyle she had is one that was filled with beauty and work and entrepreneurship. And she felt proud of the work that her and her family did in those communities. And we see young people leaving urban areas and going back to rural areas because of hearing how successful their parents are in agriculture and that keeps us going.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:45:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "That's amazing. OK, I'm never going to be forgiven if I don't mention a couple of things. I believe the last time you were here, you wereDJ'ing. And it was back in 2014. There's a connection here at Coachella as well, which I believe you're playing as well this year. This is very exciting. Davos is a little bit different. This is a little bit different.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:45:00",
+      "speaker": "ELBA",
+      "sentences": "I know. I did the last time I was here was DJ. I think now's Rogers was here and Mary J. Bilge is here when I was DJ. It was a while back. Andnow I'm, you know, in a different space, you know?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:45:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "Oh, yes look where we are. Oh, there we go.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:45:00",
+      "speaker": "ELBA",
+      "sentences": "Is that me?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:45:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "Can you do that move again? He's like, absolutely not. This is amazing.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:45:00",
+      "speaker": "DHOWRE",
+      "sentences": "A Coachella?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:45:00",
+      "speaker": "ELBA",
+      "sentences": "Coachella is yes, I can't wait a second time.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:45:00",
+      "speaker": "DHOWRE",
+      "sentences": "I'm probably more excited.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:45:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "Do you - is that the input?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:45:00",
+      "speaker": "DHOWRE",
+      "sentences": "You know, he's very much so can you stay he--",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:45:00",
+      "speaker": "ELBA",
+      "sentences": "OK.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:45:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "You just - your wife?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:45:00",
+      "speaker": "ELBA",
+      "sentences": "Well--(CROSSTALK)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:45:00",
+      "speaker": "DHOWRE",
+      "sentences": "Sometimes I sneak in there.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:45:00",
+      "speaker": "ELBA",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:45:00",
+      "speaker": "DHOWRE",
+      "sentences": "--trying to press a button.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:45:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "He is really having the time of his life and maybe if you haven't seen interest the day, you that's passion right there.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:45:00",
+      "speaker": "ELBA",
+      "sentences": "I do love it. And I'm excited to go back to Coachella can't wait.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:45:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "You're in a great point in time, I think?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:45:00",
+      "speaker": "ELBA",
+      "sentences": "We feel very lucky. You know, receiving the award was a really nice highlight for both of us, because it does sort of sort of do that on theback, you know, good job and whatnot? But at the same time I realize, you know, celebrity advocacy can be polarizing, not everyone's into it. And it can be distracting if it's done badly. But also, you know, an award like that gives us the sort of engine to keep going. You know, we've got something to say that and we're not talking about something that everyone wants to talk about. You know, we're talking about something that people want to sweep under the carpet knowing seemingly cares about smallholder farmers, but we should really should.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:50:00",
+      "speaker": "ELBA",
+      "sentences": "All right, so it doesn't, Sabrina, thank you. Stay with us more to come.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:50:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "I'm losing my job.(COMMERCIAL BREAK)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:50:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "Welcome back! And sadly for you guys, it's me not Idris. Anyway, trade is critical to our global economy and the wellbeing ofbillions of people worldwide and those networks and delivery systems are also a vital tool for local businesses looking to expand and grow. And for one UK based store owner these networks have helped her family's coffee business thrive for generations. Eleni Giokos has the story in today's \"Global Connections\". (BEGIN VIDEO TAPE) ELENI GIOKOS, CNN HOST, GLOBAL CONNECTION (voice over): A tiny coffee shop in London packs a big punch. More than 80 different types of coffee beans line the shelves from every corner of the world. Places like India, El Salvador and Brazil to name a few.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:50:00",
+      "speaker": "MARISA CROCETTA, MANAGER, ALGERIAN COFFEE STORES",
+      "sentences": "This one is Peruvian coffee an organic Peruvian coffee. Its medium roasted. There is no right orwrong when it comes to coffee. Personally, if you find a coffee, and you enjoy it, then it's right. The secret is to make sure that the espresso is good and the milk isn't too hot. GIOKOS (voice over): Marisa Crocetta and her family had been running the Algerian coffee stores based in London's Soho for three generations.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:50:00",
+      "speaker": "CROCETTA",
+      "sentences": "I've been working here probably my entire life since I could walk.GIOKOS (voice over): The store first opened its doors in 1887 and got its name from its founder an Algerian gentleman who immigrated to the UK. It was then bought by Marisa's grandfather in the 1940s. Its global network of coffee, tea and confectionery suppliers have kept the business flourishing for more than a century.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:50:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Can I get two cappuccinos and black coffee please?GIOKOS (voice over): Coffee lovers gather here from around the world. And they come for more than just the global selection. Marisa says the stores house plans which are made out of different types of beans and spices are a big hit.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:55:00",
+      "speaker": "CROCETTA",
+      "sentences": "We've sent them to many of them an exotic place. The one that always rings true is we sent it to a gentleman and his address wasliterally Mr. Turtle Beach, Mauritius and that's it and it gets to him. That was his address Turtle Beach. GIOKOS (voice over): Even after all these years, Marisa remains motivated to follow her grandfather's footsteps.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:55:00",
+      "speaker": "CROCETTA",
+      "sentences": "This is like our home. We don't even see it work I see it as like I said my messy bedroom it's fine to me.(END VIDEO TAPE)",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

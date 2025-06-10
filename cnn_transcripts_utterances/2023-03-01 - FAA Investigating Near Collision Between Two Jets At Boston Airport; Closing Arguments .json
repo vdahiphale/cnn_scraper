@@ -1,0 +1,277 @@
+{
+  "date": "2023-03-01",
+  "headline": "CNN Newsroom",
+  "subHeadline": "FAA Investigating Near Collision Between Two Jets At Boston Airport; Closing Arguments Underway In Double Murder Trial Of Alex Murdaugh; Emergency Food Benefits End For 16M Families Today; Top Dems Demand Fox Execs Admit \"Outlandish\" Election Claim. Aired 3-3:30p ET",
+  "utterances": [
+    {
+      "timeStamp": null,
+      "speaker": "BILL WEIR, CNN CHIEF CLIMATE CORRESPONDENT",
+      "sentences": "Of course, the prescription for this is the same as it has been for generations to move away from the fuels that burn that are creating this blanket around the planet and heating up life as we know it. It also probably means pulling gigatons of carbon out of the sea and out of the sky to try to level this off and stop the ultimate horror show, which is tipping points that can't be stopped.So that's the latest numbers out of Antarctica. Hopefully, I'll bring you back some more positive stories about whales, our big friends in the deep. But until then, I'll send it back to you guys from the bottom of the world.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": null,
+      "speaker": "BIANNA GOLODRYGA, CNN SENIOR GLOBAL AFFAIRS ANALYST",
+      "sentences": "All right. It is the top of the hour on CNN NEWSROOM. Good afternoon, everyone. I'm Bianna Golodryga.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": null,
+      "speaker": "VICTOR BLACKWELL, CNN HOST",
+      "sentences": "I'm Victor Blackwell.We're beginning with another dangerous close call involving a commercial airliner on a U.S. runway. The FAA is now investigating. So here's what happened, Monday night, it's at Boston Logan Airport, a JetBlue flight and a private jet reportedly came within 565 feet of colliding. Just a week ago in Burbank, California, a Mesa Airlines flight had to abort its landing because a SkyWest flight was on the same runway.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": null,
+      "speaker": "GOLODRYGA",
+      "sentences": "There was also a close call between a FedEx cargo plane and a Southwest flight in Austin just last month. And in January, United passenger flight crossed the runway where a small Cessna plane was trying to land in Honolulu. Days before that, an American Airlines flight crossed in front of a Delta flight at JFK in New York.Now, this is all taking place as President Biden's nominee to lead the FAA sits down for his confirmation hearing and it hasn't exactly been smooth sailing for him. CNN Aviation Correspondent Pete Muntean joins us now. So Pete, if confirmed, he clearly has a lot on his plate.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": null,
+      "speaker": "PETE MUNTEAN, CNN AVIATION CORRESPONDENT",
+      "sentences": "Yes. No, permanent leader at the FAA, Bianna. And that's an issue because there's issue after issue facing the agency. Think back to earlier this year when the NOTAM system failed, causing a day wide ground stop at America's airports. Then there were the issues at Southwest Airlines that caused cancellations and delays in the thousands and now these issues on America's runways. Five of them so far this year.They're known as a runway incursion, and this latest one happened on Monday night in Boston, where the FAA says this JetBlue flight 206 was coming in to land on Boston Logan International Airport's runway four right, when on that crisscrossing runway, runway nine, a private Learjet took off in front of it. Now that's a problem because that Learjet was told to line up and wait on the runway for that landing JetBlue flight but instead took off, the FAA says, without having a clearance. Really shows the work that is cut out for the nominee to lead the FAA, Phil Washington. The issue here, according to senators who grilled him during his confirmation hearing today is that he just doesn't have much in the way of direct aviation safety experience. He has led the Denver Airport. He has also led public transit agencies. I want you to you to listen to him now as to how he classifies his experience. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": null,
+      "speaker": "PHILLIP WASHINGTON, FAA ADMINISTRATOR NOMINEE",
+      "sentences": "In running ground transportation units, I was not a train operator either. Aviation right now, we cannot think about doing things the old way. And so I think that a fresh perspective is needed, obviously, safety is number one.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": null,
+      "speaker": "MUNTEAN",
+      "sentences": "So a different approach. But the rules in aviation are really written in blood and we have seen these runway incursion incidents have fatal results. The NTSB says it's not investigating this incident just yet. The FAA says it will determine truly how close these airplanes came to one another. The latest data from Flightradar 24, the planes were separated by 565 feet.Just to put that into context, Victor and Bianna. We're talking less than two football fields. And at the speeds these airplanes were traveling, we're talking only seconds apart.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": null,
+      "speaker": "BLACKWELL",
+      "sentences": "Yes, Pete, we were playing the simulation on loop in the beginning of your report. And it's remarkable to see ...",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": null,
+      "speaker": "GOLODRYGA",
+      "sentences": "Oh, yes, stunning.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": null,
+      "speaker": "BLACKWELL",
+      "sentences": "... just how close it came to calamity there.Pete Muntean for us in Washington, thanks so much. CNN Transportation Analyst Mary Schiavo joins us now. She's the former Inspector General at the Department of Transportation. Mary, good to see you. Are these near collisions happening more often or we're just paying closer attention?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:05:04",
+      "speaker": "BLACKWELL",
+      "sentences": "So that's interesting, as you say, they have to do something. This could be - this category A, as you call them - this could be just a coincidental human error. But does it suggest that there's some technical deficit or everyone's just overwhelmed with the amount of traffic?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:05:04",
+      "speaker": "SCHIAVO",
+      "sentences": "No, there's - it's a combination, you make a very good point. Now, in a lot of these airports, for example, at JFK, there's been construction going on. And Boston, has a hotspot alert for several of its runways because you have intersecting runways and taxiways.It's curious that the fellow there considering for the FAA is coming from Denver - from Denver International Airport, because Denver was built specifically back when I was Inspector General with long, long parallel runways and high speed exits off the runways that don't cross other runways. And so the whole idea was to make these runway incursions and obviously, when they happen, when you have a collision, I like to say Category As are collisions without calamities without deaths. But when you have a real collision, they're very fatal. So new airports are built where it is virtually impossible, but because of all the various - there's equipment that helps alert the air traffic controllers, there's alarm systems, when an air - at some airports not all - when an airplane is crossing a taxiway and lining up instead of on a runway. So there's lots of equipment, but it doesn't seem to be working at some of these hotspots or airports where the taxiways cross the runways and literally there's a disaster waiting to happen.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:05:04",
+      "speaker": "BLACKWELL",
+      "sentences": "It's also good to remind people as we talk about these disasters, waiting to happen, that we're far safer on a plane than we are in a car and other modes of transportation as we're talking about these Category As, something I learned today from you, Mary, thank you.Let's talk about Phil Washington, the President's nominee to lead the FAA confirmation hearing today, military veteran, you brought up Denver International Airport, he's the CEO there, not a pilot and not much aviation experience before 2021. Does he need that? Is he a good fit for the FAA? What do you think?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:05:04",
+      "speaker": "SCHIAVO",
+      "sentences": "Well, I agree with his statement that they have to do something different and they have to do it - they have to look for new technologies, and they have to do something new and better than what they're doing, because the statistics are headed the wrong direction.However, having spent so long in the Department of Transportation and trying to oversee and audit the Federal Aviation Administration, the powers (inaudible) there, the entrenched bureaucracy will tend to eat him alive if he's not a pilot. Now, I was really lucky being IG because I was a pilot, and a lawyer and a prosecutor. But he doesn't have to be, there's no requirement that he is and there have been successful ones in the past that have not been pilots. But I think he needs a real intensive immersive program really to really studies up because some of these systems like the systems we were just talking about, it really does help to be a pilot and have actually experienced them. But now we can survive without it, but he's going to have a steep learning curve.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:05:04",
+      "speaker": "BLACKWELL",
+      "sentences": "All right. Mary Schiavo, always bringing us a wealth of experience and insight. Thanks so much.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:05:04",
+      "speaker": "SCHIAVO",
+      "sentences": "Thank you, good to be with you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:05:04",
+      "speaker": "GOLODRYGA",
+      "sentences": "All right. Happening now, closing arguments are underway in the double murder trial of Alex Murdaugh, the disgraced former South Carolina Attorney accused of killing his wife and son. Today jurors visited the estate where the murders happened spending about 30 minutes touring the property.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:05:04",
+      "speaker": "BLACKWELL",
+      "sentences": "CNN's Dianne Gallagher is outside the courtroom in Walterboro, South Carolina. So jurors they could begin deliberating - could begin today.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:10:04",
+      "speaker": "CREIGHTON WATERS, LEAD PROSECUTOR",
+      "sentences": "And that's the situation that was arriving in June of 2021 when he was at the scene with the victims, minutes before they died and lied to everyone who would listen.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:10:04",
+      "speaker": "GALLAGHER",
+      "sentences": "Now the state actually opened their opening statements back when the trial began acknowledging that the majority of their case is circumstantial evidence and so he did spend quite a bit of time at the beginning of his closing arguments, talking about what reasonable doubt actually mean, something I also expect the defense to talk about quite a bit in their closing arguments.Now, the beginning of the day, the jury actually took a trip out to the crime scene to the Murdaugh family property where the murders happened, Moselle. There was no media allowed when they were there, although both defense attorneys and prosecutors were there as well as Judge Newman. The jurors were not allowed to speak to anybody. But according to the media pool that got to tour the facility afterward, they said they did see jurors sort of standing around the dog kennels where the murders happen. Standing in the feed room door, one juror looking up at the door frame, that is where Paul Murdaugh was murdered. And so we're watching these doors, according to the pool sort of go around this property. The media pool described it as feeling almost haunted, but noted that there was no staining, no bloods still there on the property. The grass had kind of grown up and there was still signs of a family that used to once live there, instead of it now being a murder scene that many of the people who come out to this trial to watch and try to get inside every day who were these true crime fans have actually tried to go out there and see themselves. Now, Victor, Bianna, we talked about the fact that defense could be doing its closing arguments. That's all going to depend on the prosecution and how long he takes today. Either way, we are in the homestretch here. We are nearing the end of this double murder trial for Alex Murdaugh.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:10:04",
+      "speaker": "GOLODRYGA",
+      "sentences": "Yes, it was interesting that the pool reporter noted when they went out there to the estate, just the scale and the size of the land there.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:10:04",
+      "speaker": "GALLAGHER",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:10:04",
+      "speaker": "GOLODRYGA",
+      "sentences": "And it was just - they put into perspective, just what they were dealing with and why it took so long for responders to get there in the first place.Dianne Gallagher, thank you. Well, with us now it's criminal defense attorney, Bernarda Villalona. Thank you so much, Bernarda, for joining us. So one thing that stood out to me from what we heard from prosecutor Creighton Waters today in his closing comments here and its arguments was he said about - this about Murdaugh. He said, \"After an exhaustive investigation, there's only one person who had the motive, who had the means, who had the opportunity to commit these crimes and who also whose guilt conduct after these crimes betrays him. From what you've heard throughout this trial, do you think the prosecution was able to prove this beyond a reasonable doubt?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:10:04",
+      "speaker": "BERNARDA VILLALONA, CRIMINAL DEFENSE LAWYER",
+      "sentences": "Exactly. So we heard the start of these closing arguments, because I expect it to be a couple hours. So the prosecution has already emphasized to the jury that the only person that could have done this is Alex Murdaugh, because he had the motive, the means and the opportunity.Now in terms of have they proven their case beyond a reasonable doubt, yes, they put forward credible evidence. However, the defense has also been able to poke holes into the prosecution's case. I think it's going to come down to these closing arguments. And just remember this, closing arguments are not evidence, the purpose of closing arguments is for the prosecution to point out to the jury how they proven their case beyond a reasonable doubt, as opposed to the defense pointing out to the jury how the prosecution has not proven their case beyond a reasonable doubt and that they are multiple reasonable doubts in this case. So we'll have to wait and see until the conclusion of these arguments because it wasn't a concrete case to begin with.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:10:04",
+      "speaker": "BLACKWELL",
+      "sentences": "Yes. The burden, of course, is on the state. I mean, the defense didn't have to say or do anything, but of course they will and these closing arguments. I wonder if you're on the defense team here, what do you drive home in that closing?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:15:04",
+      "speaker": "BLACKWELL",
+      "sentences": "Bernarda Villalona, thank you so much.And be sure to tune in tonight for CNN Primetime: Inside the Murdaugh Murders Trial. It starts at 9 pm right here on CNN. Millions of families are about to lose the food aid boosted during the pandemic. We'll have more than that just ahead.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:20:22",
+      "speaker": "BLACKWELL",
+      "sentences": "The first day of March brings a new daunting stress for 16 million families across 32 states, the end of extra money for food first given out during the pandemic to lower income households.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:20:22",
+      "speaker": "GOLODRYGA",
+      "sentences": "This map from a nonpartisan think tank shows families in some states the ones in the darkest purple will lose as much as $213 a month in food aid.CNN's Gabe Cohen the story. (BEGIN VIDEOTAPE) (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:20:22",
+      "speaker": "MICHELLE RICKETTS, SNAP RECIPIENT",
+      "sentences": "... got a lot of those.(END VIDEO CLIP) GABE COHEN, CNN CORRESPONDENT (voice-over):   Michelle Ricketts stocked up her Pittsburgh pantry in February, knowing this month buying food will be much tougher. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:20:22",
+      "speaker": "RICKETTS",
+      "sentences": "I should be good till April.(END VIDEO CLIP) COHEN (voice-over):   The 63-year-old is on food stamps, part of her fixed income, but she says her monthly SNAP benefit is about to go from $277 a month to $23. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:20:22",
+      "speaker": "RICKETTS",
+      "sentences": "I'm going to be struggling.(END VIDEO CLIP) COHEN (voice-over):   Wednesday marked the end of a pandemic hunger relief program. Emergency SNAP benefits passed by Congress at the start of COVID expired for more than 16 million U.S. households in 32 states and D.C., where they were still in place. On average, SNAP recipients will lose $98 per month, and some households, like Ricketts, could lose more than 250 as the program returns to its pre-pandemic totals. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:20:22",
+      "speaker": "ELLEN VOLLINGER, SNAP DIRECTOR, FRAC",
+      "sentences": "It is going to be a big impact. We don't believe that they have a financial cushion based on everything we know about these households.(END VIDEO CLIP) COHEN (voice-over):   These benefits kept 4.2 million people out of poverty, lowering child poverty by 14 percent, according to the Urban Institute. Inflation on much more than food continues to strain Americans. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:20:22",
+      "speaker": "RICKETTS",
+      "sentences": "We're going from 131 to 228. I don't even know how that happens.(END VIDEO CLIP) COHEN (voice-over):   Michelle is behind on her surging power bills. She postponed her dog's vet appointment to save money. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:20:22",
+      "speaker": "RICKETTS",
+      "sentences": "I'm just feeling some anxiety about how - what cuts I'm making and where. I'm sure I'll be going to the food bank.(END VIDEO CLIP)   COHEN (voice-over):   In a survey, roughly three quarters of U.S. food banks reported that ending these benefits is already driving up demand as donations drop and food costs surge. (BEGIN VIDEO CLIP) COHEN (on-camera):   Are you worried about keeping up with demand? LISA SCALES, GREATER PITTSBURGH COMMUNITY FOOD BANK, PRESIDENT &amp; CEO: We are worried about keeping up with demand. (END VIDEO CLIP) COHEN (voice-over):   Lisa Scales heads the Greater Pittsburgh community food bank, which was $2 million over budget in the second half of last year before the SNAP cuts. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:20:22",
+      "speaker": "SCALES",
+      "sentences": "We're expecting to see a dramatic increase in the number of people we serve each month.(END VIDEO CLIP) COHEN (voice-over):   Like Jodie Sprinkle (ph), a single mom waiting to find out how much her SNAP benefits will drop. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:20:22",
+      "speaker": "JODIE SPRINKLE, SNAP RECIPIENT",
+      "sentences": "It's going to hurt. That's one thing, it's going to hurt.(END VIDEO CLIP) COHEN (voice-over):   In some states, these nonprofits say they may have to ration food or limit selection so there's more to go around. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:20:22",
+      "speaker": "SCALES",
+      "sentences": "If our network can't meet the demand, it means that more and more kids will go to bed hungry. Seniors will struggle.(END VIDEO CLIP) (END VIDEOTAPE) COHEN (on camera):   Now, the government funding package that ended these benefits did create a summer meals program for roughly 30 million children, so that will help a lot of families. But Victor, Bianna, there are experts right now warning about a potential hunger cliff that's going to drive up food insecurity and potentially drive more people into poverty.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:28:28",
+      "speaker": "GOLODRYGA",
+      "sentences": "Now to the latest revelations in the lawsuit against FOX News and new calls for accountability. In a letter to FOX executives this morning, top Democrats are demanding that anchors be told to stop spreading election misinformation and admit on air that they were wrong for doing it in the past.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:28:28",
+      "speaker": "BLACKWELL",
+      "sentences": "CNN's Oliver Darcy is here.Any response from FOX, any of the executives?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:28:28",
+      "speaker": "OLIVER DARCY, CNN SENIOR MEDIA REPORTER",
+      "sentences": "I wouldn't hold your breath waiting for a response from FOX on this one. They've actually been pretty silent when I've been asking questions over the past couple - 24 hours or so about the issue of accountability, because FOX News is owned by FOX corporation which is a publicly traded company.And so now there are questions about what the FOX board's responsibility is here to make sure that the company is not getting exposed legally like the way they have as because of the way they pedal election lies. And so now you've seen this $1.6 billion lawsuit from Dominion. You've seen a $2.7 billion lawsuit from Smartmatic. There are questions about accountability, why the company was allowed to be legally exposed like this. And I was talking to a renowned Yale professor, Jeff Huntingburg (ph) yesterday and he was telling me - Sonnenfeld, sorry - he was telling me that there is a responsibility from board members to shareholders to make sure that this sort of thing doesn't happen. We have some audio of Paul Ryan - Paul Ryan is now - he's on the board of FOX and he's facing questions. Let's listen to that.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:28:28",
+      "speaker": "BLACKWELL",
+      "sentences": "Okay.(BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:30:03",
+      "speaker": "CHARLIE SYKES, AMERICAN COMMENTATOR",
+      "sentences": "Right, I understand.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:30:03",
+      "speaker": "RYAN",
+      "sentences": "So I have a ...",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:30:03",
+      "speaker": "SYKES",
+      "sentences": "But do you?   RYAN",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:30:03",
+      "speaker": "SYKES",
+      "sentences": "So ...",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

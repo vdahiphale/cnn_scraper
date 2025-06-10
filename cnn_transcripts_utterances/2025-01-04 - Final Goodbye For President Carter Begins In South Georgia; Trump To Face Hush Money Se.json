@@ -1,0 +1,601 @@
+{
+  "date": "2025-01-04",
+  "headline": "CNN This Morning",
+  "subHeadline": "Final Goodbye For President Carter Begins In South Georgia; Trump To Face Hush Money Sentencing Days Before Inauguration; Judge Says Trump Will Faces No Penalties In Hush Money Case; Speaker Johnson Keeps The Gavel Without A Vote To Spare; Las Vegas Suspect: Explosion \"Intended As Wake-Up Call\"; Doorbell Cam Video Shows New Orleans Suspect Prepping For Attack; U.S. Surgeon General Warns Of Link Between Cancer And Alcohol. Aired 7-8a ET",
+  "utterances": [
+    {
+      "timeStamp": "07:00:00",
+      "speaker": "DANNY FREEMAN, CNN ANCHOR",
+      "sentences": "Good morning and welcome to CNN THIS MORNING. It's Saturday, January 4th. I'm Danny Freeman in for Victor Blackwell.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:00",
+      "speaker": "AMARA WALKER, CNN ANCHOR",
+      "sentences": "January 4th, 2025. Happy New Year!",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:00",
+      "speaker": "FREEMAN",
+      "sentences": "Happy New Year to you, Amara.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:00",
+      "speaker": "WALKER",
+      "sentences": "Good to have you back. I'm Amara Walker and here's what we are working on for you this morning. Remembering President Jimmy Carter.In just hours, the former president will leave his hometown of Plains, Georgia for the last time as he begins his final journey to Atlanta and then ultimately Washington, D.C. We will go in-depth on his enduring legacy of service to the nation and the world.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:00",
+      "speaker": "FREEMAN",
+      "sentences": "Plus, days before he is set to return to the White House, President-elect Donald Trump will be sentenced in that New York hush money case. We break down the new developments with our legal analyst coming up ahead.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:00",
+      "speaker": "WALKER",
+      "sentences": "And House Speaker Mike Johnson is keeping the gavel after a dramatic razor thin win last night. How the narrowest House majority in nearly a century is already shrinking even more.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:00",
+      "speaker": "FREEMAN",
+      "sentences": "And we have the chilling messages left behind by the decorated active-duty soldier who blew himself up in a cyber truck outside of the Trump Hotel in Las Vegas.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:00",
+      "speaker": "ALLISON CHINCHAR, CNN METEOROLOGIST",
+      "sentences": "And also, we've got snow, ice, and even potential tornadoes in the forecast. We'll break down the timeline for all of this coming up.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:00",
+      "speaker": "FREEMAN",
+      "sentences": "Today begins six days of tributes to the life and legacy of former President Jimmy Carter. The public observances begin and end where it all started for Jimmy Carter, in rural South Georgia.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:00",
+      "speaker": "WALKER",
+      "sentences": "This is a live look from America's Georgia near where Carter lived most of his life. This is outside the Phoebe Sumter Medical Center. Carter's motorcade will travel through his hometown of Plains, Georgia, before traveling to Atlanta this afternoon.There will be a pause for a moment of silence at the Capitol, where he once served as state senator and Georgia's governor. Now, his body will be brought to the Carter Center in Atlanta, where flowers and cards have been left, many of them, since his death. It will then be moved to Washington, ahead of a state funeral for him on Thursday. Mr. Carter, a Democrat, served one term as the 39th president from 1977 to 1981. He became the oldest living former president when he surpassed the record held by the late George H.W. Bush in March 2019. Carter died on Sunday at the age of 100.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:00",
+      "speaker": "FREEMAN",
+      "sentences": "CNN's Eva McKend joins us now from Plains, Georgia. Eva, Carter's presence still looms large over that tiny town.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:00",
+      "speaker": "EVA MCKEND, CNN CORRESPONDENT",
+      "sentences": "It sure did, Danny. It was perhaps the most consequential personal decision that he made to return to Plains post-presidency to this town of just a few hundred people. And all week long, we've been speaking to residents here, sharing their Jimmy Carter stories. We would hear things like, he attended my grandfather's funeral, or when I was sick, he came to visit me, to pray for me. Or they would see him at food pantries, participating in food distribution. So, that is how he lived his life for so many decades, and that is how he will be remembered. Take a listen to how the people who knew him best are thinking about this moment.(BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:00",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "One time I looked up and President Carter actually was carrying a chair out the back door of my house. I said, what are you doing? He said, it was broken, I'll bring it back in the morning. 7",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:00",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "Wow, how old was he when he did this?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:00",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "Oh, that was maybe 10 years ago, so 90.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "He and I had a chance to say goodbye a while back, and we knew this time was coming. Um, and he knows how much I love and respect he and Rosalynn, um, and he let me know how much he loved and respects me. I'm at peace with that because I know he was at peace with it. But does it leave a void for me? It leaves a void, but that void is all filled with so many wonderful memories and opportunities that he provided me.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:00",
+      "speaker": "MCKEND",
+      "sentences": "And Danny Amara, I'll leave you with this. This is a relatively conservative area of Georgia. There are people here in Plains with all types of politics, but the residents here tell me that the Carters, it was more important to them what type of person you were more than your politics. So, that is how they are remembering him today. The motorcade will pass through Plains, and that is when people will have the opportunity to line the streets to say their final goodbyes. Danny, Amara.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:05:10",
+      "speaker": "PAIGE ALEXANDER, CEO OF CARTER CENTER",
+      "sentences": "President and Mrs. Carter were very intentional about their funeral plans and coming back to Atlanta, which was truly his home away from home, at the Carter Center, you know, in the place where they would spend one week every month for 40 years was very important to him. So, we're honored to have him lay in repose with us for a few days.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:05:10",
+      "speaker": "FREEMAN",
+      "sentences": "Of course, you had a relationship with Mr. Carter, with the former president, in those meetings, I imagine, what's your memory of him as a man today?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:05:10",
+      "speaker": "ALEXANDER",
+      "sentences": "You know, for me, he was probably one of the most consequential presidents or the most consequential president in my lifetime. And to be able to have the humanitarian work that he did for 40 years after his involuntary retirement from the White House was something that I think everybody at the Carter Center really feels that we learned at his feet. And that is something that we're very grateful for.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:05:10",
+      "speaker": "FREEMAN",
+      "sentences": "You know, along those lines, you've had, President Carter passed away last Sunday. You've, I imagine, been in a whirlwind week since then. Since you've had a moment since his passing, what has been on your mind most about the former president's legacy?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:05:10",
+      "speaker": "ALEXANDER",
+      "sentences": "You know, his honesty and integrity and sincerity, really, it was in every part of his life. He did spend four years in the governor's mansion here in Atlanta and four years in the White House. But having spent four years setting up the Carter Center and seeing villages at the end of the road in Sudan and Chad that look like his villages and plains, he really lived his life how he wanted to. He wanted to touch the same people as he grew up with. And so, that's really the legacy that we get to carry on.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:05:10",
+      "speaker": "FREEMAN",
+      "sentences": "Talk to me a little bit more about what you view as the role of the Carter Center now moving forward. Does it seem as though the work that you and the Center does is even more important to carry on this legacy of service around the world?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:05:10",
+      "speaker": "ALEXANDER",
+      "sentences": "Absolutely. I mean, the North Star that President and Mrs. Carter set up for global health and the work on neglected tropical diseases, as well as all of our work on monitoring elections around the world and doing conflict resolution, those are things that he did with his voice. And as the experts at the Carter Center, we'll continue that. And I think when we walk into countries, it is amazing how many people have stories about Jimmy Carter.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:05:10",
+      "speaker": "FREEMAN",
+      "sentences": "Yes, I mean, that's been one of the joys of the past week. Like I said earlier to you, I live in Philadelphia, and when you're in these different cities across the country, local news, they do stories of talking about these big issues, and former President Carter had an impact in Philadelphia. He had an impact in so many different cities across the country, across the world. What has it been like hearing from so many people over the past week?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:05:10",
+      "speaker": "ALEXANDER",
+      "sentences": "You know, we forget he was our colleague. He and Mrs. Carter would walk through the halls holding hands and that, that was something that we knew of him, but to see the outpouring of condolences, we have over 14,000 condolences on our JimmyCarterTribute.org site from 130 countries. I mean, people, he really touched so many people. And in front of the Carter Center, you can see people have left peanuts, they've left notes and cards and pictures of them shaking his hand in the airplane. So, he really touched so many people. And for us, that's been, you know, we forget he was ours, but he was a lot of people's.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:05:10",
+      "speaker": "FREEMAN",
+      "sentences": "A lot of people's and I've been to the Carter Center and it's beautiful the way that you continue to share his legacy and his story that really does it feel like a bygone time of politics to have when you look back at what Jimmy Carter's life and experience was?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:05:10",
+      "speaker": "ALEXANDER",
+      "sentences": "You know, so I, I've worked in the political arena for a long time I've worked for almost every living president right now. And to know that President Carter and Gerald Ford used to debate and talk about, you know, my distinguished opponent and I disagree. That was a bygone era. That's not how we run the world now. And I think hopefully the next set of days of celebration of his life will bring people back to that place where there can be a moral compass and there can be civility in some of our conversation. And so, that's what I'm hoping his legacy means to other people as well.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:05:10",
+      "speaker": "FREEMAN",
+      "sentences": "I certainly hope so. And again, just so many events beginning today, starting, of course, here in Georgia over the next couple of days. Thank you for sharing a little bit of him and yourself with us this morning.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:05:10",
+      "speaker": "ALEXANDER",
+      "sentences": "Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:05:10",
+      "speaker": "FREEMAN",
+      "sentences": "I really do appreciate it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:05:10",
+      "speaker": "WALKER",
+      "sentences": "All right, still to come, Donald Trump will face sentencing in his New York criminal trial just 10 days before he officially takes office, but what punishments lie ahead, if any, for President-elect Trump?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:05:10",
+      "speaker": "FREEMAN",
+      "sentences": "Plus, Mike Johnson wins his battle to hold on to the top spot in the House, but it did not come without some warning signals from a few GOP hardliners for his road ahead.[07:10:05] WALKER: And new footage helps piece together a timeline of the New Orleans terror attack and the hours before the suspect plowed through a Bourbon Street crowd. (COMMERCIAL BREAK)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:05:10",
+      "speaker": "WALKER",
+      "sentences": "A judge in New York has upheld Donald Trump's conviction on 34 felony counts in the Hush Money case and set sentencing for next week. That's just days before his inauguration, and it means Trump will be the first convicted felon to serve as the President of the United States.Joining us now, CNN Legal Analyst Michael Moore to explain all of it. Michael, let's start here. What was your takeaway from this cascade of rulings that came down this week?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:15:04",
+      "speaker": "WALKER",
+      "sentences": "Do you think the Trump team is going to try to get this conviction still thrown out?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:15:04",
+      "speaker": "MOORE",
+      "sentences": "I don't think there's any question they will. And the argument will be, because of the Supreme Court's immunity ruling and the fact that they said some things would not be presented or should not be presented as evidence in a case that a president might do. Some of that information did come in in this trial. It was a little scant, but some of it did come in.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:15:04",
+      "speaker": "MOORE",
+      "sentences": "And the question would be whether or not that evidence tainted the rest of the case and tainted the conviction in the case. If an appellate court decides that it did, then I think the conviction is good.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:15:04",
+      "speaker": "WALKER",
+      "sentences": "And just to follow quickly, then what happens on this January 10th sentencing then? I mean, is it just a formality? I mean --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:15:04",
+      "speaker": "MOORE",
+      "sentences": "It pretty much is a formality. You know, it's a little funny because the judge went ahead and said look, I took the arrows out of the quiver for Trump's team saying you don't have to be here, we're not going to take a lot of time. I'm not going to put you in jail Nothing's going to happen to you. Let's see, you could just get on the Zoom link, I'm going to say thank you. You've been convicted by a jury. The court imposes sentence, gives you an unconditional discharge meaning there's nothing that happens to you. No jail. No probation No, nothing, but we allow it We just closed the book on this case, and I think that's pretty much all that will happen on that day.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:15:04",
+      "speaker": "FREEMAN",
+      "sentences": "Michael, can you help me understand? I mean, it's a sentencing and already we know no punishment. I mean, is this justice? I mean, what are we looking at here?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:15:04",
+      "speaker": "MOORE",
+      "sentences": "Well, I mean, it's unusual. Judges really don't do it. And even this judge was careful in his order to say, you know, I'm not trying to prejudge, but essentially to take away the argument that somehow the form, the president elect may be in jeopardy of going to jail, I'm going to tell you I'm not going to do that.So, most of the time, judges will say, I'm not going to prejudge the case, I'm going to listen to everybody at the sentencing hearing where everybody has a right, both the defendant and the state, has a right to be heard and make argument. And then, I'll make a decision here. He said, nothing's going to happen here, but we do need to bring some closure. I've considered the opinions of the court, I've considered the DOJ memos, I've considered sort of this policy and this factor, these 10 factors I need to go through to make a decision. And I've decided that really we just need to bring some finality here, respect the jury verdict and at the same time give the President-elect, if he wants to, the ability to go ahead and move through the appeals process because this was a final decision in the case.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:15:04",
+      "speaker": "WALKER",
+      "sentences": "It wasn't that long ago that we were talking about Trump facing four criminal cases. Are we now at the end of wrapping all this up, you know, especially with Jack Smith dropping those two federal cases, you have Fanni Willis, who an appeals court, you know, disqualifying her from that case. So, is this pretty much the end, besides a few appeals on this?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:15:04",
+      "speaker": "MOORE",
+      "sentences": "I think we're really at the end. I don't think there's, I don't think the greatest surge in the world could revive these cases, frankly, at this point. I mean, we're in a place where the only case that has some possibility of moving around would be the Georgia case, because technically that whole case has not been dismissed. You've just seen the D.A. disqualified in there. So, I mean, theoretically, the prosecuting attorney's counsel can find another district attorney that wants to take the case and is willing to put the resources and time into it and move forward. You still then would have the same arguments about whether or not there's some immunity, you know, what evidence should come in. You'd go through motions to dismiss again. I really think when you look at it, the cleanest call is to say these cases are over and the President-elect's efforts to delay, delay, delay have paid off. Whether that's justice or not, that may be another question, but that frankly is where we're at.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:15:04",
+      "speaker": "FREEMAN",
+      "sentences": "It's wild that we spend so much time speaking about all of these cases, like you noted, for many years really, and now they all will essentially die with a whimper at this point. MOOREAnd to take the amount of time either to appoint a special counsel or to ultimately bring charges. I think that that could have been brought a little bit quicker, but you know that's, that's hindsight's 20-20.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:15:04",
+      "speaker": "WALKER",
+      "sentences": "I remember you saying that though at the time, right? So you had also foresight it seems.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:15:04",
+      "speaker": "FREEMAN",
+      "sentences": "Michael Moore, thank you so much as always for breaking it all down.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:15:04",
+      "speaker": "MOORE",
+      "sentences": "Great to be with you. Happy New Year.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:15:04",
+      "speaker": "WALKER",
+      "sentences": "Happy new year, by the way!",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:15:04",
+      "speaker": "MOORE",
+      "sentences": "Happy new year!",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:15:04",
+      "speaker": "WALKER",
+      "sentences": "Good to see you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:15:04",
+      "speaker": "FREEMAN",
+      "sentences": "All right, still ahead. House Speaker Mike Johnson survives a razor-thin vote to hold on to the gavel with a little help from the President-elect. What it all says about the road ahead for Trump's ambitious plans.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:15:04",
+      "speaker": "WALKER",
+      "sentences": "Also, what we're learning about the life of the man who blew up the Cybertruck outside of Trump's Las Vegas hotel and the notes he left behind leading up to the New Year's incident.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:25:14",
+      "speaker": "SHELBY TALCOTT, CNN CORRESPONDENT",
+      "sentences": "Yes, you know, I've talked to other lawmakers who have also said that they that he didn't make any concessions. But listen, I thought it was really interesting that before the vote went down, Mike Johnson out on X with a long tweet, basically saying that he was going to commit to all of these fiscal responsible items.And so while that is not necessarily a concession, he clearly did talk to these lawmakers and listened to their concerns and most likely said, listen, we're going to try to get XYZ done. And that sort of was able to, it was enough for some of these lawmakers. Now, whether or not he made any deals specifically, he says he did not. And other lawmakers say he did not. So, we kind of have to take them at their word.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:25:14",
+      "speaker": "WALKER",
+      "sentences": "And this is just the beginning, literally, right, for the 119th Congress. Johnson faces a huge challenge. He's going to have to navigate this really narrow House majority, the narrowest in nearly a century. Members of the ultra-conservative Freedom Caucus released a statement after the vote saying this. Today, we voted for Mike Johnson for Speaker of the House because of our steadfast support of President Trump and to ensure the timely certification of his electors. We did this despite our sincere reservations regarding the Speaker's track record over the last 15 months. That is a warning, isn't it? I mean, what will the right-wing be demanding? Is it big budget cuts and how will that play?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:25:14",
+      "speaker": "TALCOTT",
+      "sentences": "Absolutely. I mean, the right wing is demanding that Mike Johnson go ahead and implement Donald Trump's agenda, whether that is closing the border, implementing more tax cuts, rolling back some of the Biden administration initiatives. They want Mike Johnson on board entirely. And part of the reason that this right wing flank got frustrated with Mike Johnson was remember at the end of last year, just a few weeks ago, Mike Johnson was not able to get Donald Trump's core demand in that spending bill of addressing the debt ceiling. And so, that frustrated not only Donald Trump, but a lot of members of the Republican Party. And so, that is part of the reason why they're a little bit wary of Mike Johnson's leadership.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:25:14",
+      "speaker": "WALKER",
+      "sentences": "We were saying the majority in the House will drop even further because Trump chose, you know, two House Republicans to join his administration. That would be Elise Stefanik and Mike Waltz. What does this mean then for Trump's agenda at getting it done quickly?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:25:14",
+      "speaker": "TALCOTT",
+      "sentences": "It's going to be very difficult. Really, Mike Johnson and Donald Trump has no room for error. And Donald Trump has a really ambitious agenda. And that's part of the reason why he came out and supported Mike Johnson, it was because he realized that they just need to get through these next few weeks. They need a speaker in order to certify the election.And Mike Johnson was the person who had the most support, even if some of that support was a little bit in the gray line. But this is going to be a very difficult session for Donald Trump, and it's going to be a very difficult next few years, because Republicans don't have a huge majority and Mike Johnson and Donald Trump can't afford to lose a lot of support.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:25:14",
+      "speaker": "WALKER",
+      "sentences": "It was another victory for Speaker Johnson when the House voted to make it harder to oust a speaker on Friday. The new House rules package now requires a minimum of nine GOP lawmakers to force a vote to oust a speaker. You may recall that the previous threshold was just one member to force a vote, which we saw led to the ouster of former Speaker Kevin McCarthy.So, the fact that there were initially nine holdouts in Johnson's vote, I mean, that's notable, isn't it? I can't imagine that Mike Johnson is feeling quite secure in his perch.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:25:14",
+      "speaker": "TALCOTT",
+      "sentences": "That's absolutely notable. And listen, I've talked to people inside Trump's orbit who have also said, yes, Donald Trump supported Mike Johnson for this vote and for speakership. But that doesn't mean that Donald Trump is going to support him all the way through. If Mike Johnson can't get Donald Trump's agenda passed through and can't sort of placate Donald Trump throughout the next few months, we can very well see Donald Trump say, OK, listen, we need another speaker. And in that case, I think that that nine number is probably going to grow. So, yes, while Mike Johnson won the day, I think this event has proven that Donald Trump still does have significant sway in the Republican Party.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:02",
+      "speaker": "WALKER",
+      "sentences": "We are learning new details about the driver who blew up a cyber truck in front of a Trump Hotel in Las Vegas. The suspect, Matthew Alan Livelsberger, wrote letters on his political grievances in the days leading up to the attack.He said the incident was not intended as a terrorist attack, but rather a \"wake up call\". Officials say the 37-year-old combat veteran and new father suffered from post-traumatic stress disorder. Police say he shot himself in the head just before the truck exploded outside the hotel injured seven people. CNN's Natasha Chen has more now from Las Vegas. (BEGIN VIDEOTAPE) NATASHA CHEN, CNN NATIONAL CORRESPONDENT (voice over): Investigators are now in the process of piecing together a motive for the explosives detonated in a Tesla cyber truck outside of the Trump Hotel in Las Vegas on New Year's Day.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:02",
+      "speaker": "DORI KOREN, ASSISTANT SHERIFF, LAS VEGAS METROPOLITAN POLICE DEPARTMENT",
+      "sentences": "Make no mistake, this is a suicide vehicle born improvised explosive device.CHEN (voice over): Law enforcement is searching for clues in the life of the driver, 37-year-old Master Sergeant Matthew Livelsberger, the lone suspect, who died of a self-inflicted gunshot wound shortly before fireworks, gas tanks, and camping fuel, ignited the cyber truck explosion. Two guns, a passport, and military I.D. were found inside the bomb cyber truck. At the time of his death, Livelsberger was an active-duty U.S. Army Green Beret on leave, and was a five-time bronze star recipient. Law enforcement on Friday revealed excerpts from letters they say they believe were written by Livelsberger, and said they point to his state of mind. One dated December 31st that outlines political and personal grievances, saying, he wrote that he was trying to send America a \"wake up call\".",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:02",
+      "speaker": "KOREN",
+      "sentences": "What better way to get my point across than a stunt with fireworks and explosives?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:02",
+      "speaker": "CHEN",
+      "sentences": "In one letter, he expressed concerns about government agencies, \"tracking him,\" and said he was planning to travel to the U.S.-Mexico border.Authorities say they found this video after the attack. There was no indication that he was under any surveillance. Investigators said the letters did not make any reference to the Trump hotel or to Tesla. Livelsberger had been diagnosed with depression last year, according to U.S. officials familiar with his military records, but he was not considered at risk for violent behavior. Authorities read this excerpt from one of his letters that they say referenced his state of mind.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:02",
+      "speaker": "KOREN",
+      "sentences": "I need to cleanse my mind of the brothers I have lost and relieved myself of the burden of the lives I took.CHEN (voice over): Livelsberger was married for the second time in 2022, and was a father to an 8-month-old baby girl. Investigators are still trying to determine why Livelsberger rented a cyber truck and drove from Colorado to Las Vegas to carry out what ultimately became a suicide mission. Law enforcement pointed to his mental health issues and called for more help for those who serve in the military.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:02",
+      "speaker": "KEVIN MCMAHILL, SHERIFF, LAS VEGAS METROPOLITAN POLICE",
+      "sentences": "They are exposed to things. They see things, they hear things, they feel things, and they smell things that most normal people don't have to do, and we need to really pay attention to those individuals, pay attention to what mental health in America looks like.(END VIDEOTAPE) CHEN (on camera): Late Friday, investigators in Las Vegas released the full transcript of two letters they believe were written by Livelsberger. They go into a lot more detail about what he found wrong with American culture. He talked about conflicts overseas, societal cultural issues, and he specifically stated support for President Trump and Elon Musk. Amara and Danny, back to you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:02",
+      "speaker": "WALKER",
+      "sentences": "All right. Natasha Chen, thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:06",
+      "speaker": "WALKER",
+      "sentences": "Kyung, thank you.And coming up, heavy snow, hazardous ice, and severe thunderstorms. The brutal cold weather storms ahead for millions of Americans. We're going to break down how you may feel its impact. (COMMERCIAL BREAK)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:06",
+      "speaker": "WALKER",
+      "sentences": "The U.S. Department of Health and Human Services is shelling out more than $300 million to help monitor the bird flu and help prepare for potential outbreaks.The U.S. Centers for Disease Control and Prevention say the risk to the general public is low, but the Biden administration emphasized the importance of protecting human and animal health and food safety.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:01",
+      "speaker": "WALKER",
+      "sentences": "It will stretch across 1,300 miles, bringing severe weather, snow, and a lot of ice, making travel nearly impossible in some areas. You are stuck with me for a few days, Danny.CNN's Allison Chinchar is tracking it all from the Weather Center. Hi, Allison, what do we need to know?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:01",
+      "speaker": "ALLISON CHINCHAR, CNN METEOROLOGIST",
+      "sentences": "And good morning. Yes, I think the key component here is that, how many places will be affected? You are talking more than a dozen states likely to see impacts from this system.This is a look at Cleveland. Now, sunrise should be happening just a few moments from now, but we've got a snow squall moving through. So, you can see that visibility is very limited. You can see even a few white caps right there on Lake Erie. Now, this is not from the main system. This is actually still from lake effect snow that is continuing across portions of the Great Lakes region. But the next system that's going to be coming into play, that's the one where we're really concerned about it. It is going to present a huge swath of concerns over the next 48 to 72 hours. You are talking very difficult travel in some of these areas, and likely some widespread power outages, especially in the orange red and even the purple color there, indicating that extreme potential there. Now, when we talk about snow, look at this wide swath here. This is what we are talking about how many states being impacted. You have got a very wide swath of at least about four to six inches. But all of this pink area here, you are talking at least a foot of snow could end up coming down. Now, you may say, OK, well, some of the southern areas here, that's not too bad, there is only a couple inches there. But what you have to understand is, on the southern flank of this system, here is also an ice component. So, you're going to have a layer of ice come down first, and then you're likely going to have snow on top of it, which makes it even more difficult to see if you are out driving on the roads, to not know how thick that snow could be. Some of these areas, you're talking a quarter to even up to a half of an inch of ice, thick on those roadways, on those bridges and overpasses that you'd have to deal with. Here is a look at the low. It really starts to take place -- or take shape and develop later on today, by late or by very early into the day Sunday. We're really starting to see some of those impacts over the central U.S. by late Sunday, now spreading into the Ohio Valley, portions of the Midwest. And then, once we really get into Monday, that's when things really start to take place across portions of the Mid-Atlantic and even spreading into the northeast. It finally does push out over the water. But even then, by Monday evening, the bulk of the system may be offshore, but you still have some of those lingering snow showers across the Mid-Atlantic that could last even into very early Tuesday. So, not quite over yet. We also have the southern component to this system, most areas just getting rain, but also the potential for some strong to severe thunderstorms. You are talking damaging winds, yes, even the potential for a few tornadoes, especially around areas of northern Louisiana, Western Mississippi and southeastern portions of Arkansas. So, again, this is a huge storm with a lot of different elements here. So again, the snow is really going to be the focus on the top tier. In between, you are going to have that wintry mix, where it's part snow, part ice, even some freezing rain and sleet, and then the severe thunderstorms. Guys, that are the component along the southeastern side. So, a lot of impacts for a lot of people in the coming days.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:01",
+      "speaker": "FREEMAN",
+      "sentences": "I change my mind. I actually want to stay in Atlanta. And I don't --(CROSSTALK) WALKER: Yes, you probably want here now.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:01",
+      "speaker": "FREEMAN",
+      "sentences": "I don't want to travel. I stay here with you guys.Allison Chinchar, thanks so much. All right. Listen, it's never pretty when a star athlete wants out, and that's exactly the case with Jimmy Butler and the Miami Heat.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:01",
+      "speaker": "WALKER",
+      "sentences": "And after indicating he wanted to be treated earlier this week, the team is apparently ready to give him what he wants. Carolyn Manno is joining us with more. Hi, Carolyn.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:01",
+      "speaker": "JOE BURROW, QUARTER BACK, CINCINNATI BENGALS",
+      "sentences": "Yes, it's not great. We put ourselves in the spot. So, I can't complain about it. But we can control -- we can control and that's going out and trying to win a game on Saturday night.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:01",
+      "speaker": "MANNO",
+      "sentences": "And before we go, we need to share -- well, I guess, we don't need to share, but we are sharing one of the most unique bowl game traditions in college football, at least the most stomach turning. I apologize in advance.This is Minnesota Coach P.J. Fleck, getting an entire jug of mayo on him, after his team won their bowl game. Now, the game is sponsored by the Duke's Mayo company, which explains this mayonnaise bath. It doesn't really explain why Fleck is so excited. I apologize, this really turns my stomach. I know some people were saying they wanted to dip some French fries in this. (CROSSTALK)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:01",
+      "speaker": "WALKER",
+      "sentences": "I was thinking the same thing.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:01",
+      "speaker": "FREEMAN",
+      "sentences": "No.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:01",
+      "speaker": "MANNO",
+      "sentences": "But for me, it's a no.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:01",
+      "speaker": "WALKER",
+      "sentences": "All I need is some ketchup with that and some French fries, and tastes good to me.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:01",
+      "speaker": "FREEMAN",
+      "sentences": "No.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:01",
+      "speaker": "WALKER",
+      "sentences": "I'm trying to speak yourself for once.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:01",
+      "speaker": "MANNO",
+      "sentences": "This is a no for once.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:01",
+      "speaker": "FREEMAN",
+      "sentences": "No. I don't want to look at it.That is a horror thing. That is --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:01",
+      "speaker": "WALKER",
+      "sentences": "But we love -- but do you eat mayo?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:01",
+      "speaker": "FREEMAN",
+      "sentences": "And not like that. Not over my head.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:56:04",
+      "speaker": "FREEMAN",
+      "sentences": "America's top doctors, putting the spotlight on growing evidence of a link between alcohol and cancer.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:56:04",
+      "speaker": "WALKER",
+      "sentences": "The U.S. surgeon general warns that even drinking small amounts of alcoholic beverages could increase your risk of developing the potentially deadly disease.CNN's Brian Todd explains. (BEGIN VIDEOTAPE) BRIAN TODD, CNN CORRESPONDENT (voice over): Straight off the holiday partying season, a stark warning about the effects of alcohol from America's top doctor. Surgeon General Dr. Vivek Murthy issued a warning that alcohol consumption can increase our risk of cancer, and Dr Murthy called for new warning labels on alcoholic beverages. DR. BENJAMIN WEINBERG, GASTROINTESTINAL MEDICAL ONCOLOGIST, MEDSTAR GEORGETOWN UNIVERSITY HOSPITAL: I think it really helps raise awareness that alcohol is a risk factor for certain diseases, including cancer, and that even lower levels of alcohol use can still be associated with the development of certain cancers. TODD (voice over): The Surgeon General's Office says alcohol is now the third leading preventable cause of cancer in the United States, behind tobacco and obesity. Dr. Murthy said in a statement that alcohol is responsible for about 100,000 cases of cancer and 20,000 cancer deaths every year in the U.S., compared to 13,500 deaths associated with alcohol-related vehicle crashes every year.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:56:04",
+      "speaker": "TODD",
+      "sentences": "Dr. Murthy says a majority of Americans are unaware of this risk. How ignorant of it have we been?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:56:04",
+      "speaker": "WEINBERG",
+      "sentences": "Yes, so he showed in his survey data that less than half of Americans were aware that alcohol is a risk factor for the development of cancers, whereas more Americans were knowledgeable about other things, such as radiation, tobacco smoke, ultraviolet radiation from the sun.TODD (voice over): The surgeon general's advisory says the link between alcohol consumption and cancer risk is well-established for at least seven types of cancer: breast, colorectal, esophagus, liver, mouth, throat, and the larynx, or voice box. We asked MedStar Georgetown oncologist, Dr. Benjamin Weinberg, what exactly alcohol does to the body to cause some cancers.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:56:04",
+      "speaker": "WEINBERG",
+      "sentences": "Alcohol is broken down into acetaldehyde, which is a breakdown product that can inadvertently cause DNA damage, directly hurting our cells and sometimes causing cells to grow rapidly, causing cancers.Another mechanism is that it can they can induce inflammation, which can be bad for our cells and also bad for our DNA. They can also raise levels of certain hormones like estrogen, which have specifically been linked to the development of breast cancers. TODD (voice over): Is any amount of booze OK? Does moderate drinking say two drinks a day for men, one for women raise our risk?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:56:04",
+      "speaker": "WEINBERG",
+      "sentences": "I would say try to drink one drink or less per day and one drink to keep in mind is five ounces of wine, 12 ounces of beer, 1.5 ounces of spirit. It's not a bottle of alcohol. It's not a six pack of beer. So, people need to be aware of those quantities.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:56:04",
+      "speaker": "TODD",
+      "sentences": "And some of the major spirits companies have been preparing for this news. Top brewers Molson Coors and Anheuser-Busch InBev, and major spirits producers Diageo and Pernod Ricard have all been boosting their portfolios of nonalcoholic drinks to address an increasing number of consumers who are ditching alcohol.(END VIDEOTAPE) TODD (on camera): As far as those new warning labels that Dr. Murthy is recommending are concerned, only Congress can mandate those. On the question of whether the incoming Trump administration would support new labels, it's worth noting that President-elect Trump does not drink. And that Robert F. Kennedy Jr., Trump's choice for health and human services secretary, no longer drinks. Brian Todd, CNN, Washington.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:56:04",
+      "speaker": "WALKER",
+      "sentences": "Good morning, everyone. Welcome to CNN THIS MORNING. It is Saturday, January 4th. Happy New Year, everyone. I'm Amara Walker.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:56:04",
+      "speaker": "FREEMAN",
+      "sentences": "And I'm Danny Freeman, in for Victor Blackwell.Happy New Year to you. Do you have a good holidays?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:56:04",
+      "speaker": "WALKER",
+      "sentences": "It was very good.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:56:04",
+      "speaker": "FREEMAN",
+      "sentences": "Good.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:56:04",
+      "speaker": "WALKER",
+      "sentences": "No drinking.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:00:04",
+      "speaker": "WALKER",
+      "sentences": "And just before he is set to return to the White House, President-elect Donald Trump will be sentenced in the New York hush money case.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "08:00:04",
+      "speaker": "FREEMAN",
+      "sentences": "And a CNN exclusive. The new video showing what the suspect in the New Year's Day attack in New Orleans was doing just moments before that deadly rampage.",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

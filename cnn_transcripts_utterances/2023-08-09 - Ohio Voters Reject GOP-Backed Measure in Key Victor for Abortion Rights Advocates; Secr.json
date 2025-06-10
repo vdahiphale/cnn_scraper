@@ -1,0 +1,547 @@
+{
+  "date": "2023-08-09",
+  "headline": "CNN This Morning",
+  "subHeadline": "Ohio Voters Reject GOP-Backed Measure in Key Victor for Abortion Rights Advocates; Secret Memo Details Strategy for Trump to Overturn 2020 Election; Georgia D.A. Likely to Present Case Against Trump Next Week. Aired 6-6:30a ET",
+  "utterances": [
+    {
+      "timeStamp": "06:00:40",
+      "speaker": "POPPY HARLOW, CNN ANCHOR",
+      "sentences": "Good morning, everyone. So glad you're with us on CNN THIS MORNING. Victor Blackwell by my side again. Good morning.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:40",
+      "speaker": "VICTOR BLACKWELL, CNN ANCHOR",
+      "sentences": "Hump day. Hump day.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:40",
+      "speaker": "HARLOW",
+      "sentences": "Hump day, indeed.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:40",
+      "speaker": "BLACKWELL",
+      "sentences": "Good morning. Yes, half-way through.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:40",
+      "speaker": "HARLOW",
+      "sentences": "You're almost there, friend.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:40",
+      "speaker": "BLACKWELL",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:40",
+      "speaker": "HARLOW",
+      "sentences": "We have a lot of developments.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:40",
+      "speaker": "BLACKWELL",
+      "sentences": "A lot going on overnight.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:40",
+      "speaker": "HARLOW",
+      "sentences": "Overnight. Let's start with \"Five Things to Know\" this Wednesday, August 9.Voters in Ohio showed up in a big way, overwhelmingly rejecting Issue 1, an effort that would have made it harder to amend the state's constitution. It's a major win for abortion rights supporters ahead of a November vote to ensure access to abortion.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:40",
+      "speaker": "BLACKWELL",
+      "sentences": "For the first time this morning, we are seeing a secret memo from an unindicted coconspirator in the federal January 6th case against Donald Trump. \"The New York Times\" got ahold of the letter, which shows the evolution of the fake elector scheme.Also new this morning, Hawaii is under a state of emergency right now as large wildfires rage. They're fueled by winds from Hurricane Dora. The Coast Guard is rescuing people who have been jumping into the ocean to escape the smoke and fire.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:40",
+      "speaker": "HARLOW",
+      "sentences": "Overnight, the police chief of Montgomery, Alabama, tells CNN it is highly likely that more people will be charged in that chaotic caught-on-camera fight, really brawl, on a riverfront dock.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:40",
+      "speaker": "BLACKWELL",
+      "sentences": "And since Poppy did not buy those tickets --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:40",
+      "speaker": "HARLOW",
+      "sentences": "I didn't!",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:40",
+      "speaker": "BLACKWELL",
+      "sentences": "-- someone else is a billionaire this morning. One ticket purchased in Florida matched all six winning numbers and the mega ball. Well, five plus the mega ball. It was the biggest jackpot in the game's history.CNN THIS MORNING starts right now.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:40",
+      "speaker": "HARLOW",
+      "sentences": "So, I tried.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:40",
+      "speaker": "BLACKWELL",
+      "sentences": "What do you mean you tried?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:40",
+      "speaker": "HARLOW",
+      "sentences": "I went to two stores in Brooklyn. I dragged my kids.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:40",
+      "speaker": "BLACKWELL",
+      "sentences": "Part of it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:40",
+      "speaker": "HARLOW",
+      "sentences": "Is that bad? Is that bad?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:40",
+      "speaker": "BLACKWELL",
+      "sentences": "Put your $2 on the counter --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:40",
+      "speaker": "HARLOW",
+      "sentences": "They didn't sell them!",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:40",
+      "speaker": "BLACKWELL",
+      "sentences": "-- and said, Give me a ticket.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:40",
+      "speaker": "HARLOW",
+      "sentences": "They didn't sell them.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:40",
+      "speaker": "BLACKWELL",
+      "sentences": "OK, that's fine. All right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:40",
+      "speaker": "HARLOW",
+      "sentences": "You know, I don't understand why these stores don't all sell them.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:40",
+      "speaker": "BLACKWELL",
+      "sentences": "Well, you tried.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:40",
+      "speaker": "HARLOW",
+      "sentences": "I tried. Did you?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:40",
+      "speaker": "BLACKWELL",
+      "sentences": "No. But it's better teasing you about it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:40",
+      "speaker": "HARLOW",
+      "sentences": "That's good. Because now you have to kind of work.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:40",
+      "speaker": "BLACKWELL",
+      "sentences": "Here I am.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:40",
+      "speaker": "HARLOW",
+      "sentences": "I'm very happy.But what a development overnight. We've been talking a lot about Ohio yesterday.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:40",
+      "speaker": "BLACKWELL",
+      "sentences": "Sure.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:40",
+      "speaker": "HARLOW",
+      "sentences": "And direct democracy and what it was going to mean in the state. Well, look what it meant. In huge numbers this morning, Ohio voters have spoken. Abortion rights advocates have won a critical victory in a high-stakes special election. Fifty-seven percent of voters rejected a measure that was backed bystate Republicans. It would have made it harder for voters to change Ohio's constitution and protect the women's access to abortion when the issue goes on the ballot this November.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:40",
+      "speaker": "BLACKWELL",
+      "sentences": "So under the failed measure, a 60 percent super majority would have been required instead of a simple majority. Voters said no to that.This comes after lawmakers in Ohio and other Republican-controlled states passed sweeping abortion bans. Critics of the Ohio measure called it a GOP power grab. The voter turnout, it was massive, unprecedented for an August election in an off year. Over 1 million more Ohioans voted than in last year's primary. CNN'S chief national correspondent Jeff Zeleny is live in Columbus. Jeff, Ohio voters, they came out. They sent a strong message yesterday.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:40",
+      "speaker": "JEFF ZELENY, CNN CHIEF NATIONAL CORRESPONDENT",
+      "sentences": "Good morning, Victor and Poppy.They absolutely did. From urban areas to suburban areas, voters across the spectrum, Republicans joining Democrats and, certainly, critical independents in rejecting that amendment that would have made it more difficult to pass a constitutional amendment. Of course, first among those was the abortion measure that is on the ballot in November. But as we talked to voters, it was about so much more than that. Some called it a power grab. Others simply, even those who don't necessarily support abortion rights, thought that state Republican leaders were trying to pull a fast one, if you will, by scheduling that August election. But at a victory party last night, supporters talked about it was a victory for the people of Ohio and democracy. (BEGIN VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:06",
+      "speaker": "ZELENY",
+      "sentences": "And it also would have -- it also would have made it much more difficult to put amendments to the constitution, those citizen petitions on the ballot in the future. It would have required signatures from all 88 counties across the state of Ohio.So effectively, one county could block the entire state. So yes, abortion was at the center of this, the driving force of this, but it was about so much more. And voters had their say yesterday and answered very loudly.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:06",
+      "speaker": "HARLOW",
+      "sentences": "Yes. They did. And spent a whole lot of money, too. Right? Almost $32 million when you add up both sides on this.Just to be clear, Jeff, this abortion protection, essentially, will still be on the ballot in November, right?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:06",
+      "speaker": "ZELENY",
+      "sentences": "It absolutely will be on the ballot. So effectively, a new campaign starts today, that has been underway for several months.And this is because hundreds of thousands of Ohioans signed petitions to put this on the ballot. The petitions were delivered in July. And they were certified by the state -- secretary of state. So this election in November will be one of the biggest tests a year after, of course, Roe v. Wade was overturned, and the Supreme Court sent the issue back to the states. Ohio is just the latest example of a state that will decide that. Now, we do know, of course, Ohio in 2019 passed a law that banned abortion, effectively, after six weeks. That has been held up in the courts. That is not in effect. But if this amendment passes in November, that will be overturned. But the bigger picture of this, as we're seeing a pattern from state after state after state of these citizens when they vote, they are supportive of abortion rights. Our national poll yesterday, of course, showed that 64 percent of Americans disagree with that Supreme Court decision. So that was front and center yesterday here in Ohio.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:06",
+      "speaker": "HARLOW",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:06",
+      "speaker": "ZELENY",
+      "sentences": "Poppy and Victor.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:06",
+      "speaker": "HARLOW",
+      "sentences": "I was thinking about that poll when I woke up to these headlines this morning. Jeff Zeleny, really appreciate the reporting there in Columbus. Thanks.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:06",
+      "speaker": "BLACKWELL",
+      "sentences": "New this morning, we're getting our first look at a key piece of evidence in the investigation into former President Trump and the efforts to overturn the results of the 2020 election.\"The New York Times\" has obtained a memo written by un-indicted coconspirator No. 5, attorney Kenneth Chesebro. The fraudulent elector memo was the first mention -- it was first mentioned, I should say, in the indictment that came down last week. But we have not seen it until now. And while we knew the contours of the fake elector scheme, this memo shows how it evolved, and how it was discussed behind the scenes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:06",
+      "speaker": "HARLOW",
+      "sentences": "It's fascinating. I would suggest reading through the whole thing, but here are some highlights, a few key paragraphs.Quote, \"Even if, in the end, the Supreme Court would likely end up ruling that the power to count the votes does not lie with the president of the Senate\" -- meaning Mike Pence -- \"but instead lies with Congress, letting matters play out this way would guarantee that public attention would be riveted on the evidence of electoral abuses by the Democrats and would also buy the Trump campaign more time to win litigation that would deprive Biden of electoral votes and/or add to Trump's column. \"I recognize that what I suggest,\" he writes, \"is bold and a controversial strategy and that there are many reasons why it might not end up being executed on January 6th. But as long as it is one possible option to preserve it as a possibility, it is important that the Trump/Pence electors cast their electoral votes on December 14,\" closed quote. CNN crime and justice reporter Katelyn Polantz is with us with more. We knew there was a memo. Now we can read the memo. What does it mean for Jack Smith and the prosecution?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:06",
+      "speaker": "KATELYN POLANTZ, CNN SENIOR CRIME AND JUSTICE CORRESPONDENT",
+      "sentences": "Yes. Actually, a series of memos that the prosecutors in this case, the special counsel's office, have gotten and assembled to essentially show how there was initially a plan that was put in place by this coconspirator, Kenneth Chesebro, who is not charged with any crime at this time, where he initially was proposing a plan to Donald Trump and others about preserving their rights, just making sure that, if something was going to fall through with the outcome of the election, that he would be in a position to win.But that was a very, very slim chance even in the very close days after the election. And by December 6th, that is where this memo comes into play. So this is an additional memo, where Chesebro is sort of expanding upon his ideas. And what prosecutors are saying, this is where it takes the turn from being something that was just about preserving Donald Trump's ability to potentially win the election, if he needed to; to finding a way to create enough smoke around the election that he could seize it using all of the different parts here. Using the fake electors, having Mike Pence count the votes. And then what prosecutors say was putting into the court system lawsuits at that time that they knew weren't going to win that could help them use the fake electors to essentially cause confusion and make the public start to think, OK, maybe these fake electors are the ones. [06:10:10] And so this memo, we know about it, because it is cited in the indictment. It's cited along with a couple other legal memos that Chesebro was writing. But now \"The New York Times\" has gotten it itself. And those words of his are quite interesting, that he's calling it a bold, controversial strategy, and he is talking about how this is very useful for public attention to buy the campaign time.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:06",
+      "speaker": "BLACKWELL",
+      "sentences": "Yes. And Katelyn, just as -- as riveting as what's in these six pages of this memo, it's important to talk about what happened after the memo was written",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:06",
+      "speaker": "POLANTZ",
+      "sentences": "It's really important to remember that, because it's not just about what Ken Chesebro is doing here. He's not the person charged in this case. It's Donald Trump.And there's a number of people -- Trump himself and others -- who starting on December 6th are so sold on this idea of using fake electors. And when you look at the indictment that the prosecutors have filed against Donald Trump, the evidence that they're compiling that we're very likely to hear at trial, they are -- they are reflecting apprehension in Donald Trump's campaign, and even among these fake electors themselves in these six battleground states, thinking Can we do this? And people are writing e-mails saying this is wild or creative. One person uses the term \"fake electors\" in an e-mail. And that others are writing about this being a crazy play that Chesebro has proposed. But Donald Trump and others, they're talking about it, and they're saying, to the RNC, we want to get this to happen. We want to make sure those electors show up. And then ultimately, they do assemble, essentially, in a way that mimics what the real electors for Joe Biden in the states he had won were doing, so that it would be easier for them to say, Look, we're trying the same things. And then the lawsuits are the other piece on top of this. Which some of these states didn't even have lawsuits to try and overturn the election results. Those only came into play later.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:06",
+      "speaker": "BLACKWELL",
+      "sentences": "OK. Katelyn Polantz with some important reporting. Stick around. We'll bring you back in just a moment. Thank you for that.This morning, CNN has also learned that Fulton County District Attorney Fani Willis will likely be in front of an Atlanta-area grand jury next week, presenting her case against Donald Trump. Sources say she may seek several indictments as she eyes a possible racketeering case that could cast Trump and allies as operating a criminal enterprise to upend Georgia's 2020 election results. CNN's Sara Murray joins us now, live from Washington, D.C. So Sara, we're learning that Willis has been lining up witnesses. Bring us up to speed on what we should expect over the next several days and into next week.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:06",
+      "speaker": "SARA MURRAY, CNN POLITICAL CORRESPONDENT",
+      "sentences": "Yes, that's right. I mean, she's been lining up witnesses. And we've talked about these before. These are people that the special grand jury who collected evidence for months on the Trump case has already heard from.So prosecutors, Fani Willis, they already know what these witnesses are going to say. They're not fishing around for new evidence, but what they're looking to do is to line up people who can help craft a narrative around parts of her case when she does go before the grand jury, which again, we expect to be next week, to present her case, potentially, against former President Donald Trump and a number of his allies, and when she does seek indictments. Now obviously, we've seen the security perimeter around the court being strengthened. We've known this is coming. But this is a clear timeframe for when she's likely to go and she's likely to seek these indictments in what has really been a sprawling investigation. I mean, this has been going on for two and a half years. She's looked at everything from the call between Donald Trump and former Georgia Secretary of State Brad Raffensberger, where Trump asked Raffensberger to find the votes, to the fake electors scheme, to these pretty bonkers presentations that Rudy Giuliani and other Trump allies made before Georgia state lawmakers. So frankly, she has a lot to work with when it comes to the case that she is likely to present before this grand jury, guys.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:06",
+      "speaker": "HARLOW",
+      "sentences": "We heard former President Trump talk about all of this at that rally in New Hampshire last night. His response was unsurprising.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:06",
+      "speaker": "MURRAY",
+      "sentences": "It was unsurprising. Look, he is expecting to be indicted for a fourth time. His team is expecting he's going to be indicted for a fourth time. That does not mean he's particularly happy about it, and he's had some very pointed language for this black, Democratic district attorney. Take a listen to what he said yesterday.(BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:06",
+      "speaker": "DONALD TRUMP, FORMER PRESIDENT OF THE UNITED STATES",
+      "sentences": "I probably have another one. They say there's a young woman, a young racist in Atlanta. She's racist. And this is a person that wants to indict me. She's got a lot of problems, but she wants to indict me to try and run for some other office.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:15:03",
+      "speaker": "BLACKWELL",
+      "sentences": "Sara Murray for us in Washington, thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:15:03",
+      "speaker": "MURRAY",
+      "sentences": "Thanks.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:15:03",
+      "speaker": "HARLOW",
+      "sentences": "The judge who's been assigned to preside over former President Trump's election fraud case in Washington, D.C., is ordering Trump's attorneys and federal prosecutors to appear in court on Friday, this Friday.Prosecutors say they're ready to go. Trump's lawyer is asking for a postponement until early next week. Joining us now on all of these legal headlines, former federal prosecutor, CNN legal analyst Jennifer Rodgers is with us. I want to start on this memo. Because it's important for so many reasons. Also, the January 6th Committee did not have this. OK? So to read it in full is striking. Is this a criminal scheme laid out on paper?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:15:03",
+      "speaker": "JENNIFER RODGERS, CNN LEGAL ANALYST",
+      "sentences": "It is. It is. I mean, it really is the turning point from legitimate questions, legitimate challenges in court of election results, asking for recounts and so on, to saying, all right, let's take a pivot here.You know, there's no legal analysis in here in the memo that says here's how we win, here's how we can legitimately challenge it. Just says, let's try something different, something controversial. It's not likely to succeed. He says he's not even recommending it, Chesebro. He just says this is something that can buy us time.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:15:03",
+      "speaker": "HARLOW",
+      "sentences": "So then where is it illegal?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:15:03",
+      "speaker": "RODGERS",
+      "sentences": "Well, what it -- a few things kind of give us that clue. I mean, obviously, you're talking about evidence from witnesses and a whole bunch of other things, other than the memo, but a few things jumped out to me.You know, one is they're talking about doing it contrary to the laws. Right? Like, doing it in private, doing it without the governor's knowledge, without the state executives being involved, and saying, you know, all of this is just to buy us time so that we can eventually throw it back to the House instead of doing it the way the Electoral Count Act does it. So that's where you start to see the hiding of it, the not doing it pursuant to the processes that are in place. That's where you see the term.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:15:03",
+      "speaker": "BLACKWELL",
+      "sentences": "Let's actually zero in on that element of doing it in private. They write, and it's really detailed. They talk about the logistics and the messaging and the timing of it. \"There's no requirement that they meet in public. It might bepreferable for them to meet in private, to thwart the ability of protestors to disrupt the event. Witness, this via video, what happened when the Trump-Pence electors met in public in 2016, even though the Trump-Pence victory in Wisconsin had not been contested. Even if held in private, perhaps print and TV journalists would be invited to attend to cover the event.\" They knew. They knew that this would be something that would, obviously, get protesters, but how does it -- how do you reconcile this with John Lauro's defense of -- of the scheme, where he says these were alternates, not fakes?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:15:03",
+      "speaker": "RODGERS",
+      "sentences": "Well, they lied to them. I mean, that -- that's one way. Right? These were not just alternates for two reasons. One, they lied to them. I mean, they didn't give them this memo. This is why it didn't surface until later, I think, because they only sent it to Wisconsin. They didn't send it to the other states. One of the reasons the January 6th Committee didn't get it.And then when people were asking about what this was, they didn't say, you know, this is just an alternate thing. They were going to send them, and they told them they wouldn't do that. They said it was only in case they won and then they needed them. But in fact, they sent them in anyway. So you know, they were lying to the electors about what was actually happening.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:15:03",
+      "speaker": "HARLOW",
+      "sentences": "That's why this comparison that you're hearing Trump's lawyers use often, to you know, Nixon and Kennedy is not the same. Because it was totally different circumstances in terms of when they were actually going to be used.These people, as you said, were told, We'll only use them if the court sort of rules in our favor and we need them to make it official. That's a really key difference.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:15:03",
+      "speaker": "RODGERS",
+      "sentences": "And then they actually filed lawsuits that weren't even in place to try to taper that even more. Right?So if your position is we're only going to use these if we need them, if we win the litigation, and some of those states there wasn't even actual litigation at the time. So they had to go into, I think, New Mexico and file a lawsuit so that they could say, Oh, you're actually just alternates in case we win. There has to be something to win. So that's another way you know that this was not legit.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:15:03",
+      "speaker": "BLACKWELL",
+      "sentences": "All right. Jen Rodgers, we're just starting to get into this memo. So we'll be talking about it throughout the morning. Thank you so much.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:15:03",
+      "speaker": "RODGERS",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:21:59",
+      "speaker": "BLACKWELL",
+      "sentences": "Overnight, Ohio voters rejected what's known as Issue 1. This is a measure that would have changed the state's referendum law, allowing an amendment to the constitution. It was driven by Republicans ahead of an upcoming November vote that has abortion rights on the ballot.So what does this mean for the state and for the nation? Joining us now, political -- political video reporter from \"The Washington Post,\" Joyce Koh; CNN political commentator Errol Louis; and CNN senior political analyst Ron Brownstein. Welcome to you all. So let's just start with the trend here. And Joyce, I'll bring this to you first, is that when there had been these initiatives on ballots, any of them that have happened since Dobbs that has supported or extended, expanded rights to abortion, they've succeeded. Those that have not, have failed. So place Ohio, this piece of the puzzle, in that trend. JOYCE KOH, POLITICAL VIDEO REPORTER, \"THE WASHINGTON POST\": That's right. We have seen this in California, Vermont, Michigan, Montana, states where voters have been asked to vote on the issue within their own state constitutions, on the issue of abortion. And repeatedly, voters have sided with protecting abortion. And we even see this in redder states --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:21:59",
+      "speaker": "HARLOW",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:21:59",
+      "speaker": "BLACKWELL",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:21:59",
+      "speaker": "KOH",
+      "sentences": "-- like Kansas and Kentucky, where voters there, it was kind of a double negative, where they rejected not, you know -- rejected including explicitly, you know, taking abortion out of a -- as a state constitutionally-protected right.So we've seen this in blue states and red states. And I think what you're seeing here, illustrated, is that there seems to be a gap between what GOP lawmakers in state legislatures want --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:21:59",
+      "speaker": "HARLOW",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:21:59",
+      "speaker": "KOH",
+      "sentences": "-- and what voters are actually saying.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:21:59",
+      "speaker": "HARLOW",
+      "sentences": "I think that's such a good point. Ron, \"The New York Times\" piece on this, the very end of it had such a fascinating quote this morning by a 46-year-old Trumpy-Trump voter, how they describe them, very conservative voter in Cincinnati, Tom Baker. Told \"The Times\" that this was basically a last-minute attempt by the state legislature in Ohio to tilt the playing field in favor of, quote, \"all of the touchstones that the aging conservative population is trying to force on generations.\"He goes, \"I don't like the idea of changing the mechanisms of government, especially for an agenda.\" That is exactly to the point that Joyce is making.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:25:14",
+      "speaker": "HARLOW",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:25:14",
+      "speaker": "BROWNSTEIN",
+      "sentences": "A critical question for Democrats in '24 is can they extend this backlash into actual campaigns, not only ballot initiatives, and not only in swing states, but also in red states.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:25:14",
+      "speaker": "BLACKWELL",
+      "sentences": "So Errol, it was Republican-led, but as we know from the count of the votes, that it wasn't completely Republican supported. Let's look at 2020.Trump won by about 8 points in Ohio. This was rejected by roughly 14 points. You've got a 22-point spread there. What does this tell us about the challenge for Republican candidates? You've got LaRose, who was, you know, the -- he's running for Senate in the primary.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:25:14",
+      "speaker": "HARLOW",
+      "sentences": "Secretary of state.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:25:14",
+      "speaker": "BLACKWELL",
+      "sentences": "He's, yes, secretary of state there. He was the highest- profile supporter. What does this mean for Republicans?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:25:14",
+      "speaker": "LOUIS",
+      "sentences": "It puts them in a very interesting and difficult situation. Because that same 3-to-2 margin by which the ballot measure was defeated is that -- is the same sort of roughly 3-to-2 measure by which polls say Ohio voters wanted to see some version of abortion rights protected.And they're ready to go to the polls and do it all over again. And then if you look at the map, it's really interesting, Victor. I mean, if you look at the -- not just the cities, where you would expect left-leaning or more progressive voters to come out in big numbers, but also the surrounding suburbs outside of Cleveland and Toledo and Akron and -- and you know, Columbus and Cincinnati. And so that's going to be the real playing field. That's going to be the real area where all of this gets fought. And if those who defeated this ballot measure kept some machinery on the ground, keep their mailing lists, try and get ready to mobilize all over again, the Republicans are going to have a very hard time.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:25:14",
+      "speaker": "BLACKWELL",
+      "sentences": "Not just statewide, but in every county, Trump outperformed this -- this measure.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:25:14",
+      "speaker": "HARLOW",
+      "sentences": "Such a good point.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:25:14",
+      "speaker": "BLACKWELL",
+      "sentences": "Every county.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:25:14",
+      "speaker": "HARLOW",
+      "sentences": "That's such -- And the spread you talk about is remarkable.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:25:14",
+      "speaker": "BLACKWELL",
+      "sentences": "yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:25:14",
+      "speaker": "HARLOW",
+      "sentences": "This is what Nancy Mace has been, like, screaming to her party. Guys -- mostly guys, not all guys -- like, you're not getting it. You're not reflecting what the voters want. And it's going to cost us next time around.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:25:14",
+      "speaker": "KOH",
+      "sentences": "And this is what we talked about last time. It's like she is signaling to her party a warning sign, if you know, you take the most extreme approach on something like abortion, does it isolate more moderate voters of the party? And that's, you know, the big question., especially as we look towards 2024.What are Republicans going to do as far as their messaging goes on federal abortion bans? We've seen, you know, Susan B. Anthony, an anti-abortion conservative group, coming out and really railing against candidates that are not explicitly stating that. So what they do? What do Democrats do to harness the abortion issue? Is sort of a big question.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:25:14",
+      "speaker": "BLACKWELL",
+      "sentences": "All right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:25:14",
+      "speaker": "HARLOW",
+      "sentences": "Appreciate it.Ron, last word. Go ahead.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:25:14",
+      "speaker": "BROWNSTEIN",
+      "sentences": "Real quick. You know, what they do is talk about the possibility of a national ban with Republicans holding unified control. And there's Democratic polling showing that the vast majority of voters in the swing states believe that, if Republicans do have unified control, they will try to ban abortion on a national basis.That's what could make this, Poppy, I think much more potent in Ohio than we saw in some of the red states in '22. They will, in all likelihood, vote in November to restore abortion rights, and then Sherrod Brown will be able to campaign -- campaign against a Republican nominee who he says will threaten to immediately override that decision with a national ban. That could be a strong argument.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:25:14",
+      "speaker": "HARLOW",
+      "sentences": "That's a really interesting point. Stay with us, everyone. We appreciate it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:25:14",
+      "speaker": "BLACKWELL",
+      "sentences": "Overnight, the Montgomery, Alabama, police chief says that he expects more charges to be filed after this brawl you've probably seen online. We'll be joined by the city's mayor with those new details.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:25:14",
+      "speaker": "HARLOW",
+      "sentences": "And someone in Florida is $1.58 billion richer, to be specific, this morning. The Mega Millions jackpot expected to be the largest in the game's history. The ticket was sold at a public supermarket in Neptune Beach, Florida. We're going to take you there next hour.And in case you want to know just how close you got to the jackpot, here are your winning numbers this morning: 13, 19, 20, 32, 33 and Mega Ball 14.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:25:14",
+      "speaker": "BLACKWELL",
+      "sentences": "I always look at the numbers to try to figure out --",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

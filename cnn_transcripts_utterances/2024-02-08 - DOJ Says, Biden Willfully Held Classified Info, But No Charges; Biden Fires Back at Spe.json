@@ -1,0 +1,781 @@
+{
+  "date": "2024-02-08",
+  "headline": "CNN NewsNight with Abby Phillip",
+  "subHeadline": "DOJ Says, Biden Willfully Held Classified Info, But No Charges; Biden Fires Back at Special Counsel Over Memory Concerns; CNN's Special Coverage of the 2024 Nevada Caucus. Aired 10-11p ET",
+  "utterances": [
+    {
+      "timeStamp": "22:00:04",
+      "speaker": "JOHN KING, CNN CHIEF NATIONAL CORRESPONDENT",
+      "sentences": "So, can she convince enough people to change their mind, or, Kaitlan, can she -- she says she's trying to do get Democrats and independents to flood the South Carolina primary. It's mathematically possible. Historically, though, it has just never happened. And if you go 0 and 4, come back to the 2024 map, if you go 0 and 4, 1, 2, 3, 4, then, yes, she says she's going to go on to Super Tuesday. But, yes, she has some money, but it's Donald Trump's party. You have to prove it isn't. The only way to prove that is by winning somewhere.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:00:04",
+      "speaker": "KAITLAN COLLINS, CNN ANCHOR",
+      "sentences": "John King at the map, thank you.And the news continues here on CNN America's Choice 2024, the Nevada caucuses, but Abby Phillip and Laura Coates starts right now.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:00:04",
+      "speaker": "ABBY PHILLIP, CNN ANCHOR",
+      "sentences": "I'm Abby Phillip in New York and welcome to a special edition of NEWSNIGHT alongside Laura Coates in Washington.We are moments away now from Nevada finishing up its critical caucus. We'll also hear directly from the likely Republican nominee, Donald Trump. Also today, historic arguments over a Trump ballot battle that played out inside of the Supreme Court. Plus, a charging decision by the special counsel investigating the sitting President of the United States.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:00:04",
+      "speaker": "LAURA COATES, CNN ANCHOR",
+      "sentences": "And, Abby, there is new attention on Joe Biden's memory. Tonight, the president defending his ability to do his job and indignantly insisting that his memory is absolutely fine, he's fine to his special counsel report that called him a, quote, elderly man with a poor memory, unquote, by flashing anger and throwing some well shade.(BEGIN VIDEO CLIP) JOE BIDEN, U.S. PRESIDENT:  I'm well-meaning, and I'm an elderly man, and I know what the hell I'm doing. I've been president, and I put this country back on his feet. I don't need his recommendation. It's totally --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:00:04",
+      "speaker": "REPORTER",
+      "sentences": "(INAUDIBLE) your memory and can you continue as president?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:00:04",
+      "speaker": "BIDEN",
+      "sentences": "My memory is so bad, I can let you speak.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:00:04",
+      "speaker": "PHILLIP",
+      "sentences": "Reporters shouting their questions, the president yelling right back for the mistake of asking entirely fair questions to him. Listen.(BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:00:04",
+      "speaker": "REPORTER",
+      "sentences": "When you were asked about your age, you would respond with the words, watch me. Well, many American people have been watching and they have expressed concerns about your age.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:00:04",
+      "speaker": "BIDEN",
+      "sentences": "That is your judgment. That is your judgment. That is not the judgment of the press.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:00:04",
+      "speaker": "REPORTER",
+      "sentences": "They expressed concerns about your mental acuity. They say that you were too old. Mr. President, in December, you told me that you believe there are many other Democrats who could defeat Donald Trump. So, why does it have to be you now? What is your answer to that question?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:00:04",
+      "speaker": "BIDEN",
+      "sentences": "Because I'm the most qualified person in this country to be president of the United States and finish the job I started.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:00:04",
+      "speaker": "PHILLIP",
+      "sentences": "A good question and a fair question. If voters though were watching for signs that all of Biden's neurons were firing, he insisted that they are.(BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:00:04",
+      "speaker": "REPORTER",
+      "sentences": "Do you believe your memory has gotten worse, Mr. President?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:00:04",
+      "speaker": "BIDEN",
+      "sentences": "My memory is not -- my memory is fine.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:00:04",
+      "speaker": "REPORTER",
+      "sentences": "Do you fear that this report is only going to fuel further concerns about --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:00:04",
+      "speaker": "BIDEN",
+      "sentences": "Only by some of you.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:00:04",
+      "speaker": "COATES",
+      "sentences": "Only minutes after that, he said that he had a memory misstep that will guarantee likely questions about his age and mental acuity, simply have no intention of going away.(BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:00:04",
+      "speaker": "BIDEN",
+      "sentences": "The president of Mexico, El-Sisi, did not want to open up the gate to allow humanitarian material to get in. I talked to him. I convinced him to open the gate.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:00:04",
+      "speaker": "COATES",
+      "sentences": "In just a moment, Abby will interview Biden's Democratic challenger, Dean Phillips. But, first, here for a fact check of some of those claims, we're joined by CNN's Daniel Dale for that very fact check.Daniel, tell me, what stood out to you?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:05:05",
+      "speaker": "COATES",
+      "sentences": "Don't go anywhere, Daniel Dale. We have so much more to fact check with you, especially in the next hour of programming as well. So, stick around. Abby?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:05:05",
+      "speaker": "PHILLIP",
+      "sentences": "And joining me now is the man who is challenging Joe Biden in the Democratic primary, Congressman Dean Phillips. Congressman, your reaction to that pretty feisty press conference from President Biden.REP. DEAN PHILLIPS (D-MN), PRESIDENTIAL CANDIDATE:  You know what, Abby, it was sad. And I think for Americans watching a good man, I respect President Biden. I think he's suffered a lot of tragedy in his life. This has got to be awfully difficult to invoke his son, Beau. It appears a crime was committed. But I got to tell you, I felt just like a human watching that, and it was sad. And I think most of the country shares that. I think our president should serve out this term. I think he's able to do so. The fact that he's running for another one is preposterous. And I think most of the country recognizes that. And, frankly, I don't think it should be politicized. I think we should honor him, and he should preserve his legacy and pass the torch in the next election.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:05:05",
+      "speaker": "PHILLIP",
+      "sentences": "He said it appears the crime was committed. Do you believe that Robert Hur should have charged?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:05:05",
+      "speaker": "PHILLIPS",
+      "sentences": "Well, based on what I read, he said there was evidence, but he recognized that by prosecuting it, they called him an elderly man with a fading memory and would be too sympathetic in front of a jury. And I think there was a lot in that report that was unnecessary. It may be true, but still unnecessary, and it saddens me.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:05:05",
+      "speaker": "PHILLIP",
+      "sentences": "that part that you're talking about, he wrote, Mr. Biden would likely present himself to a jury, as he did during our interview of him, as a sympathetic, well-meaning, elderly man with a poor memory. That language, and just generally reading the report, there are aspects of it that seemed that they were no fans necessarily of Donald -- or of President Biden.Do you think that that was fair? Should the special counsel have gone there in justifying his decision to actually not bring charges?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:05:05",
+      "speaker": "PHILLIPS",
+      "sentences": "Like I said, I thought it was unnecessary. I think you make your case. Yes, you're doing it. No, you're not. I think there was more in there than necessary. I think everything stated is fairly self-evident if people are watching for, goodness sakes, in just the last 24 hours.But that's not the point. I don't think it was necessary. I think it's too bad. But on the other hand, Abby, I mean, it's sad to watch our president at an age in life and stage in life when people decline. It's not his fault. He's a great man. He saved our country. I think he's led ably. But I'm focused more on the future. Why are we even talking about Donald Trump and Joe Biden right now? An 81-year-old, a 77-year-old, one is under federal indictment, one stored classified documents in his garage in open containers.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:05:05",
+      "speaker": "PHILLIP",
+      "sentences": "Well, the reason we're talking about them, Congressman --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:05:05",
+      "speaker": "PHILLIPS",
+      "sentences": "We clearly have such a problem of the past, but I just want to make a case to like why don't we move to the future?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:05:05",
+      "speaker": "PHILLIP",
+      "sentences": "Well, let me ask you. I mean, I understand that that's the case that you're making to voters. But so far that has not worked. You are running against Joe Biden. There have been several primaries. You haven't gained any traction. So, it seems that the voters are saying with clear voices that they're fine with Joe Biden, at least the Democratic ones are.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:05:05",
+      "speaker": "PHILLIPS",
+      "sentences": "Yes, 4 percent in South Carolina, 100,000 or so in New Hampshire. I mean, we're talking about a tiny percent. That's actually -- I'm glad you're bringing it up because we have such a crisis of participation in our country, Abby. The fact is everybody complains in November about the choices we have between two parties and only like 10, 15 percent vote in primaries.My call to action, my invitation -- forget -- I don't care if you vote for me, I do care if you vote. The fact is we have very few people opining. They tend to be the very base voters of the far right, the far left. And the fact of the matter is moderate, reasonable, center right, center left candidates, in this day and age, between the two parties, you're right, don't get a good shot because --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:05:05",
+      "speaker": "PHILLIP",
+      "sentences": "But I think among the 4 percent -- I mean, how many of the 4 percent did you get?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:05:05",
+      "speaker": "PHILLIPS",
+      "sentences": "1.7 percent.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:05:05",
+      "speaker": "PHILLIP",
+      "sentences": "And that is very -- I mean, it's an infinitesimally small amount, which suggests that if you cannot -- that's why primaries exist. If you can't perform in a primary, it suggests that you wouldn't be able to perform in a general.I think that there's a question about the viability of your candidacy, despite what you're saying are the shortfalls of Joe Biden.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:05:05",
+      "speaker": "PHILLIPS",
+      "sentences": "I can only laugh because the viability of my candidacy when we just watched the president of the United States confused Francois Mitterrand, who died in 1996, who couldn't remember the name of Hamas at a press conference about Israel and Hamas, who tonight confused the president of Mexico about opening the Rafah gate. I mean, Abby, and my candidacy is the one that is --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:05:05",
+      "speaker": "PHILLIP",
+      "sentences": "What I'm saying simply is you haven't made the case to voters.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:10:06",
+      "speaker": "PHILLIP",
+      "sentences": "It is incredibly difficult as you are living through to challenge an incumbent. And I think that is part of the equation too. The broader question, my final one to you with the time that we have left, is all that you just laid out is in fact out there. But voters are still saying that they will cast their ballot for Joe Biden. So, what do you think is missing? Are voters putting aside their concerns about Joe Biden's age?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:10:06",
+      "speaker": "PHILLIPS",
+      "sentences": "No. In fact --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:10:06",
+      "speaker": "PHILLIP",
+      "sentences": "Because it seems like that's what they're doing.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:10:06",
+      "speaker": "PHILLIPS",
+      "sentences": "Well, we had three states vote so far, Abby, and Joe Biden has been in Washington for 50 years. He became a United States senator when this guy was three years old. Everybody knows Joe Biden. 5 percent of the country knows me so far.And I'm going to do what you do when you run for president. I show up, I meet voters, I answer the press' questions, I do gaggles, I do town halls, I do debates, I show up in cafes and coffee shops.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:10:06",
+      "speaker": "PHILLIP",
+      "sentences": "And you'll do that for -- how long will you --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:10:06",
+      "speaker": "PHILLIPS",
+      "sentences": "As long -- I'll go all the way to the convention. And I'll tell you why, because my party should have anticipated what is happening right now. I was trying to say the quiet part out loud for many, many months. I encouraged the president one year ago to pass the torch. This was so clear what was going to happen. And now we're in a circumstance where it is President Biden and me in the Democratic primary.I think it's important to have options. I'll introduce myself. I would be thrilled to introduce myself to voters. Come meet me. I want to hear what's on your mind. It's time for change. We've got costs that are out of control, chaos at our border, around the world, and a president who clearly should serve out this term and then pass the torch.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:10:06",
+      "speaker": "PHILLIP",
+      "sentences": "We appreciate you joining us.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:10:06",
+      "speaker": "PHILLIPS",
+      "sentences": "Thank you Abby. I do appreciate it too.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:10:06",
+      "speaker": "PHILLIP",
+      "sentences": "Dean Phillips. Laura?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:10:06",
+      "speaker": "COATES",
+      "sentences": "Thank you so much, Special Counsel Robert Hur, well, he had some harsh words, but no criminal charges for President Biden. The report says prosecutors would not be able to prove Biden intended to break the law while handling classified documents from when he was vice president.Here with me now to talk about all of this is CNN Senior Political Analyst Gloria Borger, former White House Lawyer James Schultz, along with CNN Legal Analyst and former Federal Prosecutor Elliot Williams. We've got a lot to talk about. This day, if you thought we'd be at the Supreme Court, you had another thing coming. It's been a lot more about these issues today. And this report, I want to go to you first, Gloria, it characterizes Biden's memory as, quote, very significantly limited in interviews. They even talk about his failure to possibly recall the date of his beloved son Beau's passing. You have interviewed Biden. He even took out about this very issue. Listen to what he had to say in firing back. And then I want to hear your take. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:10:06",
+      "speaker": "BIDEN",
+      "sentences": "There's even reference that I don't remember when my son died. How in the hell dare he raise that? Frankly, when I was asked the question I thought to myself, it wasn't any of their damn business.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:10:06",
+      "speaker": "COATES",
+      "sentences": "When you hear that, Gloria, you interviewed President Biden about the passing --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:10:06",
+      "speaker": "GLORIA BORGER, CNN SENIOR POLITICAL ANALYST",
+      "sentences": "About Beau, and tonight he spoke about it, but when I was interviewing him, he actually took Beau's rosary out of his pocket and showed it to me. This is not a man who is going to forget the day that his son died.I think what we saw tonight was anger about why they were asking him about it. What did that have to do with documents? And Joe Biden does have a temper. And I think what we saw tonight publicly is what I'm sure his aides have seen privately, and I bet he was the person who wanted to go out there and say that, because I think that was very, very meaningful to him when they accused him of not remembering when his son died.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:10:06",
+      "speaker": "COATES",
+      "sentences": "Let me turn to you, James, on this because, first of all, the special counsel report is due to Congress. That's part of what they have to do. It's not as if he hasn't. He can just say, you know, yay or nay, thumbs up or thumbs down. But I've heard a lot of people react to the inclusion of things outside of the scope of why he declined to prosecute, perhaps, as, well, they called it kind of call me esque, for lack of a better term. But he does talk about the memory issues as it relates to his ability to make the case in front of a jury. When you saw that inclusion, what went through your mind?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:10:06",
+      "speaker": "JAMES SCHULTZ, FORMER WHITE HOUSE LAWYER",
+      "sentences": "So, look, when they're referencing his memory generally, that's something that contextually matters because they use that as a basis not to prosecute, right, not to bring charges. So, did they have to put in that it was specifically the issue relating to his son? Probably not, but what that does show is kind of the gravity of the issues relative to his memory, right? I mean, the folks interviewing him, they're probably not making this up, right, that he may have forgotten that. And, contextually, that matters relative to such a big decision as to whether to, once he's finished being president, charging a president of the United States with a crime.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:10:06",
+      "speaker": "BORGER",
+      "sentences": "But I'm not a lawyer, but the question that I have for all of you lawyers here is why does that have to be included in a decision not to prosecute? Either you make a decision to prosecute and you say why, or you say, we're declining prosecution and that's the end of the case. Why does that -- why is that -- why do you need to explain why?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:10:06",
+      "speaker": "COATES",
+      "sentences": "Well, let me ask you that, Elliot, because she's making a point of, you know, the distinction between there's the political confrontation that everyone is talking about and then there's the prosecutorial discretion. And on that prosecutorial discretion aspect of it, is it relevant?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:10:06",
+      "speaker": "ELLIOT WILLIAMS, CNN LEGAL ANALYST",
+      "sentences": "Well, yes and no. It's -- when prosecutors write what's called a prosecution memorandum, laying out the reasons why they're charging or not charging an individual making a recommendation, certainly, they lay out these, this is the law, and these are the facts that we have available to us, and this is how we intend to prove the information that we would charge in an indictment.Now, what would have been legally relevant is these are the charges, this is the evidence we have and this witness may or may not be able to provide us with useful evidence or testimony. Saying it's because he's an adult old man or whatever language they use is simply not relevant and excessive and unnecessary. And I feel that we might have learned the lesson about what happens when prosecutors in contentious political elections start weighing in with detailed analysis of sullying up the people they're investigating. We saw it in 2016 and sort of saw some of that here. Yes, they had to say why they weren't bringing charges, but the sort of the specific, almost personal attacks on the person they were investigating probably went a little far.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:10:06",
+      "speaker": "COATES",
+      "sentences": "Let me play, I almost had special devil's advocate for a moment, and just thinking about -- I know when I've done trials, right, I think to myself the witnesses I'm going to put on, who's going to present sympathetic, who's going to make me allow me to build my case and prove beyond a reasonable doubt, and there might be talk about when there's say a mother of a particular victim or a defendant. You have to weigh how you're going to approach that person in direct and cross-examination, right? You think about how they're going to present. And so I wonder to what extent they were considering that aspect of.But I also want to tell you what Donald Trump had to say, because he's weighed in. Is anyone surprised? No? Okay. Shock? Okay, great. Well, he said this on the special counsel decision. He posted on Truth Social, and he said, this case is much more severe than the Mar-a-Lago documents case against him, calling it, quote, two-tiered system of justice and selective prosecution. Jim, when you hear this, the idea of a double standard, do you think it's true?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:10:06",
+      "speaker": "SCHULTZ",
+      "sentences": "Look, this is much different than the Trump case, right? The difference here, and they laid it out, Biden was very cooperative. He turned over the documents. He turned over the evidence. His lawyers made it very readily available. And in Jack Smith's case, you know, we've seen facts that Donald Trump didn't cooperate. Donald Trump withheld evidence. Donald Trump didn't turn everything overSo, I think -- I don't think Donald Trump had, he just kind of turned everything over, made it accessible, you know, I don't know that we're where we are in that documents case with Donald Trump today had he done what Joe Biden did.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:10:06",
+      "speaker": "WILLIAMS",
+      "sentences": "Just one more thing. Back to this, what goes into a prosecution memo and doesn't, and you used a great example there of a mother. If we're going to put a witness on, might this person's feelings or passions be of such that we can't put them in front of a jury?Now, if you were to write a prosecution memorandum and saying, because this person's status as a mother, we think they might be a bad witness, fine. She had a child out of wedlock is an additional fact that does not need to go in there. It just serves to sully up and dirty up the person you're investigating. And that's what some of the information here did. So, it went beyond what you needed to establish the case.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:10:06",
+      "speaker": "BORGER",
+      "sentences": "And Laura mentioned Comey and, of course, we all recall when Comey decided not to prosecute Hillary Clinton, he then went on to talk about how reckless she was with her emails and went on and on and that a lot of Democrats believe really hurt her in the election.So, I think, you know, it's the same kind of thing, how far do you go in telling the public why you made these decisions.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:20:00",
+      "speaker": "COATES",
+      "sentences": "We remember that moment. You know what, we're going to compile a court of public opinion on this very issue, so stay tuned later in the show to hear what the American public, strangers, thinking about this whole issue. Stick around. Abby?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:20:00",
+      "speaker": "PHILLIP",
+      "sentences": "Lots more ahead. Up next, we'll discuss the political implications of this report and all of its findings, plus the plaintiff in the Supreme Court battle over Trump staying on the ballot will join us live, as it seems that the justices may very well side with the former president, and moments away from the polls closing in Nevada.This is CNN's special live coverage. (COMMERCIAL BREAK) (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:20:00",
+      "speaker": "REPORTER",
+      "sentences": "Do you believe your memory has gotten worse, Mr. President?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:20:00",
+      "speaker": "BIDEN",
+      "sentences": "My memory is not -- my memory is fine.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:20:00",
+      "speaker": "REPORTER",
+      "sentences": "Do you fear that this report is only going to fuel further concerns about --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:20:00",
+      "speaker": "BIDEN",
+      "sentences": "Only by some of you.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:25:03",
+      "speaker": "PHILLIP",
+      "sentences": "And did he do a good enough job of convincing Americans that he has all of his faculties?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:25:03",
+      "speaker": "ANA NAVARRO, CNN SENIOR POLITICAL COMMENTATOR",
+      "sentences": "I saw him yesterday, right? He was here in New York for a fundraiser that I was a guest at. Look, I've known Joe Biden for, I don't know, 25, 30 years. Is he the same Joe Biden that I knew 30 years ago? No. Am I the same person that I knew 30 years ago? No. I don't have the same youth either.This today, I think, is a press conference where he was angry, he was emotional. What people are going to remember is the fact that he misstated the difference between the president of Egypt and the president of Mexico.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:25:03",
+      "speaker": "PHILLIP",
+      "sentences": "That was a major gaffe.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:25:03",
+      "speaker": "NAVARRO",
+      "sentences": "That was a major gaffe at a moment when he's pushing back on, I'm good, right? So, it was a major gaffe, and people are going to remember that.But I'm going to say this over and over again. This comes down to a binary choice. And the binary choice is Joe Biden versus Donald Trump. And Donald Trump makes as many gaffes, probably just not as much scrutiny as Joe Biden does. Last week, he confused Nikki Haley for Nancy Pelosi. These are actually people he knows, right, and he's been working with. And so how do you justify that? But it gets less scrutiny than Joe Biden. Joe Biden can't be making these kind of mistakes. I think this is one that's going to be very memorable. I think this is one of those that's going to stick, that's going to hurt. I think that you're going to see it in campaign ads. But I will tell you, the Joe Biden I have seen is good. The Joe Biden I've seen is not the Joe Biden I knew 30 years ago, but it is a Joe Biden I trust to be my president today and in a year, and in two years, and in three years.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:25:03",
+      "speaker": "PHILLIP",
+      "sentences": "And, Jamal, you worked at the White House. You had the pleasure of being in the communication staff in a moment like this. They decided to put him out just hours after this went down. They decided to let him take questions. He makes that major gaffe that Ana was talking about. Was this a strategic mistake?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:25:03",
+      "speaker": "JAMAL SIMMONS, CNN POLITICAL COMMENTATOR",
+      "sentences": "No, they absolutely made the right call putting him out today because that would have given the president of the United States is the last word on what happened throughout the day. He was able to forcefully push back on some of the questions that were in that report. He was able to then talk about his son in a very emotional way.I mean, he got a little angry, and I think that energy plays well. Now, I think the Sisi comment, everyone has been talking about this. Mike Johnson, the speaker of the House, was talking to Kristen Welker on Meet the Press on Sunday and confused Iran for Israel. People do this all the time. I do it. I'm sure other people have done it. So, I just don't know if that's a fair critique of the president, even though obviously this question today is about whether or not he's got the mental acuity.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:25:03",
+      "speaker": "PHILLIP",
+      "sentences": "It's not in a vacuum. I think that's part of the problem, right? Is that this is about, is he pushing back consistently on the narrative or is he reinforcing it?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:25:03",
+      "speaker": "SIMMONS",
+      "sentences": "I mean, let me just say this, I was in the White House for a year, I saw the President in public settings several times a week, I saw him in private settings. He's very adept. He worked his way through issues. He talks to people in a really kind of compelling way.I think that this is -- publicly, he always makes mistakes when he's on stage.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:25:03",
+      "speaker": "NAVARRO",
+      "sentences": "Do you think this was a call by the press team or do you think this was Joe Biden's call? Because I think this was Joe Biden angry at those findings, Joe Biden getting very riled up about what they said about him not remembering Beau's death and Joe Biden saying I'm going out there and I'm doing that. What do you think? I'm sorry, Abby. I know you're the moderator.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:25:03",
+      "speaker": "PHILLIP",
+      "sentences": "That was a very good question. What do you think, Jamal?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:25:03",
+      "speaker": "SIMMONS",
+      "sentences": "So, I talked to the White House tonight. They're feeling like this was the right call. They feel like --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:25:03",
+      "speaker": "SCOTT JENNINGS, CNN SENIOR POLITICAL COMMENTATOR",
+      "sentences": "But who made it?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:25:03",
+      "speaker": "SIMMONS",
+      "sentences": "They feel like they're -- nobody said who made it. Nobody told me who made it. I didn't ask about it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:25:03",
+      "speaker": "PHILLIP",
+      "sentences": "Well, the staff would be the first to throw the principal under the bus if they are --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:25:03",
+      "speaker": "SIMMONS",
+      "sentences": "Yes, and I know these people pretty well, so they would have said, boy, I think that was probably not the right thing to do. They all feel good. They also feel like the anger works. And they're also very angry at Robert Hur for what it is that he did today. He's not qualified to make these kind of judgments and he made these kind of statements in a document that he should not have made these statements in.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:25:03",
+      "speaker": "JOE PINION, REPUBLICAN STRATEGIST",
+      "sentences": "I don't want to -- but he's not qualified. I mean, he's been hired.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:25:03",
+      "speaker": "SIMMONS",
+      "sentences": "He's a lawyer who was supposed to be an prosecutor who was supposed to have said, whether or not the president committed a crime, he said the president does not have a case.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:25:03",
+      "speaker": "JENNINGS",
+      "sentences": "Do you have to be a medical doctor to make a judgment that someone said to you in an under oath interview, I don't remember when I was vice president? I mean, do you have to have a medical degree to report that in a document?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:25:03",
+      "speaker": "SIMMON",
+      "sentences": "I think we heard Anderson tonight have a conversation about the good -- when did I start at CNN? I was -- this happens very often.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:25:03",
+      "speaker": "JENNINGS",
+      "sentences": "He was vice president of the United States of America.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:25:03",
+      "speaker": "PHILLIP",
+      "sentences": "I also want to say that the elections are every four years, so that makes it a little easier.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:25:03",
+      "speaker": "SIMMON",
+      "sentences": "Yes, but he can also go -- I don't know, that's like 2009, 2012. What year was that?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:30:00",
+      "speaker": "PHILLIP",
+      "sentences": "Let me just --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:30:00",
+      "speaker": "PINION",
+      "sentences": "It's really serious, and I think that we can't just poo-poo it as to when did Anderson start at CNN. It's much bigger than that. It's much more serious than that. And, you know, no disrespect to Anderson. We all love him. But the point is",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:30:00",
+      "speaker": "JAMAAL SIMMONS, CNN POLITICAL COMMENTATOR",
+      "sentences": "Caroline, Caroline.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:30:00",
+      "speaker": "PHILLIP",
+      "sentences": "Anderson's somewhere wondering, why is he part of this conversation?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:30:00",
+      "speaker": "SIMMONS",
+      "sentences": "Catch his phrase. Everything says catch his phrase tonight.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:30:00",
+      "speaker": "PHILLIP",
+      "sentences": "Look, I think your point is -- Your point is -- is valid, that we're having a conversation also about what was in that document, which has to do with Joe Biden. But I want to make this other point. The document also says that they did not believe that there was evidence beyond a reasonable doubt that Joe Biden committed a crime that is chargeable here. It did say that. So beyond a reasonable doubt is the standard in a criminal case.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:30:00",
+      "speaker": "PINION",
+      "sentences": "True. But I will say that everyone knows that we give prosecutors discretion. And good prosecutors at every level do not bring charges when they don't believe they have a pathway to prove a case beyond a reasonable doubt. And in this particular case, a significant contributing factor was his perception of the acuity of Joe Biden. So again, we should take no pleasure in this. We should not be sitting here trying to gloat. This is really much bigger than any type of campaign ad that can be cut.The Department of Justice has said in an official document that has been stamped and dated and will stand the test of time that it is their opinion that Joe Biden is not fit. You cannot push that under the rug. That is a question that has to be answered and has to be addressed.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:30:00",
+      "speaker": "SIMMONS",
+      "sentences": "You also can't push under the rug that this is a Trump- nominated special prosecutor --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:30:00",
+      "speaker": "PINION",
+      "sentences": "So now.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:30:00",
+      "speaker": "SIMMONS",
+      "sentences": "Hold on a second.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:30:00",
+      "speaker": "PINION",
+      "sentences": "Please wait.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:30:00",
+      "speaker": "SIMMONS",
+      "sentences": "-- who let the president off the hook and may have perhaps been just giving a little red meat to his Republican friends as he let the president off the hook.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:30:00",
+      "speaker": "PINION",
+      "sentences": "Mondays, our institutions have not been weaponized. Wednesdays, the institutions have been weaponized. SCOTT JENNINGS, CNN SR. POLITICAL COMMENTATORof the day is, did anything that happened today in this document or in this press conference help or hurt this number, that three quarters of the American people before today had moderate or significant concerns about the president's mental acuity and fitness for this office? I would submit that at the conclusion of this document and at the conclusion of this press conference, that number certainly didn't get any better. It probably got worse. And it firmly shifted the conversation even further towards his own vice president. Because I would say, and I don't know how many people on this panel believe it, there aren't too many Americans who are going to look at this and say, this guy is up to serving for five more years as president of the United States. I think Vice President Harris became squarely an issue in this election. Today she already was getting there, and now it's even more important.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:30:00",
+      "speaker": "PHILLIP",
+      "sentences": "Everyone, stick---",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:30:00",
+      "speaker": "SIMMONS",
+      "sentences": "You've got the political values and the ability to serve as president of the United States and do a very good job.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:30:00",
+      "speaker": "PHILLIP",
+      "sentences": "Everyone, everyone, everyone, stick around.ANA NAVARRO, CNN SR. POLITICAL COMMENTATOR: The scrutiny on Trump is so much different than the scrutiny on Biden.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:30:00",
+      "speaker": "JENNINGS",
+      "sentences": "You don't think Donald Trump gets any scrutiny?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:30:00",
+      "speaker": "NAVARRO",
+      "sentences": "I don't think scrutiny, I don't think the gaffes he makes. I mean, he says the stupidest things on a daily basis. He confuses people. He's talking about whales, he's talking about windmills. He makes absolutely zero sense on a daily basis.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:30:00",
+      "speaker": "JENNINGS",
+      "sentences": "Your entire job during the day is to have a show in which Donald Trump's gaffes are endlessly mocked every day. You don't think he gets the same scrutiny as Joe Biden?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:30:00",
+      "speaker": "NAVARRO",
+      "sentences": "Number one talk show in America.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:30:00",
+      "speaker": "PHILLIP",
+      "sentences": "Everyone, we're gonna leave it there for now. For now, there's so much more to talk about. Laura, I'm gonna let cooler heads down in Washington prevail.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:35:02",
+      "speaker": "COATES",
+      "sentences": "Well, now to Nevada, where the caucus is wrapped up just moments ago and where Donald Trump is anticipating a win and then 26 more delegates. Let's go to John King at the magic wall with more. John, what are you seeing tonight?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:39:58",
+      "speaker": "COATES",
+      "sentences": "Well, on that point, I mean, we are three contests into this race. If he does, in fact, as you say he will, get Nevada, that's then 3-0. And people will say that it's all over. Nikki Haley is being steadfast and doubling down and saying she's not going anywhere, including all the way to South Carolina. What do you make of the trajectory of all this?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:39:58",
+      "speaker": "KING",
+      "sentences": "Well, if you look at the momentum, trajectory is going to be Trump-red, Trump-red, Trump-red.Let's go to South Carolina. So let's just bring up South Carolina. The hard part for Nikki Haley is, yes, she was the governor there. Yes, she's actually quite popular among Republicans. But look at 2016, all but two, Donald Trump won all but two of the 48 counties in South Carolina back in 2016 when he was brand new on the political scene. That was his second win in South Carolina. This is eight years later. He's even more popular in South Carolina. Marco Rubio won here. Right, you know, Richland County, which is where the capital is in Columbia. Marco Rubio went out here. Charleston County, which is along the coast. But Laura, I'm just back from South Carolina interviewing voters there. Trump is more popular now than he was then. They say they like Nikki Haley. They just love Donald Trump. Is it mathematically possible? She has, what, 16 days left to try to change minds? It is possible. But if Trump goes 4-0, she says she's in the race to stay. But it's just pretty hard if you have one. Two, three, four. Yes, we'll still be early in the delegate chase. Yes, she is raising money. So she says she's gonna stay at a Super Tuesday and beyond. There are a lot of Republicans who want somebody in the race just in case they keep saying. But look, this is Donald Trump's party. The only way to prove it is to beat him somewhere. She's not gonna do that tonight. Then we go to South Carolina.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:39:58",
+      "speaker": "COATES",
+      "sentences": "John King, when you're at the magic wall, democracy gets a rush of adrenaline. Thank you so much for being here.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:39:58",
+      "speaker": "KING",
+      "sentences": "Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:45:00",
+      "speaker": "COATES",
+      "sentences": "Well, some might say it's obvious what's about to happen. Well, unless today's oral arguments were a Keyser Soze, like head fake. God, I love that movie. Well, the Supreme Court seems pretty darn likely to side with Donald Trump in his 14th Amendment fight to stay on the ballot. There's a lot of nodding and agreement, not just from the conservatives when the former president's own lawyer made his case.One, they seem to be content to go along with the assertion that Congress has to enforce the 14th Amendment. Two, even the liberals on the bench were hesitant to set a dramatic precedent as letting states simply take a candidate off the ballot. And three, they were focused on the kind of butterfly effect on democracy that this decision could unleash and make it, well, problematic in the future. And you've got to have a fourth one, don't we? The justices somehow didn't really get into the ultimate question. What question is it? Did he actually engage in an insurrection? Now, of course, it's hard to read the tea leaves in full and the Supreme Court like Bobby Brown will exercise their prerogative on all fronts. But I want to bring in Krista Kafer, a long time Colorado Republican, who actually is one of the plaintiffs in this case and was censored by her county GOP for having the audacity to even be a part of this lawsuit. Krista, so nice to see you in person. KRISTA KAFER, PLAINTIFF IN COLORADO 14TH AMENDMENT CASE: It is great to see you in person and I'm very proud of that censor. I also, I like the fact that you brought in a little Keyser Soze reference, that was quite nice.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:45:00",
+      "speaker": "COATES",
+      "sentences": "I mean, you know, we do a lot of big things here on CNN. That's one of the things we do. But I will tell you, when we look at this, I wanted to be in that room where it was happening, to get a sense of what was happening in that room. We were listening. There's no actual visual cameras allowed there. You were in that room. What was it like?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:45:00",
+      "speaker": "KAFER",
+      "sentences": "Quiet. Really? Yeah, it was just so strange. And then, you know, occasionally, Justice Kagan was kind of funny. So you would hear like a little laughter ripple across the audience, but a lot of dark suits, a lot of silence, and a lot of seriousness given the gravity of the situation.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:45:00",
+      "speaker": "COATES",
+      "sentences": "You mentioned, Justice Kagan, I want to play for you something that she repeatedly was questioning. And it had to do with the fact that it was Colorado as one state that was making a decision like this that may have had the impact of disenfranchising or altering or influencing other voters' choices. Listen to what she had to say.(BEGIN AUDIO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:45:00",
+      "speaker": "JUSTICE ELENA KAGAN, SUPREME COURT",
+      "sentences": "I think that the question that you have to confront is why a single state should decide who gets to be president of the United States. In other words, you know, this question of why the former president is disqualified for insurrection to be president again is, you know, just say it. It sounds awfully national to me.(END AUDIO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:45:00",
+      "speaker": "COATES",
+      "sentences": "What did you make of that?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:49:57",
+      "speaker": "COATES",
+      "sentences": "You know, interestingly enough, in this tit-for-tat era that we find ourselves in repeatedly, there is a thought that if this is allowed to happen, for Trump to be taken off the ballot, well then the next time somebody has an issue policy dispute or otherwise of any president, including Biden, that they'll do the same to him.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:49:57",
+      "speaker": "KAFER",
+      "sentences": "No, I've thought of that, and it's because I was a congressional staffer during impeachment, right? So President Clinton was impeached, and some said, you know, we've really lowered the bar. We're gonna see impeachment used a lot more after this. And it's true. We have seen it used for frivolous reasons. It seems like anytime somebody runs for president, somebody else is already drawing up impeachment papers.But let's keep in mind that it also has been used for legitimate reasons, as in insurrection, as in influence peddling, it has been used for real reasons. We need to make sure that the 14th Amendment Third Clause is used for legitimate reasons, that they don't just stick it on a shelf and say it's gonna be problematic because we need it used when insurrection happens and insurrection has happened.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:49:57",
+      "speaker": "COATES",
+      "sentences": "That's a really important point because of course the clause engaging in insurrection is as important as whether the person's taken an oath, whether they're an officer of the United States. We remember all these arguments.But there was some skepticism about the Supreme Court having to wade into whether Trump had indeed engaged in an insurrection. In fact, it was almost an hour into the oral argument before we even heard the word raise. Listen to this moment because when it was raised, I think it was a discussion between Justice Katanji Brown Jackson and Jonathan Mitchell representing Trump. Listen to this. (BEGIN AUDIO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:49:57",
+      "speaker": "JONATHAN MITCHELL, ATTORNEY REPRESENTING DONALD TRUMP",
+      "sentences": "For an insurrection, there needs to be an organized, concerted effort to overthrow the government of the United States through violence. And this riot occurred --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:49:57",
+      "speaker": "JUSTICE KETANJI BROWN JACKSON, SUPREME COURT",
+      "sentences": "And so the point is that a chaotic effort to overthrow the government is not an insurrection?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:49:57",
+      "speaker": "MITCHELL",
+      "sentences": "No, we didn't concede that it's an effort to overthrow the government either, Justice Jackson, right? None of these criteria were met. This was a riot. It was not an insurrection.(END AUDIO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:49:57",
+      "speaker": "COATES",
+      "sentences": "What was your reaction to that moment? And also, take me in that core. KAFERthought the two newest justices asked some of the best questions. And, you know, does it have to be organized? Can it just be a chaotic riot? The fact is -- is it was a deliberate action to stop the peaceful transfer of power. You know, riots happen. Riots have happened throughout our nation's history. But this is the first one I can think of since the Civil War in which a group of people did not like an outcome, an individual especially, Donald Trump did not like the outcome decided he wanted to disenfranchise 80 million voters who voted for his opponent, pushed that false narrative to the point of violence, to the point of insurrection. And we saw our Capitol, a place I used to work at, attacked by thugs, basically at his command. I don't know if it's chaotic, I don't know if it's organized, but either way, it's insurrection.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:49:57",
+      "speaker": "COATES",
+      "sentences": "I wonder, I mean, you've talked a couple times since this case has gone down. You have not been treated kindly, shall we say, by so many people sitting in that courtroom today in front of those Supreme Court justices, did it feel worth it even if the result is not what you want?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:49:57",
+      "speaker": "KAFER",
+      "sentences": "It did feel worth it. And I kept thinking of that Lincoln quote way back when, we need to do right, and of course I'm not going to give it justice, but we need to do right by the light that God has given us to see what is right and we must continue on.And I thought about that. I thought about that in posterity, regardless of what happens. When people look back and say, you know, I sure wish somebody had done something. I wish somebody had tried to do something. The fact is, is that we did try. Whether we succeed or not isn't the issue. We took the constitution and rule of law seriously, and we wanted to hold this individual responsible, accountable, and to preserve our democracy. We did what we could.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:49:57",
+      "speaker": "COATES",
+      "sentences": "It's no small feat to have the Supreme Court want to grapple with an issue and a question you've raised. Very, very important. Krista Kafer, thank you so much.Abby?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:55:00",
+      "speaker": "COATES",
+      "sentences": "Tonight, a split screen of epic proportions. You're watching Democracy in Action tonight. Nevada Republican voters for their choice for November.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:55:00",
+      "speaker": "PHILLIP",
+      "sentences": "In just a few minutes, we will go live to Las Vegas, where Donald Trump is expected to add an important delegate victory on his march to the nomination for the Republican nomination. It follows a consequential day for Trump and his lawyers inside the Supreme Court. And what appears to be a bench inclined to side with Trump's ability to stay on that ballot.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "22:55:00",
+      "speaker": "COATES",
+      "sentences": "And by the way, Abby, in case that was not enough news for everyone, Joe Biden, the president of the United States, venting his frustration at the special counsel who decided not to indict him, but did he decide to add gallons of fuel to already burning questions about his age and ability to be the president of the United States? I'm Laura Coats in Washington, D.C. Thank you so much for joining us tonight. And what's been, well, a marathon day, Abby, of consequential stories.",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

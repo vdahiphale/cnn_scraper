@@ -1,0 +1,109 @@
+{
+  "date": "2024-10-30",
+  "headline": "CNN 10",
+  "subHeadline": "Is Space Travel Bad For Your Health? How AI is Helping Decode the Oinks and Grunts of Pigs; Paddlers Take to the Water in Giant Hollowed-Out Pumpkins. Aired 4-4:10a ET",
+  "utterances": [
+    {
+      "timeStamp": null,
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Engine ignition and liftoff of the Polaris Dawn mission on the Falcon 9 rocket.DR. SANJAY GUPTA, CNN CHIEF MEDICAL CORRESPONDENT (voice-over): In September, the four crew members of the Polaris Dawn mission made history - -",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": null,
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Welcome to orbit.GUPTA (voice-over): -- by going to the highest levels of orbit in nearly 60 years and performing the first all-civilian spacewalk.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": null,
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "Commander Jared Isaacman now emerging.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": null,
+      "speaker": "GUPTA",
+      "sentences": "Jared, is commercial space travel a looming reality for most people?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": null,
+      "speaker": "JARED ISAACMAN, POLARIS DAWN MISSION COMMANDER",
+      "sentences": "I certainly think so. A great proof point is while we were in orbit, there were 19 people in orbitat once, which was a record. And three years ago, when I went to space for the first time, the record was 14. Now, these are -- these may seem like small numbers, but they`re steps in the right direction. GUPTA (voice-over): But to keep moving in the right direction, there is still so much to overcome.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": null,
+      "speaker": "ANNA MENON, POLARIS DAWN MEDICAL OFFICER",
+      "sentences": "About 60 percent of people flying to space are afflicted by space motion sickness. This really hits you forthe first few days. GUPTA (voice-over): Anna Menon was the mission`s medical officer. GUPTA (on camera): Can you give us some details? What did you experience?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": null,
+      "speaker": "MENON",
+      "sentences": "There can be a whole spectrum of experience from, you know, lightheadedness, nausea, all the way to vomiting. I experienced really thewhole gamut. GUPTA (voice-over): It`s because of the lack of gravity that messaging to our brains can go awry. And that can result in motion sickness like side effects. But you should also know that the brain physically changes during space travel. Look here. It shifts up ever so slightly in the skull, and the fluids surrounding and protecting the brain expand.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": null,
+      "speaker": "SCOTT POTEET, POLARIS DAWN MISSION PILOT",
+      "sentences": "It`s a very austere environment. We`re all going to be susceptible to something. For me, it was kind of thismild headache that I had to deal with that was perpetual for a majority of the mission. GUPTA (voice-over): Scott Poteet was the mission`s pilot. What he noticed were changes in his vision.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": null,
+      "speaker": "POTEET",
+      "sentences": "More or less, my vision acuity started to deteriorate those first few days, but immediately came back once I came back to Earth.DR. DONNA ROBERTS, DEPUTY CHIEF SCIENTIST INTERNATIONAL SPACE STATION: 50 to 70% of astronauts, after spending periods of time on the International Space Station, have degradation in their vision. GUPTA (voice-over): Dr. Donna Roberts has spent more than 20 years with NASA trying to understand why symptoms like that occur.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": null,
+      "speaker": "ROBERTS",
+      "sentences": "We`ve been analyzing MRI brain scans of astronauts that were obtained before they went into space and then sometime after they landedback on Earth. GUPTA (voice-over): What you`re seeing is an exclusive look at the post- flight health data collection the Polaris team underwent, testing everything from their balance and their vision, as well as the imaging of their brains.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": null,
+      "speaker": "ROBERTS",
+      "sentences": "One of the unique aspects of this mission is that astronauts went deeper into space than astronauts have been since the Apollo days and moreexposure to radiation. And so the question could have been, was there any evidence of radiation injury? And we`re not seeing that on the initial look at these images. So that`s a really good thing.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": null,
+      "speaker": "GUPTA",
+      "sentences": "Do you think we`re getting to the point where humans could reliably live on a space station or even a different planet?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": null,
+      "speaker": "SARAH GILLIS, POLARIS MISSION SPECIALIST",
+      "sentences": "There`s so much that changes when you`re actually in microgravity. That`s not how we evolved. But I thinkthat really just underscores the importance to me of the research we are doing, the data we`re collecting that can then feed into how do we solve some of these challenges? How do we enable so many more people to get to space? GUPTA (voice-over): It`s that sort of research and data that might lead to another giant leap for mankind. (END VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": null,
+      "speaker": "WIRE",
+      "sentences": "Tend second trivia.According to current research, what animal has organs that are the closest anatomically to humans? Monkey, pig, dog, or bear? If you said pig organs, you are correct. They are roughly the same size as human organs, making them the most suitable for transplantation. What if animals could talk? And I mean, talk to you and you understand them. Well, some researchers using artificial intelligence have made a breakthrough with pigs that could revolutionize how we understand animals. While we might think oinks and squeals are just random barnyard noises, we`re learning that maybe these pretty poor sign creatures are trying to tell us something. (BEGIN VIDEOTAPE) ANNA STEWART, CNN INTERNATIONAL CORRESPONDENT (voice-over): Does this -- (PIG SQUEALING) STEWART (voice-over): -- indicate happiness, discomfort, or stress? With the help of A.I., European scientists developed an algorithm that may just be capable of decoding pigs` noises, as well as keeping farmers updated on their pigs` well-being. To develop the A.I. algorithm, scientists collected thousands of recordings of pig sounds in various scenarios, including play, isolation, and competition for food. Once collected, they were placed in a database. ELODIE MANDEL-BRIEFER, BIOLOGIST, UNIVERSITY OF COPENHAGEN: You had this huge database, of course, that are producing specific emotions, specific contexts by many different pigs and kinds of pigs. STEWART (voice-over): Scientists found short grunts typically signal positive emotions. Long grunts often indicate discomfort. Screams or squeals could show stress. MANDEL-BRIEFER: We developed A.I., so artificial intelligence that could tell us -- be trained to tell us if the calls that we recorded were emotionally positive or negative. STEWART (voice-over): The study of animal emotions is a relatively new field. It highlights the importance of livestock`s mental health to their overall well-being. Most welfare strategies today focus only on the animal`s physical health. MANDEL-BRIEF: And now with the explosions of A.I. methods, it actually becomes more and more easy to do these things. STEWART (voice-over): Scientists hope this tool will be developed into an app for farmers` phones, helping to translate what pigs are saying in terms of their emotions. (END VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": null,
+      "speaker": "WIRE",
+      "sentences": "Today`s story getting a 10 out of 10, pumpkins that float, not in space, not in the air. We`re talking on water with people in them.We`re picking up our paddles in Gordon to Belgium, where hundreds of people are taking their life jackets and jack-o`-lanterns on an infructuous journey in an annual pumpkin regatta. (BEGIN VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": null,
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "These are no ordinary boats. They are, in fact, giant hollowed-out pumpkins. The annual pumpkin regatta in Belgium drew over 300participants this year, according to Reuters. DRIES MOLANS, CO-ORGANIZER OF THE PUMPKIN REGATTA (through translation): The rules are reasonably simple. The teams consist of four people who paddle a lap in a pumpkin and pass on the paddle to the next teammate, who also do a lap. It is simply about getting the fastest time.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": null,
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "The race began in 2008 as a creative way for local growers to make use of their oversized fruits. After the race, the pumpkinsare turned into fertilizer for future crops and the seeds are stored for next year. (END VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

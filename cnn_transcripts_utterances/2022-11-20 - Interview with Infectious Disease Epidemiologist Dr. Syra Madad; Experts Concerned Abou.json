@@ -1,0 +1,529 @@
+{
+  "date": "2022-11-20",
+  "headline": "CNN This Morning",
+  "subHeadline": "Interview with Infectious Disease Epidemiologist Dr. Syra Madad; Experts Concerned About COVID, Flu, and RSV; Five People Killed, 18 Injured at a Gay Nightclub in Colorado Springs; Young Girl Killed by an Out-of-Control Float Truck During a Christmas Parade in Raleigh, North Carolina; Shooting at the University of New Mexico Left One Person Killed and One Injured; Food Banks Struggling to Meet Increased Demand; Inflation Increased the Cost of Thanksgiving Dinner by 20% This Year; Interview with Victor Farmington Food Cupboard Karen Guidarelli; FIFA World Cup, First Match, Qatar Takes on Ecuador; Qatar, the First Middle Eastern Country to Host FIFA World Cup. Aired 7-8a ET",
+  "utterances": [
+    {
+      "timeStamp": "07:00:19",
+      "speaker": "AMARA WALKER, CNN ANCHOR",
+      "sentences": "Good morning to you and thank you for being with us on this Sunday. I'm Amara Walker.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:19",
+      "speaker": "MARTIN SAVIDGE, CNN ANCHOR",
+      "sentences": "And I'm Martin Savidge. We begin this morning with breaking news. Police say at least five people are dead after a shooting at a Colorado Springs nightclub.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:19",
+      "speaker": "WALKER",
+      "sentences": "So the shooting happened just before midnight at Club Q, that is an LGBTQ nightclub. Another 18 people were injured in the shooting, according to police. Now Colorado Springs police they do have a suspect in custody. That person is currently being treated at an area hospital. Also, the FBI is assisting with this investigation. But officers say they will be at the scene for some time.(BEGIN VIDEO CLIP) LT. PAMELA CASTRO, COLORADO SPRINGS POLICE: Moving forward, we have numerous homicide detectives on scene. They'll be processing the scene. This scene is going to take some time to get through. So we will be here for many, many hours to come. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:19",
+      "speaker": "WALKER",
+      "sentences": "Police declined to speak about a possible motive but the club did put out this statement. \"Club Q is devastated by the senseless attack on our community. Our prayers and thoughts are with all the victims and their families and friends. We thank the quick reactions of heroic customers that subdued the gunman and ended this hate attack.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:19",
+      "speaker": "SAVIDGE",
+      "sentences": "Joining us now is Chief Charles Ramsey, CNN Senior Law Enforcement Analyst and CNN National Security Analyst Juliette Kayyem. Good morning to you both. Chief Ramsey, let me begin with you. We, of course, hear of the type of location, this is an LGBTQ nightclub. But even though motive has not been expressed, it has to be sort of alarm bells, I would think of concern as you go forward investigating this.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:19",
+      "speaker": "CHARLES RAMSEY, CNN SENIOR LAW ENFORCEMENT ANALYST",
+      "sentences": "Well, certainly there would be alarm bells. But as of right now, I think the Department is wise not to speculate on a motive. Remember, the suspect is still alive, which means there'll be a trial that will take place. So they're gathering facts right now.And trying to get as much information as possible going through social media, probably executing search warrants at home, vehicle, trying to get as much information as they possibly can to see what the possible motive could be. And then also interviewing the suspect if he's willing to cooperate. So, they've got a lot of work to do. This is a crime scene, it will have five decease, several people injured, not all of whom maybe were injured by gunfire. But because there will be a trial, they're going to take their time and go through this very carefully. They're not going to speculate. But we may learn a lot more at this upcoming press conference.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:19",
+      "speaker": "WALKER",
+      "sentences": "Yes, and we do want to clarify that and underscore the fact that we don't know about a possible motive if the -- if hate was a factor. But Juliette, I do want to, you know, mention because I was just looking on Twitter, and obviously the LGBTQ community is in shock. And, you know, of course, there are mentions of the Pulse nightclub, mass shooting where 49 people were killed. I mean, it was the worst mass shooting in U.S. history.This is a community that has felt vulnerable. Would you -- could you --can we imagine that there may have been protocols in place to protect such an establishment?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:05:08",
+      "speaker": "SAVIDGE",
+      "sentences": "And Chief Ramsey, let me ask you -- I covered the Pulse nightclub shooting, that went on for some time. It appears and, of course, it's very early, but it appears this happened quickly. Now it may have been interrupted. In other words, whoever carried this out may have intended it to go longer. But it appears that law enforcement and apparently from what the club is saying, people inside, were able to thwart or make -- prevent this from getting worse.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:05:08",
+      "speaker": "RAMSEY",
+      "sentences": "Well, there's no question it would have been a lot worse probably had the patrons not acted as quickly as they did to subdue the individual. I don't know what kind of weapon the individual had. I don't know if the person came in the nightclub shooting, if they had been in the nightclub for a period of time. And these are all questions that need to be answered at some point in time.But, again, you know, had it not been for their quick reaction, there's no doubt there probably would have been more injuries or even deaths that would have taken place had the people not taken action. So we're very fortunate, but it is tragic. Five people lost their lives. I understand the community feels very threatened. The Jewish community right now is under threat. I mean, this is just not a good situation we find ourselves in across the country.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:05:08",
+      "speaker": "WALKER",
+      "sentences": "Yes, we live in a polarized country right now, right. And I'm glad Juliette, that you mentioned that this is one of the communities that definitely feels vulnerable. And, of course, now you have the shooting at this gay nightclub. In terms of, I don't know, security, because that's your expertise, is there anything that, you know, can be done, or that was learn from Pulse that we can implement?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:05:08",
+      "speaker": "KAYYEM",
+      "sentences": "Well, in an odd way, I think I need to sort of measure success in this day and age by whether fewer people get killed. And I hate to say this, but in a weird way, I think we have learned in the situations that stopping the perpetrator ends up being the most successful way of minimizing the threat. So excuse me in some way. Their activity is a way to protect themselves.Colorado is an interesting place. It is both very liberal with liberal islands within a state that's pretty permissive on guns. We certainly know that the beginning of our conversations and mass shooter, you know, were essentially Columbine, but we have a war and a long list. So people in Colorado are so very well aware of the possibility of this. So while we can talk about outside support police, surveillance cameras, body checks before you go into bars. It is also clearly a community and essentially the gay patrons at this club, who minimize the threat for themselves. And unfortunately, a lot of times that ends up being your sort of measure of success, because time is so limited to respond. WALKER: Well, hopefully we'll learn more about what these heroic customers did to stop the attack. Really appreciate both of you. Chief Charles Ramsey and Juliette Kayyem, thank you so much. And as Charles Ramsey was mentioning about the Jewish community also feeling under threat, actually, we're going to talk about another crime. As the investigation into the horrific killings of four University of Idaho students enters week two, authorities say they are still working to find the culprit responsible. Police say the four were likely asleep when they were stabbed multiple times and killed inside and off campus home.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:05:08",
+      "speaker": "SAVIDGE",
+      "sentences": "Some of the victims also had defensive wounds, indicating a possible struggle. But so far, investigators have yet to find the weapon that was apparently used in the crime. CNN's Camila Bernal is in Idaho with the very latest for us.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:10:11",
+      "speaker": "JEFFREY KERNODLE, FATHER OF XANA KERNODLE",
+      "sentences": "I heard from her just before we went over. I think midshaft is the last time I heard from her and she was fine. They were just hanging out at home. Bruises, you know, maybe occurred by the knife, or whatever.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:10:11",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:10:11",
+      "speaker": "KERNODLE",
+      "sentences": "She's a tough kid. Whatever she wanted to do, she could do it. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:10:11",
+      "speaker": "BERNAL",
+      "sentences": "And we know authorities are also asking local businesses whether they sold a knife recently. They also went through dumpsters in the area looking for evidence and they released a map detailing what these students were doing on Saturday night before this attack. They're hoping to receive even more tips based on this information. They say two of the students were at a fraternity party that was between 8And then what they say is that at around 2:00 in the morning, all four of them were back here at the house. We know that the attack happened sometime in the early morning hours. But the 911 call did not come in until about noon on Sunday. We still do not know who made that 911 call. Another thing authorities are making clear is that they believe the two other roommates who were here at the time of the attack, who survived, they believe they are not suspects in this case. Clearly, still a lot to learn here from this case, a lot to be answered. This as family and friends of these victims continue to mourn their loss. Amara, Martin?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:10:11",
+      "speaker": "SAVIDGE",
+      "sentences": "Yes, such a disturbing story. Thank you.Winter weather alerts remain in effect for more than 6 million people, count them, across six Great Lakes states. That's western New York that seems to be the bullseye bracing for another round of major league of snowfall. The National Weather Service says that when the snow winds of up to 30 miles per hour --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:10:11",
+      "speaker": "WALKER",
+      "sentences": "Gosh.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:10:11",
+      "speaker": "SAVIDGE",
+      "sentences": "-- could produce heavy snow at a rate of 2 to 3 inches per hour. While some travel bans had been lifted, many still remain in place.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:10:11",
+      "speaker": "WALKER",
+      "sentences": "That makes sense. Authorities have written more than 400 citations for drivers breaking the travel ban. Stay off the roads, guys. They've also say they've towed dozens of vehicles stuck on the side of the road or involved in accidents because of the snow, hence, the travel ban.Snowfall totals of more than 6 feet have been recorded in two locations, that is according to the National Weather Service. Orchard Park where the NFL's Buffalo Bills play, picked up 77 inches in a 48- hour period? That's more than 6 feet. It's Sunday and that means it is game day, but the Bills are facing the Cleveland Browns thankfully in Detroit. And yesterday the team shared a video showing players attempting to leave their homes. Many getting help from neighbors. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:10:11",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "The city of good neighbors getting the plane. Wow. Let's go.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:10:11",
+      "speaker": "SAVIDGE",
+      "sentences": "Yes, a dog sled would be an order CNN's Gloria --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:10:11",
+      "speaker": "WALKER",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:10:11",
+      "speaker": "SAVIDGE",
+      "sentences": "-- Pazmino has been live for us these past couple of days. She's live again this morning. And Gloria, the snowfall has been stunning, but now a new problem apparently as we heard last hour very clearly the wind.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:15:09",
+      "speaker": "WALKER",
+      "sentences": "How's the wind, Gloria? Can you hear me, Gloria? Does it sound like the wind is too --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:15:09",
+      "speaker": "PAZMINO",
+      "sentences": "Yes, I got you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:15:09",
+      "speaker": "WALKER",
+      "sentences": "Okay.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:15:09",
+      "speaker": "PAZMINO",
+      "sentences": "I can hear you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:15:09",
+      "speaker": "WALKER",
+      "sentences": "How's the wind? I don't hear it blowing. Well, it picks up -- I think you're asking me about the wind that goes up and down. And what's happening is that, I don't know if you can make it up behind me, it's whipping all of that snow that sitting here, back and forth and creating all of those snow drifts. So, you know, it's amazing to watch but it is extremely cold. It's very windy and wind advisory, as you said now, so difficult conditions out here. It's better to be home if you can manage it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:15:09",
+      "speaker": "SAVIDGE",
+      "sentences": "Yes, Gloria, thank you for braving it for us.Looks like January, it's --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:15:09",
+      "speaker": "WALKER",
+      "sentences": "It does.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:15:09",
+      "speaker": "SAVIDGE",
+      "sentences": "-- it's just November. CNN Meteorologist Allison Chinchar is live at the CNN Weather Center. And Allison, I guess the question is, you know, how much longer is it going to last especially for the poor folks in Buffalo?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:15:09",
+      "speaker": "ALLISON CHINCHAR, CNN METEOROLOGIST",
+      "sentences": "Yes. And that's a great question. It's not just the people in Buffalo, really all along the Great Lakes. Today is going to be the last day but it's not over yet. And I do want to emphasize that you still have snow coming down across portions of Northern Michigan. Cities like Cleveland, Erie, Pennsylvania and that area between Syracuse and Watertown actually getting thunder snow at this very moment.But yes, you saw Gloria's shot, look at the feels like temperature because it's not only cold temperature wise, but you have those 30 to 40-mile per hour winds in a lot of these places. It feels like just 3 degrees in Buffalo, 2 degrees in Chicago. Feels like minus 2 degree in Duluth. So it's that factor of both. But here's the thing, there's still more snow that's coming down. For a city like Buffalo, Cleveland, Erie, likely an additional 1 to 2 inches, which is plenty they've had enough. But the highest area we're expecting to see snow today is that space between Syracuse and Watertown where is as much as 1 foot of additional snow could still come down. And here's the thing, temperatures still cold today. They're still going to be below normal tomorrow. But we will start to see at least a trend in the right direction going warmer. But it's -- it takes time to get rid of 6 feet of snow, guys. So it's likely going to take days before we finally start to see things get back to normal in the Great Lakes region.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:22:00",
+      "speaker": "SAVIDGE",
+      "sentences": "Donald Trump is allowed back on Twitter. Elon Musk announced the accounts restoration after Trump was banned from social media that service at least following the January 6 attack on the U.S. Capitol and that was nearly two years ago.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:22:00",
+      "speaker": "WALKER",
+      "sentences": "Yes. The decision to let Trump back on the site comes just days after the former president announced that he is second seeking a second term in the White House in 2024. Joining us now with more on this and how Trump's reacting is CNN Business Reporter Clare Duffy. Hi there, Clare. So talk to us about how all of this played out. I mean, there's been a lot of backlash as well. But I saw that tweet that Elon Musk put out with a poll basically, right?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:22:00",
+      "speaker": "CLARE DUFFY, CNN BUSINESS REPORTER",
+      "sentences": "Right. Elon Musk -- from the time you said he wanted to buy Twitter, has always said that he disagreed not only with the permanent ban of Trump from the platform, but also just with this policy of permanent bans in general. But when he took over the company last month, he sort of backtracked a little bit and said he plans to put in place sort of content review council, which is something that a lot of the social media platforms sort of do, bring in outside experts to weigh in on some of these big content moderation decisions. But there's no evidence that that actually happened in this case.You know, Elon Musk yesterday put up this poll for his Twitter followers asking whether or not he should reinstate Trump's account. It sort of landed really sort of in the middle, almost 50-50. But there was slightly more votes for Trump returning. And so Musk made this announcement last night that the former president we put back on Twitter. And, you know, this really could sort of put a strain on the platform. Advertisers have already been sort of fleeing from this platform since Musk took over. That may continue. It also may sort of lead to this increase of traffic on the platform, at the same time that the World Cup is set to kick off, which is often one of the biggest audience events on Twitter for, you know, forever.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:22:00",
+      "speaker": "SAVIDGE",
+      "sentences": "Well, we know, obviously, Trump's a love to come back, but do we know who is he coming back? Has he said anything regarding this?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:22:00",
+      "speaker": "DUFFY",
+      "sentences": "Yes. Trump has said, you know, previously that he would stay on his own platform, Truth Social. He reiterated this yesterday when the poll was going on. He also spoke at the Republican Jewish coalition's annual meeting yesterday, and sort of snubbed Twitter and pointed out some of these issues that it's been having since Musk took over. But he didn't necessarily rule out the fact that he'll return.And, you know, Trump has so many more even just since last night when his account was reinstated on Twitter, he now has 52.3 million followers on Twitter. On True Social, he has about 4.6 million followers, and so it just really seems like it's going to be hard for him to ignore that significant of an audience on Twitter.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:22:00",
+      "speaker": "WALKER",
+      "sentences": "All right, Clare Duffy, appreciate you. Thanks for that. DUFFY",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:22:00",
+      "speaker": "WALKER",
+      "sentences": "As RSV cases continue to put a stress on hospitals and families across the U.S., we're going to hear from one doctor whose young daughter dealt with the virus firsthand.(COMMERCIAL BREAK) [07:28 59]",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:22:00",
+      "speaker": "WALKER",
+      "sentences": "With concerns about COVID surging back this winter, plus rising cases of flu, there is another virus that although normally mild can be extremely serious for toddlers and infants. My next guest is acutely aware of the problem. Her two-year-old daughter spent five days in and out of hospitals and doctors' offices after suffering a severe case of RSV.Dr. Syra Madad is an Infectious Disease Epidemiologist at Boston University and Senior Director at the Special Pathogens Program at NYC Health and Hospitals. Dr. Madad, I appreciate you joining us this morning. I'm sorry for what you've been through. I mean that's -- I'm sure it was alarming as a mom. Can you just talk us through what happened to your daughter, Lila, and when you felt something was seriously wrong? DR. SYRA MADAD, INFECTIOUS DISEASE EPIDEMIOLOGIST: Yes, so she was unfortunately infected with RSV just a few weeks ago and it came down with her just initially feeling irritable, and then she progressed to nasal congestion and coughing. And then shortly after that, she started to feel pretty bad in terms of spiking high fevers not eating much, you know, just generally being very weak and decreased activity. [07:30:00] And for me as parent, and as a parent of three, this isn't my, you know, third time experiencing, you know, my child unfortunately going through RSV. I knew that this was a telltale sign, you know, when you started seeing high fever, decreased appetite. You want to make sure you give you pediatrician a call. But for me, I went to the urgent care because it's after hours followed up by a pediatrician's visit. And then, luckily, she was on the mend after a few days, like, majority of children, you know, they usually have typically a mild case, they recover on their own without requiring emergency department support services. But for her, she also experiences post -- you know, a viral rash that spread all throughout her body. And to me, that also pondered (ph) a visit to the emergency department. And for viral rash, this is something, unfortunately, is common. Not everybody experiences it, but she, unfortunately, did where it's just her body reacting to the virus. So, luckily, she's on the mend. She's feeling better. But I certainly sympathize for all the parents and caregivers out there that are in the very similar experience, you know, with me that are experiencing the child suffering right now. WALKER:  Yes. Oh, gosh. I'm sorry. I mean -- and I'm glad she's doing better and she's on the mend. I thought that RSV was a serious threat if it became serious for infants or children under one. But -- I mean, toddlers can be impacted as well that way. DR. MADAD:  That right. Really anybody can get RSV. Anybody can get impacted. But those that are most at risk are children under the age of five, typically under the age of six months because they have these tiny airways. And then the elderly. And we're actually seeing based on data that, you know, children under the age of six months are at highest risk and being impacted the most right now. They're being hospitalized at records numbers. So, it's very, very unfortunate. And in addition to that, you're seeing that the American Academy Pediatrics is calling the Biden administration to declare RSV a public health emergency. Looking at the date, over 70 percent of pediatric beds across the national are full, and that's alarming rate, especially as we're heading into, obviously, colder months. We're seeing, you know, flu actively rise across the nation. COVID is holding steady but that can certainly surge as well. So, really important that we're trying to prevent all these respiratory viruses from circulating in our communities.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:22:00",
+      "speaker": "WALKER",
+      "sentences": "So, just to be clear, you agree with the Biden administration that there should be a federal emergency declare regarding the pediatric cases?DR. MADAD:  I do think so. You're seeing significant impacts and strain all throughout emergency departments, especially for the pediatric population, you know, throughout the nation. So, this certainly raises the level of threat that we're seeing.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:22:00",
+      "speaker": "WALKER",
+      "sentences": "So, are there -- is it just a higher number of cases or are these children just getting even sicker than we've seen previously?DR. MADAD:  Yes, that's an excellent question. So, the virus itself hasn't necessarily changed in a more pathogenic, in that sense. It's the fact that there's more susceptible individuals in the population. So, there's a couple of different factors here at play. First, obviously, we don't have a lot of mitigation measures like masking and social distancing now. So, we're seeing of the -- more individuals getting exposed to this virus. In addition to that, because we've had a relatively low, you know, season of RSV and flu the last few years because COVID-19 dominated the playing field, if you will. We're seeing more individuals getting sick for the first time with RSV. So, the first, you know, infection could be severe. And in addition to that, because we have lower immunity from these viruses, it's just coming back and, you know, impacting people in a much more severe way. So, a lot more individuals are getting infected. Hospitals certainly are getting overwhelmed in the pediatric EDs. And was -- the silver lining is because this is a respiratory virus, all three, you know, we have two -- we have a vaccine against two so we have a vaccine for COVID-19 and for flu, which for flu, I'll mention actually is a good match this year, which certainly is good news. And on top of that, the mitigation measures are all very similar. Wearing a mark, you know, staying home if you're sick. Getting tested for COVID if you think you have COVID and not -- sick individuals. You know, just making sure you're taking all these mitigation measures that's going to help reduce -- the spread of all these respiratory viruses that are circulating.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:22:00",
+      "speaker": "WALKER",
+      "sentences": "Yes, I feel like so many parents I know have had sick kids in the last several weeks, mine included. You know, she ended with hives all over her body and I'm wondering if she had RSV, but you know, she's better now. Thankfully. And I'm glad your as well. Dr. Syra Madad, appreciate you. Thank you very much.DR. MADAD:  Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:22:00",
+      "speaker": "WALKER",
+      "sentences": "So, we're continuing to follow breaking news out of Colorado Springs, Colorado, where five people were killed overnight at a gay nightclub and another 18 people have been injured.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:22:00",
+      "speaker": "MARTIN SAVIDGE, CNN ANCHOR AND CORRESPONDENT",
+      "sentences": "Let's bring in CNN's Nadia Romero. And, Nadia, what else can you tell us about this horrific event?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:00",
+      "speaker": "ROMERO",
+      "sentences": "Five -- excuse me. Five people -- yes, excuse me. Sorry. Thank you, Martin.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:00",
+      "speaker": "SAVIDGE",
+      "sentences": "Sure. Nadia, thank you. You have good insights here. Thank you. We appreciate it.Here are some of the top stories that we're following this morning. A young girl was killed yesterday after being hit yesterday by an out- of-control float truck during a Christmas parade in Raleigh, North Carolina.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:00",
+      "speaker": "WALKER",
+      "sentences": "The driver is 20-year-old, Landen Christopher Glass, he was arrested and is now facing charges, that includes misdemeanor death by motor vehicle, unsafe movement, and carrying a firearm in a parade. He's being held on $4,000 bond and he's got a court appearance scheduled for Monday.At least one person was killed, another injured in a shooting at the University of New Mexico. Officials say this happened Saturday morning. Two people shot during an altercation between students from rival schools. This all happened hours before a scheduled men's basketball game. New Mexico state police say no charges have been filed and they do not believe there is an ongoing threat to the community.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:00",
+      "speaker": "WALKER",
+      "sentences": "New data from the Farm Bureau says Thanksgiving dinner is going to cost 20 percent more this year and that is the biggest year on your jump since the Farm Bureau started tracking prices in 1986.So, take a look at these numbers, in 2020 people were spending $49.90 to feed 10 people, last year, it was $53.31, this year $64. Rising prices also putting a strain, an extra strain on food banks and cupboards as we head into the holidays. People are donating less because well, they're spending more on their own groceries.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:00",
+      "speaker": "SAVIDGE",
+      "sentences": "Karen Guidarelli is the director of operations at the Victor Farmington Food Cupboard in Upstate New York where their mission is to feed people with, \"Dignity and respect.\"Karen, thank you for joining us this morning. First, did I say your name -- last name right?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:00",
+      "speaker": "KAREN GUIDARELLI, VICTOR FARMINGTON FOOD CUPBOARD",
+      "sentences": "You said it more accurately than my mother does after 39 years.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:00",
+      "speaker": "WALKER",
+      "sentences": "Good job. SAVIDGE",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:00",
+      "speaker": "GUIDARELLI",
+      "sentences": "So, thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:00",
+      "speaker": "SAVIDGE",
+      "sentences": "-- exactly right, but thank you for that props on that. Helping hungry families, you know, we watched yesterday here in Georgia, Nadia Romero, gave us just a compelling report of families in need and handout of food. What sort of increase of numbers are you seeing and who are these new faces you're seeing?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:00",
+      "speaker": "GUIDARELLI",
+      "sentences": "We're seeing an increase in every population that we normally serve, but particularly seniors and veterans. We're also, in our region, facing a housing shortage. So, we're delivering to more families living in temporary shelter, which is usually a hotel room. But it's, you know, it would be a hotel that's specifically housing homeless folks.So, last week, a woman grabbed me by the arm, an older woman, and said, I have never needed food help before and if you hadn't stayed open, I would not be alive. And I need you to know that I've never had that kind of interaction before. So, people are clearly traumatized and food insecurity adds to that trauma.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:00",
+      "speaker": "WALKER",
+      "sentences": "Karen, it sounds -- I mean, it -- obviously, it's heart breaking for you because you're dealing with these people on a regular basis and to see so many people in need. Are you able to meet those needs? Does your organization?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:00",
+      "speaker": "SAVIDGE",
+      "sentences": "The --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:00",
+      "speaker": "GUIDARELLI",
+      "sentences": "But we are seeing a definite increase in the cost of food to keep our shelves full.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:00",
+      "speaker": "SAVIDGE",
+      "sentences": "Right, and that was the question I was going to ask you, Karen, which is, you know, some of the food, obviously is donated. Do you buy food as well? And if so, how severely are you impacted by these price increases?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:00",
+      "speaker": "GUIDARELLI",
+      "sentences": "Right. We do purchase food retail and then we purchase food and receive food from our local food bank. Some of their food is free to us, it's through USDA programs. And some is purchased at very low cost. So, that has kept us afloat, being able to leverage $1 further.What happened during the pandemic that we didn't anticipate is, you know, when there are supply chain issues, retailers didn't want us putting in bulk orders. So, we really scrambled during the height of the pandemic to have enough to keep food on the shelves. And we did a lot of mass distributions of food.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:00",
+      "speaker": "WALKER",
+      "sentences": "Well, you're doing an amazing work. And I have to say, you know, that the holidays are really a difficult time for, just, so many people, right? Just in general when you're getting together, you're remembering loved ones. And so, obviously, it's been exacerbated by so many issues including the pandemic and inflation.Karen Guidarelli, we really appreciate you joining us. Thank you so much.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:00",
+      "speaker": "SAVIDGE",
+      "sentences": "We do. Bless you for the work that you do.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:00",
+      "speaker": "GUIDARELLI",
+      "sentences": "Thank so much. Thank you for your interest.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:00",
+      "speaker": "SAVIDGE",
+      "sentences": "Can you feel the excitement? Because we are just hours away from the opening of the World Cup in Qatar. In the Middle Eastern nation is, of course, hosting this tournament for the first time and their team is going to make its debut against Ecuador later this morning.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:00",
+      "speaker": "WALKER",
+      "sentences": "OK.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:00",
+      "speaker": "SAVIDGE",
+      "sentences": "I hope they do well but I don't think they'll go far.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:00",
+      "speaker": "WALKER",
+      "sentences": "The -- maybe not, yes. I put my money there too. And I can feel and see the excitement now that we see the video. CNN's Amanda Davies is there in Qatar's capital for us. So, how are people feeling?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:00",
+      "speaker": "AMANDA DAVIES, CNN SPORTS CORRESPONDENT",
+      "sentences": "Oh, Amara, also the longest buildup to any World Cup in history. Here we are with Qatar 2022 finally kicking off at the Al Bayt Stadium which is about an hour away from where we are here at Souq Waqif. I'm going to be heading there as soon as I finished talking to you.And you have to imagine that there's going to be a fair few members of the local organizing committee and World Cup laws governing body, FIFA, who will be producing a very long, deep exhale of breath when that whistle goes eventually finally kick things off. 64 matches over the next 29 days. I have been catching up with fans from across the world over the last week or so. I met a couple Moroccans who've got jobs here for the next three months just to be here and see the action. An Argentinian who lives in Oslo who has hooked up with a group of Mexicans for the tournament. There's a very vocal Tunisian contingent. Japanese as well. I have to say, the locals, it seems, that are Argentina's Lionel Messi shirts are the most popular. Perhaps because of the PSG Qatari connection or maybe they just think they're onto a decent bet with him. The USA don't kick off their campaign until Monday when they face Wales. It is, though, a huge, huge day for the Qataris here. Their first-ever match at a World Cup finals. It's something they have been aiming for for the last 12 years. It's very much been project Qatar. They kick off against Ecuador with the eyes of the world watching. And as we've already well known, not only because of the football.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:00",
+      "speaker": "WALKER",
+      "sentences": "Yes, not only because of that. All right. Amanda Davies, appreciate it. And we feel your excitement. So, thank you for brining that to us.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:00",
+      "speaker": "SAVIDGE",
+      "sentences": "I'm envious.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:00",
+      "speaker": "WALKER",
+      "sentences": "Yes. I would love to be there.All right. Thanks for starting your morning with us, everyone. And it was lovely to be with you this weekend, Martin.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:00",
+      "speaker": "SAVIDGE",
+      "sentences": "Thank you. Thank you very much.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:00",
+      "speaker": "WALKER",
+      "sentences": "\"Inside Politics with Abby Phillip\" is up next.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:00",
+      "speaker": "SAVIDGE",
+      "sentences": "And before we go, we have a preview of CNN's new original film, \"Gabby Giffords Won't Back Down.\" It'll premier tonight at 9(BEGIN VIDEO CLIP) FORMER REP. GABRIELLE GIFFORDS (D-AZ):  All right. Ready?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Joining us now is Representative Gabrielle Giffords.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:00",
+      "speaker": "GIFFORDS",
+      "sentences": "If an idea is a good idea, it's a good idea.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Congresswoman Giffords was the target of the mass shooting.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "She's beginning several months of rehab.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Give me two fingers. All right. Give me five.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:00",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "You are not allowed to quit on me.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Good news about Congresswoman Gabby Giffords. She was discharged today.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:00",
+      "speaker": "GIFFORDS",
+      "sentences": "The words are there in my brain, I just can't get them out.SEN. MARK KELLY (D-AZ):  She laughs at my jokes even when they're bad.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:00",
+      "speaker": "GIFFORDS",
+      "sentences": "Funny.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:00",
+      "speaker": "KELLY",
+      "sentences": "She thinks --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:00",
+      "speaker": "GIFFORDS",
+      "sentences": "Funny. It's funny, funny, funny.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Gabby Giffords making her way back to the Capitol.",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

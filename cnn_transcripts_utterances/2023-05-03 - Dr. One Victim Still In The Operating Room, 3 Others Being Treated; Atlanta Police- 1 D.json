@@ -1,0 +1,427 @@
+{
+  "date": "2023-05-03",
+  "headline": "The Lead with Jake Tapper",
+  "subHeadline": "Dr. One Victim Still In The Operating Room, 3 Others Being Treated; Atlanta Police: 1 Dead, 4 Injured In Shooting; Manhunt For Suspect; Sources: U.S. Officials Say They Had No Warning Of Kremlin Attack; Russia Claims Ukraine Tried To Assassinate Putin In Drone Strike; Special Counsel Sat In On Pence's Testimony To Federal Grand Jury; Fed Raises Interest Rate 0.25 Percentage Point; Teenage Boy Kills 9 In Belgrade School Shooting. Aired 5-6p ET",
+  "utterances": [
+    {
+      "timeStamp": "17:00:00",
+      "speaker": "JAKE TAPPER, CNN HOST",
+      "sentences": "Let's go to CNN's Nick Valencia, who's on the scene in midtown Atlanta.Nick, we're hearing that there have been several reported sightings of the suspect. Tell us about that. Tell us where the manhunt stands now.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "17:00:00",
+      "speaker": "NICK VALENCIA, CNN CORRESPONDENT",
+      "sentences": "That's right. Just a short time ago, Cobb County Police Department tweeting out an update, saying that they've responded to several false reports, false sightings of this individual just about 30 -- more than 30 minutes outside of the city center from where we're standing here with this incident unfolded earlier. And it's interesting, Jake, because the same thing was happening here in Atlanta, according to the APD spokeswoman saying that different sightings of this individual, none of them had panned out. We did see a tense moment in just speaking to just how amped up police are here.And it's still very much so, an active scene. Even though this perimeter has softened up, there's still several Atlanta Police Department officers outside of the North Side Medical Center where this shooting unfolded, where 24-year-old Deion Patterson is alleged to have opened fire, killing at least one person, all of them women, ranging from 25 years old to 71 years old. The deceased is a 39 year old woman. We're told that shortly after the shooting unfolded here, that individual carjacked somebody nearby, just a few blocks away, and that vehicle was recovered in Cobb County, which speaks to why that law enforcement presence is actively looking for Patterson in the area. Still very much so an active manhunt with this individual considered to be extremely dangerous, and, of course, armed as well, Jake.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "17:00:00",
+      "speaker": "TAPPER",
+      "sentences": "All right, Nick Valencia, thank you.Let's discuss with our law enforcement experts, former Philadelphia Police Commissioner Charles Ramsey, former Secret Service Agent Jonathan Wackrow, and former Atlanta Police Chief Erika Shields. It's been several hours since the shooting occurred, Chief Ramsey, is there some sort of like, I want to say magic hour, but that's the wrong term. But is there a period under which that they need to find this individual for hope -- if they have any hopes of catching him, for example, before sunset?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "17:00:00",
+      "speaker": "CHARLES RAMSEY, CNN LAW ENFORCEMENT ANALYST",
+      "sentences": "Well, I mean, the longer it goes --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "17:00:00",
+      "speaker": "TAPPER",
+      "sentences": "Hold on one second. I'm sorry, I'm going to -- I'm going to interrupt. The hospital presser is starting right now for an update. Let's listen in.DR. ROBERT JANSEN, CHIEF MEDICAL OFFICER, GRADY'S HEALTH SYSTEM: One is still in the operating room. The other patient is coming out of the operating room. We have one patient who had a procedure, interventional radiology, which was completed. They will have additional studies done. And one patient remains stable in the trauma center.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "17:00:00",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "Can you explain what interventional radiology means?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "17:00:00",
+      "speaker": "JANSEN",
+      "sentences": "Sure. When you certainly have certain types of injuries, particularly vascular injuries, sometimes we're able to go to radiology rather than the operating room to repair that injury or take care of it. So, it's still an invasive procedure. It's usually done under anesthesia, but it is in a different area of the hospital, not in the main operating room.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "17:00:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Can you repeat the condition of the -- when people have brought in?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "17:00:00",
+      "speaker": "JANSEN",
+      "sentences": "Sure. So, we had four people brought in by EMS. Of those, one is still in the operating room, probably the most seriously injured. Another patient just got out of the operating room and is doing well. We had a third patient who had a procedure interventional radiology, and they will have to have additional procedures to follow up.And then the final patient is still in the trauma center, probably does not require surgery and is doing well.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "17:00:00",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "Were they shot multiple times? Can you talk about where (INAUDIBLE)?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "17:00:00",
+      "speaker": "JANSEN",
+      "sentences": "Well, I don't know how many times each one was shot really because of patient confidentiality. I don't want to get into the nature of the wounds. I think that would be a little unusual.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "17:00:00",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "Were any of these cases particularly challenging for the surgeon?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "17:00:00",
+      "speaker": "JANSEN",
+      "sentences": "Well, two of them were particularly serious. The ones that went to the operating room and the one in the interventional radiology was in critical condition, too. So, all three of those are very serious injuries. UNIDENTIFIED FEMALE",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "17:00:00",
+      "speaker": "JANSEN",
+      "sentences": "If it is primarily an injury to the blood vessels, we're frequently able to take care of that in interventional radiology, as opposed to having to open the patient up in an operating room. Interventional radiology is where you go in through the blood vessels using special catheters and are able to take care of the injury that way.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "17:00:00",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "Were all four of them shot?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "17:00:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Can you talk about flow of patients, maybe not from (INAUDIBLE) but the flow of patients coming into the ED (ph) and then moving throughout the hospitals to O.R.?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "17:05:23",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "For the patient who are still operating room, how long has have they --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "17:05:23",
+      "speaker": "JANSEN",
+      "sentences": "It's been going a number of hours. They -- I don't know. It's probably about three or four hours.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "17:05:23",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "Were all four of them shot (INAUDIBLE)?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "17:05:23",
+      "speaker": "JANSEN",
+      "sentences": "Yes, they were all -- they were all gunshot.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "17:05:23",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "And you mentioned earlier this afternoon that there were at least two families here.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "17:05:23",
+      "speaker": "JANSEN",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "17:05:23",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "Have you checked families (INAUDIBLE)?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "17:05:23",
+      "speaker": "JANSEN",
+      "sentences": "I haven't checked back to the Marine (ph) Department to see. Hopefully they have arrived.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "17:05:23",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "(INAUDIBLE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "17:05:23",
+      "speaker": "JANSEN",
+      "sentences": "Yes. UNIDENTIFIED FEMALE",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "17:05:23",
+      "speaker": "JANSEN",
+      "sentences": "The fourth is stable.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "17:05:23",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "Stable.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "17:05:23",
+      "speaker": "JANSEN",
+      "sentences": "Right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "17:05:23",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "Can you talk about the next steps within the next few hours that will play for the medical teams taking care of them?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "17:05:23",
+      "speaker": "JANSEN",
+      "sentences": "Right. So, obviously we've got to finish the surgery on the one patient who's still in the operating room. They will go to the surgery intensive care unit. The other patient who finished surgery will go to the intensive care unit. The one who went to the Interventional Radiology suite is in the intensive care unit.So all three of those are either in the intensive care unit or will be going there afterwards because they are still critically ill. They will be treated by the trauma surgeons who staff the critical care units.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "17:05:23",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "And you said earlier that you were totally --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "17:05:23",
+      "speaker": "TAPPER",
+      "sentences": "All right. Let's bring in CNN Chief Medical Correspondent Dr. Sanjay Gupta because he is the Associate Chief of Neurosurgery at that very hospital, Grady Hospital, where the four surviving victims of this shooting incident were taken.And Sanjay, just to go over what the doctor said, of the four people that were brought there, one of them is in the trauma center and will likely not need surgery. I think all four are women. She will not need surgery. Of the other three -- DR. SANJAY GUPTA, CNN CHIEF MEDICAL CORRESPONDENT: Right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "17:05:23",
+      "speaker": "TAPPER",
+      "sentences": "-- one is still in the operating room, is seriously injured. A second is out of the operating room and is doing well. And then, the -- that fourth individual had, what you referred to us, you told us earlier, interventional radiology, taking care of her wounds through blood vessels, through catheters and will require additional procedures. I think that's the one you said who was shot in the face.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "17:05:23",
+      "speaker": "GUPTA",
+      "sentences": "Right. Yes. No, you have it exactly right. And you know, the -- there's one patient, as you mentioned, still in the operating room, that's a patient who I can tell you was shot in the abdominal area, Jake, another patient who's just leaving the operating room shot in the arm. And then that third patient you mentioned had been shot in the face, and they caused significant bleeding. And as you just heard Dr. Jansen mentioned, we talked about it last hour as well, you can sometimes control that bleeding by putting catheters directly into the blood vessels, which is what they did there.As you heard, these patients are still considered in critical condition. Those three that had procedures, they may likely, in fact, for almost certain, will need additional procedures over the next several days. So, this is the first type of procedure, especially to -- in the abdominal patient, for example, to stop bleeding. But then, the patient may need to come back, you know, maybe even several times now to address all the other wounds that an injury like this causes to the abdomen, injuries to solid organs, the intestines, liver, spleen, whatever else may have been injured, that's all going to need to be addressed as well. So this is a long road now in front of these patients, Jake.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "17:05:23",
+      "speaker": "TAPPER",
+      "sentences": "Yes. And that's one of the things that often gets lost in this -- in the -- our coverage of these shooting incidents. We tend to focus on those who are killed for obvious reasons.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "17:05:23",
+      "speaker": "GUPTA",
+      "sentences": "Right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "17:05:23",
+      "speaker": "TAPPER",
+      "sentences": "But quite often there are people who have serious wounds that will forever cause them lifetimes of pain. Just one thing, and I think I understand it, but just to help us understand, it seems as though somebody shot in the face, in this instance, may not have had as serious a wound, as serious an injury as somebody shot in the abdomen. The abdomen -- the abdominal patient is still in surgery, still in critical, whereas the other individual shot in the face, which is not to say that her wounds are not serious. But just help us understand why the facial wound might not be as serious in terms of life or death as the abdominal wound.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "17:10:22",
+      "speaker": "GUPTA",
+      "sentences": "I hear you. I got you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "17:10:22",
+      "speaker": "TAPPER",
+      "sentences": "Sanjay, thank you so much.Let's bring back our law enforcement experts. Chief Shields, you know this area of Atlanta very well. We're hearing that the search has now expanded to Cobb County, the northern suburbs of Atlanta. What's likely happening on the ground right now, especially as, I'm sure the police there are anticipating sunset?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "17:10:22",
+      "speaker": "ERIKA SHILEDS, FORMER ATLANTA POLICE CHIEF",
+      "sentences": "So, my understanding is that the Atlanta Police Department has some fantastic analysts. My understanding is that they saw him in the stolen car, leave the vehicle and run into a construction site. There's a number of construction sites through there.So, the good news is it sounds like they have some idea of the locale that he's in. It'll be methodical, it'll be slow, you can't rush it, the good news is we're not into the Georgia summers yet, which can be draining on the officers when these events go on for a prolonged period of time. I think, you know, we're going to have daylight here for a few more hours or at least a couple more hours, so my hope is that they can wrap this up and not get fatigued.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "17:10:22",
+      "speaker": "TAPPER",
+      "sentences": "Chief Ramsay, it's been about 5 hours since the shooting happened. I tried to ask you this earlier, and we got cut off by the press conference, so let me try again. How critical is it that the police find the suspect before sundown or in the next few hours?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "17:10:22",
+      "speaker": "RAMSEY",
+      "sentences": "Well, obviously it's better if you're able to get this as quickly as possible. And daylight is always better. Nighttime does present a different set of challenges. But right now, you have a full blown manhunt going on. You have all the different police agencies, federal agencies, state, local, working this.Erika just described an area now where the person was seen. That at least gives you an area to start a grid type search to try to find this individual. You know, why did he choose to go to Cobb County? Does he have friends there? Does he have relatives there? He's on the run. People like that tend to reach out to families and friends if they can. So, they've got a lot of things going on right now. They certainly know more than we know in terms of what's actually going on in that command center. But right now, they are just organizing everything, so it's very methodical, and it has to be very methodical in order to be able to bring this to a successful conclusion. They will get this guy eventually. It's just a question of when.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "17:15:13",
+      "speaker": "TAPPER",
+      "sentences": "Jonathan, Cobb County police say that officers have checked on several tips that turned out to be false alarms so far. I imagine it's something of a double edged sword asking for the public's help in such the situation. People want to help, but most of the tips, just as a mathematical fact, I'm sure, are wrong.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "17:15:13",
+      "speaker": "JONATHAN WACKROW, FORMER SECRET SERVICE AGENT",
+      "sentences": "Yes. No, that's a really good point, Jake. And that's the challenge that law enforcement faces when they're dealing with a manhunt of such a large geographical area where you're asking for the public's assistance. You're going to get a lot of injects from the public saying, I believe I see somebody here that matches the description. Every single one of those, Jake, has to be followed up on by law enforcement.The reason being is that we have a high threat suspect that is on the loose, armed and dangerous. In compounding the severity of this situation is that the suspect, as we've reported, has a military background. This just -- this is not just a person with a gun, this is a person with proficiency with firearms that is on the loose right now. And they understand being from the Coast Guard, which is also a law enforcement entity in itself, they understand law enforcement tactics. So, there's a lot of challenges facing law enforcement right now in apprehending this suspect. And I agree with Chief Ramsey, I think it's just a matter of time before he -- they are able to take him into custody or adjudicate this matter. But the public's assistance in doing so is critical. So while there's a lot of, you know, running around with those tips and following up, the public plays an essential role in the apprehension of this suspect.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "17:21:01",
+      "speaker": "TAPPER",
+      "sentences": "As the manhunt continues in Atlanta, on to our other top story. Who's to blame? An exiled former Russian lawmaker linked with militant groups in Russia tell CNN that he does not think it is Ukraine. Instead, it is Russian partisans whom he believes are behind the alleged drone attack over the Kremlin overnight.Video reviewed by CNN seems to show drones flying over the heavily fortified building in Russia's capital of Moscow. Russian officials claim Ukraine was trying to assassinate President Vladimir Putin, though Putin, of course, was not there at the time. And Ukraine strongly denies any involvement, and there doesn't seem to be any evidence Ukraine was involved. Nick Paton Walsh is in Ukraine tonight, where the brutal war rages on and at least 21 people, 21 people were killed in the latest round of Russian attacks. (BEGIN VIDEO TAPE) NICK PATON WALSH, CNN INTERNATIONAL SECURITY EDITOR (voice-over): It's on the edges of imagination, but the Kremlin insists it's real. An apparent drone flies into the Kremlin and detonates right on its dome. Captured on many cameras a truly seismic allegation. Russia saying Ukraine sent two drones to kill President Vladimir Putin, but he wasn't home. As the smoke rose, these videos played out globally unverified, and the only slim evidence of the Kremlin's claim, it is a moment that carries great risk for the Kremlin ahead of an annual victory day parade there just next week. It's embarrassing, they have claimed such a breach of security happened and there will be calls for their battered military to find a way to escalate, now they have. Ukrainian President Zelenskyy on a visit to Finland today issued a flat denial. PRES. VOLODYMYR ZELENSKYY, UKRAINE: We don't attack Putin or Moscow. We fight on our territory. We are defending our villages and cities. We don't have enough, you know, weapon for these. PATON WALSH (voice-over): The U.S. also not convinced.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "17:21:01",
+      "speaker": "ANTONY BLINKEN, SECRETARY OF STATE",
+      "sentences": "I would take anything coming out of the Kremlin with a very large shaker of salt.PATON WALSH (voice-over): But fear of Russian reprisals rising again in Ukraine, where bombings already definitely do happen every day and night. Over a dozen dead this day in a recently liberated Kherson, a railway station shelled, and a supermarket midmorning. Tension mounting here ahead of an expected Ukrainian counter offensive. So, from Friday there's a 58 hours curfew, nobody coming out of their homes. In Zaporizhzhia, our night was shaken by sirens and blasts. Here is where they hit homes. The first missile landing outside and leaving enough time for families to jump into the bath or shelter their children before the second left this hole. (on camera): How did you survive? (voice-over): You know, we were in such stress, Ludmila says, but it was only when people asked us if were OK that we realized we were alive. Like in the Kremlin, nobody killed or injured here either, but lives destroyed and no doubt who was behind it. (END VIDEO TAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "17:25:10",
+      "speaker": "TAPPER",
+      "sentences": "Nick Paton Walsh in Dnipro, Ukraine for us, thank you so much.Joining us to discuss, the former Secretary of Defense and former CIA Director president -- under President Obama, Leon Panetta. Secretary Panetta, sources tell CNN that U.S. officials had no warning that an attack like this was coming and that the Ukrainians assured them privately they had nothing to do with it. What's your take? LEON PANETTA, FORMER DEFENSE SECRETARY, OBAMA ADMINISTRATION: Jake, this really does smell like a false flag operation on the part of the Russians, a diversion, if you will. And if somebody was really trying to make an effort at an assassination attempt, it was pretty far- fetched. I've been to the Kremlin, the Kremlin is a fortress, and Putin doesn't exactly take walks around the Kremlin. There's no rose garden at the Kremlin. So, this is clearly an allegation that is false. I don't think there's a lot of truth to it. And at most it probably is one of these diversionary things that kind of marks the beginning of the spring offensives that we're going to see pretty soon.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "17:25:10",
+      "speaker": "TAPPER",
+      "sentences": "So, yes, that was going to be my next question. If this is indeed a false flag, is this -- do you think Russia trying to create some sort of justification for further nihilistic barbarism? Not that they need it, really, I mean, they've been doing it now for more than a year anyway.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "17:25:10",
+      "speaker": "PANETTA",
+      "sentences": "Yes, but, you know, it clearly follows the Putin playbook here, which is to create these kinds of false diversions in order to justify some kind of action that they're going to take. I don't know what that action would be. They're sending a lot of drones over Ukraine, they're sending a lot of missiles over the Ukraine, I don't know what additionally the Russians could do at this point that they're not doing now. But having said that, I think that the Ukrainians probably are engaging in some diversions themselves in Ukraine to try to make sure that the Russians don't quite know where they're going to show up in terms of their offensive, and I'm sure the Russians are now doing the same. We're going to see a lot of that as we work up to what I think is without question going to be a spring offensive, certainly by the Ukrainians and possibly by the Russians as well.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "17:25:10",
+      "speaker": "TAPPER",
+      "sentences": "So Russian state media claims that this drone was a Ukrainian made drone called a UJ-22 attack drone that theoretically would have had to have flown more than 300 miles to get to Moscow. That's just from the nearest Ukrainian border. Would a drone like that even have the capacity to inflict major damage on a building so heavily fortified as the Kremlin?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "17:25:10",
+      "speaker": "PANETTA",
+      "sentences": "Well, Jake, I've headed up drone operations when I was a CIA director. If you're serious about using a drone, the way you have to do it is to frankly conduct a great deal of surveillance in order to make sure that you're going to hit the right target.As far as I can see here, there wasn't any kind of surveillance involved. There were just a couple of drones that were up in the air. So, it doesn't strike me that this was a serious effort, certainly at an assassination, which is far-fetched. Was it an operation to try to create some kind of damage at the Kremlin? Who knows? I think it really smells like the Russians trying to set this up as some kind of diversion. There just isn't a logical explanation to try to use drones to try, to assassinate Putin in the Kremlin, that's just unbelievable. TAPPER: Well, it's also just -- I mean, anyone who knows anything about Putin knows -- well, first of all, the Ukrainians are fighting a war, they're defending themselves, nobody should think that they wouldn't grab an opportunity to inflict harm on the man killing their children if they could. But the idea that they would send a little drone to attack the outside of the Kremlin as a way to get Putin when I know, and I'm certainly not Ukrainian intelligence, I know that Putin's not spending the night in the Kremlin.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "17:25:10",
+      "speaker": "PANETTA",
+      "sentences": "No. That's -- you know, if anything, Putin just goes there for ceremonial activities. The place is well fortified. Putin is -- there's a tremendous amount of security around him at that place. If you're even going to think about a possible assassination, you would look at probably at his residences outside of Moscow and near the lake. He's got a residence as well. But again, you'd have to do some surveillance to make sure that you've got a target. Otherwise, you know, you're just wasting time and not really doing anything that's going to be effective.So, I just see this as a lot of baloney that the Russians are throwing out there in order to kind of justify any further action that they're going to take against Ukraine.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "17:25:10",
+      "speaker": "TAPPER",
+      "sentences": "Former CIA director and secretary of Defense Leon Panette. Always good to see you, sir. Thank you so much.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "17:25:10",
+      "speaker": "PANETTA",
+      "sentences": "Good to be with you, Jake.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "17:35:30",
+      "speaker": "TAPPER",
+      "sentences": "In our politics lead a CNN exclusive. Special counsel Jack Smith sat in on former Vice President Mike Pence's testimony last week before the federal grand jury investigating the efforts to overturn the 2020 election results. CNN's Katelyn Polantz is with us. Katelyn, this is the first time we know of special Counsel Smith sitting in on an actual grand jury proceeding.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "17:35:30",
+      "speaker": "KATELYN POLANTZ, CNN SENIOR CRIME AND JUSTICE REPORTER",
+      "sentences": "That's right, Jake. It just underlines how unusual this situation was, having the former vice president testify to the federal grand jury investigating January 6, compelling him to come in under court order to speak about his interactions with his former boss, Donald Trump, then the president.And we do know through multiple sources, speaking to Kristen Holmes, Jamie Gangal, and me, that Jack Smith, the special counsel, did sit in and witness some of that interaction. He also had some of his own interactions with Pence. We don't know exactly how that went, though we are told from one source that it was respectful between the two men. But there are many prosecutors that are working this case, Jake. And so having Jack Smith there, he doesn't have to be there. He's almost never there. I've never seen him. We've never heard of him setting foot in the courthouse before in this investigation. So it really is not just atypical to learn that he was there for the Pence testimony, but also just atypical to have a situation like this where Mike Pence, the former vice president, was testifying to the grand jury.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "17:35:30",
+      "speaker": "TAPPER",
+      "sentences": "How important of a witness is Vice President Pence?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "17:35:30",
+      "speaker": "POLANTZ",
+      "sentences": "Well, it appears that at very least, he's a significant witness of stature to be putting before the grand jury. We do believe that he could have advanced some of the information that the grand jury is learning about January 6. And this does come at the end, or potentially at the end of this January 6 investigation, making him a pretty big deal.But there are other people, too, who could be even more important witnesses. One person, we don't know at this point whether or not he has testified to a grand jury. We know the Justice Department has subpoenaed got a court to say he must come in, that's Mark Meadows, Donald Trump's chief of staff. Meadows would, here in this investigation, potentially be even a bigger witness if and when he does testify to the grand jury. Jake.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "17:42:10",
+      "speaker": "TAPPER",
+      "sentences": "In our money lead, welcome to round 10 in the Fed's fight against inflation. For the 10th straight time since March of last year, the Federal Reserve announced it is raising interest rates, this time by a quarter point to a 16-year high. Let's bring in CNN's Matt Egan and CNN's Rahel Solomon.Matt, Jerome Powell, the Fed chair, has a lot of skeptics out there. Democratic Senator Elizabeth Warren told me six weeks ago that she thinks that Powell wants a recession because he wants to bring inflation down so he's going to have joblessness go up. Do you think that today's action is going to feed his critics like Senator Warren, who say he's ignoring the needs of the middle class?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "17:42:10",
+      "speaker": "MATT EGAN, CNN REPORTER",
+      "sentences": "Well, Jake, it will of course, feed his critics, but I don't think it's fair to say that Jerome Powell is in any way rooting for a recession, but he's willing to accept one if that's what it takes to fix inflation.This latest interest rate hike today lists borrowing costs to levels unseen since late 2007, just before the Great Recession. So the Fed is making it more expensive for all of us to borrow in the hopes that this is going to cool off inflation, get the cost of living back down to healthy levels. Now, this rate hike was a unanimous decision, but it was also a controversial one because it's coming just days after the second biggest bank failure in American history. These recent bank failures have been caused in part by the Fed's spike interest rates. And some experts do fear that the Fed is basically throwing gasoline on the fire, that they're going to make the banking crisis even worse. Now, in part because of this stress in the banking system, the Fed is signaling that it could be ready to soon wrap up its fight against inflation. The Fed made changes to its statement, and Fed chair Jerome Powell, he did drop some hints that the Fed could soon be ready to pause. But, Jake, I would note, Powell made it clear they are in no rush to cut interest rates anytime soon.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "17:42:10",
+      "speaker": "TAPPER",
+      "sentences": "Rahel, what's the real world impact of this on the folks watching today on American consumers?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "17:45:07",
+      "speaker": "TAPPER",
+      "sentences": "Well, let's hope so. But, Matt, as we've discussed already, the Fed move comes amid this ongoing fragility in the banking sector. The second largest bank failure in U.S. history just happened. Is this a risky move, the 10th straight interest rate hike?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "17:45:07",
+      "speaker": "EGAN",
+      "sentences": "It is a risky move, but it is one that they felt they needed to do, because inflation, which is their primary focus right now, inflation, remains well above what is considered healthy. Here's the problem, though. The Fed has spiked interest rates at the fastest pace since the early 1980s under Paul Volcker.And the risk here all along was that they would end up breaking something either in the real economy or the financial markets or both. And now it looks like they did break something in the banking system. And this bank stress could potentially cause a credit crunch or even a recession. That's why Moody's Analytics chief economist Mark Zandi, he told me today he thinks that this is a mistake for the Fed to raise rates. He thinks that this is a risk that they don't have to take.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "17:51:02",
+      "speaker": "TAPPER",
+      "sentences": "A manhunt is underway in Atlanta right now looking for the suspect accused of shooting five people at a medical center earlier today, killing one, critically wounding three. That shooting is the 190th. 190th mass shooting in the United States this year alone, according to the Gun Violence Archive. 190, that kind of number, frankly, unheard of in other parts of the world.But today, it was a heartbreaking reality a mass shooting for families in Belgrade, the capital of Serbia. A teenage gunman is accused there of killing nine people, all but one of them children at a local school. CNN's Fred Pleitgen is live for us in Belgrade. Fred, mass killings, obviously far less common in Europe than in the United States. Tell us about how rare this is in Serbia.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "17:51:02",
+      "speaker": "FREDERIK PLEITGEN, CNN SENIOR INTERNATIONAL CORRESPONDENT",
+      "sentences": "Yes, absolutely rare. That's certainly one of the things that we're hearing from the folks on the ground here as well. Of course, because of that, Jake, it absolutely hits this community here as well.As you can see behind me, there are still a lot of people who are coming out here, and it's about 10 minutes to midnight right now. They're still laying down flowers, paying their respects. There's a line of anger, despair, and of course, sorrow as well as these people say, look, this is something that simply does not happen in this country. In fact, people that we're speaking to say normally they only hear about things like this from the United States. Here's what happened. (BEGIN VIDEOTAPE) PLEITGEN (voiceover): Horror inside a school classroom, a scene all too familiar in the US. But this is Serbia's capital, Belgrade. This is the deadliest mass shooting in the country in over a decade. Moments after arriving at the prestigious Vladislav Ribnikar Elementary School, a 13-year-old student took out his father's gun and shot the security guard before turning it on pupils, according to officials. UNIDENTIFIED MALE (through translator): There was one girl at her desk, another at the piano. He took their lives. He went out into the corridor to the history classroom. He went into the classroom and immediately shot the teacher and the students there from the door.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "17:51:02",
+      "speaker": "PLEITGEN",
+      "sentences": "According to eyewitnesses, the boy shot the female history teacher as terrified students hid under their desks. She was rushed to hospital, along with six injured children, according to CNN affiliate N One.The hospital's director detailed severe brain injuries and gunshot wounds to the legs. The perpetrator was arrested in the schoolyard and let out in handcuffs after he called the police himself and told them what he did. I asked, Where is my kid? Says one girl's father, describing the moment he realized she was in the history class. She escaped, but when he found her, she was in shock, he says. The crime had been planned for over a month. The teen had drawn a sketch of the attack that looked like something from a video game or a horror movie, according to Belgrade's police chief. Locals told CNN the incident came out of nowhere.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "17:51:02",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "This never happened in Serbia before. We only heard about this news from United States.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "17:51:02",
+      "speaker": "PLEITGEN",
+      "sentences": "Outside the school, these parents are the lucky ones. Their children made it out alive. But a nation is now in mourning, and questions are asked over how this could have happened.(END VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "17:55:00",
+      "speaker": "TAPPER",
+      "sentences": "Horrible story. CNN's Fred Pleitgen in Belgrade, Serbia. Thank you so much. The next chapter in the fight to save an Oklahoma death row inmate whom even the state's attorney general says should not be executed.(COMMERCIAL BREAK)",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

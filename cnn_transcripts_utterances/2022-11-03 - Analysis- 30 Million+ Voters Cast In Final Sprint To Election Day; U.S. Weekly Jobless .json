@@ -1,0 +1,337 @@
+{
+  "date": "2022-11-03",
+  "headline": "CNN Newsroom",
+  "subHeadline": "Analysis: 30 Million+ Voters Cast In Final Sprint To Election Day; U.S. Weekly Jobless Claims Fall Slightly To 217K; Debate Over Security Funding In Wake Of Paul Pelosi Attack. Aired 2-2:30p ET",
+  "utterances": [
+    {
+      "timeStamp": "14:00:00",
+      "speaker": "VICTOR BLACKWELL, CNN ANCHOR",
+      "sentences": "Hello, I'm Victor Blackwell. Welcome to \"CNN NEWSROOM.\"",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:00:00",
+      "speaker": "BIANNA GOLODRYGA, CNN ANCHOR",
+      "sentences": "And I'm Bianna Golodryga.The fight for every remaining vote is underway with just five days until Election Day. And so far, more than 30 million voters have already cast their ballots in 46 states with the most seen in Texas and Florida. Now, that's a pace that looks like it may exceed the historic turnout of 2018.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:00:00",
+      "speaker": "BLACKWELL",
+      "sentences": "Both President Biden and former President Trump are making those closing arguments for their parties from the campaign trail. Trump is planning four rallies in five days starting in Iowa today to slam Democrats over inflation and crime. President Biden heads west soon. He lands in New Mexico. He may echo his consistent call to voters to eject election deniers and preserve democracy.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:00:00",
+      "speaker": "GOLODRYGA",
+      "sentences": "We have our Phil Mattingly covering President Biden and Jeff Zeleny in Iowa following the former president. Phil, let's begin with you. Why is President Biden in New Mexico tonight?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:00:00",
+      "speaker": "PHIL MATTINGLY, CNN SENIOR WHITE HOUSE CORRESPONDENT",
+      "sentences": "You know, there are two events the president will be attending, one will be a speech about student loans that is a very clear effort that we've seen the White House pursue over the course of the last several weeks directed at trying to turn out younger voters. They believe it's an issue that resonates with the president's Executive Order canceling $10,000 in student debt for certain individuals -- borrowers who qualify, the president will focus on that and focus on Republican lawsuits that have currently put a pause on that effort that's been underway in the administration.But it will also be an effort to hold a rally for a blue state governor who might very well lose her reelection right now, Michelle Lujan Grisham in a very tight race, and the president going out there to bolster that. And I think it's a day that really gives a good window and just the complexity of the dynamics right now for the White House in how they try and approach this moment, as you mentioned, last night in the president's very dire speech, where he laid out the stakes of things in his view that included this. Take a listen. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:00:00",
+      "speaker": "JOE BIDEN, PRESIDENT OF THE UNITED STATES",
+      "sentences": "Third candidates running for every level of office in America for governor, Congress, Attorney General, Secretary of State who won't commit -- they will not commit to accepting the results of elections that they're running in. This is a path to chaos in America. It's unprecedented, it's unlawful, and it's un-American.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:00:00",
+      "speaker": "MATTINGLY",
+      "sentences": "Now you move from that moment to today, a day that will really be focused on student loans, focused on economic issues, something that the White House knows, is by far the most important issue in poll after poll after poll of voters heading into this midterm election and gets to the divergence here, the balancing act that the president and his team have tried to kind of hit on over the course of the last several weeks.Now it's also worth noting again, New Mexico is more of a democratic state than it is a Republican. That's very clear by its statewide officials. But while the president goes out West for the second time in less than a month, he will not be stopping in Nevada, he will not be stopping in Arizona where there are critical Senate races for Democrats, however, the First Lady, Jill Biden, she will be in Arizona holding multiple events with Senator Mark Kelly on Saturday, guys.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:00:00",
+      "speaker": "BLACKWELL",
+      "sentences": "All right, Jeff, let's go to you in Iowa. In the Grassley reelection campaign, that race is not exactly a nail-biter. So is the former president in Iowa for the candidates, is he out stumping for something or someone else?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:05:04",
+      "speaker": "GOLODRYGA",
+      "sentences": "We will see. That is true. Jeff Zeleny, Phil Mattingly, thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:05:04",
+      "speaker": "BLACKWELL",
+      "sentences": "All right. Joining me now is Michigan Secretary of State, Democrat Jocelyn Benson. She's running for reelection against Republican Kristina Karamo who wrongly claimed that Donald Trump won the 2020 election.Thank you for being with me. I want to get to some of these really interesting lawsuits in just a moment. But first, give me the big picture there in Michigan. The threat analysis as it is against the election, some of the drop boxes as well as we approach this final sprint toward Election Day.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:05:04",
+      "speaker": "JOCELYN BENSON, SECRETARY OF STATE, MICHIGAN",
+      "sentences": "I think the bottom line is we're ready here in Michigan. With the effect of the multi-year effort we've been engaged in protecting democracy against constant misinformation, the constant barrage of attempts to delegitimize our processes is that we are more prepared than ever to protect every voter and protect election workers in this state. Our elections are secure, safe, and accessible. The results will be an accurate reflection of the will of the people. And if anyone's trying to intimidate voters or disrupt our processes on Election Day, we've got a plan in place to minimize that disruption and seek immediate consequences.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:05:04",
+      "speaker": "BLACKWELL",
+      "sentences": "Let's talk about this decision from a judge there. And you are going to appeal but a judge decided to invalidate the new rules that you set in place right before the primary for election poll watchers and challengers. The judge found that you overstepped in imposing these rules. That should have gone through a typical rule- making process. The result, though, a decision that will allow cell phones to be used while election workers and partisan poll workers -- partisan poll challenges I should say are sequestered. What's the practical impact of that decision?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:05:04",
+      "speaker": "BENSON",
+      "sentences": "Well, I'm glad you brought that up because just a few minutes ago, the Michigan Supreme Court has stayed that decision, meaning that the very same challenger protections that we have issued and guidelines and protocols that were in place in our August election will be in place again this November, next Tuesday. So, no changes actually will happen. Challenger guidelines and protocols will remain in place. And I'm grateful to the Michigan Supreme Court for issuing that stay so that we can now move forward protecting every voter and election worker in the state. BLACKWELL",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:05:04",
+      "speaker": "BENSON",
+      "sentences": "Well, these are as the -- as the Michigan Supreme Court has now validated, these are simple guidelines, which our office has the authority to issue to challengers to ensure the sanctity and serenity of our polling places on Election Day. So yes, there is a rulemaking process for rules. These weren't rules. These are actual simply guidelines and protocols, which we have, again, the authority and for an executive authority to issue.And I'm -- you know, I think we're also in a moment where we see lawsuits being filed here in Michigan and other states like Pennsylvania to actually try to change these protocols at the last minute, creating a lot of confusion. So, what we're trying to say now that we have this clarity from the Michigan Supreme Court is that these same guidelines will be in place. And look, I'll work with the legislature and others in the future to -- as we always have to ensure that all of our rules are in place in compliance with the laws we've always done.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:05:04",
+      "speaker": "BLACKWELL",
+      "sentences": "Right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:05:04",
+      "speaker": "BENSON",
+      "sentences": "But in this case, these were protocols that we have the authority to issue and I'm glad the Michigan Supreme Court has affirmed that authority.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:05:04",
+      "speaker": "BLACKWELL",
+      "sentences": "So, let me turn to another lawsuit filed by your opponent because there are several, as you mentioned.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:05:04",
+      "speaker": "BENSON",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:05:04",
+      "speaker": "BLACKWELL",
+      "sentences": "She's suing to have absentee ballots that have been requested by mail thrown out, not counted. But this is only for the city of Detroit, one of the blackest cities in the state of Michigan, obviously in the country. I think it's the largest majority-black city in America. She says that it's to protect legally cast votes from illegally cast votes. Again, no evidence of widespread fraud in the 2020 election, but what would that mean for Detroiters who requested their ballots by mail and have already returned them?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:10:01",
+      "speaker": "BLACKWELL",
+      "sentences": "Let's look ahead to the vote counting. And put the big number up on the screen. This is impressive. 1.9 million more than so far -- 1.9 million pre-election ballots requested, more than double what we saw four years ago. When after the polls close on Election Day, should we expect to see the results? Those first unofficial, of course, they have to be certified by you -- your office, when will we see those results on Election Day?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:10:01",
+      "speaker": "BENSON",
+      "sentences": "We anticipate that beginning around 9Particularly when you have so many absentee ballots in the system, which here in Michigan, we can't for the most part, begin processing or tabulating until Election Day itself. So, it's going to take time in Michigan and in other states to deliver those results. But voters should know that time is spent making sure we're securely carefully tabulating every vote and prioritizing security and accuracy over efficiency.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:10:01",
+      "speaker": "BLACKWELL",
+      "sentences": "All right, Michigan Secretary of State Jocelyn Benson, thank you very much for the information and helping to moderate expectations as we get to those final hours of the vote. We have invited the Secretary's opponent, Republican Kristina Karamo to come on as well.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:10:01",
+      "speaker": "GOLODRYGA",
+      "sentences": "We're going to turn now to the battleground Ohio, where Democratic Congressman Tim Ryan is running against J.D. Vance for a Senate seat. The race has become much closer and yet hasn't garnered much financial backing from the National Party. But today, he told \"CNN THIS MORNING,\" that's actually playing to his advantage.(BEGIN VIDEO CLIP) REP. TIM RYAN, (D-OH): You know, the National Democratic Party has never been really good at strategic political decisions, so you know it's not a surprise here. Thank God that I have enough experience that I built this campaign not needing them, and we really don't want them at this point. We've built a robust machine here in Ohio that doesn't need the National Democratic Party. And it's going to give me a level of independence that most senators don't have. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:10:01",
+      "speaker": "BLACKWELL",
+      "sentences": "All right, joining us now to discuss former Republican Senator Scott Brown. He's also a former U.S. ambassador to New Zealand under President Trump. And Doug Jones is a former Democratic senator from Alabama. Welcome to you both.Senator Jones, let me start with you because when you ran in Alabama, you had to navigate the state political environment versus the national image within Alabama, bringing in some surrogates but not others. Do you think that the national party made a mistake by not investing financially or with their time and presence in this Ohio Senate race?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:10:01",
+      "speaker": "DOUG JONES, FORMER DEMOCRATIC SENATOR, ALABAMA",
+      "sentences": "You know, Victor, first of all, thanks for having me. I think where the national party has made a mistake is not investing in the electorate over the years. They invest in candidates from year to year from one election cycle to the other, but they don't invest in the -- in the battleground. And the -- and the real work is done on the ground on a day-to-day basis. That's where the problem was.That's what I've tried to explain to Democrats for a long, long time, that if you expect to compete in Ohio and the south and other places, you've got to do more than just back a good candidate. You've got to be there 24/7, 12 months out of the year, and invest in the electorate to let them know what Democrats stand for. And that's where we will make the difference in the coming elections. But it's not going to be just from one candidate to the next. That is -- those days are gone.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:10:01",
+      "speaker": "GOLODRYGA",
+      "sentences": "Well, it's also really based on the issues as well. And in this election cycle, at least this seems to be benefiting Republicans in the sense that the majority of Americans, whether they're Democrats or Republicans are not satisfied with the state of the economy. 75 percent, according to our new polling, believe that the U.S. is currently in recession. We are not currently in a recession but that clearly gives an indication as to the pessimism in the country.My question to you, Ambassador Brown, is what is the Republicans' plan specifically to bring down inflation, and does that include cutting into American Social Security and Medicare, as many party leaders have been suggesting?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:15:03",
+      "speaker": "GOLODRYGA",
+      "sentences": "No, we're not.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:15:03",
+      "speaker": "BROWN",
+      "sentences": "And it'll get worse. You --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:15:03",
+      "speaker": "GOLODRYGA",
+      "sentences": "No, we're not. We're not technically in a recession. BROWN",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:15:03",
+      "speaker": "GOLODRYGA",
+      "sentences": "We saw --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:15:03",
+      "speaker": "BROWN",
+      "sentences": "Yes, we had two consecutive --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:15:03",
+      "speaker": "GOLODRYGA",
+      "sentences": "We saw positive GDP growth. Let's just be honest. We saw a positive GDP growth in the last quarter.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:15:03",
+      "speaker": "BROWN",
+      "sentences": "Listen, positive -- it's still the highest it's ever been. You want me to answer or you want to -- you want to debate?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:15:03",
+      "speaker": "GOLODRYGA",
+      "sentences": "I'm just correcting.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:15:03",
+      "speaker": "BROWN",
+      "sentences": "I mean it's as high as it's been forever, it's down point three percent from the highest rate it was a few months ago. We are technically in a recession. And regardless of that statement and your opposition to it, this is about heating. This is about food prices. This is about inflation.And while President Biden wants to have an esoteric conversation about giving the same speech he gave last two months ago in Philadelphia, people are more concerned about the fact that he doesn't have any answers to address these very real issues. And I predicted the House is going to be 25 -- get at least 25 seats, you see in New Hampshire, it went from a lean D to a lean R. And then you look at the Senate, I think we're going to go 52-48, 53-47 because the President and his administration and the Democrats are focusing on one issue, and they have not addressed the pocketbook and wallet issues that everybody cares about right now.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:15:03",
+      "speaker": "BLACKWELL",
+      "sentences": "Senator Jones, let me come to you on what we've seen from the former president over the last week or so, President Obama out on the stump for several candidates in these tight races. Just a sample, let's watch.(BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:15:03",
+      "speaker": "BARACK OBAMA, FORMER PRESIDENT OF THE UNITED STATES",
+      "sentences": "Ron Johnson does not understand that. If he understands, given tax breaks for private planes more than he understands, making sure that seniors who've worked all their lives are able to retire with dignity and respect. He's not the person who's thinking about you and knows you.If we hadn't just elected somebody whose main qualification was being on TV, you could see maybe giving it a shot. What's the worst that could happen? Well, now we know. It doesn't just work out just because somebody's been on TV. Turns out that being president or governor is about more than snappy lands and good lighting. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:15:03",
+      "speaker": "BLACKWELL",
+      "sentences": "You can hear how these rousing speeches are getting that crowd excited. Should the former president have been out doing this earlier, Senator Jones? JONESSo, I think what you saw with President Obama was talking about those few plans that we have heard from Republicans, cutting Social Security, trying to privatize it, cutting Medicare, trying to privatize it so that the corporate folks and Wall Streeters will make all the money from off the works in the backs of taxpayers. So I think that the president is out there, he's giving those closing arguments and we move from there.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:15:03",
+      "speaker": "GOLODRYGA",
+      "sentences": "Senator Brown would --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:15:03",
+      "speaker": "BROWN",
+      "sentences": "Respectfully, I'm happy -- I'm happy to give an answer. Let's stop the spending. Let's create more jobs. Let's eliminate the red tape. Let's stop putting the onus on middle-class and lower-class people to pay more and more and more. Let's lower the cost of fuel, become energy independent, export that energy around the world so we can pay down our debt and deficit, not raising interest rates to put young homeowners out of the housing market and creating additional money on our debt. That's going to be due. We can't keep this drunken sailor spending.And listen, the rhetoric from President Obama and from both sides is got to stop and it's really white noise. What the people are listening to right now and looking at are their bottom lines in their household expenses, their pocketbook, and wallet -- and wallet issues dramatically outweigh a lot of what these people coming in at the last-minute do. They don't care. Trust me, I've run 21 races. When President Obama came in and I was allegedly down 15 points. When he came out and I went up seven points, OK? So it doesn't matter. It matters what the people think. And all these candidates had been weighed. And they'll be -- they'll be judged in the big races obviously on Tuesday, and we'll see. I made my prediction.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:15:03",
+      "speaker": "GOLODRYGA",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:15:03",
+      "speaker": "BROWN",
+      "sentences": "I think it's 25 in the House and it's going to be 52-48, 53-47. That's my prediction. What's yours?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:15:03",
+      "speaker": "GOLODRYGA",
+      "sentences": "Well, we've got big jobs report coming out tomorrow and estimates call for about 200,000 jobs that haven't been added in October. We'll be closely watching that, as you note the economy is top of mind for so many Americans. Former Senator Doug Jones and Ambassador Scott Brown, thank you for joining us.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:20:08",
+      "speaker": "GOLODRYGA",
+      "sentences": "And we'll get another check on the economy tomorrow with those jobs report coming out. How this final set of numbers could impact next week's midterm?(COMMERCIAL BREAK)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:20:08",
+      "speaker": "BLACKWELL",
+      "sentences": "The October jobs report will be released tomorrow morning. Now, this will be the last major check on the economy before the midterm elections.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:25:00",
+      "speaker": "ALISON KOSIK, CNN CORRESPONDENT",
+      "sentences": "Hi, Bianna and Victor. Yes. So this is going to be another snapshot of the labor market and the jobs report for October's numbers. Employers are expected to have added 200,000 jobs last month, that would be actually down from 263,000 in September, so a little cooling off there and what's otherwise a really hot job sector. The unemployment rate is expected to edge up slightly to 3.6 ^ from three and a half percent. But you know what, this is nowhere near the pain that Fed Chair Jay Powell kind of talks about, the kind of pain that the Fed wants to see to know that their aggressive interest rate hikes are making a dent in inflation. So far, we're not really seeing that happen much in the labor market.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:25:00",
+      "speaker": "BLACKWELL",
+      "sentences": "All right, speaking of the Fed interest rate hikes, we know that there are some new data on mortgage rates and the impact. What do you know?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:25:00",
+      "speaker": "KOSIK",
+      "sentences": "Yes, Victor, the 30-year fixed rate, it fell a bit this week after surging past 7 percent last week. But that rate, it's more than doubled from a year ago when a 30-year fixed was a little over 3 percent. It really illustrates how much the Federal Reserve's aggressive campaign of this rate hiking is affecting this one particular area of the economy, the housing market. So, it was hot, it's cooling off as many potential homebuyers are finding it harder to afford a house.To your question about what the higher rates say about the state of the economy, though. You look at the economy, you know, from different views, and in many areas, it looks healthy, like the labor market, plus the economy grew over the summer. But then there's this -- you know, this chronically high inflation that the Fed is trying to get a handle on. So far, the Feds not really making a dent, and as we learned yesterday, Powell has signaled that there are going to be more rate hikes to come to try to gain some traction on inflation. But you know this. There's a lot of worries that the Fed's aggressive rate hiking will create a Fed-induced recession. That won't be easy to bounce back from. And that's really what's got everybody worried at this point.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:25:00",
+      "speaker": "BLACKWELL",
+      "sentences": "Alison Kosik, thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:25:00",
+      "speaker": "GOLODRYGA",
+      "sentences": "On Capitol Hill, the attack on House Speaker Nancy Pelosi's husband has sparked a debate about security funding for lawmakers and their families.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:25:00",
+      "speaker": "BLACKWELL",
+      "sentences": "But with just days to go until the midterm election, some members are holding out to see how the balance of the House shifts before making a decision on that. CNN's Whitney Wild joins us now with more. What have you learned?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:25:00",
+      "speaker": "WHITNEY WILD, CNN LAW ENFORCEMENT CORRESPONDENT",
+      "sentences": "Well, there are a lot of calculations that are going to determine what way Capitol police can move forward after this incident. This is a similar inflection point as what happened after January 6. And what we saw after that was lawmakers started to really understand why some security appropriations are necessary. And they did get a flood of funding.However, now, these requests are being made with a little bit of skepticism. And here's why. You look at what the -- what Democratic lawmaker Zoe Lofgren put out yesterday. She put out a very scathing letter to Capitol Police basically saying we want to know exactly every policy that should have pertained to protecting Nancy Pelosi and then further, that would have dictated your relationships with local police. And they want very detailed answers about what those procedures were if those policies were followed. And the message there is that they really need to come up with some good questions before they start asking -- good answers to these questions before they begin asking for more money. So those are some of the -- of the conversations that are going on, on Capitol Hill. Some sources have indicated to me they're a little bit skeptical of some of the -- of some of the money that it's going to take to revamp this organization. And part of the problem here is it across the board, there's just not a total consensus on what this agency should be. For example, the Capitol Police Inspector General thinks that that should be basically a mini Secret Service. However, there are other people who say Capitol Police is a police department. So, there's a push and pull there. But let's talk about some of the ideas that they do have. Some of the things that are being floated out there, according to sources we're speaking with include 24/7 monitoring of the homes for all members of leadership, and people who have threat-based details. Some of that could include temporary protective details for spouses. And then here's the big thing, hiring 840 USCP officers over the next three years. This is basically directly from the review that General Russel Honore did following January 6. He said if you want to meet the mission here, you need to add more than 800 officers. And here's what he said about when he presented that to Kevin McCarthy. Kevin McCarthy -- House Minority Leader Kevin McCarthy was skeptical of that. So, here's what Honore told us. He said at the time when I debriefed him, his opinion was that they just need better management, and they don't need more officers. So again, that is a very good example of the push and pull here. What is this agency supposed to do, what is the overall vision for it, and how are they going to meet that mission? Is this a management problem? Is it a manpower issue? Those are the big questions. Back to you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:25:00",
+      "speaker": "GOLODRYGA",
+      "sentences": "Yes, the frustrating part is this has been going on -- this debate has been going on for months now. And clearly what they can all agree on is the status quo is just not susceptible. It's not up to par.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:25:00",
+      "speaker": "BLACKWELL",
+      "sentences": "Yes, it's insufficient.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "14:25:00",
+      "speaker": "GOLODRYGA",
+      "sentences": "Whitney Wild, thank you.",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

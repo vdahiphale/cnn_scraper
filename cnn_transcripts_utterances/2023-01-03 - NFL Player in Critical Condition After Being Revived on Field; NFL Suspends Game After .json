@@ -1,0 +1,583 @@
+{
+  "date": "2023-01-03",
+  "headline": "CNN This Morning",
+  "subHeadline": "NFL Player In Critical Condition After Being Revived On Field; NFL Suspends Game After Bills Player Suffers Cardiac Arrest; Today: Once-In-A-Century Floor Fight Over House Speakership Bid; New Congress Features Record-Setting Number Of Women. Aired 7-7:30a ET",
+  "utterances": [
+    {
+      "timeStamp": "07:00:10",
+      "speaker": "BOOGER MCFARLAND, ESPN ANALYST",
+      "sentences": "America right now is concerned about one thing, the health and safety of this young man. And I think we need to go ahead and make that call. Stop speculating. Everybody sweating (ph) about it. Call the game. NFL, go ahead and call this game and let's move on.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:10",
+      "speaker": "DON LEMON, CNN ANCHOR",
+      "sentences": "Well good morning, everyone. I'm Don Lemon with Poppy Harlow here. Kaitlan is live in Washington, D.C. The start of the new Congress, we'll get to that. But the big story this morning --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:10",
+      "speaker": "POPPY HARLOW, CNN ANCHOR",
+      "sentences": "Oh yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:10",
+      "speaker": "LEMON",
+      "sentences": "-- is what happened on the football field last night. Buffalo Bills safety Damar Hamlin suffering a cardiac arrest and collapsing on the football field. Just 24 years old. Now in the hospital. He is in critical condition.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:10",
+      "speaker": "HARLOW",
+      "sentences": "We'll get you updates on that, of course. Also, House Republican Leader Kevin McCarthy's bid to be Speaker, plagued with uncertainty still this morning. The concessions he has made may not be enough to win him the support he needs to become a Speaker, if you can believe it. Kaitlan?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:10",
+      "speaker": "KAITLAN COLLINS, CNN ANCHOR",
+      "sentences": "Yes. And once the new Congress is sworn in, you know, the Republican majority of the House is promising a wave of investigations. Partisan gridlock could stall President Biden's agenda. There are big questions about what that will look like as well.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:10",
+      "speaker": "LEMON",
+      "sentences": "But our big story this morning, we're going to start with Buffalo Bills player Damar Hamlin, hospitalized, in critical condition after collapsing and suffering cardiac arrest on the field Monday night. This is what we know at this hour.It happened in the first quarter after Hamlin tackled Bengals wide receiver Tee Higgins. Hamlin got up and then moments later collapsed on his back. Within seconds, the Bills medical staff was treating him. Less than five minutes later, an ambulance was brought onto the field. The Bills say Hamlin suffered cardiac arrest and his heartbeat was restored on the field. Players on both teams were overcome with emotion, consoling each other and praying for Hamlin. At 9:18, the game was temporarily suspended, with the teams going back to their locker rooms to gather themselves. At 9:25, the ambulance left the stadium, taking Hamlin to the University of Cincinnati Medical Center for further testing and treatment. And at 10:01 p.m., just over an hour after Hamlin's medical emergency, the NFL announced the game was postponed. So joining us now, CNN's Chief Medical Correspondent Dr. Sanjay Gupta. Good morning, Doctor. What's your reaction to -- DR. SANJAY GUPTA, CNN CHIEF MEDICAL CORRESPONDENT: Good morning.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:10",
+      "speaker": "LEMON",
+      "sentences": "-- this and the possibility? We don't know for sure that it's this commotio cordis.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:05:07",
+      "speaker": "LEMON",
+      "sentences": "Well, Doctor, just a quick follow up. So instead of a pump or beat, it's -- the heart starts to flutter, right, in --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:05:07",
+      "speaker": "GUPTA",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:05:07",
+      "speaker": "LEMON",
+      "sentences": "-- in a radical way. Am I correct with that?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:05:07",
+      "speaker": "GUPTA",
+      "sentences": "Yes. So the heart has typically got a very coordinated beating pattern. It's four chambers in the heart. The blood is moving through these chambers. Eventually, it's pushed out through the heart and goes to the rest of the body. Oxygenated blood is coursing through the body.The heart is quivering or fibrillating, right. Instead of a nice beat like this, which we all can sort of think of and imagine that heartbeat and starts to go like this, and that's an inefficient sort of beating. It's still moving, but it's essentially not accomplishing anything. It's not actually moving oxygenated blood throughout the body. That's what you're trying to address. That's what you're trying to restore when you apply electricity to the heart, for example, and get that heart rhythm back to normal.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:05:07",
+      "speaker": "HARLOW",
+      "sentences": "I mean, you did give us, Doctor, some good news in terms of the heart being restarted on the field, a little bit of stabilization overnight --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:05:07",
+      "speaker": "GUPTA",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:05:07",
+      "speaker": "HARLOW",
+      "sentences": "-- at the hospital. Why don't you, if you could, walk us through exactly what we see in this video, so people waking up to this can try to get their head around it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:05:07",
+      "speaker": "GUPTA",
+      "sentences": "Sure. So if you watch the video, it probably doesn't look immediately like that significant, a tackle or a blow. But I'm looking for specifically, as you see the right shoulder there of the player go into the chest, is that right shoulder pad essentially acting as a projectile, like I showed in that baseball graphic. Is that the sort of moment of impact where basically you hit the heart and essentially cause that abnormal heart rhythm to begin, this ventricular fibrillation.Again, when I say it's rare, I'm saying maybe a couple of dozen times a year that this happens. And it's because the right -- the exact spot at the exact time. I mean, the heart is beating constantly, right? So to get it at the exact time when you could cause this sort of abnormality of the heart rhythm, again, it doesn't happen very often, but that seems to be what happens there. He goes to the ground. Again, that does not look like a significant event there. I'm looking for the fact that he then stands up after that, stands up, which is really important. Again, as a neurosurgeon brain surgery, I'm thinking, is there a brain injury, is there a spinal cord injury? Does not appear to be at that point. But at this point, as you're watching, when he collapses backwards, the heart rhythm is now abnormal, and he's not pushing oxygenated blood through the body, including the brain. It's going to cause render someone unconscious, obviously, and that's what causes them to fall to the ground.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:05:07",
+      "speaker": "LEMON",
+      "sentences": "So as we're watching at home, Doctor, listen, it was -- you know, he had medical staff there on the field, right? Not everybody has a medical staff.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:05:07",
+      "speaker": "HARLOW",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:05:07",
+      "speaker": "GUPTA",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:05:07",
+      "speaker": "LEMON",
+      "sentences": "You know, Poppy and I were talking, and a lot of folks, I'm sure people at home are wondering, you know, giving CPR, you have to be trained in giving CPR. But then having a --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:05:07",
+      "speaker": "GUPTA",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:05:07",
+      "speaker": "LEMON",
+      "sentences": "-- defibrillator on hand, right, is extremely helpful as we were talking to a doctor in the previous hour. Should folks have --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:05:07",
+      "speaker": "GUPTA",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:05:07",
+      "speaker": "LEMON",
+      "sentences": "-- home defibrillators, and should they have defibrillators at our, you know, fingertips?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:05:07",
+      "speaker": "GUPTA",
+      "sentences": "I think all large venues certainly should have defibrillators, and I imagine even aside from the ambulance, which clearly would have a defibrillator, these venues should have defibrillators. I think people at home, certainly if they're -- certainly if they're at risk for this sort of thing -- and I want to be careful here, this is not a common occurrence, what we've seen here. But if someone is at risk of cardiac arrest at home, a defibrillator is the way, the most efficient way to restart the heart, to restore that normal rhythm.I will say, though, everyone can learn CPR. I mean, I think -- don't know what the percentage is now, but there's a significant percentage of people who've ever gone through any sort of CPR training. Anybody could be a person who can administer CPR in this sort of situation. Call 911 first. Obviously, that's a football field, so it's a different scenario. But if you witness a cardiac arrest, call 911 first and learn CPR and administer that CPR. But, yes, I think defibrillators, having them more ubiquitous, more widely available, is really important. Again, last night, we weren't even sure that he had defibrillation actually performed on the field. I assumed that he did, but we couldn't see anything, right?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:05:07",
+      "speaker": "HARLOW",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:05:07",
+      "speaker": "GUPTA",
+      "sentences": "Everyone was around him. But I think when those electric shocks are applied, that's really the key. And every minute that goes by without restoring the heart, there's an additional 10 percent increase in mortality. So, you know, you -- time is critical here.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:10:01",
+      "speaker": "GUPTA",
+      "sentences": "Right. That is the question, and the answer is no. I don't think you can make it safe. I mean, that's a brutal game. Again, most of the discussion has been around CTE, we've done a lot of reporting on that, documentary films, all that. But, you know, even with something like this, you get a sense of just how brutal, how violent the game can be.I think there's been a lot of things that have been done to make the game safer over the last 15, 20 years. But safe? I mean, I think the answer to that is definitively no.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:10:01",
+      "speaker": "LEMON",
+      "sentences": "Doctor, thank you. We appreciate having you on. Thank you so much for that.You know, it is important not to lose sight of Damar Hamlin, the man in the situation --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:10:01",
+      "speaker": "HARLOW",
+      "sentences": "The human.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:10:01",
+      "speaker": "LEMON",
+      "sentences": "-- the human being. Here he is. This is just a couple of weeks ago, posing for pictures with kids and signing autographs at his toy drive event. This was in Buffalo. He started a GoFundMe back in 2020 to help purchase toys for kids in need. Watch this.(BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:10:01",
+      "speaker": "DAMAR HAMLIN, BUFFALO BILLS SAFETY",
+      "sentences": "It's something I've always been into, just giving back. Something I've been doing back at home in Pittsburgh. For three years, I've been doing A toy drive. So just being able to extend it to Buffalo now is just I love doing. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:10:01",
+      "speaker": "LEMON",
+      "sentences": "So we want to tell you that donations to Hamlin's GoFundMe have been pouring in following his on field collapse. The original goal was $2,500. So far, it has raised more than $3.2 million. Nearly 125,000 people have donated.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:10:01",
+      "speaker": "HARLOW",
+      "sentences": "Let's talk about this more with Bomani Jones, host of the HBO and HBO Max Show \"Game Theory with Bomani Jones,\" host of the podcast, \"The Right Time with Bomani Jones.\" Good morning. Thank you for being here. What are your --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:10:01",
+      "speaker": "LEMON",
+      "sentences": "Good morning. I saw you shaking your head when Poppy's question, can you make it safer or safe? And you said --BOMANI JONES, HOST, HBO/HBO MAX, \"GAME THEORY WITH BOMANI JONES\": Oh, no, I mean, it's like trying to make a safe cigarette. That's just not really how this works, how this game works. And part of why people watch is the fact that it's not safe. Like that's an element to the drama of this, is that the idea of the sacrifice and everything that has to put in, that's part of what draws people into this. And so, we feel guilty when we see things like this. So we always try to come around and find a way to be like, man, you think they could find a way to make this safe? No, they can't. That's just not what this game is or what it's ever going to be.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:10:01",
+      "speaker": "LEMON",
+      "sentences": "What's your reaction when you saw what happened last night?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:10:01",
+      "speaker": "JONES",
+      "sentences": "Well, what happened for me was interesting because I kind of missed it. And then once I saw that they were talking in somber tones and doing the solemn replay, I was like, oh, I don't need to watch this. But my thought was that it was like a spinal injury. That's something that you see often happen in football.After they came back from a couple of commercial breaks and then said that they were administering CPR, I called one of my colleagues and said, do we watch somebody die? Because that was -- it was so clear from the way they were treating it that it was that grave and that dire. And then I was like, whether they're going to play football.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:10:01",
+      "speaker": "LEMON",
+      "sentences": "We didn't know. For money, we did not know. Because I kept saying, is he still alive? What is happening? Like, we did not know.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:10:01",
+      "speaker": "JONES",
+      "sentences": "No, I just watched enough of these to recognize that something was very different. And the fact that Joe Buck couldn't even figure out what to say. And then it's 10 minutes later and they're talking about CPR. And that was, for me, the moment that it became really terrified --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:10:01",
+      "speaker": "LEMON",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:10:01",
+      "speaker": "JONES",
+      "sentences": "-- about what exactly was going on.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:10:01",
+      "speaker": "LEMON",
+      "sentences": "This is what you said last night. You tweeted this. You said, \"I hope the players know that they really don't have to play if they don't want to. In this moment, nobody can make them play. Nobody.\"You were concerned about what would happen. I thought, just from watching that they wanted to play. I think the players really had a huge influence in this. I think they probably said, I don't want to go back out there and play at this point.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:10:01",
+      "speaker": "JONES",
+      "sentences": "I think that's exactly what happened. And to be fair to the NFL, because I think it's easy to point to the cruelty of the show must go on, that show never stops. We've watched people be paralyzed, and they get them off the field, and then they go. My colleague Dominique Foxworth talks about being in college and the guy being paralyzed at practice, and they just moved down to the next field.And then they kept on going, like, this game doesn't stop. Because if you stopped for something catastrophic, you probably wouldn't be able to play that much football. They'd be stopping all the time. And so, when I looked up and I saw those dudes warming up, getting ready to go out there, and then they announced that it was five minutes, I was appalled by it. But then I realized, that's just what they do there. They're like, OK, the field is clear. We're going. OK, five minutes, we're back out there. Because they never stopped for anything. And I was glad when the coaches got to midfield, and it seemed very clear that they looked at their sidelines and they said, they had about to be a game.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:10:01",
+      "speaker": "HARLOW",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:10:01",
+      "speaker": "JONES",
+      "sentences": "Whether we want there to be or not, these dudes can't play. And I was fearful that they would feel the pressure to go out there, because if they wanted to play, it wouldn't be for me to judge if they did, but for them to look around. And you could just tell.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:10:01",
+      "speaker": "LEMON",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:10:01",
+      "speaker": "JONES",
+      "sentences": "These are 24, 25-year-old dudes, man. They did not. I have it in them. They think they just saw the worst thing that could possibly happen. And then you ask them to go out there and do the same thing that that dude was doing when that happened. It wasn't going to happen.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:10:01",
+      "speaker": "LEMON",
+      "sentences": "And when do you see people, I mean, you rarely see, especially athletes, big dudes crying on the field, live television and embracing and hugging each other because, I mean, you knew something, you know, was awful and different, as they say.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:15:11",
+      "speaker": "JONES",
+      "sentences": "I don't know about that. And the reason, reason I say that is if Hamlin had been paralyzed, this game goes on. Like if he leaves the stadium and everybody felt confident that he was going to live or at the very least that this wasn't dire in that moment, that game probably would have gone on.What I think happened was an outlier event that we haven't seen before. We have not seen a situation that scared people so much in that moment right then and there. I would think it was a paradigm shift, perhaps if it was something lesser. I think where you could maybe say there was a paradigm shift is in the attitudes of the players, right? Like, and we've seen that with concussions, for example, where you have guys now far more likely to say, hey, I'm not going to play, or have their teammates be like, hey, this guy is not going to play.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:15:11",
+      "speaker": "HARLOW",
+      "sentences": "So what does that tell you, that shift in the players?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:15:11",
+      "speaker": "JONES",
+      "sentences": "That we're raising a generation that is far more aware of the risk and consequences of playing football.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:15:11",
+      "speaker": "HARLOW",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:15:11",
+      "speaker": "JONES",
+      "sentences": "Right? And I think that players and the people around the game think about this a little bit more than they used to. Because if you think about the sort of plays that we watched 20 years ago, the things that got people out of their seats, the things that were part of highlight packages, those have changed.But this isn't one of those plays, like this isn't one of those where you thought some dude got his head knocked off. This was one of those where you're like, oh, that didn't seem so bad until he stands up for three seconds and then he falls down. Like I think that this was so jarring and so outside of what we're accustomed to seeing in football that he generated response unlike anything we've seen.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:15:11",
+      "speaker": "LEMON",
+      "sentences": "Yes. So then what are the considerations before rescheduling? Before I play that, let me play -- before you do that respond. This is player Ron Clark.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:15:11",
+      "speaker": "HARLOW",
+      "sentences": "Yes, this is great.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:15:11",
+      "speaker": "LEMON",
+      "sentences": "The former NFL player Ron Clark, he made making this impassioned plea for the NFL to consider the players before rescheduling the game. And I'll get your take on this.(BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:15:11",
+      "speaker": "RYAN CLARK, FORMER NFL PLAYER",
+      "sentences": "I know the NFL -- the NFL is a big business and the NFL has to continue doing business and the NFL has to continue entertaining. But if the NFL doesn't send somebody into these locker rooms, if the NFL isn't flying people to Cincinnati right now or to Buffalo or wherever they're going right now, they are missing the point. The point is make sure these men are all right. And then you can play football. Because what I'm going to tell you is if you put them out there tomorrow, you're going to get a trash game anyway because you've said it 20 times tonight. What's important is Damar Hamlin.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:15:11",
+      "speaker": "LEMON",
+      "sentences": "Ryan Clark, I said I think -- I'm sort of said Ron. What do you think?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:15:11",
+      "speaker": "JONES",
+      "sentences": "I don't think this game is going to be played because I don't think logistically, it's really going to be possible for this to be played. Like you can't decide, OK, we're going to play the game on Wednesday and then ask these dudes to come out here and play again on Sunday just because of the physical wear and tear that the game takes.There's no reason to play this game. Like, if you want to be cold and cynical about it, I watch what happened after they suspended that game. They ran all those ads. Everybody got their money. Those tickets were sold, right? Like this isn't a matter of we need to recruit this for financial reasons and honestly, the consequences of the standings. You'll figure that out. They don't have to play this game and I don't think they will play this game because what are we going to do? Tune in to watch this game and think about the fact that we thought we wanted let somebody die all game long? It's not a win for anybody.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:15:11",
+      "speaker": "HARLOW",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:15:11",
+      "speaker": "JONES",
+      "sentences": "And I think the league is going to have to look up and recognize there's nothing left for them to do with this game. They need to ask themselves whether or not these two teams are going to be able to play the game they have scheduled on Sunday because we're like, hey, OK, well, maybe they can get out here and play tomorrow.I don't know about you, but if my co-worker had something like that happen to me, did in front of me, I'm not promising you won't come into work for the rest of the week.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:15:11",
+      "speaker": "LEMON",
+      "sentences": "Yes. Well, not dead at this point, but yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:15:11",
+      "speaker": "JONES",
+      "sentences": "Yes, I was able -- that's why I said what happened.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:15:11",
+      "speaker": "LEMON",
+      "sentences": "What happened, yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:15:11",
+      "speaker": "JONES",
+      "sentences": "I want to be very clear about that, what happened.LEMON What happened.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:15:11",
+      "speaker": "HARLOW",
+      "sentences": "Should be up to the players.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:15:11",
+      "speaker": "JONES",
+      "sentences": "No, no. It is -- that a thing.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:15:11",
+      "speaker": "HARLOW",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:15:11",
+      "speaker": "JONES",
+      "sentences": "It is up to the players. HARLOW",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:15:11",
+      "speaker": "JONES",
+      "sentences": "If they decide they ain't going to be no game, you can't go out on the street --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:15:11",
+      "speaker": "HARLOW",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:15:11",
+      "speaker": "JONES",
+      "sentences": "-- and throw people in Buffalo bill suits and get them out here. If they don't want to play, it's not going to be a game. And I hope the union and everybody else is telling every single one of those dudes, you have the power right now to decide if this show goes on.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:15:11",
+      "speaker": "HARLOW",
+      "sentences": "Bomani, thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:15:11",
+      "speaker": "LEMON",
+      "sentences": "Bomani. Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:15:11",
+      "speaker": "HARLOW",
+      "sentences": "So good to have you this morning.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:15:11",
+      "speaker": "JONES",
+      "sentences": "Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:15:11",
+      "speaker": "LEMON",
+      "sentences": "I guess, you know, we can -- you consider this is sort of, as we say in television or in television news, a split screen day because there are two huge things going on.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:15:11",
+      "speaker": "HARLOW",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:15:11",
+      "speaker": "LEMON",
+      "sentences": "You've got what happened with the NFL last night and of course, you have this chaotic change, changing of the guard in Washington, D.C. that Kaitlan is covering this morning.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:15:11",
+      "speaker": "COLLINS",
+      "sentences": "Yes, I love hearing Bomani's perspective on that too, on this moment, because what he said is what so many people, I think, was their reaction --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:15:11",
+      "speaker": "HARLOW",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:24:11",
+      "speaker": "COLLINS",
+      "sentences": "I'm Kaitlan Collins live on Capitol Hill this morning, where just hours from now, Republicans are set to assume control of the House of Representatives. But the first task ahead of them is voting for speaker of the House. Kevin McCarthy this morning is still struggling to get the 218 votes that he needs in his bid for the Speakership. If McCarthy doesn't get that support, it is going to be historic.Joining us now to break all of this down is CNN's Senior Political Analyst and Anchor, John Avalon. John --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:24:11",
+      "speaker": "JOHN AVLON, CNN SENIOR POLITICAL ANALYST",
+      "sentences": "Good morning.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:24:11",
+      "speaker": "COLLINS",
+      "sentences": "-- you know the cows (ph) in Washington just as well as I do, and this will be historic if McCarthy is not actually able to get the votes that he needs today, the first time it all have happened in nearly a century. What do you -- what is your expectation about essentially what happens if he doesn't get the votes that he needs?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:25:01",
+      "speaker": "COLLINS",
+      "sentences": "And what about the last time with Republican speakers? Because of, yes, I don't think a lot of people will really remember what happened in 1923, but obviously, John Boehner, Paul Ryan are very familiar names to our audience.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:25:01",
+      "speaker": "AVLON",
+      "sentences": "That's right. And this is just a reminder that this is a tough job and it seems to be getting tougher, particularly for Republicans. You mentioned John Boehner, Paul Ryan. The last two Republican speakers, they quit their positions, right? And these are broadly respected guys.Paul Ryan quintessential policy wonk, John Boehner, the deal maker, but they were constantly corralling the cats in their caucus. And one quote from John Boehner really hammers home the problem that Kevin McCarthy seems to be facing. Boehner wrote in his memoir, \"Under the new rules of Crazytown, I may have been speaker, but I didn't hold the power. The Chaos Caucus in the House had built up their own power base. Thanks to fawning right- wing media and outraged driven fundraising cash. So it's a reminder, the fight that Kevin McCarthy seems to be facing today has been brewing for a longtime, but it seems to be getting worse. COLLINS: Yes. And that quote, I may have been the speaker, but I didn't hold the power, that could be Kevin McCarthy, given the concessions --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:25:01",
+      "speaker": "AVLON",
+      "sentences": "That's it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:25:01",
+      "speaker": "COLLINS",
+      "sentences": "-- that he has made to those who still are standing in the way of this. John Avlon, thank you for breaking it down.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:25:01",
+      "speaker": "AVLON",
+      "sentences": "Absolutely.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:25:01",
+      "speaker": "COLLINS",
+      "sentences": "We will obviously stay tuned. 82 new members are set to take the oath of office when the 118th Congress begins today. This freshman class includes a record number of women and more diversity.CNN's Jessica Dean joins us now. We were talking with the Congresswoman-elect from Washington's 3rd District a few moments ago, Marie Gluesenkamp Perez. She's a young mom. She came from this auto body repair shop that she owns, and she was saying that she thinks Congress needs to look more like that, more young moms, more people who struggle to get a mortgage, to pay a mortgage. Tell us what this new Congress is going to look like.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:25:01",
+      "speaker": "JESSICA DEAN, CNN CONGRESSIONAL CORRESPONDENT",
+      "sentences": "Right. Well, it's going to be the most diverse Congress we've ever seen, Kaitlan. And we forget that these are just people. You know, there's a lot of drama playing out with the Speaker's race, but the fact of the matter is, these new members have to organize new offices, figure out what this means for their family, find a place to live. And a lot of them are single moms or they're leaving behind a job.So we talked to a couple of them to see what their experience have been like. (BEGIN VIDEOTAPE) DEAN (voice-over): For freshmen members of Congress, January 3rd feels a little like the first day of school. SUMMER LEE (D), PENNSYLVANIA CONG.-ELECT: I'm definitely nervous. It's a big weight. You know, I do not take lightly. I don't take lightly, right, that I'm going to Congress. MONICA DE LA CRUZ (R), TEXAS CONG.-ELECT: I think, wow, it's happening. This is real. And we're about to enter a new phase in life. DEAN (voice-over): This freshman group of lawmakers will be historically diverse, with record setting numbers of women, Latino members, and members who identify as LGBTQ. According to The Washington Post, this will be the youngest group of incoming House members in the last seven freshman classes, with an average age of 46. (on-camera): Do you think you'll come back every weekend?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:25:01",
+      "speaker": "LEE",
+      "sentences": "I think that I'm going to comeback as often as it's practical.DEAN (on-camera): Yes. At 35 years old, Democrat Summer Lee is the first black woman to ever represent Pennsylvania.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:25:01",
+      "speaker": "LEE",
+      "sentences": "I'm honored to serve as people who come from a working-class background, from a black community, you know, from public school systems, with my accent. You know, I want that to come through. I want to be able to be me so that people who are now thinking about whether they should ever run know that they don't have to change who they are to be in this place.DEAN (voice-over): A record breaking 149 women will serve in the House or Senate, and that includes 42 Republicans. Another first, Monica De La Cruz is the first Republican and first woman to represent the 15th District of Texas.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:25:01",
+      "speaker": "DE LA CRUZ",
+      "sentences": "It's really a humbling thought for me, and I just feel like I represent the American Dream.DEAN (voice-over): Since the moment they won, both women say it's been a flurry of logistics, hiring, and planning as they prepare for their new lives. There's the question of where they'll live. Lee found a roommate and fellow incoming Illinois Congresswoman Delia Ramirez.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:25:01",
+      "speaker": "LEE",
+      "sentences": "We kind of both just were like, can you afford to live alone, right? So it was like an immediately -- an immediate connection on that one.DEAN (voice-over): De La Cruz, a single mom to two teenagers, has yet to find a place in Washington, D.C.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:25:01",
+      "speaker": "DE LA CRUZ",
+      "sentences": "Will probably be sleeping in my office the first couple of months until I get better oriented with the city.DEAN (voice-over): The list of to-dos continues to be long, from hiring staff.",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

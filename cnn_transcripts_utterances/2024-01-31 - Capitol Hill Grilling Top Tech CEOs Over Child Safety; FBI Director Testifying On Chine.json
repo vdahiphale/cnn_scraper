@@ -1,0 +1,547 @@
+{
+  "date": "2024-01-31",
+  "headline": "State of the Race with Kasie Hunt",
+  "subHeadline": "Capitol Hill Grilling Top Tech CEOs Over Child Safety; FBI Director Testifying On Chinese Hackers' Dangerous Intents. Aired 11a-12p ET",
+  "utterances": [
+    {
+      "timeStamp": "11:05:00",
+      "speaker": "JASON CITRON, CEO, DISCORD",
+      "sentences": "Senator, we think it's very important that teens have a safe experience on our platforms. I think that the portion tostrengthen law enforcement's ability to investigate crimes against children to hold bad actors accountable is incredible.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:05:00",
+      "speaker": "KLOBUCHAR",
+      "sentences": "So, you're holding open that you may support it?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:05:00",
+      "speaker": "CITRON",
+      "sentences": "We very much would like to have conversations with you. We're open to discussing further. We do welcome legislation and regulation. This is avery important issue for our country. And we've been prioritizing safety for change.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:05:00",
+      "speaker": "KLOBUCHAR",
+      "sentences": "Thank you. I just -- I'm much more interested in if you support it, because there has been so much talk at these hearings and popcornthrowing and the like, and I just want to get this stuff done. I'm so tired of this. It's been 28 years, what, since the internet. We haven't passed any of these bills, because everyone's double talk, double talk. It's time to actually pass them. And the reason they haven't passed is because of the power of your company. So, let's be really, really clear about that. So, what you say matters. Your words matter. Mr. Chew, I'm a co-sponsor of Chair Durbin's STOP CSAM Act of 2023, along with Senator Hawley's, the lead Republican, I believe, which among other things empowers victims by making it easier for them to ask tech companies to remove the material and related imagery from their platforms. Why would you not support this bill?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:05:00",
+      "speaker": "SHOU CHEW, CEO, TIKTOK",
+      "sentences": "Senator, we largely support it. I think the spirit of it is very aligned with what we want to do. There are questions aboutimplementation that I think companies like us and some other groups have, and we look forward to asking those, and of course, if this legislation is law, we will comply.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:05:00",
+      "speaker": "KLOBUCHAR",
+      "sentences": "Mr. Spiegel, I know we talked ahead of time. I do appreciate your company's support for the Cooper Davis Act, which will finally -- it'sa bill with Senator Shaheen and Marshall, which will allow law enforcement to do more when it comes to fentanyl. I think you know what a problem this is. Devin Norring, teenager from Hastings, I mentioned his mom here, suffered dental pain and migraines. So, he bought what he thought was a Percocet over Snap. But, instead, he bought a counterfeit drug laced with lethal dose of fentanyl. As his mom, who is here with us today, said, all of the hopes and dreams we as parents had for Devin were erased in the blink of an eye, and no mom should have to bury their kid. Talk about why you support the Cooper Davis Act.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:05:00",
+      "speaker": "EVAN SPIEGEL, CEO, SNAP",
+      "sentences": "Senator, thank you. We strongly support the Cooper Davis Act. We believe it will help DEA go after the cartels and get moredealers off the streets to save more lives.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:10:00",
+      "speaker": "MARK ZUCKERBERG, CEO, META",
+      "sentences": "Sure, Senator. I'm happy to talk to both of those. We had discussions internally about whether we should build a kidsversion of Instagram, like the --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:10:00",
+      "speaker": "KLOBUCHAR",
+      "sentences": "I remember that.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:10:00",
+      "speaker": "ZUCKERBERG",
+      "sentences": "-- kids versions of YouTube --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:10:00",
+      "speaker": "KLOBUCHAR",
+      "sentences": "Yeah.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:10:00",
+      "speaker": "ZUCKERBERG",
+      "sentences": "-- and other services. We haven't actually moved forward with that. And we currently have no plans to do so. So, I can't speak directlyto the exact emails that you cited. But, it sounds to me like they were deliberations around a project that people internally thought was important, and we didn't end up moving forward with.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:10:00",
+      "speaker": "KLOBUCHAR",
+      "sentences": "OK. And the bills --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:10:00",
+      "speaker": "ZUCKERBERG",
+      "sentences": "Yeah.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:10:00",
+      "speaker": "KLOBUCHAR",
+      "sentences": "-- what are you going to say --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:10:00",
+      "speaker": "ZUCKERBERG",
+      "sentences": "So --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:10:00",
+      "speaker": "KLOBUCHAR",
+      "sentences": "-- about the two bills?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:10:00",
+      "speaker": "ZUCKERBERG",
+      "sentences": "Sure. So, overall, I mean, my position on the bills is, I agree with the goal of all of them. There are most things that I agree withwithin them. There are specific things that I would probably do differently. We also have our own legislative proposal for what we think would be most effective in terms of helping the internet and the various companies give parents control over the experience. So, I'm happy to go into the detail on any one of them. But, ultimately, I think that this is - -",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:10:00",
+      "speaker": "KLOBUCHAR",
+      "sentences": "Again, well, I think these parents will tell you that this stuff hasn't worked to just give parents control. They don't know what to do.It's very, very hard. And that's why we are coming up with other solutions that we think are much more helpful to law enforcement, but also this idea of finally getting something going on liability, because I just believe with all the resources you have that you actually would be able to do more than you're doing, or these parents wouldn't be sitting behind you right now in this Senate hearing room.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:10:00",
+      "speaker": "ZUCKERBERG",
+      "sentences": "Senator, can I speak to that?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:10:00",
+      "speaker": "DURBIN",
+      "sentences": "Thank you, Senator Klobuchar. Senator --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:10:00",
+      "speaker": "ZUCKERBERG",
+      "sentences": "Or do you want me to come back later?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:10:00",
+      "speaker": "KLOBUCHAR",
+      "sentences": "Yeah.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:10:00",
+      "speaker": "DURBIN",
+      "sentences": "Please go ahead.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:10:00",
+      "speaker": "ZUCKERBERG",
+      "sentences": "I don't think that parents should have to upload an ID or prove that they're the parent of a child in every single app that their childrenuse. I think the right place to do this and a place where it'd be actually very easy for it to work is within the app store's themselves, where my understanding is Apple and Google already or at least Apple already requires parental consent when a child does a payment with an app. So, it should be pretty trivial to pass a law that requires them to make it said parents have control anytime a child downloads an app and offers consent to that. And the research that we've done shows that the vast majority of parents want that. And I think that that's the type of legislation, in addition to some of the other ideas that you all have, that would make this a lot easier --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:10:00",
+      "speaker": "KLOBUCHAR",
+      "sentences": "Yeah.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:10:00",
+      "speaker": "ZUCKERBERG",
+      "sentences": "-- for parents.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:10:00",
+      "speaker": "KLOBUCHAR",
+      "sentences": "Just to be clear, I remember one mom telling me, with all these things she could maybe do that she can't figure out, it's like a faucetoverflowing in a sink, and she is out there with a mop while her kids are getting addicted to more and more different apps and being exposed to material. We've got to make this simpler for parents so they can protect their kids. And I just don't think this is going to be the way to do it. I think the answer is what Senator Graham has been talking about, which is opening up the halls of the courtroom. So, that puts it on you, guys, to protect these parents and protect these kids, and then also to pass some of these laws that makes it easier for law enforcement.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:10:00",
+      "speaker": "DURBIN",
+      "sentences": "Thank you, Senator Klobuchar. We're going to try to stick to the seven-minute rule. It didn't work pretty well. But, we're going to -- Iwill try to give additional time on the other side as well. Senator Cornyn.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:10:00",
+      "speaker": "DURBIN",
+      "sentences": "There is no question that your platforms are very popular. But, we know that while here in the United States we have an open society in freeexchange of information that there are authoritarian governments, there are criminals who will use your platforms for the sale of drugs, for sex, for extortion, and the like. And, Mr. Chew, I think your company is unique among --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:10:00",
+      "speaker": "HUNT",
+      "sentences": "All right. We're going to keep our ears on what's going on with the social media hearing and those tech CEOs. But, we have another criticalcongressional hearing also happening right now. The FBI Director Christopher Wray, he is testifying in the House this hour about the threats posed by Chinese hackers and this could touch on possible threats to the 2024 election. Let's listen to that.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:20:00",
+      "speaker": "DURBIN",
+      "sentences": "Thank you, sir. Director Coker, you're recognized for your opening statement.HARRY COKER JR., NATIONAL CYBER DIRECTOR: Chairman Gallagher, Ranking Member Krishnamoorthi, and distinguished members of the Select Committee, thank you for the opportunity to testify. I have been honored to lead the Office of the National Cyber Director (ONCD) in the White House for a little over a month now, and I am grateful to Congress and your leadership, Mr. Chairman, for creating this office. And Mr. Ranking Member, I appreciate our conversation yesterday and your abiding interest in our workforce challenges. ONCD was established by --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:20:00",
+      "speaker": "HUNT",
+      "sentences": "All right. We're going to keep our ears on these two hearings that are unfolding. You just heard the FBI Director Christopher Wray talkingabout Chinese hackers and how they far outnumber FBI cybersecurity personnel and threats that that poses. We're also keeping our ears on the tech CEOs that are under pressure from Congress about how they're going to protect kids on their platforms. That said, we also have so much political news to get to today. So, we're going to take a quick break. We'll be right back. (COMMERCIAL BREAK)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:25:00",
+      "speaker": "MOLLY BALL, SENIOR POLITICAL CORRESPONDENT, WALL STREET JOURNAL",
+      "sentences": "Yeah. I couldn't help thinking. And you heard Senator Klobuchar speak to this aswell. Like, how many times have we had these CEOs hauled in front of some kind of panel and yelled at? And what are they supposed to do? They're not the ones making the laws. They can sit there and answer questions. But, it's the lawmakers who have really failed to do anything. And you heard the Senator expressing some of that frustration. And there is a lot of bipartisan agreement that something should be done. But, there is not agreement on what exactly they should do. I certainly couldn't tell you what and how could be done given the vagaries of the First Amendment and another trip wires that are involved here. So, I think everyone wants to protect children in some sort of vague way. But, it is a hard problem, number one, and number two, given how divided the Congress is and given all of the different interests at stake that you have not -- the Committee has passed things, but it just has not been a high enough priority for either the full Senate or the entire Congress to get something done.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:25:00",
+      "speaker": "HUNT",
+      "sentences": "Right. Well, Paul, we were also talking about this. There is something called Section 230.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:25:00",
+      "speaker": "PAUL BEGALA, CNN POLITICAL COMMENTATOR",
+      "sentences": "Right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:25:00",
+      "speaker": "HUNT",
+      "sentences": "Right? And so, for people who aren't as down in the congressional weeds, as some of us at this table, it basically is a law that treatsinternet companies differently from other places where speech might unfold. And it says, well, if somebody does something on Twitter or Facebook or some other platform, the platform is not liable for the consequences of that speech, the person who posted it, maybe, but the platform is not. That's not true for those of us sitting at this table right now, for example. Is it time for that to go, and is there any hope that that might actually happen?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:25:00",
+      "speaker": "BEGALA",
+      "sentences": "Yes and no. Yes, it's time for to go, no, I don't have very much hope will happen, although you did see remarkable bipartisan support forthat. My boss, President Clinton, signed that law. It was part -- it was 28 words, one sentence in a very long bill that was called the Communications Decency Act. And unwittingly, those 28 words probably created more in decency in public discourse than anything else. It wasn't the intent. The idea was, the internet is just like a bulletin board. And you don't want to sue the YMCA because somebody puts up a card saying, I want to sell my car, and it's a lemon. So, that was the idea. And it was probably a good idea at the time. It created enormous companies and enormous wealth. But now, it is wealth -- power without accountability. And so, when Lindsey Graham, very conservative lawyer, Senator, and now Amy Klobuchar, a very liberal lawyer, Senator, are both saying, yeah, you ought to hold these companies accountable in a court of law. They just -- it would be the same standard for these colossal companies that it is for every weekly newspaper in America.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:25:00",
+      "speaker": "HUNT",
+      "sentences": "Yeah. Well, I mean, and we have this example, honestly, this morning, this news of this man who allegedly, then he claims he beheaded his fatherover something political. Puts a video up on YouTube and it's up for hours and thousands of people see it. It's -- I don't know. It's kind of stunning. ALEX CONANT, PARTNER, FIREHOUSE STRATEGIES, &amp; FMR. COMMUNICATIONS DIR. FOR MARCO RUBIO'S 2016 PRES. BID: Tech companies want to get that stuff off the internet, and are working really hard to get it big. YouTube doesn't want people beheading other people on their platform. That doesn't do anybody any good. And the 28, worth to mention that Section 230, that has created the Internet as we know it today, which is -- it creates tremendous wealth and connects people over the country. And obviously, I do work in the tech sector.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:25:00",
+      "speaker": "HUNT",
+      "sentences": "Yeah.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:25:00",
+      "speaker": "CONANT",
+      "sentences": "But, I think when you start to make these changes, you have to be very careful of unintended consequences. And the reason that Congress hasnot acted is because of the fear of unintended consequences when you start tweaking with policies that have over the last generation been wildly successful.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:30:00",
+      "speaker": "DURBIN",
+      "sentences": "Thanks Senator Coons. We're on one of two -- the first of two roll calls. And so, please understand, if some of the members leave and comeback, it's no disrespect. They're doing their job. Senator Lee. SEN. MIKE LEE (R-UT): Thank you, Mr. Chairman. Tragically, survivals -- survivors of sexual abuse are often repeatedly victimized and re-victimized over and over and over again by having nonconsensual images of themselves on social media platforms. There was a NCMEC study that pointed out there was one instance of CSAM that reappeared more than 490,000 times after it had been reported, after it had been reported. So, we need tools in order to deal with this. We need, frankly, laws in order to mandate standards so that this doesn't happen, so that we have a systematic way of getting rid of this stuff, because there is literally no plausible justification, no way of defending this. One tool, one that I think would be particularly effective, is a bill that I'll be introducing later today, and I invite all my committee members to join me. It's called the PROTECT Act. The PROTECT Act would, in pertinent part, require websites to verify age and verify that they've received consent of any and all individuals appearing on their site in pornographic images, and it also require platforms to have meaningful processes for an individual seeking to have images of him or herself removed in a timely manner. Ms. Yaccarino, based on your understanding of existing law, what might it take for a person to have those images removed, say from X?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:30:00",
+      "speaker": "LINDA YACCARINO, CEO, X",
+      "sentences": "Senator Lee, thank you. It sounds like what you're going to introduce into law in terms of ecosystem-wide and user consentsounds exactly like part of the philosophy of why we're supporting the SHIELD Act, and no one should have to endure non-consensual images being shared online.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:30:00",
+      "speaker": "LEE",
+      "sentences": "Yep. And without that, without laws in place, and it's fantastic anytime a company, as you've described with yours, wants to take thosesteps. It's very helpful. It can take a lot longer than it should. And sometimes, it does to the point where somebody had images shared 490,000 times after it was reported to the authorities. And that's deeply concerning. But, yes, the PROTECT Act would work in tandem with. It's a good complement to the SHIELD Act. Mr. Zuckerberg, let's turn to you next. As you know, I feel strongly about privacy and believe that one of the best protections for an individual's privacy online involves end-to-end encryption. We also know that a great deal of grooming and sharing of CSAM happens to occur on end-to-end encrypted systems. Does this Meta allow juvenile accounts on its platforms to use encrypted messaging services within those apps?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:30:00",
+      "speaker": "ZUCKERBERG",
+      "sentences": "Sorry, Senator. What do you mean juvenile?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:30:00",
+      "speaker": "LEE",
+      "sentences": "Underaged. People under 18.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:30:00",
+      "speaker": "ZUCKERBERG",
+      "sentences": "Under 18. We allow people under the age of 18 to use WhatsApp, and we do allow that to be encrypted. Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:30:00",
+      "speaker": "LEE",
+      "sentences": "Do you have a bottom level age at which they're not allowed to use it?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:30:00",
+      "speaker": "ZUCKERBERG",
+      "sentences": "I -- yeah.(CROSSTALK)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:30:00",
+      "speaker": "ZUCKERBERG",
+      "sentences": "I don't think we allow people under the age of 13.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:30:00",
+      "speaker": "LEE",
+      "sentences": "What about you, Mr. Citron? On Discord, do you have -- do you allow kids to have accounts to access encrypted messaging?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:30:00",
+      "speaker": "CITRON",
+      "sentences": "Discord is not allowed to be used by children under the age of 13. And we do not use end-to-end encryption for text messages. We believe thatit's very important to be able to respond to welfare and law enforcement requests to -- and we're also working on proactively building technology. We're working with a nonprofit called Thorn to build a grooming classifier so that our teen safeties feature can actually identify these conversations, if they might be happening, so we can intervene and give those teens' tools to get out of that situation or potentially even report those conversations and those people to law enforcement.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:35:00",
+      "speaker": "ZUCKERBERG",
+      "sentences": "Senator, my understanding is that we don't allow sexually explicit content on the service for people of any age. The --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:35:00",
+      "speaker": "LEE",
+      "sentences": "How is that going?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:35:00",
+      "speaker": "ZUCKERBERG",
+      "sentences": "Our prevalence metrics suggest that, I think it's 99 percent or so of the content that we remove, we're able to identify automaticallyusing AI system. So, I think that our efforts in this, while they're not perfect, I think are industry-leading. The other thing that you asked about was self-harm content, which is what we recently restricted. And we made that shift of the -- I think the state of the science is shifting a bit. Previously, we believed that when people were thinking about self-harm, it was important for them to be able to express that and get support. And now, more of the thinking in the field is that it's just better to not show that content at all, which is why we recently moved to restrict that from showing up for those teens at all.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:35:00",
+      "speaker": "LEE",
+      "sentences": "OK. Is there a way for parents to make a request on what their kid can see or not see on your sites?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:35:00",
+      "speaker": "ZUCKERBERG",
+      "sentences": "There are a lot of parental controls. I'm not sure if they're - - I don't think that we currently have a control around topics. But, we do allow parents to control the time that the children are on the site. Andalso, a lot of it is based on kind of monitoring and understanding what the teens' experience is what they are interacting.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:35:00",
+      "speaker": "LEE",
+      "sentences": "Mr. Citron, Discord allows pornography on its site. Now, reportedly, 17 percent of minors who use Discord has -- have had online sexualinteractions on your platform, 17 percent, and 10 percent have those interactions with someone that the minor believed to be an adult. Do restrict minors from accessing Discord servers that host pornographic material on them?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:35:00",
+      "speaker": "CITRON",
+      "sentences": "Senator, yes, we do restrict minors from accessing content that is marked for adults. Discord also does not recommend content to people.Discord as a chat app. We do not have a feed or an algorithm that boosts content. So, we allow adults to share content with other adults in adult- labeled spaces, and we do not allow teens to access that content.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:45:00",
+      "speaker": "ALAYNA TREENE, CNN REPORTER",
+      "sentences": "Right. So, a couple of things. One and different from the issue of child safety, but just in the broader contextof Section 230 and how to handle tech companies and the content on their sites and platforms, is a big focus for Donald Trump and a lot of conservatives is censorship. They very much think that these tech platforms have been unjustly targeting conservatives and limiting free speech. And so, in a different sense, he actually said many times that he wants to change laws, revise Section 231, to make it harder for content to be removed from these sites that maybe are labeled misinformation that Donald Trump has argued in the past, is not misinformation or disinformation. But also, I think something that actually Democrats may agree with on this is making it easier for sometimes the tech companies to be held liable. Those are some things that Donald Trump has talked about. And I mentioned this. But, he also, I remember, last year, when he was laying out a platform for potential changes, if he were to be President, he laid out what was called a digital Bill of Rights. So, I just wanted to pull it up, so I got this right, which would basically force government officials to get a court order before taking down online content and inform users if their content is being restricted or removed. So, that's just one of the ways that Donald Trump has said, or something that he has vowed to do if --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:45:00",
+      "speaker": "HUNT",
+      "sentences": "And that's basically shadow banning, right, is the word that you might hear when they say -- and that has to do with -- I mean, Alex, thereis a difference, it seems, in these companies between those who make decisions about what contents users are going to see and what they're not. And we saw a little bit in that exchange where they were pressing the CEO of Discord, for example, said like, we don't have an algorithm, like, we don't decide. We're going to show you more of this unless of that. We just allow people to share the algorithm itself and dealing with it in those contexts is also extremely complicated and hard to legislate.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:45:00",
+      "speaker": "CONANT",
+      "sentences": "It is, and it's hard to explain to people why some content is promoted in other contexts. In some cases, I'm not sure these companiesfully understand themselves because these algorithms are so complicated. But, a big part of what the algorithms are doing is taking down sexually abusive content, explicit content, content that people that people don't want their kids seeing, the companies don't want to be hosting them on the platforms because they've got advertisers that they're worried about. Section 230 is what allows them to do that, to moderate their own content without being held liable for it. So, yes, Donald Trump talks about wanting to reform Section 230, but that's because he wants to go sue Facebook when they take him off its platform.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:45:00",
+      "speaker": "HUNT",
+      "sentences": "Right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:45:00",
+      "speaker": "CONANT",
+      "sentences": "So, these are very complicated issues that I don't think, with all due respect, some of the senators fully understand.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:45:00",
+      "speaker": "HUNT",
+      "sentences": "So, Paul, I absolutely take Alex's point on that. I mean, having covered Congress extensively, I mean, it is very clear that they are notable to keep up with the pace at which technology is changing, and that is a big part of what makes it impossible to legislate. We're now -- I mean, we haven't even dealt with this, and we're looking at AI on the horizon, like many more consequences that, again, this -- they, as a body, have just been too slow to deal with. Now, that said, you think about this -- about politics and how people operate in this kind of a space. What kind of pressure is there on the tech companies to actually do something about this from like a political outside pressure perspective? Is there any? Io they need to respond to it?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:50:00",
+      "speaker": "CONANT",
+      "sentences": "Which fundamentally changed the nature of the internet.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:50:00",
+      "speaker": "BEGALA",
+      "sentences": "Thank God.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:50:00",
+      "speaker": "CONTANT",
+      "sentences": "So -- well, I mean, it's created the -- I would just say --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:50:00",
+      "speaker": "BEGALA",
+      "sentences": "It's created wealth for a few of these knuckleheads. It's like suicide. It has created -- our teenagers.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:50:00",
+      "speaker": "CONANT",
+      "sentences": "I think it's created a lot of wealth for just about every business in the country who uses the internet in one capacity or the other to besuccessful.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:50:00",
+      "speaker": "HUNT",
+      "sentences": "But, I will say, Alex, just to -- I mean, I think when this law was created, to Paul's earlier point, I mean, it was a Wild West. These weresmall startups that needed some space and time to figure out what was going to be the most effective. I mean, you could argue now that these companies are more powerful than most governments on the face of the planet. Right? So, why shouldn't they take more responsibility?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:50:00",
+      "speaker": "CONANT",
+      "sentences": "Well, I mean, they don't have their own militaries. Are they? But, look, to your point, I think --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:50:00",
+      "speaker": "HUNT",
+      "sentences": "But, they can --(CROSSTALK)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:50:00",
+      "speaker": "HUNT",
+      "sentences": "-- military operations.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:50:00",
+      "speaker": "CONANT",
+      "sentences": "I think every company up there has been arguing for some sorts of reforms. They all want some changes to the law. My point is, these are verycomplicated policies that are bad. In many cases, the tech advances faster than the policies can, possibly --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:50:00",
+      "speaker": "HUNT",
+      "sentences": "Right. That's fair. Yeah.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:50:00",
+      "speaker": "CONANT",
+      "sentences": "And so, when we rush to do -- undo things like Section 230, there will be real unintended consequences, and I just think it's important thatpolicymakers think that through.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:50:00",
+      "speaker": "HUNT",
+      "sentences": "That's also -- I just want to cut to the heart of this matter too. We kind of had it up in a Chiron (ph) earlier. But, the main message, andAlex, I know, again, just for our viewers, Alex works a lot with these tech companies who honestly are writing their own legislation and trying to decide what the best policies are. So, to that end, I do think it's helpful to have you kind of explain this to us. But, basically, what Zuckerberg and company, the social media CEOs are saying is that they don't want to do it. They want Google and Apple to deal with it, with this as a problem. Is that right?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:50:00",
+      "speaker": "CONANT",
+      "sentences": "Look, I think that there is a lot of Big Tech versus Big Tech, little tech versus big tech, Big Tech versus little tech. It's a very -- wetalk about Big Tech as though it's all one big viewpoint and there is a lot that's driven.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:50:00",
+      "speaker": "HUNT",
+      "sentences": "So -- but, like Zuckerberg basically said, we want Apple and Google in their Android interface to deal with this child porn.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:50:00",
+      "speaker": "BEGALA",
+      "sentences": "They want to put the onus on -- right. Facebook clearly wants to put the onus on the app stores so that they don't have to regulatethemselves as much. Vice versa, I think the app stores would probably say, look, once the apps are downloaded, it's on these companies to make sure that kids aren't accessing the bad stuff. I think that is something that clearly is a choice before the Congress, and a lot of states are dealing with this as well. And they're even, I think, less equipped to deal with some of these complicated issues than Congress is. But, clearly, look, there is a -- there is bipartisan consensus to do something. This was (inaudible) consensus about what exactly we should do, because every policy that you go after is going to have some unintended consequence, that's either going to make it harder to get bad stuff off the internet, or it's going to make it easier to put bad stuff up on the internet.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:50:00",
+      "speaker": "HUNT",
+      "sentences": "Molly, big picture here. What are parents kind of supposed to do in these situations? Like what -- it's -- to a certain extent, the Congress isclearly trying to create an environment that will make it easier for parents to protect their kids. But, it's -- I guess I when I think about this, like, that's what I grapple with. When do I give my kids, thank God, they are too little for this right now, but when do I give them a phone? When do I allow them access to this? Can you prohibit it from them at all? I mean, some school districts are starting to ban phones in classrooms. Like, what are people supposed to do?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:50:00",
+      "speaker": "BALL",
+      "sentences": "I think parents have to parent. Right? I mean, in some sense, it's no different than it's ever been. You got to -- you have to supervise yourkids within reason and trust them where you can, and there are various safeguards in place that the companies make available, whether it's limiting the age for certain apps, or content restrictions on the web, or on different websites, and you control what technology your kids have in their hands. But, I think the big picture, for me as a parent, and this is not a political comment, is just that all you can ever do is equip your kid to go out in a world that you don't control. And so, on some level, you have to believe that you've given your kids the values that they need and the tools that they need to deal with whatever they're going to encounter, because you can't control everything that goes into and out of their brains and everything that they're going to encounter. You have to know that they're grounded enough that when they do come across something they can deal with it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:50:00",
+      "speaker": "HUNT",
+      "sentences": "Is there any argument to be made that these companies should be treated like Big Tobacco was in the 90s where basically we said no kidsthat under 18 can buy at a store?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:55:00",
+      "speaker": "HUNT",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:55:00",
+      "speaker": "BALL",
+      "sentences": "-- I'm in touch with people on Facebook that I don't think I would ever bother to send a letter to, and I value that as well. So --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:55:00",
+      "speaker": "HUNT",
+      "sentences": "Fair enough.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:55:00",
+      "speaker": "BALL",
+      "sentences": "-- and we as journalists are able to distribute our work to a worldwide audience that when I had my first newspaper gig and we didn'thave a website, it was not available to me. So, the dissemination of information, people's ability to form relationships with each other, all of that is also good and important, and in the interest of society.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:55:00",
+      "speaker": "HUNT",
+      "sentences": "Alayna, I'll give you the last word here, because this is obviously affected way beyond, I mean, we're talking about kids and sex and all theramifications there. But, our politics have been dramatically changed. I honestly would argue probably for the worse, although I guess we'll see.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "11:55:00",
+      "speaker": "TREENE",
+      "sentences": "Yeah. I feel like social media. I mean, when I think about it with journalism, it's funny. It's what I tell a lot of young journalists when Igo and maybe talk to students or whatnot that the one thing I always warn them about is be careful on social media. Be careful using Twitter, because that's something that I think can be so dangerous to careers, can be so dangerous to people, young people, I think exactly what they're talking about. But, I also agree with Molly that there is a lot of benefits to it that you can get something read far much wider than you wouldn't if you didn't.",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

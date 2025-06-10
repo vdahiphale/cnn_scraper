@@ -1,0 +1,667 @@
+{
+  "date": "2023-08-31",
+  "headline": "CNN This Morning",
+  "subHeadline": "New York AG's Office: Trump Inflated His Net Worth By $2.2 Billion In One Year; Meet The Man Behind The Hit Song \"Rich Men North Of Richmond\"; Axios: GOP Donors Fret Over Tim Scott's Single Status. Aired 7:30-8a ET",
+  "utterances": [
+    {
+      "timeStamp": "07:31:35",
+      "speaker": "PHIL MATTINGLY, CNN ANCHOR",
+      "sentences": "New York Attorney General Letitia James is piling on to former President Trump's already enormous legal woes making public new estimates of just how much she and her office are accusing Trump of inflating his net worth ahead of his October civil fraud trial.Now, in the court filing made public yesterday, she alleges Trump and allies, quote, \"Employed a variety of deceptive schemes to grossly inflate values for many of Trump's assets from anywhere between roughly $800 million to more than $2 billion.\" Now, it's worth noting Trump's team responded in filings Wednesday that the whole case should be thrown out. James, meanwhile, is asking a judge to rule on it without a trial because of the overwhelming evidence her office says it has presented. Now, this is also interesting. Back in April, Trump actually sat down with James' office for a seven-hour deposition, which was also unsealed yesterday. Now, it shows him putting up a hodgepodge of defenses. First, he never thought his financial statements would be taken seriously. He said he prepared the statements, quote, \"just for himself to see a list of properties.\" Next, it wasn't actually him. It was his son, Eric. Trump says his son has taken over control of the business in recent years but also added that he does still have a say on major final decisions -- whatever. Trump says he has been hands-off since launching his campaign in 2015 and his kids took over when he assumed office in 2017. But, James' suit dates back to 2011. And in 2014, the year before he announced his White House bid, James alleges he inflated his net worth by up to $2.23 billion. But Trump argued that James' office underestimated his worth because they overlooked how valuable his brand is. If that were reflected, he said you could double or even triple his financial statements. James' allegations continue through 2021, including Trump's four years in the White House. During those years, however, Trump says he was too busy to commit fraud -- preoccupied with what he calls \"the most important job in the world, quote, \"savings millions of lives.\" And also saying he prevented a nuclear holocaust with North Korea. Now, asked whether the Trump Organization has any protocols to make sure it complies with the law, Trump said that's why they have lawyers and that he has a reputation for being, quote, \"the most honest person in the world\" -- Sara.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:31:35",
+      "speaker": "SARA SIDNER, CNN ANCHOR",
+      "sentences": "Alrighty, then.Joining us now, Semafor politics reporter, Shelby Talcott. Washington Post political video reporter, Joyce Koh. Thank you for returning. We weren't too terrible to you. And my homey and also a senior legal analyst, Elie Honig. Elie -- ELIE HONIG, CNN SENIOR LEGAL ANALYST, FORMER ASSISTANT U.S. ATTORNEY, SOUTHERN DISTRICT OF NEW YORK,  I want that as my chyron.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:31:35",
+      "speaker": "SIDNER",
+      "sentences": "Your -- my homey?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:31:35",
+      "speaker": "HONIG",
+      "sentences": "Please.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:31:35",
+      "speaker": "SIDNER",
+      "sentences": "I think it would be a good one for you.Let's start with what is happening today with Meadows. Give us some sense of -- I feel like all of these cases -- you've got several people now saying we want our trial fast in Georgia.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:31:35",
+      "speaker": "HONIG",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:31:35",
+      "speaker": "SIDNER",
+      "sentences": "How in the world are -- is this going to happen? How are they going to do it?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:02",
+      "speaker": "SIDNER",
+      "sentences": "Right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:02",
+      "speaker": "HONIG",
+      "sentences": "-- with some of it -- you're outside the lines. I'm sure Meadows is going to say if some of it was in my job I'm entitled to the protection.So this judge knows he's going to be appealed either way and he's I think just trying to gather the best argument and do his best to make the right call here.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:02",
+      "speaker": "MATTINGLY",
+      "sentences": "Can we swing back, Elie, before we broaden out a little bit --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:02",
+      "speaker": "HONIG",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:02",
+      "speaker": "MATTINGLY",
+      "sentences": "-- to I work very hard and so did Andrew, anchor-producer,",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:02",
+      "speaker": "SIDNER",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:02",
+      "speaker": "MATTINGLY",
+      "sentences": "-- on what we just did. And you just immediately -- one, I teed up an amazing line for you. Andrew teed that up with great writing and he just kind of walked away from it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:02",
+      "speaker": "SIDNER",
+      "sentences": "Do tell.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:02",
+      "speaker": "MATTINGLY",
+      "sentences": "I want to talk about Mark Meadows. I'm like yo -- like, what's the --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:02",
+      "speaker": "SIDNER",
+      "sentences": "No grievances at all.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:02",
+      "speaker": "MATTINGLY",
+      "sentences": "Like, you called Elie your homey.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:02",
+      "speaker": "SIDNER",
+      "sentences": "I'm interested.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:02",
+      "speaker": "MATTINGLY",
+      "sentences": "And what am I? You've never called me your homey.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:02",
+      "speaker": "SIDNER",
+      "sentences": "That's true.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:02",
+      "speaker": "MATTINGLY",
+      "sentences": "Should I focus --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:02",
+      "speaker": "SIDNER",
+      "sentences": "You've got to earn it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:02",
+      "speaker": "MATTINGLY",
+      "sentences": "-- instead of just airing grievances?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:02",
+      "speaker": "SIDNER",
+      "sentences": "Perhaps.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:02",
+      "speaker": "MATTINGLY",
+      "sentences": "On the actual substance of what we saw --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:02",
+      "speaker": "SIDNER",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:02",
+      "speaker": "MATTINGLY",
+      "sentences": "-- you forget that this even exists. Literally, when the news was coming out yesterday, I was sitting there and I went oh -- oh, right. Yes, that was a thing.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:02",
+      "speaker": "HONIG",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:02",
+      "speaker": "MATTINGLY",
+      "sentences": "And there was a deposition back in April. I read the deposition.On the substance --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:02",
+      "speaker": "HONIG",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:02",
+      "speaker": "MATTINGLY",
+      "sentences": "-- what is there? Should people be looking at that as another significant potential issue even though it's civil?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:02",
+      "speaker": "HONIG",
+      "sentences": "Yes, this is a big case. It's a big civil case involving hundreds of millions of dollars. But it's also the fifth-most important case --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:02",
+      "speaker": "SIDNER",
+      "sentences": "Right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:02",
+      "speaker": "HONIG",
+      "sentences": "-- Trump is facing right now after the four criminal cases. That deposition is really interesting. I mean, Trump argues because of the Trump name I could have even claimed it was double or triple the value.There's no question he inflated the assets. But the problem with the case is no one really got defrauded because the banks on the other end -- the banks who were making those loans, they decided after doing their own diligence, we're going to make these loans. And they got repaid with interest so they made profits. That's why I think, by the way, it wasn't charged criminally. So technically, is it fraud, yes, but you don't really have a victim, which makes it less appealing as a criminal case.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:02",
+      "speaker": "SIDNER",
+      "sentences": "I just wanted to point out --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:02",
+      "speaker": "MATTINGLY",
+      "sentences": "Oh, boy --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:02",
+      "speaker": "SIDNER",
+      "sentences": "-- just since you are --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:02",
+      "speaker": "MATTINGLY",
+      "sentences": "-- here we go.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:02",
+      "speaker": "SIDNER",
+      "sentences": "-- on a rant --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:02",
+      "speaker": "MATTINGLY",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:02",
+      "speaker": "SIDNER",
+      "sentences": "-- that Elie said this is the fifth-most important case. So --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:02",
+      "speaker": "MATTINGLY",
+      "sentences": "Yeah, but you were teed up with a great line.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:02",
+      "speaker": "SIDNER",
+      "sentences": "I'm just saying --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:02",
+      "speaker": "MATTINGLY",
+      "sentences": "What's the --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:02",
+      "speaker": "SIDNER",
+      "sentences": "-- the fifth. I decided to go with one of the --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:02",
+      "speaker": "MATTINGLY",
+      "sentences": "Pick up the vibe here.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:02",
+      "speaker": "SIDNER",
+      "sentences": "-- higher ones. You know what I mean? I'm going to let you ask a question since this is your show. You do you. MATTINGLYWhen you talk to folks inside the campaign right now when they're looking at kind of the political atmosphere and dynamics going forward, what stands out to them? What do they view as the biggest issues they might have?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:02",
+      "speaker": "SHELBY TALCOTT, POLITICS REPORTER, SEMAFOR",
+      "sentences": "Well, I think -- I think their main thing is that there are all of these cases. And so, the biggest issue for the presidential campaign from a campaigning perspective is how do we get through all of these cases and also run our 2024 presidential run? It's almost impossible.And this case alone, he sat for seven hours one day. That takes you off the trail for an entire day. Now, the thing that works in Trump's favor that aides have noted to me throughout this whole process is he was already the president and so he does have a much more limited campaign schedule compared to the other candidates. But --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:02",
+      "speaker": "MATTINGLY",
+      "sentences": "Or maybe he's not a huge problem.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:02",
+      "speaker": "TALCOTT",
+      "sentences": "Yes, exactly.But on the flip side, that's where the other candidates see their opportunity. I mean, all of these other candidates are literally living in Iowa at this point --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:02",
+      "speaker": "MATTINGLY",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:02",
+      "speaker": "TALCOTT",
+      "sentences": "-- essentially. And that's where they see their opportunity. And so if things start to get close as we head into the Iowa caucuses and Trump decides well, I actually do want to be on the ground more, that's going to be a major problem if he's also dealing with two or three active trials.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:02",
+      "speaker": "SIDNER",
+      "sentences": "Yeah, that actually -- I want to just sort of quickly get to you, Elie. When you look at what the judge has said in the D.C. -- one of the top five most important cases -- she has been very clear that she doesn't care about the political campaign. She says what is important is that case.Is that each and every judge -- is that what we're going to sort of see here?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:02",
+      "speaker": "HONIG",
+      "sentences": "No. I think every judge is going to have to pick his or her spots here. But it's clear to me Judge Chutkan, in D.C., intends to try this case before the election, absolutely. She set the date for March. It may slide a little bit but count on seeing that before the election.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:02",
+      "speaker": "MATTINGLY",
+      "sentences": "You know, Joyce, one of the things -- this got lost yesterday. We were all very focused on covering the hurricane for the absolute right reasons. But a couple of days ago, the former president did an interview with Glenn Beck and he said something that I think may have gotten lost. Let's take a listen to it.(BEGIN VIDEO CLIP) GLENN BECK, HOST, \"THE GLENN BECK PROGRAM,\" BLAZETV:  You said in 2016, you know, \"Lock her up.\" And then when you became president, you said, \"We don't do that in America. That's just not the right thing to do.\" That's what they're -- DONALD TRUMP, (R) PRESIDENTIAL CANDIDATE:  Yeah -- no.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:02",
+      "speaker": "BECK",
+      "sentences": "-- doing. Do you regret not locking her up? And if you're president again, will you lock people up?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:02",
+      "speaker": "TRUMP",
+      "sentences": "Well, I'll give you an example. The answer is you have no choice because they're doing it to us. I always had such great respect for the office of the president and the presidency. I never hit Biden as hard as I could have.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:13",
+      "speaker": "JOYCE KOH, POLITICAL VIDEO REPORTER, THE WASHINGTON POST",
+      "sentences": "It's interesting because this chant \"Lock her up\" has -- you know, it was popularized under Trump --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:13",
+      "speaker": "MATTINGLY",
+      "sentences": "Right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:13",
+      "speaker": "KOH",
+      "sentences": "-- and his supporters. And when you're out there -- when I'm out there covering arraignments and all of these indictments, you're hearing that spun on its back and people --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:13",
+      "speaker": "MATTINGLY",
+      "sentences": "From people who oppose Trump.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:13",
+      "speaker": "SIDNER",
+      "sentences": "Right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:13",
+      "speaker": "KOH",
+      "sentences": "From people who oppose Trump saying \"Lock him up.\" So it's just a bit ironic.But, you know, one thing that the Biden administration has said as he's been in office has been to separate -- you know, there's this real effort to separate himself from what's happening at the Justice Department. And so, in that bit -- I haven't listened to that full interview but in that bit of sound that we heard from Trump suggesting that he wouldn't separate himself from the Justice Department and that it would be politicized is -- you now, it's concerning. Things that Trump says, it's not like he's just talking to talk. I mean, he is -- he really gives you a blunt look inside of what -- you know, inside his head and what he is really thinking. So, I mean, not great.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:13",
+      "speaker": "SIDNER",
+      "sentences": "That is a good way to put it.Shelby, I just want to just quickly, lastly ask you whether you think this is going to be revenge politics at its most extreme. If Donald Trump were to get into the presidency or as he is working towards that, do you think this is going to turn into just a revenge tour once -- as he -- as he goes along the trail?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:13",
+      "speaker": "TALCOTT",
+      "sentences": "Well, I think he's -- as you just said, he's publicly alluded. It's not -- it's not like he's known for --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:13",
+      "speaker": "MATTINGLY",
+      "sentences": "Subtlety.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:13",
+      "speaker": "TALCOTT",
+      "sentences": "Yeah, keeping secrets. He says what he intends to do.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:13",
+      "speaker": "SIDNER",
+      "sentences": "Yeah.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:13",
+      "speaker": "TALCOTT",
+      "sentences": "And so, I think by that measure he does want some sort of revenge. And also, he's using all of these cases, as we've talked about a lot, to sort of bring people to his side and to get people to say that yeah, listen, the DOJ is politicized and this is a political effort against me. And so that's, again, part of how he intends to try to win the presidency.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:13",
+      "speaker": "MATTINGLY",
+      "sentences": "Yes.Was that a \"Madman\" reference -- the \"not great\" -- a little bit of that? I like that. That was -- I like that. That was good.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:13",
+      "speaker": "KOH",
+      "sentences": "It's common (PH) to the regular public discourse.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:13",
+      "speaker": "MATTINGLY",
+      "sentences": "Yes -- no, but I appreciate its origins and your use of it.Thanks, guys. We appreciate it as always.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:13",
+      "speaker": "SIDNER",
+      "sentences": "Thank you all. Appreciate it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:13",
+      "speaker": "KOH",
+      "sentences": "Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:13",
+      "speaker": "MATTINGLY",
+      "sentences": "Well, before the summer you probably didn't know who he was. Now he has the number-one song in the country. And because it's this country, politicians have tried to weaponize it or put him on their side or the other side -- who knows? Ahead, we meet Oliver Anthony.(BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:46:17",
+      "speaker": "SIDNER",
+      "sentences": "A surprise hit song has been resonating with millions of Americans, but it's also been embraced by politicians, it turns out, on both sides of the aisle. Singer Oliver Anthony's anthem \"Rich Men North of Richmond\" even took center stage at last week's Republican presidential primary debate. Anthony says the song was written about people on that stage and he hates to see it weaponized.CNN's Vanessa Yurkevich looks at how the song shot to number one. (BEGIN VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:46:17",
+      "speaker": "ANTHONY",
+      "sentences": "Singing \"Rich Men North of Richmond.\"VANESSA YURKEVICH, CNN BUSINESS CORRESPONDENT (voice-over):  In the woods of rural Virginia, Oliver Anthony sings about what he knows. And millions of Americans now know him, too.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:46:17",
+      "speaker": "ANTHONY",
+      "sentences": "A lot's changed since the last time I sat here and spoke to you.YURKEVICH (voice-over):  He has the number-one song in the country. He was also featured at the Republican debate. Candidates were asked why they think it's resonating.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:46:17",
+      "speaker": "ANTHONY",
+      "sentences": "It's funny seeing it as the presidential debate because it's like I wrote that song about those people.YURKEVICH (voice-over):  Politicians are trying to claim his as Democrat or Republican.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:46:17",
+      "speaker": "ANTHONY",
+      "sentences": "I'm going to write, produce, and distribute authentic music that represents people and not politics.YURKEVICH (voice-over):  The people from all walks of life are relating to what he has to say.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:46:17",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "I like that. A lot of people are going to relate to that.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:46:17",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "The lyrics are awesome.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:46:17",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "What's this guy's name?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:46:17",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Yeah, I got goosebumps, too.YURKEVICH (voice-over):  His real name is Christopher Anthony Lunsford. His friends call him Chris. He lives here in the woods of Farmville, Virginia with his family, just over an hour west of Richmond. He's struggled with money, alcohol, depression, and sings about it all. He's everywhere but nowhere at the same time.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:46:17",
+      "speaker": "NASH OSBORN, OWNER, NORTH STREET PRESS CLUB",
+      "sentences": "I think that his lifestyle and what he wanted to do and, like, live off the grid and live in the country -- I mean, that's what he wants to do.YURKEVICH (voice-over):  On a random Wednesday evening he sang in town at North Street Press Club.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:46:17",
+      "speaker": "OSBORN",
+      "sentences": "He wanted it to be so everybody here locally could come out and see him.YURKEVICH (voice-over):  Oliver Anthony says he's turned down $8 million deals since he shot to number one.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:46:17",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "He seems like a pretty down-to-earth individual and this town is one town that's going to protect that if they can.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:46:17",
+      "speaker": "YURKEVICH",
+      "sentences": "What do you think about what he's saying and why people are resonating from all over?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:46:17",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "I think there's still a huge swath of people in the middle who just feel a little disenfranchised with the wealth disparity. Having somebody come out and sort of advocate or voice that frustration, it's not surprising to me that it resonates.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:46:17",
+      "speaker": "YURKEVICH",
+      "sentences": "And how do you know Christopher?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:46:17",
+      "speaker": "ANTHONY DEMARCO, OWNER, MOUNTAIN CREEK SIGNS",
+      "sentences": "He's my neighbor.YURKEVICH (voice-over):  Anthony DeMarco has lived next door to Oliver Anthony for five years.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:46:17",
+      "speaker": "DEMARCO",
+      "sentences": "We still live on a dirt road.YURKEVICH (voice-over):  He's now his merchandise guy.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:46:17",
+      "speaker": "DEMARCO",
+      "sentences": "He's just a guy that smiles a lot. Just a fun guy to be around. He says what everybody is feeling, for the most part. We don't have a voice to say it to the rich men north of Richmond, and now we do.(END VIDEOTAPE) YURKEVICH (on camera):  And just two weeks ago, Oliver Anthony was writing music, singing, recording it on his cell phone in his backyard. Now he is number one on the Billboard charts. This is a guy, though, that doesn't want to do interviews. He wants to talk about who he is and what his music means on his own social media. He did do one podcast -- just yesterday it came out -- with Joe Rogan and talked about how he says the controversy around him about the two political sides trying to make him their own.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:46:17",
+      "speaker": "SIDNER",
+      "sentences": "Yes.[07:50:00] YURKEVICH:  He says he thinks it's funny because that wasn't the point of the music. He says he's going to do just one more podcast. We don't know which one that is yet. But really, a guy who just wants to write music for the people and he's going to do it still in the woods of Virginia.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:46:17",
+      "speaker": "MATTINGLY",
+      "sentences": "That was a really interesting piece.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:46:17",
+      "speaker": "SIDNER",
+      "sentences": "I'm so glad you did it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:46:17",
+      "speaker": "MATTINGLY",
+      "sentences": "Yes.Vanessa Yurkevich, thanks so much. Well, a new report out this morning that top Republican donors are asking Sen. Tim Scott's campaign for more information about why the presidential candidate isn't married. An odd question. What's behind those concerns, next. (COMMERCIAL)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:46:17",
+      "speaker": "SIDNER",
+      "sentences": "With Florida Gov. Ron DeSantis' struggling presidential campaign and Donald Trump's ongoing legal troubles, Axios is reporting that some top GOP donors are strongly eyeing Sen. Tim Scott's candidacy. But they do have some concerns over at least one aspect of his life.With more on this, we're joined by Axios national political reporter, Alex Thompson. Thank you so much for being here. The issue that you have written about is whether or not Tim Scott is married and why he isn't married. Tell us more about it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:08",
+      "speaker": "MATTINGLY",
+      "sentences": "Alex, that was a line that kind of stood out to me because my initial reaction was man, donors come up with like the most random things to be nervous, frustrated, anxious --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:08",
+      "speaker": "SIDNER",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:08",
+      "speaker": "MATTINGLY",
+      "sentences": "-- about when it comes to their political choices.But the idea that not only does the Scott campaign hear it but that he's going to be addressing it publicly, what's your sense of what that may actually mean, and why? Clearly, they think it's resonating to some degree.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:08",
+      "speaker": "THOMPSON",
+      "sentences": "Yes. I mean, I think Tim Scott's campaign -- you have to remember, Tim Scott, first of all, has really prioritized the first state of Iowa, which has a strong evangelical Christian presence. And you've seen a lot of the other candidates, particularly Ron DeSantis, really trot out his family on the trail, bringing his young kids, his wife. And I think they recognize that people often elect people that have big families. Now, obviously, Iowa elected and re-elected Donald Trump who is thrice married.But I think Tim Scott's campaign recognizes that people just want answers. You want to know hey, why are you 57 and you haven't been married? Not that it's a bad thing; we just want to know a little bit more about your story. Tim Scott has also tried to spin this originally as sort of a positive thing. Hey, I have more time. I can put more of my energy into the job. But clearly, the Tim Scott campaign -- the Scott campaign recognizes that people just want to know a little bit more about this.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:08",
+      "speaker": "SIDNER",
+      "sentences": "Yes, but there is a lot more Americans who are single now than ever before.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:08",
+      "speaker": "MATTINGLY",
+      "sentences": "A point Scott's made.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:08",
+      "speaker": "SIDNER",
+      "sentences": "Right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:08",
+      "speaker": "MATTINGLY",
+      "sentences": "Yeah.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:08",
+      "speaker": "SIDNER",
+      "sentences": "So it is an interesting question but maybe not top of mind for every voter out there.I do want to quickly ask you about Ron DeSantis not in the presidential campaign way but in the governor. He is in Florida. He has been having daily updates on what's going on with the storm there. How might that impact how people see him as his campaign struggles? THOMPSON:  Well, I can tell you Ron DeSantis' campaign sees what he's doing now in Florida really aligning, honestly, with the campaign, which is he has set him -- presented himself as Trump without the drama. Trump with confidence. Someone that does not get distracted by news of the day that will sort of -- even though there are bigger cultural issues at play, at the end of the day, someone that will try to make government work. And at the end of the day, I think that the DeSantis campaign has really tried to actually promote the work that he is doing and that he is not campaigning. That he is fully focused on this storm. So it's one of those things where they see in their minds good policy being good politics.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:08",
+      "speaker": "MATTINGLY",
+      "sentences": "All right, Alex Thompson of Axios. Appreciate you sharing with us -- your reporting with us, man -- thanks.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:08",
+      "speaker": "THOMPSON",
+      "sentences": "Thanks.",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

@@ -1,0 +1,577 @@
+{
+  "date": "2023-06-05",
+  "headline": "CNN This Morning",
+  "subHeadline": "NYT: Trump Lawyer's Notes Key In Classified Document Case; Prince Harry Set To Present Evidence In U.K. Phone Hacking Trial; Women In Colorado Hold Sit-In To Demand Gun Ban. Aired 7:30-8a ET",
+  "utterances": [
+    {
+      "timeStamp": "07:32:38",
+      "speaker": "POPPY HARLOW, CNN ANCHOR",
+      "sentences": "So, a voice memo -- there is a recording and it is by one of Trump's attorneys, Evan Corcoran, and it's now in the hands of DOJ prosecutors. And that could be key in the classified documents case that is dogging the former president.The New York Times reporting, citing sources familiar with the matter, says, quote, \"In complete sentences and a narrative tone that sounded as if it had been ripped from a novel, Mr. Corcoran recounted in detail a nearly monthlong period of the documents investigation.\" And it also goes on to report that the recordings include recollections of a May 2022 meeting that Corcoran had with Trump. This was about that DOJ subpoena for the return of all classified documents. He also, in this recording, talked about his June search of Mar-a-Lago for classified documents before the FBI came there. CNN previously reported the special counsel Jack Smith has obtained dozens of pages of Corcoran's notes memorizing -- memorializing conversations with his client after the former president received the subpoena last May. It was at that time that Trump asked whether he could push back on the subpoena. That's according to sources familiar with the notes taken by Corcoran and later handed over to investigators. Joining us now to talk about the implication of this recording, in particular, is assistant professor of law at Brooklyn Law School, Alexis Hoag-Fordjour. Great to have you. ALEXIS HOAG-FORDJOUR, ASSISTANT PROFESSOR OF LAW, BROOKLYN LAW SCHOOL: Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:32:38",
+      "speaker": "HARLOW",
+      "sentences": "It was a real fight with Judge Beryl Howell who ultimately ruled Corcoran's notes have to go to the -- go to the -- go to Jack Smith, but this recording -- why do you think it could be so key if, indeed, he does recommend charges?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:32:38",
+      "speaker": "FORDJOUR",
+      "sentences": "So the judge allowed the notes -- the recording -- the conversation that essentially Corcoran was having with himself about working for Trump. Generally, this would be attorney-client privilege. And Chief Judge Howell, at the time -- she has since rotated from the chief judge position --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:00",
+      "speaker": "HARLOW",
+      "sentences": "I just want to note he wasn't stopped from looking elsewhere at Mar-A-Lago but he was directed these are all here in this --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:00",
+      "speaker": "FORDJOUR",
+      "sentences": "Exactly.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:00",
+      "speaker": "HARLOW",
+      "sentences": "-- location.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:00",
+      "speaker": "FORDJOUR",
+      "sentences": "Exactly. And so when he intimated that these are all the classified documents, he was working with incomplete information. And so somebody in Trump's team who then instructed Corcoran to just look in the storage facility knew that there were other documents elsewhere.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:00",
+      "speaker": "RAHEL SOLOMON, CNN ANCHOR",
+      "sentences": "Well, in terms of that somebody, who else might prosecutors want to talk to? Maybe a groundskeeper? I mean, who else would they want to talk to in terms of understanding how that all went down?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:00",
+      "speaker": "FORDJOUR",
+      "sentences": "Exactly. So we have learned as the investigation continues to unfold the Department of Justice subpoenaed recordings of who was moving in and out of the storage room. And so they have video footage of -- I believe it's a former valet of President Trump who was moving boxes into the storage facility and out of the storage facility.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:00",
+      "speaker": "HARLOW",
+      "sentences": "Walt Nauta.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:00",
+      "speaker": "FORDJOUR",
+      "sentences": "Exactly. And so I imagine that he will likely be subpoenaed and have to testify before the grand jury.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:00",
+      "speaker": "HARLOW",
+      "sentences": "If he has already we would have known --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:00",
+      "speaker": "FORDJOUR",
+      "sentences": "Exactly.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:00",
+      "speaker": "HARLOW",
+      "sentences": "-- right?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:00",
+      "speaker": "FORDJOUR",
+      "sentences": "Exactly. And then a groundskeeper, as well, who as at Mar- a-Lago.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:00",
+      "speaker": "HARLOW",
+      "sentences": "One of -- so you brought up the crime-fraud exception --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:00",
+      "speaker": "FORDJOUR",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:00",
+      "speaker": "HARLOW",
+      "sentences": "-- because Trump has believed and said many times that attorney-client privilege, attorney-client privilege. In the U.S. versus Nixon, the Supreme Court said not always. They said, \"The president cannot shield himself from producing evidence in a criminal prosecution based on the doctrine of executive privilege, although it is valid in other situations.\"So it's not just about attorney-client privilege, it's also claims of executive privilege here.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:00",
+      "speaker": "FORDJOUR",
+      "sentences": "Yes, exactly. And what we're working with here is that Trump is -- allegedly has retained classified documents, has retained sensitive information. And so when you look at the different provisions of federal law --Again, he has not been charged yet but we do have some indication based on the search warrant that was executed last year in 2022 that tells us what the Department of Justice is looking at. And it really just requires that Trump has retained documents willingly. That he has withheld documents upon request from federal agencies. I'm glad you brought up Nixon. So we're working within the parameters of this Presidential Records Act (PRA) and it was passed right after President Nixon tried to destroy records following his presidency in 1974. So this legislation was passed in 1978. We have Trump claiming oh, the Presidential Records Act allows me to have these documents. And, in fact, the Presidential Records Act says that a president cannot retain documents after the presidency. They belong to the public. They go to National Archives. So we have National Archives requesting these documents and Trump saying we don't have them. They're slowly trickling out. We learn each subsequent month that there seems to be more documents -- documents that he's referencing that haven't been turned over.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:00",
+      "speaker": "SOLOMON",
+      "sentences": "So you're suggesting the defense may not hold legal water here.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:00",
+      "speaker": "FORDJOUR",
+      "sentences": "Exactly, exactly.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:00",
+      "speaker": "HARLOW",
+      "sentences": "Thank you, Alexis. It's good to have you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:00",
+      "speaker": "SOLOMON",
+      "sentences": "Good to see you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:00",
+      "speaker": "FORDJOUR",
+      "sentences": "Likewise -- thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:42:50",
+      "speaker": "SOLOMON",
+      "sentences": "Welcome back.After months of ringing alarm bells about a potential U.S. recession -- I'm sure you have heard those alarm bells -- Well, the fears are actually beginning to chill as the U.S. jobs market remains really remarkably resilient in the face of the Fed's fight against inflation.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:42:50",
+      "speaker": "HARLOW",
+      "sentences": "Matt Egan with us now. Good morning.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:42:50",
+      "speaker": "MATT EGAN, CNN REPORTER",
+      "sentences": "Good morning, guys.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:42:50",
+      "speaker": "HARLOW",
+      "sentences": "So you have a really interesting take and interesting reporting on all of these different indicators and what they tell us.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:42:50",
+      "speaker": "EGAN",
+      "sentences": "Well, it's amazing how different things are than we thought they would be, right? A year ago we were all bracing for an economic hurricane, right? That's what Jamie Dimon was calling for. That's what a lot of CEOs were worried about -- a recession. Bloomberg even had a model saying there was a near-100 percent chance of a recession.And so here we are now -- the year is almost half over -- no recession. We've basically gotten the equivalent of a thunderstorm and not even a bad thunderstorm like the one on Friday that caused my 2- year-old to run with his friends and hide behind a couch. Not even that, right? It's been pretty mild. And the big reason why is the jobs market. It's just so much stronger --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:42:50",
+      "speaker": "HARLOW",
+      "sentences": "So strong.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:42:50",
+      "speaker": "EGAN",
+      "sentences": "-- than anyone thought was possible. It's like a runaway train, right?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:42:50",
+      "speaker": "SOLOMON",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:42:50",
+      "speaker": "EGAN",
+      "sentences": "The Fed is slamming the brakes and the jobs market just doesn't care.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:42:50",
+      "speaker": "SOLOMON",
+      "sentences": "It's interesting because that's been the silver lining, right -- the jobs market, consumer spending. What has not been necessarily so rosy is the Fed and how much they have done with interest rates. They have raised interest rates, of course, as you know, five percent in a little more than a year. The Fed meets again next week. Might we still see a pause even on the back of this strong jobs report?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:42:50",
+      "speaker": "EGAN",
+      "sentences": "Yes. Right now, investors are placing a 75 percent chance that the Fed does nothing, which means borrowing costs won't go any higher than they already have. And then, the Fed could actually continue to raise rates later this summer.But the whole reason why people were worried about a recession was because the Fed was moving more aggressively than it ever has before.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:42:50",
+      "speaker": "HARLOW",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:42:50",
+      "speaker": "EGAN",
+      "sentences": "And what's so amazing is that despite that people keep getting jobs. Companies are hiring. I mean, that Friday jobs report --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:42:50",
+      "speaker": "HARLOW",
+      "sentences": "I know. It was blockbuster.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:42:50",
+      "speaker": "SOLOMON",
+      "sentences": "Blockbuster.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:42:50",
+      "speaker": "EGAN",
+      "sentences": "-- 339,000 jobs added.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:04",
+      "speaker": "BRIAN MOYNIHAN, CEO, BANK OF AMERICA",
+      "sentences": "So the last time I was here it was -- it was the end of last year and we predicted a recession this year, and we've moved it out. It's basically third quarter this year, fourth quarter this year, into the first quarter. A mild recession and unemployment gets up in the high four percent range. Still, very low by historical norms. And that's our core prediction.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:04",
+      "speaker": "HARLOW",
+      "sentences": "My point is it's like the recession is just getting pushed to 2024 and that sort of echoes what Jamie Dimon of JPMorgan said last week, too.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:04",
+      "speaker": "EGAN",
+      "sentences": "Right, it seems like it keeps getting pushed out further and further. Bank of America, last fall, was warning that the economy would be losing hundreds of thousands of jobs right around now. We're actually seeing the opposite.And things have just been so much stronger than expected that Moody's Analytics chief economist Mark Zandi --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:04",
+      "speaker": "HARLOW",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:04",
+      "speaker": "EGAN",
+      "sentences": "-- he told me, quote, \"Increasingly, the odds of a recession this year are fading.\" And again, that doesn't mean, right, that things can't change. Something bad could happen and that could cause a recession or maybe it's just the wait until next year, right? The big debate for the longest time was hard landing --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:04",
+      "speaker": "SOLOMON",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:04",
+      "speaker": "EGAN",
+      "sentences": "-- or soft landing? And now it doesn't look like there's a hard landing and it's sort of shifted to either soft landing or no landing --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:04",
+      "speaker": "SOLOMON",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:04",
+      "speaker": "EGAN",
+      "sentences": "-- where the Fed has to do more next year.But for now, I think it's good news that we're not in the recession that people thought we would be in.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:04",
+      "speaker": "SOLOMON",
+      "sentences": "I think that's a great way to end, Matt. And certainly, you can always predict or forecast what might happen in the future but for now, jobs are plentiful and people are spending, and we can leave it there.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:04",
+      "speaker": "EGAN",
+      "sentences": "Exactly.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:04",
+      "speaker": "HARLOW",
+      "sentences": "Yes. Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:04",
+      "speaker": "SOLOMON",
+      "sentences": "Thank you, Matt.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:04",
+      "speaker": "EGAN",
+      "sentences": "Thank you, guys.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:04",
+      "speaker": "HARLOW",
+      "sentences": "Also this morning, court resuming in the U.K. phone hacking trial against the publisher of the Daily Mirror. Prince Harry is expected to give evidence in court as he and more than 100 other high- profile figures are suing the Mirror Newspaper Group with accusations of hacking their phones going back as far as 20 years.Our Nada Bashir is covering all of this live outside of the high court in London with more. Good morning. What can you tell us?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:04",
+      "speaker": "NADA BASHIR, CNN REPORTER",
+      "sentences": "Well look, Poppy, we're already learning more details from Prince Harry's legal representatives inside the court today delivering their opening statements. Now, according to Prince Harry's representation, some 147 articles have been submitted as part of his claim -- articles which have featured personal details -- private information around Prince Harry's life, including details around the relationship with his brother the Prince of Wales, arguments, conversations. Details around his relationship with former girlfriend Chelsy Davy, and the goings on around Sandhurst during his military training.Now, they claim these bits of information were obtained via legal means, namely through phone hacking through the interception of Prince Harry's voicemails, and also through the use of private investigators. Now, Prince Harry has been selected as among four people to provide evidence over the coming days. This will three days, of course. But there are, as you said, more than 100 claimants in this case including notable figures -- actors, sports celebrities, and other high-profile figures taking part in this case. Now, as we understand it, Prince Harry has already arrived in London. He isn't believed to be present today at this court hearing in the high court behind me but he is expected to give evidence at the high court tomorrow. Now, the Mirror Group Newspapers maintains that it did not do anything with regards to wrongdoing. They say their senior news editors were not aware of any wrongdoing at the time. This, of course, dates back to between 1991 and 2011. They also claim some of these lawsuits have just come in simply too late. Now, Prince Harry, of course -- for him this is a hugely personal, deeply important matter. He has long been very vocal around his hopes to reform media practices. He has spoken openly about the impact the media intrusion has had not only on his life but that of his wife and, of course, his late mother, Princess Diana -- Poppy.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:04",
+      "speaker": "HARLOW",
+      "sentences": "Extremely personal for him.Nada, thank you for the reporting. We appreciate it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:04",
+      "speaker": "SOLOMON",
+      "sentences": "And happening today in Colorado, women set to hold a sit-in at the state's capitol to demand a total ban on guns. Two of those women leading the sit-in are going to join us next.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:53:21",
+      "speaker": "HARLOW",
+      "sentences": "Guns in this country are now the leading cause of death for children and teenagers. That's right -- above everything else -- surpassing car crashes. And a group of women in Colorado are gathering this morning at the state's capitol in Denver to demand action. They don't just want to limit guns; they are calling for a ban in the state -- a complete ban of guns.The organization is called and the event is called \"Here 4 the Kids\" and they say they're going to hold a sit-in, quote, \"Until Gov. Jared Polis signs an executive order to ban guns and implement a statewide buyback program.\" I should note this group is founded by Black indigenous women of color, and quote, \"...respectfully asks white women to put their bodies on the ground\" because, quote, \"historically, white women are the least likely to be brutalized by police.\" Joining us now are two moms who are in Denver to support this anti-gun movement, actress Lake Bell and co-host and managing editor of \"Daily Blast Live\" Sam Schacher. Ladies, mothers, activists using your voice, thank you for joining us this morning. SAMANTHA SCHACHER, CO-HOST AND MANAGING EDITOR, \"DAILY BLAST LIVE\": Thank you for having us, Poppy.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:53:21",
+      "speaker": "LAKE BELL, ACTRESS, SCREENWRITER, AND DIRECTOR",
+      "sentences": "Yes, thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:53:21",
+      "speaker": "HARLOW",
+      "sentences": "Lake, make the case. Why are you doing this?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "SCHACHER",
+      "sentences": "And a national crisis.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "BELL",
+      "sentences": "We're in an emergency.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "SCHACHER",
+      "sentences": "We are in a -- in a national emergency, Poppy, and for anyone that doesn't believe that you're conditioned and you're numb to what's happening.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "BELL",
+      "sentences": "I also think it's not really -- it's not partisan. Children being murdered in their schools or having teens kind of -- you know, take a wrong turn on a driveway or knock on someone's door and getting gunned down is unacceptable.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "SCHACHER",
+      "sentences": "It's unacceptable.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "BELL",
+      "sentences": "I don't think that's -- I think that's just sort of sensible.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "SCHACHER",
+      "sentences": "And I will say, speaking of sensible and it being nonpartisan, when I canvased for this event here in Colorado, I ran into people from all walks of the aisle, from all walks of life. And every single one of them as soon as you bring up -- whether they're Republican or Democrat, as soon as you bring up guns are the number one killer of kids and teens you will start to hear stories. Yes, my nephew lost his life to suicide via firearm; or yes, my daughter was at Columbine; or yes, my child was right outside of the Aurora school shooting.So even when our children survive these traumatic events you still have to realize -- everyone talks about mental health. Of course, mental health is engrained in this. If we're worried about mental health can you imagine the trauma and the PTSD that this is causing from lockdown drills to everything surrounding gun violence, to our youth right now, to adults right now. If mental illness is an issue right now imagine what it will -- what it will be in five years, one year, 10 years.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "HARLOW",
+      "sentences": "Yes. SCHACHER",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "HARLOW",
+      "sentences": "So --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "BELL",
+      "sentences": "And mental health -- I mean, you think about your children going to school and having to do an active shooter lockdown. I mean, think about that mental toll. I know you, as a parent, do --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "HARLOW",
+      "sentences": "I think about it every day.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "BELL",
+      "sentences": "-- you know.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "HARLOW",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "BELL",
+      "sentences": "Yes, you think about it every day and so do -- so do most Americans.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "SCHACHER",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "HARLOW",
+      "sentences": "So I thought it was interesting the response -- well look, you know. I don't have to tell you this runs into all sorts of issues in the courts -- the Second Amendment, how the Supreme Court has ruled -- would make this unconstitutional at this point. That's just a point of fact.But I thought it was interesting that Gov. Polis' staff in response to this said that governor, quote, \"...will not issue an unconstitutional order that will be struck down in the court simply to make public relations statements. He will continue to focus on real solutions.\" And he has done a number of things on guns, right, in the state. He signed laws to --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "BELL",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "HARLOW",
+      "sentences": "-- raise the age to buy --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "SCHACHER",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "HARLOW",
+      "sentences": "-- a firearm to 21. He established a minimum waiting period. Expanded the state's red flag laws.So for you guys, is this about more than just bumping up against this issue in the courts? This is about a broader message, no?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "SCHACHER",
+      "sentences": "Yes. Number one, we need to shape a new social norm. First of all, it's there. A lot of people are afraid to say the quiet parts out loud that more guns equal more death. We are so engrained in gun culture in this country that it's hard to say that and acknowledge it out loud.So, number one, pushing this social norm that's already existed within our country right now. Because 64 percent of Americans -- 64 percent of Americans, according to USA Today -- they want gun reform. That's more important to them than preserving the rights of guns. So at the end of the day, is it unconstitutional? Yes, but so was slavery. We abolished slavery. So there's many things about the Constitution that can change -- amendments. It's meant to change. And then -- jump in, please, Lake.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "BELL",
+      "sentences": "No. Yes, I was just going to say that I think you don't have to be a constitutional scholar to understand that the Constitution is a living document. It's a -- it's up for amendment. It's up for evolution. That's our privilege as humans to evolve. And I recognize that the Second Amendment is what's standing in the way of this being more of a national conversation.But I also -- you know, we are -- this is a movement led by Black, brown, and indigenous --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "SCHACHER",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "BELL",
+      "sentences": "-- women, as you said earlier. And ostensibly, they have given us the playbook -- the abolitionist playbook --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "SCHACHER",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "BELL",
+      "sentences": "-- when we talk about amendments that changed the course of our history.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "SCHACHER",
+      "sentences": "The civil rights movement.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "BELL",
+      "sentences": "Yes.So I think -- in thinking of that, I think you have to be -- you have to think big. You have to think in terms of big picture and making a big swing. And as Saira Rao, one of our -- you know, one of the leadership here -- she says we haven't lost our minds, we've lost our imaginations.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "SCHACHER",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "BELL",
+      "sentences": "And I think that has been --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "HARLOW",
+      "sentences": "I was --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "BELL",
+      "sentences": "-- very much a north star.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "HARLOW",
+      "sentences": "I was really struck --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "SCHACHER",
+      "sentences": "I agree.",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

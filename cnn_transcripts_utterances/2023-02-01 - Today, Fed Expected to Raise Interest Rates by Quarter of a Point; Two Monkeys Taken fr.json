@@ -1,0 +1,163 @@
+{
+  "date": "2023-02-01",
+  "headline": "CNN Newsroom",
+  "subHeadline": "Today, Fed Expected to Raise Interest Rates by Quarter of a Point; Two Monkeys Taken from Dallas Zoo Found in Closet of Abandoned Home; College Board Unveils Framework for A.P. African-American Studies. Aired 10:30-11a ET",
+  "utterances": [
+    {
+      "timeStamp": "10:30:00",
+      "speaker": "BIANNA GOLODRYGA, CNN ANCHOR",
+      "sentences": "Today, the Federal Reserve is widely expected to hike interest rates again, but this time by just a quarter of a point. This would be the smallest hike since the central bank began its cycle of aggressive rate hikes last March.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:30:00",
+      "speaker": "JIM SCIUTTO, CNN ANCHOR",
+      "sentences": "Joining us now, Jeanna Smialek, she is the Federal Reserve and Economy Reporter for The New York Times. Jeanna, they are still happening but it's coming down. Are we coming to the end of the Fed tightening rates?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:30:00",
+      "speaker": "JEANNA SMIALEK, FEDERAL RESERVE AND ECONOMY REPORTER, THE NEW YORK TIMES",
+      "sentences": "That is the question everybody would like to know the answer to. We should get some hints about that today. So, Chair Jerome Powell gives the press conference after the release at 2",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:30:00",
+      "speaker": "GOLODRYGA",
+      "sentences": "So, given that inflation has now consistently been on the downward trajectory, it's still high historically but it is going down. The economy has remained surprisingly resilient. Why doesn't the Fed just take this opportunity to perhaps just sit it out and take a more wait and see approach as opposed to continuing to raise interest rates?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:30:00",
+      "speaker": "SMIALEK",
+      "sentences": "I think that that's very much what they are trying to do with this slowdown, but there's a real tension for the Fed, which is when they stop raising interest rates or even we've seen as they have been slowing down interest rates, markets tend to be pretty forward- looking. And so they see that as a sign that the Fed isn't being quite as aggressive and quite as punishing as it was before. And, ironically, it can actually lead to money being cheaper and easier to access in the economy, which can help the economy to reaccelerate. So, it's quite difficult for them to sort of thread that needle, where they are still weighing on the economy.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:30:00",
+      "speaker": "SCIUTTO",
+      "sentences": "Jeanna, big picture, starting to see some data about the world economy being a bit better than some had expected at the beginning of this year. There's some good jobs data that just came in as well. You speak to economists a lot about this kind of thing. Is there a lifting of the nervousness about a recession this year or is there still a lot of fear there?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:30:00",
+      "speaker": "SMIALEK",
+      "sentences": "Yes. I think you hear two basic narratives right now. Some people are feeling really good about this. They say, hey, inflation is coming down and economy is reaccelerating. We might hit the magical soft landing, and then you talk to others who say, the economy is reaccelerating, the Fed might have to do even more and we may have an even more painful recession down the road. And so I think you can read this data either glass half full or glass half empty.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:35:02",
+      "speaker": "SMIALEK",
+      "sentences": "Immensely closely, I imagine. I seriously doubt they are going to tell us anything about what they are going to do, but I think it's really important and interesting to note that Jay Powell, who is now the Fed chair, was the point person at the Fed when we had the last debt ceiling issue in 2013. And in 2011, he really sort of cut his teeth in Washington policy circles, really made a name for himself by being outside of the Fed and working on sort of convincing Republicans to raise the debt ceiling. And so we clearly have a Fed leadership team that's very attune to this issue, very conscious of how sort of dangerous it could be for the global economy if we were to reach that level and head towards an actual default on government bonds.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:40:00",
+      "speaker": "GOLODRYGA",
+      "sentences": "This is truly an incredible story. After a massive six-day search in Australia, a tiny, I mean, tiny, potentially deadly radioactive capsule that fell off the back of a mining truck has been found. This silver capsule no bigger than the size of a coin went missing while a contractor was transporting it. Crews had to search Australia's great northern highway, which is about the size of California -- the California coastline.Now, officials had warned that it could pose a health risk for, get this, the next 300 years to anyone who came across it. They have now set up a 65-foot hot zone around the capsule, which will be put into a led container. It's the things we see in movies, Jim.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:40:00",
+      "speaker": "SCIUTTO",
+      "sentences": "Glad they found it.Other story we're following, two emperor tamarin monkeys who were taken from the Dallas zoo are now back home at the zoo this morning. Police found them inside a closet in an abandoned apartment after a tip led them there. The animals went missing Monday after their enclosure was, quote, intentionally compromised. That's the language they're using.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:40:00",
+      "speaker": "GOLODRYGA",
+      "sentences": "It's just the latest in a series of suspicious incidents at the Dallas zoo. A clouded leopard also went missing a few weeks ago, but he was found unharmed. A fence was cut on another monkey enclosure. And in one case, a vulture was found dead from an unusual wound.Well, joining us now is Wildlife and Conservation Expert Jeff Corwin. Jeff, great to see you. In this case, the results ended well. Talk about the species, the emperor tamarin monkeys, and can they be domesticated at all?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:40:00",
+      "speaker": "JEFF CORWIN, WILDLIFE AND CONSERVATION EXPERT",
+      "sentences": "Well, that is a great question, and good morning to you both. This really was quite the mystery. And, of course, there was an essence of vandalism behind the whole scenario from the leopard to the vultures, to two different species of monkeys. And, of course, now, we have this happy ending where these two primates have been covered.So, the emperor tamarin is actually named after a German emperor from the turn of the century, hence that very regal-looking mustache. It's a very small primate. And it's a big target for the multibillion dollar black market trade. It is not a domesticated species. You can't them as good pets. Needless to say, they are still sold by the thousands on the black market, which is why it was probably stolen in the first place.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:40:00",
+      "speaker": "SCIUTTO",
+      "sentences": "It looks a little like the Lorax, I will say. I see a close- up of them there. Does this kind of thing happen? I mean, you say there's a black market for this kind of thing. So, do you see animals like this getting stolen from zoos often?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:40:00",
+      "speaker": "CORWIN",
+      "sentences": "Jim, that's a great question. So, the black market wildlife trade worldwide is really second only to the guns trade, to the weapons trade. It's about a $50 to $60 billion a year industry. Normally, we're thinking of things like elephant ivory and rhino horns and such of that nature. But in this case, creatures sold as pets can be a big issue.I doubt that was the case with this animal. It's very hard to get something like a monkey into that marketplace from a zoological environment. But the Dallas zoo is a world class zoo, one of the most important places of conservation. They have got over 2,000 individual animals, which just shows you the challenges that comes with ensuring security for these important and sometimes endangered species.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:40:00",
+      "speaker": "GOLODRYGA",
+      "sentences": "Yes. I'm sure the Dallas zoo is lovely, but this is the fourth time that they found possible tampering at that zoo. So, it really does beg the question as to security precautions that are put in place there.While we have you, Jeff, I do want to ask you to talk about what I know you're getting a lot of questions regarding, and that is the beached whale here off the coast of here in New York. Tell us about what you're seeing, what you think led to this whale ending up, unfortunately, dead here?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:45:07",
+      "speaker": "GOLODRYGA",
+      "sentences": "And you regularly see ships lining up there on Long Island. So, if that was the culprit, perhaps that would make sense. Jeff Corwin, thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:45:07",
+      "speaker": "CORWIN",
+      "sentences": "Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:55:00",
+      "speaker": "GOLODRYGA",
+      "sentences": "All right. And we are back with former Education Secretary under President Barack Obama Arne Duncan. Arne, you can hear me this time?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:55:00",
+      "speaker": "ARNE DUNCAN, FORMER EDUCATION SECRETARY",
+      "sentences": "Good morning, I can hear you. Thank you so much.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:55:00",
+      "speaker": "GOLODRYGA",
+      "sentences": "Okay. Let's get your reaction first to the College Board releasing its official framework for the A.P. African-American studies courses, of course, coming after Florida's Governor Ron DeSantis banned it from classrooms in the state.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:55:00",
+      "speaker": "DUNCAN",
+      "sentences": "Well, unfortunately, Governor DeSantis has been very, very clear he has what just appears to be a white nationalist agenda. And what I hate most is he just always attacks the most vulnerable, whether it's A.P., the African-American history, whether it's the LGBTQ community, whether it's immigrants, he always attacks the most vulnerable. And it says a lot more about us than about him, and I just hope voters in Florida and voters across the country don't think that is what our country needs is, more bullying, more attacking on those that need our help, that need our support.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:55:00",
+      "speaker": "GOLODRYGA",
+      "sentences": "Have you been able to look through this initial framework that was just unveiled, because we're looking at it at the screen now? Any changes, if you have, that stands out to you that maybe perhaps worries you?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:55:00",
+      "speaker": "DUNCAN",
+      "sentences": "I haven't seen the details. I think it is just so important that young people have access to America's full history, that we don't hide from the tough parts and we celebrate to the good parts. Obviously, having access to A.P. classes, students don't just learn, they get college credit, it makes college more affordable for their families. And so we're making sure students across the country, including Florida don't have this history white washed. You see him removing books from classrooms. You see these very chilling photos of school libraries, classroom libraries and empty shelves. Something very insidious is happening in Florida and it is extraordinarily disturbing.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:55:00",
+      "speaker": "GOLODRYGA",
+      "sentences": "It is disturbing for many families and for many teachers who have been viewing this as a distraction, to say the least, as well. And speaking of teachers, I do want to get you to weigh in on new legislation that's being introduced to Congress today actually, and it's called the American Teacher Act. And it will help states meet a requirement of a threshold of $60,000 minimum salary for teachers, inflation adjusted for cost of living in each state. I know you support this legislation. I guess my question to you is do you think enough members of Congress do as well to get it passed?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:55:00",
+      "speaker": "DUNCAN",
+      "sentences": "I desperately hope so. I was in D.C. last week to support this and testify. I will say that strong military is our best defense as a country but our best offense is a great education system. There has not been a Republican or Democratic or liberal or conservative about this. The best thing you can do for all of our children is put a great teacher into every classroom.And no one goes into education, no one goes into teaching to make $1 million. Teachers are the most altruistic I know, but they also shouldn't have to take a vow of poverty to help our kids, to teach our kids, to educate our kids. So, this is absolutely the right thing to do. I desperately hope it will receive the bipartisan support I think it deserves. This is nation-building work.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:55:00",
+      "speaker": "GOLODRYGA",
+      "sentences": "Yes. For anyone who didn't appreciate a teacher's value, first of all, shame on you, but especially the pandemic was a wakeup call as well. And I know there was a staffing crisis even going into the pandemic. It was only exacerbated by it.Quickly, do you think that this legislation will help entice more young Americans to go into the teaching field?",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

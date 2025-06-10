@@ -1,0 +1,325 @@
+{
+  "date": "2023-05-22",
+  "headline": "Quest Means Business",
+  "subHeadline": "E.U. Fines Meta $1.3 Billion For Sending Facebook User Data To U.S.; Ruling Party In Greece Wins Election, But Fails To Secure Majority; Biden And McCarthy Set To Hold Debt Ceiling Talks; U.S. Chip Maker Expects Revenue Hit Amid Sales Restrictions; Democratic Leaders Condemn Beijing's Economic Coercion. Aired 3-4p ET",
+  "utterances": [
+    {
+      "timeStamp": "15:00:29",
+      "speaker": "RICHARD QUEST, CNN INTERNATIONAL HOST",
+      "sentences": "There is an hour left of trading on Wall Street and this is the way the market is going. It has been down mostof the session, not hugely. It's waiting and seeing. Definitely, all about the debt ceiling. We'll talk about it in just a moment. The other stories we're following for you. EU regulators fine Facebook owner, Meta over a billion dollars for violating data privacy rules. A resounding victory for Greece's ruling party. The former finance minister, Yanis Varoufakis joins me to discuss the bruising result for the left. And China goes after Micron in the escalating battle over chip technology. So start of a new week together, live in New York. It's Monday, May the 22nd. I'm Richard Quest, I mean business. Good evening. We begin tonight with the record setting fine for Meta by the EU. Meta says it is unjustified and sets a dangerous precedent. It's a $1.3 billion fine, and it is the largest ever issued by the European Data Protection Board. It says Meta broke EU privacy laws by transferring the data of Facebook users from Europe to the United States. In return, Meta says data must be allowed to cross borders for the internet to work and it plans to appeal against the EU's decision. There are by the way talks between the EU and the US that would pretty much make this a moot point in the future. CNN's Melissa Bell is in Paris. The gist here is what? Meta says that yes, well, we did it, but there was no way around it or are they saying, no this never happened. What is the gist here?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:00:29",
+      "speaker": "MELISSA BELL, CNN CORRESPONDENT",
+      "sentences": "That's right. They are saying, Richard that they did it, but they had no choice because those talks that youmentioned between Washington and Brussels on how to ally the free flow of data between two parts of the world that have such different legislation have essentially disappeared. There have been previous data flow agreements that allowed the companies to get around this kind of issue. They have been struck down time and time again by European courts. The latest back in 2020 with the European Court deciding once again that the European citizens' rights to data protection was not being respected by finding itself on American servers, where American spy agencies can have relatively easy access to it. They struck it down. What they also did, Richard was tighten the use of so-called SCCs. These are the Standard Contractual Clauses that allow companies like Meta to get around the fact that there is no framework for the time being, and that is their point, we had no choice. If we're going to have -- continuing to have Facebook, Instagram on the European continent, we have to keep using this legal device in order to keep them going -- Richard.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:00:29",
+      "speaker": "QUEST",
+      "sentences": "I saw Sir Nick Clegg, who is the head of corporate policy for Meta. I saw him basically saying that without this, we are going to end upsiloing the internet again, and that would ultimately come at the cost to European consumers, but I suppose he would say that, wouldn't he?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:05:11",
+      "speaker": "BELL",
+      "sentences": "It could happen, Richard as late as October. And of course, that will have a material impact on what Meta is or is not able to do. Their pointis, if we are not able to transfer this European data to American servers, then you're not going to be able to use Instagram and Facebook. Still, the Europeans want to be sure that they are being safeguarded. The American legislation simply doesn't allow for that, and so, this whopping fine and this message, we will come after you, it doesn't matter how big you are, the fine will be sufficient to make you think several times about doing it again -- Richard.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:05:11",
+      "speaker": "QUEST",
+      "sentences": "And the fine, of course is in the bench for the moment, whilst the appeal or any appeal takes place.Melissa in Paris, thank you. Good evening to you. Staying in Europe, we are in Greece, a strong victory for the prime minister's party in Sunday's elections. New Democracy won more than 40 percent of the vote, better, much better than many expected. Although the center-right party came in well ahead of the second place, Syriza, it fell short of winning an outright majority. The prime minister says he will reject a mandate to form a coalition government and the country will be back at the polls next month. Elinda is with me in Athens. So in a nutshell, why did he do better than we thought?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:05:11",
+      "speaker": "ELINDA LABROPOULOU, JOURNALIST",
+      "sentences": "Well, it seems to be all about the economy, both the country's economy and what people feel in their own pockets.Greece has come out of a big financial crisis, a decade long financial crisis and this is the first prime minister who has delivered growth. Greece is showing tremendous growth for the first time in such a long time, and it seems to be that people want to rally behind this prime minister. They do believe that he is a safe pair of hands who can deliver. He has pledged to cut down unemployment further. He has pledged to bring in more foreign investment, and this seems to be what has made people's minds, as he told me while he was on the campaign trail, really, the numbers speak for themselves. And although Greece has been going much better than expected, it is still facing a number of problems. Part of it has to do with the energy crisis, inflation and so on.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:05:11",
+      "speaker": "QUEST",
+      "sentences": "Right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:05:11",
+      "speaker": "LABROPOULOU",
+      "sentences": "So it seems that this is a vote of confidence for somebody who has proven himself as well -- Richard.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:05:11",
+      "speaker": "QUEST",
+      "sentences": "So assuming -- so he says he is not going to go into coalition. So that means back at the polls, probably by June or July, where will he pickup the extra support necessary to give him the seats? I know, there's also a difference -- a change in electoral rules, which means that he gets thumping more seats to start with under the new electoral rules, but where will he get the necessary seats to give him a majority?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:05:11",
+      "speaker": "LABROPOULOU",
+      "sentences": "Well, first of all, if he gets the same number of votes, as he did this time round, he would actually win the next election, so that wouldbe a given. You would need a threshold of about 37 percent, well, now he needed 45 and he got 41. It seems that what happened in this vote is that because the second round was kind of expected due to the electoral system, a lot of people didn't actually go to vote. And now, what we are expecting to see is that more voters will go to the polls, and also people who gave a protest vote, people who were not supporting this government. There have been a number of scandals in Greece during these last four years, including a wiretapping scandal involving the government, which did have serious repercussions and a deadly train crash. Now, these people gave a protest vote or voted for many smaller parties this time round, but what we expect to see is that next time around, they will rally behind the major parties, Richard, so this is like where he is likely to get the additional support.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:10:06",
+      "speaker": "YANIS VAROUFAKIS, LEADER, EUROPEAN REALISTIC DISOBEDIENCE FRONT",
+      "sentences": "Well, this is very interesting question, Richard.Look, there is no doubt that Mitsotakis and the government scored a stupendous, utterly unexpected victory. Now, I beg to differ with your correspondent about the state of the Greek economy. If you look at real wages, median real wages, they are lower today than they were at the beginning of the debt crisis. But to cut the long story short, I think that the average Greek voter who has been brutalized by the worst recession, perpetual recession in the history of Western capitalism for 30 years now has had enough bad news stories. They actually embrace even though they don't believe the good news stories of the government, they embrace the idea that maybe the government knows better. There is a parallel here, Richard with what happened next door, Turkey. Remember, Erdogan just scored last week, a massive victory against the grain of a population that was immiserized, the shocking response or bungled response to the earthquakes. Similarly, here, we had a huge railway accident that this government mishandled terribly. We had one failure after the other, but I do think that our -- my personal political defeat is vastly due to the fact that people don't want the truth really. They want a soothing narrative of normality even though in my view it is fake.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:10:06",
+      "speaker": "QUEST",
+      "sentences": "Right, so you say, how to persuade bad news averse marginal voters, without plying them with soothing lies. Your message isn't resonating, isit time to pack up and go home?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:10:06",
+      "speaker": "VAROUFAKIS",
+      "sentences": "I am at home. But no, absolutely, home for me now is politics.You know I'm a political animal, according to Aristotle's definition of politics and human beings. So no, until the last breath of mine, I shall be in politics. It is part of who I am and I think that it is necessary in a democracy to have this very candid exchange of views, different narratives. I do believe that if you were here, Richard, and you've been here many times before, and I want to take you around. Two million Greeks out of a population of 10 million are facing foreclosure of their homes and businesses. Can you wrap your mind around that? One in five, now, that is not a success story.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:10:06",
+      "speaker": "QUEST",
+      "sentences": "Well, if that is the case, what the population -- what the populace seem to be looking for are solutions. Now, I know you say that they weregiven soothing lies, but the prime minister has come up with his plan. I guess at some point in this next runoff, you're going to have to decide if you're going to throw your weight behind anybody who actually stands a chance of giving you influence.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:10:06",
+      "speaker": "VAROUFAKIS",
+      "sentences": "Well, the only people who can actually give me influence is voters. So, I'm standing behind them, and it's a matter of persuading them.But look, Richard, the reason why you've been so many times to Greece during the debt crisis, is because for eons, right-wing governments have been managing to create a semblance of growth and prosperity on the basis of debt, unsustainable debt. This government has added 50 billion euros to an already unsustainable debt. Four years of spend, spend, spend with the support of the European Central Bank. When you were in Athens in 2010 talking about the bankruptcy of this place, our debt was 300, now it is 400. And our income back then was 220, now it is 192. We are more bankrupt than ever, except that we still have this tendency to live on borrowed money until the taps are switched off. That's now the big model.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:10:06",
+      "speaker": "QUEST",
+      "sentences": "What's your view with Turkey since you were kind enough to mention it. What do you think happens in the runoff in that election?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:10:06",
+      "speaker": "VAROUFAKIS",
+      "sentences": "Erdogan hands down. It is another paradox. You see, they used to call Reagan the Teflon president. Erdogan and Mitsotakis are differentin the sense that a lot of the stuff sticks on them, and yet, it doesn't matter, they win.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:10:06",
+      "speaker": "QUEST",
+      "sentences": "Good to see you, Yanis. You rightly remind me that I'm long overdue another visit to Greece, where you and I can sit and discuss politics tillthe cows come home and the sun sets. Good to see you, sir. You're looking well and healthy. Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:10:06",
+      "speaker": "VAROUFAKIS",
+      "sentences": "I'm looking forward to it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:17:45",
+      "speaker": "QUEST",
+      "sentences": "President Biden and the US House speaker, Kevin McCarthy are set to meet in a couple of hours from now. The two said they had a productive callon Sunday, while the president was flying back from Japan in the G7. A short while ago, Speaker McCarthy said the talks are at a sensitive point and there is no deal yet although of course, one is still possible. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:17:45",
+      "speaker": "MANU RAJU, CNN SENIOR CONGRESSIONAL CORRESPONDENT",
+      "sentences": "You need to have a deal tonight to avoid a default.REP. KEVIN MCCARTHY (R-CA): I thought it would have been better to have a deal sooner. I think we could we can get a deal tonight, we get a deal tomorrow, but you've got to get something done this week to be able to pass it and move it to the Senate.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:17:45",
+      "speaker": "REPORTER",
+      "sentences": "Do you think you can get this done by June 1? Is it possible to get this thing by --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:17:45",
+      "speaker": "MCCARTHY",
+      "sentences": "I think it is still possible.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:17:45",
+      "speaker": "QUEST",
+      "sentences": "Matt Egan, I love this phrase, \"I think it's still possible. We can still do it.\" I mean, the reality of them not doing it is so horrific thatthey are going to get on with it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:17:45",
+      "speaker": "MATT EGAN, CNN REPORTER",
+      "sentences": "Well, that's right, Richard.Everyone thinks that they're going to have to address the debt ceiling because the cost of inaction is just too great. You're looking at market turbulence and of recession and people losing jobs and no one wants to get blamed for that. So that is why, eventually, they are expected to reach a deal. It is kind of funny to hear Speaker McCarthy say that he thinks that they can still get this done by June 1 and avoid a default because that is setting the bar really low given the stakes here. But ultimately, investors think they're going to get a deal sooner rather than later.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:17:45",
+      "speaker": "QUEST",
+      "sentences": "Tell me why you wrote why we may need a stock market plunge to solve the debt ceiling?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:20:02",
+      "speaker": "QUEST",
+      "sentences": "Right. But my guess is, having seen a few of these things, if it starts to unravel, it is going to happen very fast. I mean, if the marketgets a real scintilla of a default or some form of technical, this thing will go down. I mean, like nothing we've seen before.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:20:02",
+      "speaker": "EGAN",
+      "sentences": "I think that is the risk here, especially because this is not happening in a vacuum, right? We're just weeks away from some of thebiggest bank failures in American history. The Federal Reserve is raising interest rates at the fastest pace since the early 1980s, and so many economists and investors are worried about a recession, all of that actually is not even related to the debt ceiling circus. So the stakes are really high here and the risk for a miscalculation are high. Hopefully, the two parties get together and they get this resolved before it causes mayhem on Wall Street, but there is a growing sense that it might take some market turmoil before they get this done.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:20:02",
+      "speaker": "QUEST",
+      "sentences": "Matt Egan, grateful, sir. Thank you.The CEO of IBM says resolving this debt ceiling crisis is a matter of when not if. Arvind Krishna spoke to us earlier and emphasize that if the US hits the debt ceiling, nobody wins. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:20:02",
+      "speaker": "ARVIND KRISHNA, CEO, IBM",
+      "sentences": "A debt ceiling breach would not be good for anyone, for either body of the United States, and certainly not forbusiness or the nation. So I think we can all agree on that. Now, what's the likelihood it will get resolved? I have complete confidence it will get resolved. I think the question is, when. Will it get resolved before a potential breach? I think that would be ideal for everybody, or right at the moment, or right after. I think any of those, we could potentially live with. If it is more than a few days after, that's when we begin to run the risk of reputational damage. I'm actually confident the United States will not breach, meaning all its debts will get paid. However, when is the exact question. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:20:02",
+      "speaker": "QUEST",
+      "sentences": "When? The African Development Bank is holding its annual meetings this week in Egypt, and the cost of climate change is high on the agenda.The bank estimates that climate related hazards have cost Africa up to 15 percent of its GDP growth since the 1980s. $30 billion are invested in 2020 alone on climate projects, and the African Development Bank says more money is still needed. The president of the Development Bank is with me now. Sir, before we talk about the climate change, how would, in your view, a debt default, albeit a technical one, a US government technical debt default, how would it hit emerging and developing markets or countries?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:20:02",
+      "speaker": "AKINWUMI ADESINA, PRESIDENT, AFRICAN DEVELOPMENT BANK",
+      "sentences": "Well, thank you for having me, Richard.I think that will be disastrous for emerging markets, for sure. It would certainly very disastrous for us in Africa, because we are the only AAA rated financial institution on the continent and we go into capital markets to raise money, long-term money for financing African economies, and this is very, very crucial for the development of Africa. So I can't even think of what will happen if there was a default. With a default, it means that the price of everything just goes up. It means, it would very, very difficult for you to raise money at the low concessional rate that we are doing, and for us, as a multilateral development bank, if affects our business model, it basically then means that in fact, we will be able to face difficulties raising a lot of money for our countries. Our risk capitalization rate will go up very, very fast, and I can't even think about it, and I just hope that they are able to solve it because it will complicate a lot of things just at a time when we all have to raise a lot of money to deal with climate change and food security and health issues globally.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:25:10",
+      "speaker": "ADESINA",
+      "sentences": "Well, the fact is, actually, there is not enough money. If you take a look at Africa, Richard, Africa needs $2.7 trillion to be able tomeet all of its climate financing requirements between 2020 and 2030. And you look at it, how much is Africa getting? Peanuts, basically. Africa gets $30 billion a year to be able to do that. You're looking at a continent, Richard, that accounts for only three percent of cumulative emissions, but in suffering disproportionately from it. You said it yourself --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:25:10",
+      "speaker": "QUEST",
+      "sentences": "So, stay with the hard business side of it, not just the hard business -- so why don't the private sector -- why doesn't the privatesector wants to put more money in? Why aren't the projects being funded? Is it a transparency issue? Is it a lack of finance? Is it a willingness issue?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:25:10",
+      "speaker": "ADESINA",
+      "sentences": "Well, first and foremost, it is just to think about how much private financing itself is needed. Africa would need about $213 billion ayear, Richard, to tackle climate change; green energy, greening all of our transport systems and so on. But the key is if the private sector is going to come to the table, a number of things have to be done. First is, there has to be bankable projects, and so those bankable projects is where we actually have to support the African Development Bank. We also set up a private equity vehicle called Africa 50, that actually has project development facilities, to develop bankable projects that others will want to put money into. Second one is the issue of risk, and I think the issue of risk, as far as I'm concerned in Africa, is a lot more about perception of risk, as opposed to real risk because if you actually look at -- Bloomberg did an analysis of cumulative default rates on infrastructure globally, guess what they found? They found that Africa has the second lowest rate of default of infrastructure investments globally. It is higher in Eastern Europe, in Asia, and Latin America. But yet, when people talk about Africa, they will say, oh, well, the risk is high. Well, in part it is, perception is not reality. And so the other thing that I think is going to be very important, however, in dealing with the risk is for the multilateral development bank like ourselves, and we do, do this, is to deploy risk guarantee facilities. We have partial credit guarantee facilities. We have partial risk guarantee facilities that essentially handholds investors when they want to invest. Now, the other thing that I think is very important as well, if you're going to invest from the private sector side is also the stability of the policy environment. We want to be sure that if I put my money in, there is going to be political stability, there is going to be the business investment, regulatory environment are going to be stable for that to happen. So these are some of the reasons why the things we have to do to get the private sector to do it. But Richard, look, we've got in the world today, 145, essentially, trillion dollars of assets under management. We've got to be able to get some of that money to go into green infrastructure globally, whether it is energy, whether that's water, whether that is sanitation, whether that's infrastructure.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:25:10",
+      "speaker": "QUEST",
+      "sentences": "Sir, I'm grateful. Thank you, sir.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:25:10",
+      "speaker": "ADESINA",
+      "sentences": "Thank you very much.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:31:41",
+      "speaker": "QUEST",
+      "sentences": "U.S. chip maker Micron has warned its revenues could be significantly hurt after being targeted by China. Shares are down whilesome of its rivals in Asia were sharply higher. Beijing's banned Micron from key infrastructure projects citing security risks. The latest move in an escalating tech battle between the two superpowers. Clare Duffy is with me. How far -- why are they banned? How deep is this ban? I mean, this is sort of root and branch or tinkering around the edges.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:31:41",
+      "speaker": "CLARE DUFFY, CNN BUSINESS TECH WRITER",
+      "sentences": "So, Micron says it's still in the process of engaging with Chinese authorities to sort of figure out how deepthis will go. But the Chinese government is saying that micron will be banned from key infrastructure projects. And I think this sort of signals that. Micron could face a deeper ban going forward. That it could be restricted from all sales in China. I think part of what's happening here is you see the Chinese government trying to signal to the U.S. that in the midst of the U.S.'s effort to restrict semiconductor technology from going to China, China is saying we may not need all of this -- all of this technology from the U.S. I mean, we mean -- we may not be as reliant on U.S. companies, as was previously expected. Micron in particular makes this crucial memory storage technology. And so, I think this is, in part probably an effort on the Chinese government to say we can do some of this domestically.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:31:41",
+      "speaker": "QUEST",
+      "sentences": "So, that's the point to address. Who has the whip hand here?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:31:41",
+      "speaker": "DUFFY",
+      "sentences": "I mean, it's -- in a lot of ways the U.S. has the most advanced the smallest, the fastest computer chips that are important for everything fromsmartphones, to vehicles, to more advanced supercomputing and weapons production, big A.I. models. And so, I think the U.S. especially over the last couple of months after having restricted the export of some of the most advanced semiconductor technology, you see the U.S. trying to onshore more of that production to move production away from China and neighboring countries. I think the U.S. is really trying to establish its dominance in this area. And this effort by China to ban Micron from some key infrastructure projects is really an effort to fight back here a bit.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:31:41",
+      "speaker": "QUEST",
+      "sentences": "Right. I'm going to shift direction, if I may, without warning or whatever. But, you know, I want to hear your views on this fine againstMeta, this morning from the E.U. Over a billion, whether or not there have actually to pay it, it goes to the heart of the GDPR business and the transference of data between the E.U. and the US. Doesn't Meta have a point that if you start siloing the whole thing falls apart.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:31:41",
+      "speaker": "DUFFY",
+      "sentences": "I mean, it is the, you know, Meta is not the only one who is going to face challenges here by this lack of U.S. and European agreement on datatransfers. A lot of different companies could be impacted by this. Of course, Meta is a big name. And so, you see it facing this big billion- dollar fine which of course for this company is sort of a drop in the bucket. But it does sort of get at the fact that you could see lots of other companies facing challenges because of this and not able to pay a billion dollar fine the way that meta could.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:31:41",
+      "speaker": "QUEST",
+      "sentences": "Oh. Small change -- well, not small change. Thank you, Clare. Good to see you. Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:31:41",
+      "speaker": "DUFFY",
+      "sentences": "Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:35:09",
+      "speaker": "IAN BREMMER, PRESIDENT, EURASIA GROUP",
+      "sentences": "Well, de-risk means that we understand that there is going to be continued strong interdependencebetween the West, between the G7, between the United States and China. And it's not an effort to force companies that are doing business in China to get out wholesale. But it is an area where if the Chinese take state decisions against countries and their companies, de risking means that you don't have threats to your national security or unacceptable threat suddenly to your economy as a consequence. It's a bit of a term of art, but everyone's using it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:35:09",
+      "speaker": "QUEST",
+      "sentences": "Right. How real is the -- if you like the disquiet, the breach between the U.S. and China at the moment versus rhetoric?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:35:09",
+      "speaker": "BREMMER",
+      "sentences": "Well, the politics are horrible because the United States, both Democrats and Republicans see beating up on the Chinese as the principaladversary of the United States, is a worthwhile thing to do. So, for example, even though Biden would love to get rid of the Trump era tariffs, because it would reduce inflation, and it would help American consumers, he can't, because of the politics. That also means that you don't have the same level of engagement. There's no military-to-military conversations happening between the U.S. and China, Richard. So, God forbid, you have another balloon incident or something worse, you know, you have like, you know, an incident in the South China Sea, the potential for that getting much worse, because the two sides don't trust to talk with each other is much greater than it would otherwise be.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:35:09",
+      "speaker": "QUEST",
+      "sentences": "Factor into this now. Russia, Ukraine. I mean, I watched the G7. And you saw Zelenskyy sitting next to say, Modi at some of the meetings, andyou wondered just how -- I mean, the dynamics of being -- of not wanting to say to him, do you realize, you know, my people are being killed and you're not doing anything to actually against the country that started it?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:35:09",
+      "speaker": "BREMMER",
+      "sentences": "Well, it's interesting. I mean, Modi, has been more neutral on this conflict, but Modi's, you know, buying oil, lots of oil from theRussians at a discount, of course. So, are the Europeans. They're using a price cap. The Indians are just going for a direct discount. Modi's perspective is that's not all that dramatically different. I think what's important here, Richard, is that every member of the G7 was having a private sit down with Zelenskyy. Every one of them was making very strong commitments, not just to help reconstruct the country but also to ensure that Ukraine can defend itself for years to come against a Russia that might want a second bite of that apple. And that puts Ukraine in a much better position to engage in negotiations after this counteroffensive. So, I do think that there is increasingly a window for a ceasefire. A window that countries like India and Brazil, and even China can start getting behind. And it's not just seen as NATO versus the global south.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:35:09",
+      "speaker": "QUEST",
+      "sentences": "That's a hint of optimism from you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:58:15",
+      "speaker": "QUEST",
+      "sentences": "I'm back where together we're going to have a dash to the closing bell. It is just two minutes away. And stocks are on the lower side. We'vedropped maybe 60 or 70 points over the course of the last hours. Investors are watching the debt ceiling talks between President Biden and Speaker McCarthy. So, the risk is on the downside and the weakness is there. The NASDAQ in the S&amp;P 500 are slightly better than only NASDAQ is even eking out a small gain. Stocks in Greece were higher on the country's election results. Voters gave the current government credit for digging Greece out of its economic crisis. The former Finance Minister Yanis Varoufakis says the recovery is built on shaky ground. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:58:15",
+      "speaker": "YANIS VAROUFAKIS, FORMER FINANCE MINISTER OF GREECE",
+      "sentences": "-- has added 50 billion euros to an already unsustainable debt. You know, four years ofspend, spend, spend with the support of the European Central Bank. You know, when you were in Athens in 2010, talking about the bankruptcy of this place, our debt was 300, now it's 400. And our income back then was 220, not 192. We are more bankrupt than ever. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

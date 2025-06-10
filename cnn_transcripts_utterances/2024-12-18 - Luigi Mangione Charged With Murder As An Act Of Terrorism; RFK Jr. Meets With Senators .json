@@ -1,0 +1,427 @@
+{
+  "date": "2024-12-18",
+  "headline": "CNN This Morning",
+  "subHeadline": "Luigi Mangione Charged With Murder As An Act Of Terrorism; RFK Jr. Meets With Senators For Confirmation Votes; Bucks Race Past Thunder In Second Half To Win NBA Cup. Aired 5:30-6a ET",
+  "utterances": [
+    {
+      "timeStamp": "05:30:40",
+      "speaker": "KASIE HUNT, CNN ANCHOR",
+      "sentences": "All right, 5Good morning, everyone. I'm Kasie Hunt. It's wonderful to have you with us. With the future of the Democratic Party up in the air Vice President Kamala Harris signaling she's not going anywhere. While the Electoral College gathered in all 50 states to make her election loss official Harris gave a peptalk to a gathering of young Democratic leaders in Maryland yesterday. During her remarks she urged everyone who supported her to stay engaged. (BEGIN VIDEO CLIP) KAMALA HARRIS, (D) VICE PRESIDENT OF THE UNITED STATES:  Folks who have said to me that they're not sure whether they have the strength much less the desire to stay in the fight -- but let me be very clear. No one can walk away. No one can walk away. We must stay in the fight -- every one of us. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:30:40",
+      "speaker": "HUNT",
+      "sentences": "All right. Joining us now to discuss Gerren Gaynor, White House correspondent for TheGrio. Gerren, good morning. Nice to see you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:30:40",
+      "speaker": "GERREN KEITH GAYNOR, WHITE HOUSE CORRESPONDENT, MANAGING EDITOR OF POLITICS, THEGRIO",
+      "sentences": "Good morning.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:30:40",
+      "speaker": "HUNT",
+      "sentences": "You, of course, covered quite a bit of Kamala Harris' campaign. And she obviously, sort of, stepped back after the loss. Her team has been sort of grappling with why it happened.What did you hear in those remarks there, and what do you think the future is for her in politics? GAYNOR:  No. What I heard was not only the vice president thinking a critical part of her base of support -- I mean, she won the youth vote -- the 18 to 24, that 25 to 30. She beat Donald Trump in those categories. And I saw a vice president who is trying to engage a base that she will need if she wants to run again for president. There's been a lot of reporting about the vice president weighing whether or not she should run for the nomination in 2028 or run for governor in 2026. And the youth vote is critical for her because she's been engaging young voters even before she was the nominee in 2024 election. She went on her \"Fight for Our Freedoms College Tour\" going around the country engaging them on gun violence, and climate change, and reproductive rights.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:30:40",
+      "speaker": "HUNT",
+      "sentences": "Sure, but she lost ground among young voters --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:30:40",
+      "speaker": "GAYNOR",
+      "sentences": "Yeah.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:30:40",
+      "speaker": "HUNT",
+      "sentences": "-- compared to Democrats past.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:30:40",
+      "speaker": "GAYNOR",
+      "sentences": "She did. But I think part of -- one part of that speech that was really -- I guess the humor part of that speech was when she talked about the context in which you exist. This reference to the coconut tree meme.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:30:40",
+      "speaker": "HUNT",
+      "sentences": "Yeah. Let's watch that part of the speech. We actually have it. Take a look.(BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:30:40",
+      "speaker": "HARRIS",
+      "sentences": "Stay true to your spirit and your sense of purpose. That you will continue to fight for the promise of America. And I ask you to remember the context in which you exist. Yeah, I did that -- uh-huh.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:30:40",
+      "speaker": "HUNT",
+      "sentences": "Yeah. So what did she do? She was referring back to this -- a viral moment, basically, about a coconut tree. Take a look.(BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:30:40",
+      "speaker": "HARRIS",
+      "sentences": "...is in context. My mother used to -- she would give us a hard time sometimes and she would say to us, \"I don't know what's wrong with you young people. You think you just fell out of a coconut tree?\" OK. You exist in the context of all in which you live and what came before you.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:30:40",
+      "speaker": "HUNT",
+      "sentences": "You could really see there the -- you could see the defeat, right, around her --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:30:40",
+      "speaker": "GAYNOR",
+      "sentences": "Um-hum.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:30:40",
+      "speaker": "HUNT",
+      "sentences": "-- in this -- in this speech yesterday as she's trying to kind of rally folks.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:30:40",
+      "speaker": "GAYNOR",
+      "sentences": "Yeah.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:30:40",
+      "speaker": "HUNT",
+      "sentences": "It's a little tough. But that said, still harkening back to what she viewed as a -- as a top moment for her on the campaign.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:35:00",
+      "speaker": "HUNT",
+      "sentences": "Yeah.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:35:00",
+      "speaker": "GAYNOR",
+      "sentences": "But when you look at polling, she is overwhelmingly the favored Democrat amongst Democrats. But that could change, obviously, because we're just days --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:35:00",
+      "speaker": "HUNT",
+      "sentences": "Right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:35:00",
+      "speaker": "GAYNOR",
+      "sentences": "-- the election.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:35:00",
+      "speaker": "HUNT",
+      "sentences": "One of the best known, of course, because of the campaign that she just ran.Gerren Gaynor for us this morning. Sir, thanks very much for being here.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:35:00",
+      "speaker": "GAYNOR",
+      "sentences": "Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:35:00",
+      "speaker": "HUNT",
+      "sentences": "I appreciate it.All right, let's turn now to this story. The suspect in the killing of UnitedHealthcare CEO Brian Thompson now indicted for murder as an act of terrorism in New York. Luigi Mangione now charged with 11 counts, facing life in prison. The murder charge filed against the 26-year-old last week was upgraded by a Manhattan grand jury yesterday. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:35:00",
+      "speaker": "ALVIN BRAGG, MANHATTAN DISTRICT ATTORNEY",
+      "sentences": "This was a frightening, well-planned, targeted murder that was intended to cause shock, and attention, and intimidation. This was a killing that was intended to evoke terror.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:35:00",
+      "speaker": "HUNT",
+      "sentences": "Mangione is due back in court in Pennsylvania tomorrow as prosecutors work to extradite him to New York. It is a process his lawyer tells CNN that he is no longer going to fight.CNN legal analyst Joey Jackson joins us live now. Joey, good morning. Always wonderful to see you. So the NYPD commissioner at the same press conference condemned what we are seeing in terms of the glorification of what Mangione did that we are seeing online. Let's watch what she said. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:35:00",
+      "speaker": "JESSICA TISCH, NYPD COMMISSIONER",
+      "sentences": "We have seen a shocking and appalling celebration of cold-blooded murder. Social media has erupted with praise for this cowardly attack. We don't celebrate murders, and we don't lionize the killing of anyone. And any attempt to rationalize this is vile, reckless, and offensive to our deeply held principles of justice.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:40:00",
+      "speaker": "HUNT",
+      "sentences": "So we've also learned, of course, Joey he's not going to fight extradition any longer. What's behind that, and what's next for him in that -- in that regard?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:40:00",
+      "speaker": "JACKSON",
+      "sentences": "Yeah. So extradition fight is an uphill battle. There's not really much to fight, right?You get a governor's warrant, which if it's filled out and it's technically effective, right, meaning it's not facially deficient. It notes what the source is and we're looking for you, number one. There's probable cause for the crimes you have committed. And number three, it pertains to you and you're coming back. And so, really, fighting extradition is just a delay ploy. The reality is that his attorneys are in place. He knows they're certainly looking at the defenses that they want to put forward in light of this new indictment. And what's next is that he'll appear in court. He'll be notified officially of what the charges are. There will be a number of dates set moving forward. The attorneys will get all the discovery, which is the information they need to fight the case. And then it's game on. Any motions to suppress or evidence -- meaning to take it out of the jurors' view -- will be made. The judge will make a decision. And eventually, unless there's some plea as we look there at all the evidence collected, et cetera, then there's going to be a trial. And he'll have at that point an opportunity as jurors to defend him against what we know is the public evidence, which seemingly, Kasie, is pretty compelling.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:40:00",
+      "speaker": "HUNT",
+      "sentences": "All right, Joey Jackson for us this morning. Sir, always grateful to have on the show. Thank you for being here.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:40:00",
+      "speaker": "JACKSON",
+      "sentences": "Thanks, Kasie.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:45:55",
+      "speaker": "HUNT",
+      "sentences": "Robert F. Kennedy Jr. now making the rounds on Capitol Hill as he looks to become the next Health and Human Services secretary. His stances on a wide range of health topics have, of course, garnered considerable attention from Democratic lawmakers who are critical of his vaccine skeptic views.But recently resurfaced interviews show he might also make some Republican senators unhappy on the issue of abortion. (BEGIN VIDEO CLIP) ROBERT F. KENNEDY JR., TRUMP'S PICK FOR HEALTH AND HUMAN SERVICES SECRETARY:  I wouldn't leave it to the states. SAGE STEELE, HOST, \"THE SAGE STEELE SHOW\" PODCAST:  You wouldn't? Right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:45:55",
+      "speaker": "KENNEDY",
+      "sentences": "No. I would -- anybody --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:45:55",
+      "speaker": "STEELE",
+      "sentences": "You would say completely it's up to the woman --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:45:55",
+      "speaker": "KENNEDY",
+      "sentences": "I believe we should leave it to the woman. We shouldn't have government involved.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:45:55",
+      "speaker": "STEELE",
+      "sentences": "Even if it's full term?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:45:55",
+      "speaker": "KENNEDY",
+      "sentences": "Even if it's full term.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:45:55",
+      "speaker": "HUNT",
+      "sentences": "Hmm.One senator says that Kennedy has been reassuring Republicans that his words there would take a back seat to whatever Donald Trump prefers. (BEGIN VIDEO CLIP) SEN. TOMMY TUBERVILLE (R-AL):  We talked about abortion, and the big thing about abortion is he's telling everybody -- he said listen, whatever President Trump -- I'm going to back him 100 percent. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:45:55",
+      "speaker": "HUNT",
+      "sentences": "All right. Joining now to discuss, Amber Phillips, Washington Post political reporter and author of \"The 5-Minute Fix\" newsletter. Amber, good morning. Nice to see you.AMBER PHILLIPS, POLITICAL REPORTER, THE WASHINGTON POST, AUTHOR, \"THE 5-MINUTE FIX\" NEWSLETTER:  Good morning, Kasie.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:45:55",
+      "speaker": "HUNT",
+      "sentences": "So, of course, RFK Jr. facing criticism kind of from all sides --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:45:55",
+      "speaker": "PHILLIPS",
+      "sentences": "Yeah.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:45:55",
+      "speaker": "HUNT",
+      "sentences": "-- and many varied directions, a little bit the way his political views can seem to cross party lines.You wrote in your \"5-Minute Fix\" newsletter about what could actually happen around especially the vaccine situation. You write this. \"The government can't ban vaccines, but state and local communities have the power to set vaccine requirements for public schools. The federal government can make vaccines easier or more difficult to get ahold of. The government can scrutinize new vaccines and refuse to offer approval, or even try to yank existing ones from the market -- though that would almost certainly lead to court challenges.\" I think it's worth noting that on this vaccine point Republicans -- some Republicans have voiced some skepticism -- John Kennedy of Louisiana among them --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:45:55",
+      "speaker": "PHILLIPS",
+      "sentences": "Yeah.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:45:55",
+      "speaker": "HUNT",
+      "sentences": "-- about what RFK Jr. would do in this regard.What more are you reporting on this?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:45:55",
+      "speaker": "PHILLIPS",
+      "sentences": "Yeah. Well, he's an unpopular pick on Capitol Hill like you said, Kasie, from all sides, right, and that's part of who RFK Jr. is. But I think it's super notable that top Republicans like you said, including Senate minority leader Mitch McConnell, have raised questions about his vaccine policy, which indicates to me they don't think it's a good idea to try to limit or cut vaccines.And you've pressed him on this, right, in interviews at CNN. And so, as a parent, I just thought it was very interesting to take a look at, like, what this might mean for America. And essentially, public health experts tell me that while Trump and Kennedy can't just ban vaccines. And they're saying what they need to say on Capitol Hill, by the way, to get the support. Like, Kennedy is saying --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:45:55",
+      "speaker": "HUNT",
+      "sentences": "-- hey, Republicans, I will absolutely back abortion bans or whatever we want to do to limit abortion. And also, I support the polio vaccine is what he said this week on Capitol Hill.But there are lots of other ways and he was a lot of wide latitude to make vaccines really difficult to get here in America. He could study them to death, and he could try to prevent existing -- new ones, excuse me, from coming on the market. Like last year the government approved an RSV vaccine --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:45:55",
+      "speaker": "HUNT",
+      "sentences": "Um-hum.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:45:55",
+      "speaker": "PHILLIPS",
+      "sentences": "-- for kids and babies, and older adults as well. They could stop those from coming to the market.And then he can essentially with the wave of a pen change recommendations, and this is really key, for what we as parents should get our kids vaccinated every year on. So --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:45:55",
+      "speaker": "HUNT",
+      "sentences": "Right. It's called the vaccine schedule --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:45:55",
+      "speaker": "PHILLIPS",
+      "sentences": "Yeah.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:45:55",
+      "speaker": "HUNT",
+      "sentences": "-- and it's kind of what we all go by, right?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:00",
+      "speaker": "HUNT",
+      "sentences": "Yeah.So let's talk for a second about Trump though and the willingness of Republicans to buck their incoming --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:00",
+      "speaker": "PHILLIPS",
+      "sentences": "Yeah.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:00",
+      "speaker": "HUNT",
+      "sentences": "-- president-elect because I think the reality is going to be it's going to be limited.Are they going to spend that capital on RFK Jr. or not?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:00",
+      "speaker": "PHILLIPS",
+      "sentences": "Hard to predict anything. I think -- I would be surprised -- let me say that -- if any of Trump's picks get voted down by Senate Republicans and that's for one simple reason -- is Trump is as popular as he's ever been right now. He's got tech titans, CEOs, parent companies and leaders of media companies coming to support him.CNN polling from last week showed he's -- the majority of Americans are giving the benefit of the doubt that he is going to secure the border. That he's going to tamp down on inflation. And that his nominees, even though Americans say they -- they'd like for them to have more expertise, and Senate Republicans say that as well, they're going to give him the benefit of the doubt that he's going to pick who he wants. And I think if these -- a lot of these people get through, what I've written as well in \"The 5-Minute Fix\" is that Americans elected -- this is I think the bottom line -- a president with clear authoritarian tendencies and are giving him a lot of latitude to carry it out, including having the Senate and saw a lot of loyalists in his government.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:00",
+      "speaker": "HUNT",
+      "sentences": "All right, we shall see.Amber Phillips for us this morning. Very glad to have you on the show. Hope you'll come back.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:00",
+      "speaker": "PHILLIPS",
+      "sentences": "Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:00",
+      "speaker": "HUNT",
+      "sentences": "All right, time now for sports. The Bucks dominate the Thunder to win the second annual NBA Cup in Vegas.Carolyn Manno has this morning's CNN sports update. Carolyn, good morning.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:00",
+      "speaker": "CAROLYN MANNO, CNN SPORTS CORRESPONDENT",
+      "sentences": "Good morning.Well, last night's win doesn't count in the standings, but it could be a turning point for a team that got off to a 2-8 start to the season and were written off by a lot of pundits. Giannis Antetokounmpo leading the way with an MVP performance last night. He finished with a triple-double and 26 points to go along with 19 rebounds and 10 assists. And Damian Lillard also going to work adding 23 points. The Bucks connected on 17 threes. They played stifling defense as well, holding the Thunder to a season-low 81 points. And on the podium after the game Giannis told the crowd that the 97-81 win is the spark that will light the fire for the rest of the season. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:00",
+      "speaker": "GIANNIS ANTETOKOUNMPO, FORWARD, MILWAUKEE BUCKS",
+      "sentences": "We played great team basketball. We were moving the ball, guys were making shots, but most importantly, we were competing defensively. The team scored only 14 points. That's who we are. That's who we are and that's who we're going to continue to be. And the job is not done. We have a lot of basketball in front of us.We have a lot of things that we've got to improve. We are going to improve and we're going to stay locked in because the job is not done. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:00",
+      "speaker": "MANNO",
+      "sentences": "About 13 miles up the road the Crypto.com Showdown also taking place in Vegas with two of the top golfers from the PGA Tour, Rory McIlroy and Scottie Scheffler taking on two of the top LIV Tour golfers, Bryson DeChambeau and Brooks Koepka.Scheffler and McIlroy racing out of the gates from get-go taking home $10 million in cryptocurrency. And Scheffler, who is the number one golfer in the world, has now earned just over $62 million in winnings this year. Not too shabby. Meantime, after another subpar performance in the Falcons' 15-9 win over the Raiders Monday night, the team is sending quarterback Kirk Cousins to the bench for Sunday's game against the Giants. The veteran has had one touchdown and eight interceptions in his last five games and that clears the way for the rookie, Michael Penix Jr. Atlanta selected him with the eighth overall pick in the draft despite signing Cousins to a four-year, $180 million contract back in March. The Falcons 7-7 right now, one game behind the Bucs for the NFC South lead. And lastly for you this morning Miami and Iowa State will square off in the Pop-Tarts Bowl on December 28 for a trophy unlike any other. This one featuring a fully functional toaster with two Pop-Tart-sized slots in the top. Bowl organizers put together a parody of the \"Oppenheimer\" movie trailer for its unveiling -- or should we call it \"Poppenheimer?\" (BEGIN VIDEO CLIP) Parody of \"Oppenheimer\" from Pop-Tarts Bowl to reveal new hardware. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:00",
+      "speaker": "MANNO",
+      "sentences": "I don't know you don't absolutely love this. It's a favorite bowl game. Every time there's a new Pop-Tarts Bowl story I just get so excited. It's just good stuff.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:00",
+      "speaker": "HUNT",
+      "sentences": "Yeah. I mean, I still feel a little sad for the Pop-Tarts. Is that weird? I don't know. That someone it makes me --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:00",
+      "speaker": "MANNO",
+      "sentences": "Mixed feelings. Mixed feelings -- all the feels.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:55:00",
+      "speaker": "HUNT",
+      "sentences": "It's Wednesday, December 18. Right now on CNN THIS MORNING --(BEGIN VIDEO CLIP) DONALD TRUMP, (R) PRESIDENT-ELECT OF THE UNITED STATES:  I think those people committed a major crime --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:55:00",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "Sir?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:55:00",
+      "speaker": "TRUMP",
+      "sentences": "-- and Cheney was behind it.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:55:00",
+      "speaker": "HUNT",
+      "sentences": "A criminal probe. House Republicans siding with Donald Trump, calling for their former colleague Liz Cheney to be criminally investigated.Plus -- (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:55:00",
+      "speaker": "HARRIS",
+      "sentences": "We must stay in the fight -- every one of us.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:55:00",
+      "speaker": "HUNT",
+      "sentences": "A rallying call. Kamala Harris promising to keep fighting as questions swirl about her political future.And -- (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

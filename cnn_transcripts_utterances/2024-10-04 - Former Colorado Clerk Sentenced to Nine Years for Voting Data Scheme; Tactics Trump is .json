@@ -1,0 +1,469 @@
+{
+  "date": "2024-10-04",
+  "headline": "CNN Newsroom",
+  "subHeadline": "Former Colorado Clerk Sentenced to Nine Years for Voting Data Scheme; Tactics Trump is Accused of Using to Try to Overturn the 2020 Election are Still in Play for 2024; Duke Energy Gives Update on Helene Power Restoration. Aired 10-10:30a ET",
+  "utterances": [
+    {
+      "timeStamp": "10:00:00",
+      "speaker": "JIM ACOSTA, CNN ANCHOR",
+      "sentences": "Good morning, you are live in the CNN Newsroom. I'm Jim Acosta in Washington.With the candidates crisscrossing the battleground states heading into the weekend, we are 32 days from election day. But for many Americans, voting is already underway. More than 1 million ballots, look at that, have already been cast. But the two men at the top of the GOP ticket still cannot accept that former President Donald Trump lost the 2020 election. Take a look at this. (BEGIN VIDEO CLIP) DONALD TRUMP (R), FORMER U.S. PRESIDENT, 2024 PRESIDENTIAL NOMINEE: You know, last time, last election, we did great in 2016. A lot of people don't know we did much better in 2020. We won. We won. We did win. It was a rigged election.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:00:00",
+      "speaker": "REPORTER",
+      "sentences": "Did Donald Trump win yesterday?SEN. J.D. VANCE (R-OH), VICE PRESIDENTIAL NOMINEE:  Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:00:00",
+      "speaker": "REPORTER",
+      "sentences": "He did win?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:00:00",
+      "speaker": "VANCE",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:00:00",
+      "speaker": "REPORTER",
+      "sentences": "So, will you concede? Will you concede? If your opponent gets more votes, will you concede?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:00:00",
+      "speaker": "VANCE",
+      "sentences": "I really feel bad for you, man.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:00:00",
+      "speaker": "ACOSTA",
+      "sentences": "All right. Fact-check, even though it's been more than 1400 days since that election, no, Trump did not win in 2020. The election was not rigged. And that rhetoric, of course, has consequences in more ways than one, unapologetic election denier in Colorado is facing the consequences from embracing the so-called big lie. Former Mesa County Clerk Tina Peters was sentenced to nine years behind bars yesterday for a data breach scheme inspired by Trump's false claims of voter fraud. She allowed a man affiliated with MyPillow CEO Mike Lindell to misuse a security card to illegally access the county's election system.Before handing down the sentence, the judge in the case ripped into Peters for her blatant lies and taking advantage, he says, of her privileged position. (BEGIN VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:00:00",
+      "speaker": "JUDGE MATTHEW BARRETT, COLORADO DISTRICT COURT",
+      "sentences": "Your reputation at this point is poor because of what you've done here and after. Your lies are well documented and these convictions are serious. I'm convinced you would do it all over again, if you could. You're as defiant as a defendant as this court has ever seen.You don't have those histories of drug and alcohol abuse. There's no lifetime of trauma, not even close, to the type of mitigating circumstances I would see from many folks who sit in that chair. No, to the contrary, Ms. Peters, you are a privileged person. You are as privileged as they come. There are many things in my mind that are crystal clear about this case. You are no hero, you abused your position and you're a charlatan who used and is still using your prior position in office to peddle a snake oil that's been proven to be junk time and time again. In your world, it's all about you. You abdicated your position as a servant to the constitution, and you chose you over all else. Yes, you are a charlatan, and you cannot help but lie, as easy it is for you to breathe. You betrayed your oath for no one other than you. (END VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:05:00",
+      "speaker": "ACOSTA",
+      "sentences": "And she remains defiant. As you were saying, she says that everything that she did was for the greater good of Mesa County. She asked for a sentence of probation, gave reasons why she should not go to jail. Let's listen to that and talk about on the other side.(BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:05:00",
+      "speaker": "TINA PETERS, FORMER CLERK, MESA COUNTY",
+      "sentences": "I have health problems that would not be treatable in the Department of Corrections.First of all, I need a magnetic mattress. I've been on that since 1995. I was in two rear end collisions in '84 and 2010. It was pretty severe. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:05:00",
+      "speaker": "ACOSTA",
+      "sentences": "What about that, Mr. Attorney General? I mean, do you think that the judge should have shown more leniency in this case or do you think that that sentence is about right?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:05:00",
+      "speaker": "WEISER",
+      "sentences": "This is a fair sentence. The judge took into account a range of circumstances, and those circumstances do include her personal situation, including that her son served our nation well and paid the ultimate price.Unfortunately, when you've got a defendant like Ms. Peters, who refuses to take any responsibility at all and continues to engage in dangerous illegal behavior, she violated her protection order not to go near the clerk's office. The importance of this sentence is it sends a very clear and compelling message. Undermining our elections will not be tolerated.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:05:00",
+      "speaker": "ACOSTA",
+      "sentences": "And what are your concerns going into the 2024 election? As we were saying at the top of the program, people are voting already in a variety of states around the country, depending on where you live. The early voting is already underway. Are you concerned that the former president, his running mate are undermining Americans confidence in the electoral process of this country?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:05:00",
+      "speaker": "WEISER",
+      "sentences": "Jim, I'm very concerned. J.D. Vance at the debate was told appropriately that you're here because Mike Pence was willing to follow the law and do his duty. When you have a push for lawless behavior, when you see what happened on January 6th, when you see behavior like Tina Peters, that's a direct threat to our democratic republic. We have a republic because we honor the rule of law. We have elections that award the ballot to the person who gets the will of the people.The idea that you won't respect elections if you lose is antithetical to a democratic republic. And the fact that clerks, like Ms. Peters, were willing to go on a very dangerous and illegal effort to try to prove something that wasn't true, that harms the public confidence in elections. So, we're in a precarious time, we need the rule of law and we need to make sure that we hold this election fairly.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:05:00",
+      "speaker": "ACOSTA",
+      "sentences": "All right. Colorado Attorney General Phil Weiser, thank you so much for your time this morning. We really appreciate it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:05:00",
+      "speaker": "WEISER",
+      "sentences": "Thank you, Jim.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:05:00",
+      "speaker": "ACOSTA",
+      "sentences": "All right. Let's discuss more now with CNN Senior Political Commentator, former Trump campaign adviser, David Urban, also with us, CNN political commentator, Karen Finney.Karen, let me start with you. I mean, we were just talking about this with the attorney general of Colorado a few moments ago, and Trump is still talking about the election being rigged. He's been making it sound like he's not going to accept the results of the upcoming election if he loses, you know, a lot of what we hear from the other side, from the Republican side of things is that, well, you guys are focusing on the past. Why are you focusing on the past? But --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:05:00",
+      "speaker": "KAREN FINNEY, CNN POLITICAL COMMENTATOR",
+      "sentences": "He's focused on the past.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:05:00",
+      "speaker": "ACOSTA",
+      "sentences": "But, I mean, it has very much to do with the future.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:05:00",
+      "speaker": "FINNEY",
+      "sentences": "Yes, exactly.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:05:00",
+      "speaker": "ACOSTA",
+      "sentences": "Well, two days from now.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:05:00",
+      "speaker": "FINNEY",
+      "sentences": "Yes, 100 percent. Look, it is a reminder that the former president did not uphold his oath of office. It is a reminder that there was a. pretty vast scheme to steal the election in 2020, both what we saw on January 6th, but then what we saw between November and January happening in the states.And to the point you made in the interview, it's happening again. Things are being put in motion, put in place. We saw an attempt to change rules in Georgia in a way that would create chaos and create, you know, an argument for the president to -- the former president, I should say, to, again, call things into question. This is part of the frustration. I'll just say that a lot of us have with the former president. He's broken our system. We have a fair system as this, as the attorney general said, where you get the most votes, you win the Electoral College, you win the election. If you don't, you lose you, we move on. And he's not allowing us in our democracy to continue to move on.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:05:00",
+      "speaker": "ACOSTA",
+      "sentences": "And, David, is Trump going to concede if he comes up short this time around?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:10:03",
+      "speaker": "ACOSTA",
+      "sentences": "In the Colorado case, it was a Trump supporter and an election denialist who was up to no good. She got nine years in the slammer.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:10:03",
+      "speaker": "URBAN",
+      "sentences": "Listen, I think that may be a little excessive for that case. Nine years is like for a murder. But, again, I am for radical transparency. I think that we should all know on election night who won the election. We should have a better way we do this, right? Americans believe that good people in America believe that they don't understand.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:10:03",
+      "speaker": "ACOSTA",
+      "sentences": "And it is a transparent process.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:10:03",
+      "speaker": "URBAN",
+      "sentences": "Listen, when you go to bed -- Jim, when you go to bed in Pennsylvania --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:10:03",
+      "speaker": "ACOSTA",
+      "sentences": "You have Republican governors in Georgia, in Arizona, you had a Republican secretary of state being strong-armed by Donald Trump in 2020.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:10:03",
+      "speaker": "URBAN",
+      "sentences": "I'm not talking about 2020. I'm talking about today. Hold on guys. I think that why can't we have cameras? Why can't we watch back? In Pennsylvania, the governor is a great guy, a good friend of mine. He put a camera up to watch the bridge be built in I-95. But, no, don't you think we should have that kind of transparency?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:10:03",
+      "speaker": "ACOSTA",
+      "sentences": "You're moving the goalposts. The last election was fine. He lost.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:10:03",
+      "speaker": "URBAN",
+      "sentences": "Jim, I'm talking about this election. I'm talking about if you want to -- listen --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:10:03",
+      "speaker": "FINNEY",
+      "sentences": "But then why wasn't that proposed four years ago after the last election? Why didn't Republicans -- hold on -- come forward and say, you know what, we are now for radical transparency for elections, we are now for making it as easy as possible for every American to vote rather than making it harder for certain people to vote? Instead, what you've had is four years of a former president trashing the system. And, by the way, to what the judge said, there are dangerous consequences to the president's lies. People died on January 6th. People have --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:10:03",
+      "speaker": "URBAN",
+      "sentences": "The only person that died on January 6th was Ashli Babbitt, who was murdered. That's the only person that died, Karen, let's be straight, on January 6th.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:10:03",
+      "speaker": "FINNEY",
+      "sentences": "Okay, but sustained injuries that --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:10:03",
+      "speaker": "URBAN",
+      "sentences": "I'm not trying to minimize it. I'm not trying to minimize it. Jim --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:10:03",
+      "speaker": "ACOSTA",
+      "sentences": "Let's not do that.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:10:03",
+      "speaker": "URBAN",
+      "sentences": "It's terrible, right?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:10:03",
+      "speaker": "ACOSTA",
+      "sentences": "David, none of that would have happened Donald Trump had just been a man and accepted the election results in 2020.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:10:03",
+      "speaker": "URBAN",
+      "sentences": "I'm not so sure you can strut, Jim.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:10:03",
+      "speaker": "ACOSTA",
+      "sentences": "No, that's it. That's the whole ballgame.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:10:03",
+      "speaker": "URBAN",
+      "sentences": "Listen, when you're an adult, too. Do you accept personal responsibility is the key in life? When you were a kid, when your mom said, when you were out with your friends and you did something, you said, well, Billy made me do it, mom, what would your mother said to you, Jim? She would have said, I don't care what Billy did. You're responsible for you, Jim. You know, better your mom taught you better. Americans know the personal responsibility. The people that broke into the Capitol -- the people that broke into the Capitol, they're responsible for that activity. Not Donald Trump. Not my dog made me do it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:10:03",
+      "speaker": "FINNEY",
+      "sentences": "You're yelling. We don't have to yell. We don't have to yell. We can keep it down. We can keep it down. Look, more importantly, let's talk about -- let's talk about this election though. So, people are already voting this 2024 election. Part of what we've seen this week between Liz Cheney being out there with Kamala Harris this week, between what we learned in the Jack Smith case, between this verdict that we've just seen, is a reminder that our election in 2024 is very serious, very serious things are on the line. And, again, I agree with the vice president. There's a quote running right now. He violated his oath of office. And I think for some people, it's hardened. 30 percent of Republicans believe the election was stolen. We're not going to change their minds. But for those voters --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:10:03",
+      "speaker": "ACOSTA",
+      "sentences": "Let's listen to Liz Cheney. Let's take a -- she spoke about this. Let's listen to that.(BEGIN VIDEO CLIP) FMR. REP. LIZ CHENEY (R-WY):  I was a Republican even before Donald Trump started spray tanning. I have never voted for a Democrat. But this year, I am proudly casting my vote for vice president Kamala Harris. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:10:03",
+      "speaker": "ACOSTA",
+      "sentences": "David, what do you think?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:10:03",
+      "speaker": "URBAN",
+      "sentences": "Look, I think she's misguided and she gets one vote just like everybody else in America, great for her. God, she's doing that. Talk about election interference, what Jack Smith just did, I would recommend everybody go to New York Magazine and read our colleague, Elie Honig's piece in New York Magazine about Jack Smith violating longstanding DOJ policy by announcing these charges, these additional -- putting out these additional facts with the purpose of affecting election. Clearly, I mean, he did that. This is reminiscent of Jim Comey in 2016.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:10:03",
+      "speaker": "ACOSTA",
+      "sentences": "Yes. Well, Hillary Clinton --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:10:03",
+      "speaker": "URBAN",
+      "sentences": "And you guys --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:10:03",
+      "speaker": "FINNEY",
+      "sentences": "I feel for you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:10:03",
+      "speaker": "URBAN",
+      "sentences": "No. But I'm saying that the Democrats went crazy then, why are you guys going crazy now saying, that's wrong, it's wrong. Jack Smith committed election interference. Like, well, Jack Smith, we need to know.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:10:03",
+      "speaker": "ACOSTA",
+      "sentences": "If I could cut in and just use the nicest tone of voice.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:10:03",
+      "speaker": "URBAN",
+      "sentences": "We don't want to be chastised by Karen. We don't want to be chastised by Karen.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:10:03",
+      "speaker": "FINNEY",
+      "sentences": "I'm just saying. I'm just saying.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:10:03",
+      "speaker": "ACOSTA",
+      "sentences": "I know. But David could handle it. He's from Pennsylvania.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:15:00",
+      "speaker": "ACOSTA",
+      "sentences": "But, David, okay, so when Donald Trump, according to the Jack Smith filing, says about Mike Pence, so what, don't you have a problem with that?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:15:00",
+      "speaker": "URBAN",
+      "sentences": "Yes, it's bad. He shouldn't have done it. Listen, I think it's bad.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:15:00",
+      "speaker": "ACOSTA",
+      "sentences": "So, going back to our conversation earlier --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:15:00",
+      "speaker": "URBAN",
+      "sentences": "But here's the problem. Jack Smith shouldn't be putting that out.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:15:00",
+      "speaker": "ACOSTA",
+      "sentences": "Going back -- I know. But you were saying that, you know, it's a responsibility of people who stormed the Capitol, not Donald Trump.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:15:00",
+      "speaker": "URBAN",
+      "sentences": "Exactly.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:15:00",
+      "speaker": "ACOSTA",
+      "sentences": "When Donald Trump is saying, so what about his vice president, and whether or not he might be --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:15:00",
+      "speaker": "URBAN",
+      "sentences": "I think it's a terrible thing for him to say if he said it. I'm not going to defend that. But what I'm saying is Jack Smith is not allowed to be doing that with the intent of effecting the election.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:15:00",
+      "speaker": "FINNEY",
+      "sentences": "I think it's an important reminder of the stakes of this election and I hope everybody goes out and vote.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:15:00",
+      "speaker": "URBAN",
+      "sentences": "Well, everybody plays by the rules too, right? Let's play by the rules. You can't say -- you can't be chastising the Trump and Republicans for election interference and then have Jack Smith interfering with election or the United States Naval Academy has a speaker coming this week on the tenth to deride Donald Trump. It's a violation of Department of Defense policies. I mean, these things are happening all around.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:15:00",
+      "speaker": "FINNEY",
+      "sentences": "All around the atmosphere.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:15:00",
+      "speaker": "URBAN",
+      "sentences": "But I'm just saying, I'll give you --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:15:00",
+      "speaker": "ACOSTA",
+      "sentences": "All right. We'll fact-check that during the break.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:15:00",
+      "speaker": "URBAN",
+      "sentences": "You check it out, look it out, Professor Ruth Ben-Ghiat going there to deride Donald Trump. Listen, I know. I'm --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:15:00",
+      "speaker": "ACOSTA",
+      "sentences": "All right. We'll fact-check that during the break.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:15:00",
+      "speaker": "URBAN",
+      "sentences": "DOD's (INAUDIBLE) policy. Call U.S. Naval Academy.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:20:00",
+      "speaker": "ACOSTA",
+      "sentences": "This morning, the lights are slowly coming back for some of the communities ravaged by Helene. Duke Energy says that 90 percent of customers in North and South Carolina will have their power restored today with an additional 134,000 customers by tonight, while 85,000 customers in the hardest hit area should have power by Sunday.This is new video from the men and women of the North Carolina National Guard, as they're coming to the rescue of people who have been trapped for days. The guard says its air set assets have saved some 538 people and 150 pets, and it could be a dire situation for those in need of medical care. Greg Lowe joins us now. He is the CEO of HCA Healthcare's Mission Hospital in Asheville. Thank you so much for being with us, Greg. We understand city officials are saying it could take weeks for the water system to be fully restored. How are things going inside your hospital right now? What needs do you have? GREG LOWE, CEO, HCA HEALTHCARE'S MISSION HOSPITAL:  Thank you. First, I really want to thank all of our HCA Healthcare colleagues and team members that have done just an outstanding job of caring for all of our patients in our hospitals and serving everyone that is seeking care. As you mentioned, we're still without city water. But HCA Healthcare has come in and helped us re-pressurize the hospital with a line of tanker trucks so that we can be fully operational. We have clean water, showers, sinks, toilets to be able to serve all of our patients in our hospital.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:20:00",
+      "speaker": "ACOSTA",
+      "sentences": "And how is the relief effort going? What kind of supplies are you getting in? Are you getting what you need?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:20:00",
+      "speaker": "LOWE",
+      "sentences": "It's been an amazing effort. HCA Healthcare has supported me in every need that I have had and in every need that our colleagues have had. We have the resources and the staff to be able to deliver that care. Over 100 nurses, physicians and other individuals to help us have been brought in from outside through the connections with HCA Healthcare to be able to continue to deliver on our mission.We've also, with HCA Healthcare, set up mini marts in all of our hospitals to be able to provide food and water and supplies and all those things necessary for our employees to be able to get home and come back. We are pumping gas in thousands of our employees' vehicles through our HCA Healthcare supply chain to be able to get them home, check on their families and come back and do what they do best is caring for our community.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:20:00",
+      "speaker": "ACOSTA",
+      "sentences": "And, Greg, NBC apparently spoke with a nurse at Mission who said it's been really difficult to do decontamination. She said her team was forced to fill trash cans with whatever clean water they could find to dump over patients in an effort to rinse them off. Can you speak to any of that? It just sounds like it was dire at certain points as this was just, you know, at its depths after the storm.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:25:00",
+      "speaker": "ACOSTA",
+      "sentences": "Yes, and hats off to all the healthcare providers there. I know they must be just working around the clock to deal with the influx of patients coming in. And how is the hospital preparing for the weeks ahead?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:25:00",
+      "speaker": "LOWE",
+      "sentences": "Yes. As I mentioned, we still don't have city water and we're hoping that those efforts to restore that infrastructure will be quick. But, again, our teams are resourceful, they're resilient. We've drilled wells to be able to offload some of the water needs and supply our chillers and our boilers. And the resources keep coming in. As I mentioned, anything I asked for is coming to support our efforts and then some.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:25:00",
+      "speaker": "ACOSTA",
+      "sentences": "All right. Greg Lowe, thank you very much. We appreciate it. Thanks for your time.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:25:00",
+      "speaker": "LOWE",
+      "sentences": "Thank you.",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

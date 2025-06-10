@@ -1,0 +1,223 @@
+{
+  "date": "2023-04-14",
+  "headline": "CNN Newsroom",
+  "subHeadline": "Cash App Founder Murder Suspect in Court; Florida Flooding; Pentagon Leak Suspect Charged. Aired 1-1:30p ET",
+  "utterances": [
+    {
+      "timeStamp": "13:00:03",
+      "speaker": "JOHN KING, CNN HOST",
+      "sentences": "First court appearance.President Biden at the moment wrapping up a visit to Ireland, visiting the Knock Shrine. For the second Catholic president, it's a holy and important place. Locals say they saw an apparition of the Virgin Mary there back in 1879. Later today, the president will visit a genealogical center in County Mayo, an area where he has family ties. He wraps up his trip with a speech in Ballina, whose U.S. sister city is Scranton, Pennsylvania, that, of course, the president's hometown. Thanks for your time on INSIDE POLITICS. Hope you have a safe weekend. Abby Phillip picks up right now.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:00:03",
+      "speaker": "ABBY PHILLIP, CNN HOST",
+      "sentences": "Hello, and welcome to CNN NEWSROOM. I'm Abby Phillip in Washington.Two very serious charges for that 21-year-old Air National Guardsman accused of leaking a trove of sensitive classified documents online. You can see there Jack Teixeira's parents outside of the courthouse this morning in Boston. Their son was in shackles facing a judge less than 24 hours after he peacefully surrendered to a swarm of heavily armed FBI agents. Prosecutors revealed today that Teixeira had a top secret clearance since 2021 and that he allegedly leak -- the alleged leaking began long afterward in an online Discord group. The Pentagon says that this was a deliberate criminal act. And the new court documents show that members of that chat group gave the FBI information that could be key to making that case. CNN's Natasha Bertrand is at the Pentagon. Natasha, so lay out what the charges that he is facing are.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:00:03",
+      "speaker": "NATASHA BERTRAND, CNN NATIONAL SECURITY REPORTER",
+      "sentences": "Yes, Abby, so he did appear in court in Massachusetts this morning. And he was officially charged with two separate counts here.The first is unauthorized retention and transmission of national defense information. And the second is unauthorized removal and retention of classified documents or material. Now, these, of course, relate to the allegation that he removed sensitive and highly classified information from his place of work, which was the Air National Guard in Massachusetts, the intelligence wing of the Air National Guard there. And then he allegedly posted them on this private social media platform called in Discord, where dozens of people who were not authorized to view these documents were, of course, able to view them. And we are told just in the last few hours a couple more details about what actually he was doing in the Air National Guard and why he had access, actually, to these top secret documents. We are learning from the FBI affidavit that he had a top secret clearance and that he has had that since 2021. And, in addition to that, he had sensitive, compartmented information access. So that basically gave him access to some of the most sensitive intelligence programs in the entire U.S. government. And the reason why he had this is not necessarily because he was dealing with this highly classified information a daily, day-to-day basis and needed to know the content of that information in order to do his job. He was actually more of an I.T. specialist. And he was tasked with keeping these classified networks kind of operating. So the risk that he could be exposed to this highly classified information is why he was given such a high clearance. Now, the question is, is whether he actively sought out these specific documents on these systems in order to leak to his friends in this group chat, or whether someone else gave them to him or who even printed them out. Did he print them out himself? So many questions still being raised about his motives and, of course, about his background? What -- how did the military vet him? And was that vetting appropriate, Abby?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:00:03",
+      "speaker": "PHILLIP",
+      "sentences": "Yes, lots of questions there on that exact point.Natasha Bertrand, thank you very much. And the president just issued a new statement. In part, it reads -- quote -- \"I have directed our military and intelligence community to take steps to further secure and limit distribution of sensitive information. And our national security team is closely coordinating with our partners and our allies.\" Now, let's bring in our former Director of National Intelligence James Clapper. Director Clapper, many of our viewers will remember you were the nation's spy chief during the Edward Snowden leak. That was one of the biggest in U.S. history. I wonder, what do you think this case is in comparison to that?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:05:02",
+      "speaker": "PHILLIP",
+      "sentences": "Yes.President Biden said yesterday that there was, in his words, nothing of great consequence here. But I think the question a lot of people have is about the information related to the active operations in Ukraine, this war between Russia and Ukraine. Are you concerned about information there that could have real implications for the ground war?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:05:02",
+      "speaker": "CLAPPER",
+      "sentences": "Well, absolutely, because, in this case, lives are at stake.Now, the upside, if there is one, is that this -- such data, tactical in nature, is going to age off quickly. And, from what I have read, the Ukrainians have already taken some measures to mitigate or -- the effects of the revelations. So, yes, I'm concerned about it, but the big thing is, were sources and methods revealed or which could be back-engineered, let's say, by an adversary such as, in this case, Russia? And I don't really know the answer to that. But I think, again, if there is an upside, it's that such tactical data will age off over time.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:05:02",
+      "speaker": "PHILLIP",
+      "sentences": "Yes.So, what do you think? I mean, some people have described this individual Jack Teixeira as a whistle-blower. But, usually, that requires some kind of process that this was released in the public interest. Do you see a whistle-blower motive or some kind of other motive here?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:05:02",
+      "speaker": "CLAPPER",
+      "sentences": "Oh, no, I don't. And this is the old saw about one man's leakers is another man's whistle-blower.I don't believe that was his motivation at all, unlike Edward Snowden, who claimed to be a whistle-blower. I don't hear that from this case. I think his motivation appeared to be simply ego. And I will also comment, Abby, that taking measures to restrict access, restrict dissemination, and do those kinds of administrative things is important. But I would point out that our clearance system is based on personal trust. And, unfortunately, we have had violations of personal trust in the past. We have one now. And no matter how many mousetraps we install to preclude such breaches, we're going to have violations of personal trust in the future.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:05:02",
+      "speaker": "PHILLIP",
+      "sentences": "Yes, I mean, I do understand that.But I think one of the things that is raised by this case is that this man seemed to have a little -- a bit of a troubling background. This group that he was in, they were sharing racist memes. There's a video of him shooting weapons, making antisemitic and racist comments. It does seem to raise the question, is the clearance process, which is very intense for top secret and TS/SCI, it's really intense, but is it catching individuals who might be more susceptible to doing something for ego reasons that would jeopardize national security?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:05:02",
+      "speaker": "CLAPPER",
+      "sentences": "Yes.Abby, you ask the $64 question. The clearance mechanism is built -- puts a lot of emphasis on initially granting or not clearances. Where it's weaker is in the follow-up monitoring and surveillance of people's behavior. So, when he was granted a clearance, a top secret clearance in 2021, there was a judgment made, after looking at his background, which wasn't all that long, given his youth, his education, had any encounters with the police. And a judge -- in the end, a subjective judgment is made that, hey, this person is judged to be sufficiently trustworthy to be granted top secret access. When changes occur in attitude or behavior, that's where the system is a little weaker. Now, a clearance system is going to a system of continuous evaluation where, hopefully, you would catch this. And the other issue this raises is access to social media. Classically, it's been OK for clearance authorities to look at publicly available social media, but restricted chat rooms and the like, restricted groups on social media, particularly on obscure platforms, that's a tougher problem. And you do get into then some significant civil and privacy issues on just how intrusive the clearance system will be authorized to be. So, these are not easy issues.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:05:02",
+      "speaker": "PHILLIP",
+      "sentences": "Yes. Yes, that...",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:05:02",
+      "speaker": "CLAPPER",
+      "sentences": "If they were, they'd have been fixed a long time ago.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:10:03",
+      "speaker": "ELLIOT WILLIAMS, CNN LEGAL ANALYST",
+      "sentences": "They're reasonable charges, Abby. And the way they have broken up the charges is, it's two different types of conduct, in effect, number one for mishandling defense information, information that would have -- could have hurt the defense interests of the United States, and then, number two, mishandling classified documents.Merely mishandling classified documents or keeping them when you know you shouldn't can itself be a crime. So, the same conduct can be charged two different ways. And that's what prosecutors have done here.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:10:03",
+      "speaker": "PHILLIP",
+      "sentences": "What do you think he could be facing in terms of sentencing?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:10:03",
+      "speaker": "WILLIAMS",
+      "sentences": "Well, that defense mishandling, under the Espionage Act, that first charge I talked about, would carry a 10-year maximum sentence, and that could be charged for every document or instance there.The classified documents charged would carry a five-year maximum. Now, look, no one is going to get the statutory maximum. That just doesn't really happen. But you are looking at potentially years of time in prison at the high end if an individual were to be convicted of a crime like this.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:10:03",
+      "speaker": "PHILLIP",
+      "sentences": "So the court documents say that the FBI interviewed another individual in this chat group, right? And the person said that the suspect had become concerned that he may be discovered making the transcriptions.He was literally transcript -- transcribing the text in the workplace. So, that's when he began taking the documents to his residence and photographing them. If they know all of that at this point, that seems pretty damning. I mean, do you see any possible way out, a defense here for the suspect?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:10:03",
+      "speaker": "WILLIAMS",
+      "sentences": "There really isn't, Abby.Look, people lie. People's memories are spotty, but the Internet does not. And I.P. addresses and login times and messages that people send often can lead a defendant to being convicted. And that's certainly going to -- not certainly going to happen here, but I think would seem to point in that direction. Now, it's not a defense, but, certainly, at sentencing, he can make an argument that:  Look, I wasn't attempting to harm the United States. What I thought I was doing was something righteous. And I don't have a criminal history before. And maybe a sympathetic judge might give him a slightly lower sentence under the federal sentencing guidelines. But that's not a defense to the crime. An individual who faces a tremendous amount of evidence that's electronic evidence stands a pretty decent chance of getting convicted or avoiding a conviction altogether and simply pleading guilty, in the hope that he might get a lower sentence.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:10:03",
+      "speaker": "PHILLIP",
+      "sentences": "And what about the other people in this group? So it seems like the chain of events here was that this was posted ina smaller group and then, eventually, some people started to disseminate it more widely. Could any other people in that Discord group face charges if they were a part of that process?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:10:03",
+      "speaker": "WILLIAMS",
+      "sentences": "Absolutely.Two things would need to happen. They would need to know that the documents were -- either bore classification markings or, number two, were of military information that could be used to harm the United States. And the mere fact that Mr. Teixeira seemed to have indicated to others that it was military information and that they were documents that he shouldn't have had seems to suggest that anybody who heard that message would have known the same information too. So, they -- it's -- they may not have known exactly what they were doing with the -- there's been a lot of talk about the fact it was just a bunch of kids on an Internet forum. But, at the end of the day, they were still knowingly possibly in receipt and transmission of serious classified documents. So, anybody who knew what they were doing could really be charged with a crime here.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:10:03",
+      "speaker": "PHILLIP",
+      "sentences": "All right, Elliot Williams, thank you very much for breaking all that down for us.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:10:03",
+      "speaker": "WILLIAMS",
+      "sentences": "Thanks, Abby.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:10:03",
+      "speaker": "PHILLIP",
+      "sentences": "And new today, we are hearing from the family of \"Wall Street Journal\" reporter Evan Gershkovich.It is the first time that they are speaking publicly since Russian authorities snatched Evan off of the streets and accused him of espionage. That was more than two weeks ago. \"The Wall Street Journal\" has released exclusive video clips of its interview with his family. And here's a sampling of it. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:10:03",
+      "speaker": "MIKHAIL GERSHKOVICH, FATHER OF EVAN GERSHKOVICH",
+      "sentences": "I trusted him. I trusted his judgment. Of course, it makes things more difficult for me now, because I feel -- I feel that I have failed in some way as a father.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:10:03",
+      "speaker": "ELLA MILMAN, MOTHER OF EVAN GERSHKOVICH",
+      "sentences": "That was just, like, crushing, totally crushing. That experience all came back from this with him.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:20:03",
+      "speaker": "LEYLA SANTIAGO, CNN CORRESPONDENT",
+      "sentences": "Right.Rain has gone away. And that is good news for folks here in Fort Lauderdale and Broward County. And something else that's kind of nice to see, we're actually seeing those planes taking off and landing from the airport, far from what we saw just 24 hours ago, when there was historic flooding here in this area. Now, we are still seeing some delays, given that there were delays and cancellations over the last day or so. But the good news is that we have seen passengers coming in with bag in hand, and they're heading out. So that is a big development as of today. I want to show you from the sky, though, what it looks like right now, an aerial view of what some of these neighborhoods out there are still seeing. We were talking to neighbors today, one who said it is a disaster in his home. A little bit more good news, well, the water receding. We started to see that early on this morning. But we are expecting to see rain this afternoon. So, neighbors were a little hesitant to clean up, given what could be coming this afternoon. Now, we don't expect it to be anything like what we saw earlier, the historic flooding. But there is some hesitation, and neighbors looking to see what will happen, given that the ground is still very saturated from all the water that came down. When we talk about damage, the schools, Broward County Public Schools, were closed here today. And the schools say that, in their initial assessment, which, by the way, did include about 30 schools, $2 million in that preliminary assessment when it comes to the damage that this took -- the toll that this took on Broward County here in South Florida. So, a lot of good news, in the sense that the rain has stopped, the water is receding, but there could be more rain. And we will have to wait and see the toll that takes, although we don't expect it to be anywhere in the same range of what we have seen thus far, Abby.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:20:03",
+      "speaker": "PHILLIP",
+      "sentences": "Yes.And, Leyla, as you were talking, I mean, we could literally see on this drone footage cars trying to pass through these flooded roads...",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:20:03",
+      "speaker": "SANTIAGO",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:20:03",
+      "speaker": "PHILLIP",
+      "sentences": "... and basically kind of getting stuck. The roads are, it looks like, at least several, several inches of water, standing water, in some parts.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:20:03",
+      "speaker": "SANTIAGO",
+      "sentences": "Yes, still out there.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:20:03",
+      "speaker": "PHILLIP",
+      "sentences": "So, the water may be receding, but that damage is still going to be there.Leyla Santiago, thank you very much for that. And, moments ago, the man charged with murdering Cash App founder Bob Lee was in court in San Francisco. Police say that that suspect, Nima Momeni, and Lee did know each other, but the nature of their relationship remains unclear. Lee was stabbed to death on April 4. CNN's Veronica Miracle is joining us now. So, Veronica, Veronica, what more did we learn today about this really tragic case?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:20:03",
+      "speaker": "VERONICA MIRACLE, CNN CORRESPONDENT",
+      "sentences": "Well, Abby, Nima Momeni was supposed to be arraigned today, but that arraignment actually got continued for another two weeks, so he will officially be arraigned on April 25.But we did see him for the first time. He entered the courtroom wearing an orange jumpsuit, a shaved head. He did not have any handcuffs. And his family was sitting in the front row in that courtroom. Two of his family members, his sister and an older woman, actually held up their hands in the shape of a heart as he entered the courtroom, showing their support. He acknowledged them and smiled. But he said very few words during this very brief arraignment. His attorney representing him today did have a few words to say to reporters after the hearing. Take a listen. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:20:03",
+      "speaker": "ROBERT CANNY, ATTORNEY FOR NIMA MOMENI",
+      "sentences": "The facts will come out. What is basically in the press, what's being said, the accurate, as far as what occurred, will come out in terms of time.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:20:03",
+      "speaker": "MIRACLE",
+      "sentences": "And, again, he's going to be officially arraigned on April 25. And that's when we should get more information -- Abby.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:20:03",
+      "speaker": "PHILLIP",
+      "sentences": "So, Veronica, this case really stirred up a lot of controversy, with people suggesting that it was tied to San Francisco's crime.And the San Francisco district attorney actually called out Twitter owner Elon Musk for -- quote -- \"recklessly and\" -- \"reckless and irresponsible statements\" after Musk tweeted out something about Lee's death. So what's happening there?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:20:03",
+      "speaker": "MIRACLE",
+      "sentences": "Yes, a lot of people were quick to go to social media. Elon Musk was one of them. Of course, he has an incredibly massive following.So, the district attorney had some very sharp awards for him. I think, when people first found out about this, there was the assumption that this was a violent and random attack. And the facts are still coming out. But, as we know, the district attorney says Bob Lee and Nima Momeni knew each other. So here's what she had to say during the press conference yesterday. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "13:25:08",
+      "speaker": "MIRACLE",
+      "sentences": "Momeni is facing a murder charge, as well as a special enhancement, for using a knife.According to the district attorney, he faces 26 years to life in prison -- Abby.",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

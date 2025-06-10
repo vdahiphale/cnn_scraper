@@ -1,0 +1,541 @@
+{
+  "date": "2024-10-29",
+  "headline": "CNN This Morning",
+  "subHeadline": "Democrats Energized in Pennsylvania; Vance Doesn't Comment on Puerto Rican Joke; Michael Tackett is Interviewed about His Book on McConnell; \"Washington Post\" Won't Endorse Candidate. Aired 6:30-7a ET",
+  "utterances": [
+    {
+      "timeStamp": "06:32:31",
+      "speaker": "KASIE HUNT, CNN ANCHOR",
+      "sentences": "So, no campaign wants to be on the defense cleaning up missteps with seven days to go before an election. But that does seem to be where team Trump finds themselves this morning, two days after this unfortunate and ugly moment during the former president's rally at Madison Square Garden Sunday night.(BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:32:31",
+      "speaker": "TONY HINCHCLIFFE, COMEDIAN",
+      "sentences": "I don't know if you guys know this, but there's literally a floating island of garbage in the middle of the ocean right now. Yes. I think it's called Puerto Rico.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:32:31",
+      "speaker": "HUNT",
+      "sentences": "The blowback was swift and severe.We're going to get more now from CNN's Danny Freeman, who was out talking to voters. (BEGIN VIDEOTAPE) DANNY FREEMAN, CNN CORRESPONDENT (voice over): Vice President Harris' campaign wasted little time Monday morning.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:32:31",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "They did us a favor. They woke up. They woke up. They woke us up. They woke us up.FREEMAN (voice over): Assembling a host of Puerto Rican surrogates in Philadelphia. QUETCY LOZADA (D), PHILADELPHIA COUNCIL MEMBER: I hope that people are as angry and they turn that anger into - into vote. FREEMAN (voice over): Pennsylvania has more than 480,000 residents of Puerto Rican descent according to 2022 data from the U.S. Census Bureau. That's the most out of any of the battleground states. And the Philadelphia metro area is among the top regions with Puerto Ricans outside of New York and Florida. Philadelphia city council member, and Harris supporter, Quetcy Lozada, knew she had to speak up.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:32:31",
+      "speaker": "LOZADA",
+      "sentences": "I think that what folks don't - don't realize is that Puerto Rican - when Puerto Rican get angry, we turned into action mode right quickly.FREEMAN (voice over): Around Philly's largely Puerto Rican Fair Hill neighborhood, voters we spoke with had heard the comments.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:32:31",
+      "speaker": "JOSE VEGA, PENNSYLVANIA DEMOCRAT",
+      "sentences": "(Speaking in foreign language).",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:32:31",
+      "speaker": "FREEMAN",
+      "sentences": "He doesn't know what he's talking about. Puerto Rico's a beautiful island.FREEMAN (voice over): Thirty-two-year-old Christian Hernandez is voting for the first time this year for Vice President Harris. The Trump rally remarks only solidified his vote.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:32:31",
+      "speaker": "FREEMAN",
+      "sentences": "You think Puerto Ricans heard those words from last night?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:32:31",
+      "speaker": "CHRISTIAN HERNANDEZ, PENNSYLVANIA VOTER",
+      "sentences": "Yes, for sure. A lot - a lot of (INAUDIBLE), they're mad and disappointed.FREEMAN (voice over): Marcos Pagan didn't like the comments at all.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:32:31",
+      "speaker": "FREEMAN",
+      "sentences": "When you hear stuff like Puerto Rico's a floating island of garbage, what goes through your mind?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:32:31",
+      "speaker": "MARCOS PAGAN, PENNSYLVANIA VOTER",
+      "sentences": "To be honest, I feel disrespected because they're - he doesn't know what we go through, you know? And we've been through a lot.FREEMAN (voice over): But Marcos still is not sure who he's voting for.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:32:31",
+      "speaker": "FREEMAN",
+      "sentences": "When you hear comments like that, does that change your perspective about who you might vote for?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:32:31",
+      "speaker": "PAGAN",
+      "sentences": "No.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:32:31",
+      "speaker": "FREEMAN",
+      "sentences": "That's not enough?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:01",
+      "speaker": "FREEMAN",
+      "sentences": "What did you think about him calling Puerto Rico a floating island of trash?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:01",
+      "speaker": "FERNANDO SANTIAGO, PENNSYLVANIA VOTER",
+      "sentences": "This - that's messed up because that's my island, you know. I don't want to - I don't want any people talking like that, you know. This - this not right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:01",
+      "speaker": "VEGA",
+      "sentences": "(Speaking in a foreign language).",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:01",
+      "speaker": "FREEMAN",
+      "sentences": "You think he's not going to go far because of this lack of respect towards Puerto Ricans?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:01",
+      "speaker": "VEGA",
+      "sentences": "(Speaking in foreign language).(END VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:01",
+      "speaker": "HUNT",
+      "sentences": "Really interesting.The Harris campaign now trying to tie that island of garbage remark, again which was made by that comedian, to Trump himself. (BEGIN VIDEO CLIP) BARACK OBAMA, FORMER U.S. PRESIDENT: One guy called Puerto Rico, quote, \"an island of garbage.\" Now, these - these are fellow citizens he's talking about. Here in Philadelphia, they are your neighbors. They are your friends. They are your co-workers. Their kids go to school with your kids. These are Americans. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:01",
+      "speaker": "HUNT",
+      "sentences": "Donald Trump's running mate, J.D. Vance, had this take on the so-called joke.(BEGIN VIDEO CLIP) SEN. J.D. VANCE (R-OH), VICE PRESIDENTIAL CANDIDATE: Again, I haven't seen the joke. I - I - you know, maybe - maybe it's a stupid, racist joke, as you said. Maybe it's not. I haven't seen it. I'm not going to comment on the specifics of the joke. But I think that we have to the stop getting so offended at every little thing in the United States of America. I'm just - I'm so over it. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:01",
+      "speaker": "HUNT",
+      "sentences": "All right, our panel is back.Mike Dubke, I haven't seen the joke. I mean I'm flashing back to all of the senators who never saw the tweets. But this is, of course, his running mate.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:01",
+      "speaker": "DUBKE",
+      "sentences": "Right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:01",
+      "speaker": "HUNT",
+      "sentences": "But look, I'm most fascinated by what we heard from those voters that Danny Freeman talk to in the Philadelphia area about whether this is going to matter ultimately. It seems like it has the possibility to.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:01",
+      "speaker": "DUBKE",
+      "sentences": "It does. And again, we talked about this earlier in the hour, you know, do no harm at this point in the election.But what I was interested in listening to those voters, and the folks that were interviewing, were they Harris voters to begin with? And are they going to stay to be Harris voters? I keep feeling this election comes down to being a vibe election or an issue election. If it's a vibe election, I think Harris has a really good shot because that's what her campaign is about, creating this vibe of Donald Trump is too dangerous for democracy, too dangerous for America. If it's an issue election -",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:01",
+      "speaker": "HUNT",
+      "sentences": "Well, I mean, is it a vibe or are they pointing out what happened on January 6th, Mike?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:01",
+      "speaker": "DUBKE",
+      "sentences": "If - if it's an issue election - if it's an issue election, then you go into that ballot box thinking about your - your economy. Can I afford my groceries? Can I afford my rent? You think about inflation. You think about other issues. So, I'm not sure if this is going to be more of a blip from a Monday/Tuesday, or if this is going to run throughout, but I guarantee you the Harris campaign is going to be talking about this for the next seven days.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:01",
+      "speaker": "ALEX THOMPSON, CNN POLITICAL ANALYST",
+      "sentences": "That reminds me of that old Kellyanne Conway line of, does it offend you or does it affect you, right? And - and what do voters care - care more about.That being said, to your point, do no harm. There is no reason when there are many Puerto Ricans in very key swing states, nine days before the election -",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:01",
+      "speaker": "DUBKE",
+      "sentences": "Absolutely.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:01",
+      "speaker": "THOMPSON",
+      "sentences": "To hire a roast comedian who most recently did the Tom Brady roast and insulted every single person on stage and often like using their race or their religion to insult them, to then have them as the first speaker after \"The Star-Spangled Banner\" there.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:01",
+      "speaker": "DUBKE",
+      "sentences": "Right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:01",
+      "speaker": "THOMPSON",
+      "sentences": "And also I can say, as someone that was in the room, those jokes did not play in the room, but it doesn't matter because those - those clips are going viral to every single Puerto Rican in Pennsylvania right now.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:01",
+      "speaker": "DUBKE",
+      "sentences": "Absolutely.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:10",
+      "speaker": "HUNT",
+      "sentences": "Right, at that point it becomes nothing matters.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:10",
+      "speaker": "REINES",
+      "sentences": "This - this is it. Someone is getting up today and voting in Wisconsin. Someone is getting up today and voting in Pennsylvania. And they're not doing it. And they're not saying, I was on the fence. But you know what, I'm going to vote for Trump now because that was a really funny joke that that guy told and it is a garbage island.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:10",
+      "speaker": "DUBKE",
+      "sentences": "And if you're an undecided voter, you're not voting early. You are waiting until the last second to try to gather as much information as you can. That's why these last days matters so much.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:10",
+      "speaker": "REINES",
+      "sentences": "I think what we're all saying is that it was a bad idea.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:45:31",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "One senator stepped forward and got results. He wouldn't take no for an answer. Mitch McConnell pushed the bureaucrats in Washington to change their unfair rules. Show horse families from Kentucky and across the nation paid tribute to Mitch McConnell. A special thanks you for a special man.Senator Mitch McConnell, on the job for Kentucky's future. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:45:31",
+      "speaker": "HUNT",
+      "sentences": "Wow, that is a throwback for much of his, as you can see, lengthy career. Kentucky's longest serving senator, Mitch McConnell, has wielded perhaps unmatched control in the Senate and the GOP until 2016, that is, when Donald Trump took the reins of the Republican Party and transformed it into something that McConnell now admits is almost unrecognizable. Throughout the Trump presidency, McConnell swallowed much of his disdain for the man he would later call a narcissist and a sleazeball, until he reached his limit on January 6, 2021.(BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:45:31",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "They're trying to hold the upper deck. They're trying to hold the upper deck now.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:45:31",
+      "speaker": "HUNT",
+      "sentences": "When he held Trump personally responsible for the deadly attack on the Capitol, but stopped short of convicting him in his impeachment trial.(BEGIN VIDEO CLIP) SEN. MITCH MCCONNELL (R-KY): There is no question, none, that President Trump is practically and morally responsible for provoking the events of the day. No question about it. We have a criminal justice system in this country. We have civil litigation. And former presidents are not immune from being accountable by either one. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:45:31",
+      "speaker": "HUNT",
+      "sentences": "McConnell's contempt for Trump was mutual. And Trump's attacks got increasingly personal.(BEGIN VIDEO CLIP) DONALD TRUMP (R), FORMER U.S. PRESIDENT AND 2024 PRESIDENTIAL CANDIDATE: We do have to do something about Mitch McConnell. He's - he's a disaster. These Washington Republicans, like Mitch McConnell, who's the absolute worst. I had to fight Mitch McConnell, another beauty. Mitch McConnell, and his wife, Coco Chao. Coco. We've got to get the McConnells of the world to do their job. Mitch McConnell is a loser. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:45:31",
+      "speaker": "HUNT",
+      "sentences": "As Trump continues to win Republican presidential primaries though throughout 2023, McConnell got behind him.(BEGIN VIDEO CLIP) SEN. MITCH MCCONNELL (R-KY): I said three years ago, right after the Capitol was attacked, that I would support our nominee regardless of who it was, including him. I support him. He's been - earned that nomination by the voters all across the country. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:45:31",
+      "speaker": "HUNT",
+      "sentences": "As our next guest puts it, McConnell, quote, \"tried to stop the GOP from heeding the darkest impulses of Trump, but it must be noted that he never put himself or his job in jeopardy to do so.\"And joining us now is Michael Tackett, deputy Washington bureau chief for the \"Associated Press\" and the author of the new book, \"The Price of Power: How Mitch McConnell Mastered the Senate, Changed America, and Lost His Party.\" Michael, so grateful to have you on the show. MICHAEL TACKETT, DEPUTY WASHINGTON BUREAU CHIEF, \"ASSOCIATED PRESS\": Great to be with you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:45:31",
+      "speaker": "HUNT",
+      "sentences": "Congratulations on the book.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:45:31",
+      "speaker": "TACKETT",
+      "sentences": "Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:45:31",
+      "speaker": "HUNT",
+      "sentences": "I've, obviously - I've spent years covering Mitch McConnell, and he is really one of the most enigmatic figures and has been one of the most powerful and has had just this fascinating arc.And you report out in this book many of the things that he said in private about Donald Trump that when you stood in front of him at a podium and you asked him about it, you knew he was probably thinking, but he would never actually say. Tell us more about what you learned about this man and why - and you call it the price of power. I mean why did he make this decision to sacrifice so many of the things that he clearly seems to hold dear at the feet of Donald Trump?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:45:31",
+      "speaker": "TACKETT",
+      "sentences": "So, my - my point going into the book was not to deify him or crucifying him. It was to try to understand McConnell, try to explain it. How did he acquire power. How did he accumulate power. And then how did he wield it. And what was the consequence for the country.And he found that the consequences for him was a loss of power really in the rise Donald Trump.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:03",
+      "speaker": "TACKETT",
+      "sentences": "He knew exactly who he was dealing with. And - and he worked on - as well as he could, while he could. But as he found out, like so many Republicans who tried to work with Trump, it was difficult. And it was difficult because at some point you butt up against the Trump ceiling and you can no longer work with him.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:03",
+      "speaker": "HUNT",
+      "sentences": "Yes. Alex, you had a question.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:03",
+      "speaker": "THOMPSON",
+      "sentences": "I want to go to the January 6th and the impeachment trial afterward, and his decision not to vote for impeachment. Now he, obviously, used to legal argument of, you can't impeach someone after they're out of office. Do you think that that was - that he really believed that legal argument, or was it a legal argument that served his political argument?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:03",
+      "speaker": "TACKETT",
+      "sentences": "It's probably more of the latter. But it is also true that nobody has ever been impeached after they've left off. So, he had to deal with that.He was also thinking, as a lot of people were, he was going to fade from the scene. So, he didn't want to lose the energy of the Trump base for the midterm elections by going after Trump in a conviction vote.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:03",
+      "speaker": "THOMPSON",
+      "sentences": "Do you think he regrets that decision?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:03",
+      "speaker": "TACKETT",
+      "sentences": "It's unclear whether or not he regrets it. I mean he's a - he's a rational actor. Like, he does a cost benefit analysis and he decides, you know, is the benefit worth the cost. In this particular case, he thought it was not. And he also thought, remember, you had to get 67 votes to convict. And I think, you know, you could see the numbers getting to 63, 64. Getting to 67, different question.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:03",
+      "speaker": "HUNT",
+      "sentences": "Michael, in that moment he talked about, in a speech, that the U.S. still has a criminal justice system that could hold Donald Trump accountable. How does he view what's played out or not in terms of that system holding him accountable for what happened that day? Trump accountable.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:03",
+      "speaker": "TACKETT",
+      "sentences": "Well, clearly, Trump knows how to run out the clock. And he's done that throughout his career. He knows how to make something go away, or at least delay it. So, I think it's been frustrating for him and probably for a lot of Republicans who, you know, behind the scenes, you know, if you took a secret ballot and asked them about Donald Trump, you'd come out with one set of numbers, and if you take a public ballot, you'd come up with another set of numbers.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:03",
+      "speaker": "HUNT",
+      "sentences": "You think he wants to see Trump convicted?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:03",
+      "speaker": "TACKETT",
+      "sentences": "I don't really know that -",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:03",
+      "speaker": "HUNT",
+      "sentences": "For January 6th specifically.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:03",
+      "speaker": "TACKETT",
+      "sentences": "I mean I think he - I think he felt like the criminal justice system should hold him to account.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:03",
+      "speaker": "HUNT",
+      "sentences": "All right. Mike -",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:03",
+      "speaker": "THOMPSON",
+      "sentences": "And -",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:03",
+      "speaker": "HUNT",
+      "sentences": "Go ahead.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:03",
+      "speaker": "THOMPSON",
+      "sentences": "No, I was just going to say one last thing. You know, he and Joe Biden served together for decades in the Senate. And he writes in his memoir that he loved Joe Biden. He loved talking to him. How does he view Joe Biden's presidency?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:03",
+      "speaker": "TACKETT",
+      "sentences": "I think that they got along where they could get along. Ukraine aid is probably the primary example of that. But also the infrastructure bill, the Chips Act, the gun safety bill, all of those were moments where the personal relationship between the two lead to a deal.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:03",
+      "speaker": "HUNT",
+      "sentences": "Really. OK.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:03",
+      "speaker": "REINES",
+      "sentences": "Old school.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:03",
+      "speaker": "HUNT",
+      "sentences": "Old-school indeed in a - in a new school world, or something like that.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:03",
+      "speaker": "REINES",
+      "sentences": "Or a non-education world.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:03",
+      "speaker": "HUNT",
+      "sentences": "Michael Tackett, congratulations again.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:03",
+      "speaker": "TACKETT",
+      "sentences": "Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:03",
+      "speaker": "HUNT",
+      "sentences": "The book is fascinating. I'm not finished with it yet, but, trust me, it's actually very hard to put down. The book is \"The Price of PowerAll right, 53 minutes past the hour. Here's your morning roundup. New this morning, Steve Bannon is a freer man. The former Trump adviser finished his four-month stint in prison just a few hours ago, telling \"The New York Times\" as he left, quote, \"I'm not broken. I'm empowered.\" Bannon was sentenced for contempt of Congress after refusing to comply with a subpoenas in the January 6th investigation. Some relief for travelers ahead of the busy holiday season. Airlines in the U.S. are now required to give you a cash refund for flights that are canceled or significantly delayed. They must give you your money back even if you don't ask for it. This is one of the things that drives me the craziest about canceling a flight. They say it's refundable and then they say, but you've got to fill out this form to get your refund. No longer. All right, police now investigating fires set at several ballot box locations in Oregon and Washington, which destroyed hundreds of mail- in ballots. A car, seen in these photos, was spotted at both boxes before the fires broke out. Investigators believe the fires in Portland and Vancouver, Washington, are related. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:03",
+      "speaker": "ASSISTANT CHIEF AMANDA MCMILLAN, PORTLAND POLICE BUREAU",
+      "sentences": "We're concerned about that intentional act trying to affect the election process. We're dedicated to stopping that kind of behavior.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:55:02",
+      "speaker": "HUNT",
+      "sentences": "So, Alex Thompson, Bezos put out this op-ed. He also defended himself. He said that there was no connection between a business meeting that the head of his Blue Origins space company had with Donald Trump, in connection to this decision not to endorse, he also did seem to express that perhaps the timing was poor of this decision for \"The Post\" to not endorse. That an endorsement for Harris had already been written. We're, of course, now seven days out from an election. What sticks out to you about this?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:55:02",
+      "speaker": "THOMPSON",
+      "sentences": "There is a lot of truth to what Jeff Bezos put in that op- ed. But as you've noted, doing this 11 days before the election, when the op-ed had already been drafted, versus doing it six months ago, I think it's a completely defensible position to like have a newspaper not endorse a presidential candidate because, you know, a lot of readers in these days don't differentiate between the editorial board and the news side. And I think \"Washington Post\" endorse Kamala, all the news site is biased.But again, they could have done that six months ago. And beyond just, you know, Jeff Bezos and Blue Origin, he has a ton of government contracts within his various businesses. And it raises a lot of questions.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:55:02",
+      "speaker": "REINES",
+      "sentences": "Well, look, I mean, I think even if 51 percent of that op-ed was truthful, there's 49 percent that is really an extension of what he said, which is that you can't fight reality. And his reality is that Trump is going to pick up where he left off. And it wasn't just the $10 billion contract that - dispute with the federal government. If you remember, Trump tried to get the postmaster general, if I'm getting this right, to go after Amazon in terms of its abuse of the mail system.And what's scary about this is that Jeff Bezos, at times, has been the richest man in the world. If that person can't, you know, get the courage together to stand up, then that - that is very, very unnerving. I hope there's no one from Amazon watching because I have two packages coming today. But it's - the point about timing, and not just the timing, it's that they went ahead and they endorsed a Senate candidate. So, we could have been here a month from now having a conversation about papers, should they endorse, and I'd be the first to say they probably shouldn't, just give us the news. But the reality that he likes pointing to is that it's a week away, it was ten days away.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:08",
+      "speaker": "REINES",
+      "sentences": "But that - that ship has sailed.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:08",
+      "speaker": "THOMPSON",
+      "sentences": "But -",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:08",
+      "speaker": "REINES",
+      "sentences": "No one's waking up today thinking, oh -",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:08",
+      "speaker": "DUBKE",
+      "sentences": "No.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:08",
+      "speaker": "REINES",
+      "sentences": "\"The Washington Post\" is less, you know, less inclined towards liberals and Democrats. The only thing that's happened is that fewer people are reading his paper.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:08",
+      "speaker": "DUBKE",
+      "sentences": "You know, democracy dies in a one-party state. And that's what you've got at \"The Washington Post.\" So -",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:08",
+      "speaker": "HUNT",
+      "sentences": "OK. Well, I would like to keep - I wish I had time to say more about that.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:08",
+      "speaker": "REINES",
+      "sentences": "Final - final (INAUDIBLE).",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:08",
+      "speaker": "DUBKE",
+      "sentences": "Oh, I was looking at the clock, Kasie.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:08",
+      "speaker": "HUNT",
+      "sentences": "But unfortunately it is after 7",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:08",
+      "speaker": "REINES",
+      "sentences": "Talk about running out the clock.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:08",
+      "speaker": "HUNT",
+      "sentences": "My fellow anchors will be upset with me if I don't turn to the next show.Thanks to you guys for being here.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:08",
+      "speaker": "REINES",
+      "sentences": "Thank you.",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

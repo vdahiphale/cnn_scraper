@@ -1,0 +1,469 @@
+{
+  "date": "2023-07-03",
+  "headline": "CNN This Morning",
+  "subHeadline": "Protests in France; Rate Limits on Twitter Tweets; Holiday Cookout Costs. Aired 6:30-7a ET",
+  "utterances": [
+    {
+      "timeStamp": "06:30:32",
+      "speaker": "PHIL MATTINGLY, CNN ANCHOR",
+      "sentences": "Welcome back.Police in France detained at least 157 people overnight after a much calmer night of protests. Violent demonstration, of course, erupted last week following the police shooting of a 17-year-old during a traffic stop. About 45,000 security forces are still deployed across the country. French President Emmanuel Macron is meeting with top officials today to discuss the next steps. I want to go to CNN's Nic Robertson. He joins us live from just outside Paris. And, Nic, I think the question is - I've watched throughout the course of the last couple of days is, does last night and kind of the easing of tensions, at least slightly, suggest that a turning point is coming?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:30:32",
+      "speaker": "NIC ROBERTSON, CNN INTERNATIONAL DIPLOMATIC EDITOR",
+      "sentences": "Yes, it kind of does. I mean look at the metric of fires which I think over the past few days has been a good metric of how big this whole protest is, how many people involved. Three hundred and fifty-two fires reported. Last night, 871. The night before, 2,500. The night before that, 30. Nine hundred almost the night before that. So, this trajectory has been coming down.City halls, this is one of them, 99 of them have been attacked and vandalized. The interior minister today saying it's going to spend $22 million on replacing the CCTV cameras around the city halls. This city hall, protesters that attacked it couldn't get in over the weekend. Attacked the mayor's office. His wife was injured trying to escape with their two really young children. And the mayor's union in France has called for protests, demonstrations outside mayor's offices. Now, this is a small gathering here today. More protests or more gatherings like this have been called for to show support for the mayors. And that's really central to what the government's saying. They're saying, look, we're going to keep up with this heavy police presence, which seems to be a big part of keeping control of the situation. And we're appealing and saying, you're damaging your own communities. And it's interesting because just yesterday, Nahel, that young 17- year-old who was shot last week, killed by the police, his grandmother came out, made a very similar appeal. (BEGIN VIDEO CLIP) NADIA, GRANDSON KILLED BY POLICE (through translator): I blame the policemen who killed my grandson. I'm the grandmother. I blame the policemen who killed my grandson. That's all I want. The police, they are here, fortunately. They are here and the people who are breaking things, I tell them, stop. Stop. They use Nahel's death as a pretext. Now they must stop. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:30:32",
+      "speaker": "ROBERTSON",
+      "sentences": "So, she is calling for it to stop. She's saying, look, your mothers are using the buses you're burning. Your mothers are using the town halls that you're trying to attack. They use the services of the mayor. So - so, stop.It does seem it's a downward trajectory from here. And I think from what we've heard from people around here today, they - they really want to see the end of the violence.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:30:32",
+      "speaker": "MATTINGLY",
+      "sentences": "Nic, can I ask, having watched this over the course of the last five or six days, there are very clear, if not perfect, correlation, kind of an analog, to what we've seen in the United States at various points, dynamics, elements, even what you're hearing from the grandmother. Something we would often hear.Can you contextualize kind of this moment on this particular issue and in France and why it got to this point and what happens next?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:02",
+      "speaker": "MATTINGLY",
+      "sentences": "All right, Nic Robertson, live for us in Paris. Thanks so much.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:02",
+      "speaker": "AUDIE CORNISH, CNN ANCHOR",
+      "sentences": "Now, there are new tensions in the Middle East this morning. Egypt joins Palestinian Authority President Mahmoud Abbas in condemning the latest deadly round of Israeli air strikes in the West Bank. At least seven people were killed, nearly two dozen others were injured. An Israeli military spokesman claims the strikes are an effort to target terrorist infrastructure with roots to Iran.Now, the strikes are centered on an area of a refugee camp. The Israeli military calls that area the hornet's nest, where dozens of shooting attacks against Israel have originated. We're going to take you live to Jerusalem next hour.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:02",
+      "speaker": "MATTINGLY",
+      "sentences": "Well, coming up again, what's behind Elon Musk's move to limit the amount of tweets you can read on Twitter? Audie, you have all the answers, right?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:02",
+      "speaker": "CORNISH",
+      "sentences": "My mental health probably, yes, I would say.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:19",
+      "speaker": "CORNISH",
+      "sentences": "Slow your scroll? Elon Musk said over the weekend that Twitter will limit, at least temporarily, the number of posts you can read. He claims it's an effort to address extreme levels of data scraping. So, verified accounts, limited to 10,000 posts per day. Unverified accounts, 1,000 per day.Now, this was revealed after thousands of users complained that they were unable or had trouble accessing the site. Many reported getting messages that they had exceeded their rate limit. So, what is behind this latest turmoil for the company? CNN's senior media analyst Sara Fischer joins us. She's also senior media reporter at \"Axios.\" And, Sara, what gives? What now with him?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:19",
+      "speaker": "SARA FISCHER, CNN SENIOR MEDIA ANALYST",
+      "sentences": "There's always something, Audie, right?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:19",
+      "speaker": "CORNISH",
+      "sentences": "Yes, there is.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:19",
+      "speaker": "FISCHER",
+      "sentences": "It never is a dull day in Elon Musk land.You know, I think this is a response to the rise of a lot of big AI platforms that are starting to scrape big social media platforms for data to help train their algorithms. You saw Reddit, a few weeks ago, said that they would start charging developers for some of that backend access. They got a lot of push back from their community. It seems like Elon Musk is trying to do something similar. But the difference, Audie, is that this is going to have a huge impact on the everyday user's experience with Twitter. You saw some people tweeting frustration yesterday - ironically tweeting frustration about Twitter -- that they weren't able to get severe weather updates, critical news and information because they were being limited to the number of posts that they were able to view. Now, Elon Musk has not said how long he's going to implement this temporary crackdown. But I do know that it's going to be frustrating for advertisers because they're reliant on heavy usage in order to fulfill their ad campaigns, make sure they have enough people watching and reading tweets in order to insert their ads between them.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:19",
+      "speaker": "CORNISH",
+      "sentences": "Theoretically reliant on them for business. But one quick fact check, what's this about maybe him not paying his bills. Can you talk about what's going on there?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:19",
+      "speaker": "FISCHER",
+      "sentences": "There have been so many reports, whether it's been some of its b to b vendors or its licensing or its leases, if you will, that Twitter has struggled to pay its bills. And that's because Twitter is really struggling with profitability right now.Now, to be honest, Twitter has always struggled with profitability, even before Elon Musk took over. But the difference is that they are not a publicly traded company. They do not need to be transparent about their finances, what money they're bringing in and what money they're spending. And so it seems like the company is just in this sort of chaotic spot where it's trying to stay afloat, but it's not necessarily doing it in the most transparent way. We keep getting reports, not also just about not paying bills, but they're still in litigation with former employees about paying out severances, et cetera. So, expect Twitter to continue to be in this sort of financial chaos until maybe they can turn the platform around. But I'm still skeptical, Audie. Even though they have, you know, put in a new chief executive, this platform continues to be chaos as I cover it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:19",
+      "speaker": "MATTINGLY",
+      "sentences": "All right, Sara, stay with us. I want to bring Shelby and Errol back in.You're so jealous that you didn't write the slow your scroll line, aren't you?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:19",
+      "speaker": "CORNISH",
+      "sentences": "Slow your scroll.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:19",
+      "speaker": "MATTINGLY",
+      "sentences": "Like, that's a podcast worthy type copy right there.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:19",
+      "speaker": "CORNISH",
+      "sentences": "Yes. MATTINGLY",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:19",
+      "speaker": "ERROL LOUIS, CNN POLITICAL COMMENTATOR",
+      "sentences": "Well, it's not going to be pretty. The -- at this point the estimate is that, under Elon Musk the company has lost two thirds of its value. He paid $44 billion for it. It's worth something like $15 billion.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:19",
+      "speaker": "MATTINGLY",
+      "sentences": "And that's not good, right? I'm just going to -",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:19",
+      "speaker": "LOUIS",
+      "sentences": "Right. Right. Right. Not good.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:19",
+      "speaker": "MATTINGLY",
+      "sentences": "(INAUDIBLE) a billion.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:19",
+      "speaker": "CORNISH",
+      "sentences": "The b, the billion.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:19",
+      "speaker": "LOUIS",
+      "sentences": "The number is supposed to go in the other direction.The fact that advertisers and important users, like the National Weather Service and others are saying like this - this may not be for us. The algorithm is - it's still sort of promotes and favors, you know, kind of anger and division and outrage, making it a much less pleasant user experience for everybody who's left on it. And then this idea that you're going to get out of it by paying eight bucks, which has just been roundly rejected. They've got very, very few subscribers, even among their daily users. So, they're - they're -- as a business, it's just - it just seems to be falling apart. Now, it's got a lot of sort of potential. It's got a lot of residual affection. It's got a lot of users. I use it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:45:06",
+      "speaker": "MATTINGLY",
+      "sentences": "Hey, Sara, with the time we have left, I mean, from a business perspective, from a Linda Yaccarino perspective, do they -- when you talk to both people inside the company but also analysts outside, is there a pathway that exists here to kind of get them out of this just constant state of tumult and seeming collapse followed by resuscitation followed by some new strategy that I can't figure out?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:45:06",
+      "speaker": "TALCOTT",
+      "sentences": "There is a pathway. One of the things that you're going to hear internally a lot is that Linda brings assurance to the talent inside. There's still some people who are great salespeople, who are great engineers that want just guidance and direction and some assurance that things aren't going to change that much and they're hoping that Linda will bring some consistency.But from the outside world, the perspective of the advertisers and marketers, I just spent a good week with them at a big, you know, advertising festival overseas. And the thing that you keep hearing is that Twitter is still the most relevant public square for discourse. You have Meta, which is the parent company of Instagram and Facebook, that's trying to build out a rival. You have small budding rivals like Mastodon and Bluesky. But, at the end of the day, Twitter is still the biggest public square in the world. And so if Elon Musk can figure this out, there's definitely a product case to be made for it being relevant. I'm just not quite sure, quite frankly, if he's going to be able to do it and keep Linda Yaccarino at his side and she doesn't get too frustrated and just leave.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:45:06",
+      "speaker": "MATTINGLY",
+      "sentences": "Yes, it's fascinating to watch it all play out.Sara, thanks, as always, for the great reporting. Errol Louis, Shelby Talcott, we're not letting you leave. You get to - you get to keep hanging out, whether you like it or not.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:45:06",
+      "speaker": "CORNISH",
+      "sentences": "Let's bring them coffees maybe.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:51:15",
+      "speaker": "CORNISH",
+      "sentences": "Good news for the grill masters gearing up for Independence Day cookouts. According to new data from the American Farm Bureau Federation, your holiday cookout could cost you less this year.CNN business reporter Nathaniel Meyersohn took a closer look at the numbers. Nathaniel, welcome back. So, what do you mean by affordable in this inflationary period?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:51:15",
+      "speaker": "NATHANIEL MEYERSOHN, CNN BUSINESS REPORTER",
+      "sentences": "Right. So we are excited for our Fourth of July cookouts. Phil said he's buying for everybody.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:51:15",
+      "speaker": "MATTINGLY",
+      "sentences": "Wait, what? I did not.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:51:15",
+      "speaker": "CORNISH",
+      "sentences": "No.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:51:15",
+      "speaker": "MATTINGLY",
+      "sentences": "No. That's not -",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:51:15",
+      "speaker": "MEYERSOHN",
+      "sentences": "So, party of 10, it's going to cost us about $68 this year. So, that's cheaper than last year, down 3 percent. But it's still more expensive than it was in 2021, up 14 percent. So, we see inflation starting to slow down, but we're still paying much more than we were a couple of years ago.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:51:15",
+      "speaker": "MATTINGLY",
+      "sentences": "All right, so I'm walking through Giant to buy mass items for the entire team since now you've volunteered me to do that. What am I going to save money on? What am I not?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:51:15",
+      "speaker": "MEYERSOHN",
+      "sentences": "All right, Phil. So, beef prices, burgers are up about 4 percent.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:51:15",
+      "speaker": "MATTINGLY",
+      "sentences": "OK.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:51:15",
+      "speaker": "MEYERSOHN",
+      "sentences": "You definitely want to stay away from hamburger buns, up 17 percent from a year ago. Chicken could be a good option, down about 9 percent. And then stock up on the lemonade, down 16 percent from a year ago. So, beef a little costlier, chicken down, stock up on the lemonade.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:51:15",
+      "speaker": "CORNISH",
+      "sentences": "That's so wrong on the buns. Is this like a gluten free situation?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:51:15",
+      "speaker": "MEYERSOHN",
+      "sentences": "Yes, we're going to have to do gluten free this year.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:51:15",
+      "speaker": "CORNISH",
+      "sentences": "It's not Fourth of July with fireworks, of course. Tell us what's going on. What does the data show.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:51:15",
+      "speaker": "MEYERSOHN",
+      "sentences": "Yes, so people are really spending on fireworks. Estimated about $2.4 billion this year on fireworks. That's up from $2.2 billion just a couple years ago. And then look at this, pre-pandemic, just about a billion dollars. So, we've more than doubled our spending on fireworks. Everybody be careful out there tomorrow night. Enjoy the fireworks.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:51:15",
+      "speaker": "MATTINGLY",
+      "sentences": "I'm pro safety, but I'm afraid that like a billion of those dollars are like my buddies from college.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:51:15",
+      "speaker": "MEYERSOHN",
+      "sentences": "Sure.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:51:15",
+      "speaker": "CORNISH",
+      "sentences": "Well, I remember during the pandemic, in 2020, we would hear fireworks going on in many cities. It just felt like people got more used to handling them, let's say.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:51:15",
+      "speaker": "MEYERSOHN",
+      "sentences": "Not good for the dogs, though. CORNISH",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:51:15",
+      "speaker": "MATTINGLY",
+      "sentences": "No, terrible for the dogs.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:51:15",
+      "speaker": "CORNISH",
+      "sentences": "Nathaniel, thank you so much. Have a good holiday.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:51:15",
+      "speaker": "MATTINGLY",
+      "sentences": "Thanks, buddy.All right, a programming note. CNN's July Fourth special, it returns. And, of course, it will have an all-star lineup. Watch CNN's \"The Fourth in America,\" live tomorrow night. It starts at 7:00 a.m. - 7:00 a.m. - 7:00 p.m. Eastern.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:51:15",
+      "speaker": "CORNISH",
+      "sentences": "Not everyone is on this schedule.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:51:15",
+      "speaker": "MATTINGLY",
+      "sentences": "Yes, but watch it. It will be great.All right. Well, also this morning, more than 7,000 flights were delayed Sunday because of severe weather. Ahead, what the numbers are looking like right now.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:58:23",
+      "speaker": "MATTINGLY",
+      "sentences": "Welcome back.Today inspectors from the North Carolina Department of Labor will be on site at the Carowinds Amusement Park after a crack was discovered in one of its roller coasters. Now, park officials say the crack was spotted in one of the support pillars of the Fury 325, dubbed by the park as one of the tallest and longest rides in north, yet you can see it right there. I'm not an expert on these things. Seems not great. This particular roller coaster has a drop between 300 and 399 feet. It reaches up to 95 miles per hour. The ride will remain closed until inspections and repairs are made.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:58:23",
+      "speaker": "CORNISH",
+      "sentences": "Yes. Yes. Yea they caught it. Pass for me.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:58:23",
+      "speaker": "MATTINGLY",
+      "sentences": "I mean, yea, the huge crack, good job seeing that.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:58:23",
+      "speaker": "CORNISH",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:58:23",
+      "speaker": "MATTINGLY",
+      "sentences": "Are you a roller coaster person?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:58:23",
+      "speaker": "CORNISH",
+      "sentences": "I am not now after that. I think I'll take a break.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:58:23",
+      "speaker": "MATTINGLY",
+      "sentences": "You ever been to Cedar Point? Cedar Point is a - like the best place in the history of America.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:58:23",
+      "speaker": "CORNISH",
+      "sentences": "I like wooden roller coasters. It feels high stakes but it's actually (INAUDIBLE).",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:58:23",
+      "speaker": "MATTINGLY",
+      "sentences": "Do you want to talk about Ohio? That's Cedar Point.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:58:23",
+      "speaker": "CORNISH",
+      "sentences": "We - we can't - oh, really?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:58:23",
+      "speaker": "MATTINGLY",
+      "sentences": "We can just talk about Ohio for the next two hours.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:58:23",
+      "speaker": "CORNISH",
+      "sentences": "Oh, you're an Ohio person?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:58:23",
+      "speaker": "MATTINGLY",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:58:23",
+      "speaker": "CORNISH",
+      "sentences": "OK.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:58:23",
+      "speaker": "MATTINGLY",
+      "sentences": "Why did you - you - that was very dismissive how you framed that.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:58:23",
+      "speaker": "CORNISH",
+      "sentences": "It just means we're going to talk about Ohio a lot.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:58:23",
+      "speaker": "MATTINGLY",
+      "sentences": "Cedar Point is the best roller coaster park in the world, unquestionably. And I don't appreciate that dismissive attitudes towards Ohio.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:58:23",
+      "speaker": "CORNISH",
+      "sentences": "Yes. Uh-huh. OK.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:58:23",
+      "speaker": "MATTINGLY",
+      "sentences": "And I hate the Red Sox, too. So, can we talk about Boston.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:58:23",
+      "speaker": "CORNISH",
+      "sentences": "Oh, no.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:58:23",
+      "speaker": "MATTINGLY",
+      "sentences": "You're - sorry, we're stuck together for another couple of hours.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:58:23",
+      "speaker": "CORNISH",
+      "sentences": "When does this show start again?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:58:23",
+      "speaker": "MATTINGLY",
+      "sentences": "Right about, CNN THIS MORNING, it's going to continue right now.(BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:58:23",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "This is about people who cowardly decide to come to a celebration and shoot it up.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:58:23",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "Police say it was shortly after midnight that gunshots rang out. We spoke to people here who said they ran for cover.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:01",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "This is insanity. This cannot be the society that we are expected to live in.",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

@@ -1,0 +1,667 @@
+{
+  "date": "2023-01-22",
+  "headline": "CNN This Morning",
+  "subHeadline": "At Least Nine Dead In Shooting In Monterey Park, California; FBI Search Turns Up More Classified Documents At Biden's Home; Ron Klain Expected To Step Down As Biden's White House Chief Of Staff; Buckingham Palace Releases Details About Coronation. Aired 6-7a ET",
+  "utterances": [
+    {
+      "timeStamp": "06:00:24",
+      "speaker": "ANNOUNCER",
+      "sentences": "This is CNN breaking news.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:24",
+      "speaker": "AMARA WALKER, CNN ANCHOR",
+      "sentences": "Good morning, everyone. Thanks for being with us. It is Sunday, January 22nd. I'm Amara Walker.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:24",
+      "speaker": "BORIS SANCHEZ, CNN ANCHOR",
+      "sentences": "And I'm Boris Sanchez. Thank you so much for sharing part of your morning with us.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:24",
+      "speaker": "WALKER",
+      "sentences": "And we do begin with breaking news out of California where we are learning that at least nine people are dead after a shooting in Monterey Park. This is a suburb just east of Los Angeles.Let's get right to CNN national correspondent Camila Bernal. She is on the scene this morning. Camila, it's very early in the investigation, but what do we know right now?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:24",
+      "speaker": "CAMILA BERNAL, CNN NATIONAL CORRESPONDENT",
+      "sentences": "Yes, Amara, Boris. Good morning. Information is very limited, but as you mentioned we just got confirmation from the L.A. County Sheriff's Department that nine people have been killed. We know this shooting happened at around 10There are homicide detectives on the scene already. And we also know from the sheriff's department that the suspect is a man. We do not know whether or not that suspect is in custody or they're still looking for that person because, again, information has been extremely limited from authorities. We have been waiting for a couple of hours now to get that information. And there is someone here from the sheriff's department that is expected to talk to the media fairly soon. So we are waiting for that information. The streets in this area are blocked off. There is, of course, a lot of police in the area blocking off the streets. And we know that there are homicide detectives in the area as well that we got confirmation about that from the sheriff's department. Now, we do know that yesterday there were many Chinese Lunar New Year celebrations. More were expected today. So, that's sort of the scene in terms of what was happening last night and what was expected to happen throughout the day, but again, nine people have been killed. We do not know if any others were injured. And we are waiting for that confirmation from authorities right now. Amara, Boris.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:24",
+      "speaker": "SANCHEZ",
+      "sentences": "And we will be watching to hear from law enforcement as soon as they come to the microphones, we will bring that to you live. Camila Bernal, please stand by in Monterey Park, California.Let's bring in Juliette Kayyem. She is a CNN national security analyst and a former assistant secretary at the Department of Homeland Security. Juliette, as always, appreciate having you on. Unfortunate that it's often under these circumstances. So, you're hearing these details. There is a male suspect. It's unknown whether he's on the run or in custody. Nine people killed in this downtown neighborhood, a suburb of L.A. What stands out to you given those details?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:24",
+      "speaker": "JULIETTE KAYYEM, CNN NATIONAL SECURITY ANALYST",
+      "sentences": "So right now what we know, three things stand out to me. The first is, of course, events around the Lunar New Year, anyone who has done celebration like this or been to one, it's quite chaotic and noisy and difficult to know what's going on in real time. So, as we saw the evening unfold, it wasn't even clear where the mass shooting was. Was it at the parade or at a club? And so we'll get details like that.But that's a chosen target because of the confusion factor. You're just going to get sort of mass response and a lack of clarity. So we'll wait for that. The second is, of course, anything around the Chinese Lunar New Year or Chinatown, it is not speculation, but one of the questions will be, what is the motivation for this mass shooting? Was the assailant known to the victims? Or it is possible that this would be a hate attack that someone came in to a celebration known to bring out lots of Chinese-Americans and other Asian-Americans. The third is this will have, unlike many of our mass shootings, international implications because of the nexus between China, Asia and our Chinese and Asian-American communities. And so, I anticipate that we will hear from foreign countries as well about, you know, the impact on their community as well and what it means in terms of violence in America. So that's what we can talk about right now until we get more details.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:24",
+      "speaker": "WALKER",
+      "sentences": "Yes, Juliette, you bring up some interesting points, right? And I do want to give the context around Monterey Park. Again, it is a suburb outside --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:24",
+      "speaker": "KAYYEM",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:24",
+      "speaker": "WALKER",
+      "sentences": "-- of Los Angeles, but it has a majority Asian population. The last 2022 --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:00:24",
+      "speaker": "KAYYEM",
+      "sentences": "Exactly. WALKER",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:01",
+      "speaker": "KAYYEM",
+      "sentences": "Oh, yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:01",
+      "speaker": "WALKER",
+      "sentences": "And this is a huge family event. Like you said, a huge Chinese population that turns out. But, of course, a lot of East Asians, including Koreans who --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:01",
+      "speaker": "KAYYEM",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:01",
+      "speaker": "WALKER",
+      "sentences": "-- celebrate this New Year festival. So in terms of, you know, this happening, the venue, I mean, this happened in an area where you had families converging to --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:01",
+      "speaker": "KAYYEM",
+      "sentences": "Exactly.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:01",
+      "speaker": "WALKER",
+      "sentences": "-- celebrate this cultural event.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:01",
+      "speaker": "KAYYEM",
+      "sentences": "Exactly. So, and I am from Los Angeles, I'm close to that area, so I know that area well. You wouldn't have to do much research to know that this would be a festival that was majority representing the population, which as you said is not just Chinese Lunar New Year but celebrated by many communities. And that's what I'm talking about in terms of this likely foreign policy or foreign relations impact we will probably hear from many foreign countries.This is more -- I view this more like the July 4th shooting in terms of there's a celebration for a community. That community is out and about with their family. It lasts a long time, so from -- you know, during the daytime there's lots of kids. In the evening, there is lots of partying. We know that. And younger people will stay later and celebrate. So, the hours that you describe are just the hours of the known festival. But of course, more is going on. So, we don't know the ages of the victims or who, in fact, they are yet. But you're exactly right. This would have been a known family community event, much like July 4th events are.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:01",
+      "speaker": "WALKER",
+      "sentences": "Right. You're right. A lot of people probably celebrating after. Again, this happening on Garvey Avenue, according to law enforcement. This is the downtown area of Monterey Park, so perhaps after this Lunar New Year parade and celebration, people were hanging out at these, you know, restaurants and clubs and, you know, what have you there.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:01",
+      "speaker": "KAYYEM",
+      "sentences": "Exactly.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:01",
+      "speaker": "WALKER",
+      "sentences": "And again, it's a huge hub of Asian-American restaurants and such. We really appreciate you joining us, Juliette Kayyem. But, again, we are following this breaking news story of nine people who are now dead according to the L.A. County Sheriff's Department. We will learn more about this investigation, but we do know there is a suspect, a male, that they are currently -- I don't know if they're searching for, but they say the suspect is believed to be male.We'll leave it there. Juliette Kayyem, thank you so much. Of course, we'll keep you updated once we get more information on this. All right. Turning now to politics. And more documents, more questions and more headaches for President Biden. An FBI search turning up additional classified material at the president's Wilmington, Delaware home.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:01",
+      "speaker": "SANCHEZ",
+      "sentences": "Yes, President Biden's personal attorney says that agents searched the home on Friday for almost 13 hours discovering six items consisting of documents with classified markings. One day earlier, on Thursday, the president downplayed the controversy.(BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:01",
+      "speaker": "JOE BIDEN, PRESIDENT OF THE UNITED STATES",
+      "sentences": "We're fully cooperating and looking forward to getting this resolved quickly. I think you're going to find there's nothing there. I have no regrets. I am following what the lawyers have told me they want me to do. It's exactly what we're doing. There's no there, there.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:01",
+      "speaker": "WALKER",
+      "sentences": "\"There's no there, there.\" Well, Republicans who are now in control of the House were quick to react. A tweet from the account of the House Oversight Committee led by Congressman James Comer said this, \"Biden's White House claimed all classified documents were turned over. Now the Justice Department found more. Is the scavenger hunt over? Americans need answers now.\"",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:05:01",
+      "speaker": "SANCHEZ",
+      "sentences": "Let's go to White House reporter Jasmine Wright who joins us now live. And, Jasmine, the president's attorney revealed that some of the documents that were discovered go back to Biden's time in the U.S. Senate. They are more than a decade old.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:10:02",
+      "speaker": "SANCHEZ",
+      "sentences": "Yes. The pace of these revelations, Jasmine, has to be frustrating for a White House that wants to put forward messaging that this is behind them, that it's business as usual, but obviously that messaging keeps going back to the fact that more things are being discovered. Jasmine Wright, thank you so much.Let's get more analysis now. Let's bring in \"The New Republic\" senior political correspondent Daniel Strauss. Daniel, thank you so much for getting up bright and early for us on a Sunday. Just right off the bat, your reaction to more classified documents being found at Biden's Wilmington home?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:10:02",
+      "speaker": "DANIEL STRAUSS, SENIOR POLITICAL CORRESPONDENT, THE NEW REPUBLIC",
+      "sentences": "I mean, it's not good for the Biden team. This is sort of the worst case scenario as this search and this investigation goes forward.It's been pretty clear from the beginning that this White House has sought to differentiate itself from the Trump team over the classified documents found on Trump's property. The Biden team has been working very hard to show that they did nothing wrong, that they have cooperated with investigators and that this is far more minor than Trump. It's in sort of a comical twist and turns these documents keep showing up. And actually news of this came out the same afternoon that news broke that Biden's chief of staff plans to leave in the coming weeks, all of which paints a pretty broad picture of a White House that where there's a lot of changes going on, a lot of confusion happening right now and that's never ideal for any administration.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:15:02",
+      "speaker": "STRAUSS",
+      "sentences": "Yes, sure. And this White House is clearly frustrated privately, even though publicly they have tried to exude an air of calm and just sort of going through the motions here. But obviously the fact that these keep coming out, that this drip, drip keeps happening and no one can turn off the metaphorical faucet is not good. And it is something that the Biden White House wants to turn the page on very quickly.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:15:02",
+      "speaker": "SANCHEZ",
+      "sentences": "Hey, Daniel, I just want to point out for our viewers it appears that we are soon to get an update on that mass shooting in California. As soon as it starts, we're going to bring it to you live. But I just wanted to give our viewers a heads up because that is on the screen.So, Daniel, going back to the classified material, this is a boost for House Republicans that are seeking investigations into the Biden administration, even as the White House paints them as frivolous and just based on messaging, right?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:15:02",
+      "speaker": "STRAUSS",
+      "sentences": "Yes, somewhat. It's not -- it's not like the game changer I think that Republicans will make it out to be, simply because the last Republican president also has a very similar situation in this regard. But definitely nullifies a big criticism that Democrats were hoping to use going into the 2024 presidential cycle, if and when Donald Trump sort of ascended to the lead of the Republican primary field.But yes, at the same time, this is a rallying cry for the Republicans. And investigations and sort of painting this White House as corrupt in some way is really the only thing House Speaker Kevin McCarthy has to keep his caucus together. So, as long as he can keep the various desperate factions investigating Hunter Biden, investigating the withdrawal from Afghanistan, investigating all these top secret documents at Biden's home, that keeps -- I mean, they feel, he feels that this keeps Republicans from in-fighting and sparring with each other.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:15:02",
+      "speaker": "SANCHEZ",
+      "sentences": "Daniel, I did want to pick your brain on what you noted earlier, President Biden's chief of staff, Ron Klain, departing the administration after two years. It is a notable departure because he has played such a pivotal role in this administration. And as he wrote on Twitter, I believe, on Friday, the White House has come a long way from taking over after dealing with January 6th and the turnaround from COVID and an economy that at times struggled to overcome inflation. Overall when you look back at his tenure as chief of staff, how would you reflect on it?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:15:02",
+      "speaker": "STRAUSS",
+      "sentences": "I mean, he's been one of the more visible chiefs of staff from the White House in recent memory. And it also has been an important role for this White House as I think contrary to what Joe Biden pictured a presidency where he was president would be like, it's been a very progressive administration. And Klain has opted to be sort of the liaison to the left wing of the Democratic Party.It's also notable that Klain is one of the longest serving chiefs of staff in American history. And aides for a while now have pushed back on suspicions or just the prospect of him leaving. He's a pretty popular chief of staff in the White House. It's also hard to suss out those things, but it's very -- even privately, there's sort of lockstep support among most of White House staff toward him. So, the change is somewhat usual but at the same time it's significant. It also comes at a time where the administration and its major focus have changed from when Klain first became chief of staff. It's not so much stabilizing the country and moving on from January 6th and the Trump administration, it's executing the Biden agenda and preparing for his re-election fight.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:15:02",
+      "speaker": "SANCHEZ",
+      "sentences": "Daniel Strauss, as always, we appreciate the time. Thanks so much.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:15:02",
+      "speaker": "STRAUSS",
+      "sentences": "Thanks so much.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:25:05",
+      "speaker": "WALKER",
+      "sentences": "But still no word about the role Prince Harry will have during the ceremony, or if he'll even be in attendance. For more now joining me is CNN commentator Sally Bedell Smith. She is the author of \"Elizabeth the Queen, The Life of a Modern Monarch.\" Good morning to you. Thank you so much, Sally, for joining us.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:25:05",
+      "speaker": "SALLY BEDELL SMITH, CNN COMMENTATOR",
+      "sentences": "Good morning.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:25:05",
+      "speaker": "WALKER",
+      "sentences": "Good morning. The event is said to be more subdued, less extravagant than Queen Elizabeth's ceremony 70 years ago but tens of thousands are still expected to gather on the streets of London. What should people expect? And this is part of Charles' desire to be the people's king.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:25:05",
+      "speaker": "SMITH",
+      "sentences": "Well, I think he is very much putting his stamp on this. I mean, obviously the coronation ceremony itself will be very solemn and majestic and religious and he will -- I mean, we already know that it's going to be shorter than it was for his mother and his grandfather.His grandfather was -- went through his coronation in 1937 in the middle of the depression. His mother went through her coronation in 1953 when Britain was emerging from a very difficult time following World War II. And so, I think he's also very mindful that Britain is not in great shape right now with rampant inflation and, you know, everybody concerned about the cost of living. So, on the other hand, he wants to project the majesty and the tradition that are part of the coronation ceremony. And so he has added on these two extra days which, I think, are very imaginative because what he really wants to do is to project or to embrace the idea that Britain is a very different place. It is very diverse and it's just has so many more segments to the society that need to be recognized. And at the same time, he wants to do a sort of big, spectacular celebration that is following the coronation itself. And you know, the hallmark of his time as Prince of Wales has been an effort to build communities, to encourage diversity and inclusiveness, whether it was in urban areas or rural areas. And I think he's very wise and very imaginative actually to be including these aspects in the following days. There's a whole day on Monday that's going to be devoted to promoting volunteer work. And he is bringing together in the concert on Sunday choirs that represent LBGTQ members of the NHS, you know, all people in society that really he wants to recognize.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:25:05",
+      "speaker": "WALKER",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:25:05",
+      "speaker": "SMITH",
+      "sentences": "So, you know, what he's doing is really extending a lot of enterprises that he became known for as Prince of Wales. And he is using them to define his own reign.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:25:05",
+      "speaker": "WALKER",
+      "sentences": "Yes. Putting definitely putting his mark on it. Sally Bedell Smith, we're going to leave it there. Thank you very much for your time.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:25:05",
+      "speaker": "SMITH",
+      "sentences": "You're welcome.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:30:00",
+      "speaker": "SANCHEZ",
+      "sentences": "We're following breaking news this morning near Los Angeles where officials say at least nine people were killed in a mass shooting. They have not provided many details on exactly what happened. We understand the suspect is a male, that the shooting took place at roughly 10",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:30:00",
+      "speaker": "WALKER",
+      "sentences": "You can see the screen, the little box there on the left of your screen where we are expecting to hear from law enforcement officials very soon. But just to give it some context, Monterey Park, a suburb just east of Los Angeles, this mass shooting happening just after a very large yearly Lunar New Year celebration wrapped up in downtown Monterey Park.And just reading on the Monterey Park website regarding its lunar new year celebrations, in the past it has drawn crowds of over 100,000 people. That Lunar New Year celebration wrapped up at 9:00 p.m. according to this website, Monterey Park, California's website. And this mass shooting happened around 10:30. Again, this is in the downtown area. We know that this is by the way a part of Los Angeles with a huge Asian population. The census reading -- the census reading, the most recent one, 65 percent Asian-American. So of course, it begs the question regarding the motive. This is a community that's been traumatized over the past couple of years since the pandemic with this wave of anti-Asian hate that we have seen. Again, we don't know the motive. We don't know if the suspect is being sought after. We just know that the suspect is male. But again, this happening in Monterey Park, California at -- after 10:30, around 10:30 in the evening. So, we're going to keep tabs on this. And of course, when law enforcement officials give that news conference, we will bring that to you as soon as we can.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:33",
+      "speaker": "SANCHEZ",
+      "sentences": "Yes, the Avenger's star says he broke more than two dozen bones after trying to stop that rolling vehicle. And now, for the first time we're hearing the 911 call moments after the incident. CNN's Chloe Melas has more.CHLOE MELAS, CNN CORRESPONDENT (on camera): Boris and Amara, Jeremy Renner taking to Instagram with an update for his fans, revealing that he broke 30 bones in that accident that took place when his snowplow ran over him. You know, just the other day we heard a little bit of that 911 call. And I want you guys to take a listen to that. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:33",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "How is he doing?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:33",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Shallow breaths.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:33",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "OK.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:33",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "A lot of pain. He's conscious.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:33",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "OK.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:33",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "We have him covered in blankets, his head is covered. And we drifting off.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:33",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "Is he starting to kind of drift off into sleep?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:33",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "He's still breathing.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:33",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Yes. Stay awake.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:35:33",
+      "speaker": "MELAS",
+      "sentences": "At one point in that 911 call, you hear the person who is calling saying that he was crushed by the snowplow. We know that it's over 14,000 pounds. He had been using it to actually move a car that got stuck in his driveway. He's been posting for years using this machinery. We know he's used to using it. But again, we know that he jumped on to the snowplow because it started to roll. And that's when he fell off and this tragic accident occurred.We know it's going to be a long road to recovery for him, but he has been posting updates on social media. And thankfully, he is alive and he is going to be OK. But such a scary, scary incident. Back to you, Boris and Amara.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:00",
+      "speaker": "SANCHEZ",
+      "sentences": "Welcome back to CNN THIS MORNING. We are anticipating word from law enforcement at any moment, an update on this deadly mass shooting in Monterey Park, California. It appears that law enforcement is approaching the microphone as we speak right now. At least nine people killed there, Amara.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:00",
+      "speaker": "WALKER",
+      "sentences": "Yes, let's listen in.(BEGIN VIDEOTAPE) ANDREW MEYER, HOMICIDE BUREAU, LOS ANGELES COUNTY SHERIFF'S DEPARTMENT: Good evening, everybody. I'm Captain Andrew Meyer, from Sheriff's Homicide. I'm here to talk to you about the mass shooting incident that occurred here in the city of Monterey Park. This evening or last night actually, at approximately 10:22 p.m., officers from the Monterey Park Police Department responded to a local business in the 100 block of West Garvey Avenue in the city of Monterey Park regarding shots fired call. When officers arrived on scene, they observed numerous individuals, patrons of the location pouring out of the location screaming. The officers made entry to the location and located additional victims. The Monterey Park Police -- Fire Department responded to the scene and treated the injured and pronounced ten of the victims deceased at the scene. There are at least ten additional victims that were transported to numerous local hospitals and are listed in various conditions from stable to critical. The suspect fled the scene and remains outstanding. Anyone with information regarding this incident, we're asking them to call L.A. Sheriff's Homicide at 323-890-5500 or if you prefer to remain anonymous, you can call Crime Stoppers at 800-222- 8477. Homicide Bureau is working closely with Chief Scott Wiese and his agency at the Monterey Park Police Department. We're working with the California Governor's Office of Emergency Services, the Federal Bureau of Investigation L.A. Office, and numerous other law enforcement agencies. With that, I'll take limited amount of questions. Anybody?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "(INAUDIBLE).",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:00",
+      "speaker": "MEYER",
+      "sentences": "No, sir. As far as motive goes, it's too early in the investigation to know what the motive is.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Is there any description of the suspect?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "(INAUDIBLE) generic description of a male suspect? (INAUDIBLE).",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:00",
+      "speaker": "MEYER",
+      "sentences": "No, sir, not at this time. No description on a suspect at this time.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "(INAUDIBLE).",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:00",
+      "speaker": "MEYER",
+      "sentences": "All I can tell you is that it was a firearm that was used and no other information on as far as the firearm right now.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "(INAUDIBLE).MEYER\" The suspect is outstanding. That's correct.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "(INAUDIBLE).",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:00",
+      "speaker": "MEYER",
+      "sentences": "The location is -- there was a ballroom, like a ballroom dance location.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:00",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "Was there a second location as well?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:40:00",
+      "speaker": "MEYER",
+      "sentences": "We're aware of an incident that occurred in Alhambra and we have investigations on scene trying to determine if there's a connection between these two incidents.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:45:06",
+      "speaker": "MEYER",
+      "sentences": "So, we're -- the investigators are working every lead on this case. Obviously, we have all our resources here, a limited amount of resources. We have resources from various law enforcement agencies. We're reviewing all surveillance video, any surveillance video following all leads. So, we're not going to leave anything unturned.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:45:06",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "(INAUDIBLE).",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:45:06",
+      "speaker": "MEYER",
+      "sentences": "No, not at this time. It's preliminary. We will have more information. As more information becomes available regarding the suspect, we'll put that information out to you guys.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:45:06",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "(INAUDIBLE).",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:45:06",
+      "speaker": "MEYER",
+      "sentences": "Yes, sir. We have ten that are deceased at the scene. And additional, we believe at least ten at local hospitals.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:45:06",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "(INAUDIBLE).",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:45:06",
+      "speaker": "MEYER",
+      "sentences": "Everywhere -- anywhere from critical to stable.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:45:06",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "(INAUDIBLE).",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:45:06",
+      "speaker": "MEYER",
+      "sentences": "As far as the suspect knowing any of the victims, it's too early in the investigation. We do not know that information at this time.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:45:06",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "(INAUDIBLE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:45:06",
+      "speaker": "MEYER",
+      "sentences": "That's -- yes, we don't know if it's targeted.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:45:06",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Do you know anything about the victims of how old they are?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:45:06",
+      "speaker": "MEYER",
+      "sentences": "No, we don't know how old they are. I'll just take two more questions and that's it. We will update you guys further. This is just a preliminary briefing. We're going to have a lot more information to share with you in the -- in the future -- in the coming hours.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:45:06",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "At the second location, we heard reports of possibly civilians disarmed a possible suspect.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:45:06",
+      "speaker": "MEYER",
+      "sentences": "That's something we're investigating. And we'll have additional information about that.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:45:06",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "(INAUDIBLE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:45:06",
+      "speaker": "MEYER",
+      "sentences": "We will look at every angle as far as -- whether it's a hate crime or not. It's just too early in the investigation to know whether this incident was a hate crime or not.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:45:06",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "Is the festival canceled tomorrow or is it still going on?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:45:06",
+      "speaker": "MEYER",
+      "sentences": "You know, I'm going to have the chief answer that question. Chief?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:45:06",
+      "speaker": "SCOTT WIESE, CHIEF, MONTEREY PARK POLICE DEPARTMENT",
+      "sentences": "Sure. The festival that occurred Saturday also extended to Sunday, out of an abundance of caution and reverence for the victims, we are canceling the event that's going to happen later today. So, the lunar festival here in Monterey Park has been canceled.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:45:06",
+      "speaker": "MEYER",
+      "sentences": "Just two more questions.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:45:06",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "Do you know if anyone was injured at the second shooting location?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:45:06",
+      "speaker": "MEYER",
+      "sentences": "No, not that I'm aware of. I'm not sure if there's any injuries or not. We're still investigating. Any -- one other question?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:45:06",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "(INAUDIBLE).",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:45:06",
+      "speaker": "MEYER",
+      "sentences": "Within the next few hours, yes. Thank you, everybody.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:45:06",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Can you say your name?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:45:06",
+      "speaker": "MEYER",
+      "sentences": "Sure. Andrew Meyer.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:45:06",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Could you spell Meyer?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:45:06",
+      "speaker": "MEYER",
+      "sentences": "Sure. M-E-Y-E-R.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:45:06",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "Title?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:45:06",
+      "speaker": "MEYER",
+      "sentences": "Captain, L.A. Sheriff's Homicide. Thank you, everybody.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:45:06",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Thank you.(END VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:45:06",
+      "speaker": "WALKER",
+      "sentences": "OK, so we just heard an update from the L.A. County Sheriff's Department. So, the new numbers -- and I hate to say numbers because these are humans, these are people who had lives, ten people dead in this mass shooting in Monterey Park, California. This is just east of Los Angeles, a suburb there. We know that there are ten additional victims, according to police who have been taken to the hospital. Their injuries ranging -- just taking the range as some in stable, some in critical condition. And we know that there is a suspect, the gunman, who is now on the run.Of course, a lot of questions about the motive, as you heard from reporters there on the ground. I want to bring in Juliette Kayyem, a CNN National Security Analyst, a former assistant secretary at the Department of Homeland Security. Look, Juliette, it's too early on in the investigation as we heard the captain there say, but look, this is -- this is a huge Asian population -- JULIETTE KAYYEM, CNN NATIONAL SECURITY ANALYST: Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:00",
+      "speaker": "KAYYEM",
+      "sentences": "Right. So, I'm going to -- let me start first with what we don't know in terms of why that press conference happened. So, what you're seeing online is the lot of speculation about the death toll. My -- this police officer came out to simply put a floor unfortunately on the death toll. So, we now know it's at least ten, another ten who are in some level of condition. Otherwise, we didn't get much information except that the suspect is still at large and they're beginning crowdsourcing.He asked for information from the community, cameras, other things we know work in terms of trying to narrow down who this person might be who is still on the run. What that tells me is they do not view this as an incident in which the person was known to the victims, a party that violence erupted at. That this is someone that they do not -- who did not know or was not known to the community. So, I do want to get to your point. We have obviously been monitoring and reporting on the increase in Asian-American hate crimes. I'm going to begin because I live in the real world that this is a hate crime-motivated attack. If there's evidence to suggest otherwise, then you turn on that, but you're definitely going to start with that concern for two reasons. One is, of course, because it impacted at a party and an event that is replicated throughout the nation right now. As you said, this is not just one incident here, in Boston, everywhere, there are celebrations. Those communities are going to be in fear. And law enforcement in each of those communities is going to have to ratchet up out of concern that there is a focus on the Asian- American community. The second is, of course, the international implications of America's mass shooting incidents. Most of these occur without any interest except for, I think, you know, sort of shock at a lot of our mass casualty events including school shootings. These are viewed as U.S. events and phenomenon, unfortunately. I don't think that will be true in this case. I'm already monitoring Asian media. This is a big event and will have other countries, not just China, but Korea and other Asian countries interested, focused on it because this is also -- because of the strong ties because the Asian-American community here and the international community. And we don't actually know the nationality of any of these suspects. So, that's why this is different and why we will be focused on this as a particular type of event that was targeted because it is the Lunar New Year.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:00",
+      "speaker": "SANCHEZ",
+      "sentences": "And Juliette, I just want to walk with you through the timeline that was shared with us from Captain Andrew Meyer of the LA's Sheriff's Office. At 10",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:00",
+      "speaker": "KAYYEM",
+      "sentences": "Right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:50:00",
+      "speaker": "SANCHEZ",
+      "sentences": "Too early for a motive, they say, but obviously as you pointed out, there are reasons to establish the possibility that this was a targeted attack. What are the difficulties in trying to locate someone, a suspect, if you don't have a description of them?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:55:09",
+      "speaker": "WALKER",
+      "sentences": "Yes. I was just on google maps just to see the area. So, this happened on Garvey Avenue -- Garvey Avenue which is the main thoroughfare through downtown Monterey Park.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:55:09",
+      "speaker": "KAYYEM",
+      "sentences": "That's right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:55:09",
+      "speaker": "WALKER",
+      "sentences": "And if you just, you know, use your Google Maps to drive down the street, it's -- there's so many Asian restaurants and bakeries and salons and what have you. Look, we're still following this story. We do have to take a break. But again, ten people dead on scene and ten additional victims who were taken to the hospital.Juliette Kayyem, we really appreciate your expertise on this. Thank you for your time. We're going to take a break. Back after this. (COMMERCIAL BREAK)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "06:55:09",
+      "speaker": "SANCHEZ",
+      "sentences": "We want to quickly give you an update on other top stories we're following this morning. A 76-year-old Florida woman is in custody allegedly shooting and killing her terminally ill husband. She then apparently barricaded herself in his hospital room forcing officials to evacuate staff and patience and declare a lock down there. Fortunately, no one else was threatened or injured.Police in Daytona Beach say that an investigation determined the couple actually planned this weeks ago. It's unclear how the woman got the gun into the hospital.",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

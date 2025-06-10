@@ -1,0 +1,499 @@
+{
+  "date": "2023-05-05",
+  "headline": "CNN Newsroom",
+  "subHeadline": "Second Mass Shooting In Serbia Leaves Eight Dead; U.S. Rejects Kremlin Claims It Was Behind Drone Attack; United Kingdom Prepares For First Coronation In 70 Years. Manhunt Underway in Serbia's Second Mass Shooting in Two Days; Fierce Fighting Between RSF and Sudanese Army in Khartoum; Fighting in Sudan Pushes Economy Deeper into Crisis; Justice Thomas Facing More Ethics Questions after New Report; White House Announces Plan to Manage AI; Chinese Ambassador Summoned Over Interference Allegations. Aired 1-2a ET",
+  "utterances": [
+    {
+      "timeStamp": "01:00:23",
+      "speaker": "MICHAEL HOLMES, CNN ANCHOR",
+      "sentences": "Hello, everyone. I'm Michael Holmes. Appreciate your company. Coming up here on CNN NEWSROOM, tragedy strikes again in Serbia for the second time in two days, the country rocked by a deadly mass shooting.Russia now blaming the U.S. for a drone attack on the Kremlin, a charge the White House calls ludicrous. And countdown to the coronation. How Britons are getting ready for the crowning of King Charles.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:00:23",
+      "speaker": "ANNOUNCER",
+      "sentences": "Live from CNN Center, this is CNN NEWSROOM with Michael Holmes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:00:23",
+      "speaker": "HOLMES",
+      "sentences": "A massive manhunt is underway in Serbia after the country's second mass shooting in as many days. Officials say at least eight people were killed, 13 others wounded in a village southeast of the capital, Belgrade on Thursday.Now, the shooter fled the scene, and now hundreds of police officers are searching for him. Now, we've got video we received a short time ago showing a police search going on the side of a highway that happening as Serbia still reels from Wednesday's horrific school shooting, which left nine people dead. Scott McLean is near the scene. (BEGIN VIDEOTAPE) SCOTT MCLEAN, CNN CORRESPONDENT (voiceover):  Serbs today are waking up to a headline that seems quite unbelievable. In less than 48 hours, a second mass shooting has taken place. Authorities say that this one happened in this field, in this rural area between two very small villages, about 50, 60 Belgrade. So there's a soccer pitch there. Locals say there's also a barbecue area where young people like to hang out. There's also a vehicle there where the windows have apparently been shot out. And this is where this shooting is alleged to have taken place. Authorities say it happened with an automatic weapon, something that is banned in this country generally. There are illegal weapons still circulating in the country left over from conflict in the 1990s, but automatic weapons are heavily restricted for civilians. And Even getting a semiautomatic weapon in this country requires jumping through a lot of checks and a lot of hoops. There is now a massive manhunt taking place across a very wide swath of this country, a very rural area as well. There's fields. There's orchards here. And there are some 600 police officers who are looking for this suspect, a 21-year-old man they are identifying as Uros B. He may well still be heavily armed. On the way here, we actually saw heavily armed police combing an area on the side of the highway about 20 miles from here, which gives you a sense of just how big the search area may be at this point. Now, Serbs, in light of the school shooting that took place on Wednesday, were already doing some soul searching about what happened in that case and how they can prevent it in the future. There have been discussions about mental health, about violent video games and the impact of social media, and, of course, about guns. Lawmakers have now proposed to put a two year moratorium on the issuing of new gun permits. Scott McLean, CNN, in rural Serbia. (END VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:05:09",
+      "speaker": "CHANCE",
+      "sentences": "But U.S. officials are pushing back.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:05:09",
+      "speaker": "KIRBY",
+      "sentences": "Mr. Peskov's lying. I mean, it's a ludicrous claim. The United States had nothing to do with this. We don't even know exactly what happened here, Kaitlan, but I can assure you the United States had no role in it whatsoever.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:05:09",
+      "speaker": "CHANCE",
+      "sentences": "Ukraine is bracing itself for a further Russian response. Earlier Russian drones with messages for Moscow and for the Kremlin scrawled on them, were intercepted. All this as Ukraine's president is on an unannounced European tour, briefly stopping in The Hague in the Netherlands to condemn his Russian counterpart.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:05:09",
+      "speaker": "VOLODYMYR ZELENSKYY, UKRAINIAN PRESIDENT",
+      "sentences": "Of course, we all want to see different Vladimir here in The Hague, the one who deserves to be sentenced for these criminal actions.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:05:09",
+      "speaker": "CHANCE",
+      "sentences": "Back in the capital of the Russian Federation, muscovites seem unfazed, at least publicly, by the extraordinary events unfolding in their city.The drone strike on the Kremlin was going to happen sooner or later, says this man, Nikita. We live in an awesome country, says Anastasia, the best protected in the world. Even more shocking then, that someone was able to penetrate those defenses and attack. Matthew Chance, CNN, London. (END VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:05:09",
+      "speaker": "HOLMES",
+      "sentences": "Now the head of the Wagner mercenary group is lashing out at top Russian officials in an extraordinary outburst, even for him. Yevgeny Prigozhin posting an expletive laden and gruesome video online showing rows of what he said were dead Wagner fighters killed in Ukraine and blaming Russian military leaders for not providing enough ammunition. (BEGIN VIDEO CLIP)YEVGENY PRIGOZHIN, WAGNER GROUP FOUNDER (through translator):  You think you are the masters of this life. You think you can dispose of their lives. You think because you have warehouses full of ammunition that you have that right. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:05:09",
+      "speaker": "HOLMES",
+      "sentences": "There were rows of bodies behind him in that video. Prigozhin, specifically addressing the Russian Defense Minister Sergey Shoigu and the Armed Forces Chief of Staff Valery Gerasimov. The Wagner group is known to recruit convicts to fight on the front lines, especially in the battle for Bakhmut.Jill Dougherty is a CNN contributor, former Moscow bureau chief of CNN, and adjunct professor at Georgetown University. She joins me now. Always good to see you, Jill. It's interesting when we talk about, you know, let's talk about these attacks at the Kremlin, Moscow blaming both Kyiv and Washington for those explosions. What's your read on that and what the repercussions might be?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:10:02",
+      "speaker": "HOLMES",
+      "sentences": "It was interesting to me. I mean, you know, these were relatively small explosive charges, let's be honest. I mean, unless the plan was to fly them through Putin's bedroom window before they detonated, they were never going to be truly effective as an assassination attempt of some sort. There's a former Russian MP who's suggesting it could be a resistance group within Russia. Is that possible?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:10:02",
+      "speaker": "DOUGHERTY",
+      "sentences": "I think it's possible in the realm of possibility, because there are such groups whether they could mount that type of thing. Actually, probably if they were doing it from inside Russia and even from Moscow itself, it might not be that hard. But again, the Kremlin is very, very protected. It's one of the most secure places in the entire world. How did the drones even get to that point that they could be brought down or disabled?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:10:02",
+      "speaker": "HOLMES",
+      "sentences": "Something that just popped up in the last few hours, and it's all over Twitter and elsewhere is the Wagner group leader, Yevgeny Prigozhin, ranting and raving, which he has done before, but not like this, in front of dozens of bodies of Wagner fighters. It's an extraordinary thing and slamming the Defense Minister at the same time for a lack of ammunition. What did you think of that performance and how that will be received in Moscow?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:10:02",
+      "speaker": "DOUGHERTY",
+      "sentences": "Well, he has done bizarre and really horrible things previously, so this is pretty bad. But I think my question always is, how does he continue to criticize so openly, you know, traditional media, the Ministry of Defense? How does Putin even allow him to do that?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:10:02",
+      "speaker": "HOLMES",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:10:02",
+      "speaker": "DOUGHERTY",
+      "sentences": "And the only way that I can really understand it is that Putin often likes to play off people against each other, and perhaps by allowing Prigozhin to criticize the military. He keeps the military on their toes or pushes them in some direction. But it is really bizarre. And this one was at a very critical moment where we all know that the Ukrainians are about to mount, we believe, their counter offensive.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:10:02",
+      "speaker": "HOLMES",
+      "sentences": "Yes, the vitriol was extraordinary, but the scene behind him of these bodies was incredible. You mentioned the offensive as we wait for that, the counteroffensive by the Ukrainians. It's interesting. There's been an increase in drone attacks inside Russia and Crimea, you know, targeting oil facilities, water towers, airfields, and so on, sort of harassing sabotage tactics.Is that a way, do you think, of Ukraine trying to put the war before the Russian people, make it more visible to them than state media ever allows?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:10:02",
+      "speaker": "DOUGHERTY",
+      "sentences": "Well, I think definitely that could be part of it. I think it's also a way of bringing the war to the Russians. I mean, they actually have carried out quite a bit of destruction in doing oil refineries. That was a very big deal the other day in Crimea.So, in addition to just kind of the shock value and telling Russians the war is coming to you, I think also they're carrying out some, you know, military attacks that actually are in a way significant with very little price, just a little drone.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:10:02",
+      "speaker": "HOLMES",
+      "sentences": "Yeah, that's true. That's true. Jill Dougherty, always good to see my friend. Thanks so much.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:10:02",
+      "speaker": "DOUGHERTY",
+      "sentences": "Thank you, Michael.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:15:00",
+      "speaker": "SERHIY, ARTILLERY COMMANDER, SEPARATE MARINE BRIDAGE",
+      "sentences": "We moved forward to the left of Avdiivka. In two days we took up to a kilometer. It's quite a success. There's abandon positions, slowly pull back. They are les and less strong see they can't hold on and pull back.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:15:00",
+      "speaker": "WALSH",
+      "sentences": "Whether this is a weak spot in Russia's lines or the counteroffensive in action, we do not know.But this pushback in the east is something these troops from the 128th Territorial Defense Brigade training furiously hope to replicate in the south, where the counter offensive will likely focus. There is little shortage of ammunition here, quite the opposite. And they say the Russians already seem to know something from Ukraine coming. RENAT, UKRAINIAN SERVICEMAN, 128TH TERRITORIAL DEFENSE BRIGADE:  They are scared and fire more at our positions. They were preparing for some time for our counteroffensive, shelling less to save ammunition. And now they are not holding back.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:15:00",
+      "speaker": "WALSH",
+      "sentences": "For all the simulation and noise, the reality on the front has been ugly, brutal. They show us this video taken from a dead Russian that shows his tank trying to escape. The Ukrainians know this horror too.DMYTRO, UKRAINIAN SERVICEMAN, 128TH TERRITORIAL DEFENSE BRIGADE: There are enemy tanks and artillery working on us. They use all they have. U lost my best friend, my uncle, and my best friend's father. WALSH:  It will be real again all too soon. Heavy losses fueling their steps forwards. Nick Paton Walsh, CNN, Melitopol (ph), Ukraine. (END VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:20:00",
+      "speaker": "HOLMES",
+      "sentences": "Now the people of Britain, the Commonwealth and beyond are gearing up for the coronation of King Charles III on Saturday. The ancient ceremony will take place at London's Westminster Abbey and feature all the pomp and pageantry you'd expect.The Prince and Princess of Wales William and Kate got into the action commuting like Commoners on London's Underground, The Tube, of course, on Thursday. They rode the Elizabeth Line, named of course, after William's late grandmother, Queen Elizabeth II. They visited a pub in central London, met with the locals and business owners, preparing for the big weekend. Around 400 armed forces members from the Commonwealth Nations took part in a joint parade on Thursday. They've been training for several days and will form part of the ceremonial procession on Saturday. Royal enthusiasts have set up camp quite literally along the procession route, hoping to get a good view of King Charles when he travels from Buckingham Palace to Westminster Abbey. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:20:00",
+      "speaker": "ROBERT BOLITHO, BRITISH ARMY VETERAN",
+      "sentences": "It will be very emotional for me, yes. Obviously when the King's coast passed, I will salute my king.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:20:00",
+      "speaker": "MARGARET TINSLEY, CORONATION ATTENDEE",
+      "sentences": "I'm very excited because I'm a monarchist and I support our King and Queen and we love our King and Queen and we want them to know that.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:20:00",
+      "speaker": "SHIRLEY MESSINGER, CORONATION ATTENDEE",
+      "sentences": "This procession is so emotional. You know, the Brits do it so well. Everything is so organized now.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:20:00",
+      "speaker": "HOLMES",
+      "sentences": "The coronation of King Charles will be a delete, deeply religious ceremony steeped in ancient tradition. CNN's Max Foster with more. (BEGIN VIDEOTAPE)MAX FOSTER, CNN CORRESPONDENT (voiceover):  For more than a thousand years, the coronation ceremony for English monarchs has remained largely unchanged. King Charles will walk into Westminster Abbey in the footsteps of his ancestors. Ancient symbols like the Stone of Schoon, seized from Scotland by King Edward in the 13th century and used in coronations ever since. Brought to London for Saturday's event. The palace says he also wants to reflect modern Britain and look to the future. The challenge will be how to do both during a cost of living crisis. Charles will be crowned with the St. Edwards crown, the very same one placed upon previous monarchs. Crown jewels will feature including scepters, a golden orb and various swords, each with their own symbolism. He'll wear robes that have been passed down through the generations. The anointing, the most sacred spiritual part of the service, will be hidden from view by a special screen, one of the only newly made pieces for the coronation, because Charles, who's always been known for his environmental campaigning has been keen to emphasize reuse. He'll be welcomed to the Abbey first by a young chorister to whom he'll say, I come not to be served, but to serve. Inclusivity is at the top of his agenda. The ceremony will be conducted by the Archbishop of Canterbury, the most senior member of the Church of England after the king.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:20:00",
+      "speaker": "JUSTIN WELBY, ARCHBISHOP OF CANTERBURY",
+      "sentences": "It looks rounded our society and seeks to reflect us as we are, with joy and celebration.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:20:00",
+      "speaker": "FOSTER",
+      "sentences": "For the first time, people of multiple faiths will have a role even the Pope has sent a gift fragments believed to be of Jesus's cross, which have been incorporated into this new one, which will lead the coronation procession. Symbols, the new monarch hopes, will be enough to reflect his continued relevance in the modern world whilst honoring sacred tradition. Max Foster, CNN, London.(END VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:20:00",
+      "speaker": "HOLMES",
+      "sentences": "Now, as we've been saying, this will be the first coronation of a British monarch in 70 years, so is there still broad support for the institution? CNN's Bianca Nobilo, looks at the monarchy's place in modern day Britain.(BEGIN VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:20:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Happy indeed by the revelers who welcomed Britain's coronation year in Piccadillion.BIANCA NOBILO, CNN CORRESPONDENT AND ANCHOR (voiceover):  The longest interlude between two coronations in British history. Decades of demographic, religious and societal change, raising questions about the relevance of the monarchy today. 1953 was full of postwar joy, de viv and excitement about a new young queen.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:20:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "They've come to or seek work in Britain.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:25:03",
+      "speaker": "BIDISHA MAMATA, COLUMNIST",
+      "sentences": "The monarchy itself has to find a respectful and humble place for itself without pretending that it doesn't have all of its privilege, all of its history and all of its baggage.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:25:03",
+      "speaker": "NOBILO",
+      "sentences": "Though crumbling slowly after the Second World War, Britain was still stratified along class lines in the 1950s.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:25:03",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "The ermine tales denote renk. A duchess, for example, wears four robes.NOBILO (on camera):  Modern Britain is in many ways allergic to the idea of inherited privilege. Society at least strives to be egalitarian. But a recent poll commissioned by the BBC, Britain's national broadcaster, suggests that King Charles might have a problem appealing to young people, 38 percent of whom said that they would support an elected head of state. An indifference might be a problem too. 78 percent said they weren't interested in the royal family.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:25:03",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "I think it's definitely time to rethink, and I know a lot of people loved Queen Elizabeth, and I don't think that same fondness is there for King Charles.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:25:03",
+      "speaker": "NOBILO",
+      "sentences": "The monarch since the 16th century is also titular head of the Church of England. In 1953, the majority of the country was Christians.NOBILO (voiceover):  Today, it is half that, with the number of nonreligious and non-Christian faiths rising each year, with multifaith leaders playing a role in the coronation for the first time. NOBILO (on camera):  King Charles, who has declared himself to be defender of all faiths, was honored here at Britain's largest mosque ahead of the coronation. So could this be an opportunity for all the communities in Britain to come together?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:25:03",
+      "speaker": "SABAH AHMEDI, IMAM",
+      "sentences": "Within Islam, we're taught that part of your faith is loyalty to your nation, and we also know that the coronation is part of history of this nation, and as citizens, we respect that history. NOBILO (voiceover)Charles will be received by 2023 Britain, and whether enthusiasm, apathy or opposition to the monarchy will shape his reign. Bianca Nobilo, CNN, London. (END VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:30:20",
+      "speaker": "MICHAEL HOLMES, CNN ANCHOR",
+      "sentences": "You are watching CNN NEWSROOM.I'm Michael Holmes. Appreciate you sticking with us. Now, let's get you up to speed with the developing story in Serbia, which is dealing with its second mass shooting in as many days. Right now, police are searching an area south east of the capital, Belgrade, looking for a 21-year-old shooting suspect. Police say he shot and killed at least eight people on Thursday night and wounded 13 others. Serbia's public broadcaster says the suspect was in a vehicle with two other people when he got out and shot the victims with an automatic weapon. That is happening as Serbia still is grappling with Wednesday's horrific school shooting, which left nine people dead. The incident happened in Serbia still as we said trying to make sense of that shooting just the day before. Officials say a 13-year-old boy shot and killed nine people in his school and wounded seven others. Police now learning where he may have learned to shoot guns and what he did the night before the attack. Here is Scott McLean. (BEGIN VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:30:20",
+      "speaker": "SCOTT MCLEAN, CNN CORRESPONDENT",
+      "sentences": "Droves of kids from schools across Belgrade showed up to pay their respects to the nine lives lost in Serbia's worst ever school shooting. As students stood in silence, others, didn't know what to say.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:30:20",
+      "speaker": "PETAR SKENDERIJA, BELGRADE RESIDENT",
+      "sentences": "It's terrifying that that happened in Serbia. I mean in Belgrade. It's -- I can't even find the words.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:30:20",
+      "speaker": "MCLEAN",
+      "sentences": "Six students and a teacher were wounded, two remain in this children's hospital, blocks from the school, fighting for their lives.At a blood donor clinic nearby, twice the usual number of people have shown up to donate. There is no urgent need, people just want to do something.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:30:20",
+      "speaker": "PETAR MILENKOVIC, BLOOD DONOR",
+      "sentences": "I was brought to tears. I mean what can you say when you hear something like that happening? (inaudible), especially here in Serbia, where it's never happened before.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:30:20",
+      "speaker": "MCLEAN",
+      "sentences": "The motive for the shooting is still under investigation. But the police chief says that the suspect, just 13 years old, had not been bullied, but had recently fallen out with his friend group.The chief told us, there was no evidence the boy had taken drugs and the night before, he says the teen watched TikTok and an American documentary about a school shooting. VESELIN MILIC, BELGRADE POLICE CHIEF (through translator):  This murderer said that he had seen some weird American film where a boy did the same in his school. The murderer had no empathy or remorse.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:30:20",
+      "speaker": "MCLEAN",
+      "sentences": "The suspects parents have been detained, but so far, not charged. The boy is too young to be held criminally responsible. But he apparently was not too young to know how to use a gun, coldly changing clips, as he moved through the school.It is this gun range in the basement of this Belgrade soccer stadium where police say, the suspect came with his father. The police chief says, it is not legal for minors to handle guns in this country. Prosecutors say they are looking into it, the range has so far declined to comment.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:30:20",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "It's neither normal, nor natural.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:30:20",
+      "speaker": "MCLEAN",
+      "sentences": "Wednesday night, outside the education ministry, students chanted for the minister to resign over the incident. He has offered it although his deputy insists the school was as safe as it could have been. It even had a police officer patrolling the perimeter when the first shots were fired.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:30:20",
+      "speaker": "MILAN PASIC, SERBIAN DEPUTY EDUCATION MINISTER",
+      "sentences": "At this moment in time, unfortunately, all the security measures were in place. Unfortunately it happened in school, but it could have happened on the street, in the park. In any case, this is just one tragic case.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:30:20",
+      "speaker": "MCLEAN",
+      "sentences": "That is not good enough for some teachers, who are planning to walk out on Friday over safety concerns. Meanwhile, students at the school will be back in their classrooms on Monday.In the wake of this, the government has already proposed legislation that would put a two-year moratorium on the issuing of new gun licenses. It is looking at things like banning cell phones in the classrooms and new regulations on social media. Scott McLean, CNN -- Belgrade. (END VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:34:55",
+      "speaker": "HOLMES",
+      "sentences": "Witnesses report the most violent fighting since the start of the clashes last month, which has led to the deaths of hundreds of civilians. Among the victims, a trailblazer in the arts.CNN Stephanie Busari with more on that. (BEGIN VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:34:55",
+      "speaker": "STEPHANIE BUSARI, CNN CORRESPONDENT",
+      "sentences": "A Sudanese actress has been killed in the cross fire of fighting near Khartoum, a family member tells CNN.80-year-old Asia Abdel-Majid, known as the country's first professional stage actress, died after shells hit her home in Bahri, north of the capital. It is unclear what side of the conflict fired the shot that killed the actress. The fighting between the Rapid Support Forces and the Sudanese army shows no signs of letting up despite a seven-day ceasefire that was supposed to start earlier Thursday. Both sides have not kept the negotiated ceasefire since the start of the conflict. And they blame each other for breaking the truce. Meanwhile, foreign countries continue to evacuate their citizens. Hundreds of Nigerians becoming the latest to return home from Sudan, late Wednesday as the country spirals into a looming humanitarian crisis. The Norwegian Refugee Council has warned of people trapped in the battlefields in Sudan of running out of food and water. Secretary General Jan Egeland, called on the international community to put more effort into providing aid to the people in Sudan then evacuating their own citizens. Stephanie Busari, CNN -- Lagos. (END VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:34:55",
+      "speaker": "HOLMES",
+      "sentences": "Despite having enormous economic potential, Sudan's economy is now in free fall and there's no end in sight to that crisis.CNN's Becky Anderson reports. (BEGIN VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:34:55",
+      "speaker": "BECKY ANDERSON, CNNC RPD",
+      "sentences": "A fragile truce in Sudan marred by outbreaks of violence. Slim hopes of two warring sides coming to the table. Those suffering most are civilians, already operating within a broken economy.Even before the overthrow of President Omar Al-Bashir in 2019, Sudan's financial system had been in chaos. Crumbling even more since then. A transitional government led by Abdalla Hamdok attracted billions of dollars in international support, aimed at rebuilding the country. That included $50 billion in debt relief from the IMF.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:34:55",
+      "speaker": "JIHAD AZOUR, MIDDLE EAST AND CENTRAL ASIA DIRECTOR, IMF",
+      "sentences": "We were hopeful couple of years ago. we were working on huge debt relief operations for Sudan. And we were expecting that this would trigger a certain number of reforms that would improve the huge potential that Sudan has in terms of resources, in terms of course of large markets.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:34:55",
+      "speaker": "ANDERSON",
+      "sentences": "But that aid was suspended after security forces staged a coup, detaining Hamdok and dissolving the civilian government. Army Chief General Abdel Fattah Al-Burhan took control, and the economic outlook did not just worsen, it fell off a cliff.Currency devaluations and subsidy reforms drove up prices. The COVID- 19 pandemic slowed down growth, and then Russia invaded Ukraine. And Sudan, which imported nearly 90 percent of its wheat from there or Russia, took the hit. The World Bank estimated that before the coup, more than half of Sudan's population was surviving on less than $3.20 a day -- a figure that is likely to only become worse. Now, the focus has shifted from rebuilding the country's economy to survival.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:34:55",
+      "speaker": "AZOUR",
+      "sentences": "Now, I think the priority is to protect people's lives. We have refugees, we have people that are internally displaced. And also, we need after we stabilize -- or after the conflict has stabilized to see the development agencies, the agencies that we fund, coming and helping a country like Sudan recover.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:34:55",
+      "speaker": "ANDERSON",
+      "sentences": "With no end to the fighting in sight, the country risks falling into the shadows of the international isolation it experienced under 29 years of Omar Al-Bashir's rule.And if the violence does end, it would be a long and difficult path before Sudan can steer its fortunes back on track. Becky Anderson, CNN. (END VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:39:50",
+      "speaker": "HADAS GOLD, CNN JERUSALEM CORRESPONDENT",
+      "sentences": "Israeli authorities saying that their forces killed the suspected gunmen in that attack that killed a British-Israeli mother and her two daughters last month in a town in the occupied West Bank.Israeli authorities saying that more than 200 of their forces carried out a raid in the old city of Casbah of Nablus in the West Bank, in a morning time raid, normally these raids happen in the middle of the night or in the early morning hours. This one happened after most people were likely awake. The Israeli Security Forces saying that when they surrounded a house or an apartment where they believed these gunman were hiding, that they engaged in exchange of fire, and that two suspected gunman who they believed carried out the attack, were killed, as was a third Palestinian man who Israeli forces say were helping to hide the men. Now, the militant group Hamas, who has claimed responsibility for that attack on the British-Israeli mother and her two daughters said that all three of them were their operatives and describe them, they said, as heroes of the Jordan Valley. Now, the father and husband of Lucy, Maya, and Reena Dee (ph) said, in a statement that he and his surviving children are delighted, he said, to here that the terrorists were eliminated today. Most of all he said, that it was done in a way that apparently did not endanger the lives of Israeli soldiers because that was one of the most important things from their families perspective. Now Lucy, Maya and Reena Dee were killed while they were driving in their car in Hamra in the occupied West Bank a month ago. A gunman pulled up next to them while they were driving, shooting at their car, killing the two daughters immediately, and the mother, Lucy, dying a couple of days later in hospital. Israeli Prime Minister Benjamin Netanyahu also issuing a statement saying \"Our message to those who harm us and those who want to harm us, is that 0whether it takes a day, a week, or a month, you can be certain that we will settle accounts with you. It does not matter where you try to hide. We will find you. This has already been some of the deadliest few months in the Israeli- Palestinian conflict for both Israelis and Palestinians. And it is on pace to beat the record from last year, which was already the deadliest year for both Israelis and Palestinians in the West Bank and in Israel, since the days of the Second Intifada. This year, already on pace to beat that. Hadas Gold, CNN -- Jerusalem. (END VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:39:50",
+      "speaker": "HOLMES",
+      "sentences": "Well, is it real or is it fake? That is the concern many have over images and videos created by artificial intelligence. Just ahead, the White House announces a plan to address those issues or try to.(COMMERCIAL BREAK)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:44:53",
+      "speaker": "HOLMES",
+      "sentences": "A fifth defendant was found not guilty on the sedition charge, although he was convicted of several other serious felonies. Now this is the third time the U.S. Justice Department has secured convictions on seditious conspiracy charges for Capitol rioters.The first two were members of the far-right group The Oath Keepers. Attorneys for the Proud Boys say they plan to appeal. A new report raises more ethical questions for the U.S. Supreme Court. According to ProPublica, a GOP megadonor paid boarding school tuition for Justice Clarence Thomas' grand nephew. It is the same megadonor who reportedly took Thomas and his wife on a number of luxury vacations. CNN's Brian Todd reports. (BEGIN VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:44:53",
+      "speaker": "BRIAN TODD, CNN CORRESPONDENT",
+      "sentences": "Supreme Court Justice Clarence Thomas and his wife did not just get lavish trips, yacht rides, or a real estate deal from Harlan Crow. The billionaire GOP megadonor also paid boarding school tuition for Thomas' grand nephew, for whom Thomas was the legal guardian.That's according to a new report by the investigative news outlet ProPublica, which says Thomas did not report the tuition payments on his annual disclosures. Democrats and Republicans in the Senate see this development through opposite lenses. SENATOR DICK DURBIN (D-IL):  I hope that Chief Justice Roberts reads the story this morning , and understand something has to be done. The reputation of the Supreme Court is at stake here. SENATOR JOHN CORNYN (R-TX):  I know Harlan Crow and I know Clarence Thomas. And they're both honorable men. This is part of a 32-year smear campaign that started with his confirmation hearing.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:44:53",
+      "speaker": "TODD",
+      "sentences": "Thomas' grandnephew lived with Thomas and his wife for a number of years as a child. ProPublica cited a former administrator at Hidden Lake Academy in Georgia, and a bank statement for the information on Harlan Crow's tuition payments to that school the grand nephew.A friend of the Thomases, conservative lawyer Marc Pauletta said on Twitter that Crow paid for a year at Hidden Lake for the then teen and for the first year he spent at another private boarding school, Randolph-Macon Academy in Virginia. Pauletta says Thomas never asked Crow to pay the tuition, calling the ProPublica report an effort to smear Justice Thomas. And Pauletta argues Thomas did not have to report the tuition payments from Crow, because the grand nephew didn't qualify as a legal dependent under federal ethics law. But a few years earlier, Thomas did report tuition help from another friend.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:44:53",
+      "speaker": "NORM EISEN, FORMER WHITE HOUSE ETHICS CZAR",
+      "sentences": "These arguments that the child was not a dependent are beside the point. This tuition payment was a gift to Justice Thomas. He has a legal obligation to disclose. He's disclosed tuition payments before. He needed to do it again here.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:44:53",
+      "speaker": "TODD",
+      "sentences": "Harlan Crow's office told CNN, that he and his wife helped many young people with tuition. And quote, \"It is disappointing that those with partisan, political interests, will try to turn helping at risk youth with tuition assistance, into something nefarious or political.\"Previously, ProPublica reported that Justice Thomas and his wife Ginni accepted luxury travel and gifts from Harlan Crow for decades. And that in 2014, Thomas sold of his family's Georgia properties to Crow. Thomas did not disclose the real estate deal, and most of the travel in filings. Thomas responded that he was advised he did not have to report the travel. But a source told CNN, he will amend his filings in the real estate deal. Neither the Supreme Court nor Justice Thomas have responded to CNN's request for comment on the latest ProPublica report on Harlan Crow's tuition payments. The court has also not responded to CNN's numerous inquiries on whether Chief Justice John Roberts will investigate Thomas. Roberts has declined to testify before the Senate on the issue. Brian Todd, CNN -- Washington. (END VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:44:53",
+      "speaker": "HOLMES",
+      "sentences": "Now, artificial intelligence has certainly come a long way in a short time and that has a lot of people worried. Now the White House has announced some measures to address some of those concerns. Those measures include plans for policies to organize how federal agencies get and use AI. It could influence future AI products and how people get access to and interact with the technology. CNN's Tom Foreman looks at some of the unique challenges posed by AI.(BEGIN VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:44:53",
+      "speaker": "TOM FOREMAN, CNN CORRESPONDENT",
+      "sentences": "A 15-year-old Arizona girl off at a skiing competition. A desperate phone call home.JENNIFER DESTEFANO, RECEIVED A.I. SCAM CALL:  I hear my daughter's voice, and it says, mom and she's sobbing. I ask what happened. She's like mom, I messed up. And she's like, help me mom, please help me. Help me. And bawling.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:44:53",
+      "speaker": "FOREMAN",
+      "sentences": "Jennifer Destefano says then a man came on demanding ransom. But the girl had never been taken. Destefano said it was all a scam. Her daughter's voice was apparently generated by artificial intelligence.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:49:47",
+      "speaker": "FOREMAN",
+      "sentences": "Fear of runaway smart technology has dominated sci-fi for decades. But now, real life concerns about this technology running amok has the White House meeting with Google, Microsoft, Open AI and others and putting $140 million into AI research.The move comes as analysts fear AI bots could pour unprecedented amounts of false information into upcoming elections. The Republican National Committee had already rolled out this political ad comprised of doomsday images created by AI.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:49:47",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Border agents were overrun by a surge of 80,000 illegals yesterday evening.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:49:47",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "Officials closed the city of San Francisco this morning.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:49:47",
+      "speaker": "FOREMAN",
+      "sentences": "Again, none of that is real. Neither is this. They're just elaborate computer simulations.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:49:47",
+      "speaker": "BARACK OBAMA, FORMER PRESIDENT OF THE UNITED STATES",
+      "sentences": "We are entering an era in which our enemies can make it look like anyone is saying anything at any point in time.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:49:47",
+      "speaker": "FOREMAN",
+      "sentences": "Concerns about AI go beyond politics, to education, crime, and privacy issues. But the technology brings promise too.In the hit film, \"Top Gun Maverick\", actor Val Kilmer was unable to speak as a result of cancer treatment, so AI sampled old recordings and created the voice you heard.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:49:47",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "The Navy needs Maverick.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:49:47",
+      "speaker": "FOREMAN",
+      "sentences": "But worries about the downside seem to hover everywhere. One issue in the Hollywood writers strike? Will AI take away some of their work??This whole technology is moving at such a breakneck pace right now, no one can say where it's going to be in even the near future. But one study indicates worldwide, AI could affect up to 300 million jobs. Tom Foreman, CNN -- Washington. (END VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:49:47",
+      "speaker": "HOLMES",
+      "sentences": "Vindication for the musician Ed Sheeran. Just ahead, the copyright infringement lawsuit he just beat, and what he has to say about it.We'll be right back. (COMMERCIAL BREAK)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:49:47",
+      "speaker": "HOLMES",
+      "sentences": "China is pushing back after Canada demanded answers from Beijing over allegations of political interference and intimidation. The Canadian foreign minister summoned the Chinese ambassador this week following a report that a Chinese diplomat living in Canada targeted an MP and his family.CNN's Paula Newton reports. (BEGIN VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:54:50",
+      "speaker": "NEWTON",
+      "sentences": "Now at committee on Wednesday, Michael Chong got a chance to confront the foreign affairs minister Melanie Joly. She said that, yes we have on Wednesday summoned the Chinese ambassador for him to explain China's actions in Canada.But she said that in terms of actually taking any retaliatory action, that Canada had to weigh its options. All options were still on the table, but that they had to take the measure of how China might fight back, might retaliate. And this is Michael Chong's response. Listen.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:54:50",
+      "speaker": "MICHAEL CHONG, CANADIAN MP",
+      "sentences": "If we do not take THAT course of action, Minister, we are basically putting up a giant billboard for all authoritarian states around the world that says we are open for foreign interference threat activities on Canadian soil targeting Canadian citizens. And you can conduct these activities with zero consequences. And that's why this individual needs to be sent packing.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:54:50",
+      "speaker": "NEWTON",
+      "sentences": "CNN reached out to China's foreign ministry for a response about all this, and they gave us a statement that reads in part, \"China always opposes any country's interference in other countries' internal affairs. We have never had and have no interest in interfering in Canada's internal affairs.\"Having said that also the issue remains -- this happened in 2021, why was the MP not briefed. That is what he would like to know. Justin Trudeau, the prime minister, said he did not find out about this until media reports emerged earlier this week. He says from now on, he will direct the spy agency to be more explicit about those kinds of threats. We expect more from the Trudeau government in the coming days about exactly what kind of action, if any, will be taken against those Chinese diplomats. \\ Paula Newton, CNN, Ottawa. (END VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:54:50",
+      "speaker": "HOLMES",
+      "sentences": "Vindication for the singer Ed Sheeran. A jury found he did not commit copyright infringement. That decision coming on Thursday in a New York courtroom.Sheeran was accused of copying parts of the 1973 Marvin Gaye hit, \"Let's Get It On\". The family of that song's co-writer sued Sheeran over what they said was similarities with Sheeran's tune, \"Thinking Out Loud\". Sheeran spoke about the verdict and his frustration with the lawsuit. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

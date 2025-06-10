@@ -1,0 +1,415 @@
+{
+  "date": "2023-02-28",
+  "headline": "CNN Newsroom",
+  "subHeadline": "CNN International: Nearly 50 Million Under Winer Weather Alerts in Northeast; San Bernardino County Declares State of Emergency Due to Snow; Putin to Chair FSB Meeting in Coming Hours; EPA Chief Returning to East Palestine for Community Outreach; Israeli American Man Fatally Shot in West Bank; Defense Rests Its Case in Alex Murdaugh Murder Trial. Aired 4-4:30a ET",
+  "utterances": [
+    {
+      "timeStamp": "04:00:00",
+      "speaker": "BIANCA NOBILO, CNN ANCHOR",
+      "sentences": "Hello and a warm welcome to our viewers joining us in the United States and all around the world. I'm Bianca Nobilo.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "04:00:00",
+      "speaker": "MAX FOSTER, CNN ANCHOR",
+      "sentences": "I'm Max Foster joining you live from London. Just ahead on CNN NEWSROOM.(BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "04:00:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "I've been living here all my life. I'm 22 years old and I have not seen this much snow.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "04:00:00",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "It's been a mess.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "04:00:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "If you don't have the right tires, you don't know how to drive in the snow, stay home. Don't come out here.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "04:00:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Some of the top hosts over at Fox News were peddling false election claims.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "04:00:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "That's certainly helpful to Dominion but it doesn't get them all the way to the finish line.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "04:00:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "There's a new sheriff in town. The corporate kingdom finally comes to an end.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "04:00:00",
+      "speaker": "ANNOUNCER",
+      "sentences": "Live from London, this is CNN NEWSROOM with Max Foster and Bianca Nobilo.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "04:00:00",
+      "speaker": "FOSTER",
+      "sentences": "It is Tuesday, February 28, 9New York's governor says parts of her state could see up to a foot of snow today. Parts of the Midwest and Great Lakes can also expect cold wet weather. And in Michigan, hundreds of thousands of people are still without power after a winter storm passed through on Monday.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "04:00:00",
+      "speaker": "NOBILO",
+      "sentences": "In the West there's a blizzard warning in the Sierra Nevada. A state of emergency was declared on Monday in San Bernardino County in California after several feet of snow over the weekend left some residents trapped. People there also are running out of gas, baby formula and other vital supplies as they face road closures.(BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "04:00:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "We're running out of baby formula. We're just kind of up the creek right now if it goes on another two days where they don't plow this.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "04:00:00",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "Letting you know that there is absolutely no gas to be found up here.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "04:00:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "We're just out here on our own. And usually by now plows come by. It just seems like we're being forgotten about.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "04:00:00",
+      "speaker": "NOBILO",
+      "sentences": "Meanwhile more than 600 students returned home after being trapped at camps due to the snowstorm in Southern California.(BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "04:00:00",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "We're just so grateful to have her home.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "04:00:00",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "When they announced it late last night, everyone started crying and everyone wanted to go home. We're very homesick.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "04:00:00",
+      "speaker": "NOBILO",
+      "sentences": "But it's more than snow and ice affecting states across the country. Since Sunday there have been nearly 200 storm reports with multiple tornadoes, accompanied by high winds and hail. The state of Oklahoma is reeling from at least nine reports of tornadoes on Sunday, one hit the city of Norman leveling everything in its path.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "04:00:00",
+      "speaker": "FOSTER",
+      "sentences": "And you can see the clouds gathering as a tornado touches down in this video taken in Illinois on Monday. Five tornadoes were reported in states. One of which hit the city of Champaign.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "04:00:00",
+      "speaker": "NOBILO",
+      "sentences": "Stunning testimony from the media tighten behind Fox News. Rupert Murdoch has admitted under oath that some Fox News anchors endorsed false claims on air about the 2020 U.S. presidential election being stolen.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "04:00:00",
+      "speaker": "FOSTER",
+      "sentences": "These are the anchors that Murdoch said spread former President Donald Trump's lies about election fraud. Lou Dobbs, Maria Bartiromo, Jeanine Pirro and Sean Hannity. Murdoch made it clear that he doesn't believe the right-wing talk network on the whole promoted the lies.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "04:00:00",
+      "speaker": "NOBILO",
+      "sentences": "But the Fox Corporation chairman admitted that he wished Fox News had issued a more forceful response. Murdoch testified, I would have liked us to be stronger in denouncingin hindsight.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "04:00:00",
+      "speaker": "FOSTER",
+      "sentences": "And when asked what the consequences should be for Fox executives who knowingly allowed lies to be broadcast, Murdoch replied, quote, they should be reprimanded -- they should be reprimanded, may be got rid of.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "04:00:00",
+      "speaker": "NOBILO",
+      "sentences": "The shocking remarks came during a deposition taken by Dominion Voting Systems. The voting technology company is suing Fox News of $1.6 billion of unproven fraud claims from its 2020 election coverage. And Fox could be in real trouble.(BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "04:05:00",
+      "speaker": "NOBILO",
+      "sentences": "When it comes to the U.S. battle against inflation, Treasury Secretary Janet Yellen says so far so good.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "04:05:00",
+      "speaker": "FOSTER",
+      "sentences": "In an exclusive interview with CNN Yellen said the fed's efforts to bring down inflation while maintaining a strong labor market appear achievable, but there's still more work to do.(BEGIN VIDEO CLIP) JANET YELLEN, U.S. TREASURY SECRETARY: Look, inflation still is too high. But generally if you look over the last year, inflation has been coming down. And I know the fed is committed to continuing the process of getting it down to more normal levels. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "04:05:00",
+      "speaker": "FOSTER",
+      "sentences": "Those comments from Yellen coming during a surprise visit to Kyiv. She met with President Zelenskyy to discuss U.S. economic systems and efforts to impose severe sanctions on Russia and she stressed aid to Ukraine is now more vital than ever.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "04:05:00",
+      "speaker": "NOBILO",
+      "sentences": "Yellen also met with the Prime Minister who said that Washington is committed to providing more than $10 billion in budget support by September. That's as Ukraine's budget deficit is expected to hit $38 billion this year.And in just a few hours time in Moscow, Russian president Vladimir Putin is set to chair a meeting of the Federal Security Service. FOSTER: This on the same day a key Putin ally is set to kick off a state visit to China. Belarusian President Alexander Lukashenko is scheduled to hold talks with Chinese officials in Beijing starting today.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "04:05:00",
+      "speaker": "NOBILO",
+      "sentences": "CNN's Clare Sebastian is following developments and joins us here in London with more. Clare, what if anything can we expected to hear in terms of outcomes from President Putin's meeting with the FSB and also within the winder context now of all these discussions about whether or not China is going to get more involved in backing Russia in this invasion?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "04:05:00",
+      "speaker": "CLARE SEBASTIAN, CNN CORRESPONDENT",
+      "sentences": "Yes, I mean, this is a meeting that he is going to share with the FSB board. Putin himself a former intelligence agent, used to work for the KGB for a long time. He is officially going to summarize the work from 2022, the report from the state news agency TASS that the strategic priorities will be the fight against terrorism, corruption and border security.Now I think the things to look out for here, one is the messaging that we've seen really increase in recent weeks. It's been there since the beginning of the war but really stepped up in recent weeks about how this is a defensive operation they're carried out in Ukraine, how this is a sort of an existential battle for Russia. This is really how he's trying to sell this to his people now that we're into the second year of this war. That they're not the aggressor, this is about defense. So, look out for that. We did hear Putin in December address the security services and called for them to step up, what he calls surveillance of traders, spies and saboteurs. This is very important -- a key hallmark of this conflict has been control of the population at home, control of information. There is, you know, serious barely any free media left. Things like the expansion of the foreign agent law. Border security is now part of it. So, I think that you can look out for more of that. Clearly the intelligence agencies , the FSB are a key part of that apparatus.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "04:05:00",
+      "speaker": "NOBILO",
+      "sentences": "Clare Sebastian, thank you so much.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "04:05:00",
+      "speaker": "FOSTER",
+      "sentences": "The U.S. Energy Department's new assessment about the origins of COVID-19 creating controversy not just in Beijing but in Washington as well.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "04:05:00",
+      "speaker": "NOBILO",
+      "sentences": "A spokesperson for China's Foreign Ministry accused the U.S. of stirring up arguments over the initial outbreak as well as politicizing the issue of COVID's origin. Washington officials agree the Energy Department's report is the minority view among the federal agencies.Medical experts like CNN's Dr. Sanjay Gupta say more information is needed to truly determine whether a lab leak is to blame. Here's what he shared earlier. (BEGIN VIDEOTAPE) DR. SANJAY GUPTA, CNN CHIEF MEDICAL CORRESPONDENT: They have studied coronaviruses for a long time. But that is not new information. I mean, reporters have been covering this know that. In fact, one of the lead researchers in the lab there in Wuhan is Shi Zhengli, known as the bat lady. She's known as that because she's been studying bats and coronaviruses really since the days of SARS. So, for some 20 years. So, that is not new information. But I think we need to know were the coronaviruses that were being studied in the lab, similar, identical or related to the virus that caused COVID. And you'd want to look at the actual viruses and do genetic sequencing of those viruses. Another thing that you can do -- there were blood samples that were taken from workers in the lab at that time. If you were able to go back and look at those blood samples and say did they show antibodies to the COVID virus, then that would be another pretty definitive piece of data. And then you know you'd obviously want to have a complete forensics investigation of the lab. But it's these things, these types of things that we don't have still. That's been the lack of transparency that so many people have been talking about. I think the answer to the question I think everyone is asking is knowable. But we don't know it because we don't have all the data. (END VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "04:10:00",
+      "speaker": "KRISTIE LU STOUT, CNN CORRESPONDENT",
+      "sentences": "This is one of the last places on the planet where you still have to wear a mask. But after almost three years of both indoor and outdoor use in public, Hong Kong is finally dropping its mask mandate. Now I still have to wear it today because the mandate is not fully scrapped until Wednesday March 1. Hong Kong's top leader John Lee made the announcement on Tuesday.JOHN LEE, HONG KONG CHIEF EXECUTIVE (through translator): In order to give people a very clear message that Hong Kong is resuming normalcy, I think this is the right time to make this decision.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "04:10:00",
+      "speaker": "STOUT",
+      "sentences": "For much of the past three years, Hong Kong and neighboring Macao both followed China's strict zero-COVID policy. Macao dropped its mask restrictions on Monday.And according to Dr. Karen Grepin of the University of Hong Kong, face masks have played an important role in reducing community transmission in Hong Kong. But now that almost everyone is vaccinated and most people have also been affected, dropping the legal mandate is well past due. People can now do their own risk assessment to determine if they want to wear one or not. Hong Kong's moved to scrap masks comes after the government launched its \"Hello Hong Kong\" campaign to bring back tourists and international visitors and businesspeople. And starting Wednesday they can breathe easy with the mask mandate effectively over. Kristie Lu Stout, CNN, Hong Kong. (END VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "04:10:00",
+      "speaker": "NOBILO",
+      "sentences": "Still ahead, Florida's governor flexes his political muscle, details on Ron DeSantis' power play against Disney as he eyes a presidential run.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "04:10:00",
+      "speaker": "FOSTER",
+      "sentences": "Plus, emotional trial testimony in the murder trial of Alex Murdaugh. Hear what his brother had to say about the shocking things that he witnessed.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "04:15:00",
+      "speaker": "FOSTER",
+      "sentences": "The head of the U.S. Environmental Protection Agency will return to East Palestine, Ohio today for the opening of a new community center where residents and business owners can get update on the cleanup efforts following the toxic train derailment.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "04:15:00",
+      "speaker": "NOBILO",
+      "sentences": "It comes as the federal government ramps up its response to the disaster. CNN's Miguel Marquez reports.(BEGIN VIDEOTAPE) MIGUEL MARQUEZ, CNN SENIOR NATIONAL CORRESPONDENT (voice-over): Federal teams going door to door in East Palestine conducting health surveys over a dozen wells being drilled around the site of the spill to track where the chemical underground water may be moving. Only 11 train cars now remain at the crash site, those part of a federal investigation. Hundreds of air tests in homes and air monitors in town show no signs of contamination. City and private wells being continually tested. Also, so far, no sign of contamination. SEN. SHERROD BROWN (D-OH): We should have water, soil, in-home testing before you move back in again. Always paid for by Norfolk Southern, keep your receipts. So, it's up to each individual renter or homeowner what to do there. But abundance of caution is that they make the decisions themselves. MARQUEZ (voice-over): But the waste and getting rid of it providing one of more difficult hurdles so far. Soil and water leftover from the toxic derailment, now being shipped to two EPA-approved facilities in Ohio. DEBRA SHORE, EPA REGIONAL ADMINISTRATOR: Moving forward, waste disposal plans including disposal location and transportation routes for contaminated waste would be subject to EPA review and approval. MARQUEZ (voice-over): The solid waste from the train derailment will be incinerated in an approved company in East Liverpool, Ohio, about 20 miles south of East Palestine.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "04:15:00",
+      "speaker": "GREG BRICKER, EAST LIVERPOOL, OHIO MAYOR",
+      "sentences": "We have a 2-year-old daughter. Of course, that's a concern. But, again, you know, I think this is a state-of-the-art facility that can handle this type of waste.MARQUEZ (voice-over): The waste from the derailment now going to two facilities in Ohio, East Liverpool and Vickery, after Norfolk Southern's plan to ship the waste to Texas and Michigan was rejected by the EPA, state politicians and residents.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "04:15:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "We don't want this type of disposal in our community. We think there's a better way to dispose of this.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "04:15:00",
+      "speaker": "MARQUEZ",
+      "sentences": "Ohio's governor says the Texas facility will dispose of a half billion gallons of liquid waste that's already there. And the Michigan will dispose of 15 truckloads of contaminated soil. Five truckloads will return to East Palestine.Miguel Marquez, CNN, New York. (END VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "04:15:00",
+      "speaker": "NOBILO",
+      "sentences": "An Israeli American has been killed in the West Bank near the Dead Sea and what Israeli officials call a terror attack. The latest deadly shooting happened on a highway outside of the city of Jericho on Monday. A day after Israeli settlers carried out attacks against Palestinians in the West Bank.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "04:15:00",
+      "speaker": "NOBILO",
+      "sentences": "Officials say at least one Palestinian man died in those attacks which came after two Israeli brothers were shot dead nearby. An official from the Israeli military said they consider revenge attacks against Palestinians, quote, actions of terror.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "04:15:00",
+      "speaker": "FOSTER",
+      "sentences": "CNN's Hadas Gold joins us live from Jerusalem. I mean, it really does feel like it's out of control to some extent. And it's very hard for the two sides to have discussions around this.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "04:20:03",
+      "speaker": "FOSTER",
+      "sentences": "Absolutely, Hadas in Jerusalem, thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "04:20:03",
+      "speaker": "NOBILO",
+      "sentences": "The murder trial of former attorney Alex Murdaugh will resume today with prosecutors calling more witnesses and the jury expected to travel to the crime scene. The defense wrapped up on Monday and they presented almost two weeks of testimony to try and prove Murdaugh didn't kill his wife and son. CNN's Dianne Gallagher reports.(BEGIN VIDEOTAPE) UNIDENTIFIED MALE: The defense rests, your Honor. DIANNE GALLAGHER, CNN NATIONAL CORRESPONDENT (voice-over): The defense resting its case in the Alex Murdaugh double murder trial with its final witnesses. The defense calling two experts to the stand trying to poke holes and create doubt around the state's timeline of what happened the night of June 7th when Maggie and Paul Murdaugh were killed. A pathologist questioning how the time of death was initially calculated by the county coroner. DR. JONATHAN EISENSTAT, FORENSIC PATHOLOGIST: By far, the best methodology is to do a core body temperature.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "04:20:03",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "And an ambient temperature.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "04:20:03",
+      "speaker": "EISENSTAT",
+      "sentences": "And an ambient temperature, yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "04:20:03",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "So, tell me what you learned by sticking your hand under the arm pit of a deceased?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "04:20:03",
+      "speaker": "EISENSTAT",
+      "sentences": "You wouldn't learn anything.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "04:20:03",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "That impression --GALLAGHER (voice-over): And a crime scene analyst.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "04:20:03",
+      "speaker": "TIMOTHY PALMBACH, FORENSIC SCIENTIST",
+      "sentences": "The individual who shot first with the shotgun minimally was stunned, probably blood and material in his eyes. And maybe had been injured and would have taken some degree of time to recover.GALLAGHER (voice-over): Once again floating the defense's two shooter theory.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "04:20:03",
+      "speaker": "PALMBACH",
+      "sentences": "To me there's structurally difficult for the same shooter to have two arms and no practical reason for that to happen. Add that to what I believe happened to the shooter who fired first with the shotgun and I think it tips in favor of the probability of two shooters.GALLAGHER (voice-over): The state pushing back.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "04:20:03",
+      "speaker": "SAVANNA GOUDE, PROSECUTOR",
+      "sentences": "You referred to Paul being shot in the back of the head kind of like an explosion.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "04:20:03",
+      "speaker": "PALMBACH",
+      "sentences": "MALE",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "04:20:03",
+      "speaker": "GOUDE",
+      "sentences": "And I'm not a physicist or anything here, but when you fire a shotgun, things are going in a direction that they're going to spiral, right?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "04:20:03",
+      "speaker": "PALMBACH",
+      "sentences": "Correct.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "04:20:03",
+      "speaker": "GOUDE",
+      "sentences": "So, there wouldn't be just like a boom explosion like from a bomb, when you fire a shotgun.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "04:20:03",
+      "speaker": "PALMBACH",
+      "sentences": "Actually, that's more exactly what it would be like, yes.GALLAGHER (voice-over): Closing out the day and the defense's case, emotional testimony from the final witness, Alex Murdaugh's younger brother John Marvin Murdaugh who testified about cleaning the crime scene the next day. JOHN MARVIN MURDAUGH, ALEX MURDAUGH'S BROTHER: Y'all can imagine what I experienced. It had not been cleaned up. I saw blood, I saw brains, I saw pieces of skull. And when I say brains, it could just be tissue. I don't know what I was seeing. It was terrible. GALLAGHER (voice-over): But during cross examination the prosecution called back to Alex Murdaugh's own testimony when he admitted to lying about being at the kennels before the murders happened there.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "04:20:03",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Would you agree that that is not full cooperation?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "04:20:03",
+      "speaker": "MURDAUGH",
+      "sentences": "By him not telling SLED that he was at the kennel?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "04:20:03",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Correct",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "04:20:03",
+      "speaker": "MURDAUGH",
+      "sentences": "I would say that, yes. He lied.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "04:25:00",
+      "speaker": "FOSTER",
+      "sentences": "A campaign style video, a memoir and a feud with Disney, Florida's governor grabs more headlines as he eyes a potential run for the White House. Details after the break.(BEGIN VIDEO CLIP) RON DESANTIS (R) FLORIDA GOVERNOR: There's a new sheriff in town and accountability will be the order of the day. (END VIDEO CLIP) (COMMERCIAL BREAK)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "04:25:00",
+      "speaker": "NOBILO",
+      "sentences": "Welcome back to CNN NEWSROOM. I'm Bianca Nobilo.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "04:25:00",
+      "speaker": "FOSTER",
+      "sentences": "I'm Max Foster. Thank you for joining us. These are the top stories this hour.Later today head of the Environmental Protection Agency will head back to East Palestine, Ohio to set up a welcome center for residents, this as the agency have taken over full control of the cleanup efforts following the toxic train disaster. At least 15 million people are under winter weather alerts in the U.S. Northeast. Whilst blizzard conditions are pummeling the West Coast. Heavy snow in California's San Bernardino County is causing gas and food shortages for residents. CNN's local affiliate KCRA's reporter Orko Manna is on the ground in California. (BEGIN VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "04:25:00",
+      "speaker": "ORKO MANNA, RCRA REPORTER",
+      "sentences": "Highway 50 here and Pollock Pines closed for hours because of the snow on the ground and the low visibility. Meanwhile drivers wondering when they will be able to get through.MANNA (voice-over): For drivers heading up highway 50, it's hard to miss the heavy snow and strong winds those conditions have led to low visibility. Chains were required for much of the day Monday and Caltrans crews eventually had to block Highway 50 east of Pollock Pines and west of Myers because of multiple spinouts and near whiteout conditions. One by one travelers are being turned away. Many of them are praying they can get to their destinations.",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

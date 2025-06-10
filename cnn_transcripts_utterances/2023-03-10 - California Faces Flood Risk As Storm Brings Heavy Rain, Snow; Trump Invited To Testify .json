@@ -1,0 +1,331 @@
+{
+  "date": "2023-03-10",
+  "headline": "CNN Newsroom",
+  "subHeadline": "California Faces Flood Risk As Storm Brings Heavy Rain, Snow; Trump Invited To Testify In NY Hush Money Investigation; Kyiv Holds Memorial For Ukrainian Commander Killed In Bakhmut. Aired 3-3:30p ET",
+  "utterances": [
+    {
+      "timeStamp": "15:00:34",
+      "speaker": "BIANNA GOLODRYGA, CNN HOST",
+      "sentences": "It is the top of the hour on CNN NEWSROOM. Hello, everyone. I'm Bianna Golodryga.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:00:34",
+      "speaker": "VICTOR BLACKWELL, CNN HOST",
+      "sentences": "I'm Victor Blackwell. The West Coast is facing a life threatening flood emergency right now. The powerful winter storm is pushing east and so right now and we just learned from - of two storm-related deaths. So we'll get you the latest on that as soon as we get more in.A driver recorded this video of floodwaters rushing into town of Springfield - Springville. That's in central California. He said conditions there were getting worse by the minute.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:00:34",
+      "speaker": "GOLODRYGA",
+      "sentences": "Officials in that county and several others have issued evacuation orders urging residents to get to higher ground for their own safety. And part of Interstate 580 in Oakland had to be shut down for several hours today. Officials blaming heavy rains and a failed water pump.CNN's Nick Watt is in Felton in California, Santa Cruz County for us. And Meteorologist Derek Van Dam is at the CNN web - Weather Center. Nick, let's start with you. What are we seeing behind you right now?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:00:34",
+      "speaker": "NICK WATT, CNN NATIONAL CORRESPONDENT",
+      "sentences": "Well, since we last spoke, Bianna, we've moved from Felton down near the coast near Santa Cruz to Soquel. What you are seeing right here is an earthmover trying to build a makeshift road. This road was washed out at about 2 am. I'm afraid to say I was up and about at that time and the rain was biblical, just washed this road away. You can see the gas line still there, there was until about 30 seconds ago where - for Lauren-looking palm tree hanging over my shoulder. The earthmover just pulled that down. Kind of emblematic of what's going on in this part of California right now.Now, the reason that they are trying to make at least one lane here possible is this is the only road that connects (inaudible) that are further up the hillside from me. All these people are right now blocked in, no way to get out, no way to evacuate even if they had to. So this right now trying to fix some infrastructures so much of this state has been hit by the storm. So much water, slippage is onto roads. Ironically, some people here were also without water service for a while that has now been restored. We're hearing in Watsonville, just a little bit, about a half hour away from here, there is flooding in residential neighborhoods. There are flood watches across much of the state about 17 million Californians under flood watch right now. At the moment, we do not have any rain actually falling from the sky. But we do have all this water rushing down the rivers. We have the snow melt from this warm storm that's melting that snow that's fallen over the past couple of months. And we are in line for another so called atmospheric river to hit this part of California. The forecast for Soquel over the next few days is rain through Tuesday. Just how much, just how damaging, we'll have to wait and see here and across much of the central part of this state, guys.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:00:34",
+      "speaker": "BLACKWELL",
+      "sentences": "Derek, let's go to you.This is known as an atmospheric river. Explain what that is.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:05:00",
+      "speaker": "VICE MAYOR RENEE GOLDER, SANTA CRUZ, CALIFORNIA",
+      "sentences": "So currently it's not raining and we're grateful for that, but there was up to six inches of rain last night, so.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:05:00",
+      "speaker": "GOLODRYGA",
+      "sentences": "What are you most concerned about right now for the city and its residents?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:05:00",
+      "speaker": "GOLDER",
+      "sentences": "It's currently high tide right now and so the storm surf is also big and as you may or may not know, we had some critical damage to our West Cliff Drive, which is an arterial road and an asset to all of - the West Coast in terms of coastal access.And so we haven't been able to repair that yet and so if the storm is producing high surf, high tides and then in addition, the water coming down through the San Lorenzo River through the watershed from where you - the last person was up in Felton down through the city of Santa Cruz, that could cause additional flooding and damage. The river was up to 20 and - 20 feet and five inches at one point this morning already.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:05:00",
+      "speaker": "BLACKWELL",
+      "sentences": "So we've heard in the video we've seen there are some officials calling for people to get to higher ground now. Are you expecting the need for evacuations especially close to the San Lorenzo River?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:05:00",
+      "speaker": "GOLDER",
+      "sentences": "There was a little bit of flooding in a park and there was about five feet of flooding in some lower lying apartment buildings called the tannery that - luckily the ground floor is parking, so I think at this point, we're probably safe. What's to come I can't predict. I do know there's definitely evacuations happening in other parts of the county in Pajaro and around Soquel.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:05:00",
+      "speaker": "GOLODRYGA",
+      "sentences": "What's the size population-wise of Santa Cruz right now?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:05:00",
+      "speaker": "GOLDER",
+      "sentences": "The city has about 66,000, the county is about 250,000, I believe.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:05:00",
+      "speaker": "BLACKWELL",
+      "sentences": "And how close - I mean, are there people who are they're right on the river and would have to get out pretty quickly if that river rises as quickly as it could?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:05:00",
+      "speaker": "GOLDER",
+      "sentences": "I think there's certainly parts where houses - yes, they would have to - they would have to evacuate. A lot of our town is protected with a levee that was built, I believe, in the '50s by the Army Corps of Engineers. And I wouldn't anticipate that that would fail.However, we do have some low lying areas in the beach flats and different parts of town that have flooded in the past. And I would expect that that would be where we could perhaps see flooding again ...",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:05:00",
+      "speaker": "GOLODRYGA",
+      "sentences": "Yes. Well, do keep us posted ...",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:05:00",
+      "speaker": "GOLDER",
+      "sentences": "... as well as damage to some of our critical infrastructure.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:05:00",
+      "speaker": "GOLODRYGA",
+      "sentences": "Yes, I know that there's ...",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:05:00",
+      "speaker": "GOLDER",
+      "sentences": "Sorry.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:05:00",
+      "speaker": "GOLODRYGA",
+      "sentences": "... infrastructure there in place. But as we had been reporting, this is a once in 40 year type of situation going on right now, so I know things are very, very serious. And please keep us posted on how things stand and stay safe.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:05:00",
+      "speaker": "GOLDER",
+      "sentences": "Absolutely. Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:05:00",
+      "speaker": "GOLODRYGA",
+      "sentences": "Vice Mayor Renee Golder.Well, back here in New York, prosecutors are now inviting former President Trump to testify in front of a grand jury and a sign that investigators may be closing in on charges against him.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:05:00",
+      "speaker": "BLACKWELL",
+      "sentences": "This is part of the state's probe into $130,000 Trump allegedly paid to adult film star Stormy Daniels just before the 2016 Election, Trump is accused of giving her the money to stay silent about an affair that she says they had.CNN's Kara Scannell is here with us. So what is this invitation I mean for, tell us about the case.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:10:03",
+      "speaker": "MICHAEL COHEN, FORMER TRUMP PERSONAL ATTORNEY",
+      "sentences": "I have to applaud District Attorney Bragg for giving Donald the opportunity to come in and to tell his story. Now knowing Donald as well as I do understand that he doesn't tell the truth. It's one thing to turn around and to lie on your unTruth Social. It's another thing to turn around and lie before a grand jury, so I don't suspect that he's going to be coming.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:10:03",
+      "speaker": "SCANNELL",
+      "sentences": "So one of the charges that the DA's office is looking at involves falsifying business records that relates to, excuse me, reimburse Michael Cohen for making the payments to stormy Daniels and whether those records within the Trump Organization's general ledger were falsified. That's a misdemeanor. But they could make the case for a felony. It's still one of the lowest felonies in New York.If they're able to show that this falsification was made to commit or conceal another crime and that's where this potential campaign finance violation comes in. But it's a novel legal theory. It hasn't been tested in New York before. So there is something for the Trump legal team to work with here. I mean, Trump has denied making this payment. His lawyers have said this is selective prosecution. They've been looking at him every which way and this is what they're going at. And they're also signaling what I think may become part of their defense here, calling this an extortion payment that was executed by Cohen, who was then Trump's lawyer, so trying to distance him that and calling Trump himself a victim here.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:10:03",
+      "speaker": "GOLODRYGA",
+      "sentences": "They've been calling this a witch hunt now for years.Kara Scannell, thank you. Of course, all this is happening as Trump enters his third presidential race. So let's go to CNN Senior Political Analyst, Gloria Borger. So Gloria, as you heard now from Kara, I mean, that this is sort of a ...",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:10:03",
+      "speaker": "GLORIA BORGER, CNN CHIEF POLITICAL ANALYST",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:10:03",
+      "speaker": "GOLODRYGA",
+      "sentences": "... a novel legal theory here, that the chances of the former President spending any time behind bars are slim to none. This could possibly be most likely a misdemeanor, if anything. Having said that, it would be the first ...",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:10:03",
+      "speaker": "BORGER",
+      "sentences": "Sure.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:10:03",
+      "speaker": "GOLODRYGA",
+      "sentences": "... for a former president to be indicted. He said it's not going to impact his campaign one way or the other. What do you make of it?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:10:03",
+      "speaker": "BORGER",
+      "sentences": "I think he's probably right at this point. To a lot of people, this seems to be a contrived case. As Kara was explaining, it started as a paperwork issue, and now suddenly becomes a campaign finance issue, potentially a felony.And, Donald Trump has a lot of other issues: He's got the Georgia issue, the question of fake electors; he's got the documents taken from Washington, D.C., the classified documents; he's got the question of whether he led an insurrection. If you're going to start with a case, the people I've been talking to her in the political world, Democrats say, this isn't really the case to start with, because there are so many more serious issues out there. And Donald Trump, of course, can claim as you guys were talking about, that he's the victim here. And he can continue to say that as potential legal action against him mounts. So this is a - this is the beginning of that,",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:10:03",
+      "speaker": "BLACKWELL",
+      "sentences": "Interestingly enough, it could help his campaign.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:10:03",
+      "speaker": "BORGER",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:10:03",
+      "speaker": "BLACKWELL",
+      "sentences": "You'll remember after the search at Mar-A-Lago, he was raising a million dollars a day ...",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:10:03",
+      "speaker": "GOLODRYGA",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:10:03",
+      "speaker": "BORGER",
+      "sentences": "Exactly.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:10:03",
+      "speaker": "BLACKWELL",
+      "sentences": "... after that, so it could certainly help. Let's turn to a potential opponent, likely opponent, Ron DeSantis, in Iowa. Some of the reporting or the framing around it Gloria has been - this is the first big test. Is this a test when you sit down with a friendly governor who's asking you questions you know are coming, you're not doing the typical Iowa thing of sitting with 10 people at a time ...",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:10:03",
+      "speaker": "BORGER",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:10:03",
+      "speaker": "BLACKWELL",
+      "sentences": "... what do you think - how should we frame what we're watching Ron DeSantis do in Iowa?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:10:03",
+      "speaker": "BORGER",
+      "sentences": "Well, he's kind of dipping his toe here in the water. And he's not doing a huge town hall where anybody can ask him questions and have that kind of back and forth you have in Iowa. But what he's doing is he's really setting the stage and distancing himself from Donald Trump.He was talking about COVID and how he handled it differently from Donald Trump. He made the point that this is no drama. There's no intrigue in the DeSantis administration in Florida. We just get things done. Well, who do you think he's referring to there without mentioning Donald Trump's name, so he's clearly setting this up as a kind of mano a mano race and going to Iowa before Donald Trump does.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:10:03",
+      "speaker": "GOLODRYGA",
+      "sentences": "So let me ask you a question we asked Paul Begala earlier ...",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:10:03",
+      "speaker": "BORGER",
+      "sentences": "Yes. GOLODRYGA",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:15:03",
+      "speaker": "BLACKWELL",
+      "sentences": "Do you think this proposal from and it's not an original proposal ...",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:15:03",
+      "speaker": "BORGER",
+      "sentences": "No.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:15:03",
+      "speaker": "BLACKWELL",
+      "sentences": "... she's just the first running this time this proposal from Nikki Haley to means test Social Security, reduce benefits or partially or altogether for the wealthiest Americans, and then raise the retirement age. Is that treacherous for her campaign?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:15:03",
+      "speaker": "BORGER",
+      "sentences": "Yes. Totally treacherous. And the thing about means testing Social Security is that it's an issue that's come up time and time again, as has raising the retirement age. But I remember when Pat Moynihan, ages ago made the case that Social Security is not a welfare program. Social Security is something that people pay into their entire work lives, whether you're wealthy or whether you're not wealthy.And so to take away benefits from people who have paid in would be very difficult. I think it's more treacherous when you talk about raising the retirement age. And Congress has thought about this and has thought about doing it for a long time. In a way, you have to give Nikki Haley some credit for raising the issue because you want you want social security to be solvent, and a lot of young people believe it's not going to be there for them. But I do think to dip her toe to say that again, in this water at this time. When Donald Trump is saying I'm not going to touch Social Security and Republicans are now saying I'm not going to touch Social Security, I think it's dangerous for her to do that.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:15:03",
+      "speaker": "BLACKWELL",
+      "sentences": "All right. We'll see if there is any - another person who is in this race who sides with her on that. Gloria Borger, thanks so much.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:15:03",
+      "speaker": "BORGER",
+      "sentences": "We might. Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:15:03",
+      "speaker": "BLACKWELL",
+      "sentences": "All right. In Ukraine, fierce fighting is happening in the battle for Bakhmut. We'll take you there.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:21:36",
+      "speaker": "BLACKWELL",
+      "sentences": "In Ukraine, fierce fighting continues near the City of Bakhmut, which remains the hottest spot on the front line. That's according to Ukrainian military leaders. This video shows heavy Russian shelling in the region.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:21:36",
+      "speaker": "GOLODRYGA",
+      "sentences": "Now as the battle rages, thousands of Ukrainians gathered today in Kyiv for the somber funeral of a decorated Ukrainian military commander affectionately known as Da Vinci. He was killed this week in Bakhmut. President Zelenskyy gave the commander the title of Hero of Ukraine last year. Now, the 27-year-old was the youngest battalion commander in the history of the Ukrainian army.Sources are now telling CNN that Russia is taking U.S. and NATO weapons left behind or captured on the battlefields in Ukraine and sending them to Iran.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:21:36",
+      "speaker": "BLACKWELL",
+      "sentences": "CNN's Natasha Bertrand joins us now from the Pentagon. Tell us more about that.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:21:36",
+      "speaker": "NATASHA BERTRAND, CNN WHITE HOUSE REPORTER",
+      "sentences": "Yes, Victor.So what we're learning is that as part of this growing defense partnership between Russia and Iran, Russia has actually been taking some of the weapons that it has been able to capture on the battlefield from Ukraine - in Ukraine to Iran. And these are systems that are not as large as perhaps other systems that the U.S. is sending, they're shoulder fired, they're things like javelin, anti- tank systems and Stinger anti0aircraft systems. But there's - it's still significant, we are told, that they're sending them to Iran, because the main reason why they're doing that is likely because Iran is then going to reverse engineer the systems to make their own tools and potentially proliferate those systems throughout the region. And the Iranians have actually proven to be quite adept at doing this. They have reversed engineered a number of us made systems in the past, including anti-tank guided missiles and drones. So this is something that is sparking a lot of concern, of course, among Middle East watchers, because it could cause some unease in the region. But it also - it's also important to note that this is not necessarily a widespread or systematic issue in Ukraine. The Ukrainians are not losing a ton of us provided equipment to Russian forces. And every time they do lose a system that has been provided by the U.S. or the West, they actually do inform the Pentagon when those systems fall into Russian hands, either because the Ukrainians have had to withdraw suddenly or because they are overrun, so this happens in war, right. And that is essentially the message that we're getting from the Pentagon. We were told by a defense official that Colin Cole, when - a senior Pentagon official - his comments on this stand regarding the diversion of the weapons that the U.S. is providing to Ukraine. It is not happening in large number as Cole said but they are seeing Russia capturing some of that equipment. However, right now, it's not a huge concern. But this partnership between Iran and Russia, it is growing, it is intensifying and it is concerning leaders, of course, globally, guys.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:29:16",
+      "speaker": "GOLODRYGA",
+      "sentences": "President Biden took a victory lap on the economy today. The U.S. added 311,000 jobs in February much higher than expected.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:29:16",
+      "speaker": "BLACKWELL",
+      "sentences": "And that number may push the Fed to continue forward with these rate hikes. CNN;s White House correspondent Arlette Saenz is with us now. So how does the White House balance the strong jobs report with inflation and these rising interest rates?",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

@@ -1,0 +1,397 @@
+{
+  "date": "2023-01-09",
+  "headline": "CNN Newsroom",
+  "subHeadline": "Georgia Special Grand Jury Finishes Trump Election Probe; Bills Player Damar Hamlin Released From Hospital, Back In Buffalo; McCarthy Faces New Battle Of Passing House Rules Package; Rep. Dusty Johnson (R-SD) Discusses About The Changes In The House Of Representatives Under Kevin McCarthy; 7,000 Plus Nurses At Two Major NYC Hospitals Go On Strike. Aired 3-3:30p ET",
+  "utterances": [
+    {
+      "timeStamp": null,
+      "speaker": "ALISYN CAMEROTA, CNN HOST",
+      "sentences": "It's the top of the hour on CNN NEWSROOM. I'm Alisyn Camerota.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": null,
+      "speaker": "VICTOR BLACKWELL, CNN HOST",
+      "sentences": "I'm Victor Blackwell. Good to be with you.We are following a major development in a potential criminal case against Donald Trump and his allies. The special grand jury in Georgia investigating possible illegal interference in the 2020 election is now done. This is the panel set up by Fulton County's District Attorney after Trump lost the election and made this call to Georgia Secretary of State. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": null,
+      "speaker": "DONALD TRUMP, FORMER PRESIDENT OF THE UNITED STATES",
+      "sentences": "All I want to do is this. I just want to find 11,780 votes, which is one more than we have.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": null,
+      "speaker": "CAMEROTA",
+      "sentences": "Well, since its inception nearly a year ago, the special grand jury has interviewed some of Trump's closest allies. A new court filing reveals the panel is now dissolved and that its investigation is complete.CNN Correspondent Nick Valencia joins us now from Atlanta. So Nick, this kind of grand jury, we now understand, does not issue indictments, so now what?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": null,
+      "speaker": "NICK VALENCIA, CNN CORRESPONDENT",
+      "sentences": "(Inaudible) their work in May of 2022 that this special purpose grand jury did not have the power or authority to issue indictments. Instead, their goal when they set out was to issue a final report and make recommendations based on their findings and now it's in the hands of the district attorney here in Fulton County Fani Willis as to whether or not she wants to take these findings to a normal grand jury and pursue criminal indictments based on her investigation into potential election interference here. And that process still needs to play out. We don't know what she'll do. That timeline is not certain yet. But what we do know is that even though this special purpose grand jury did not have the power to indict, they did have the power to subpoena and they did just that and that resulted in a number of high profile individuals in Trump's orbit coming here to Fulton County to testify in front of the jurors, which included the former attorney for the former president, Rudy Giuliani, South Carolina senator, Lindsey Graham, the governor here in Georgia, Brian Kemp just to name a few.And what started as an investigation into that phone call that you just played, the now infamous phone call shortly after the 2020 election between the former president and secretary of state Brad Raffensperger, which Trump pressured Raffensperger to find votes. The investigation started on that but it really broadened out over time to include a fake electoral scheme in which Trump allies tried to subvert the Electoral College and certify him as the rightful winner of the state of Georgia. They were also interested in Rudy Giuliani's false statements and conspiracy spreading during his conversations with Georgia lawmakers. In fact, Rudy Giuliani was named a target of this criminal investigation by Fani Willis. They were also looking into whether or not people that were unauthorized access voting machines in at least one county together though we don't know whether or not ...",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:05:01",
+      "speaker": "KATHERINE FITZGERALD, BUFFALO NEWS",
+      "sentences": "Hi. Katherine Fitzgerald from the Buffalo News. Thank you guys so much for the update. I wasn't expecting so much good news so soon so I'm - my questions are a little different now, but I was wondering if you could talk a bit more about the next steps for Damar Hamlin at this point, what he still needs to do and what that outpatient care will look like, thank you.DR. TIMOTHY PRITTS, PROFESSOR, DEPARTMENT OF SURGERY, UNIVERSITY OF CINCINNATI COLLEGE OF MEDICINE: Certainly. A great question and neither are we to be candid. We continue to be ecstatic about his recovery. And as Bill mentioned, when we started all this, what we told his parents is the only thing that mattered was the patient in the bed to get them back to him and his family and to his community. So we anticipate that he will undergo an ongoing series of tests and evaluations to determine the etiology of what caused the incident on Monday night and to treat any pathology that may be found.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:05:01",
+      "speaker": "FITZGERALD",
+      "sentences": "And just one follow up, with that ongoing testing, what does that timeline look like and is there anything that you're able to rule out at this point to the cause or is it still too early on that?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:05:01",
+      "speaker": "PRITTS",
+      "sentences": "I think it's still fairly premature to comment on that and further timeline will be determined by him, most importantly, but also by the experts in the hospital where he is now.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:05:01",
+      "speaker": "FITZGERALD",
+      "sentences": "Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:05:01",
+      "speaker": "LIZ BONIS, WKRC TV",
+      "sentences": "Hey, guys.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:05:01",
+      "speaker": "PRITTS",
+      "sentences": "Hi.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:05:01",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "Hi.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:05:01",
+      "speaker": "BONIS",
+      "sentences": "Here we are. My name is Liz Bonis. I'm with WKRC TV here in Cincinnati, so glad to be able to share your work and the latest update. So will he go to another rehab facilities are a step down that he will be followed in now? And also I wondered, did you ever have to cool down his body when you brought him in? Is that one of the reasons or one of the things that you credit to him doing so well right now?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:05:01",
+      "speaker": "KNIGHT",
+      "sentences": "So I can't speak exactly to where he is right now. He has been transferred to another hospital. In terms of those next steps, again, we're going to defer to the very capable and excellent hands that he's in. As for the question, you refer to - what we call as targeted temperature management - and the answer is yes.Damar was placed on our targeted temperature management protocol and he was managed in that by our neurocritical care team. Most - for most of the duration really up into the point that he got extubated was the point that we had him under fairly aggressive temperature management.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:05:01",
+      "speaker": "BONIS",
+      "sentences": "And then last thing, do you see him back on the field this lifetime? Do you see limitations to his future?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:05:01",
+      "speaker": "KNIGHT",
+      "sentences": "So I think we're in the same place that we were in the last discussion is that it is entirely too premature to discuss not only his football, it's that we're really focused on his day-to-day recovery.He still has a little bit of a ways to go in terms of his ongoing recovery. We're thrilled to where he is today. He's up. He's walking around. He's got an amazing genuine sense of humor and his family is amazing, and we're happy he's with them. But in terms of any kind of conjecture to his future, it's still - that's still significantly into the future and it's going to be up to Damar and in a great team of physicians to help him.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:05:01",
+      "speaker": "BONIS",
+      "sentences": "What do you mean when you say he still has ways to go?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:05:01",
+      "speaker": "KNIGHT",
+      "sentences": "Just ongoing recovery and - I mean, he just got extubated three days ago, so he's still got some recovery to do.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:05:01",
+      "speaker": "BONIS",
+      "sentences": "All right. Great. Thanks, guys.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:05:01",
+      "speaker": "PRITTS",
+      "sentences": "Thanks, Liz.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:05:01",
+      "speaker": "COLEY HARVEY, ESPN REPORTER",
+      "sentences": "Hi, everyone. Coley Harvey from ESPN. Echoing so many sentiments definitely did not realize this was the news that we would get today, so your staff should feel very good about your work.You said that he was walking around the unit, when exactly did he begin walking?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:05:01",
+      "speaker": "KNIGHT",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:05:01",
+      "speaker": "PRITTS",
+      "sentences": "Yes, I think he walked his first lap on Friday.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:05:01",
+      "speaker": "HARVEY",
+      "sentences": "On Friday, wow.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:05:01",
+      "speaker": "PRITTS",
+      "sentences": "Yes, breathing tube came out just to clarify the timeline, but breathing came out early Friday morning and he's continuing to make good progress since, but worked with physical therapy and was - had assisted walks with the nursing staff on Friday. Continuing to regain strength. He's certainly on what we consider a very normal to even accelerated trajectory from the life threatening event that he has - that he underwent but he's making great progress.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:10:04",
+      "speaker": "HARVEY",
+      "sentences": "And actually one more for me, what does that recover ...",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:10:04",
+      "speaker": "BLACKWELL",
+      "sentences": "Just the best story of the day now.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:10:04",
+      "speaker": "CAMEROTA",
+      "sentences": "And all the reporters were surprised that that was the breaking news. Nobody expected him to already be out of the hospital.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:10:04",
+      "speaker": "BLACKWELL",
+      "sentences": "Yes, not only is he doing better, he's well enough now to have been released from the hospital and now is back in Buffalo, at another hospital now.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:10:04",
+      "speaker": "CAMEROTA",
+      "sentences": "Transferred I guess, that ...",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:10:04",
+      "speaker": "BLACKWELL",
+      "sentences": "Transferred to another hospital, but healthy enough to fly and they, of course, will determine the impact of that flight.Let's bring in now CNN Sports Anchor, Coy Wire. He is in Buffalo and CNN Medical Analyst, Dr. Leana Wen. And Dr. Wen, let me start with you. Based on what we saw on Sunday, the collapse and then have to be intubated, not able to speak, now a week later, he's taken a flight back home, has been walking for days, is this as remarkable of a recovery as it sounds for this timeline?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:10:04",
+      "speaker": "LEANA WEN, CNN MEDICAL ANALYST",
+      "sentences": "Yes, it is remarkable. I'm so happy that this is the case for Damar Hamlin. I'm so thrilled for his family and for him. But it is something that is rather exceptional and I think there are at least three factors that were working for him.One is that he got exceptional medical care. Two is that he was previously an extremely healthy individual and third, and I think we cannot discount this, is that he had rapid resuscitation. Within seconds, he had an entire medical team come to his rescue. He had a cardiac arrest. We know that he had a - his heart stopped and he basically died on the field. But he was able to be brought back to life because he had a defibrillator that was used right there, because CPR was started immediately and that allowed blood to keep on going to his vital organs. That's really the main reason why he has been able to make this kind of rapid recovery. And I think the takeaway here needs to be that we all need that kind of quick resuscitation. The NFL for their games have more than two dozen medical staff on hand, including several attending physicians. That's not the case for most sports games are most places around us. And so I hope this is a call for all of us to get trained on using CPR, and to also have defibrillators readily available because we need everyone to be able to have this kind of remarkable outcome.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:10:04",
+      "speaker": "CAMEROTA",
+      "sentences": "Coy, forgive me, but I felt like you were being a little Coy when we last spoke to you just a few minutes ago, and you alluded to something about maybe he'll be back in Buffalo soon. Do you know anything about where - which hospital he's in or what's happening with him now?COY WIRE, CNN SPORTS ANCHOR &amp; CORRESPONDENT: I see what you did there, Alisyn, very well done. Look, this was a sensitive situation. I was told yesterday that there was a chance that he would be back in Buffalo and in the facilities today. But as doctor just mentioned, this was such a sensitive situation that his health could have taken a turn for the worse at any moment, based on what he was - has gone through. But it is such encouraging news to hear now that he is back in Buffalo. And I want to give some further context on just how far he has come. It was seven days ago that as doc mentioned he died on the field, essentially cardiac arrest, heart stopped and the medical workers and the training staff who jumped into action so quickly giving that life saving CPR, the assistant trainer, giving life saving CPR while an assistant equipment manager so deftly and quickly and with poise and precision unscrewing his facemask and removing it so they could give him oxygen without moving his head by the way, because they didn't know if it was a spinal cord injury at the time. And then also another trainer, and excuse me for giving perhaps too many details, I warn you it could be disturbing, there was blood in his mouth and another trainer was having to scoop blood out of his mouth so that he can have clear airways and he wouldn't become asphyxiated. It gives further context of the scenes we saw with the players, with the tears coming down their eyes as their teammate was getting CPR, hands over their faces and they couldn't believe what they were seeing. They were haunting scenes. And to now know that he is back in Buffalo, Buffalo strong - what a story this is turning out to be. Yes, it's just one of those stories that makes you really grateful for the moments we're given as Dion Dawkins told me on that field last night after the game, it wants - makes him want to be a better father, a better teammate, a better friend, a better human and we should all go home tonight and hug those we love a little extra tight.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:10:04",
+      "speaker": "BLACKWELL",
+      "sentences": "Dr. Wen, what's next in the recovery?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:15:07",
+      "speaker": "CAMEROTA",
+      "sentences": "Well, Dr. Leana Wen, Coy Wire, thank you very much for helping us process and celebrate this breaking news. We really appreciate all of your context that you've given us.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:15:07",
+      "speaker": "BLACKWELL",
+      "sentences": "All right. Now to Washington and now that the fight for speakership is behind them, Kevin McCarthy has a new battle to wage.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:15:07",
+      "speaker": "CAMEROTA",
+      "sentences": "Today, lawmakers are convening in the House chambers to vote on a rules package and this package was central during McCarthy's negotiations with Republican hardliners for him to win the gavel. And some GOP moderates are concerned about the concessions that he made.CNN's Melanie Zanona is on Capitol Hill for us. So what now, Melanie?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:15:07",
+      "speaker": "MELANIE ZANONA, CNN CAPITOL HILL REPORTER",
+      "sentences": "Well, this is going to be Kevin McCarthy's first real test as speaker. This House rules package contains some of those concessions that he negotiated with his critics in order to get the speaker's gavel. But it doesn't contain all of them. There were some secret handshake deals that were also made in this process.And so what you have today is Republicans really trying to digest what is in that rules package, and also figure out what else there might be and there are concerns from some members. Now, GOP leaders are still confident that they are going to have the votes to pass this package later tonight, but they are racing behind the scenes to address some of these concerns from members like Nancy Mace who said she's on the fence about the rules package or to Tony Gonzales who said he has a hard no on that package. And part of the defense from GOP leaders and part of their pitch is either trying to downplay these concessions or trying to defend them. Just take a listen to what House Majority Leader Steve Scalise told our Manu Raju earlier today. (BEGIN VIDEO CLIP) REP. STEVE SCALISE (R-LA): Well, that's what Congress worked for over 200 years. Nancy Pelosi is the one who changed it. We're changing it back to what it used to be. We're making members of Congress to have work again. Just think about this for the last two years, you've had proxy voting, including just a few weeks ago where you had dozens if not over hundred Members of Congress voting from a remote location on a $1.7 trillion spending bill that was written in dark of night and dropped on members before they could read it. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:15:07",
+      "speaker": "ZANONA",
+      "sentences": "Now, GOP leaders can only afford to lose four votes on the House package. That is going to be the case with every bill going forward. So GOP leaders are leaving little to chance. Victor? Alisyn?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:15:07",
+      "speaker": "BLACKWELL",
+      "sentences": "Melanie Zanona for us, thank you very much.Congressman Dusty Johnson is a Republican from South Dakota. He is with us now. Congressman, it's good to see you. Melanie just mentioned Congressman Gonzales out of Texas. I want to play why he says he opposes this rules package. (BEGIN VIDEO CLIP) REP. TONY GONZALES (R-TX):         I'm against the rule for a couple of different reasons. One is the defense spending - the cut in defense ...",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:15:07",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:15:07",
+      "speaker": "GONZALES",
+      "sentences": "... I think that's absolutely terrible idea. But the other is to vacate the chair. I mean, I don't want to see us every two months being locked down.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:15:07",
+      "speaker": "BLACKWELL",
+      "sentences": "All right. So let's start with the ability for one member to call for a vote to vacate the chair, which means potentially going through, again, what happened last week. How does Kevin McCarthy rule, governed with that hanging over his head?REP. DUSTY JOHNSON (R-SD): It is going to be difficult to govern this House with such a narrow majority. But this motion to vacate, whether it was at five or at one doesn't really matter. Listen, if you've got one person in this House really fired up about something, I guarantee you, you have five people really fired up about something. So what Kevin McCarthy and frankly all the rest of us are going to have to do is make sure that we're working together or communicating nonstop, and that we don't have things that come to the floor that can't get supported by a broad cross section of the Republican Conference. Ultimately, that's going to be a good thing.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:20:10",
+      "speaker": "JOHNSON",
+      "sentences": "Well, Tony Gonzales has a good number. But let's keep in mind this rules package does not have - it does not say one - and it does not say that we have to make cuts to defense spending. I understand his concerns, because it was kind of part of the conversation last week. But a vote on the yes - a vote yes on this rules package does not cut a single dollar from our nation's defense.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:20:10",
+      "speaker": "BLACKWELL",
+      "sentences": "Yes, that's ...",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:20:10",
+      "speaker": "JOHNSON",
+      "sentences": "But I would also say this ...",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:20:10",
+      "speaker": "BLACKWELL",
+      "sentences": "... that would be ...",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:20:10",
+      "speaker": "JOHNSON",
+      "sentences": "... we're $33 trillion in debt. If we're not willing to look at every major expense of this country to figure out how we can do better shame on us.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:20:10",
+      "speaker": "BLACKWELL",
+      "sentences": "So when you say it was kind of part of the conversation, this is one of those handshake deals that Melanie mentioned, apparently and this is what I learned from the conversation that Jake Tapper had over the weekend with Congressman Chip Roy. There was this agreement to cut discretionary spending back to 2022 levels. He's expected to keep that that agreement. I ask you again, is that something you support, although it's not in the rules package that will be voted on tonight.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:20:10",
+      "speaker": "JOHNSON",
+      "sentences": "I do support tightening the belt. With $33 trillion in debt, we absolutely need to look at discretionary programs and figure out where we can cut. Now, Kevin McCarthy doesn't control my voting card and he doesn't control Tony Gonzales'.And so there are going to be times as we move through this budgetary discussion that individual Republicans are going to have concerns with a cut. And then, of course, we've also got the United States Senate we've got to deal with, so there is going to be lots more to discuss about this over the course of the next two years.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:20:10",
+      "speaker": "BLACKWELL",
+      "sentences": "Are you confident that you know the full scope of the concessions that Kevin McCarthy made to get some of those holdouts support or at least to vote present so that he could get the gavel?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:20:10",
+      "speaker": "JOHNSON",
+      "sentences": "I am confident that myself as well as the overwhelming majority of the Republicans in this conference do have a good sense of what was agreed to. But the rules package tonight is - but for one number is the exact same rules package that every member has had seven days to review. And yes, the motion to vacate went from five members to one member, but everything else is as it was. Members should have confidence voting yes tonight.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:20:10",
+      "speaker": "BLACKWELL",
+      "sentences": "Congressman Dusty Johnson, thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:20:10",
+      "speaker": "JOHNSON",
+      "sentences": "You bet.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:20:10",
+      "speaker": "CAMEROTA",
+      "sentences": "This just into CNN, former Brazilian President Bolsonaro is in the hospital in Florida. This is just a day after his supporters stormed the Capitol.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:26:59",
+      "speaker": "BLACKWELL",
+      "sentences": "Right now more than 7,000 nurses in New York are on strike after negotiations with two of the city's largest hospitals failed. The nurses union said workers are facing burnout from chronic staffing shortages.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:26:59",
+      "speaker": "CAMEROTA",
+      "sentences": "Tentative deals had been reached for nurses at several other New York City hospitals.CNN's Vanessa Yurkevich, which is outside Mount Sinai on the Upper East Side, so what are you hearing there from the nurses?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:26:59",
+      "speaker": "VANESSA YURKEVICH, CNN BUSINESS AND POLITICS CORRESPONDENT",
+      "sentences": "Well, Victor and Alisyn hundreds of nurses have been outside of Mount Sinai Hospital since early this morning. You can see that they are still here right now. It's stretched to city blocks and they are other - also at four other locations around the city and this is after Mount Sinai and Montefiore Hospital in the Bronx fail to reach new agreements with the union.And the sticking point, you said it, is safe staffing. That's the ratio of nurses to patients. We've heard from some folks here that the ratio is up to 20 patients per one nurse when it should be closer to one to four. And that makes it really hard to attract new nurses to the job, creating labor shortages. It's a vicious cycle. I want to bring in Matt Allen right now. He's the vice president bargaining with the local union here and also you work in the delivery unit.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:26:59",
+      "speaker": "MATT ALLEN, LABOR AND DELIVERY NURSE, VP OF THE BARGAINING COMMITTEE",
+      "sentences": "Yes, labor and delivery. Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:26:59",
+      "speaker": "YURKEVICH",
+      "sentences": "Exactly. And tell me why are you out here today and when can you expect to go back to negotiation?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:26:59",
+      "speaker": "ALLEN",
+      "sentences": "Yes, so nurses are out here striking at Mount Sinai Hospital because we're fighting to get safe staffing enforcement language in our contract. We are waiting for management to reach out to us to negotiate again, but until then we will be striking.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:26:59",
+      "speaker": "YURKEVICH",
+      "sentences": "Are you concerned for patients inside the hospital right now?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:26:59",
+      "speaker": "ALLEN",
+      "sentences": "We've been concerned for patients for many years now due to the understaffing of the hospital and that's why we're out here right now.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:26:59",
+      "speaker": "YURKEVICH",
+      "sentences": "Thank you so much, Matt.Now, Montefiore Hospital did go back into negotiations at about 2 pm today. Mount Sinai still waiting, but both hospitals said that they offered the union that same deal, the 19.1 percent pay increase to the union, but they were rejected. The same deal that was offered to other hospitals that was accepted. Contingency plans are underway here. They are rerouting ambulances, rerouting patients, moving NICU babies to other areas and canceling any scheduled surgeries that are not emergency related. But the folks out here today they're saying they would actually rather be inside, Victor and Alisyn, but they're outside here striking today because they believe that fighting for what they deserve will actually help them to take better care of their patients. Victor? Alisyn?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "15:26:59",
+      "speaker": "CAMEROTA",
+      "sentences": "I had two babies in that very NICU. I know how vital the nurses are there in that unit. Vanessa, thank you very much for the reporting.",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

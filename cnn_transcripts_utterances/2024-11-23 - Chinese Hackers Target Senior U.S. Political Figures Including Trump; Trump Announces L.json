@@ -1,0 +1,385 @@
+{
+  "date": "2024-11-23",
+  "headline": "CNN Newsroom",
+  "subHeadline": "Chinese Hackers Target Senior U.S. Political Figures Including Trump; Trump Announces Latest Picks For Key White House Roles; Trump Plans To Fire DOJ Prosecutors Who Investigated Him; Israel Escalates Strikes On Lebanon Killing At Least 20; Israel Hits Several Regions Of Lebanon In Deadly Strikes; Some Of Trump's Cabinet Picks Could Face Tough Confirmation Fights; Chinese Exporters Brace For Higher US Tariffs. Aired 7-8p ET",
+  "utterances": [
+    {
+      "timeStamp": "19:00:00",
+      "speaker": "ALLISON CHINCHAR, CNN METEOROLOGIST",
+      "sentences": "That's where you're going to encounter some of the heaviest rain. But then it begs the question, OK, what about the Macy's Thanksgiving Day Parade? Many folks not only go to see it, but also watch it on TV.The rain is expected to really spread into New York City once we get into the back half of the day and especially Thursday night. So the question becomes the front end likely is going to be OK, but you may start to see some of those isolated showers beginning to pick up towards the back half of the morning. Regardless, it's definitely going to be a chilly one with temperatures at the time of the parade only in the upper 30s.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "19:00:00",
+      "speaker": "JIM SCIUTTO, CNN HOST",
+      "sentences": "I'm going to be watching. I'll be flying as well.Allison Chinchar, thanks so much. Do join CNN for the ultimate Thanksgiving morning watch party. There will be celebrity appearances, a live view of parades across the country. John Berman and Erica Hill host \"THANKSGIVING IN AMERICA\" starting at 8:00 a.m. Thanksgiving morning on CNN and streaming on Max. You are in the CNN NEWSROOM. I'm Jim Sciutto in Washington. Jessica Dean has the weekend off. Tonight we are getting new insight into one of the biggest cyber and national security challenges that will be facing the incoming Trump administration almost immediately. \"New York Times\" was the first to report the top telecom executives, including AT&amp;T and Verizon, were summoned to the White House situation room last night to meet with National Security officials to discuss the scope and scale of what has turned out to be a long running Chinese cyber espionage campaign targeting some of the most senior U.S. political figures in this country, including President-elect Trump. Senator Mark Warner, chairman of the Senate Intelligence Committee, is calling it the worst telecom hack in our nation's history, says the hackers are still inside the system. And by the way, it took a long time to even discover them. In sign of mounting concern and all senators' classified briefing is scheduled for Congress -- for after Congress returns next month. Joining us now is the senior adviser at the Center for Strategic and International Studies, Glenn Gerstell, also served himself long time in the intelligence community. I want to tell you, as you read the details of this hack, how concerned are you?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "19:00:00",
+      "speaker": "GLENN GERSTELL, FORMER GENERAL COUNSEL, NATIONAL SECURITY AGENCY",
+      "sentences": "In one word, very. This attack is audacious. It's sophisticated and it's strategic. It isn't necessarily surprising because we've seen, Jim, China going after our infrastructure, telecoms, valuable assets, stealing intellectual property over the years through cyber warfare. But this is easily the most audacious.Obviously Senator Warner who's not prone to exaggeration described it as the worst telecom hack ever. It is of grave concern for our national security. It's sophisticated because the Chinese were able to figure out apparently some ways to exploit vulnerabilities in our telecom system and then most of all it's strategic because China decided what they wanted to do most, and we don't know this for sure, but this is what it appears like. They wanted to be able to find out which spies, which Chinese spies operating in the United States we might be tracking, trying to use our own surveillance mechanisms on those spies here in the United States, and that's the information they were looking for, among other things.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "19:00:00",
+      "speaker": "SCIUTTO",
+      "sentences": "As I read about this, it strikes me, you can almost describe it as an infection, right? That they've infected the system and it's still there. Senator Warner has said to really dig the hack out and the hackers out, telecom companies might have to replace entire chunks of their infrastructure. I mean, that takes time. It takes money. I mean, I just wonder how quickly this can be rectified.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "19:05:05",
+      "speaker": "SCIUTTO",
+      "sentences": "A couple targets here. As you mentioned, it seems that they were specifically trying to look at how much -- how many Chinese spies the U.S. had identified and who they'd missed so that they could, of course, you know, keep the folks who have been missed and perhaps get rid of the ones who've been identified or move them out. But it also seems that they were targeting senior politicians, including President-elect Trump and J.D. Vance. So it seems like there's a surveillance aspect to this as well.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "19:05:05",
+      "speaker": "GERSTELL",
+      "sentences": "It's totally about surveillance, but it's surveillance for a strategic purpose. The Chinese have already penetrated other infrastructure in the United States. Moving to the communications side enabled them to get some very sophisticated intelligence on the incoming administration which, of course, may be vitally interested in knowing, and then also find out a little bit about what do the U.S. intelligence community, what does the FBI know about spies operating on behalf of China inside the United States.And the way they were able to do that is to go to the mechanism that the FBI uses when it gets a search warrant to go to the telecom companies and say, give us information about this particular target and they were able to exploit that.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "19:05:05",
+      "speaker": "SCIUTTO",
+      "sentences": "So the other piece of this, right, and this is something that from my own reporting has always struck me, that there is national security intelligence gathering and by the way, the U.S. does that, too, on China and other countries. But then there's private sector intelligence gathering and China has been most guilty of many in this field in that it goes after private companies, intellectual property, often with great success.I wrote years ago about how they were able to steal plans for, for instance, top weapons systems from private companies. Do we think that this kind of penetration would have that intent as well?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "19:05:05",
+      "speaker": "GERSTELL",
+      "sentences": "It's too soon to tell exactly what the intent is. Right now it sounds like it's strategic intelligence, getting information about the incoming administration and about what our spy agencies know, as I said already about Chinese spies. But clearly espionage for industrial purposes such as the long recognized theft of intellectual property from U.S. solar panel manufacturers, there's a reason China now dominates that field because they stole the technology. They got it all for free. So this is this is a clear pattern on behalf of China.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "19:05:05",
+      "speaker": "SCIUTTO",
+      "sentences": "It saves you a lot of money when you just steal it.Before we go, you used to work for the NSA as their general counsel. Can we assume that the U.S. has similar capabilities and perhaps penetration of Chinese government secure systems? GERSTELL: Well, the U.S. government has said that in many respects, China is a peer competitor in terms of espionage. It has very significant capabilities. We're seeing that right now. Obviously, the U.S. does as well. We get exquisite intelligence about national security threats facing the United States, not only from China, but elsewhere around the world. So it's -- I don't know that we would necessarily comment, the U.S. government hasn't commented on whether we do anything exactly like this, but I can assure you that the United States government has robust capabilities itself which, of course, complicates this because this isn't an act of war. It's causing grave damages -- a grave damage. It's a tremendous concern but it isn't something we're going to respond to by sending a missile or have a bomber go anywhere. And that's the real problem with this.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "19:05:05",
+      "speaker": "SCIUTTO",
+      "sentences": "No question. How do you respond.Glenn Gerstell, thanks so much for joining.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "19:05:05",
+      "speaker": "GERSTELL",
+      "sentences": "Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "19:13:25",
+      "speaker": "SCIUTTO",
+      "sentences": "Tonight with President-elect Trump's latest picks, Axios says the next White House may include the, quote, \"most ideologically diverse cabinet of modern times.\" Not all of them are what you'd expect from President Trump. RFK Jr., who supports abortion rights, would run Health and Human Services, a pro-union centrist would lead the Labor Department, a former Democrat would be in charge of intelligence, and for Treasury, someone who worked for years with George Soros, a boogeyman for many Republicans.CNN's Alayna Treene is in West Palm Beach. Alayna, you've covered this campaign and now this new administration -- incoming administration for some time. Are these choices with that diversity surface choices or do they reflect a diversity of policy, right? Because the president's quite public pronouncements during the campaign and since envisioned quite a broad change to government and a rightward shift. So does this diversity matter, I guess is my question, or is it just for show?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "19:15:00",
+      "speaker": "SCIUTTO",
+      "sentences": "Yes. Listen, I mean, it's a MAGA policy, right? It's a MAGA ideology as opposed to a traditional Republican one.Alayna Treene, thanks so much. Also tonight, the \"Washington Post\" is reporting, citing two sources close to Trump's transition, that Trump plans to fire the entire team behind Special Counsel Jack Smith, who you'll remember brought two federal prosecutions against the president-elect and, by the way, found -- got grand juries to indict the president multiple times. Trump would also use the DOJ to investigate his already debunked claims about massive fraud in the 2020 election. All right. So let's dig deeper with CNN legal analyst, former federal prosecutor Elie Honig. Elie, I got a lot of questions for you. Let's start with his plans to fire all these DOJ lawyers who worked on these federal investigations, who, as I noted, went to grand juries, who then looked at the evidence and indicted the president-elect. He wants to fire them all. Is there any legal basis to do so? Can he do that under the current structure of the DOJ?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "19:15:00",
+      "speaker": "ELIE HONIG, CNN SENIOR LEGAL ANALYST",
+      "sentences": "Well, the short answer, Jim, is yes. Of course the president or the attorney general can fire prosecutors from DOJ or can try to. Let's remember, the attorney general runs the Justice Department, whether one likes it or not. The president runs the executive branch. And as much as I personally sympathize and empathize with the rank and file, the nonpolitical employees at DOJ, I was one once, they don't make the rules.Now, important to know, first of all, if Donald Trump goes in there and either himself or has Pam Bondi, his attorney general, assuming she gets through, fire these people, that will be breaking a very important bedrock norm of independence at DOJ. Typically political appointees, the attorney general, U.S. attorneys, they're in play, but not the rank and file. But it's also important to note, people can push back. If people get fired, some of them have civil service protections. Some of them have union contracts. So if there is this mass firing, we may well see some lawsuits challenging those firings, which will then have to go through the courts.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "19:15:00",
+      "speaker": "SCIUTTO",
+      "sentences": "OK. So that's one question. Next one, he's talking about firing the FBI director Chris Wray. Simple as just the president saying you're fired?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "19:15:00",
+      "speaker": "HONIG",
+      "sentences": "So, by law, the FBI director is supposed to serve a 10-year term, Jim. And that's done intentionally because the idea is the FBI director is not supposed to serve concomitant with the president, unlike so many other jobs.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "19:15:00",
+      "speaker": "SCIUTTO",
+      "sentences": "Right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "19:15:00",
+      "speaker": "HONIG",
+      "sentences": "If Donald Trump does fire Chris Wray, it seems quite clear he will, let's remember first of all who hired Chris Wray seven years ago, a guy named Donald Trump. He will be firing his own appointee from seven years ago. The other thing that's important to note historically is there have been three FBI directors ever fired by presidents before the end of their 10-year term. One was by Bill Clinton early on in his tenure. That person, a guy named William Sessions, had various problems with personal use of FBI property.And then the other two are going to be Jim Comey and Chris Wray by Donald Trump. So this -- the law says they get 10-year terms, but there's really nothing they can do. Jim Comey didn't resist. Jim Comey didn't sue. SCIUTTO: Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "19:20:01",
+      "speaker": "SCIUTTO",
+      "sentences": "I mean, we say norms, but so many norms have been shredded in the last decade that included by the president-elect. I suppose the country is getting used to them.OK. I want to ask about the other part of this \"Washington Post\" reporting. That is that Trump wants to take the DOJ to, you know, dredge up the false claims about 2020 election being stolen, which, by the way, were already rejected by, as you know, his attorney general at the time, Bill Barr. But he wants to go at it again, which, by the way, as well, is a tactic he's used before. You'll remember, after 2016, he had this commission to investigate just the popular vote in 2016, which he lost, later disbanded because they found nothing. So how does he use the DOJ to investigate something that doesn't exist?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "19:20:01",
+      "speaker": "HONIG",
+      "sentences": "So I think we're going to be saying this quite a bit over the next few years which is it's ridiculous but they can do it. I mean, the Justice Department and the attorney general can decide to use their resources to investigate essentially whatever they want.But I'll tell you right now what the ending is going to be, Jim, you already said it. There is no such thing. And DOJ, by the way, did look at this. As you said, after Donald Trump won the 2016 election, he appointed this commission. They worked for a long time. They issued this ridiculous nothing of a report. It still sits on the internet now. They didn't find anything. And then Bill Barr actually tweaked the rules a little bit in a way I didn't think he should have around the 2020 election to expand DOJ's ability to investigate for election fraud. They did do that before the election, after the election, the whole reason Bill Barr had a falling out with Donald Trump is because Bill Barr went to Donald Trump and said there's nothing there. And then essentially they parted ways. And also, of course, Jim, remember, there was 60 some lawsuits brought that challenged that whether there was election fraud in the 2020 election, of course, all of them but one failed. The one that didn't fail had nothing to do really with the claim of fraud.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "19:20:01",
+      "speaker": "SCIUTTO",
+      "sentences": "Well --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "19:20:01",
+      "speaker": "HONIG",
+      "sentences": "So it's been covered. But if they want to go back and waste resources, nobody can stop them.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "19:20:01",
+      "speaker": "SCIUTTO",
+      "sentences": "Well, there is one election they're not investigating. That's the one they just won. Even though many of the same voting methods, vote by mail, early voting were all used but different outcome. Clearly there was no fraud. I want to ask you about a bigger picture issue which hangs over this,right. You had a president attempt, according to grand jury indictments, to overturn an election. You had a president who took with him to his home a whole host of classified documents. Again, indicted by a grand jury. You have a president who attempted to overturn the results of the election in Georgia in 2020, indicted there, that didn't go anywhere for a whole host of reasons, which you and I have talked about. What is the cloud over the Justice Department and just the legal system that it wasn't able to adjudicate those charges? I mean, prosecuted, but it didn't bring them to trial for a whole host of reasons, delays, et cetera. What cloud does that leave in terms of credibility, right? The credibility of the U.S. rule of law, the U.S. justice system?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "19:20:01",
+      "speaker": "HONIG",
+      "sentences": "Yes, I think there's obviously a lot of blame to go around, Jim. But let me let me point to a couple of things. First of all, the Supreme Court's immunity decision, I don't say it was necessarily right or wrong, but it was certainly very, very broad and gave Donald Trump a lot of cover in the federal cases that were brought against him and the state cases.Also, we have this longstanding DOJ policy. It goes back to 1973 from the Watergate era that says the Justice Department will not prosecute or try or imprison the sitting president. That helped Donald Trump evade the Mueller investigation. And that's the reason actually that the current indictments you just referenced, Jim, they're getting thrown out. It wouldn't matter if Donald Trump fired Jack Smith or not. Jack Smith is out of there because of that policy. He knows he cannot continue with the policy. And then if we want to further look sort of on the other side of things tactically to the way prosecutors have handled this, none of these prosecutors, and I mean Merrick Garland and Jack Smith, I mean Fani Willis, and I mean Alvin Bragg, none of them brought their cases in a timely manner.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "19:20:01",
+      "speaker": "SCIUTTO",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "19:20:01",
+      "speaker": "HONIG",
+      "sentences": "They all waited until the spring and summer of 2023, two and a half years.Jim, I wrote in my book. I know you know this. Back in 2022, it's already too late. They've already waited too long. Anyone who understands how real courtroom criminal cases happen knows that there's no way that you are going to get these cases indicted, get through discovery, get through all the motions and appeals, and tried before the 2024 election. The only one that came in was the hush money case, which is now collapsing anyway.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "19:20:01",
+      "speaker": "SCIUTTO",
+      "sentences": "And listen, some of that goes right to the top of the Justice Department under President Biden and Merrick Garland.Elie Honig, but that's where we are. That's the world we live in. Thanks so much for joining us. HONIG: Thanks, Jim. I'll stay with you. Thanks, Jim.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "19:29:15",
+      "speaker": "SCIUTTO",
+      "sentences": "Israeli airstrikes across Lebanon today have killed dozens of people. Israel escalating attacks despite ongoing efforts to reach a ceasefire deal between Israel and Hezbollah. One strike flattened a residential building in Central Beirut, killing 20 people, injuring dozens more, according to Lebanese officials. The IDF gave no warning or evacuation notice prior to the strike.CNN's Nic Robertson is in Jerusalem following developments.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "19:29:15",
+      "speaker": "NIC ROBERTSON, CNN INTERNATIONAL DIPLOMATIC EDITOR",
+      "sentences": "Jim, this was a no notice strike by the Israeli Air Force in the early hours of Saturday morning. Eyewitnesses talk about several bunker-busting bombs being used. The building reduced to rubble. Eight stories collapsed. A massive crater.This type of strike is typical of what we've seen in the past when the IDF tries to target a senior Hezbollah figure and that appears to be why we've heard from Lebanese officials later in the day saying no senior Hezbollah commander was killed in this particular strike. And a number of other strikes in the southern suburbs of Beirut. These strikes had warnings given people able to get out of the buildings and the IDF saying they were targeting Hezbollah command and control and weapons storage sites. But it does give an indication of the intensity of the fight at the moment, despite the fact that there are ongoing ceasefire negotiations as well in the south, the military there Hezbollah and the IDF facing off in several battles in villages there. At least one of those battles, lasting more than a day. And that's over a strategically important village for Hezbollah. A number of Israeli casualties as well from the fight in the south of Lebanon evacuated to a hospital inside Israel. But the tempo of the fight, the tempo of the airstrikes continuing to be high -- Jim.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "19:29:15",
+      "speaker": "SCIUTTO",
+      "sentences": "And the civilian toll continuing to grow.Nic Robertson in Jerusalem there. Joining me now is Karim Sadjadpour. He's a senior fellow at the Carnegie Endowment For International Peace. Karim, thanks for joining me on this Saturday. KARIM SADJADPOUR, SENIOR FELLOW AT THE CARNEGIE ENDOWMENT FOR INTERNATIONAL PEACE: Thank you, Jim.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "19:29:15",
+      "speaker": "SCIUTTO",
+      "sentences": "First, before we get to Iran, I wanted to ask you about Iran's military tactics, as we are seeing in Lebanon, because that's a no knock bomb on a residential building in Central Beirut. No warnings, so no chance for civilians to get away, flattened the building, killed a couple dozen people.It strikes me that Israel is applying now to Lebanon and in recent days and weeks, the standard of military action that we saw in Gaza, which has led to so many civilian casualties. Basically, if you're close to someone in Hezbollah, you could be killed.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "19:29:15",
+      "speaker": "SADJADPOUR",
+      "sentences": "That's absolutely right, Jim, and Lebanese Hezbollah for four decades has been one of the crown jewels of Iran's revolution and it has been totally decimated over the last few months.We haven't seen however, any apparent change in Iran's regional strategy. They're still committed to replacing Israel with Palestine and committed to trying to evict America from the region. And up until now, the signs we've been getting from the Iranian government are simply that they're going to continue to double down in their support for actors, whether it's Hezbollah and Lebanon or Hamas and Palestine and committed to rebuilding those groups.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "19:29:15",
+      "speaker": "SCIUTTO",
+      "sentences": "I wonder if you think that makes war between Iran and Israel less or more likely. There's a piece in \"Foreign Affairs\" this month written by Kerry Lee which argues that, in effect, now that Iran used Hezbollah as a means of projecting power, as you well know against Israel. But with that removed, that the chances in effect of direct conflict between the two countries is higher. Do you agree?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "19:29:15",
+      "speaker": "SADJADPOUR",
+      "sentences": "I think, Jim, the great possibility of conflict between Iran and Israel at the moment is Israel bombing what is now the command and control of Lebanese Hezbollah is the Iranian embassy in Beirut.If Israel chooses to bomb the Iranian embassy in Beirut, Tehran will be obliged to respond, I think in a pretty major way. I think in my view, that's the highest risk of an Iran-Israel conflict at the moment.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "19:29:15",
+      "speaker": "SCIUTTO",
+      "sentences": "Despite these attacks, and I think what we could describe as an escalation, there are still these ongoing ceasefire talks between Israel and Hezbollah with mediators and the US involved, and some hope that they're moving closer to one. And I wonder, do you share that hope? Do you see a ceasefire deal as potentially in the offing.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "19:35:13",
+      "speaker": "SCIUTTO",
+      "sentences": "Yes, that is one thing I hear from some in the Trump camp, that Trump believes he can make a deal with Iran, just a better one than the Obama administration made away to put some restrictions on its nuclear program et cetera.And that as part of that, they plan to increase economic pressure on Iran via sanctions and so forth when he gets in. Is that a plausible scenario where that pushes Iran back to the table and they come to some sort of agreement?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "19:35:13",
+      "speaker": "SADJADPOUR",
+      "sentences": "You know, when Trump speaks publicly about Iran, I think he presents a very unrealistic understanding of the Iranian government.He said that he could bring Iran into the Abraham Accords for example, which is, compelling Iran to normalize relations with Israel, which is never going to happen. The Iranian regime's identity is premised on opposition to Israel's existence. He also says that Iran simply cannot have a nuclear weapon, but simply opposing Iran's nuclear program is no longer -- that's not a sufficient US strategy, given Iran's enormous influence throughout the Middle East. There has to be an Iran strategy or an Iran deal, which also addresses Iran's regional ambitions. So it's much more complicated than Trump thinks. And the challenge here is that if he only focuses on a financial war, essentially trying to bankrupt Iran, they will at some point respond militarily against US allies in the region, Saudi Arabia and UAE. And then the Trump administration will likely be forced to enter militarily to defend our regional partners, which they obviously do not want to do.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "19:35:13",
+      "speaker": "SCIUTTO",
+      "sentences": "Iran announced on Friday it was activating new advanced centrifuges. I wonder, given the increasing tensions in the region, the direct attacks now between Israel and Iran and Israel's ability, frankly, to penetrate Iran with these most recent strikes, does that make Iran more likely to go nuclear, that it calculates that it needs a nuclear weapon to survive?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "19:35:13",
+      "speaker": "SADJADPOUR",
+      "sentences": "My view is that as long as this current Iranian supreme leader is alive and in power, Ayatollah Khamenei is 85 years old. He's unlikely to cross the nuclear threshold like North Korea and detonate a bomb. I think he wants to be a threshold state, but he's not going to turn the screwdriver.I think when he leaves the scene, the danger that Iran tries to weaponize its program in my view, increases because after he dies or he's left the scene, what's more likely is an Iran which is dominated by the military, by the Revolutionary Guards and I think they'll likely have bolder nuclear calculations than he does. So, I think in the time that he's alive, you know, there's still a possibility of averting a nuclear armed Iran with a lot of coercion and diplomacy.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "19:35:13",
+      "speaker": "SCIUTTO",
+      "sentences": "Alarming to contemplate.Karim Sadjadpour, thanks so much.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "19:35:13",
+      "speaker": "SADJADPOUR",
+      "sentences": "Thank you, Jim.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "19:43:05",
+      "speaker": "SCIUTTO",
+      "sentences": "President-elect Trump is rounding out his new administration, though some of his picks have been praised by some. Others have a whole host of controversy and hard questions swirling around them that could make getting them through the senate confirmation process more difficult.Joining us now to run the numbers on their likelihood of getting through. CNN senior data reporter Harry Enten. All right, we bring you in for the numbers, for the data, for the hard facts, the science. Let's run some of them. What are the confirmation odds for some of the more contested names?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "19:43:05",
+      "speaker": "HARRY ENTEN, CNN SENIOR DATA REPORTER",
+      "sentences": "Yes, let's talk about Pete Hegseth first, Jim, because obviously there was the sexual assault allegation that was lobbied up against him. And over the last week as that allegation has gained some more press, you can see that the betting markets have significantly gone down on Hegseth's odds. So this is the chance that he gets confirmed as defense secretary.A week ago he had a 77 percent chance. Look at where we stand today, 57 percent, that's only a little bit better than a coin toss, Jim and that's a drop of 20 points over a week and of course, you know, most confirmations fly through the Senate, so the idea that you have someone who's just a little bit north of 50 percent is quite unconventional. But as you yourself said earlier this hour, Donald Trump is quite unconventional, breaking a lot of norms and of course, the idea that you have only a 57 percent chance to get through the United States Senate for Pete Hegseth that in itself is breaking a norm -- Jim.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "19:43:05",
+      "speaker": "SCIUTTO",
+      "sentences": "Okay. So let's talk about some of the others. RFK, Jr. for HHS, Tulsi Gabbard at DNI.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "19:45:12",
+      "speaker": "SCIUTTO",
+      "sentences": "Yes, well unconventional and then there are other questions about qualifications, some other positions --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "19:45:12",
+      "speaker": "ENTEN",
+      "sentences": "Absolutely, the vaccines of course.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "19:45:12",
+      "speaker": "SCIUTTO",
+      "sentences": "-- defying science and so on.All right, so let's talk about something totally different. We've seen politics and sports combine a lot of times before. But this month in a particularly interesting and slightly odd way, and that is the Trump dance. Tell us.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "19:45:12",
+      "speaker": "ENTEN",
+      "sentences": "Yes, you know, we've seen a lot of athletes, a lot of male athletes doing the Trump dance celebrating. And I want to give you an idea of why that is. And it's just because Trump does really well for a Republican among young menLook at this. This is Trump versus the Democrat margin, men 18 to 24, you look at 2020, look at this. Joe Biden won them by 20 points. Look at what Donald Trump he gained 22 points, he actually won among young men. He is the first Republican nominee for President to win among young men since, get this George W. Bush back in 2000. So, Trump, gaining tremendously among young men. And I think that there's some idea out there that it's just young White men that he's doing well with. But take a look here. Look at the gains that he had among men 18 to 29, among Latino voters. Four years ago, Joe Biden won that group by 29 points. Look in the exit poll. My goodness gracious, a 20 point margin for Donald Trump and even among Black voters, Jim, age 18 to 29 young men, look at that, 67-point margin for Biden, Kamala Harris only won by 54. So Trump gaining all over the map with young men.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "19:45:12",
+      "speaker": "SCIUTTO",
+      "sentences": "All right, so, we talked about sports and I don't know how many folks at home watching might care about this as much as me and you because --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "19:45:12",
+      "speaker": "ENTEN",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "19:45:12",
+      "speaker": "SCIUTTO",
+      "sentences": "My dad went to Columbia. We used to go to Columbia football games, and the joke was they always lost, right? But that's not true today.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "19:45:12",
+      "speaker": "ENTEN",
+      "sentences": "It's not true today, Jim. My father went through -- took me to so many Columbia lions Football games. He watched them when they lost over and over and over again.And today, I went and they won their first Ivy League title. Get this, Jim, since 1961, if my father were around today, he'd be the happiest person. And if there is a heaven, I know he is looking down right now and just be, oh I'm getting a little emotional. He would just be tremendously happy, I was, all I can say is, Jim, roar Lions roar. Dad, we did it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "19:45:12",
+      "speaker": "SCIUTTO",
+      "sentences": "My dad and your dad together. It's great to see. Let's hope they're watching up there.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "19:45:12",
+      "speaker": "ENTEN",
+      "sentences": "And there I was nervous as heck.Yes, you can see I was very nervous watching that game today. But they did it and Harvard lost to Yale. I've gone to so many games. They finally did it. They finally did it. Both our dads are very happy to see this, Jim.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "19:45:12",
+      "speaker": "SCIUTTO",
+      "sentences": "Harry Enten, happy for them, happy for you. Thanks so much and we will be right back.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "19:53:03",
+      "speaker": "SCIUTTO",
+      "sentences": "Nations around the world are bracing for new trade policies when President-elect Trump takes office. China has plans ready for its exporters who would be hit hard by Trump's promised new US tariffs.CNN's Marc Stewart visits a Beijing trade center as Chinese exporters prepare for the Trump administration. (BEGIN VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "19:59:21",
+      "speaker": "SCIUTTO",
+      "sentences": "Catch an all-new episode of \"Have I Got News For You\" with host Roy Wood, Jr. and team captains Amber Ruffin and Michael Ian Black.Tonight at nine o'clock eastern time, guests this week are journalist Kara Swisher and comedian Jenny Hagel. (BEGIN VIDEO CLIP) ROY WOOD JR., AMERICAN ACTOR/COMEDIAN: Here's your next airline. These rats learn to 'blank' and they love it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "19:59:21",
+      "speaker": "AMBER RUFFIN, COMEDIAN",
+      "sentences": "Macarena.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "19:59:21",
+      "speaker": "KARA SWISHER, AMERICAN JOURNALIST",
+      "sentences": "They have real cars. I saw it on the news. They drove in little cars.MICHAEL IAN BLACK, AMERICAN ACTOR/COMEDIAN: How do you know everything? SWISHER:  Because I'm far smarter than you. WOOD JR.: These rats learn to drive and they love it. Neuroscientists in Virginia are studying how rodents acquire new skills, and found that rats were steering with surprising precision to reach a Froot Loop treat. You ever been so hungry you're the first person in your species to drive a car?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "19:59:21",
+      "speaker": "SWISHER",
+      "sentences": "It's kind of amazing what rats can do. They're like very --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "19:59:21",
+      "speaker": "RUFFIN",
+      "sentences": "They're super smart.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "19:59:21",
+      "speaker": "SWISHER",
+      "sentences": "Especially New York rats, they're particularly smart.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "19:59:21",
+      "speaker": "WOOD JR",
+      "sentences": "Well they're New York rats now, hang on, them -- that's organized crime.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

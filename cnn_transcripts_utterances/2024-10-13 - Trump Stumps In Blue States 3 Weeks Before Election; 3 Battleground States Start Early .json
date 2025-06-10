@@ -1,0 +1,685 @@
+{
+  "date": "2024-10-13",
+  "headline": "CNN This Morning",
+  "subHeadline": "Trump Stumps In Blue States 3 Weeks Before Election; 3 Battleground States Start Early Voting This Week; Harris To Visit A Black Church In NC Today; 1M Plus Without Power In Florida, Fuel Scarce In Some Areas; Biden Announces $612M Towards Energy Projects In Regions Impacted By Hurricanes; Netanyahu Warns U.N. Peacekeepers In Lebanon To Leave Immediately. Iran Will Retaliate Against Israel if Israel Launches New Attack; Trump's Unprecedented Request; Biden to Tour Hurricane Damage in Florida. Aired 7-8a ET",
+  "utterances": [
+    {
+      "timeStamp": "07:00:34",
+      "speaker": "VICTOR BLACKWELL, CNN HOST",
+      "sentences": "You're up early and I like it. Thanks for joining us on CNN This Morning. It is Sunday, October 13th. I'm Victor Blackwell.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:34",
+      "speaker": "VERONICA MIRACLE, CNN HOST",
+      "sentences": "And I'm Veronica Miracle in for Amara Walker, also up early this morning for you.Here's what we're working on this morning. It is getting down to the wire in the race for the White House. (BEGIN VIDEOCLIP) KAMALA HARRIS (D), PRESIDENTIAL NOMINEE: This is a tight race. It is a margin of error race. (END VIDEOCLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:34",
+      "speaker": "MIRACLE",
+      "sentences": "If you can believe it, we're only 23 days away until Election Day. And Vice President Kamala Harris and former President Donald Trump are storming swing states this week.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:34",
+      "speaker": "BLACKWELL",
+      "sentences": "Harris doubled down on what she calls her underdog campaign. Trump going all-in on dark anti-migrant rhetoric again.(BEGIN VIDEOCLIP) DONALD TRUMP (R), PRESIDENTIAL NOMINEE: I will rescue California and every town across America that's been invaded and conquered. And we will put these vicious and bloodthirsty criminals in jail or kick them the hell out of the country, which is number one. (END VIDEOCLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:34",
+      "speaker": "BLACKWELL",
+      "sentences": "We're going in-depth on the final weeks of the presidential election that is ahead.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:34",
+      "speaker": "MIRACLE",
+      "sentences": "And new this morning, President Biden is set to announce a massive $600 million boost for recovery in Florida as he heads to survey the damage left by back-to-back hurricanes Helene and Milton. We're live at the White House this morning.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:34",
+      "speaker": "BLACKWELL",
+      "sentences": "Plus, a critical cabinet meeting is set for today in Israel as the country weighs how it will retaliate to Iran's barrage of missiles.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:34",
+      "speaker": "MIRACLE",
+      "sentences": "All new this morning, new polling shows just how close this presidential race really is now. That poll from the New York Times and Siena College looked at Hispanic likely voters and found that Vice President Kamala Harris is leading former President Donald Trump, 54 percent to 36 percent.However, that polling advantage is smaller than the lead held by Democratic candidates in the last three elections. And that is something that Harris already recognizes. (BEGIN VIDEOCLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:34",
+      "speaker": "HARRIS",
+      "sentences": "This is a tight race. It is a margin of error race.(END VIDEOCLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:34",
+      "speaker": "BLACKWELL",
+      "sentences": "So as we are now a little more than three weeks away from Election Day, candidates, of course, are zeroing in on those battleground states. Especially since this week, three of those states start early voting. Georgia, then North Carolina, and then Nevada.Harris is holding a campaign event in North Carolina today, then head to Pennsylvania tomorrow. Trump is in Arizona today. He'll be in Atlanta on Tuesday.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:34",
+      "speaker": "MIRACLE",
+      "sentences": "He stumped in California Saturday. He doubled down, slamming current immigration policies and threatened to withhold federal funds used to fight fires in California if he's re-elected.(BEGIN VIDEOCLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:34",
+      "speaker": "TRUMP",
+      "sentences": "We're going to take care of our farmers. We're going to take care of your water situation. And we'll force it down his throat. And we'll say, Gavin, if you don't do it, we're not giving you any of that fire money that we send you all the time for all the forest fires that you have.(END VIDEOCLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:34",
+      "speaker": "BLACKWELL",
+      "sentences": "CNN's Kristen Holmes explains why he's doubling down, tripling down, especially in a blue state.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:34",
+      "speaker": "KRISTEN HOLMES, CNN CORRESPONDENT",
+      "sentences": "Victor and Veronica, Donald Trump in Coachella, California, spent much of his time increasing his dark rhetoric around immigration. Take a listen.(BEGIN VIDEOCLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:00:34",
+      "speaker": "TRUMP",
+      "sentences": "I will rescue California and every town across America that's been invaded and conquered.(END VIDEOCLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:05:15",
+      "speaker": "BLACKWELL",
+      "sentences": "All right, Kristen, thanks so much.Vice presidential candidates Tim Walz and J.D. Vance also hit the campaign trail this weekend. Walz made a home state visit. The Minnesota governor is making a bid to win over male voters in Midwestern battleground states.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:05:15",
+      "speaker": "MIRACLE",
+      "sentences": "As for Ohio Senator J.D. Vance, he hosted a town hall in Pennsylvania Saturday where he said his running mate would not try to prosecute his political opponents if re-elected. That is a contradiction of Trump's previous comments.In an interview with The New York Times, the senator clarified his previous controversial comments on childless cat ladies. (BEGIN VIDEOCLIP) J.D. VANCE, VICE PRESIDENTIAL CANDIDATE: Well, as I said when I made those comments, look, they were dumb comments. And I said it a couple of times in a couple of interviews. And, look, yes, I mean, I certainly wish that I had said it differently. (END VIDEOCLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:05:15",
+      "speaker": "BLACKWELL",
+      "sentences": "Yes, but despite that, Vance said he still stood by the point that he was trying to make, that he thinks the country has become almost, his words here, pathologically anti-child.Join me now for analysis, Republican strategist Brian Robinson, Democratic strategist Tharon Johnson. Welcome to you both. All right, let's start here on this message from Trump yesterday in California. The polls show that the economy is the most important issue. He's closing on immigration. You think that's the right path?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:05:15",
+      "speaker": "BRIAN ROBINSON, REPUBLICAN STRATEGIST",
+      "sentences": "Well, that's number two. And so that's something he's pivoted to over and over again. I think it's something that the critics probably missed the point on. Well, he's not telling the truth about Aurora, Colorado, not telling the truth about Springfield, Ohio.What he is speaking to is American anxiety about mass illegal immigration coming into their communities. And they don't like it. And when the media or institutions, national academic institutions, call them racist for not liking it, that just makes their support for Trump all the stronger. I think it's an issue where he feels like he posts up well with Kamala Harris because he can blame what we have on the Biden-Harris record. But I definitely think the economic message has got to be an even bigger part. I do disagree with the weighting of it --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:05:15",
+      "speaker": "BLACKWELL",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:05:15",
+      "speaker": "ROBINSON",
+      "sentences": "-- because that's number one. And when you get into some of these subgroups of voters who used to vote for Democrats, what they want to hear is the economic message.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:05:15",
+      "speaker": "BLACKWELL",
+      "sentences": "I also think people are -- and this is just from what I've collected, that they're not calling him racist because he's pointing out the anxieties about immigration. They're calling him racist because he's saying that they are poisoning the blood of the country and they have bad genes. So, that's a distinction.Let me come to you on the economy versus immigration. Which one works best for Vice President Harris?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:05:15",
+      "speaker": "THARON JOHNSON, DEMOCRATIC STRATEGIST",
+      "sentences": "Definitely, she's got to continue to talk about the economy. I mean, she put out a plan that was very laser light focused on growing the middle class. You notice, Victor, every single president that's gone on to be president they talk about the future, they talk about the middle class.And if you look at where we're heading right now, I mean, small businesses are growing, but corporations, the stock exchange, everything is going in the right direction. Now, she's got to make sure that she talks about issues that people are feeling. We still have high prices at the pumps, even though they're sort of going down. Inflation is basically kind of leveling out. But if you look at her plan, putting small businesses, entrepreneurship and growing the economy, that is something that I think that Biden and Harris is doing very well leading up to the election day.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:05:15",
+      "speaker": "BLACKWELL",
+      "sentences": "Let me ask you about her support among black voters, because let's put up this. I checked back until 2000, the polls and the final results as it relates to black voter support for the Democratic nominee. We have that full screen to put on this -- there it is.So if you look, this is the share that the nominee, the Democratic nominee got going back the last six elections. The low mark here is Biden at 87 percent. Of course, Obama, 93 percent, 95 percent. Gore in 2000, got 90 percent. New York Times/Siena College poll out of likely black voters has Vice President Harris at 78 percent. Why?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:05:15",
+      "speaker": "JOHNSON",
+      "sentences": "That number will not stand. It's going to grow. What you're seeing, Victor, is that black voters care about the same issues that Asian, Hispanic and white voters care about. We care about the economy. We care about public safety. We care about health care.And so what's happening right now, if you ask a black voter who you're voting for, we know that this has been a trend. I mean, you look at that number. Joe Biden won the election with 87 percent of black votes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:05:15",
+      "speaker": "BLACKWELL",
+      "sentences": "Sure.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:05:15",
+      "speaker": "JOHNSON",
+      "sentences": "She will get to 87 percent, maybe even exceed it. But winning elections is not just about one demographic of voters, she's got to build a winning coalition. And that's why, you know, you look at the image in your package, you see her handing out aid to storm victims from this deadly disaster versus Donald Trump continuing to spew lies at his rally.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:05:15",
+      "speaker": "BLACKWELL",
+      "sentences": "What's this confidence based on? Because Trump in 2016 got 8 percent of the black vote, 12 percent in 2020 and is polling at 15 percent now. So, what is this turn that you think is going to happen in 23 days?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:05:15",
+      "speaker": "JOHNSON",
+      "sentences": "I mean, just look at your data. I mean, it's never going to stay at 70 percent. I mean, seven out of 10 black men who are asked today, they're voting for Kamala Harris.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:10:05",
+      "speaker": "JOHNSON",
+      "sentences": "If she can get to eight and nine, that's a winning coalition. Black women have been the backbone of the party for so many decades. They definitely will continue to vote. And then we can't forget young voters. And I think young voters, the Gen Z, the millennials, they are people who she's been laser light focused on. And you've got to remember, the infrastructure they put in place. Kamala Harris has been talking to black voters, Victor, before she became the nominee. Matter of fact, there were Republicans in Georgia who said she was coming to Atlanta too much to talk to black men.So Philadelphia, Detroit, Milwaukee, Miami, all these places that are battleground states. Raleigh, Durham, Charlotte, North Carolina, these are places where she's been laser light focused on talking specifically to black male voters.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:10:05",
+      "speaker": "BLACKWELL",
+      "sentences": "She got 23 days. Let me ask you about transparency, because she released a letter with more detail than we've gotten from Donald Trump about her health in excellent health. Donald Trump, the last thing we got was from Ronny Jackson, who said a couple of years ago he could live to 200, right? So no transparency really there. We never really saw the taxes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:10:05",
+      "speaker": "ROBINSON",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:10:05",
+      "speaker": "BLACKWELL",
+      "sentences": "I mean, so does he owe it to the voter? I mean, it may not matter in the end because he, you know, got more than 70 million votes in 2020 without doing it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:10:05",
+      "speaker": "ROBINSON",
+      "sentences": "Right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:10:05",
+      "speaker": "BLACKWELL",
+      "sentences": "But does he owe it to the voter to tell more now that he's going to be the oldest person to ever take the oath if he does?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:10:05",
+      "speaker": "ROBINSON",
+      "sentences": "We can say this, he doesn't think so, right?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:10:05",
+      "speaker": "BLACKWELL",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:10:05",
+      "speaker": "ROBINSON",
+      "sentences": "Because he didn't do it on the taxes. He's not really doing it on the health care report. The question is, do voters really care? And I haven't seen a lot of evidence that this is something that's really driving them.If you ask them, hey, are you not going to vote for Donald Trump because he doesn't release his health reports? That's going to pull really, really low. It's going to be, as we said, health care -- not health care, the economy and immigration. That's what people are going to vote on. And if Donald Trump wins in 23 days, that's why, it's because of those two issues. And on the black voters --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:10:05",
+      "speaker": "BLACKWELL",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:10:05",
+      "speaker": "ROBINSON",
+      "sentences": "-- if she gets 85 percent or below the black voter, it's over. Trump wins this election. They are critical.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:10:05",
+      "speaker": "JOHNSON",
+      "sentences": "She'll get above 85 percent. I mean, it's just -- again --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:10:05",
+      "speaker": "ROBINSON",
+      "sentences": "I'm not (INAUDIBLE).",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:10:05",
+      "speaker": "JOHNSON",
+      "sentences": "Well, it's the outreach, Victor, because, you know, one thing we're not talking about on the national airwaves is that they're doing the same thing. Trump is doing the same thing the Harris is doing. They're appealing to their base voters. It's just a tactic in the way that they do it.You're having more intimate conversations with Barack Obama, Kamala Harris of black men, whereas Donald Trump is motivating his base through fear. You have to have an enemy. He's just doing it more. So do his television ads.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:10:05",
+      "speaker": "BLACKWELL",
+      "sentences": "All right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:10:05",
+      "speaker": "ROBINSON",
+      "sentences": "Democrats don't want to be talking to white voters 23 days out.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:10:05",
+      "speaker": "JOHNSON",
+      "sentences": "And --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:10:05",
+      "speaker": "BLACKWELL",
+      "sentences": "Brian, Tharon, we got to wrap it there. And I know because I did it yesterday, we could talk about that for another 20 minutes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:10:05",
+      "speaker": "JOHNSON",
+      "sentences": "I will (ph).",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:10:05",
+      "speaker": "ROBINSON",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:10:05",
+      "speaker": "BLACKWELL",
+      "sentences": "All right. Brian Robinson and Tharon Johnson --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:10:05",
+      "speaker": "JOHNSON",
+      "sentences": "Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:10:05",
+      "speaker": "BLACKWELL",
+      "sentences": "-- thank you both.Veronica?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:17:44",
+      "speaker": "MIRACLE",
+      "sentences": "This morning, Floridians continue the long process of recovery after two massive storms devastated the state. Hurricane Milton killed 17 people and more than 1 million customers are still without power and facing fuel shortages.Just under 30 percent of Florida's gas stations have no fuel. And in the hard hit Tampa, St. Petersburg area, more than three quarters of stations are without gas.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:17:44",
+      "speaker": "BLACKWELL",
+      "sentences": "Florida Governor Ron DeSantis says the Highway Patrol is escorting fuel tankers from the port to areas most in need. Three public fuel sites have been open in Plant City, Bradenton and St. Petersburg, where customers can get up to 10 gallons of gas each for free. More sites will be open today.CNN's Brian Abel is in Valrico, Florida, with more.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:20:19",
+      "speaker": "BLACKWELL",
+      "sentences": "All right, Brian, thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:20:19",
+      "speaker": "MIRACLE",
+      "sentences": "President Biden will visit St. Petersburg today to survey damage from Hurricanes Helene and Milton.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:20:19",
+      "speaker": "BLACKWELL",
+      "sentences": "CNN's Betsy Klein is live outside the White House. The President announced more than a half billion dollars to help recovery in Florida. Give us some details.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:20:19",
+      "speaker": "BETSY KLEIN, CNN SENIOR WHITE HOUSE PRODUCER",
+      "sentences": "Well, Victor, the President is leaving any minute now from the White House for that trip to Florida where he is going to see firsthand for himself the scope and scale of the damage and destruction of Hurricane Milton.He will start with an aerial tour over that hard-hit Tampa and St. Petersburg area, and then he's going to receive an operational briefing from some of the federal, state, and local officials that are involved in the recovery efforts, getting a progress report on what has happened so far and what is still needed. And then he will step into that consular-in-chief role as he greets first responders and also many of the people impacted by this storm. And all of this, of course, comes after he signed a major disaster declaration for Florida that unlocks some additional federal funding. But as he has said, Congress is still going to need to step up and pass additional aid because this has just been a very challenging hurricane season. So as you mentioned, he has said that some of this recovery from this storm in particular was easier because of infrastructure investments made on his watch as president. And to that end, he is going to announce an additional $612 million in funding that's from the Department of Energy for projects aimed at bolstering the electric grid. About $94 million of that is going to Florida. And the aim here is really to create more resiliency for that electric grid when there are major disasters just like this one and we're seeing more extreme weather due to climate change. So as you mentioned, though, there are still 1 million people in Florida without power this morning, and so there is still much more work to do. And the President is going to see that for himself this morning, Victor and Veronica.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:20:19",
+      "speaker": "MIRACLE",
+      "sentences": "Betsy Klein, thank you for your reporting.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:27:01",
+      "speaker": "MIRACLE",
+      "sentences": "Here's some of the top stories we're following this morning. At least one person has died and nine others were injured in a shooting near Tennessee State University in Nashville. The shooting happened during the school's homecoming celebration yesterday.(BEGIN VIDEOCLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:27:01",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "All I heard was a whole bunch of gunshots. Like, I was so close to it. I thought it was just fireworks, but it ended up being gunshots. And everybody was just running, and I started running, almost fell. I just thank God it wasn't me.(END VIDEOCLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:27:01",
+      "speaker": "MIRACLE",
+      "sentences": "At least three children and other adults ranging in age from 23 to 55 were injured. Most of them are expected to recover. Police say at least one of the injured people may have been involved in the shooting. And police say the shooting started after a dispute between two groups of people. This morning, world leaders are paying tribute to former Scottish First Minister Alex Salmond. He collapsed after giving a speech yesterday. Before retiring, Salmond was a key figure in Scotland's independence movement and leader of the Scottish National Party.King Charles said, quote, \"His devotion to Scotland drove his decades of public service.\" Salmond was 69 years old.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:27:01",
+      "speaker": "BLACKWELL",
+      "sentences": "New this morning, Israeli Prime Minister Benjamin Netanyahu is warning U.N. peacekeepers in Lebanon to get out immediately. He says they're in harm's way. The urgent warning comes as we wait to find out if any decisions will emerge after Netanyahu's cabinet meeting today. It's focused on how Israel will respond to the missile attacks Iran launched from October 1st.In the meantime, the New York Times reports on Hamas meetings detailing Hamas's efforts to try to recruit Iran and Hezbollah to collaborate in last year's October 7th attack. Both Iran and Hezbollah deny involvement. Let's go now to CNN International Correspondent Nada Bashir live in London for us this morning. Nada, good morning.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:27:01",
+      "speaker": "NADA BASHIR, CNN INTERNATIONAL CORRESPONDENT",
+      "sentences": "Good morning. We are getting that troubling warning now from the Israeli Prime Minister Benjamin Netanyahu, essentially telling the U.N. peacekeeping mission in southern Lebanon to get out. He directed that video message earlier today to the U.N. Secretary General Antonio Guterres, saying it is time for you to remove UNIFIL from Hezbollah's strongholds and combat zones.He has previously said that he believes the UNIFIL presence there is aimed at providing a human shield for Hezbollah. Now, again, this is a sort of rhetoric that we have heard in the past with regards to the situation in Gaza and, of course, in Lebanon, often with regards to areas that are known to be densely populated with civilians. And, I mean, this is a presence by the U.N. peacekeeping missions that has been in place for decades. They have been in place along the blue line separating Lebanon and Israel since 2000. The mission's aim there is, of course, focused on ensuring and maintaining Israel's withdrawal from Israeli territory. And now, of course, we are seeing the deepening ground incursion by Israeli troops inside Lebanese territory. And we've heard previously from the U.N. peacekeeping mission rejecting any calls for them to be redeployed across Lebanon. They have maintained their positions there. But, of course, just in the last few days, we have seen already a number of U.N. peacekeepers coming under attack and being injured as a result. On Thursday, UNIFIL reporting that two peacekeepers were injured as a result of Israeli tank fire on Friday. Another two injured as a result of two explosions, which took place around an observation point. And later on, Friday, another peacekeeper injured as a result of gunfire. And of course, in addition to that, we are seeing also other volunteers being injured, two Red Cross volunteers who work in coordination with this U.N. peacekeeping mission also injured as a result of Israeli strikes in Southern Lebanon. So, this is a deeply troubling and concerning situation if we are, indeed, seeing now U.N. peacekeepers coming under attack. This has been condemned by the nations which represent the peacekeeping mission on the ground. At least 40 countries, signatories of a statement condemning and expressing deep concern over these latest developments, including the U.K., Spain, Germany, India, France, all expressing condemnation there. There has also been concern, of course, from the Biden administration. We've heard from the defense secretary, Lloyd Austin, speaking to his Israeli counterpart, Yoav Gallant, again, expressing deep concern. The Israeli military has said it will be conducting a thorough review, but that came ahead of this latest statement from Prime Minister Netanyahu. It is a troubling warning. And, of course, as we've seen in Gaza, in the occupied West Bank, we have seen U.N. workers, we have seen health care workers, and volunteers coming under attack by the Israeli military, often with impunity. So, this is a deeply troubling development. A lot of focus will be on this. And, of course, the situation Lebanon for civilians across the border in the country is only growing more desperate.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:27:01",
+      "speaker": "VICTOR BLACKWELL, CNN ANCHOR",
+      "sentences": "Nada Bashir, thank you very much. Let's go to Iran now, which is hoping that neighboring countries in the Middle East will help them avoid military action from Israel. But if talks fail, Iran warns that they will retaliate if Israel decides to launch a new attack against them. Let's go to Fred Pleitgen in Tehran. Fred, what can you tell us?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:27:01",
+      "speaker": "FREDERIK PLEITGEN, CNN SENIOR INTERNATIONAL CORRESPONDENT",
+      "sentences": "Hi there, Victor. Yes, some pretty tough talk coming from the Iranians this morning. We had the Iranian foreign minister come out, and he said quote, \"While we have made tremendous efforts in recent years to control an all-out war in our region (INAUDIBLE) defending our people and our interest.So, the Iranians essentially are saying that they don't want any further escalation here in this region. If escalation comes, they are ready for a big fight. That's something quite frankly, Victor, that we've heard from a lot of people that we've been speaking to on the ground here, a lot of Iranian officials that we've been speaking to on the ground as well. And one of the things that the Iranians have also said is that they say that if there is an attack by Israel, Iran will retaliate no matter on what that attack is. The Iranians are saying that they have conveyed that message to the countries here in this region, but also specifically to the United States. Of course, Iran and the U.S. do not have any direct diplomatic relations with one another. So, that would happen by intermediaries. But it's clearly a fairly clear message that the Iranians say that they're trying to send. One of the interesting things that we also picked up on as well, Victor, is that the (INAUDIBLE) commander of Iran's Revolutionary Guard Corps, which is, of course, the elite wing of Iran's military, said that if the Israelis, for instance, attack oil and gas installations in Iran, a lot of those --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:27:01",
+      "speaker": "BLACKWELL",
+      "sentences": "Some -- having some --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:27:01",
+      "speaker": "PLEITGEN",
+      "sentences": "-- of course, in the Persian Gulf --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:27:01",
+      "speaker": "BLACKWELL",
+      "sentences": "Some audio issues with Fred Pleitgen. They're reporting from Tehran. Fred, thanks for the report.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:00",
+      "speaker": "MIRACLE",
+      "sentences": "OK. I want to get back to that. But you did touch on the assassination attempt. And following that, the Secret Service director -- or former Secret Service director, Kimberly Cheatle, she resigned and then the acting director, Ronald Rowe, shortly after, said that this was a Secret Service failure.So, what do you think needs to change in the department, if any at all, given that they have made some changes? Do you think more changes need to be made?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:00",
+      "speaker": "WACKROW",
+      "sentences": "I -- you know, I think that without any question, there needs to be more changes and those changes are going to come in two real ways. One is the short-term. In the short-term, the Secret Service needs to take a hard look at all of the people that they protect in addition to Former President Donald Trump and ensure that they are, you know, calibrating the right level of protection for the threats that those individuals face.What we're seeing is a very increased tempo of escalating threats, both from domestic, you know, hostile actors as well as, you know, foreign actors such as Iran. Those threats are, you know, continuing to grow and challenge the protective operations of the Secret Service. So, they have to make sure, in the short-term, that they are providing the right level of protection for the threat environment that they're operating in. The second part of that is the strategy. What is the long-term strategy to ensure that they can maintain this operational tempo? And that's going to come with increased staffing and funding, really from Congress, to ensure that the Secret Service can execute on its dual mission of both protection and investigation moving forward.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:00",
+      "speaker": "MIRACLE",
+      "sentences": "That's right. There is a request from the Trump campaign for more funding on for more resources. And these requests, they still have to be approved by the Department of Homeland Security as well as the Department of Defense. But President Biden has said that those requests should be fulfilled. Two sources also close to the Trump campaign said that frustrated that these extra protections have not been implemented already because they have lost faith in the Secret Service and those at the Secret Service headquarters. Do you think this is warranted?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:00",
+      "speaker": "WACKROW",
+      "sentences": "Well, let me get to your last point first. You know, the fact that the campaign has lost faith, I want to put context in that. They've lost faith in the leadership. They have not lost faith in the women and men, officers and agents that are out there every single day, putting their lives you know, at risk to protect not just the former president, but all the protectees of the Secret Service.But their point is very well taken. And the reason being is that their candidate has had two assassination attempts in the past few months. And what they're asking for, in many instances, is reasonable. It's the prepositioning of assets around the country to include ballistic glass, additional enhanced protective vehicles, the aerial protection, all of those things should be implemented right away. So, the delay in actually implementing that, that's causing the frustration for the campaign today.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:00",
+      "speaker": "MIRACLE",
+      "sentences": "OK. And then just really quickly here, given how divisive this election is, do you think that Vice President Kamala Harris is also facing a higher risk? Should she also be asking for increased security?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:40:00",
+      "speaker": "WACKROW",
+      "sentences": "Listen, I think all of our political leaders right now are facing a significant risk, right? You know, we're seeing attacks against, you know, the former president, but all of the political leaders in this campaign cycle are at risk. Why? Because the tone and tenor of, you know, the environment that we're operating in is, you know, becoming filled with, you know, political violence, homegrown domestic extremism is significantly on the rise, and we now have these foreign threats that are challenging our political leaders.So, not only should, you know, the former president be getting additional resources, so should the sitting vice president, the president, and all Secret Service protectees. This is about ensuring that we're protecting our democratic process and our elected officials. a whole of government approach.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:00",
+      "speaker": "COY WIRE, CNN SPORTS ANCHOR",
+      "sentences": "Yes, we coming up in college football. Oregon and Ohio State Showdown lived up to the hype. We'll have all the highlights from the Big 10 thriller and other games that could change the rankings.(COMMERCIAL BREAK)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:45:00",
+      "speaker": "BLACKWELL",
+      "sentences": "A lot of pictures for you right now. This is from Joint Base Andrews. President Biden is about to board Air Force One and depart for Florida. The president will spend the day. He's going to tour the devastation left behind by Hurricanes Milton and Helene.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:00",
+      "speaker": "BLACKWELL",
+      "sentences": "So, if you've already broken out your pumpkin spice latte or your chai, I'm a chai guy myself.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:00",
+      "speaker": "MIRACLE",
+      "sentences": "You're a chai guy?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:00",
+      "speaker": "BLACKWELL",
+      "sentences": "You like the pumpkin spice latte?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:00",
+      "speaker": "MIRACLE",
+      "sentences": "No, I'm not a fan. It's just too trendy.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:00",
+      "speaker": "BLACKWELL",
+      "sentences": "See.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:00",
+      "speaker": "MIRACLE",
+      "sentences": "Yes. I know. I know.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:00",
+      "speaker": "BLACKWELL",
+      "sentences": "I like Veronica. Hold on for a couple more days.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:00",
+      "speaker": "MIRACLE",
+      "sentences": "Yes, that fall chill might finally arrive this week with temperatures set to drop in some states from the 80s down to the 60s. Let's bring in CNN's meteorologist Allison Chinchar. Allison, I see some people really excited in the studio. I myself, I like the warm weather. So, we can keep it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:00",
+      "speaker": "ALLISON CHINCHAR, CNN METEOROLOGIST",
+      "sentences": "I think the key thing is that it's going to be a sharp contrast. So, for a lot of these folks, you're going to go from really, really warm, feeling more like summer to very quickly feeling like fall. Then it's all thanks to this cold front, right through here, because once this pushes through, it's really going to drop a lot of those temperatures back pretty significantly.Take St. Louis, for example, because they've already dropped back. They were 88 degrees yesterday. Tomorrow, their high is only going to make it to 64 degrees. Washington, D.C., the high today is 83, by the time we get to Tuesday, they won't even make it to 60 for that high temperature. And it's going to infect a lot of other areas too. Take Atlanta, for example, we have a high of 84 today, dropping down to 64 on Wednesday, and that low temperature Wednesday likely going to get down to 40, maybe even creeping a little bit lower than that. So, again, you've got a lot of these areas that are going to be dealing with those cool temperatures and some of them, especially in portions of the Midwest, now, you're talking about freezing levels and some areas even below freezing. So, this likely going to be the first freeze watch and even hard freeze watch for a lot of these areas as though temperatures likely to get back down below 30 degrees.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:00",
+      "speaker": "BLACKWELL",
+      "sentences": "And you said it's going to be about 40 in Atlanta in the morning?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:00",
+      "speaker": "CHINCHAR",
+      "sentences": "Yes, we might get even a little chillier than that.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:00",
+      "speaker": "MIRACLE",
+      "sentences": "Wow.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:00",
+      "speaker": "CHINCHAR",
+      "sentences": "Maybe.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:00",
+      "speaker": "BLACKWELL",
+      "sentences": "All right. I'm putting the Christmas tree up. That's it. That's it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:00",
+      "speaker": "WIRE",
+      "sentences": "Break out your beanie, Victor. BLACKWELL",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:00",
+      "speaker": "MARTIN",
+      "sentences": "Well, speaking of fall, college football fans had this weekend circled on the calendar for months, and it delivered.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:00",
+      "speaker": "BLACKWELL",
+      "sentences": "Coy Wire, as you heard, is with us. One of those days you needed the cell phone, and the TV, and the laptop, and the Apple Watch.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:00",
+      "speaker": "WIRE",
+      "sentences": "Big day.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:00",
+      "speaker": "BLACKWELL",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:00",
+      "speaker": "WIRE",
+      "sentences": "Your Howard took down Sacred Heart.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:00",
+      "speaker": "BLACKWELL",
+      "sentences": "Hey.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:00",
+      "speaker": "WIRE",
+      "sentences": "Washington State for Veronica took down Fresno State. Big day. We had two top 10 teams go to overtime. Number four, Penn State rallying on the road to beat USC. Number nine, Ole Miss taken down by number 13 LSU in Baton Rouge. And how about number one, Texas? Throttling Oklahoma in the Red River rivalry.And to end the night, a showdown in Eugene between number two, Ohio State and the Big Ten newbies. Number three, Oregon. Whose quarterback Dillon Gabriel threw two touchdown passes, ran for another late score to lift Oregon to a 32-31 win in front of a record crowded Austin Stadium. Now, Ohio State, look at this, had a chance for a late field goal, but Buckeyes fans crushed when their quarterback Will Howard slid within field goal range to stop the clock, but it was no time left. Howard threw for 336 yards, two touchdowns. Watch the fans rush in the field and look at. And look at Puddles, they're mascot crowd surfing. That's a good day. The Ducks stand undefeated at 6 and 0. Buckeyes are 5 and 1. Playoff baseball ALDS. Guardians fans are hyped hosting the Tigers in Game five in Cleveland. It's win or go home. And Cleveland's Lane Thomas is not ready for the show to end, but he is the showstopper. Bases loaded, bases clear to fifth inning. Grand slam. Off of Detroit's ace Cy Young, front runner Terrick Skubal and the city that's home to the rock and roll Hall of Famous Rocket. Guardians win 7-3. They'll face the Yankees in the ALCS. Finally, we have to get back to college football. I was hosting Washington and the kickoff goes through the end zone and a fan tries to catch it. Emphasis on try. It absolutely drills him in the face. No worries though. He's fine. In fact, He was so good. Listen to this. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Joe, what the heck happened?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:00",
+      "speaker": "JOE, IOWA HAWKEYES FAN",
+      "sentences": "So, I've seen the kickoff and the ball is coming real fast. I knew it was going over the end zone and I knew it was coming right at me. So, I put my hands up, but that ball's going a lot faster than you really think it is. And it went right through my hands and it hit me in the face.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "But you popped right back up.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:00",
+      "speaker": "JOE",
+      "sentences": "Yes, that's what Hawkeyes do. You know, we don't give up. We swarm.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:00",
+      "speaker": "WIRE",
+      "sentences": "Sports is like a metaphor for life, sometimes it comes at you fast, you just have to take it and take it with a smile sometimes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:00",
+      "speaker": "BLACKWELL",
+      "sentences": "You know what? I think I would have done the same thing. You got to try if it's coming right to you, right?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:00",
+      "speaker": "MIRACLE",
+      "sentences": "And then if it hits you in the face, you have to come back up with a victory and just, you know, take it on the chin.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:00",
+      "speaker": "WIRE",
+      "sentences": "So, good.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:00",
+      "speaker": "BLACKWELL",
+      "sentences": "Sometimes it just hits you in the face.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:00",
+      "speaker": "WIRE",
+      "sentences": "Oh my.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:00",
+      "speaker": "BLACKWELL",
+      "sentences": "All right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:00",
+      "speaker": "MIRACLE",
+      "sentences": "Coy Wire, thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:00",
+      "speaker": "WIRE",
+      "sentences": "You got it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:55:00",
+      "speaker": "MIRACLE",
+      "sentences": "SpaceX plans to use the Starship capsule as the landing vehicle that will bring NASA astronauts to the lunar surface as soon as 2026. Part of the mission that could eventually put the first humans on Mars. The launch window opens just minutes from now.",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

@@ -1,0 +1,367 @@
+{
+  "date": "2023-03-09",
+  "headline": "Early Start with John Berman and Zoraida Sambolin",
+  "subHeadline": "Norfolk Southern CEO To Testify To Congress After Ohio Derailment; New AI Tool Creates Convincing Fake Of Anyone's Voice; Today: Bodies Of Two Americans Killed In Mexico To Be Repatriated. Aired 5:30-6a ET",
+  "utterances": [
+    {
+      "timeStamp": "05:31:30",
+      "speaker": "CHRISTINE ROMANS, CNN ANCHOR",
+      "sentences": "All right, you're looking at the Capitol Hill -- a live look there. Hours from now the CEO of Norfolk Southern, Alan Shaw, will testify to Congress. Shaw is expected to apologize to the people of East Palestine, Ohio for the devastating impact of last month's derailment. Shaw will stress the company's pledge to provide more than $20 million to affected residents and its efforts to clean up the water and clean up the soil there.Ohio senators Sherrod Brown and J.D. Vance will also testify about a new bipartisan rail safety bill. Now to West Virginia where a freight train derailed early Wednesday morning injuring three crew members and spilling diesel into a nearby river. The railroad company CSX says the train derailed after striking a rockslide in a remote part of New River Gorge National Park sending fiery train parts into the river. The company says the train was not carrying hazardous materials and it will work to contain that spilled diesel. Turning now to a story that will likely amuse you but should also really worry you. CNN's Donie O'Sullivan on a new kind of AI tool that can convincingly fake voices and make it seem like anyone has said anything. (BEGIN VIDEOTAPE) NOREEN O'SULLIVAN, DONIE'S MOTHER:  Hello? AI DONIE O'SULLIVAN, CNN CORRESPONDENT:  Hi, mom. N. O'SULLIVAN:  Hi, Donie. How are you? AI D. O'SULLIVAN:  Does my voice sound different to you? N. O'SULLIVAN:  Yes, I just said that to Sinead. I said Donie sounds so American. AI D. O'SULLIVAN:  This is not actually me. This is a voice made by computer. N. O'SULLIVAN:  Oh my God. Are you serious? DONIE O'SULLIVAN (on camera):  Yes, mom. I'm sorry. There has been an explosion in fake audio and voices being generated through artificial intelligence technology. AI-GENERATED VOICE:  This is an AI-cloned version of Walter White's voice. This is an AI-cloned version of Leonardo DiCaprio's voice. DONIE O'SULLIVAN (on camera):  All you need is a couple of minutes recording of anyone's voice and you can make it seem like they have said just about anything -- even -- AI-GENERATED VOICE, ANDERSON COOPER, CNN ANCHOR:  Anderson Cooper. We've come here to U.C. Berkley today to talk to Hany Farid, a digital forensic expert about just how easy it is to put words into other people's mouths. DONIE O'SULLIVAN (on camera):  It's a lot of fun.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:31:30",
+      "speaker": "HANY FARID, PROFESSOR, UC BERKLEY SCHOOL OF INFORMATION, DIGITAL FORENSIC EXPERT",
+      "sentences": "Sure.DONIE O'SULLIVAN (on camera):  But it's also really scary.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:31:30",
+      "speaker": "FARID",
+      "sentences": "I think once you put aside that gee-whiz factor I don't think it takes a long time to look at the risks.AI-GENERATED VOICE, WOLF BLITZER, CNN ANCHOR:  This is Wolf Blitzer. Hany Farid, you are in the Situation Room. DONIE O'SULLIVAN (on camera):  That's something.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:31:30",
+      "speaker": "FARID",
+      "sentences": "That's good.DONIE O'SULLIVAN (on camera):  Yes, that sounds pretty good. DONIE O'SULLIVAN (voice-over):  By uploading just a few minutes of me and some of my colleague's voices to an AI audio service I was able to create some convincing fakes, including this one of Anderson Cooper. AI-GENERATED VOICE, ANDERSON COOPER, CNN ANCHOR:  Donie O'Sullivan is a real piece of (bleep).",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:31:30",
+      "speaker": "FARID",
+      "sentences": "(Laughing).DONIE O'SULLIVAN (on camera):  That's AI.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:31:30",
+      "speaker": "FARID",
+      "sentences": "Is it really?DONIE O'SULLIVAN (on camera):  That's AI.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:31:30",
+      "speaker": "FARID",
+      "sentences": "That's good.DONIE O'SULLIVAN (on camera):  Yes. Anderson's is really good -- FARID:  Man. DONIE O'SULLIVAN (on camera):  -- because Anderson doesn't have a stupid Irish accent. DONIE O'SULLIVAN (voice-over):  The technology did struggle with my Irish accent but we decided to put it to the ultimate test with my parents. DONIE O'SULLIVAN (on camera):  I am about to try to call my mom back in Ireland and see if I can trick her with this voice.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:31:30",
+      "speaker": "FARID",
+      "sentences": "Yes.DONIE O'SULLIVAN (on camera):  Do you think I'm going to be successful?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:35:00",
+      "speaker": "FARID",
+      "sentences": "Is this not classic? The mom's like something is wrong with my son. The dad's like everything's fine.(LAUGHTER) AI-GENERATED VOICE, JOE BIDEN, PRESIDENT OF THE UNITED STATES:  I'd like to close out today's ceremony with a question. If you were given a choice, would you choose to have unlimited bacon but no more video games, or would you rather -- DONIE O'SULLIVAN (voice-over):  With fake Biden and Trump recordings going viral online, Farid says this could be something to be wary of going into the 2024 election.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:35:00",
+      "speaker": "FARID",
+      "sentences": "When we enter this world where anything can be fake -- any image, any audio, any video, any piece of text -- nothing has to be real. We have what's called The Liar's Dividend, which is anybody can deny reality.DONIE O'SULLIVAN (voice-over):  With a flood of new AI tools releasing online he says companies developing this powerful technology need to think of its potential negative effects.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:35:00",
+      "speaker": "FARID",
+      "sentences": "There is no online and offline world. There's one world and it's fully integrated. When things happen on the internet they have real implications for individuals, for communities, for societies, for democracies. And I don't think we as a field have fully come to grips with our responsibility here.DONIE O'SULLIVAN (voice-over):  In the meantime, I'll continue annoying my colleagues. DONIE O'SULLIVAN (on camera):  Hear this to Anderson said. AI-GENERATED VOICE, ANDERSON COOPER, CNN ANCHOR:  I've been doing this a long time. I have to say Donie O'Sullivan is probably the best in the business. DONIE O'SULLIVAN (on camera):  That's incredible.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:35:00",
+      "speaker": "FARID",
+      "sentences": "Really good.DONIE O'SULLIVAN (on camera):  That's very kind of him to say that as well.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:35:00",
+      "speaker": "FARID",
+      "sentences": "It's really -- you know, you should be honored, really.(END VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:35:00",
+      "speaker": "ROMANS",
+      "sentences": "All right, thank you for that, Donie.All right, chaos aboard a Southwest plane in Dallas when one passenger attacked another. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:35:00",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "Stop! Stop it!",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:35:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "(Bleep)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:35:00",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "Stop!",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:35:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Get off of her.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:35:00",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "Stop it!",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:35:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Get off of her.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:35:00",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "Stop it now!(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:35:00",
+      "speaker": "ROMANS",
+      "sentences": "A woman captured the flurry of punches on her phone in the latest incident of violence on a plane. Passengers were able to separate these two men, then this.(BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:35:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Tell them what happened. Tell them what you did.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:35:00",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "There is no need for that right now.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:35:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "I will sit down in jail for you approaching my family. I will die for my family. So that's --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:35:00",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "Sir!",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:35:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "-- why I'll beat your (bleep).(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:35:00",
+      "speaker": "ROMANS",
+      "sentences": "Police say both men were removed before takeoff. Nobody was -- nobody was arrested.No criminal charges for that 6-year-old Virginia boy who police say shot his elementary school teacher in January. In a statement, Newport News, Virginia commonwealth's attorney wrote, \"After researching the issue thoroughly, we do not believe the law supports charging and convicting a 6-year-old with aggravated assault.\" Attorneys for the teacher injured in the shooting, Abigail Zwerner, declined to comment on the state's decision. The shooting left the Newport News community outraged with many parents still questioning the school's handling of that incident. New this morning, the bodies of the two Americans killed in Mexico are expected back in the U.S. today. Shaeed Woodard and Zindell Brown were kidnapped at gunpoint and killed in Matamoros on Friday. CNN has learned their remains will be driven from Mexico to a funeral home in Brownsville, Texas for a second autopsy. Two other Americans survived the ordeal and are already back in the U.S. CNN's Rosa Flores has more from Texas. (BEGIN VIDEOTAPE) ROSA FLORES, CNN CORRESPONDENT (voice-over):  Two of four Americans kidnapped in Mexico seen in this disturbing video are now in the U.S. and preparing to return home. Latavia Washington McGee, a mother of six, heading to South Carolina, according to her family who spoke to her by phone.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:40:00",
+      "speaker": "BARBARA BURGESS, MOTHER OF LATAVIA WASHINGTON MCGEE",
+      "sentences": "A van came up and hit them and that's when they started shooting at the car. The others tried to run and they got shot at the same time. She watched them die.FLORES (voice-over):  The four Americans were ultimately found by Mexican authorities here on Tuesday. FLORES (on camera):  Officials here say that Americans routinely go into Mexico for medical care using ports of entry like the one that you see behind me, but officials urge them to go directly to their destination. FLORES (voice-over):  According to Patients Beyond Borders, Mexico is the second-most popular destination for medical tourism globally and millions of people travel there each year expecting to save anywhere from 40 to 60 percent on major medical procedures, including cosmetic surgery.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:40:00",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "It's risky having any kind of medical procedure done outside of the United States. You run the risk of going to a doctor or a facility that is not accredited. You run the risk if there are any disputes over the money that you've been charged or if the procedure doesn't go well.FLORES (voice-over):  And there are concerns beyond the medical and legal risks. Officials urge caution when traveling. The U.S. State Department has issued its highest warning -- do not travel to several regions in Mexico, including Tamaulipas State where the group was abducted.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:40:00",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "You're not only risking your life but you are also risking the possibility that you may not make it home.FLORES (on camera):  According to a source inside Mexico's attorney general's office, telling CNN that the Americans who died will be repatriated on Thursday. They will be crossing over here to Brownsville, Texas where I am. Once on U.S. soil, a second autopsy is expected to be performed. Rosa Flores, CNN, Brownsville, Texas. (END VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:46:05",
+      "speaker": "ROMANS",
+      "sentences": "All right, your Romans' Numeral this morning, 1.9. New January jobs numbers show 1.9 job openings for each available worker. It's a way to measure just how tight the job market is.And job openings fell from 11.2 million -- that is a huge number -- in December to 10.8 million in January -- still big. Again, another way to measure a very strong job market. Fed officials have expressed concern that a tight labor market could keep upward pressure on wages and, in effect, inflation. All right. Looking at markets around the world right now, Asian markets finished lower. European markets are down at this hour. And on Wall Street, stock index futures on this Thursday morning also leaning lower. It was a mixed day yesterday in the U.S. for stocks as the Fed chair Jerome Powell finished a two-day testimony on Capitol Hill. The S&amp;P and the Nasdaq finished up. The Dow marking its second negative session in a row. The private payroll company ADP reported 242,000 private sector jobs were added in February, more than double the number from January. On inflation watch this morning, gas prices rose two pennies overnight to $3.47 a gallon. Weekly jobless claims due out at 8:30 this morning. Incredibly important in light of that strong, strong job market. And now this. (BEGIN VIDEO CLIP) BEYONCE, SINGER-SONGWRITER:  Singing \"Single Ladies (Put a Ring on It).\" (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:46:05",
+      "speaker": "ROMANS",
+      "sentences": "All right, single women are becoming a more influential part of the American economy. A new Wells Fargo survey finds more single women are in the workforce than ever before and yet, financial fragility persists due to the stubborn pay gap between men and women.I want to bring in chief economist at ADP, Nela Richardson. Nela, I'm so glad you're here today. I want to start overall with the U.S. job market and then we'll get to the single women in the labor market in a moment. But you say the U.S. has robust hiring here. The job market is still strong. What are you expecting in terms of that -- of that major jobs report tomorrow. NELA RICHARDSON, CHIEF ECONOMIST, ADP (via Skype):  Hi. Good morning. Well, we saw that the government reported a half-million jobs in January so the strength coming into the year should likely be sustained in February, though I doubt it will be that high given where we are in the economy right now. But overall, the labor market is incredibly tight. We're seeing robust hiring and that's good. Let's not question that. It's unequivocally good to see people with jobs and income. What's bad is that it's coming at the cost of inflation. And so even though we've seen salaries increase quite a bit, a lot of that gain is being eroded by too-high prices, so acceleration overall.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:46:05",
+      "speaker": "ROMANS",
+      "sentences": "All right. We have on the screen now the median net worth for U.S. singles, and I think this is just a fascinating study from Wells Fargo. Single women, whether never married, separated, or divorced, are more like to work than married women. And over half of married women are working in 2022, too.What do you make of the increasing participation of single women in the labor market?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:06",
+      "speaker": "ROMANS",
+      "sentences": "Yes. So when you're looking at these young, single women, never married -- you know, they make 92 1/2 cents on the dollar to their -- to the -- to the never-married men. That is the narrowest gap but it's still a gap, you know? How do we fix that?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:06",
+      "speaker": "RICHARDSON",
+      "sentences": "It's still a gap and it's a gap that's persistent with all age groups across all industries. It's actually wider in industries that are dominated with -- by women, like education and health care.ADP provides payroll services for 25 million workers. Forty-seven percent of them, roughly, are women. And we see these pay gaps persistent across industries -- tenures, hierarchies. So how do you close the gap? First, you've got to identify the gap and that's really important not just at a societal level but at a company level, benchmarking that gap. Going in and seeing where there are disparities with two people with the same occupation, same tenure, same hierarchy, and yet, you see a persistent gap. Because those gaps don't close on their own. They're amplified over time and that's why it's really important to identify them and close them as soon as possible.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:06",
+      "speaker": "ROMANS",
+      "sentences": "Yes. You know, March is the month when we celebrate women in the economy, and we had International Women's Day yesterday. And year after year, I do these stories and I look at these numbers and it's sort of shocking to me that over the course of my career this gap hasn't really moved. It really hasn't moved and has been really kind of disappointing.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:06",
+      "speaker": "RICHARDSON",
+      "sentences": "That's right. That's right. But it can change and I think that's the important thing.We have AI to do all kinds of things. One of the things that AI can do in companies, what data can do in companies is illuminate these pay gaps and with intention, they can be closed. So I am hopeful for the future. I don't think we have to be disappointed forever --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:06",
+      "speaker": "ROMANS",
+      "sentences": "OK.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:06",
+      "speaker": "RICHARDSON",
+      "sentences": "-- when it comes to pay.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:56:36",
+      "speaker": "ROMANS",
+      "sentences": "All right, welcome back.Former NBA star Shawn Kemp is under arrest in connection with a drive- by shooting incident. Andy Scholes has this morning's Bleacher Report. Hey, Andy.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:56:36",
+      "speaker": "ANDY SCHOLES, CNN SPORTS CORRESPONDENT",
+      "sentences": "Yes, good morning, Christine.So officials in Washington State tell CNN that the 53-year-old was booked into the Pierce County Jail yesterday. Now, details about the alleged incident were not immediately available but the Tacoma Police Department tweeted that there was an altercation between the occupants of two cars that led to shots being fired at a parking lot. No injuries were reported and the investigation is ongoing. CNN was unable to reach a representative for Kemp and has not been able to determine if he has legal representation. Kemp was a six-time NBA All-Star and played 14 seasons in the league from 1989 to 2003. All right. Suns fans, meanwhile, are going to have a little longer to see Kevin Durant make his home debut in Phoenix. So K.D. slipped here during pregame warmups and he was ruled out for the game. For now, the team is calling it a sprained ankle but Suns coach Monty Williams says Durant's going to undergo more tests today. All right. We had an exciting finish in the ACC Tournament last night. Wake Forest's Davien Williamson is going to hit a three with .5 seconds left to give the Demon Deacons the win over Syracuse. But the big news out of this was that after 47 years, legendary coach Jim Boeheim is now out as the Orange head coach. He said afterwards it was not his decision. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:56:36",
+      "speaker": "REPORTER",
+      "sentences": "You're going to retire?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:56:36",
+      "speaker": "JIM BOEHEIM, SYRACUSE HEAD BASKETBALL COACH",
+      "sentences": "This is up to the university.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:56:36",
+      "speaker": "REPORTER",
+      "sentences": "You want to come back?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:56:36",
+      "speaker": "BOEHEIM",
+      "sentences": "I didn't say that.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:56:36",
+      "speaker": "REPORTER",
+      "sentences": "OK, but -- so what are you saying? You're not saying you're retiring but you're not saying --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:56:36",
+      "speaker": "BOEHEIM",
+      "sentences": "I think I just said it. I don't know.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:56:36",
+      "speaker": "REPORTER",
+      "sentences": "So you don't know? OK.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:56:36",
+      "speaker": "BOEHEIM",
+      "sentences": "I said this is up to the university.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:56:36",
+      "speaker": "REPORTER",
+      "sentences": "And you're not sure whether you're -- when will you -- when will it -- how will you make a determination about when you will come back?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:56:36",
+      "speaker": "BOEHEIM",
+      "sentences": "You're talking to the wrong guy.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:56:36",
+      "speaker": "SCHOLES",
+      "sentences": "All right. And finally, Florida Gov. Ron DeSantis says tennis star Novak Djokovic should be allowed to play at the Miami Open later this month and he's willing to help him get there.(BEGIN VIDEO CLIP) GOV. RON DESANTIS, (R) FLORIDA:  He is being discriminated against because he didn't take the mRNA COVID jab. He poses zero risk to the United States, zero risk to the state of Florida, and zero risk to Miami. So he should be allowed to compete. Now, I would run a -- I would run a boat from the Bahamas here for him. I would do that, 100 percent. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:56:36",
+      "speaker": "SCHOLES",
+      "sentences": "Yes. So, Djokovic is not allowed to enter the U.S. because he is not vaccinated, but there may be a loophole to enter the U.S. if he does it by boat and not by air.Christine, Gov. DeSantis has asked the Biden administration for clarification about that. But you heard him say there he'd run a boat from the Bahamas.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:56:36",
+      "speaker": "ROMANS",
+      "sentences": "All right. Well, we shall see.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:56:36",
+      "speaker": "SCHOLES",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:56:36",
+      "speaker": "ROMANS",
+      "sentences": "Thank you so much. Nice to see you, Andy Scholes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:56:36",
+      "speaker": "SCHOLES",
+      "sentences": "All right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:56:36",
+      "speaker": "ROMANS",
+      "sentences": "California bracing for another powerful storm with torrential rains expected to rip through the region today. A state of emergency now declared in 21 more counties.Let's get to meteorologist Chad Myers. More on the way. What can you tell us, Chad, about this new system?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:56:36",
+      "speaker": "CHAD MYERS, AMS METEOROLOGIST",
+      "sentences": "This time rain on the snow that's already there and that's going to be the problem here. We are going to have a couple of days, even through Saturday, of significant rainfall coming down -- Santa Cruz mountains all the way through the Sierra. Some of these spots could pick up five to seven inches of rainfall.That could be enough to make flooding by itself, but the flooding is going to happen because the rain is going to melt some of this snow. Also, down across parts of these areas we've seen so many pictures of, this rain is going to fall on the snow that's still on the roofs of these houses and these houses are going to be in peril with this very heavy snow on top.",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

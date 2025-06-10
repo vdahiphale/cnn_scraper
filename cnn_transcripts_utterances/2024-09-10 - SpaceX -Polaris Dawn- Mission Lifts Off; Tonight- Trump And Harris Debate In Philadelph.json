@@ -1,0 +1,469 @@
+{
+  "date": "2024-09-10",
+  "headline": "CNN This Morning",
+  "subHeadline": "SpaceX \"Polaris Dawn\" Mission Lifts Off; Tonight: Trump And Harris Debate In Philadelphia; Congress Returns As Shutdown Looms. Aired 5:30-6a ET",
+  "utterances": [
+    {
+      "timeStamp": "05:30:00",
+      "speaker": "KEITH COWING, ROCKET SCIENTIST",
+      "sentences": "So you've people now with, as Elon Musk would say, not insignificant resources. They've seen too much science fiction. They don't know any better than to try and make it real, and that's what you see here.And in terms of the spacesuits, Kristin's parents were wearing the ones that they're still having now. They still work but, you know, here we are in the 21st century and we need something that's a little more --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:30:00",
+      "speaker": "KASIE HUNT, CNN ANCHOR",
+      "sentences": "A reminder for our viewers who don't remember that Kristin's parents were both astronauts themselves, so I love that little reference, Keith. I'm sorry, continue.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:30:00",
+      "speaker": "COWING",
+      "sentences": "But now we've got these cool spacesuits that have their consumer products. They're forward to backward compatibles, they say. They're designed to be evolved and improved quickly as opposed to the decades it takes for NASA, so that's another thing. And, of course, they look cool. They look like deejays from an EDM concert.But on top of that, as mentioned, the radiation isn't -- well, they do, you know. But in terms of the radiation, they've gone up to 870 miles to do their EDA. It's beyond where Gemini 11 did it. They'll get a big dosage of radiation. They'll get about three months' worth in a few days. So, you know, the biologist in me would want to see the -- that data. But other than that, they're taking some 3D ultrasound things that they're going to be doing on the head to understand how they respond to things. They're going to have some smart contact lenses. So they're using the human body -- these four crew members -- also as not guinea pigs I guess but as test subjects. So, you know, this is -- this what's new. The private sector is interested in science -- the science that enables exploration. That's new.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:30:00",
+      "speaker": "HUNT",
+      "sentences": "Really, really fascinating and really courageous on the part of these folks who are willing to trial this out.Keith Cowing, thank you very much for being with us this morning. Kristin, I love having you. I really hope we have more occasions to do this --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:30:00",
+      "speaker": "KRISTIN FISHER, CNN SPACE AND DEFENSE CORRESPONDENT",
+      "sentences": "I know.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:30:00",
+      "speaker": "HUNT",
+      "sentences": "-- together on set. Thank you for being here.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:30:00",
+      "speaker": "FISHER",
+      "sentences": "Thanks for having us.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:36:32",
+      "speaker": "HUNT",
+      "sentences": "That was Mitt Romney during his second presidential debate against Barack Obama in 2012. He was talking about how he would staff his administration. It was an administration, of course, that never came to be. That moment though lives on.Good morning, everyone. I'm Kasie Hunt. It's wonderful to have you with us. It's 5:36 a.m. here on the East Coast. That is the National Constitution Center in Philadelphia. It is home to tonight's presidential debate. That city playing a huge role -- the city and surrounding suburbs playing a huge role in who is going to be our next president. Now, of course, one of the major issues tonight, immigration. It's playing a key role for both campaigns. We are going to see it take center stage. Donald Trump has tried to turn the border into a -- he has turned the border into a cornerstone of his campaign. He, of course, used to talk about building the wall. Now he's promising supporters a mass deportation if he's elected. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:36:32",
+      "speaker": "TRUMP",
+      "sentences": "Getting them out will be a bloody story. They should have never been allowed to come into our country. Nobody checked them. Nobody checked were they criminals? Were they from jails?(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:36:32",
+      "speaker": "HUNT",
+      "sentences": "Our next guest argues Kamala Harris might be mishandling the issue of Trump's immigration policies on the trail.Ron Brownstein writes this. \"Despite these potentially massive impacts, Trump's immigration and criminal justice ideas have received relatively little attention in this campaign from anyone -- the media, liberal interest groups, or the Harris campaign. Harris did not mention the threat of mass deportation in either Phoenix or Las Vegas, two cities with very large Hispanic populations, when she appeared in them on her initial campaign swing with her running mate, Minnesota Gov. Tim Walz.\" And Ron Brownstein joins us now. Ron, good morning.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:36:32",
+      "speaker": "RON BROWNSTEIN, CNN SENIOR POLITICAL ANALYST, SENIOR EDITOR, THE ATLANTIC",
+      "sentences": "Hey, good morning.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:36:32",
+      "speaker": "HUNT",
+      "sentences": "Wonderful to see you.So there's clearly a reason why Kamala Harris is kind of avoiding this. It's an issue that Republicans seem to --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:36:32",
+      "speaker": "BROWNSTEIN",
+      "sentences": "Yeah.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:36:32",
+      "speaker": "HUNT",
+      "sentences": "-- be winning on. But you say that might be a mistake -- explain.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:36:32",
+      "speaker": "BROWNSTEIN",
+      "sentences": "Well look, I think one of the defining gambles of the Trump campaign is that he is not only hoping for but counting on improved performance among Black and Latino voters, especially men -- especially younger men -- at the same time that he is advancing policies that would have enormous impact on those communities as a way of energizing his culturally conservative white base.And whether we're talking about mass deportation on immigration where new data that I have in my story from the Pew Research Center says that one-quarter of all Hispanics in the U.S. live in a mixed status family, or at least some --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:36:32",
+      "speaker": "HUNT",
+      "sentences": "Wow.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:36:32",
+      "speaker": "BROWNSTEIN",
+      "sentences": "-- of the people are undocumented. Or on the other side, which has received even less attention, that as recently as last weekend with the Fraternal Order of Police, he is running on saying that he will pressure every police department in the country to adopt stop-and-frisk tactics at the same time that he will pass national legislation making it harder to sue police for misconduct. That would, experts tell me, involve -- that would probably create the conditions for millions of more stops -- police stops -- primarily of the same younger Black and Latino men that he's calling.And so far, this gamble I think is working for him pretty well largely because no one on the Democratic side -- not Harris, not her campaign, not the Democratic interest groups -- are calling him out very much on it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:36:32",
+      "speaker": "HUNT",
+      "sentences": "Yeah. Are they just afraid of it?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:40:09",
+      "speaker": "HUNT",
+      "sentences": "Yeah.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:40:09",
+      "speaker": "BROWNSTEIN",
+      "sentences": "-- in the communities that he is targeting. And yet, there's been very, very little discussion of them from really anyone in the Democratic ecosystem.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:40:09",
+      "speaker": "HUNT",
+      "sentences": "Yeah, really interesting.So, big picture, Ron. Tonight we've got a big debate. The last debate we saw mattered --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:40:09",
+      "speaker": "BROWNSTEIN",
+      "sentences": "Yeah, right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:40:09",
+      "speaker": "HUNT",
+      "sentences": "-- a whole helluva lot.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:40:09",
+      "speaker": "BROWNSTEIN",
+      "sentences": "Yeah.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:40:09",
+      "speaker": "HUNT",
+      "sentences": "Is this one going to matter?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:40:09",
+      "speaker": "BROWNSTEIN",
+      "sentences": "Yeah. I think it will. I mean, look, when you talk to political scientists or political strategists, they tell you the debates don't usually matter except when they do, and then they can matter an awful lot.The conditions for this one to matter I think is found in that one poll in The New York Times -- number in that New York Times/Siena poll -- 30 percent saying they need to know more about here, right?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:40:09",
+      "speaker": "HUNT",
+      "sentences": "About Kamala Harris, yeah.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:40:09",
+      "speaker": "BROWNSTEIN",
+      "sentences": "Look, I -- you know, Kasie, I think we have to go back to Wendell Willkie in 1940 --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:40:09",
+      "speaker": "HUNT",
+      "sentences": "Love it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:40:09",
+      "speaker": "BROWNSTEIN",
+      "sentences": "-- the business --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:40:09",
+      "speaker": "HUNT",
+      "sentences": "Love a Wendell Willkie reference.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:40:09",
+      "speaker": "BROWNSTEIN",
+      "sentences": "-- executive kind of pulled out of nowhere.To find a nominee at this point in the process that the public had less firmly held opinions about because of the unique way --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:40:09",
+      "speaker": "HUNT",
+      "sentences": "Right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:40:09",
+      "speaker": "BROWNSTEIN",
+      "sentences": "-- she got nominated. We're used to people being nominated after they run for a year and we see their triumphs and their setbacks. She is still -- I mean, the first impressions have been very positive. Her favorable-unfave are better than anybody else on either ticket. But the impressions are still pretty shallow.And historically, debates I think have mattered the most when they reveal something about the character and the capacity of the candidate. A negative way for Biden. George H.W. Bush checking his watch in '92 solidifying the idea that he was kind of out of energy and out of time. Reagan dispelling the idea that he was a scary warmonger with there you go again. I think it's going to be more important for her to project energy and capability to be president than necessarily to prosecute the case against Trump, although in fairness, prosecuting the case against Trump may be one way she shows voters she's tough enough to be president.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:40:09",
+      "speaker": "HUNT",
+      "sentences": "Yeah, really interesting. Love the perspective, Ron Brownstein. Always grateful to have you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:40:09",
+      "speaker": "BROWNSTEIN",
+      "sentences": "Thanks for having me.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:40:09",
+      "speaker": "HUNT",
+      "sentences": "And really, thanks for being here.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:40:09",
+      "speaker": "BROWNSTEIN",
+      "sentences": "Yeah, good to be here.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:46:50",
+      "speaker": "REPORTER",
+      "sentences": "What's your fallback position?REP. MIKE JOHNSON (R-LA):  There is no fallback position. This is a righteous fight. This is what the American people demand and deserve. When you take the polls -- you look at a poll in this about 87 percent of American citizens believe you ought to be able to depart from citizenship. You should have to before you register to vote. So it's unconscionable to me that anybody in this building would vote against that or suggest that it's politics. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:46:50",
+      "speaker": "HUNT",
+      "sentences": "All right, Congress is back in session and guess what? A spending fight already unfolding. A government funding deadline is looming.That was House Speaker Mike Johnson trying to lay out a plan which pairs a six-month funding resolution with a controversial bill that would bar non-citizens from voting. That is, of course, already illegal. But he might have to come up with a plan B because at least six House Republicans -- enough to kill that resolution -- have come out against it. Still, Johnson appeared confident ahead of tomorrow's scheduled vote. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:46:50",
+      "speaker": "MANU RAJU, CNN ANCHOR AND CHIEF CONGRESSIONAL CORRESPONDENT",
+      "sentences": "The Senate has already said no. The White House has already said no.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:46:50",
+      "speaker": "JOHNSON",
+      "sentences": "The Senate and White House always say no.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:46:50",
+      "speaker": "RAJU",
+      "sentences": "But if they -- if and when they reject this will you accept a clean CR?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:46:50",
+      "speaker": "JOHNSON",
+      "sentences": "Let's see if they have the guts to tell the American people they want illegals to vote in these elections.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:46:50",
+      "speaker": "HUNT",
+      "sentences": "All right. Joining us now, congressional reporter for The Hill, Mychael Schnell, and senior congressional reporter for Punchbowl News, Andrew Desiderio. Welcome to both of you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:46:50",
+      "speaker": "ANDREW DESIDERIO, SENIOR CONGRESSIONAL REPORTER, PUNCHBOWL NEWS",
+      "sentences": "Good morning.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:46:50",
+      "speaker": "HUNT",
+      "sentences": "Deja vu all over again when Congress comes back. They've got to fund the government and it's a problem. Here we are.Andrew -- and Mychael, feel free to jump in -- describe the -- if it's Republicans objecting it probably means they're going to need some Democrats to help get this over the finish line. They're not going to vote for this immigration thing he's tacked on there. What's the strategy? DESIDERIO:  Right. Well, we know how this movie ends every time, right, which is House Republicans try to pass something with only Republican votes. They either narrowly succeed or they fail. It looks like in this case they're going to fail because you have the very broad coalition of Republicans who don't like this continuing resolution plan. And then in the end, Democrats and Republicans come together and vote on a clean continuing resolution to fund the government for a few months here. This will kick the can likely to December, which is interesting because it's before the new Congress comes in and it basically ensures that Congress will have to cover the full year appropriations packages -- all 12 spending bills -- before the new Congress comes in and before the new president comes in as well, which is fascinating.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:46:50",
+      "speaker": "HUNT",
+      "sentences": "So what you're saying is Merry Christmas to all of us.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:46:50",
+      "speaker": "DESIDERIO",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:05",
+      "speaker": "HUNT",
+      "sentences": "How are, kind of, electoral politics screwing around with this?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:05",
+      "speaker": "DESIDERIO",
+      "sentences": "Well, as Mychael just mentioned, you have Republicans in these Biden districts where they are -- they are the majority makers for House Republicans, right? They don't want a shutdown threat this close to the election. You've got Senate Republicans as well knowing that they willinevitably -- their party will inevitably get blamed for a shutdown as is almost always the case. And that's sort of the Mitch McConnell ethos when it comes to government funding, right, which is shutdowns never work out well for Republicans. And that's I think the guiding principle as we -- as we barrel towards this potential shutdown here.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:05",
+      "speaker": "HUNT",
+      "sentences": "How much time do they have to figure this out?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:05",
+      "speaker": "SCHNELL",
+      "sentences": "So, September 30. So there are three legislative weeks that Congress right now in session. Of course, these members want to get back home. They don't want to be spending this time so close to the election squabbling over government funding. They want to go back to their states, back to their districts, and talk to voters. But they won't be able to do that until government funding is hashed out.So they have until September 30. They're going to want to do it on an expedited timeline to get this thing over with. But, of course, there's always a fight when you get this close to the deadline.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:05",
+      "speaker": "HUNT",
+      "sentences": "Yeah.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:05",
+      "speaker": "DESIDERIO",
+      "sentences": "This whole thing is just for the next three weeks -- just honestly, a total waste of time, right? Because again, we just know how this is going to end, right? This is going to end with a clean CR that lasts for about three months with Democrats and Republicans -- majorities in both parties coming together and voting on that. Whether it happens now or whether it happens at 11",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:05",
+      "speaker": "HUNT",
+      "sentences": "Well, and, of course, my question honestly is would Mitch McConnell prefer to keep everybody in Washington until that -- because he's got a lot of challengers, right? Democrats have a lot of people defending seats. Keeping them in Washington hurts them in an election season --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:05",
+      "speaker": "DESIDERIO",
+      "sentences": "The Republicans --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:05",
+      "speaker": "HUNT",
+      "sentences": "-- probably more than the Republicans.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:05",
+      "speaker": "DESIDERIO",
+      "sentences": "They can campaign every single day, right, because these are the Republican challengers and they're not currently in office, right?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:05",
+      "speaker": "HUNT",
+      "sentences": "(INAUDIBLE).",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:05",
+      "speaker": "DESIDERIO",
+      "sentences": "And Republicans, as we know, have a great map, so --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:05",
+      "speaker": "HUNT",
+      "sentences": "Yes, they do.All right, guys, this was a great conversation. Thank you so much for being here. Mychael Schnell, Andrew Desiderio for us today. All right, time now for sports. The 49ers spoil Aaron Rodgers return to the Jets with a dominant win on \"MONDAY NIGHT FOOTBALL.\" Andy Scholes has this morning's Bleacher Report. Andy, good morning.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:05",
+      "speaker": "ANDY SCHOLES, CNN SPORTS ANCHOR",
+      "sentences": "Yeah, good morning, Kasie.So Aaron Rodgers, you know -- he only made it four plays last season before he ruptured his Achilles, so Jets fans getting their first real look at him last night. And there was a surprise right before the game as 49ers star running back Christian McCaffrey was announced as inactive with an injured calf. He had been questionable all week but said he was going to play on Friday. It was backup Jordan Mason though picking up the slack. Mason rushing for a career high 147 yards on 28 carries, including that five-yard touchdown in the third. The Niners scored 23 unanswered at one point in this game. And Rodgers threw two touchdowns to Allen Lazard in his return, but it was not enough. The Niners roll in this one 32-19. Here was Rodgers after the game. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:05",
+      "speaker": "AARON RODGERS, QUARTERBACK, NEW YORK JETS",
+      "sentences": "No excuses. We've got to play better, I've got to play better, and we'll bounce back. But overall, I was getting the ball out pretty good, but I had some opportunities I'd like back.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:05",
+      "speaker": "SCHOLES",
+      "sentences": "All right. The Miami-Dade Police Department, meanwhile, releasing the bodycam footage of officers pulling Dolphins star Tyreek Hill out of his car on Sunday and forcing him to the pavement before putting him in handcuffs.(BEGIN VIDEO CLIP) MIAMI-DADE POLICE OFFICER:  Get out! Get out! Get out! Get out!",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:05",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Damn.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:05",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "What part of (INAUDIBLE).",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:05",
+      "speaker": "TYREEK HILL, WIDE RECEIVER, MIAMI DOLPHINS",
+      "sentences": "Hey, Drew! Hey, Drew! I'm getting arrested.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:05",
+      "speaker": "SCHOLES",
+      "sentences": "And so, Hill was originally pulled over for speeding about a block away from the stadium. The Dolphins put out a statement saying it is \"saddened\" by the overly aggressive and violent conduct directed towards Tyreek Hill.One of the officers involved has been placed on administration duties and an internal investigation is underway. And speaking with CNN's Kaitlan Collins last night, Hill explained why he rolled his window back up before he was pulled from his car. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:05",
+      "speaker": "HILL",
+      "sentences": "I'm not trying to cause a scene because a) if I let my window down -- like, people walking by and driving by -- they're going to notice that is me and they going to start taking pictures. And I -- like, I -- like, I didn't want to create a scene at all.Like, I just really wanted to get the ticket and then just go on about my way, and then just, you know, just have a great Sunday. I guess the officers -- they felt like I wasn't doing it on their time, but I was -- I was doing it. You know, man, I'm still kind of shellshocked from it, man. Like, I'm embarrassed. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:05",
+      "speaker": "SCHOLES",
+      "sentences": "All right. And finally, in baseball last night, Dodgers superstar Shohei Ohtani moving closer to the first 50 stolen base-50 home run season in baseball history. The reigning National League MVP swiped his 47th base last night in a 10-4 loss to the Cubs. So he's looking to win MVP this year, that is.Ohtani is now three steals and four home runs away from that historic mark. He should easily get there, Kasie, and it'll be fun to watch the final three weeks of the season.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:05",
+      "speaker": "HUNT",
+      "sentences": "It sure seems that way. Look, I -- he's -- I mean, it's a blast to watch him no matter what.Andy, thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:05",
+      "speaker": "SCHOLES",
+      "sentences": "All right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:55:00",
+      "speaker": "RONALD REAGAN, FORMER PRESIDENT OF THE UNITED STATES",
+      "sentences": "I want you to know that also, I will not make age an issue of this campaign. I am not going to exploit for political purposes my opponent's youth and inexperience.(END VIDEO CLIP) (COMMERCIAL BREAK)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:55:00",
+      "speaker": "HUNT",
+      "sentences": "It's Tuesday, September 10. Right now on CNN THIS MORNING --(BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:55:00",
+      "speaker": "KAMALA HARRIS, VICE PRESIDENT OF THE UNITED STATES, PRESIDENTIAL CANDIDATE",
+      "sentences": "I think he is going to lie.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:55:00",
+      "speaker": "TRUMP",
+      "sentences": "If I destroy her in the debate, they'll say Trump suffered a humiliating defeat tonight.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

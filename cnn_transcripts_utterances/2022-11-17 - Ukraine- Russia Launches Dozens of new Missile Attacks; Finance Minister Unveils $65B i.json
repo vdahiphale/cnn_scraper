@@ -1,0 +1,373 @@
+{
+  "date": "2022-11-17",
+  "headline": "First Move with Julia Chatterley",
+  "subHeadline": "Ukraine: Russia Launches Dozens of new Missile Attacks; Finance Minister Unveils $65B in Tax Rises, Spending Cuts; SEC Commissioner: Rushing to Regulate has Risks; Coinbase CEO: I felt Duped over Sam Bankman- Fried; Tech's Season of Layoffs; Qatar Dogged by Controversy ahead of Tournament. Aired 9-10a ET",
+  "utterances": [
+    {
+      "timeStamp": "09:00:00",
+      "speaker": "JULIA CHATTERLEY, CNN HOST",
+      "sentences": "A warm welcome to \"First Move\", another busy show for you this Thursday. As we follow the FTX fall from grace and surveythe outlook for the crypto space with the head of the giant crypto exchange Coinbase our special interview with the CEO Brian Armstrong coming up later on in the program. His key message though, does not judge the entire crypto community by the actions of one rogue player. We will discuss also this regulator has to pay us the commissioner at the powerful U.S. Securities and Exchange Commission. The SEC on what regulators can and should learn from this and what comes next. Former FTX head, Sam Bankman-Fried saying in a new interview that fresh regulation is not the answer using language way too strong to repeat here. Just for the record, I disagree. The industry needs much more robust regulatory oversight to protect investors and consumers. And withdrawal some level of trust and level the global playing field. We will discuss it's an important day to discuss Chris Rosette future amid reports that crypto lender BlockFi is planning a bankruptcy filing. Just to remind you BlockFi was once the recipient of millions of dollars, worth of FTX aid. The lending unit of crypto investment bank Genesis Global and Crypto exchange, Gemini restricting customer withdrawals too. So there's clearly turmoil in this space or ongoing turmoil. The Head of Binance now proposing a crypto recovery fund to help steadying tottering firms their crypto outlook bruised. The U.S. stock investors not enthused. Take a look at that futures looking softer. After a Wednesday pullback driven in part by a holiday sales warning from retail giant target and some hawkish fed speak too. They are nowhere near done yet. In Europe, U.K. shares are lower. After the government's austere budget statement spending cuts and tax hikes are on the menu. And we are live in London with more on the details of that. In the meantime, it's a softer picture over in Asia too with particular weakness among tech stocks. Tencent is slashing its exposure to meal delivery firm Meituan. And there are fears of more Tencent entrenchment ahead too. It's also set to cut it straight in online retail@jd.com, Wowzers. There are lots to get to today. But in the meantime, we do begin with the war in Ukraine. And Ukraine is likely to get access to a missile strike site in Poland that according to a senior Polish official. It's what President Zelenskyy has been calling for and also repeated in his late night address on Wednesday saying, \"The Ukrainian position is very transparent. We want to establish all the details, every fact\". Meanwhile, dozens of new missile attacks across Ukraine took place today mostly targeting energy infrastructure once again. Nic Robertson joins us now from Kyiv. Nic, good to have you with us! Presidents Zelenskyy very clear last night I mentioned it there in his speech. But he did create a degree of confusion over that earlier missile strike this week when talking to Ukrainian journalist earlier on Wednesday. Just can you talk us through perhaps some of the confusion that was created and what we know?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:05:00",
+      "speaker": "ROBERTSON",
+      "sentences": "What he will be very aware of is the political manipulation around this is already being perpetrated by Russia trying to claim that.This is NATO and Ukraine trying to escalate the war, framing it that way. And as well, there will be questions asked in the investigation was Russia intentionally flying cruise missiles close to the border with Poland to induce these automated air defense systems, which trigger off on where a missile is detected. It doesn't have somebody writing a joystick, it's all automatic. To chase down that list, I did Russia intentionally fire one close to the Polish border to try to engender such a scenario, because Russia would see that potentially as a way to cut off these much needed air defense supplies that Ukraine is getting from the rest of the world. So it's a very, very politically charged situation. And it does seem that President Zelenskyy always aware of what can happen in the political scene has now his statements seem to run concurrent with what we're hearing from his allies and partners at NATO.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:05:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "Very politically charged and why we need to establish firm facts. We've obviously heard from NATO. We've heard from others this week.But we need this investigation to be concluded and to be able to at least draw a line under it. But thank you for clarifying those points for those that might be confused. There are all sorts of things on social media in particular. For now, one bright spot, Nic, that the Black Sea grain deal essential for getting grain supplies around the world has been extended, it was due to end this week.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:05:00",
+      "speaker": "ROBERTSON",
+      "sentences": "Yes, and there's sort of a brighter spot on it, if you will, although this is not extended indefinitely. The original deal was for 90days, and this new deal is for 120 days. So I think, at the U.N. and the U.N. has been sort of central to helping get this off the ground and keeping it running two separate deals. One struck with Ukraine, one stuck with Russia, they're not making a deal with each other on this that this Turkish U.N. effort has actually pushed the boundaries. So this new grain movement should get more of that tonnage of grain, shipped around the world. Remembering in the summer that it was hoped that three-month period, 90 days will get about 20 million tons of grain and other commodities out they didn't achieve that target just a little bit less than 11 million tons. So 120 days, opportunity to catch up and keep global food prices a little more stable.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:05:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "Yes, a rare moment of bright news and good news on that front. Nic, great to have you with us! Thank you, Nick Robertson there. OK, let'smove on to a rare and unscripted moment from Xi Jinping caught on camera. The Chinese president confronting Canadian Prime Minister Justin Trudeau, over conversations held at the G 20 Summit. Just watch this. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:05:00",
+      "speaker": "XI JINPING, PRESIDENT OF CHINA",
+      "sentences": "Everything we discussed has been leaked to the papers and that is not appropriate. And that's not the way theconversation was conducted.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:05:00",
+      "speaker": "JUSTIN TRUDEAU, PRIME MINISTER OF CANADA",
+      "sentences": "In Canada we believe in a free and open and frank dialogue, and we will continue to have and we willcontinue to work constructively together. But there will be things we will disagree on.--",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:05:00",
+      "speaker": "JINPING",
+      "sentences": "Let's create the conditions first.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:05:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "Will Ripley, joins us on this? Well, it's very surprising, I think simply because everything that we normally see from Xi Jinping feelsso scripted that to see this unscripted moment is shocking, irrespective of what's taking place. But what do we know about the details? Was something leaked? Or was it just readout, but that we do tend to see from meetings like this from Western leaders?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:10:00",
+      "speaker": "RIPLEY",
+      "sentences": "And so Justin Trudeau hours after that exchange was really trying to downplay the severity of it as awkward as it actually looked on thatvideo. Here's what he said. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:10:00",
+      "speaker": "TRUDEAU",
+      "sentences": "Listen, I think that people know that not all the conversations are going to be easy with the other leaders especially when it comes toissues that are sources of disagreement. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:10:00",
+      "speaker": "RIPLEY",
+      "sentences": "This is really being a full court press by Xi Jinping after three years of self-imposed pandemic isolation. He met here in Bangkok today withthe Japanese Prime Minister, Fumio Kishida, the first formal meeting with a Japanese Prime Minister in three years. He met with the New Zealand Prime Minister Jacinda Ardern. He was greeted at the airport by Hong Kong's new Chief Executive, John Lee, that's certainly a friendly face. But if the G 20, in Bali, Julia, I mean, he had meetings with a number of U.S. allies. Of course, there was that three-hour marathon on Monday with President Biden, where Xi Jinping later, you know, push back at the narrative that it's a fight of democracy versus autocracy. He said that what he has in his country is, as he put it, Chinese style democracy. And he also met, by the way with the Leaders of Australia, France, and the Netherlands, South Korea, South Africa, Senegal, and the list goes on, in terms of the meetings that he had. And what's also really interesting to me, Julia, is that he's now here in Bangkok. And he was in Indonesia, mingling with people without a mask, shaking hands, you know, walking through streets that are bustling. And essentially back to almost pre pandemic levels, in terms of tourism and in terms of businesses being open, life feeling normal. And yet the China that he rules with 1.4 billion people, they're still living in this, you know, Orwellian pandemic Time Warp with rolling lockdowns and mandatory COVID testing and a Polish state of heavy surveillance where movements are restricted so even though he's trying to portray himself much like a Western Leader, including with this sort of face to face diplomacy. The reality is the country that he controls, which is very much under his control with very few people to check his power life there very, very different from what most people around the world would consider a good life, Julia.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:10:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "Yes, the extremes in the differences in culture and approach here on various different levels well underscored. Will Ripley, thank youso much for that? OK, it's the $64 billion question. Actually, it's closer to $65 billion we believe. So that's the price the British government has put on restoring its economic credibility and the economy. Let's be clear, Finance Minister Jeremy Hunt, announced high taxes and lower spending in his autumn fiscal plan and warned of difficult decisions to come. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:10:00",
+      "speaker": "JEREMY HUNT, FINANCE MINISTER OF UNITED KINGDOM",
+      "sentences": "High inflation is the enemy of stability. It means higher mortgage rates, more expensive food andfuel bills, businesses failing and unemployment rising. It erodes savings causes industrial unrest and cuts funding for public services. It hurts the poorest the most, and eats away at the trust upon which a strong society is built. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:10:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "And Nina dos Santos, joins us now from London. I was just doing the quick calculations on that. I believe we've gone from a 45 billionpound, because we're in pounds here not dollars. Pounds of unfunded tax cuts under Liz Truss to 55 billion pounds, worth of spending cuts and tax rises under Rishi Sunak and I think that underscores the point about austerity in the country even as the economy struggles.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:15:00",
+      "speaker": "SANTOS",
+      "sentences": "That Data is crucial it's because an election is going to happen in two years from now. So some people have been questioning the logic herethat Jeremy Hunt just put on the table. Why announced tax cuts that your government may not actually see through, because if the polls are anything to go by. It's certainly looking into the conservatives, if there were an election to be held today would actually lose that. What he's doing is freezing things like spending on cultural activities, freezing certain budgets of certain government departments, putting a bit more money on the table for the National Health Service. To acknowledge the fact that there's a huge pandemic backlog that needs to be addressed a little bit more money on the table for education, which Xi says will hopefully try and raise the level of educational attainment and therefore productivity. Perhaps boosting the tax takes in a few years, time. They're also going to be acknowledging that there'll be some help needed for the lowest earners in the country. But overall, millions more people will end up getting dragged into paying more tax as a result of this budget. Also, companies that operate in the energy sector will have to pay a higher rate of energy windfall taxes, as well, according to the latest statement, Julia.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:15:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "Yes, it is a challenge for many countries at this moment. You're not just the United Kingdom but painful nonetheless. Nina dos Santosthank you so much for that we're back after this stay with CNN. (COMMERCIAL BREAK)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:15:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "Welcome back to \"First Move\" in the last few hours. John Ray, the lawyer who managed the Enron bankruptcy said he's never seen such a\"Complete failure of corporate controls as FTX\". When he took over as CEO of FTX after found a Sam Bankman-Fried, stepped down. Big Questions are now once again being asked about the future of crypto regulation and the need for guardrails and greeted consumer protection. The Turmoil also providing plenty of ammunition for those who have remained skeptical about crypto block chain and all forms of the underlying technology. Just listen to this.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:15:00",
+      "speaker": "PAUL KRUGMAN, NOBEL PRIZE WINNER, ECONOMICS",
+      "sentences": "I think a lot of, a lot more regulation is coming now. Whether, you know if the whole enterprise makesno sense, it may not end up being highly regulated may end up just disappearing but at least for the time being. Yes, I mean, there should have been a lot more safeguards against what appears to be going on.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:20:00",
+      "speaker": "KRUGMAN",
+      "sentences": "I mean, where is it? Yes, I mean, what's the question? There's always been what problem does crypto solve? And we still haven't gotten ananswer to that. And we've discovered a lot of problems that creates, but none that it solves.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:20:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "My face there, I think said it all. But there were two questions, two important questions raised there. One, whether there's valuein what is a very diverse sector? And that often gets all lumped together just like that. And to weather this accelerates the right kind of regulation. Something our next guest has long called for joining us now is Hester Pierce, one of the five commissioners at the U.S. Securities and Exchange Commission. Commissioner Pierce, fantastic to have you on the show with us! Can we start there because this is something that you fought for? Do you think that those recent events, I know you can't be specific about individual cases, accelerate regulation? And they know, it's not a simple question, nor is it an easy solution. But do you think it does accelerate? HESTER PEIRCE, U.S. SEC COMMISSIONER: Yes, Julia, thank you for having me. And I do think that an event like this can be a catalyst for really focusing minds on regulation. And that's a good thing. I mean, these are rules that we should have been writing years ago. And so if we can turn our attention to doing that now, that's a good thing. There are a couple of things, though, to worry about. And one is that in the wake of something bad happening. It's often very tempting to craft regulations just based on what you just saw. And second, you know, rushing to regulation can mean that you don't get the public input that you need to develop good regulation. So I think we need to turn our attention to it, work on it, get the broad public input that we need, and that will be a good thing.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:20:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "Yes, I think your emphasis on again, is about quality and the right regulation rather than knee jerk. I know you've been almost a brokenrecord. And I see that smiling for better quality regulation. But it in part does come down to Congress too. And I just wanted to show our viewers, a tweet from Senator Pat Toomey from back in November. And I think this is very important. And I'll read it to you, as we show it. Congress's failure to pass legislation, creating regulatory guardrails for crypto trading, combined with the complete hostility and lack of transparency by the SEC. Governor, has generated a debilitating amount of legal uncertainty. Can I ask for your response to that? Because I know you've long said, and you've been opened with your boss, Gary Gensler, the SEC Chair, but the enforcement approach isn't enough. It's not optimal for not we're seeing. Do you think he's hostile to the sector in general? And is that creating a gap where consumers are at greater risk than they should be because that's the key.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:20:00",
+      "speaker": "PEIRCE",
+      "sentences": "Well actually Senator Toomey is my boss, more than Gary Gensler as my boss. So, I do think that what he says is important. And I do have thesame concern that the lack of regulatory clarity in the United States has led to undue emphasis on trading, and not on building things. And so I think if we had better rules in the United States, if we were clear about when something is covered by the securities laws. And then we went and we develop the securities laws, in the way that were that Congress authorized us to do, to allow necessary accommodations to let the experimentation happen to let the technology grow. Then the development in this space would have been healthier, and there would have been greater protection. For people buying tokens, there would have been better information I put out several years ago now, a call to have a safe harbor in which there'd be disclosure given when tokens were being sold. So these are basic things that would have put us in a better place. I'm not going to speak to what my fellow Commissioners feel about crypto, I think that's up to them to say, but you know, as regulators in this space, we could have done more.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:25:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "It's surely about creating a level Playing Field too, which you could argue we don't have today.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:25:00",
+      "speaker": "PEIRCE",
+      "sentences": "Well, I mean I think this highlights one of the reasons I've been calling for an open regulatory process. We need to have conversations withpeople in the industry. We need to have conversations with people who are interested in using the technology. But we need to do that in a way that allows people to see what those conversations are to respond to one another. And that is an important part of how rules get made. I think one of the things that crypto is trying to push back against is a financial system, that's dependent on who you are and who you know. And so, you know, let's try to embody that spirit and have a regulatory discussion that involves everyone.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:25:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "Do you agree that's what it's slight now? It's a case of who you know, and what context you have and what relationships you have whichcan happen with --?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:25:00",
+      "speaker": "PEIRCE",
+      "sentences": "Yes, you know, this is one of my broader concerns about the financial industry in general, which is that, because we're a very highlyregulated industry, because the industry, you know, we the SEC and the banking regulators. There are a lot of regulations on the books, which means that knowing your way around the regulatory system becomes a very essential part of doing business. And so I'm always looking for ways that we can lower barriers to entry. That doesn't mean eliminating regulations; it just means thinking about which regulations are necessary. And then following the due process requirements that Congress has placed on us, which is to do as much of our work as we can in the open.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:25:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "Yes, you know, it's interesting, and I'm going to play for my viewers, a conversation that I had with the CEO of Coinbase is one of theother big exchanges. And someone in the industry said to me, you know, for someone that wants to invest in this kind of thing, at the moment. It's like almost putting money with a bank. Clearly, a crypto exchange is not a bank, but you put your money there. You can transfer it to some form of digital assets or crypto. But the big difference is that when you put your money in a bank, there's insurance, if things go wrong. You'd almost be better off today, rather than giving your money to a crypto exchange actually just putting the money on a Starbucks card, because at least there's guaranteed utility value in that you get lots of coffee. And their point was about one that the lack of clarity, the lack of protections. But also that what's going on right now doesn't allow the good to flourish. It means that everybody's tarred with the same brush, and actually takes down the good with the bad. Would you agree with that, because it sort of goes back to the point that Paul Krugman was making that everything's lumped together and what could be good is being hit and hurt too?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:25:00",
+      "speaker": "PEIRCE",
+      "sentences": "I think that's certainly true when something bad happens, people start to assume that everything is bad. Now, you know the ethos of Cryptos,certainly not large, centralized entities. So I don't know how much you can take from events that happen involving large centralized entities but sure that the whole the whole space gets tarred with any event like this. And it is a moment for introspection too. I mean, the industry doesn't need to wait for the government to try to fix everything there. There are many things that the industry should have been doing on its own proof of reserves is one basic thing. There, the whole point of decentralized technology is transparency so that you can see what's happening. And indeed, that did help some people see what was happening in certain situations. There have been instances where bad things have happened, and people have been able to see that on chain, right? And so I think that is an area to where people can spend their time doing things on their own without the regulator coming in thinking about counterparty risks. Thinking about the risks that come from leverage the risks, when you leave your money or your assets in a particular place, you should have an understanding of what the risk of that place is? And if something goes wrong, what will happen to your assets. So these are all things that the industry can do.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:30:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "We should all be calling for that and then plays in this speech should provide it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:30:00",
+      "speaker": "PEIRCE",
+      "sentences": "Absolutely. Absolutely and I always find it funny when people in industries, particularly industries that have said, we think we can do alot without regulation when they don't actually take those steps to do those basic things. And so, yes, we as regulators have a responsibility to move forward and do something. But people who believe in this technology also have the responsibility.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:30:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "I have about 30 seconds. I know again, you can't talk about specific cases. But would that potentially prevent the fraud, the risk offraud that we've seen in the past with all companies' just greater transparency at a very basic level because regulation can't always protect against those things surely.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:30:00",
+      "speaker": "PEIRCE",
+      "sentences": "Exactly. No and market participants are really, really key in identifying that activity and having things happen on chain in a way thateveryone can see and lots of people can be checking, that is a way to combat fraud. And I'm hoping that we'll see more emphasis on that.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:30:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "Yes, it doesn't excuse or exclude regulators, but there's more we can do. And we all take responsibility for that. Hester, CommissionerPeirce, great to have you with us. Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:30:00",
+      "speaker": "PEIRCE",
+      "sentences": "Thank you, Julia.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:30:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "We're back after this, stay with us.(COMMERCIAL BREAK)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:35:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "That sentiment is echoed by Bryan Armstrong, the CEO of Coinbase, who like all of us, has been reflecting on the fall of FTX. Nowestablished back in 2012, Coinbase, is the largest U.S. based crypto currency exchange. It has over 100 million verified users over $100 billion in assets on the platform and employs close to 5000 people. Coinbase was also an investor in FTX, along with other big names, such as BlackRock and Sequoia Capital. So I began by asking Brian Armstrong to reflect on what happened about new concerns over potential criminal behavior. And the long crypto winter that could lie ahead. I began by asking how we avert another FTX.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:35:00",
+      "speaker": "BRIAN ARMSTRONG, CEO, COINBASE",
+      "sentences": "The most important lesson is that major financial hubs around the world you know, the U.S. the UK, Singapore, HongKong, et cetera. All of these regions have started to say we want this industry to be regulated, we believe there's a lot of innovation potential. And in many of these markets, we've started to see regulatory clarity emerge, not just you know, for the traditional financial services piece, which many of the centralized pieces in crypto are regulated that way, that's how we're regulated today, but also providing clarity about the crypto specific regulation. And unfortunately, due to the lack of the clarity about that crypto specific legislation, in particular in the U.S. around what is a commodity, what is a security, what are other types of crypto like stable coins; it's driven a lot of the activity to these off-shore players. And that has turned out to actually harm investors that, you know, we're drawn to these overseas companies. It's harmed American businesses. And so I think there's a real impetus, this is a moment for U.S. and every major market around the world to say, let's go create that regulatory clarity for the crypto space. So we can grow this industry in a trusted and reliable way. And we stop having investors be harmed by these off-shore actors.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:35:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "I think the other thing that comes down to an individual here and you talked about the cozy relationship with regulators, I mean, theseare big investors in FTX that were also duped. I mean, Sequoia Capital, BlackRock, for example, a lot of people that you would expect to be able to at least do some due diligence that the ordinary people can't. Is this something about Sam Bankman-Fried that people missed that was sort of hiding in plain sight because he wasn't unusual character in many respects?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:35:00",
+      "speaker": "ARMSTRONG",
+      "sentences": "Right. I mean, I have to say, you know, I feel duped as well. I mean, he was incredibly compelling and competent, clearly an intelligentindividual. You know, I viewed him as somebody who was perhaps a bit young and maybe even reckless at times, but certainly not fraudulent. I didn't see that coming. And so, you know a lot of venture firms, I think are going back and looking at what diligence they did as well. And what were the signs, what could they have seen? I know, for myself, just seeing over the last year, I knew how much revenue we had done as a public company. You know, last year, we did seven billion revenue and, and I knew what our budgets were to kind of go do venture investments and these kinds of things. And FTX which was a relatively small competitor at that time, you know, they done about 1/7 our revenue, they seem to have unlimited funds to go invest in things. And I certainly was scratching my head a few times to think like, where are they getting the liquidity from this? You know, they had this other entity called Alameda, which was their market maker/ hedge fund and people kept telling me what that thing is just printing so much money. That's how it's explained. But, you know, we always, we never wanted to have a market maker, we felt it was a conflict of interest, since we're operating an exchange and you know, it just seemed too good to be true. And so now, when I look back, I kind of I wonder if I should have noticed something sooner.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:35:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "Yes, I think the reflection on this is vitally important for many reasons, because it's just provided further fuel to all the skeptics'further technology for the industry, which is an added complication. And I guess it's a complication for your business to as we've discussed, and I want to talk about that more. Firstly, there are likely would you agree that the other people struggle as a result of the complication that this is added and the pressure that this has added to the sector? I think the latest is Genesis. So the lending arm of the crypto brokerage now Genesis saying its suspending withdrawals Binance, which is another crypto exchange, a giant one out there is talking about a recovery fund to try and support those that good companies that are now under severe pressure as a result of this. Can I ask if you intend to join that recovery fund or set up your own? Is there some opportunity here and in what appears to be chaos?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:35:00",
+      "speaker": "ARMSTRONG",
+      "sentences": "Yes, so you're correct, that there's certainly contagion happening in the industry right now as everybody is sort of looking atvarious private companies and saying, hey, what else might we not know?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:35:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "Right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:40:00",
+      "speaker": "ARMSTRONG",
+      "sentences": "Now, I think while this is not bad for the industry for the moment, its net positive for Coinbase in the sense that we've beenfollowing this trusted and regulated approach for the last 10 years. And it's kind of a validation of our strategy. And I just want to say, you know, crypto is not going anywhere, by the way, this is, it's we're going to continue to build in this industry. And one bad player does not undermine the entire thing, similarly to how you know, Bernard Madoff doesn't, you know, cause us to question the entire financial system, the traditional financial system. So there are various actors out there now kind of creating different ways to establish trust, you know, Coinbase is going to do that, as a public company. We're unique in that regard. We're the only publicly listed company out there. And so audited financial statements are a really good first step. But I think we can go even beyond that and use the power of crypto to sort of say, OK, and well, what cryptographic proofs we can provide. And eventually this industry should move to, you know, using self-custodial wallets and something called defy decentralized finance, which is totally done in transparent on the blockchain, where anybody can go audit the exact code that's being run. They can store crypto funds themselves, that's kind of the future promise of crypto and where things are going to create a more trusted and fair and free financial system where you don't need to trust intermediaries, you can trust yourself and the laws of math.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:40:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "And I don't see a lot of that actually a separation of what we call D-Fi and C-Fi, they're Decentralized Finance versus the CentralizedFinance, which is the umbrella of course, the FTX falls under with someone in charge here. Do you think crypto has been resilient actually, in the face of this relatively, or it's just so beaten up? There's, in your mind, perhaps not that much further, it can go because that is important for your business as well. You've already said that the crypto winter now will extend to the back end of 2023. I mean, that has a material impact on your flows on your volumes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:40:00",
+      "speaker": "ARMSTRONG",
+      "sentences": "Right. Well, you have to remember, of course, you know, while crypto is in a down period, so is the broader macro-environment. So that'sdue to all kinds of things and you know, pandemic and global tensions around war. So it's not just a crypto problem. I think every company right now is looking at how to make sure that they survive and not only just survive, but thrive through this down period. And so Coinbase, you know, we're very comfortable in these environments, believe it or not, over the last 10 years, we've been through about four of these cycles in crypto, this one just happens to be co-ordinated with a broader macro downturn. And so I think we're actually going to emerge much stronger from this period, we're incredibly well capitalized, we have over $5 billion, you know, we hold our balance sheet largely in U.S. dollars cash, by the way, so we're not seeing that exposure on our balance sheet to crypto. And we can, you know, there's opportunities in every down market as well and so I'm actually optimistic long term, how this is going to play out. For us as a company and the sector, it's an opportunity to kind of clean out bad actors and take a different approach that is more regulated and preserves the innovation potential.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:40:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "So in your mind, trust isn't completely broken and it can be regained where it is.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:40:00",
+      "speaker": "ARMSTRONG",
+      "sentences": "Right, it's certainly broken for FTX. And I think it's causing other people to have more scrutiny. But it's certainly not broken for usand for the broader industry.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:40:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "OK, meanwhile, Sam Bankman-Fried is reportedly one of the biggest individual political donors in the United States among Democratsand Republicans. His contributions ranked sixth in a list compiled by open secrets, which is a non-partisan, independent, non-profit. And among Democratic donors, specifically, he was the second largest in the latest electoral cycle. Although I should point out he also donated over $200,000 to the Republicans. Bryan Armstrong expressed concerns about what Bankman-Fried gained from \"the corridors of power\" and what happens now to that money.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:40:00",
+      "speaker": "ARMSTRONG",
+      "sentences": "There's a big question, I think about whether that money should be given back. Now you know, again, I think its worth-mentioning here thatfor a company like Coinbase, it just couldn't be more different. I mean, we're, we're a publicly traded company, we're registered right here in the United States, not in an off-shore jurisdiction that's trying to skirt the rules. And you know that that kind of an issue can't happen at Coinbase because we have publicly audited financial statements as again as a listed company. And you don't have to take our word for it. You know, you can kind of go review the audits and the opinions of others and see that customer funds are clearly segregated. And we're not going to they're backed one to one and we're not going to invest them on anybody's the customer's behalf without their explicit direction.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:45:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "Welcome back. It's truly the ultimate tech discontent; a major firm is cutting tens of thousands of jobs in recent weeks amid persistentrecession fears, a stark contrast to the tight jobs market we're seeing elsewhere in the United States. Vanessa Yurkevich has all the details. (BEGIN VIDEOTAPE) VANESSA YURKEVICH, CNN BUSINESS &amp; POLITICS CORRESPONDENT (voice over): In three weeks, the tech industry lost tens of thousands of jobs, historic layoffs at Twitter, Meta, Lift and Amazon. Layoffs start FYI; a crowd source lay-off tracking site puts it at more than 35,000 Layoffs so far this month. ROGER LEE, CEO, LAYOFFS.FYI: That's the highest month since the pandemic. So that beats April 2020, which was 17,000 employees Layoff. YURKEVICH (voice over): Meta cut its workforce by 13 percent. CEO Mark Zuckerberg saying he's taking accountability and apologizing to those impacted. New owner Elon Musk slashed half of Twitter staff with founder Jack Dorsey tweeting, the company grew too quickly, I apologize for that. And Amazon is laying off 10,000 workers this week citing an unusual and uncertain macroeconomic environment.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:45:00",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "There were big investments made during the pandemic time, while the rest of the economy for example was plummeting by 3.4percent, Tech grew by 4 percent. YURKEVICH (voice over): But in a post-pandemic, high inflation world, consumer behaviors and spending habits are changing with the threat of recession on the horizon.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:45:00",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "I take this as a sign that maybe companies got over their skis at some point right and there's trying to kind of sit uprightagain. YURKEVICH (voice over): Roger Lee founded Layoffs.fyi as the pandemic unfolded. Recently, he's been digging deeper into the numbers.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:45:00",
+      "speaker": "LEE",
+      "sentences": "There have been many companies who have been letting go half or more of their recruiting HR teams, just because they're not hiring as manypeople anymore. YURKEVICH (voice over): Aaron Backman, a recruiter at a tech company was one of those Layoffs. YURKEVICH (on camera): What did that feel like for you?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:45:00",
+      "speaker": "AARON BACKMAN, PEOPLE OPERATIONS BUSINESS PARTNER",
+      "sentences": "It was a really awful feeling. We were told really early in the morning an e-mail saying Layoffsare coming today. And if you get a call, it's going to be you. And I sat there for six hours on Slack and watched my colleagues get laid-off one by one. YURKEVICH (voice over): Then he got the call.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:45:00",
+      "speaker": "BACKMAN",
+      "sentences": "That's depressing.YURKEVICH (voice over): As American workers watch tech giants shed jobs at a rapid clip. Many in other industries are asking, am I next? YURKEVICH (on camera): Should they be nervous?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:50:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "On the tech sector --there are so many of course over the last few years as well. OK after the break, Qatar apologizing after heavy handedsecurity trying to pull the plug on the live broadcast though, as you can see, the Danish crew were having none of it, all the details next. (COMMERCIAL BREAK)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:50:00",
+      "speaker": "CHATTERLEY",
+      "sentences": "Organizers for the World Cup in Qatar apologizing for an incident involving a Danish TV crew. A Danish reporter shared this footagesaying it shows a confrontation between his crew and security staff in Doha. The reporter says they interrupted his live broadcast and threatened to break his camera, while cup organizers later issued a statement saying upon inspection of the cruise valid tournament accreditation and filming permit. An apology was made to the broadcaster by on-site security before the crew resumed their activity. It is of course not the only controversy Qatar is facing as Isa Soares reports. (BEGIN VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:50:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Do we know to organize the 2022 FIFA World Cup is Qatar.ISA SOARES, CNN CORRESPONDENT (voice over): The Sport world was stunned when FIFA awarded the World Cup to Qatar. Controversy took center stage and football risks becoming a sideshow. Why was Qatar a tiny desert state with no football pedigree chosen to host FIFA showpiece event. Even the disgraced former Chief of football's governing body has since described the decision as a mistake.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:50:00",
+      "speaker": "SEPP BLATTER, FORMER FIFA PRESIDENT",
+      "sentences": "I was right at a certain time to say it is - we should not go there.SOARES (voice over): That move 12 years ago provoked unprecedented anger, accusations of corruption and sports washing. Qatari officials strongly denied the allegation that bribery was involved in their bid. Before a ball is kicked at this year's tournament attention has focused on Qatar's human rights record, it stands on same sex relationship and most damaging to its reputation. The treatment of overseas workers drafted into build essential infrastructure. Amnesty International claims authorities failed to properly investigate the deaths of thousands of migrant workers despite evidence linking premature deaths with unsafe working conditions in this searing heat. Qatari officials say they investigate all reports of abuse and exploitation and are committed to holding unscrupulous employers to account.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "09:55:00",
+      "speaker": "JOE LYCETT, BRITISH COMEDIAN AND TELEVISION PRESENTER",
+      "sentences": "If you end your relationship with Qatar, I'll donate this 10 grand of my own money.SOARES (voice over): Comedian Joe Lycett called out the former England captain, saying his status as a gay icon was under threat. Homosexual acts are illegal in Qatar, considered immoral under Islamic law. Punishments include prison sentences and even death. Organizers told CNN Qatar is a tolerant and welcoming country and claim no one will be discriminated against. Nonetheless, calls to boycott the tournament have gathered momentum. When the final whistle goes at Qatar 2022, the legacy will be judged not only over 28 days of football, but in the years they lie ahead. Isa Soares, CNN. (END VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

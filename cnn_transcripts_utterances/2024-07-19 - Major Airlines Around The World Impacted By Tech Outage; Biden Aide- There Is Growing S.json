@@ -1,0 +1,391 @@
+{
+  "date": "2024-07-19",
+  "headline": "Quest Means Business",
+  "subHeadline": "Major Airlines Around The World Impacted By Tech Outage; Biden Aide: There Is Growing Sense That It's Game Over; Russia Sentences WSJ Reporter To 16 Years In Prison; President Joe Biden Campaign Chair: \"He's Absolutely Staying In The Race\"; Donald Trump Accepts Nomination With Marathon Speech; Donald Trump Rally Gunman May Have Plotted Mass Shooting; Global Tech Outage Hit Airports And Business Worldwide; Inside Turkey's Top Yachting Destination. Aired 4-5p ET",
+  "utterances": [
+    {
+      "timeStamp": "16:00:13",
+      "speaker": "JULIA CHATTERLEY, CNN INTERNATIONAL HOST",
+      "sentences": "Cherrie's, a New York ice cream parlor ringing the closing bell today and there is an icy feel acrossfinancial markets. You can see them losing ground. We are seeing rotation from big tech stocks in particularly into smaller cap stocks that will benefit from interest rate cuts. Also, the global tech outage not helping. Those are the markets and these are the main events, as I mentioned, businesses and governments struggle to reboot after an IT glitch takes down critical systems, airlines are particularly impacted. And nine more congressional Democrats urging President Biden to drop out of the 2024 race for the White House. And Russia sentences \"Wall Street Journal\" reporter, Evan Gershkovich to 16 years in prison. Live from New York, it is Friday, July 19th. I'm Julia Chatterley, in for Richard Quest and this is QUEST MEANS BUSINESS. And a good evening once more. Tonight, a tech glitch of historical scale is reverberating around the globe as businesses and public services struggle to get their computers back up and running. The meltdown stemming in part, at least from a software update from the security firm, CrowdStrike. It has affected computers running Microsoft Windows like the ones powering some of the billboards in Times Square. Yet banks, hospital, TV networks, and other businesses have also been disrupted, including the likes of Starbucks, FedEx, the Olympics, and the London Stock Exchange just to name a few. As I mentioned, too air travelers also been hit, especially hard as Fred Pleitgen reports. (BEGIN VIDEOTAPE) FREDERIK PLEITGEN, CNN SENIOR INTERNATIONAL CORRESPONDENT (voice over): Thousands of frustrated passengers grounded from Delhi to Berlin to Los Angeles. A global cyber outage, pressing pause on the world. UNIDENTIFIED FEMALE (through translator): Nobody was around to tell us where we could check in when we arrived. UNIDENTIFIED MALE (through translator): I'm frustrated. People keep cutting in the queues. PLEITGEN (voice over): Airlines facing what is known as BSOD, Blue Screens of Death with supermarkets, banks, stock exchanges, TV networks, even some hospitals also at the mercy of the widespread IT malfunctions. The major disruption is said to stem at least partly from an antivirus software update issued by the cybersecurity firm, CrowdStrike. The company assuring customers that it is not a cyber or security attack.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:00:13",
+      "speaker": "GEORGE KURTZ, CEO, CROWDSTRIKE",
+      "sentences": "The system was sent an update and that update had a software bug in it. We identified this very quickly andremediated the issue, and as systems come back online, as they are rebooted, they are coming up and they're working and now we are working with each and every customer to make sure that we can bring them back online. PLEITGEN (voice over): Microsoft, among the clients impacted, says it is investigating the crash, which is preventing its clients from accessing its apps and services. The global scale of the outage became clear as the world began to wake up on Friday. Airports across Europe, Asia, and the US forced to a standstill, healthcare services from Israel to the UK facing admin glitches, while the Paris 2024 Olympic organizers also reported issues a week out from the Games. World leaders and businesses are now grappling with how to untangle the critical services from the outage. OLAF SCHOLZ, GERMAN CHANCELLOR (through translator): Germany security institutions are in close cooperation with those from many other countries across the world. PLEITGEN (voice over): The crash quick to show just how deeply reliant all aspects of daily life are in the tech world. Fred Pleitgen, CNN, London. (END VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:00:13",
+      "speaker": "CHATTERLEY",
+      "sentences": "Anna Stewart is at Heathrow Airport for us.Now, Anna, the CrowdStrike CEO saying he is deeply sorry for what happened. There was a lot of sorry travelers around the world. I believe some of the data suggesting around 4.5 percent of flights globally canceled today.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:00:13",
+      "speaker": "ANNA STEWART, CNN REPORTER",
+      "sentences": "It is 4.6 percent, if we are going to be precise, Julia.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:00:13",
+      "speaker": "CHATTERLEY",
+      "sentences": "Wow.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:05:03",
+      "speaker": "CHATTERLEY",
+      "sentences": "Yes, this is part of the challenge as well, is the catch-up effect of this, Anna, as well. It is not just about the problem itself andthen the IT companies having to address it, it is the flight cancellations and trying to catch up with people on shore, and we have seen some of them talking on social media about quite when and they don't know when they're going to be able to get the next flight. So it is the backup effects certainly for the system that also has an impact.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:05:03",
+      "speaker": "STEWART",
+      "sentences": "So what has been really interesting is just seeing how lots of the airports have been able, at this stage, to reboot their system.So the worst is probably over -- I hope you can still hear me -- in terms of flight cancellations. It seems to be that things are getting better for most airports and most airlines, but you're right, the big situation right now is, this is one of the busiest times to travel in the year. It was actually the busiest day for air travel in the UK of the year and would have been the busiest since pre-pandemic levels because its summer holidays, flight schedules are really packed. But anyone who actually had their flight canceled, getting that rebooked in time to still make your holiday will be hugely challenging. And then of course, we have the big question that will be asked the world over, what about compensation? Who pays for this big, big mistake?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:05:03",
+      "speaker": "CHATTERLEY",
+      "sentences": "Certainly, Anna Stewart, thank you.The happy signs of actually some kind of aircraft taking off behind you though, which is good to hear. We hope for more of them as soon as possible. Yes. Thanks, Anna.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:05:03",
+      "speaker": "STEWART",
+      "sentences": "I wish I was on it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:05:03",
+      "speaker": "CHATTERLEY",
+      "sentences": "I know. I understand, so do a lot of other people, I think.Michael Coates is the founder and CEO of Altitude Networks and the former chief information security officer at Twitter and he joins us now from San Francisco. Michael, good to have you with us. Clearly, a lot of people now around the world deeply frustrated by what happened, just help us understand exactly what went wrong here and simply how difficult it is then to try and fix it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:05:03",
+      "speaker": "MICHAEL COATES, FOUNDER AND CEO, ALTITUDE NETWORKS",
+      "sentences": "Yes, the challenge that we are facing today is that in the modern era, there is no question thatcybersecurity is of the utmost importance and as we reacted to that over the years, we've installed security software across all of our technology, across our workstations, our servers to protect from the malicious hackers. Now, today, we are faced with the challenge that the software itself is what is falling apart. And so the CrowdStrike software that is having the issue is essentially the modern-day antivirus. And one of the important items of having that security software has been able to update it quickly, nimbly to respond to attacks that are happening in the wild to protect these systems. However, what went wrong here is that the update mechanism that CrowdStrike used actually ended up corrupting the software and further corrupting the Windows Operating System itself. And so, now, we are in the position where these Windows devices are in that blue screen of death, as you mentioned that are not actually booting up at all. And so, the challenge of course is sure, this machines might be \"secure from hackers,\" but they're not working and we are having business systems, airlines, hospitals, et cetera fall apart as you mentioned.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:05:03",
+      "speaker": "CHATTERLEY",
+      "sentences": "Yes, the remedial action here and the challenges are compounded by the fact that as you say, a lot of the service that contain theinformation required to recover these services are in that cycle of crashing and rebooting. So it is a question of what you do. Now if you're a big company, admittedly, it is a problem, but you probably have an IT staff and system that can get to work on this. If you're a smaller business, then arguably, you're on your own trying to deal with individual laptops, perhaps and computers that are facing this challenge. Michael, it is tougher for smaller companies here, perhaps as much as it is a challenge for bigger companies.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:10:07",
+      "speaker": "CHATTERLEY",
+      "sentences": "I mean, there are a few things to that. There's Microsoft, which most companies, businesses, individuals use, which is very difficultto get away from in terms of the services that you have, but perhaps the security company that is being used, as you said, this is part of the protection firm with CrowdStrike that is being employed that created the challenge. Do you think this plays badly for CrowdStrike and to your point about the preparation, Michael, what could, hindsight is obviously perfect sight, companies have done perhaps to mitigate the risks of this? An update is an update.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:10:07",
+      "speaker": "COATES",
+      "sentences": "You know, what I am really concerned about this situation as the chilling effect that it may have on the cybersecurity culture acrosscorporations because what we preached for time and time again is apply updates quickly.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:10:07",
+      "speaker": "CHATTERLEY",
+      "sentences": "Right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:10:07",
+      "speaker": "COATES",
+      "sentences": "Make sure you are protecting your system from known vulnerabilities, but the blowback from this may be, well, do we really wantto apply these patches automatically from our security vendors if we could have this interruption in services? Now, the CEO of CrowdStrike said this is not a security incident, but it is. It is a security incident. Maybe it is not a malicious hacker, but we have an outage of critical services. The blame does fall on them. They need to have robust layers of testing to make sure this is not possible.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:10:07",
+      "speaker": "CHATTERLEY",
+      "sentences": "Right. Yes, it is that --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:10:07",
+      "speaker": "COATES",
+      "sentences": "Secondarily, small companies may want to think about that as well before they automatically adapt, do some testing on their side.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:10:07",
+      "speaker": "CHATTERLEY",
+      "sentences": "Yes because that is the danger, isn't it, to your point that there is a reticence now to do the patchwork, do the update automatically,which creates perhaps risks and gaps of its own. Michael, do you expect and are you surprised that actually, we hadn't seen something like this before? And is it also perhaps, not that they needed it, but to -- and for bad actors around the world, a sign that they can create utter chaos with actually very little effort?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:10:07",
+      "speaker": "COATES",
+      "sentences": "Yes, fundamentally, the internet that we live day-to-day on is built on multiple single points of failure and central points of trust, andthis is just another example. We have other indications where there is widespread outages from services like DNS that help make internet names work or this reliance on single points of security software or our operating systems. It is why there is such a conversation over the years with Microsoft's secure computing initiatives because everything around the world relies on this technology functioning. And you have to imagine and anticipate that the bad actors do understand these central points of vulnerability and what they can do in terms of wrecking-havoc or stealing critical data, or getting access to critical systems by going after these single choke points. The responsibility really falls on those companies to have the utmost security, while of course, delivering quick business value to everyone.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:10:07",
+      "speaker": "CHATTERLEY",
+      "sentences": "Yes, we need everything and more in all ways. It is not easy.Michael Coates, great to get your wisdom, sir. Thank you. All right, US President Joe Biden says, he is going back on the campaign trail next week, once says he has recovered from COVID. This, as the pressure on him to step aside continues to build. Ten more Democratic lawmakers have called for him to do so, bringing the total now to 32 House Democrats. Greg Landsman is among the latest to call on President Biden to drop out. (BEGIN VIDEO CLIP) REP. GREG LANDSMAN (D-OH): I think he will go down in history as somebody who saved our democracy, who brought us out of a global pandemic, who led the effort to rebuild the country and helped us through this rocky time. But I do think that the American people, folks back here want a new leader, somebody that isn't trump, that isn't Biden, that can help us get through this moment and the next few years. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:10:07",
+      "speaker": "CHATTERLEY",
+      "sentences": "Recent headlines suggests that President Biden is doing some soul searching on his next move, but the White House continues toforcefully deny that he would drop out. Ron Brownstein is a senior editor at \"The Atlantic\" and a senior political analyst for CNN. Ron, good to see you with us. Would you expect the campaign to be saying anything else other than him being back on the campaign trail next week, if he were seriously considering dropping out?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:15:11",
+      "speaker": "CHATTERLEY",
+      "sentences": "I mean, you can understand no matter how many donors, how many House Democrats stand up and say, look, we need to move on from this andyou need to step down after such a long career, the president doesn't want this to be --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:15:11",
+      "speaker": "BROWNSTEIN",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:15:11",
+      "speaker": "CHATTERLEY",
+      "sentences": "-- the end and the defining moment. He is actually arguably thinking like a politician and protecting his own interests.Ron, how do you convince him otherwise and that actually stepping down is in his best interests?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:15:11",
+      "speaker": "BROWNSTEIN",
+      "sentences": "Yes, and it is not only -- you know, it is not only that. It is that this is someone who went to the University of Delaware undergraduate,Syracuse for law school, not an Ivy League guy, being surrounded by Ivy League hot shots his whole life and he feels that he has never gotten the credit that he is due, you know, kind of looked down a little bit, looked down on, chip on his shoulder. Barack Obama, wanted him to step aside in 2016 for Hillary Clinton, the golden girl, and she lost. So he has that kind of sense that like I beat Trump, none of you did. I think the way to reach him is, look, first of all, I do not think he can be persuaded. I think he has to be forced and that is what I have felt from day one because of everything I just said. It is not likely that he was going to do this -- not likely that he was going to do this lightly. Many elected Democrats and the professionals, the consultants and the strategists, have -- the word I heard a week ago was grace, give him grace and space to make this decision on his own, but as that doesn't happen, the impatience grows and people are coming out more publicly, which is kind of humiliating, and nothing that people want to do, but he does -- he is kind of leaving his critics in the party no choice.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:15:11",
+      "speaker": "CHATTERLEY",
+      "sentences": "Ron, very quickly. Leading Democrats are describing the situation now is a doom loop with every move to keep President Biden thereor to push him out. It just further hurts their chances against former President Donald Trump in this election. Do you agree with the idea they are sort of damned either way at this stage?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:15:11",
+      "speaker": "BROWNSTEIN",
+      "sentences": "No, I think it is -- I think it hurts them if all of this happens and he stays in.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:15:11",
+      "speaker": "CHATTERLEY",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:15:11",
+      "speaker": "BROWNSTEIN",
+      "sentences": "You know, obviously, it is a difficult situation no matter what. The analogy real quick that people use is if you are in a speedingcar heading toward a cliff, there is a risk in jumping out of the door while the car is still moving. There is probably a bigger risk in staying in the car while it goes over the cliff, and I think that's the way many Democrats look at the situation today.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:20:36",
+      "speaker": "CHATTERLEY",
+      "sentences": "Welcome back.US President Joe Biden says his administration is \"pushing hard\" for the release of an American journalist convicted in Russia. \"Wall Street Journal\" reporter, Evan Gershkovich was found guilty of espionage and sentenced to 16 years in prison. World leaders and journalism advocacy groups have denounced the verdict as a sham. Matthew Chance has more. (BEGIN VIDEOTAPE) MATTHEW CHANCE, CNN CHIEF GLOBAL AFFAIRS CORRESPONDENT (voice over) Ahead of the verdict, in the Russian courthouse, cameras jostled for a glimpse of the US journalist in his glass cage. After finding him guilty of espionage, the judge asked Evan Gershkovich if he had any questions about the 16-year prison sentence he had been handed. Looking thin and tired, \"The Wall Street Journal\" reporter answered no. Critics say his guilty verdict was inevitable, and other underlines how politicized Russia's judicial system has become. A strongly worded statement from Gershkovich's employers called it a disgraceful and sham conviction that comes after his 478 days in prison, wrongfully detained and away from his family. CHANCE (on camera): You can see, Evan Gershkovich is in there. Hi, Matthew from CNN. Are you holding up all right? CHANCE (voice over): it's been a saga which has seen Evan Gershkovich now 32 make several tightly controlled court appearances since being detained and accused of gathering secret information on a Russian tank factory for the CIA, allegations denied by Gershkovich and the US government. There are other US citizens held in Russia, like Paul Whelan, a former Marine sentenced in 2020 to 16 years for spying and also designated by Washington, as wrongly detained. Dual citizen, Ksenia Karelina, an amateur ballerina from LA and journalist, Alsu Kurmasheva are also in custody. Also, Gordon Black, a staff sergeant in the US Army, and US school teacher, Marc Fogel. Critics suspect the Kremlin has been collecting US citizens as bargaining chips for a future deal. But even now, that deal could still be months or perhaps years away. CHANCE (on camera): While the US Secretary of State, Antony Blinken says the US government is working every day to bring home Evan Gershkovich and other wrongfully detained Americans held in Russia, it depends on what the other side wants in return, Blinken says, playing down concerns that Moscow could wait for a Trump presidency to make a deal. Matthew Chance, CNN, London. (END VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:20:36",
+      "speaker": "CHATTERLEY",
+      "sentences": "Our thanks to Matthew there.Israel is upgrading its air defenses after a drone launched from Yemen struck Tel Aviv. One person lost their life in the attack, 10 others were hurt. Houthi rebels claimed responsibility. Hamas praised the drone strike and called for more of them. In the meantime, the US Secretary of State says he believes Israel and Hamas are very close to a ceasefire agreement. Jeremy Diamond has the latest. (BEGIN VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:30:06",
+      "speaker": "CHATTERLEY",
+      "sentences": "Hello, I'm Julia Chatterley, and we'll have more on the global tech outage and the latest with the U.S. election in just a moment. Beforethat though, the headlines this hour. Protests in Bangladesh have erupted into deadly violence as police clashed with demonstrators. Dozens of people have reportedly lost their lives this week with hundreds more hurt. The demonstrations were sparked by students demanding an end to civil service job quotas which they call discriminatory. A passenger train derailment in Northern India has killed three people and injured 32 others, it happened Thursday in Uttar Pradesh. India's Ministry of Railways has ordered an investigation, compensation payments of $12,000 have been announced for the families of the victims. The first giant pandas to enter the U.S. in 21 years will make their debut at the San Diego Zoo on August 8th. The pairs on loan to the United States from China after President Xi suggested sending them as envoys of friendship between the Chinese and American peoples. The zoo plans to feature an early morning with pandas walking tour. OK, and return now to one of our top stories today, President Biden says he'll return to the campaign trail next week, despite growing calls for him to drop out of the race. 10 more Democratic lawmakers have now asked him to let someone else run against Donald Trump. And that now brings the total to 32. Just to give you some perspective on that, he's lost support from around one tenth of the House caucus. Meanwhile, his campaign insists there's no plan for an alternative nominee. Camila DeChalus is at the White House for us. Camila, it's been a busy day and it's not over yet, give us the latest.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:30:06",
+      "speaker": "CAMILA DECHALUS, CNN WHITE HOUSE REPORTER",
+      "sentences": "That's right. Even though President Biden is in Rehoboth recovering from COVID. He put out astatement earlier today making it clear that he looks forward to hitting the campaign trail next week, where he really wants to harp down, reminding voters what he has done while being in office and really making the case of why he deserves to be reelected for a second term. Now, his campaign officials and his advisers have also hit going to T.V. shows and also really making this case that they have no plans to support an alternative nominee, and that they stand firm behind Biden. And really, they had a phone call just earlier today, where even they were talking to campaign officials and really trying to rally up their support base. And on this call with staffers on Biden's campaign team, they made this argument that ignore the polls, and really focus on the voters. And that's what matters at hand. And so, you see what the Biden campaign is doing in these next few days, they're really going to try to be shoring up the support, while on the other hand, Biden is making the case that he wants to go back on the campaign trail, and really make the case and make the argument to voters.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:30:06",
+      "speaker": "CHATTERLEY",
+      "sentences": "Yes, and that's going to be the key. Also, the vice president, obviously in potential contention for the nomination, should things happenand change and the president decides to step back here, also held a call with donors today and that's something else that everybody's continues to be fixated on. And the risk that more money is frozen as long as the president stays in the race.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:30:06",
+      "speaker": "DECHALUS",
+      "sentences": "That's right, the campaign finances is a huge deal in Biden's campaign, they've talked to donors, especially following Biden's firstpresidential debate performance, and they made it clear, look, the 90 minutes that Biden performed, it might have not been his best, but that should not diminish what he's done in office. And they really try to remind donors of that. But since that debate night, there has been a little bit of a fall out of donors saying that they're not really sure whether Biden's fit for running for office. And so, you see the vice president stepping up, going on the campaign trail, and also hosting these private calls with donors, just really reiterate this point that she stands behind Biden, and that they're committed to seeing a second term. But that is what you're going to see in these days ahead is that while you have more Democratic lawmakers and elected officials coming out and really expressing their concerns about Biden running for office, his campaign is going to double down saying that they remain firm that Biden is committed to running, and they're really going to reiterate this message that they firmly believe that former President Trump poses a threat to democracy and that is what's at stake here, that Biden has a lot to still do if he's reelected to a second term, and that Trump poses a grave threat to democracy.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:35:07",
+      "speaker": "CHATTERLEY",
+      "sentences": "Brian Gardner is the Chief Washington Policy Strategist at Stifel and joins us now.They have very different policies, Biden at this moment versus a future Trump presidency, whether it's tax spending, trade, immigration. First and foremost, Brian, how much time and attention are you spending looking at a potential Trump win versus a Republican clean sweep where they take the House and the Senate as well? Because that will make a difference for policy decisions.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:35:07",
+      "speaker": "BRIAN GARDNER, CHIEF WASHINGTON POLICY STRATEGIST, STIFEL FINANCIAL CORPORATION",
+      "sentences": "It will. I mean, I think you could have made an argumentbefore the debate that you could see split government, Trump winning, probably Republicans taking the House. And you could make a reasonable argument that Democrats could still flip the Senate -- flip the House back so you'd have divided government. I think that argument has been diminished since the debate. And so, if Trump wins, I think it's probably a clean sweep. And so, yes, I'm leaning a little bit more of my time into the clean sweep scenario than a divided government scenario.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:35:07",
+      "speaker": "CHATTERLEY",
+      "sentences": "And so, then talk us through policy. First and foremost, I think the individual tax cuts are expected to be extended. When next do youthink he'll have most impact in terms of the policy decisions that he's talked about at least imposing?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:35:07",
+      "speaker": "GARDNER",
+      "sentences": "Well, don't sleep on the tax debate. That's just because it's going to be a Republican sweep doesn't mean that it's an automatic acrossthe board extension of those tax cuts, and everything else is status quo. I mean, that is going to be a very complicated debate, as Republicans become more working class, more populist. And so, that that is going to be a very consequential debate in 2025, and '26. Other sectors, other issues that he's going to look at, energy is going to be a big one. Supply of labor, immigration is going -- and border security is probably going to be job one when he comes in. On the trade side, trying the tariffs will be first, global tariffs, other tariffs on other nations that will probably be slower, but he's probably coming, you know, later in the first year.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:35:07",
+      "speaker": "CHATTERLEY",
+      "sentences": "OK, so talk about the implications of both of those, then if he's putting limits on illegal immigration and strengthening the border,that's one thing if he's increasing immigration controls of all forms, and that does have, in many respects, other knock on impacts, whether that's the ability to find labor, whether that's potential pressure on wages, as well, Brian, what are your expectations, because all of these are potentially inflationary?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:35:07",
+      "speaker": "GARDNER",
+      "sentences": "So, you know, there was a day when I think Republicans, even when they were arguing against illegal immigration and arguing in favor ofgreater border security, we're still open to the argument of more flexibility on legal immigration, I think that argument has less sway in the Republican Party than it used to. And so, despite the calls from business leaders to ease up and give more flexibility on legal immigration and work visas, I'm not sensing that there's a big move in that direction among Republicans. So, I don't -- I don't think there's going to be a further clamping down on legal immigration. But I don't see a loosening of the number of visas either.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:35:07",
+      "speaker": "CHATTERLEY",
+      "sentences": "OK, interesting. What about climate this time around? There's going to be all sorts of conversations, I think, particularly in light ofwhat we're talking about with A.I., with the need for data center growth, with whether you're using fossil fuels to fuel that or renewable energies, there's going to be demand for more in many respects, and perhaps more than we're anticipating. And now we're in a situation where he's got the likes of Elon Musk potentially financing and helping finance the campaign. He's got big tech support that feeds in from J.D. Vance, how do you expect whether it's climate or technology to feature in the administration if he wins?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:40:04",
+      "speaker": "CHATTERLEY",
+      "sentences": "I think eyebrows raised this week when you had the head of one of the biggest unions in the country talking and there was some element ofdisquiet. Again, it plays to the vice presidential pick J.D. Vance and this labor support. Brian, how is that going to feature in policy? And is that going to be popular perhaps with bigger business even if it's popular with individual workers?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:40:04",
+      "speaker": "GARDNER",
+      "sentences": "Yes, this is probably a longer conversation for another time. But to shorten it up, there's a realignment going on in the country, right?Working class voters have been moving to the Republican Party for the last 20 years, that has accelerated since Trump came to office, it continues today. And Republicans are looking to make inroads. They made inroads with non- union blue collar, now they're looking to peel off union workers, union members. And so, the J.D. Vance pick certainly leans into that. And it also then affects policy going forward. I mentioned the tax debate. This is why the tax debate is not going to be a clean debate of just simply extending all those tax cuts. Republicans who are now more populous representing poor districts are not going to spend a lot of political capital on keeping the top income tax rate where it is today, they could let it reset. As they look at the budget and trying to close the budget gap and offset the extension of those tax cuts, the corporate tax becomes much more interesting to them. And despite Mr. Trump calling for a 15 percent corporate tax rate and a further cut of the corporate rate, there are a lot of Republicans on Capitol Hill who say 21 is probably too high or too low, excuse me, and they know that they're looking for money, a 24, 25 percent corporate tax rate might be employed.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:40:04",
+      "speaker": "CHATTERLEY",
+      "sentences": "Yes, none of this is mutually exclusive. And particularly you want to try and restrain government spending in some way. This is -- thisis going to be a challenging game plan together. Just very quickly, what are you saying to investors today? Is it too early to position on anything with regards to --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:40:04",
+      "speaker": "GARDNER",
+      "sentences": "No, I don't think so. I mean, actually think it's -- I think it's quite late to be honest with you. I mean, everybody's been saying formonths, oh, you know, there's six months to go. There's five months to go and a lot could change. I disagree with that. I think it's very late in the campaign, you have two candidates who were very well known to American voters, it's Donald Trump's third straight election. If Joe Biden is in fact the Democratic nominee, it will be his fourth time on the national ticket in the last six elections. Voters know both candidates.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:40:04",
+      "speaker": "CHATTERLEY",
+      "sentences": "Right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:40:04",
+      "speaker": "GARDNER",
+      "sentences": "I don't -- and that's why the polls have been very stable going back to the fall of 2023. So, in terms of positioning, I don't think it'stoo early because I think we already know quite a bit about the potential outcome of the 2024 election.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:40:04",
+      "speaker": "CHATTERLEY",
+      "sentences": "Yes. Great point. Brian, great to get your wisdom. I'm sure we'll chat again soon. Brian Gardner there.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:40:04",
+      "speaker": "GARDNER",
+      "sentences": "Thanks for having me.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:46:18",
+      "speaker": "CHATTERLEY",
+      "sentences": "Welcome back, Donald Trump's would be assassin searched online for information about explosives and the arrest of a mass shooter beforehis attempt on the former president's life. Those details were shared by the FBI and Secret Service during a briefing with lawmakers. Investigators are now exploring whether the gunman was plotting a mass shooting at the Trump rally. Zachary Cohen is in Washington D.C. for us tonight. Zachary, including investigating previous mass shootings, tells us a great deal perhaps about motives that we've been searching for now for days.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:46:18",
+      "speaker": "ZACHARY COHEN, CNN NATIONAL SECURITY REPORTER",
+      "sentences": "That's right, investigators are trying to build out a profile of the shooter as they've struggled toidentify a clear motive for the shooting at Trump's rally on Saturday. And look, they're leaning into and really relying on what they can get to piece together from the cell phones that they've obtained from the shooter's car and from his house, as well as his web history from his laptop, and various other, you know, USB and hard drives that they've recovered from the various scenes here. And that's because they're -- unlike previous shooters that we've seen leave behind a manifesto or some sort of evidence that clearly indicates what their reason for doing what they did was, this shooter really didn't leave behind anything. And there's no clear indication of political ideology or motive. So, that's why investigators are looking so closely at this digital and forensic evidence. And what they've been able to pick up from the cell phones in particular is the search history that the shooter had in the immediate -- leading up to the shooting -- in the immediate days leading up to the shooting. And that includes searches for both Donald Trump's rally in Pennsylvania, as well as things that the date and location of the Democratic National Convention in a range of different political figures that he was looking for information on showing that he wasn't necessarily, you know, primarily or necessarily focused on Donald Trump specifically, but was looking at a variety of different political figures. We're also learning that he did do that research on a man named Ethan Crumbly, you might remember he was a shooter who killed four of his classmates in Michigan back in 2021. That is something that officials point out that we have seen from other mass shooters in the pas, sort of shooters researching other shooters is an indicator of a mass shooter mindset. And of course, there is the mass amount of ammunition and other weapons and explosives that were recovered from the scene. But look, this is just an early theory that's being -- that's emerging within the law enforcement community that the shooter was more focused on carrying out a mass casualty attack, rather than specifically targeting Donald Trump himself, more that the Trump rally was an event matter of convenience. But still others argued that, look, it was clear that the shooter was focused on Donald Trump. At the end of the day, Donald Trump was shot at by the shooter. And all this coming as the U.S. Secret Service is really facing new scrutiny in the wake of this attack, the ramping up security ahead of Donald Trump's rally in Michigan, but we're also going to see the Secret Service director testify on Capitol Hill next week too. So, we'll see how this all shakes out but still trying searching for answers on that shooting on Saturday.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:52:10",
+      "speaker": "CHATTERLEY",
+      "sentences": "Welcome back. And a reminder once again of today's top story, dramatic I.T. meltdowns are playing out all over the world following anissue from a software update from cybersecurity firm CrowdStrike. It's impacting everyone from grocery shoppers in this store in Australia to tourists in New York's Times Square where some billboards went black earlier, the trouble has even landed in Disneyland Paris, the head of Germany's cybersecurity agency saying the outage shows vulnerabilities. (BEGIN VIDEO CLIP) CLAUDIA PLATTNER, PRESIDENT, GERMAN FEDERAL OFFICE FOR INFORMATION SECURITY (through translator): What we are seeing here to put it in technical language, the prime example of third party risks, we have to note that and what will be important in the aftermath is to make sure that we better manage such crises in the future. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:52:10",
+      "speaker": "CHATTERLEY",
+      "sentences": "And Tom Foreman is in Washington for us tonight. Tom, the CrowdStrike CEO saying look, they're going to -- there's going to be fulltransparency, they're going to do a forensic review of what happened. But these are the good guys, this wasn't a cyberattack and yet, this is how potent an issue like this is. It's a global issue.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:52:10",
+      "speaker": "TOM FOREMAN, CNN CORRESPONDENT",
+      "sentences": "Yes, it's really quite remarkable, isn't it? You think -- but if you saw all of this, you would expect it to be acyberattack. This was just a mistake. And in some ways, you hear the technical people talk about it, not a terribly complicated mistake. They just had a mismatch of software, something possibly wasn't tested enough and it reached this point. What your guest just said there a minute ago -- that sound just said a minute ago, is very much what we're hearing here as well, people here saying, look, it is a testament to this company that so many corporations and governments around the world are relying on them for this kind of work. And yet, it also may be a warning that there shouldn't be so many relying on one company, there should be a little more redundancy. So when something like this happens, you can more easily switch to an alternate system that has not been disabled by. How you do that in the world of Microsoft and its ubiquitous nature? I don't really know. But that's the idea people are talking about.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:52:10",
+      "speaker": "CHATTERLEY",
+      "sentences": "Yes, and that's the challenge, isn't it? I think Microsoft now is so incumbent in terms of their systems and their software, Tom, butthere was also the security firm CrowdStrike involved with this too. And perhaps, it argues for a diversification of the security firms that are being used as well, to your -- to the bigger point here, it's not just about the initial problem and a software patch, and then a fix. It's the fact that it leaves companies all over the world, big, small and medium size, still struggling to update what could be individual laptops and individual computers, the after effects of this could go on for days.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:55:01",
+      "speaker": "CHATTERLEY",
+      "sentences": "Yes, the dangerous I think that people are reluctant to do these automatic updates in the future as well. And that creates someadditional vulnerabilities. Huge implications.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:55:01",
+      "speaker": "FOREMAN",
+      "sentences": "Sure.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:55:01",
+      "speaker": "CHATTERLEY",
+      "sentences": "Tom, great to chat to you. Thank you. Tom Foreman there.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:55:01",
+      "speaker": "FOREMAN",
+      "sentences": "Good to see you, Julia.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:55:01",
+      "speaker": "CHATTERLEY",
+      "sentences": "All right, coming up for us, who wouldn't want to enjoy the Mediterranean Sea on a yacht? One coastal area of Turkey relies on theluxury ships to keep their economy going. A preview of \"QUEST'S WORLD OF WONDER,\" next. (COMMERCIAL BREAK)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:55:01",
+      "speaker": "CHATTERLEY",
+      "sentences": "Yachts maybe not the first thing that comes to mind when you think of Turkey, the owner of one yachting company telling Richard Quest,the coastal area of Gocek relies on the industry, here's a sneak peek at this weekend's \"WORLD OF WONDER.\" (BEGIN VIDEOTAPE) RICHARD QUEST, CNN HOST (voice over): The Deep Blue Sea of the Mediterranean, enjoyed on a ship as elegant as the water upon which it sails. And their ships, they are simply expensive but they can also be the most prized possession. In this part of Turkey, yacht steer the local economy.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "16:55:01",
+      "speaker": "ISMAIL KUCUKHUSEYIN, OWNER, BLUES YACHTING",
+      "sentences": "First of all, it's the area. Your object base is, I believe, number one yachting area for the wholeworld. QUEST (voice over): Quiet seas, stunning coastlines, open Skies. The view is truly unbeatable. And it's not just for the rich to savor and marvel. In Gocek, yachting is available at all price ranges.",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

@@ -1,0 +1,403 @@
+{
+  "date": "2024-05-14",
+  "headline": "CNN This Morning",
+  "subHeadline": "Today: Michael Cohen Back On Stand In Hush Money Case; Schumer Set To Unveil Long Awaited \"AI Roadmap\" This Week; Tom Brady Set To Make His Broadcast Debut. Aired 5:30-6a ET",
+  "utterances": [
+    {
+      "timeStamp": "05:32:00",
+      "speaker": "KASIE HUNT, CNN ANCHOR",
+      "sentences": "All right, 5Just hours from now Donald Trump will be back in court. His former fixer Michael Cohen set to be back on the stand today. He testified yesterday for roughly five hours, and he put Trump at the center of the hush money scheme to pay off Stormy Daniels ahead of the 2016 election. Here is what Trump said back in 2018 about the allegations. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:32:00",
+      "speaker": "REPORTER",
+      "sentences": "Mr. President, did you know about the $130,000 payment to Stormy Daniels?DONALD TRUMP, (R) PRESIDENTIAL CANDIDATE:  No, no. What else?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:32:00",
+      "speaker": "REPORTER",
+      "sentences": "Then why -- why did Michael Cohen make this if there was no truth to her allegations?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:32:00",
+      "speaker": "TRUMP",
+      "sentences": "Well, you'll have to ask Michael Cohen. Michael is my attorney, and you'll have to ask Michael Cohen.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:32:00",
+      "speaker": "REPORTER",
+      "sentences": "Do you know where he got the money to make that payment?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:32:00",
+      "speaker": "TRUMP",
+      "sentences": "I don't know -- no.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:32:00",
+      "speaker": "HUNT",
+      "sentences": "All right. Joining me now, former federal prosecutor Andrew Cherkasky with more on this. We're actually looking at Andrew Desiderio, who is here to talk about AI. I don't know if we have Andrew Cherkasky. Andrew, are you in there? We have two Andrews. There you are.ANDREW CHERKASKY, FORMER FEDERAL PROSECUTOR, CRIMINAL DEFENSE ATTORNEY (via Webex by Cisco):  I -- I'm here. HUNT:  I apologize for the case of the mistaken identity of our Andrews who are here this morning. Let's start, as you are a lawyer, with what we expect to see today from Michael Cohen. We expect that his testimony will continue some but that they might start the cross-examination today. What do you expect from that?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:32:00",
+      "speaker": "CHERKASKY",
+      "sentences": "Well, what we heard yesterday was certainly salacious testimony about the details of how the nondisclosure agreement was reached and Michael Cohen saying that Donald Trump was aware at every stage of the process, both while it was happening as well as the scheme to pay Michael Cohen back for fronting the expenses.What we haven't heard from Michael Cohen is essentially the defense to what Donald Trump is saying out in the hallway after court every day, and that's the idea that when the Trump Organization or Donald Trump had the checks written and entered into the books as legal expenses that was somehow incorrect or fraudulent. So I expect that if the prosecutors want to kind of shore up their case -- this is a major hold in their case -- they have to present evidence that somehow entering these payments as legal expenses in the book was actually fraudulent or incorrect. That it should have been something else, and that Donald Trump knew that. I think that is a difficult accounting decision to make, and so Michael Cohen is really going to have to explain for the prosecutors why that was a fraudulent or incorrect entry.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:35:02",
+      "speaker": "HUNT",
+      "sentences": "I mean -- so how does this sort of -- like, for those of us -- and the jury, right, they're not lawyers. They're like -- they're watching the case that's being presented to them. But how do they get past that? CHERKASKYI think number one, the whole idea of the nondisclosure hush money agreement was so that it wouldn't be made public. Now, that is something that I think people can have a negative reaction to. It's a lawful agreement to reach -- these nondisclosure agreements. The other idea is kind of this lying to the public idea that he did know about it, but he told media that he didn't know about it, or he didn't know details about that. And that's certainly something that I think is a negative in terms of how people view him and certainly something that's political. As a criminal defense attorney, I will tell you that many of my clients find their way into a courtroom because they engaged in salacious or condemnable behavior from kind of a public perspective -- thing that people would find distasteful. But ultimately, when I get in front of the jury as a defense attorney, I have to kind of the jury to set that aside and look at the elements of the -- of the law. What are the legal requirements before you can actually call this a criminal act? And so that's why I keep going back to this idea of some of these underlying elements. Like, was the actual entry of legal expenses -- was that fraudulent? That's a necessary element in order to find it illegal as opposed to us discussing this from a moral or a political standpoint, which I'm sure folks can do all day long in the -- in the bowels --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:35:02",
+      "speaker": "HUNT",
+      "sentences": "Oh, yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:35:02",
+      "speaker": "CHERKASKY",
+      "sentences": "-- of the courtroom. That's where -- that's how I kind of pick apart these elements and look at whether there's evidence that attenuates each one of the elements.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:35:02",
+      "speaker": "HUNT",
+      "sentences": "All right, Andrew Cherkasky for us this morning. Andrew, thanks very much for being with us. I really appreciate it. And I'm sorry about the case of mistaken identity.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:35:02",
+      "speaker": "CHERKASKY",
+      "sentences": "Well, thank you. It's good to be with you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:35:02",
+      "speaker": "HUNT",
+      "sentences": "All right.Now this. OpenAI just released a new version -- its latest version of ChatGPT. It's called ChatGPT-4o and it is available -- it's going to be available to everyone for free. It is supposed to turn ChatGPT into a digital personal assistant that will engage with you in real time spoken conversations. It will have memory capability, meaning that it can learn from previous conversations with users. And it can even do real time translation. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:35:02",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "(Speaking foreign language).GPT-4o:  Mike, she wonders if whales could talk, what would they tell us.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:35:02",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "They might ask how do solve linear equations?GPT-4o:  (Speaking foreign language). (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:35:02",
+      "speaker": "HUNT",
+      "sentences": "OK. It is all happening as a bipartisan group of senators, led by Majority Leader Chuck Schumer, are about to unveil a very long- awaited roadmap to try to regulate artificial intelligence nearly a year after the Democratic leader called for an all-hands-on-deck push to regulate AI.Here to talk to me more about this is Punchbowl News' Andrew Desiderio. Andrew, good morning.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:35:02",
+      "speaker": "ANDREW DESIDERIO, SENIOR CONGRESSIONAL REPORTER, PUNCHBOWL NEWS",
+      "sentences": "Good morning.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:35:02",
+      "speaker": "HUNT",
+      "sentences": "Wonderful to see youSo I have to say my sort of big-picture view of Congress and technology is that they tend to run years, if not decades, behind. I mean, we're just getting to the point where there's a framework for regulating some of the stuff around social media.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:35:02",
+      "speaker": "DESIDERIO",
+      "sentences": "Right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:35:02",
+      "speaker": "HUNT",
+      "sentences": "And social media has now been around for quite some time, and we've seen kind of the impact that that's had on our society. This potentially has the ability to make and change the way we live so much more even than that did.What are lawmakers looking at right now? Where do they even begin?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:35:02",
+      "speaker": "DESIDERIO",
+      "sentences": "Yeah. I think first and foremost, right now, it's about election interference and the possibility that foreign adversaries exploit the use of artificial intelligence so sow chaos on our political system, similar to what Russia did in 2016 with the use of social media.Senate Intelligence Committee chairman Mark Warner, who led that bipartisan investigation into Russian interference in the 2016 election, has said that AI could make that election look like child's play, which is a pretty scary thought when you consider what Russia was able to do in 2016. So the goal for Schumer here is to number one, mitigate the risks associated with AI. But also, number two, allow it to flourish and innovate, and be a positive thing in society. It's not just about this idea of the robots are taking your jobs and foreign adversaries are using this to try to sow chaos in our political system. He's trying to emphasize that there are some good -- some positive elements of it as well. [05:40:06] HUNT:  Yeah. And here was President Biden talking a little bit about this as well, and he kind of used the same framework -- watch. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:35:02",
+      "speaker": "JOE BIDEN, PRESIDENT OF THE UNITED STATES",
+      "sentences": "We have to make sure it's controlled and that's -- and how we -- how it's the most significant, I think, technological development in human history. One leader in the AI community said to me it's going to overtake you in thinking and -- which is frightening.ERIN BURNETT, CNN ANCHOR, \"ERIN BURNETT OUTFRONT\":  It's terrifying.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:35:02",
+      "speaker": "BIDEN",
+      "sentences": "But the other -- most think it can be used with everything from finding cures for cancer to significantly increase productivity.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:35:02",
+      "speaker": "HUNT",
+      "sentences": "So how are they grappling with this in the context of elections to try to -- to try to say OK, we recognize this can be used for harm, but we don't want to stifle what could be good about it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:35:02",
+      "speaker": "DESIDERIO",
+      "sentences": "Right. So this week, the Senate Rules Committee is going to take up legislation related to AI and elections. One of the pieces of legislation they're focusing on here is requiring a disclaimer for any political ads that use any element of artificial intelligence in them. That is something that is currently -- anybody can put a political ad on TV right now and use AI to for audio, video, or whatever.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:35:02",
+      "speaker": "HUNT",
+      "sentences": "So along the lines of, like, at the end of a message, the campaign finance rules, as you say, I'm Andrew Desiderio and I approve this message. Something like that?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:35:02",
+      "speaker": "DESIDERIO",
+      "sentences": "Right. Something where you're disclosing the user of artificial intelligence in the -- in the political ad.And one of the problems, obviously, that this is trying to tackle is this idea of deepfakes, right? These videos and audios just spreads on social media of Joe Biden, Donald Trump, and other major political figures saying and doing things that they never said or did but it looks very real because artificial intelligence is such an advanced technology that makes it look like they are saying and doing those things even though they actually never did.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:35:02",
+      "speaker": "HUNT",
+      "sentences": "Right. And, of course, we had that -- the robocall in New Hampshire that was Biden's voice, as mentioned.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:35:02",
+      "speaker": "DESIDERIO",
+      "sentences": "Yeah.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:35:02",
+      "speaker": "HUNT",
+      "sentences": "Yeah, tough stuff.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:35:02",
+      "speaker": "DESIDERIO",
+      "sentences": "Yeah.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:35:02",
+      "speaker": "HUNT",
+      "sentences": "Andrew Desiderio, thank you very much for being with us.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:35:02",
+      "speaker": "DESIDERIO",
+      "sentences": "Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:46:46",
+      "speaker": "HUNT",
+      "sentences": "All right, welcome back.Michael Cohen with some pretty dramatic testimony yesterday, telling the court that former President Donald Trump was deeply concerned about how women would react -- and again, this was during the election -- if Stormy Daniels' allegations of an affair came out before said election. Cohen said this. \"He said to me, 'This is a disaster -- total disaster. Women are going to hate me. Because this is really a disaster, women will hate me. Guys may think it's cool, but the it's going to be a disaster for the campaign.'\" Axios senior contributor Margaret Talev joins us live. Margaret, good morning to you. MARGARET TALEV, SENIOR CONTRIBUTOR, AXIOS, DIRECTOR, INSTITUTE FOR DEMOCRACY, JOURNALISM &amp; CITIZENSHIP, SYRACUSE UNIVERSITY:  Good morning.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:46:46",
+      "speaker": "HUNT",
+      "sentences": "I think -- my head certainly turned when I saw him say this because it does seem to go and speak exactly to what the prosecutors are saying, which was that this is about the election. Perhaps -- and Melania came up later and he seemed to dismiss out of hand that he would be concerned about Melania. He said well, I'll be off the market soon -- like, basically implying he doesn't necessarily even need his wife to stick around. This is, of course, in Michael Cohen's telling of it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:46:46",
+      "speaker": "TALEV",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:46:46",
+      "speaker": "HUNT",
+      "sentences": "But that Trump was very concerned about how this was going to impact women voters in his election.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:46:46",
+      "speaker": "TALEV",
+      "sentences": "And that's obviously very important for the case that the prosecutors are trying to make. You have all of the pieces lining up here if the jury is buying it and if everyone on the jury is buying it. But you now have Michael Cohen's testimony, at least in day one. We'll see what happens today. You have Stormy Daniels' testimony. You even have Hope Hicks talking about concerns about how this could impact the election. So there is some consistency here and that -- and that can help the prosecutors' case. But ultimately, it comes down to what it has always come down to, which is are these witnesses, including Michael Cohen, credible with the jury and will they give the jury sort of the evidence to say yes, we agree with the case that the prosecutors are making. And that's what it's all going to come down to.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:46:46",
+      "speaker": "HUNT",
+      "sentences": "Yeah.So this window into how Trump thought this was going to affect things -- we have learned a lot about how Donald Trump is affected or not affected by various political scandals since then. And obviously, he overcame, in the case of the \"ACCESS HOLLYWOOD\" tape, which we've also talked a lot about -- he overcame that in the 2016 election. And none of this seems to have shaken his core support with his base. And we now, of course, have seen some new New York Times-Sienna polling out yesterday that shows Trump seeming to lead Biden in some of these critical swing states. It's close, right, and in some cases it's within the margin of error and there's no clear leader, but there are some warning signs for President Biden. This coming as this trial is playing out and as everyone --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:46:46",
+      "speaker": "TALEV",
+      "sentences": "Right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:46:46",
+      "speaker": "HUNT",
+      "sentences": "-- is being reminded of all of these things that happened before the election.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:46:46",
+      "speaker": "TALEV",
+      "sentences": "Yeah.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:46:46",
+      "speaker": "HUNT",
+      "sentences": "What are the warning signs for Biden here?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:03",
+      "speaker": "HUNT",
+      "sentences": "Abortion.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:03",
+      "speaker": "TALEV",
+      "sentences": "-- beyond Donald Trump, such as abortion, that could really be pivotable.But if you are President Biden -- and Biden and his team and we understand the president himself really are downplaying these numbers. They don't believe that they do reflect what's going to happen come November. But they do show pretty consistently that this is, right now, a referendum against how people feel about the economy.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:03",
+      "speaker": "HUNT",
+      "sentences": "Um-hum.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:03",
+      "speaker": "TALEV",
+      "sentences": "A lack of confidence in the current president. And a longing for the -- for some of the economic conditions that happened during the time of Donald Trump's presidency that Americans are missing. Some concern about the border.The silver lining for Joe Biden is that you can still see in this poll and in a -- in a series of other polls that most Americans are not ultra-focused yet on this election. So the question is when it comes down to focus and when it comes down to who actually turns out --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:03",
+      "speaker": "HUNT",
+      "sentences": "Right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:03",
+      "speaker": "TALEV",
+      "sentences": "-- is that more favorable for Joe Biden?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:03",
+      "speaker": "HUNT",
+      "sentences": "And they are pretty convinced that it's going to shift in their -- or they have been at least. That's -- at least that's the message that they're putting out.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:03",
+      "speaker": "TALEV",
+      "sentences": "It is.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:03",
+      "speaker": "HUNT",
+      "sentences": "When people engage, they'll go with Biden.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:03",
+      "speaker": "TALEV",
+      "sentences": "It is, but it's a heck of a bet.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:03",
+      "speaker": "HUNT",
+      "sentences": "Right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:03",
+      "speaker": "TALEV",
+      "sentences": "And so, the real contest between now and November is absolutely going to come down for both gentlemen to who can they turn out and who do they want to stay at home, and how do they advocate for both.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:03",
+      "speaker": "HUNT",
+      "sentences": "Yeah, get what they want.All right, Margaret Talev for us this morning. Margaret, thank you. I really appreciate it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:03",
+      "speaker": "TALEV",
+      "sentences": "Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:03",
+      "speaker": "HUNT",
+      "sentences": "All right, time now for sports. The Thunder dug themselves into a 14-point hold before roaring back against the Mavs to tie up their series.Andy Scholes has this morning's Bleacher Report. Andy, good morning.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:03",
+      "speaker": "ANDY SCHOLES, CNN SPORTS ANCHOR",
+      "sentences": "Good morning, Kasie.So the Thunder -- they were down 11 at the half of game four to the Mavs before just putting on a defensive clinic in the second half. The Thunder holding the Mavs to just 15 points in the third quarter. Luka Doncic and Kyrie Irving combining to score just 27 points -- their lowest output as teammates. And Shai Gilgeous-Alexander -- he was showing why he was the runner-up for MVP this season, just taking the game over in the fourth. SGA finishing with 34 points. And Chet Holmgren and Lu Dort -- they both hit clutch threes in the final minutes. Now, Luka had a chance to tie this one at the free throw line with 10 seconds left, but he missed the first. The Thunder would hold on to win 100-96 to even this series at two games apiece. (BEGIN VIDEO CLIP) SHAI GILGEOUS-ALEXANDER, GUARD, OKLAHOMA CITY THUNDER:  We just stuck to it. We just plugged away and took it possession by possession, and eventually the game turned for us. We've been in this situation a lot. We've been down. We've been down double digits. I think we lead the league in double-digit comebacks. We know we've been there before and we just -- we just knew what it took, and we got it done tonight. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:03",
+      "speaker": "SCHOLES",
+      "sentences": "LeBron James, meanwhile, on hand sitting courtside for game four between the Cavs and Celtics. He got a big ovation from the Cleveland crowd.Now, no Donovan Mitchell for the Cavs in this one. He's nursing an injured calf. Cleveland, though -- they hung in there without Mitchell, keeping the game tight behind 30 points from Darius Garland. But Jayson Tatum and Jaylen Brown -- they combined for 60. Tatum finding Brown for this three with just over a minute left to seal the win. One hundred nine to 102 was the final. The Celtics can now close up that series tomorrow night. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:50:03",
+      "speaker": "JAYSON TATUM, FORWARD, BOSTON CELTICS",
+      "sentences": "It's a game of runs. It's not going to be perfect every single time. But I think it's a good team and they're going to make shots. But it's our job to figure it out. I've been able to (INAUDIBLE). Most of these guys have, too. Just stay poised. Whatever adversity we've got to play through, we've got to play through it.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:55:00",
+      "speaker": "HUNT",
+      "sentences": "I don't know what the odds are either but it's pretty awesome. Good for him.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:55:00",
+      "speaker": "SCHOLES",
+      "sentences": "Yeah.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:55:00",
+      "speaker": "HUNT",
+      "sentences": "All right, Andy. Thank you so much for that.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "05:55:00",
+      "speaker": "SCHOLES",
+      "sentences": "All right.",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

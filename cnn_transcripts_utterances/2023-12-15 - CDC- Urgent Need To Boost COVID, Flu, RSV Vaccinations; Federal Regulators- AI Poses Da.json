@@ -1,0 +1,475 @@
+{
+  "date": "2023-12-15",
+  "headline": "CNN This Morning",
+  "subHeadline": "CDC: Urgent Need To Boost COVID, Flu, RSV Vaccinations; Federal Regulators: AI Poses Danger To Financial System; Minnesota Med Student Gathers Medical Supplies For Ukraine. Aired 7:30-8a ET",
+  "utterances": [
+    {
+      "timeStamp": "07:30:00",
+      "speaker": "POPPY HARLOW, CNN ANCHOR",
+      "sentences": "A health alert this morning. The CDC says there is a quote \"urgent need\" to get more people vaccinated against COVID, flu, and RSV to stop this recent spike.With us now, our chief medical correspondent Dr. Sanjay Gupta. Good morning. It's not just one thing -- it's not just flu. DR. SANJAY GUPTA, CNN CHIEF MEDICAL CORRESPONDENT:  Right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:30:00",
+      "speaker": "HARLOW",
+      "sentences": "It's all three of the things together. Where are we on vaccinations for all of them?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:30:00",
+      "speaker": "GUPTA",
+      "sentences": "Yeah, sort of this triple threat. And as Tom Frieden, the former CDC director, said we're sort of sleepwalking into this. People are sort of paying attention a little bit but, clearly, not enough.Take a look at flu, first of all, and just compare this year's vaccination rates compared to last year's vaccination rates. As you look at those numbers we've never been great about getting a lot of people vaccinated for flu. It's always been well below 50 percent, but it's dropped off even more this year as compared to last year. That's for kids and for adults. If you look at COVID, specifically -- and I -- and we made this graph to sort of show you from the beginning of vaccinations to where we are now. What you find is that initially, people were pretty good about getting their initial -- that's the red line at the top -- getting that first shot. And then even completing the first booster at that point -- the first sort of primary series of shots. But the bottom right corner -- that is the updated vaccine, and fewer than 20 percent of the country, really, across the board, has gotten that. And then, RSV, as you mentioned -- this is a new vaccine recommended for people 60 and older. And again, less than 16 percent have gotten that. So that's concerning. Obviously, as we're going into the season where these viruses are continuing to spread more and more, the CDC has warned -- is issuing this health alert because we want to get more people vaccinated. ERICA HILL, CNN ANCHOR:  There's also -- I was really struck by the number of hospitalizations. The spikes that we're seeing in hospitalizations --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:30:00",
+      "speaker": "GUPTA",
+      "sentences": "Yeah.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:30:00",
+      "speaker": "HILL",
+      "sentences": "-- from each one of these illnesses.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:30:00",
+      "speaker": "GUPTA",
+      "sentences": "Right, yeah. I mean -- so the question is what does that mean now, right? When you have these lower vaccination rates, what is the price that is being paid overall?And take a look. I mean -- so this is month-to-month -- the beginning of last month compared to now, the beginning of December. Those are some pretty significant increases. So, people who have been saying look, it's in the back of my mind. I haven't gotten my vaccination yet. I should go ahead and do that. You can still do it because these numbers continue to increase pretty significantly. It's not too late and there's good evidence of the protection against severe illness and disease.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:30:00",
+      "speaker": "HARLOW",
+      "sentences": "So how should we think about -- I'm just -- I'm seeing more people -- not a lot, but more people here in New York wearing masks --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:30:00",
+      "speaker": "HILL",
+      "sentences": "Um-hum.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:30:00",
+      "speaker": "HARLOW",
+      "sentences": "-- for events and things inside. How should people think about --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:30:00",
+      "speaker": "GUPTA",
+      "sentences": "Yeah.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:30:00",
+      "speaker": "HARLOW",
+      "sentences": "-- approaching the holidays given those rates?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:30:00",
+      "speaker": "GUPTA",
+      "sentences": "Yeah. Look, I think about this all the time. I mean, one thing to just put in the back of your mind, what we do have now versus before are good antivirals for COVID as well. So for people who are at high risk, either because of age or because of some sort of preexisting condition -- and when you look at that group of people it's close to 70 percent of the country will fall into sort of the high-risk category. Think about having those antivirals -- access to those.But take a look at this map. You remember that map -- we said think of respiratory disease like you would think of a weather map. There are certain areas of the country that are going to be harder hit. The South is harder hit right now versus the North, but there will be these increases in the north. Think about that as you may be traveling for the holidays and things like that. If you are having gatherings, in addition to the obvious things, ventilation and air circulation really important. Make sure you're doing that. I'm going to be visiting my parents -- I'll just tell you real quick -- over the holidays. I'm going to test ahead of time and wear a mask on the plane.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:30:00",
+      "speaker": "HILL",
+      "sentences": "Hmm.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:30:00",
+      "speaker": "GUPTA",
+      "sentences": "They're vulnerable. I don't want to get them sick. Make sure they have antivirals as well.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:30:00",
+      "speaker": "HARLOW",
+      "sentences": "That's a very good idea. I bet they're also very happy to have you home, Sanjay.Thank you so much.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:30:00",
+      "speaker": "GUPTA",
+      "sentences": "Yeah.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:30:00",
+      "speaker": "HARLOW",
+      "sentences": "Have a great holiday.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:30:00",
+      "speaker": "HILL",
+      "sentences": "For the very first time, top financial regulators are raising a red flag when it comes to artificial intelligence. What has them so concerned?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:36:54",
+      "speaker": "HILL",
+      "sentences": "For the first time, top federal regulators are saying artificial intelligence poses a risk to the financial system. The Financial Stability Oversight Council formally classifying AI as a quote \"emerging vulnerability,\" warning that using AI requires thoughtful implementation and supervision to manage potential risks.CNN's Matt Egan joining us now with more on this reporting. So give us a sense, Matt. What are these risks specifically that they're talking about that they're so concerned about?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:36:54",
+      "speaker": "MATT EGAN, CNN REPORTER",
+      "sentences": "Well, Erica, I mean, AI is pretty incredible. When you play around with some of these tools like ChatGTP it's kind of mesmerizing what they can do, right? I mean, lightning- fast ability to craft song lyrics or write stories, or even conjure up images out of nowhere. So there's a lot of good that can be done, but there's also some dangers.And U.S. officials -- they are sounding increasingly nervous about some of the risks to AI in the real world, including financial markets that are at the heart of this economy. I'm going to give you just a few examples. One of them is sometimes, AI can actually bias decisions. I know this is something that Melinda Gates recently told Poppy that she's worried about. Think about that in the banking scenario. I mean, imagine getting denied for a mortgage or a car loan by essentially a robot because of the color of your skin or because of your gender. Another issue here is cyber. There's a risk that some of these AI tools that banks use could actually get tricked by hackers, essentially letting the bad guys into the banks. So maybe you wouldn't be able to get access to your bank account. That's another issue. I'll leave with one more. Have you heard about hallucinations?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:36:54",
+      "speaker": "HILL",
+      "sentences": "No.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:36:54",
+      "speaker": "EGAN",
+      "sentences": "Some of these AI tools -- they actually have this weird tendency to make stuff up -- kind of like a toddler, just way more believable. I'll give you one example. Recently, in New York, a lawyer filed a lawsuit cite -- with a legal brief citing four cases that turned out to be bogus. The source for those bogus cases was ChatGPT.So you can see how if you put all of this in the banking scenario it could get a little bit tricky. So regulators are essentially putting the industry on high alert, saying that they're on the case. They're going to be looking at how these AI models work, telling banks that they have to make sure they're not using models that are flawed.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:36:54",
+      "speaker": "HILL",
+      "sentences": "Um-hum.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:36:54",
+      "speaker": "EGAN",
+      "sentences": "But Erica, it's a tough balance here, right? Because if they regulate too much --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:36:54",
+      "speaker": "HILL",
+      "sentences": "Right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:36:54",
+      "speaker": "EGAN",
+      "sentences": "-- they could stifle innovation.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:36:54",
+      "speaker": "HILL",
+      "sentences": "They're really counting on a little self-policing there is what it sounds like.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:36:54",
+      "speaker": "EGAN",
+      "sentences": "They are, they are. But regulators are -- they're watching closely.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:36:54",
+      "speaker": "HILL",
+      "sentences": "Matt, appreciate it. Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:36:54",
+      "speaker": "EGAN",
+      "sentences": "Thanks, Erica.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:36:54",
+      "speaker": "HILL",
+      "sentences": "Poppy.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:36:54",
+      "speaker": "HARLOW",
+      "sentences": "Really interesting stuff.OK. A University of Minnesota medical student and an EMT is giving back to the country where he was born, Ukraine. The 24-year-old spent two months this year as a combat medic near the front lines. He is now gathering medical supplies to help Ukraine in this war. Our Whitney Wild reports. (BEGIN VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:36:54",
+      "speaker": "SERGEY KARACHENETS, MEDICAL STUDENT, VOLUNTEER COMBAT MEDIC",
+      "sentences": "All of this is medical supplies from local hospitals.WHITNEY WILD, CNN LAW ENFORCEMENT CORRESPONDENT (voice-over):  A look around this room offers a stark reminder. Nearly two years after Russia's invasion, the desperation of Ukrainians still echoes around the world.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:36:54",
+      "speaker": "KARACHENETS",
+      "sentences": "It's hard to say if it's enough.WILD (voice-over):  The painful reality is personal for University of Minnesota medical student Sergey Karachenets. He was born in Ukraine and moved to Minnesota at six years old.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:08",
+      "speaker": "KARACHENETS",
+      "sentences": "I remember seeing -- watching videos of volunteers going over to help. I said I'm going to do something about this. I'm not -- you know, I'm not going to sit at home.WILD (voice-over):  Over the summer, Karachenets left the U.S. for six weeks to serve as a combat medic on the front lines during his medical school break. Karachenets' cell phone video shows moments both harrowing and heartbreaking. Karachenets spent much of his time near the battlefields outside Bakhmut.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:08",
+      "speaker": "KARACHENETS",
+      "sentences": "And the first day I was there I was thinking did I make a mistake? Do I need to get out of here? The very first day was probably one of the worst, like, shellings that there were.WILD (voice-over):  As the fighting raged on, Karachenets says he served alongside plumbers and construction workers-turned medics by the demands of war.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:35:08",
+      "speaker": "KARACHENETS",
+      "sentences": "The medicine I was doing in Ukraine was very straightforward. It was trauma -- trauma at the first responder level. We -- you know, we see a gunshot, we packed the gunshot. Amputation, turniquet to stop the bleeding.There would be gunshots, artillery -- you hear everything. Sometimes jets would be flying so low, like, the ground would shudder. That's something that was really hard to get used to. WILD (voice-over):  Back on American soil, Karachenets works as an EMT and hopes to become an emergency room physician after medical school. While he saves lives here, he says his heart remains with the soldiers in Ukraine. Whitney Wild, CNN, Minnesota. (END VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:46:29",
+      "speaker": "HARLOW",
+      "sentences": "Just one month from today -- but who's counting -- Iowa caucusgoers will -- John King is waving.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:46:29",
+      "speaker": "HILL",
+      "sentences": "Yes. He's definitely counting.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:46:29",
+      "speaker": "HARLOW",
+      "sentences": "-- will cast the very first votes of the 2024 election cycle. And despite Donald Trump leading the field by more than 30 points in the latest Iowa poll, some voters are hoping for something new.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:46:29",
+      "speaker": "HILL",
+      "sentences": "CNN chief national correspondent John King recently traveled back to Iowa to check in with some of the voters that he met earlier in the year to see whether anyone has changed their minds. Take a look.(BEGIN VIDEOTAPE) JOHN KING, CNN CHIEF NATIONAL CORRESPONDENT (voice-over):  The low, rolling hills of southwest Iowa, Shanen Ebersole's happy place.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:46:29",
+      "speaker": "SHANEN EBERSOLE, IOWA REPUBLICAN VOTER",
+      "sentences": "I just sit out here with my cows and take a breath, and everything goes back to the way that it should be.KING (voice-over):  A family cattle farmer for 25 years, a two-time Donald Trump voter.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:46:29",
+      "speaker": "EBERSOLE",
+      "sentences": "I love what he did for small businesses. I love what he did for agriculture. I wish he could have done it a little bit quieter.KING (voice-over):  The loud part is why Ebersole is shopping.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:46:29",
+      "speaker": "EBERSOLE",
+      "sentences": "Because he wasn't as respectful as I think our president should be. Because he didn't bring us together.KING (voice-over):  Shopping for a conservative who doesn't scare her liberal friends.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:46:29",
+      "speaker": "EBERSOLE",
+      "sentences": "I would lean toward Haley. I think in the face of people calling names, in the face of people yelling and screaming in front of her she held her composure. I think that she has the demeanor and the life experience that is more connected to actual Americans.KING (voice-over):  Trump's support is deep here, especially in rural counties like Ringgold. But if there is to be an Iowa surprise Republican women will power it. This is Priscilla Forsysth making Christmas crafts with friends in Sioux City. Five months ago, when we first spoke, she was leaning Vivek Ramaswamy.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:46:29",
+      "speaker": "PRISCILLA FORSYSTH, IOWA REPUBLICAN VOTER",
+      "sentences": "I really get the feeling he's brilliant. He's got energy. He's young.KING (voice-over):  Now, she urges friends to vote Haley.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:46:29",
+      "speaker": "FORSYSTH",
+      "sentences": "Usually, to me, the debates don't make a big difference, but they kind of did this time.KING (voice-over):  Forsysth caucused for Trump when he won Sioux City back in 2016. Now she sees something else taking shape.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:46:29",
+      "speaker": "FORSYSTH",
+      "sentences": "Well, I think they're underestimating the people who don't want the chaos anymore.KING (voice-over):  There's a lot of that in the Des Moines suburbs.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:46:29",
+      "speaker": "BETSY SARCONE, IOWA REPUBLICAN VOTER",
+      "sentences": "We want to turn a chapter. We want to -- we want to go to something new.KING (voice-over):  Betsy Sarcone hopes Iowa uses its first-in-the- nation vote to elevate one strong Trump alternative. This is what she told us back in August.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:46:29",
+      "speaker": "SARCONE",
+      "sentences": "I do find -- I am pulled toward DeSantis.KING (voice-over):  And this is now.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:46:29",
+      "speaker": "SARCONE",
+      "sentences": "I am likely a Nikki Haley caucuser.KING (voice-over):  Sarcone says her brother and parents are also leaning Haley, but she's not final just yet.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:46:29",
+      "speaker": "SARCONE",
+      "sentences": "If people were going to consolidate, I would go with DeSantis. That's not what I'm seeing so far. The suburbs out here -- you're likely going to see a lot -- it's going to be DeSantis-Haley.KING (on camera):  But if it's DeSantis-Haley, Trump wins, doesn't he?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:46:29",
+      "speaker": "SARCONE",
+      "sentences": "He does. I mean, that's the question, right? How do you get people to consolidate?KING (voice-over):  Jaclyn Taylor is another mom and entrepreneur who hopes the suburbs send a message.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:46:29",
+      "speaker": "JACLYN TAYLOR, IOWA REPUBLICAN VOTER",
+      "sentences": "I see Nikki Haley helping us identify back with what our culture is, what our vision is, and what our mission is a united states, not a divided states.KING (voice-over):  But as Taylor tries to recruit friends, there's a lesson about Trump's resilience.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:01",
+      "speaker": "CHRIS MUDD, IOWA REPUBLICAN VOTER",
+      "sentences": "You know, you've got to have thick skin to be for Trump today, and so I think those people that say they're for him are going to show up.KING (on camera):  When you hear DeSantis say we've got to stop losing, or Haley say no drama, no chaos, it's time for a new generation of leadership, you say?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:01",
+      "speaker": "MUDD",
+      "sentences": "They are 30, 35, 40 points behind Trump. I would say that they're the chaos and that they should -- they should stand down and support Trump.KING (voice-over):  Mudd doesn't care about polls showing Haley runs stronger against President Biden. He doesn't care. Trump could be both the Republican nominee and a convicted felon by summer.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:01",
+      "speaker": "MUDD",
+      "sentences": "I think Trump has been pushed into a corner. I think he's got lots of targets on him and I think he's doing a great job of deflecting every one of them.KING (voice-over):  Dozens see January 6 as disqualifying to the contrary.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:01",
+      "speaker": "MUDD",
+      "sentences": "You know, why didn't Nancy Pelosi have the National Guard there?KING (on camera):  That's a separate question, though, isn't it?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:01",
+      "speaker": "MUDD",
+      "sentences": "No, it's not. I think it's --KING (on camera):  That's definitely a legitimate question. It's a legitimate question. But just because there weren't enough cops there does that give people the right to blow through those barricades? To beat those -- in some cases, beat those officers?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:01",
+      "speaker": "MUDD",
+      "sentences": "No, it doesn't. But the people that were there were negligent from stopping it from happening. They wanted it to happen because they wanted -- they wanted Trump to not be eligible to run again. I think it was set up to end Trump.KING (voice-over):  There is zero evidence to support that and it is talk like that that is a big reason Shanen Ebersole says enough.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:01",
+      "speaker": "EBERSOLE",
+      "sentences": "Inflammatory acts did not happen by President Trump, but he inflamed a lot of people to do a lot of crazy things that I don't think Americans -- I don't think that's really who we are.KING (voice-over):  The cows are still here because the freeze is late, but they will soon have to move. And Ebersole knows that means time is running short for Republicans like her who hope Iowa sends a message it is time to move on. (END VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:01",
+      "speaker": "HARLOW",
+      "sentences": "And John King joins us now.I love these pieces. You take us into their homes but more into their minds and their real feelings. How many folks have you talked to in Iowa who really think there could be an Iowa surprise, meaning a not Trump?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:01",
+      "speaker": "KING",
+      "sentences": "It's a fascinating question because we're going to know in a month, right? And think about this. Iowa in a month, New Hampshire eight days after that. In 40 days, we're going to have a pretty good answer to the question can Trump be stopped? Can he be slowed, or will he win the first two and then forget about it? If he wins Iowa and New Hampshire forget about it.About half of the party doesn't want him. And you see a lot of the -- Shanen there -- Shanen Ebersole -- she voted for Trump twice. She liked a lot of the things he did. She just can't take the drama. She can't take the toxic. She has liberal friends. She's in a really rural conservative country. She says her liberal friends are scared. And so, she's just a decent, hardworking great American. She has debates with her husband about this. A lot of families debate this. All the data tells you Trump is way ahead not just in Iowa but everywhere. But just go back to the Obama election. Hillary can't lose. Trump can't win. Biden was dead after the early primaries in 2020. Voters sometimes surprise us, which is why we keep doing these trips.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:01",
+      "speaker": "HILL",
+      "sentences": "How -- in terms of voters surprising you, how many caucusgoers at this point -- is there a sense -- have made up their mind?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:01",
+      "speaker": "KING",
+      "sentences": "You do get a sense that -- especially among the women we talked to -- it's a fascinating dynamic -- women are more likely to not like Trump. They just don't like the tone. They want to -- they want someone who brings people together.And part of the question there is, though, you're for DeSantis, you're for Haley. Somebody else might be for Ramaswamy or for Christie. Well, then Trump wins, right? And so, there's this almost strategic chess game in conversations with friends where you have voters who say I'm for Haley, but if I find out all five of you are for DeSantis, I'll come to you because I want one Trump. They know -- they know that if Trump gets a big win out of Iowa that he'll probably steamroll to the nomination. So there's actually some strategic chess going on in the conversations where people who want one candidate are willing to go to somebody else if they think that person would rise up and jump. At the moment, nobody has done that. But 30 days. A lot of fun.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:01",
+      "speaker": "HARLOW",
+      "sentences": "Thirty days.John, thank you, as always.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:01",
+      "speaker": "HILL",
+      "sentences": "He was one of the most sought-after endorsements of the Republican primary season. New Hampshire Gov. Chris Sununu joining us in our next hour on why Nikki Haley is his choice.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:01",
+      "speaker": "HARLOW",
+      "sentences": "Also, Pinkmas?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:01",
+      "speaker": "HILL",
+      "sentences": "Oh!",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:50:01",
+      "speaker": "HARLOW",
+      "sentences": "That's right. The colors of Christmas may usually be red and green. But this year, apparently, pink is making a statement. I do not have a pink Christmas tree but it's pretty. We'll tell you what or who is behind it next.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:58:10",
+      "speaker": "HILL",
+      "sentences": "That sounds just like the Christmas party at my house.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:58:10",
+      "speaker": "HARLOW",
+      "sentences": "Why have I not participated in that, Erica?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:58:10",
+      "speaker": "HILL",
+      "sentences": "It's just starting this year, Poppy, and you'll be there in pink sequins.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:58:10",
+      "speaker": "HARLOW",
+      "sentences": "Hey, Barbie.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:58:10",
+      "speaker": "HILL",
+      "sentences": "It's going to be great.If you missed it in theaters, good news. The wait is finally over. As of today, you can stream \"Barbie\" on MAX. The blockbuster -- of course, from our parent company Warner Bros. Discovery -- is the highest-grossing movie of 2023, raking in more than $1.4 billion globally. It's also helping to drive a very Barbie Christmas shopping season that is being referred to by some as \"Pinkmas.\"",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:58:10",
+      "speaker": "HARLOW",
+      "sentences": "Hmm.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:58:10",
+      "speaker": "HILL",
+      "sentences": "CNN anchor and correspondent Rahel Solomon joining us in her -- in her beautiful Barbie pink this morning.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "07:58:10",
+      "speaker": "RAHEL SOLOMON, CNN ANCHOR AND CORRESPONDENT",
+      "sentences": "I try to understand the assignment. What can I say?Yeah. So this is five months after Barbie was released in theaters. This is the gift that continues to keep on giving for the companies and the businesses that are associated or just trying to cash in on the pink trend. So, pink Christmas trees not something that is typical. But this year, if you are looking for a pink Christmas tree, look no further. Go online. You will see plenty of options. Now, we should say that the commercial success of Barbie is by design. Mattel, for its part, has said that it had locked in 160 partnerships. Everything from pasta to burgers, to candles you can find pink if you are into that sort of thing. Now, broadly speaking, for the holiday shopping season, the National Retail Federation says that it expects sales to be strong -- three to four percent higher than 2022. It expects Barbie to be a popular toy this Christmas season for boys and girls. But yeah, this is a wave -- this pink wave that Mattel is trying to just keep riding even into the holiday shopping season and into 2024.",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

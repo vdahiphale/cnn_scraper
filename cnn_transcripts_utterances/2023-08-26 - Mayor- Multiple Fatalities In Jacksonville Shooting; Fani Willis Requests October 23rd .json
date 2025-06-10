@@ -1,0 +1,631 @@
+{
+  "date": "2023-08-26",
+  "headline": "CNN Newsroom",
+  "subHeadline": "Mayor: Multiple Fatalities In Jacksonville Shooting; Fani Willis Requests October 23rd Trial Date In Georgia Case; Trump's Legal Troubles Loom Over First GOP Debate; Oliver Anthony: \"I Wrote That Song About Those People\"; Police: Jacksonville Shooter Killed 3 People; Police: 3 Killed In Racially-Motivated Attack In Jacksonville. Aired 6-7p ET",
+  "utterances": [
+    {
+      "timeStamp": "18:00:59",
+      "speaker": "ANNOUNCER",
+      "sentences": "This is CNN Breaking News.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:00:59",
+      "speaker": "JIM ACOSTA, CNN HOST",
+      "sentences": "You are live in the CNN NEWSROOM, I'm Jim Acosta in Washington. Good evening.Right now, we are following breaking news out of Jacksonville, Florida. There are multiple fatalities from a shooting there. According to the mayor, the shooter barricaded himself in Dollar General Store, the mayor told our affiliate, WJXT. We are awaiting a press conference from officials there in just a short time from now. We'll bring that to you when it happens. While we wait, I want to go to CNN's Isabel Rosales. Isabel, you're learning more about the shooter. What's the latest?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:00:59",
+      "speaker": "ISABEL ROSALES, CNN CORRESPONDENT",
+      "sentences": "Right, Jim, so this is a big update. I've been texting back and forth with Tracie Davis. She is a state senator representing District 5, that is the Jacksonville area and she just told me right now over text that the shooter here is dead.So she confirmed that the shooter has -- is dead. We don't know if they've been killed. We don't know if that's from a self-inflicted gunshot wound. We're working to get more details on that. She has been unable however, to confirm how many people are dead. She is being briefed right now by Sheriff T. K. Waters. And I want to show you now a tweet that she posted on X, formerly known as Twitter. She put this: \"A tragic day in Jacksonville. I'm offering prayers to the families of the victims and I'm on my way to meet with the sheriff for answers.\" She's now there with the sheriff. \"This type of violence is unacceptable in our communities.\" So let me bring you back to what we do know, what is on the record. This is from Mayor Donna Deegan of Jacksonville saying that there's multiple fatalities. She told our affiliate station WJXT that the shooter barricaded himself inside of a Dollar General on Kings Road that is in the Grand Park area just west of the downtown area. It is not clear if these victims were shot inside or outside of the store. I want to now put on a quick soundbite from Councilwoman Ju'Coby Pittman. Here's what she said about what this shooting is doing to the community. (BEGIN VIDEO CLIP) JU'COBY PITTMAN I, COUNCILWOMAN, DISTRICT 10, FLORIDA: I am very, very angry right now. I'm emotional. You know, we've got kids in this community seeing all of this and this is unnecessary. You know, it's unjust that we can't -- we can't even walk on the sidewalks. We're not safe in any stores. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:00:59",
+      "speaker": "ROSALES",
+      "sentences": "And I also want to mention Edward Waters University, this is a historically Black university less than a mile away on that same road, Kings Road, they activated a campus safety alert when this went down, a stay-in-place order.Preliminary reports indicate no students, faculty, or staff members have been involved here. They are asking students stay in their dorms. And Jim, I've mentioned this before I'll mention it again that this date is especially crucial because five years ago to this day, Jacksonville experienced a mass shooting at the Jacksonville Landing less than three miles away. This was at a video game tournament where a shooter enter that area, killed two people and injured 10 others. So obviously, this community going through so much and especially for this to happen on the anniversary of a notable mass shooting there in the city of Jacksonville. We are waiting, Jim on a press conference that should start in this hour to get more details about what has transpired here.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:00:59",
+      "speaker": "ACOSTA",
+      "sentences": "All right, Isabel Rosales, thank you very much.Joining us now with more on all of this is CNN senior national security analyst, Juliette Kayyem. Juliette, from what we know right now, what do you expect investigators to tell us here when we see this press conference unfold in a few moments from now?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:00:59",
+      "speaker": "JULIETTE KAYYEM, CNN NATIONAL SECURITY ANALYST",
+      "sentences": "Well, hopefully, if the reporting is accurate that he is in fact dead. We will learn his name. That's going to make the investigation easy or at this stage, and there is conflicting -- not even conflicting, but what we will also learn is where was he? And then where did the shooting take place?[18:05:11 ] When you have a person who's identified at a historically Black college, Edward Waters, who is identified as suspicious, and then goes running into the Dollar Store and then starts shooting. We are just going to need some clarity on what that timeline was. Was he a student? Was he someone focused on the university? Or was this just a fluke of geography? So we just keep our minds open at this stage. But if it someone who had some ties to the school, the school activated its lockdown scenarios, which is exactly what you're supposed to do. No one has been in school that long, so this was probably the first or second week in Florida that they were in school, and this is the beginning of the academic year if this -- if the line of where the suspect was, was between a school and the Dollar Store.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:00:59",
+      "speaker": "ACOSTA",
+      "sentences": "And Juliette, I suppose part of the reason why it's taking a little time for the information to come in, in terms of how many dead and the situation of the shooter, we just learned in the last several minutes, is that apparently, according to the mayor, this shooter had barricaded himself inside that Dollar General Store.And as we were talking to another law enforcement analyst in the previous hour on this program, I mean, that is perhaps the most delicate kind of situation, if not one of the most.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:00:59",
+      "speaker": "KAYYEM",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:00:59",
+      "speaker": "ACOSTA",
+      "sentences": "That law enforcement can deal with in a situation like this. It does take time for those things to unwind themselves.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:00:59",
+      "speaker": "KAYYEM",
+      "sentences": "Right. Yes, so there are a couple of things, you know, one is, you just can't get the number wrong, right? This is the one thing people need from law enforcement is how many people have perished during this shooting, because he is barricaded. You know, he is inside with Saturday shoppers.They also will have family members rushing there. So they're trying to unify people who were rushing there who knew that a mother and aunt or whoever or a father was shopping at the Dollar Store and then make sure that they're unified, and at that stage, then they'll have a sense of what the pool is, or of course examining bodies at this stage. And we don't know if it's two or if it's four or if it is more at this stage, but it is enough that that lots of folks are activated in the area, which includes both the university setting and then the commercial area around it and we will find out more about the details. We haven't had school shootings. It has been summer for a couple of months, but I do need to remind people, we've had no dearth of mass shootings in the United States this week alone. And as kids go back to school, we had a football game shooting yesterday or last night. And so these are the things that we anticipate as kids are going back to school, unfortunately, as part of America's school shooting problem. So, we'll wait and see.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:00:59",
+      "speaker": "ACOSTA",
+      "sentences": "And we have a mass shooting problem on top of that, and I was just about to ask you about that Juliette.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:00:59",
+      "speaker": "KAYYEM",
+      "sentences": "Yes. ACOSTAshooting this weekend, but also a shooting in Boston, one in Chicago, one in Maryland. And now, this one in Jacksonville. We're showing this on screen to our viewers right now. This problem continues. It is getting worse, it is not getting better. Law enforcement doesn't have a handle on it. Members of Congress, leaders here in Washington don't have a handle on it. And as you said, kids are going back to school here, if they haven't already gone back in some parts of the country, and we are just going to have to deal with this all over again. This is going to be back on the front page, back in our lives.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:10:08",
+      "speaker": "ACOSTA",
+      "sentences": "All right, Juliette Kayyem, thank you very much. We appreciate it.We're expecting a press conference from authorities to take place at 6:30 PM Eastern. That's about 20 minutes from now. Stay with CNN for the very latest. And as these developments come in, we'll bring them to you. So stay tuned for that. We'll be right back. You're live in the CNN NEWSROOM. (COMMERCIAL BREAK)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:15:09",
+      "speaker": "HARRY LITMAN, FORMER US ATTORNEY",
+      "sentences": "Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:15:09",
+      "speaker": "ACOSTA",
+      "sentences": "I am a little exhausted just reading that introduction about everything that Donald Trump is going to be going through, I suppose over the next several months, and I guess that leads me to this question, Harry. And that is, how chaotic is this legal process going to get? If you have all of these cases, and especially in Georgia, all of these co-defendants ping-ponging in different directions?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:15:09",
+      "speaker": "LITMAN",
+      "sentences": "Maybe think of a 20-car NASCAR pile up. It is really true. The cases have to go forward. And in addition to the four criminal ones, there are several civil ones, including one where the judge says I'm not moving. So something is going to have to give, Jim, but we're not exactly sure what and when.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:15:09",
+      "speaker": "ACOSTA",
+      "sentences": "And what is going on with Kenneth Chesebro. His case is set to go to court on October 23rd. That's the date that Fani Willis wants for all the defendants. He seems to want to speed things up. Is that a tactic? Is there something going on here that perhaps requires further explanation?Why would you want it to happen sooner? I thought the Trump plan of delay, delay, delay would be pretty consistent with all these folks.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:15:09",
+      "speaker": "LITMAN",
+      "sentences": "Yes, first. It is warp speed and her hand was forced when she said, okay, October 23. Why would he want to? A couple of reasons.First is to separate himself out from everyone to be able to tell his own story. Defendants seek to do that usually by looking to sever, but that's not something that a court has to grant, whereas a speedy trial motion like his in Georgia, they do. Of course, now Sidney Powell has done the same thing. So there may be two in the boat that he hoped would only have one. That's the first reason to separate himself out and tell his story first. The second is a bit of a gamble, that look, it's their burden. It is a big burden. Even if it's a scramble for me, I'll bet it's a bigger scramble for them and the comparative advantage is to me, that I think is the strategy anyway behind his motion.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:15:09",
+      "speaker": "ACOSTA",
+      "sentences": "And on Monday, Tanya Chutkan, the judge in the federal case will hold a hearing to set a trial date on Trump's January 6 federal case. The special counsel was proposing to start in early January. Trump is requesting a trial in April of '26. I don't -- why not go for 2036? What do you think is going to happen?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:15:09",
+      "speaker": "LITMAN",
+      "sentences": "Exactly.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:15:09",
+      "speaker": "ACOSTA",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:15:09",
+      "speaker": "LITMAN",
+      "sentences": "Yes, so look, what he did -- his proposal, as your chuckle betrays is outlandish. She knows that even a provocation.But I think she will not let herself be overly provoked. I think what she'll do is take the government's motion and push back on it a few months , but I think that will be our real date, maybe in March or April. And my best guess, with all the difficulties in Georgia is this might be the one that goes first. And it is arguably the most important because it's the federal government and down the middle on January 6th. So I look for her not to take the bait too much, even though he has certainly been brazen in making that proposal and pushing and she will do a somewhat later date, possibly with a little tongue wagging: Are you kidding me Mr. Trump or his lawyer -- but I think she'll give some ground.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:15:09",
+      "speaker": "ACOSTA",
+      "sentences": "Right. But, you know, I want to ask you, because if the Georgia case takes place in the fall, and you're Jack Smith, you're the special counsel in all of this, do you like that? That the Georgia case would go first? Are you concerned at all that that could potentially cause problems for the federal case? What's your sense of it?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:15:09",
+      "speaker": "LITMAN",
+      "sentences": "You are. The short answer is no, because there'll be a display of so much evidence, it will be a kind of dress rehearsal for defendants to prepare against. You really always want to be doing it fresh, that's the lesson of many trials. Of course, you know, as we said in the first question, there are some inconveniences here and practicalities that are just going to have to give ground, but in a perfect world, he would not go second, he would go first.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:15:09",
+      "speaker": "ACOSTA",
+      "sentences": "Because and I'm not presuming that anything like this would take place. But I've covered a lot of court cases over the years and things can happen.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:15:09",
+      "speaker": "LITMAN",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:20:08",
+      "speaker": "LITMAN",
+      "sentences": "Yes, that's one and look, Fani Willis' charges so overlap with the federal case and here is another thing that could happen. The witnesses will testify, now, they come to Jack Smith's case and two statements are always worse than one because they're fodder for cross examination.Mr. Acosta, you said 5:30 before; now you're saying around five which is it? What else don't you remember? You just in general, want witnesses to testify fresh?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:20:08",
+      "speaker": "ACOSTA",
+      "sentences": "All right. Sounds good. That sounds like a conversation about your hit time today, Harry, but glad you were here on time, Harry. Great to talk to you. Thanks so much. Really appreciate it. All right.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:20:08",
+      "speaker": "LITMAN",
+      "sentences": "Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:25:13",
+      "speaker": "ACOSTA",
+      "sentences": "This election season's first debate might be remembered as the show without the star. Eight Republican White House hopefuls shared the stage in Milwaukee on Wednesday, but not the frontrunner Donald Trump, who skipped the event.Still the former president cast a big shadow over the arena and his legal troubles put his rivals on the spot, including with this question. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:25:13",
+      "speaker": "BRET BAIER, FOX NEWS CHANNEL CHIEF POLITICAL ANCHOR",
+      "sentences": "If former President Trump is convicted in a court of law, would you still support him as your party's choice? Please raise your hand if you would?(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:25:13",
+      "speaker": "ACOSTA",
+      "sentences": "Let's discuss with our political panel. Molly Jong-Fast is a special correspondent of \"Vanity Fair\" and Shermichael Singleton is a Republican political strategist.Shermichael, I mean, why even have a debate, I guess? I suppose when it comes to that question, there was no debate or not much of one. SHERMICHAEL SINGLETON, REPUBLICAN STRATEGIST: Yes, I mean, I wasn't surprised, but you saw Ron DeSantis was a little hesitant. He sort of looked around first. But I think most of these candidates recognize, Jim, that Donald Trump commands 37 or 40 percent of the Republican base and they are all hoping to usurp his lead while also maintaining that support and the last thing they want is to be on the wrong side of Trump because they know that his voters will react negatively to that.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:25:13",
+      "speaker": "ACOSTA",
+      "sentences": "Yes. Yes, Molly, it was less of a debate, more of a dance. Kind of the MAGA cha-cha they were doing it seemed all night long. And that question, I think, summed it up.MOLLY JONG-FAST, SPECIAL CORRESPONDENT, \"VANITY FAIR\": Yes, I mean, they were doing anything they could to not have to try not to alienate Trump voters but what they came off, as are mimeographs of the original. And this is a real problem, they offer no post-Trump future. Ultimately, the person who probably did the best or the most sort of who was able to take the Trump mantle was this Vivek. But you did see -- I mean, he has no policy. He doesn't understand anything. He's not a serious person. He was just sort of surrogate for Trump and Trumpism.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:25:13",
+      "speaker": "ACOSTA",
+      "sentences": "And Shermichael, yes, what did you make of Vivek Ramaswamy and his performance? He took some shots of some of the other candidates. He was able to introduce himself to a big audience.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:25:13",
+      "speaker": "SINGLETON",
+      "sentences": "He did.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:25:13",
+      "speaker": "ACOSTA",
+      "sentences": "Hard to say he wasn't the winner of that.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:25:13",
+      "speaker": "SINGLETON",
+      "sentences": "I mean, I'm going to be honest, Jim, and I say this respectfully. He is a talented guy in pharmaceuticals and technology, but I'm not a fan. I mean, I've worked on three presidential campaigns, including Mitt Romney. These are serious people and politics is serious.His positions on foreign policy were all over the place to me. His positions on taking down 70 or 90 percent of the federal government unilaterally, the executive branch does not maintain that authority. Several months ago, he had one position on climate change, during the debate, he had a different position. So it just seemed to me that he's a candidate that's throwing everything out there and seeing whatever sticks to the wall. And I personally, as a strategist, I don't respect that. I mean, these are serious matters with significant implications for the American people, and they deserve candidates who are doing their homework and have the level of discernment that we expect out of a potential president.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:25:13",
+      "speaker": "ACOSTA",
+      "sentences": "Yes, I covered Mitt Romney in 2012. He said that Russia was the top geopolitical foe of the US; Ramaswamy, not saying that. Molly, DeSantis told Iowans he is more likely to get elected thanTrump. That does not -- I mean, that's as tough as it gets, I guess from him when it comes to the former president, but that does not square with what the polls say in that state or many other states. JONG-FAST: Right, and it doesn't square with what we saw in that debate. I mean, he was almost a non-person there. I mean, he's not a good debater. He's got this sort of -- again, Trump minus the charisma, running as Trump but on policy is totally preposterous, right? Trump got where he was because he's charismatic. And if you look at it, Vivek is a charismatic charlatan, ergo, this is how Trumpism scales. It doesn't scale with more right-wing policy. If anything, people like Trump, because they didn't really know his policy. I think one of the things Republicans really have a problem with is they have some wildly unpopular policies like abortion.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:25:13",
+      "speaker": "ACOSTA",
+      "sentences": "And I have to ask you both about these new comments from Oliver Anthony. For those at home not up to speed on this. His song \"Rich Men North of Richmond\" has become a viral sensation, particularly among conservatives, even being used in the question at Wednesday's debate.Yesterday, he came out and said his lyrics are completely misinterpreted. Let's listen to this. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:25:13",
+      "speaker": "OLIVER ANTHONY, SINGER",
+      "sentences": "It was funny seeing my song in -- it was funny seeing it at the presidential debate, because it's like it wrote that song about those people(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:30:36",
+      "speaker": "ACOSTA",
+      "sentences": "Shermichael?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:30:36",
+      "speaker": "SHERMICHAEL SINGLETON, REPUBLICAN STRATEGIST",
+      "sentences": "I mean, I would say, Jim, that that song is really the embodiment of what working class people are experiencing in this country. You're seeing the wealth gap spread significantly. People are having a hard time during inflation paying for goods, the cost of gas is going up. It was once a ...",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:30:36",
+      "speaker": "ACOSTA",
+      "sentences": "Some lyrics in there that are a little insulting.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:30:36",
+      "speaker": "SINGLETON",
+      "sentences": "Of course. And it was once the belief, if you work 40 hours a week, go to college, you'll do well, not anymore.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:30:36",
+      "speaker": "ACOSTA",
+      "sentences": "Yes. All right. We have to go to this press conference down in Jacksonville, Florida. Thanks to both of you.Let's go to Jacksonville, Florida now, a press conference on that shooting that took place there. Let's listen in. SHERIFF T.K. WATERS, JACKSONVILLE DUVAL COUNTY: This afternoon, a little after 1 pm, an individual we have not yet officially identified, entered a Dollar Tree in the New Town area of Jacksonville outfitted with a tactical vest, armed with an AR-style rifle and a handgun. Then the shooter killed three people before turning the gun on himself, taking his own life. Other than the three individuals killed and the shooter himself, there are no additional people who suffered gunshot wounds. We are not identifying the deceased victims at this time, but I can tell you that there are two male victims and one female victim. All of the deceased victims are black. Multiple units from Jacksonville Sheriff's Office responded to this active shooter scene, as in members of Jacksonville Fire Rescue, our mayor and city leaders. We are still in the very early stages of this investigation, so there's a lot of information that we don't know at this time. I will share that - with you the information that I've been able to verify. The shooter was believed to have resided in Clay County with his parents. He was involved in a 2016 domestic call in Clay County with no arrest. In 2017, he did have a Baker Act. We know that at 11:39 AM, Sheriff Cook (ph) gave us information that he left Clay County, headed to Jacksonville. At 1:18 PM, he texted his father and told his father to check his computer. At 1:53 PM, the shooter's family members called the Clay County Sheriff's Office. By that time, he had already begun shooting in Jacksonville. The Clay County Sheriff's Office, who has been assisting our agency with this investigation, received information after the shooting that the shooter had authored several manifestos, one to his parents, one to the media and one to federal agents. Portions of these manifestos detail the shooter's disgusting ideology of hate. Plainly put, this shooting was racially motivated and he hated black people. He wanted to kill niggers. That's the one and only time I'll use that word. I want to be very clear that there's absolutely no evidence that the shooter is part of any large group. We know that he acted completely alone. If you take a look at the images on the screen, you'll be able to see what he utilized. The weapons that the shooter used today are a Glock and an AR-15-style rifle. This is a dark day in Jacksonville's history. Any loss of life is tragic, but the hate that motivated the shooter's killing spree adds an additional layer of heartbreak. There's no place for hate in our community and this is not Jacksonville. As a member of this Jacksonville community, I am sickened by this cowardly shooter's personal ideology of hate. Homicide detectives are actively investigating this tragedy and despite the fact that the shooter is dead, they will continue to investigate this until we have a complete understanding of what happened and even why he did it. Our Jacksonville community collectively cries tonight. To the victims and victims' families, our thoughts and prayers are with you now and will remain with you. Please know that in the face of this tragedy, this agency and our city stands with you. We stand united and resolved in our commitment to accountability. We stand united with each other. Those who have personally suffered loss and those who have been touched by this tragedy, we are with you. We stand united and resolved against all forms of hate. And at this time, I'll take any questions that I can.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:30:36",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "Sheriff Waters, does the Sheriff's Office consider this a mass shooting and why or why not?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:35:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Sheriff, there are reports that the suspect may have been seen on Edward Waters University at first and then made his way down the road, can you confirm that? What was the plan to make him start to go there?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:35:00",
+      "speaker": "WATERS",
+      "sentences": "I can't tell you what his mindset was while he was there, but he did go there and he did put his vest on and a mask on and then went directly to Dollar General.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:35:00",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "Sheriff, did Edward Waters University catch the incident on camera - on their cameras?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:35:00",
+      "speaker": "WATERS",
+      "sentences": "That's still part of our investigative process.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:35:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "How does the community share something that everybody sees side by side and how do you go about healing that process (inaudible) ideologies still exist today (inaudible)? I mean, obviously, if the situation there with Clay, the metro area, there's still people who have those thoughts. WATERSthat - that's an outlier. That doesn't represent who we are as a city and who we are as a people, right? Our mayor is here, our political leaders from all over the city are here and it shows where we stand and how we believe as a community. Politics aside, none of this - none of that matters. What matters is who we are as a community. We stand together as a community. We live together as a community. We fight together as a community. And when someone comes into our city and does this, we're not going to stand for it and we don't accept it, so, we're always going to fight against it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:35:00",
+      "speaker": "DAN",
+      "sentences": "Mayor, you are out of the scene, your thoughts about this as you stood among the community.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:35:00",
+      "speaker": "MAYOR DONNA DEEGAN, JACKSONVILLE, FLORIDA",
+      "sentences": "I'm going to take this off, Sheriff, because they're not going to see me behind there.I'm sorry, Dan (ph).",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:35:00",
+      "speaker": "DAN",
+      "sentences": "You were out of the scene. Your thoughts about how the community is dealing with this, your reaction to what has hit this community again?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:35:00",
+      "speaker": "DEEGAN",
+      "sentences": "Well, I'm heartbroken, obviously. This is a community that has suffered again and again. So many times, this is where we end up and there were so many people out today, obviously grieving, upset. It's just something that should not and must not continue to happen in our community. It's too often the same folks.And this type of hate, this type of - you see the swastika's on the gun. We must do everything that we can. We must do everything that we can to dissuade this type of hate. And so, I can't even begin to tell you how frustrating this is for all of us, because we've seen it too much. We've seen it too much. And this, as you know, was the anniversary of - when we had the shooting at the landing and I believe that was also indicated in the manifesto that he was aware of that and perhaps chose this date in alignment with that. So there's a lot here, but as the sheriff said, this was a hate-filled crime and we just shouldn't have that kind of hate in Jacksonville.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:35:00",
+      "speaker": "DAN",
+      "sentences": "Does anyone know what the Baker Act was about back in 2017?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:35:00",
+      "speaker": "WATERS",
+      "sentences": "So that's still under investigation also. And before we go any further, I want to give Sherri Onks, the sec (ph) for our local FBI an opportunity to address you all about a few things. Sherri?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:40:06",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Sheriff, you also mentioned swastikas were found on the gun --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:40:06",
+      "speaker": "DEEGAN",
+      "sentences": "You saw the pictures of the gun.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:40:06",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:40:06",
+      "speaker": "WATERS",
+      "sentences": "Got it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:40:06",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Was that - did he own both of those guns or were those parents' gun?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:40:06",
+      "speaker": "WATERS",
+      "sentences": "No, they were not his - those were not his parents' guns. I can't say that he owned them, but I know his parents didn't. His parents didn't want them in their house.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:40:06",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "Did he legally purchase those guns?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:40:06",
+      "speaker": "WATERS",
+      "sentences": "From what we can tell, we don't know yet. We're still - that's still a part - a deep part of the investigation we got to - we have to get into.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:40:06",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Did he ever got the guns taken away (inaudible) ...",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:40:06",
+      "speaker": "WATERS",
+      "sentences": "Again, that's something we can't get into because we don't know yet. I wanted to get out here, I want to tell you as much as we could right now so that our community will know, one, that there's no danger - no further danger. And two, I want to be as transparent as possible. I want to let you know exactly what his intentions were because there's no reason not to tell our community what went on and I think that's important for people to know.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:40:06",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "There was also a shooting at, like, a White Sox's game last night and a shooting earlier this morning in Boston. Obviously, we have got Jax tonight. I mean, is there going to be any sort of precautions in the near future for those type of big events (inaudible)?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:40:06",
+      "speaker": "WATERS",
+      "sentences": "Jax games and events are very well covered and one thing has absolutely nothing to do with the other. This was, quite frankly, a maniac who decided he wanted to take lives.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:40:06",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Was this a targeted crime, Sheriff, or did he just pick a community and there was opportunity?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:40:06",
+      "speaker": "WATERS",
+      "sentences": "No, he targeted a certain group of people and that's black people. That's what he said he wanted to kill and that's very clear and I don't know that the targets were specific, but I know that any member of that race at that time was in danger of the black race. Any other questions?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:40:06",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "Sheriff Waters, I was going to ask is there any reason why your office is not identifying him yet? Can you clarify why not?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:40:06",
+      "speaker": "WATERS",
+      "sentences": "Yes, I'd love to identify him but we're not identifying him because we don't have a positive identification. It's very important for us as an agency to make sure that we have an official positive ID. When a person is deceased in Jacksonville, that body is in the custody of the medical examiner's office. So, we have to wait until we can make a positive ID. Once we do that, then I'll tell you exactly who he is.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:40:06",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Jumping off of that real quick, is there - I mean, can you give me an age range? Living with parents?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:40:06",
+      "speaker": "WATERS",
+      "sentences": "Early 20s.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:40:06",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Early 20s. White suspect?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:40:06",
+      "speaker": "WATERS",
+      "sentences": "White male.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:40:06",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Thank you, Sheriff.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:40:06",
+      "speaker": "WATERS",
+      "sentences": "Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:40:06",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "One more question, was it Dollar Tree or Dollar General?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:40:06",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "General.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:40:06",
+      "speaker": "WATERS",
+      "sentences": "Dollar General. UNIDENTIFIED FEMALE",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:40:06",
+      "speaker": "WATERS",
+      "sentences": "Dollar General.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:40:06",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "(Inaudible) Dollar Tree was in there (inaudible) ...",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:40:06",
+      "speaker": "WATERS",
+      "sentences": "Dollar General. All right, thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:40:06",
+      "speaker": "ACOSTA",
+      "sentences": "All right, that was a press conference in Jacksonville, Florida from law enforcement officials on what appears to be a racially motivated shooting in Jacksonville that took place inside a Dollar General earlier this afternoon. According to police and we just listened to this just a few moments ago, the gunman went into the Dollar General in a tactical vest armed with an AR-style rifle and a handgun, where he killed three people before turning the gun on himself, as you just saw during that press conference a few moments ago.Officials were showing images of one of those weapons. There it is on screen right now. As you can see, that weapon on the left side of the screen has what appears to be two swastikas on it, along with some other writing scrawled onto there. We haven't been able to figure that out as to what that message is, but authorities are also talking about manifestos and are saying that this was absolutely a hate crime, a racially motivated attack. The Sheriff at one point saying that this individual wanted to kill black people, just a terrifying situation unfolding in Jacksonville earlier this afternoon. If I'm not mistaken, I believe I have three people with me right now to talk about this: Isabel Rosales, our correspondent who's been following this; Juliette Kayyem, our Law Enforcement National Security Analyst; and Steve Moore, a law enforcement analyst for us here at CNN. Juliette, your reaction to that news conference? Just absolutely chilling information coming from law enforcement officials in Jacksonville.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:44:57",
+      "speaker": "ACOSTA",
+      "sentences": "Right. And Juliette, we have talked about this time and again, these AR-style weapons.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:44:57",
+      "speaker": "KAYYEM",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:44:57",
+      "speaker": "ACOSTA",
+      "sentences": "But in addition to that this is also reminding me of what took place in Buffalo, the supermarket shooting and the violence that unfolded there - the racially motivated violence that unfolded there.And Steve Moore, I just want to turn to you, because for a couple of hours this afternoon we were trying to put together exactly what was going on there. We weren't hearing a whole lot from officials and I think part of the reason why is that there is a - there are just deep levels of ugliness that they had to sort through before presenting this information to the public. And what we're looking at, at this hour, as we're unpacking this is yet another instance of racially motivated gun violence in this country.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:44:57",
+      "speaker": "STEVE MOORE, CNN LAW ENFORCEMENT CONTRIBUTOR",
+      "sentences": "Yes. Yes. And you know dovetailing off what Juliette said I am kind of terrified by how predictable and how similar these - the racist shootings are that I've seen throughout my career and I'm seeing now.Frequently, when they decide to attack most of the time they go to an area where there would be a large number of potential targets. In this case, it may have been a historically black university. They will - these type of shooters will flee from any type of opposition, because it might keep them from achieving their goals. So in my opinion, I believe that it is likely that he went to the HBU in order to kill people there and when he was confronted by security, moved to a less secure target and he went to some place where he saw black people and attacked there. So it's very similar to cases I've worked for 20-25 years.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:44:57",
+      "speaker": "ACOSTA",
+      "sentences": "Yes.And Isabel Rosales, I guess one of the aspects of this is that the gunman did turn the gun on himself and killed himself. ROSALES: Right. And just, Jim, so incredibly chilling and awful to hear these details in particular from a black sheriff about what it is that happened today ...",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:44:57",
+      "speaker": "ACOSTA",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:50:01",
+      "speaker": "ACOSTA",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:50:01",
+      "speaker": "ROSALES",
+      "sentences": "Jim.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:50:01",
+      "speaker": "ACOSTA",
+      "sentences": "And just to catch our viewers up to speed in terms of what we're dealing with at this hour, just to recap, three people were shot to death this afternoon at a Dollar General store in Jacksonville Florida in what law enforcement officials are describing as a racially motivated incident.The sheriff, T.K. Waters, of Jacksonville spoke just a few moments ago. He said this in quote - quotes: \"This shooting was racially motivated and he hated black people. He wanted to kill,\" and then he used the N word. And the sheriff made it very clear he wanted to use the N word and just that one instance and then moved on. As Isabel was saying just a few moments ago, the gunman also left behind manifestos and as law enforcement officials were just showing at a press conference a few moments ago, one of the weapons used in the attack had swastikas on it. And I want to go back to Juliette Kayyem, if you can, and I think Steve was getting into this a few moments ago as well, we have a problem in this country. We have a major ...",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:50:01",
+      "speaker": "KAYYEM",
+      "sentences": "Right.'ACOSTA: ... major problem in this country and that we have this very disturbing cocktail of mass shootings carried out with AR-style weapons and in many cases they - these incidents are used to terrorize black people.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:50:01",
+      "speaker": "KAYYEM",
+      "sentences": "Yes. So we have the violent mix of motive and means. The motive being hate and racism being amplified online being nurtured, being coddled by even political establishment as something that is legitimate as something that we don't shun. And so that's why we've seen this increase in hate crimes that the FBI has noted and the kind of terror that these communities are facing.He has a manifesto. He clearly has a performative goal here, right? He's doing this to be seen. He goes to the HBCU and absolutely wanted to terrorize that place if not it being the place - the site where he wanted his victims to be and then he gets identified and goes running down the street to the dollar store. So the fact that he's putting on the clothing at the HBCU, it's to terrify, it is - and the guns, and the manifestos, and the anniversary and the gear, it's all for show. And he's a young white male and so this is just familiar at this stage. And what's also familiar is now we've got the motive and now the means. They have access to guns, the AR-15, which just - should not - this is not political, this is absolutely just a rational statement here. These guns are unnecessary to be out in civilian life and most law enforcement organizations agree on that. And the reason why is because if he hadn't shot himself, the shooter today, if he had not shot himself, he could have very likely killed law enforcement. So the two toxic mixes have come together and make us a country that is experiencing one mass shooting if not more a day and we are here again with the targeting of a minority - of a black community and all three victims were black.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:50:01",
+      "speaker": "ACOSTA",
+      "sentences": "And Steve, if you can help us with this individual who obviously was a loser. He left behind manifestos and then grabbed a weapon and then terrorized innocent people. Why are we seeing and you - you've worked in law enforcement for a long time. Why are we seeing that scenario emerge time and again? What is going on? Is it something that a law enforcement person can answer?I mean I just - I'm just thinking about the rage in that sheriff's voice. He was absolutely furious talking about this and I can't - I can totally understand why when you look at what just took place in his community ...",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:50:01",
+      "speaker": "MOORE",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:50:01",
+      "speaker": "ACOSTA",
+      "sentences": "... earlier this afternoon, it is infuriating and what's maddening about it, because we saw this happen in Boston or excuse me in Buffalo. It just keeps happening over and over again.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:55:03",
+      "speaker": "ACOSTA",
+      "sentences": "Can you explain that?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:55:03",
+      "speaker": "MOORE",
+      "sentences": "... held or - yes, Baker Act is a situation in Florida where you can - family members can actually have you held, detained or even forced into some kind of treatment because of a mental illness. That was, what, six years ago, and this guy shows up with an AR-15 and that AR-15 from the manufacturer's thing it's kind of an expensive boutique weapon and that's a late model Glock.And so these were not cheap weapons. How did he get these?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:55:03",
+      "speaker": "ACOSTA",
+      "sentences": "Mm-hm.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "18:59:41",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "This is CNN BREAKING NEWS.",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

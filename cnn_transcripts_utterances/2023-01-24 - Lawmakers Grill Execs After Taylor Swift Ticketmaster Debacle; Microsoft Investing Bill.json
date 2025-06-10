@@ -1,0 +1,337 @@
+{
+  "date": "2023-01-24",
+  "headline": "CNN Newsroom",
+  "subHeadline": "Lawmakers Grill Execs After Taylor Swift Ticketmaster Debacle; Microsoft Investing Billions in Company Behind ChatGPT; Top Gun and Avatar 2 Among Blockbusters Up for Best Picture. Aired 10:30-11a ET",
+  "utterances": [
+    {
+      "timeStamp": "10:30:00",
+      "speaker": "JIM SCIUTTO, CNN ANCHOR",
+      "sentences": "Right now on Capitol Hill, the CEO of Live Nation is testifying about the meltdown that happened when Taylor Swift's upcoming tour went on sale on the Ticketmaster site, which Live Nation owns. Millions of fans were locked out or had to spend hours on the site to get tickets. Senator Amy Klobuchar, who helped organize this hearing, says it is not just about Swift but a larger issue with competition for events like this.(BEGIN VIDEO CLIP) SEN. AMY KLOBUCHAR (D-MN):  Today, Live Nation doesn't just dominate the ticketing. It is about 70 percent of the big concert market. But also they own many of the major venues, and for the venues that they don't own, they tend to lock in on three, five, seven-year agreements, which means that the competitors that are out there aren't able to even compete when it comes to the ticketing. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:30:00",
+      "speaker": "ERICA HILL, CNN ANCHOR",
+      "sentences": "CNN's Matt Egan joins us now. Look, I think this is something that most people can get behind in terms of a frustration. They can't get the tickets. and when they do, they're crazy expensive. What are we hearing?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:30:00",
+      "speaker": "MATT EGAN, CNN REPORTER",
+      "sentences": "Well, Erica and Jim, Live Nation and Ticketmaster, they are facing a bipartisan backlash this morning. You know, the sale -- the Taylor Swift sale two months ago, it was botched so badly that it has actually set off the first Senate hearing of this year, and Ticketmaster, they are trying to shake it off, but that is --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:30:00",
+      "speaker": "HILL",
+      "sentences": "Oh, Matt Egan.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:30:00",
+      "speaker": "EGAN",
+      "sentences": "But that is not going to be easy because is just so much bad blood out there.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:30:00",
+      "speaker": "SCIUTTO",
+      "sentences": "Guys, can I come in for the thank you, please?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:30:00",
+      "speaker": "HILL",
+      "sentences": "There's so much bad blood out there. Sciutto, he's giving you a run for your money. SCIUTTO",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:30:00",
+      "speaker": "EGAN",
+      "sentences": "Thank you. Well, what is new here though is that the Live Nation executive, he is -- he's saying that this was being caused by kind of a perfect storm here. One, there was unprecedented demand for Taylor Swift tickets. Two, they faced this surge of bot traffic from scalpers, from, they say, scalpers. And for the first time, Live Nation is also pinning the blame on cyberattacks. Listen to what Joe Berchtold said about this just now.(BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:30:00",
+      "speaker": "JOE BERCHTOLD, LIVE NATION PRESIDENT",
+      "sentences": "$5 billion industry in concerts alone in the United States fueled by practices that run counter to the interest of artists and their fans. The recent on sale experience with Taylor Swift, one of the world's most popular artists, has highlighted the need to address these issues urgently. We knew bots would attack that on sale and planned accordingly. We were then hit with three times the amount of bot traffic that we've ever experienced and for the first time in 400 verified fan on sales, they came after our verified fan pass password servers as well.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:30:00",
+      "speaker": "EGAN",
+      "sentences": "And so he went on to say that this is what led to the terrible consumer experience and that they were forced to slow down or even pause the sale. Live Nation, they apologized to disappointed fans as well as to Taylor Swift.But this whole debacle has shined a bright light on what is normally kind of an arcane issue, and that is the idea that some giant corporations have just gotten too dominant, that they have too much power, that they can charged fees that consumers have no choice but to pay. And that is central point here, is whether or not Live Nation and Ticketmaster have become a monopoly, a monopoly that is hurting consumers.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:30:00",
+      "speaker": "HILL",
+      "sentences": "Which I think you would hear from a number music fans that they have, that is certainly --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:30:00",
+      "speaker": "EGAN",
+      "sentences": "Music fans and some musicians.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:30:00",
+      "speaker": "HILL",
+      "sentences": "Yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:30:00",
+      "speaker": "SCIUTTO",
+      "sentences": "Listen, we've all been through it. The company is saying -- you can say,, you don't blame me, right, Erica, but I don't want any bad blood with Matt Egan here.Hey, this is all I know of Taylor Swift songs. So, I'm doing my best here.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:30:00",
+      "speaker": "HILL",
+      "sentences": "He's lying. He has such a repertoire.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:30:00",
+      "speaker": "SCIUTTO",
+      "sentences": "But it's a real issue, no question. We've all been through it. HILL",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:30:00",
+      "speaker": "SCIUTTO",
+      "sentences": "Matt Egan, thanks so much.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:30:00",
+      "speaker": "EGAN",
+      "sentences": "Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:35:03",
+      "speaker": "BLAND",
+      "sentences": "Well, each side is walking on that razor's edge. The defense thinks that there are still a significant contingent in the county that do have favorable impressions of the Murdaughs. And Dick Harpootlian has spent a significant time with jury consultants and different people in the local to focus on getting one or two of jurors on that jury who will be advocates for him and could possibly be a not guilty verdict.The state on the other hand thinks that the Murdaughs have burned all the goodwill that they've had in those counties for all of the years that they've done because Alex has committed so many despicable crimes. I mean, he checks the boxes of being a serial pen slinger, of stealing money from family, friends, clients, law partners. He's an income tax evasion. He tried to shoot himself on Labor Day and now he's accused of the ultimately crime of killing your spouse and then that one step further, that you rarely hear about, a parent killing a son. So, the state feels that that goodwill, whatever existed, has been burned and that in this small county, there are very conservative jurors who are law and order types and state is banking on that these jurors will be more disposed to their case as opposed to the defense that is going to be mounted.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:35:03",
+      "speaker": "HILL",
+      "sentences": "I mean, details that have come out since these initial deaths, right, just in these last couple of years --",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:35:03",
+      "speaker": "BLAND",
+      "sentences": "Shocking.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:35:03",
+      "speaker": "HILL",
+      "sentences": "-- there were new criminal investigations reopened into the death of Gloria Satterfield. He's facing more than 100 criminal charges, 12 lawsuits. Eric, appreciate your insight. Thanks for being with us this morning.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:35:03",
+      "speaker": "BLAND",
+      "sentences": "Sure. Have me on any time. Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:40:00",
+      "speaker": "SCIUTTO",
+      "sentences": "Microsoft is now making a multi-billion dollars investment in the company behind the viral new chat bot tool called ChatGPT. When put to the test, the chat bot has answered questions with responses that appears if a real human being wrote it. It is remarkable and a little bit scary stuff.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:45:00",
+      "speaker": "GARY MARCUS, PROFESSOR EMERITUS OF PSYCHOLOGY AND NEURAL SCIENCE, NYU",
+      "sentences": "I think they should have a mixed view.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:45:00",
+      "speaker": "YURKEVICH",
+      "sentences": "OpenAI, which owns ChatGPT, says the technology is still in its research phase and can produce inaccurate information.You like artificial intelligence, but are you here to issue a warning about it?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:45:00",
+      "speaker": "MARCUS",
+      "sentences": "Absolutely. Artificial intelligence is sort of like a teenager right now. It is exciting to see a teenager like get its footing but it is also not there yet and we can't trust it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:45:00",
+      "speaker": "YURKEVICH",
+      "sentences": "But Microsoft thinks it is a good bet even with some risks. They're investigating billions of dollars in OpenAI. Jack Po, CEO of Ansibel Health, had ChatGPT take three versions of the U.S. medical licensing test, and it passed all three.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:45:00",
+      "speaker": "JACK PO, CEO, ANSIBEL HEALTH",
+      "sentences": "Not only can it answer very complex questions, it can also modulate its answer.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:45:00",
+      "speaker": "YURKEVICH",
+      "sentences": "Po and his team of 30 doctors started using the platform to help with treatment for their patients who have COPD, a pulmonary disease. PO",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:45:00",
+      "speaker": "YURKEVICH",
+      "sentences": "Jake Heller is a lawyer and founder of Casetext, which helps its clients comb through documents using A.I., like ChatGPT.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:45:00",
+      "speaker": "JAKE HELLER, FOUNDER, CASETEXT",
+      "sentences": "You can have it read police reports. You can have it see if witnesses gave contradictory testimony. You can almost certainly help find information that is pertinent to guilt or innocence.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:45:00",
+      "speaker": "YURKEVICH",
+      "sentences": "But Po and Heller both say that human oversight of ChatGPT is still necessary. OpenAI says the platform can produce harmful instructions.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:45:00",
+      "speaker": "HELLER",
+      "sentences": "In law, there absolutely is right and wrong answers. And that is why ChatGPT alone is not going to be enough to handle some of the most importance questions in fields like law.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:45:00",
+      "speaker": "YURKEVICH",
+      "sentences": "And then there is the question of plagiarism. New York City public schools banned ChatGPT on school network devices due to concerns about negative impacts on student learning and concerns regarding the safety and accuracy of content.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:45:00",
+      "speaker": "EDWARD TIAN, FOUNDER, GPTZERO",
+      "sentences": "It is incredible innovation but at the same time it is like opening a Pandora's Box.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:45:00",
+      "speaker": "YURKEVICH",
+      "sentences": "Which is why Edward Tian, a 22-year-old Princeton student himself, spent his winter break building GPTZero, which he says can detect whether something is likely written by a human or ChatGPT. He says teachers use it to check their students' papers.Is this like one A.I. cross-checking another A.I.?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:45:00",
+      "speaker": "TIAN",
+      "sentences": "In a sense, yes.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:45:00",
+      "speaker": "YURKEVICH",
+      "sentences": "But can it spot misinformation?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:45:00",
+      "speaker": "TIAN",
+      "sentences": "Oh, okay. Yes. So, as opposed to misinformation, it is more of like it can only spot if something is A.I.-generated or human- generated.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:45:00",
+      "speaker": "YURKEVICH",
+      "sentences": "And that is the greatest fear of all, spreading misinformation. ChatGPT, a tool designed to help humanity, could ultimately hurt it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:45:00",
+      "speaker": "MARCUS",
+      "sentences": "People who want to manipulate elections and things like that, instead of like writing one thing at a time, you could write thousands of things to give, for example, vaccine denialism more oxygen than it deserves.(END VIDEOTAPE) YURKEVICH (on camera):  And Gary Marcus there went on to say that we are about 75 years away from the place where artificial intelligence, like ChatGPT, is human-like. So, until then, he says that we need regulation. And just this week, Representative Ted Lieu from California announced that he would be introducing legislation that would create a commission on A.I. because, yes, this is a marvel but we still don't know a lot about it. And until then, many experts say there needs to be some formal regulation in place. Jim and Erica?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:45:00",
+      "speaker": "SCIUTTO",
+      "sentences": "But the question is did he say 75 years or did the machine say 75 years.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:45:00",
+      "speaker": "YURKEVICH",
+      "sentences": "He did.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:45:00",
+      "speaker": "HILL",
+      "sentences": "That's a great question, a very good question.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:45:00",
+      "speaker": "SCIUTTO",
+      "sentences": "Vanessa Yurkevich, thanks so much.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:45:00",
+      "speaker": "YURKEVICH",
+      "sentences": "Thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:50:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "What the hell.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:50:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Good morning aviators. This is your captain speaking.(END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:50:00",
+      "speaker": "HILL",
+      "sentences": "Top Gun Maverick one of three blockbusters getting a nod this morning for best picture when the Academy Award nominations were announced. Elvis and Avatar 2 also named in that category.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:50:00",
+      "speaker": "SCIUTTO",
+      "sentences": "Top Gun Maverick was damn good.Let's go to CNN Entertainment Reporter Chloe Melas. Chloe, it is a major shift with this focus on a big blockbuster that we haven't seen in a long time",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:55:03",
+      "speaker": "SCIUTTO",
+      "sentences": "It sounds good to me.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:55:03",
+      "speaker": "HILL",
+      "sentences": "So much happening, so much to get excited about. I have a lot of homework to do because I have not seen much. Although I agree, Top Gun was great.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:55:03",
+      "speaker": "MELAS",
+      "sentences": "I'll message you the list, Erica.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "10:55:03",
+      "speaker": "HILL",
+      "sentences": "Perfect. I knew I could count on you, Chloe. Thank you.Thanks to all of you for joining us today. I'm Erica Hill.",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}

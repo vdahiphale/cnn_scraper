@@ -1,0 +1,529 @@
+{
+  "date": "2023-04-12",
+  "headline": "CNN Newsroom",
+  "subHeadline": "Classified U.S. Military Documents Leak Prompts Urgent Investigation; Joe Biden Lands In Northern Ireland To Mark Peace Deal Anniversary; Italy Declares State Of Emergency As Migrant Numbers Surge; Israel Bans Non-Muslim Visits To Al-Aqsa Compound Until Ramadan End; Shadow Government-Military Attack on Village Kills Around 100; Taiwan Foreign Minister: China Getting Ready to Launch a War; Community Mourns Victims of Bank Shooting; Life Inside Lefortovo; Border Policies Raise Concerns. Aired 1-2a ET",
+  "utterances": [
+    {
+      "timeStamp": "01:00:22",
+      "speaker": "JOHN VAUSE, CNN ANCHOR",
+      "sentences": "Hello, I'm John Vause. Ahead on CNN Newsroom. Hiding in plain sight. New questions over how classified U.S. intelligence went unnoticed for months that's been dumped on a little use in that chat site.U.S. president is in Northern Ireland celebrating 25 years of the Good Friday peace deal, a landmark agreement which stopped the violence, but may have deepened sectarian divides, and total isolation and other silence, inside one of Russia's most notorious prisons now home to jailed American journalist accused of spying.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:00:22",
+      "speaker": "ANNOUNCER",
+      "sentences": "Live from CNN Center, this is CNN Newsroom with John Vause.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:00:22",
+      "speaker": "VAUSE",
+      "sentences": "The director of the CIA, the U.S. Defense Secretary and Secretary of State have all spoken publicly for the first time Tuesday on the leak of classified documents from the Pentagon, all seem to be on the same page. The breach is extremely serious and investigation is ongoing. And they don't seem to know much more beyond that, details now from CNN's Oren Liebermann reporting in from the Pentagon.(BEGIN VIDEOTAPE) OREN LIEBERMANN, CNN PENTAGON CORRESPONDENT (voiceover): Top U.S. officials trying to get ahead of the damage caused by a leak of highly sensitive documents. LLOYD AUSTIN, U.S. DEFENSE SECRETARY: I will tell you that we take this very seriously. And we will continue to investigate and turn over every rock until we find the source of this and the extent of it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:00:22",
+      "speaker": "LIEBERMANN",
+      "sentences": "Defense Secretary Lloyd Austin promising results from an investigation just getting underway. While Secretary of State Antony Blinken worked to reassure foreign nations. ANTONY BLINKEN, U.S. SECRETARY OF STATE",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:00:22",
+      "speaker": "LIEBERMANN",
+      "sentences": "The Department of Justice is handling the criminal investigation of the leaks while DoD is part of a broader look into how the leaks have impacted national security. The leaks have reached across the globe revealing U.S. spying on adversaries including Russia and China but also on U.S. allies and partners among them Israel, South Korea and many more.Some of the documents reviewed by CNN offers sensitive details on Ukraine's military capabilities or lack thereof, including critical shortages of air defenses and overall casualty assessments after more than a year of war. Ukrainian officials downplayed the significance of the leaks saying some of the information wasn't secret at all. But a source close to Ukrainian president Volodymyr Zelenskyy says the military has already changed some of its plans because of the leaks. In a new set of leaked documents obtained by the Washington Post, the U.S. learned Egyptian President Abdel Fattah El-Sisi was considering providing 40,000 rockets to Russia for its war in Ukraine, but to do so quietly to avoid problems with the West since Egypt is one of the largest recipients of U.S. military aid. CNN has not seen the documents and cannot confirm their authenticity. Egyptian state media called the report an informational absurdity while the Kremlin called it another hoax and the U.S. says they've seen no signs of Egypt providing lethal aid to Russia, but it underscores the far reaching consequences of the leaks. CHRIS MURPHY, U.S. SENATE FOREIGN RELATIONS COMMITTEE: I want a briefing on the logistics right on how this information got out there. But we also need to get briefings on the substance.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:00:22",
+      "speaker": "LIEBERMANN",
+      "sentences": "The leaked documents appear to be part of a daily intelligence briefing prepared for the Pentagon senior leaders official said, the documents can be accessed by hundreds if not thousands of people across the government with a proper security clearance.LIEBERMANN (on camera): It's not just a question of the number of people who had access to information like this, but how it's disseminated either through tablets rigged to have top secret information on them also printed out as we've seen through the documents, and simply forwarded via emails either in whole or in excerpts depending on the classification level. Some of that creates an electronic track that can be looked after and investigated, but not all of it. And that adds to the complications in investigating something like this and trying to figure out the motive behind it. Oren Liebermann, CNN at the Pentagon. (END VIDEOTAPE) VAUSE: Joining us this hour of CNN national security analyst and former Director of National Intelligence, James Clapper, Mr. Clapper, thank you for being with us.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:00:22",
+      "speaker": "JAMES CLAPPER, CNN NATIONAL SECURITY ANALYST",
+      "sentences": "Well, thanks for having me.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:00:22",
+      "speaker": "VAUSE",
+      "sentences": "Pleasure. Now, at a news conference, the Secretary of Defense he was asked how this information is classified input information could be available on the web, available to anyone who could find it for months up until he was officially briefed just last week, here's his response. Listen to this.(BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:05:05",
+      "speaker": "VAUSE",
+      "sentences": "You know, he really didn't answer the question. So let me put it to you. How concerned are you that this information could have been freely available to anyone on the internet for months, essentially, without U.S. intelligence officials doing anything about it?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:05:05",
+      "speaker": "CLAPPER",
+      "sentences": "Well, John, your question is reinforces why I'm glad I'm not the government anymore. It's a tough question. This is very unusual. I mean, we have a long -- unfortunately, a long history of intelligence breaches, but never won in this manner.You know, using the internet, and it is strange that these catches of intelligence information went unnoticed, and apparently obscure platforms on social media. So that's a question that needs to be answered. And hopefully, we'll learn what happened here. And the future can preclude it. But I think Secretary Austin just being honest. This is a new twist. And they're going to have to sort it out.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:05:05",
+      "speaker": "VAUSE",
+      "sentences": "Just in the bigger picture here. How much of this problem can be traced back to this ongoing problem of essential over classification of information?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:05:05",
+      "speaker": "CLAPPER",
+      "sentences": "Well, you know, I really don't think that's the issue over classification or procedural problems. The issue is, with someone's personal integrity and personal trust, and that continues to be the weak link in this whole system. And classification is a -- over classification, perhaps is a problem. But I don't think it is really the central issue here.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:05:05",
+      "speaker": "VAUSE",
+      "sentences": "OK, I want you to listen to the CIA director, who was speaking on Tuesday night about the urgency of dealing with this leak. Here he is.(BEGIN VIDEO CLIP) WILLIAM BURNS, CIA DIRECTOR: The deeply unfortunate leak of classified documents is certainly as intense as anything and that now part of the inbox as well. And, you know, it's something that the US government takes extremely seriously. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:05:05",
+      "speaker": "VAUSE",
+      "sentences": "And these documents appear to be part of daily intelligence briefing and briefing deck. And here's CNN reporting on that. And who has access to that, on any given day, the slides in that deck can be properly accessed by hundreds, if not thousands of people across the government, officials told CNN.It seems the Department of Justice will need to cast a pretty wide net to find whoever did this given the number of potential suspects, you know, it could be numbering in the thousands. So does that mean the leak may never be caught?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:05:05",
+      "speaker": "CLAPPER",
+      "sentences": "Well, I don't know. This is going to require some unprecedented forensic analysis. And I think would start rather than casting a wide net, it probably is the approach would be more precise to the extent that there's any evidence, any signature, any footprint that remains out there or there was observed and trying to try and backtrack that.I think, you know, casting the big net was from on your right among the hundreds or maybe thousands of people that might not have access to this is probably not going to be very productive.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:05:05",
+      "speaker": "VAUSE",
+      "sentences": "Well, the U.K. Defense Ministry tweeted about the leak on Tuesday, the widely reported leak of alleged classified use information has demonstrated a serious level of inaccuracy. Readers should be cautious about taking at face value allegations that have the potential to spread this information.At the same time the South Koreans seem to be taking a similar line to that now walking back what they said on Monday. Listen to this. (BEGIN VIDEO CLIP) KIM TAE-HYO, SOUTH KOREAN PRINCIPAL DEPUTY NATIONAL SECURITY ADVISER (through translator): The two countries have the same view that a great deal of disclosed information was fabricated. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:05:05",
+      "speaker": "VAUSE",
+      "sentences": "The Egyptians are saying a similar thing about the deals of supplied missiles to Russia. They say its disinformation. The UAE says the same thing about reports of a deal that it was working with Russia against U.S. interests. They say that's disinformation.Is that a coincidence that it seems that everyone is now on the same page? Even countries like South Korea that weren't on the same page just today? They've all come together?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:10:00",
+      "speaker": "VAUSE",
+      "sentences": "Thank you very much, James Clapper. We appreciate your time. So thank you.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:10:00",
+      "speaker": "CLAPPER",
+      "sentences": "Thanks.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:10:00",
+      "speaker": "VAUSE",
+      "sentences": "Joe Biden has now arrived in Northern Ireland. The start of a four day visit to the region which coincides with the 25th anniversary of the U.S. brokered Good Friday peace agreement. Air Force One touchdown in a country, which has not had a functioning elected government for more than a year, public services have been slashed and with a sea of red ink, and the terrorism threat level has recently been raised to severe.British Prime Minister Rishi Sunak greeted the U.S. president on the tarmac. Both leaders will be meeting again for talks in the coming hours. President Biden will also meet with the leaders of all five political parties, which make up Northern Ireland's power sharing agreement, a legacy of the Good Friday peace deal, but one which many believe has led to the current political dysfunction gripping the country. The Northern Ireland Assembly has been shut down for more than a year with one of the main parties. The Pro Britain Democratic Unionists refusing to enter power sharing arrangement as mandated by the Good Friday deal. At issue is a post Brexit trade deal, which the DUP says isolated Northern Ireland from the UK. (BEGIN VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:10:00",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "What's your top priority on this trip, sir?JOE BIDEN, U.S. PRESIDENT: Make sure the Irish accords and the winter ribbon stay in place to keep the peace. That's the main thing. And it looks like we're going to keep your fingers crossed. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:10:00",
+      "speaker": "VAUSE",
+      "sentences": "Live down to Belfast, Northern Ireland CNN's Kevin Liptak. So Kevin, is there any time on this schedule, which maybe could be used for negotiations to try and find some kind of compromise over this post Brexit trade dispute get this government working again?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:10:00",
+      "speaker": "KEVIN LIPTAK, CNN WHITE HOUSE REPORTER",
+      "sentences": "Yes, and that is actually on the schedule today. President Biden is supposed to meet separately with the leaders of the five parties in Northern Ireland who comprise this power sharing government. But of course, it remains to be seen whether he will have any success in trying to cajole them back into government to really sort of address the needs that the Northern Irish people really want to see addressed here in Northern Ireland.Of course, President Biden is coming here to try and celebrate the Good Friday Agreement, 25 years of the Good Friday Agreement, but this is really kind of overshadowing his attempts to mark the progress that has been seen in those in that half, or in that quarter century since that agreement was signed. And so he will meet with Rishi Sunak, as well, on the side. That will certainly be a main topic of discussion as they speak. But certainly both of those leaders would have hoped that this disagreement would have been settled by the time President Biden arrived here in Northern Ireland. He's only here for around 15 hours. And you do hear some disappointment that he isn't spending more time talking about the Good Friday Agreement, the legacy of this, a U.S. brokered deal that did bring an end to that sectarian violence. Of course, you also see the lingering remnants of some of that violence ahead of the President's visit. You saw clashes between Republican dissidents in Derry on Monday. And I think one thing that was so disappointing to some people here was how young some of those dissidents were. They were really just young teen -- teenagers, really the sort of people for whom the Good Friday Agreement was really supposed to change things. And when the President speaks later today, he won't be speaking to lawmakers. He will be speaking to young people at Ulster University really trying to focus on the future of this country of this territory, and not necessarily it's bloody past. John.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:10:00",
+      "speaker": "VAUSE",
+      "sentences": "Kevin, just very quickly, has there been any talk about the fact that Joe Biden has spent at least three days tracing back his ancestral roots, but he doesn't have time later this month to visit the coronation of King Charles III?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:15:05",
+      "speaker": "VAUSE",
+      "sentences": "Nicely brought back round to the very first question. Kevin, we appreciate that. Kevin Liptak out there in Belfast, thank you for the early shift.Well, citizens parliament has rejected $120 billion bailout for Credit Suisse vote is symbolic and beyond that pointless because the government has already committed the financial guarantees and the decision cannot be overturned by lawmakers. Zurich (ph) based UBS has taken over Credit Suisse after its collapse last month. But there has been criticism and frustration within Switzerland over the use of public funds to bail out a bank. Up next, rescue at sea, 1,200 people on board two boats now being escorted to a point by at least up -- to a port rather by Italy's Coast Guard, just a snapshot of a current surge in asylum seekers making a dangerous journey because open seas often in unseaworthy boats. And later this hour how Israel is trying to ratchet down temperatures at one of the world's holiest sites red (ph) violets from escalating across the region. (COMMERCIAL BREAK)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:20:09",
+      "speaker": "VAUSE",
+      "sentences": "For more join live by Giorgia Linardi, spokesperson for Sea- Watch Italy, a nonprofit organization, which conducts search and rescue operations in the Central Mediterranean, Giorgia, thank you for taking the time to be with us.GIORGIA LINARDI, SPOKESPERSON, SEA-WATCH ITALY: Thank you. Hi.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:20:09",
+      "speaker": "VAUSE",
+      "sentences": "OK, so right now at this hour, there are two boats with 1,200 people on board presumably men, women, children slowly heading for Italy with a Coast Guard escort at least one of these boats is believably taking on water right out has medical emergencies on board. So what is the latest information you have?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:20:09",
+      "speaker": "LINARDI",
+      "sentences": "So the latest information we have is that the rescue operation should be almost terminated so all the people should be able to reach the coast of Italy by the end of the morning. They have -- they are being disembarked in to location in Italy, in Sicily and in Calabria.We have cited one of these boats, the one carrying about 400 people two days ago with our iron monitoring asset, Seabird. And yesterday we decided two more boats. We did 400 people each in, again, in the Maltese a search and rescue zone. Also, an Italian Navy helicopter was on scene.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:20:09",
+      "speaker": "VAUSE",
+      "sentences": "Yes, the Maltese rescue zone area seems to be kind of problematic. Few days ago, your organization tweeted this. We've had a boat with 400 people in distress nearby two merchant ships that are ordered not to rescue. Instead, one was asked by Malta to only supply the boat with fuel. 400 people in a danger of death, the E.U. must act immediately. Who specifically gave the no rescue order? And why?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:20:09",
+      "speaker": "LINARDI",
+      "sentences": "This is actually not a new practice from Malta who tries to delegate responsibilities over rescue towards Italy. It's not the first time that we hear about Maltese authorities providing indication to give fuels so that the boat can continue towards Italy rather than rescuing them has international law would ask for.International conventions on search and rescue call for the cooperation among states to ensure the timely rescue of people in distress. And this is not what is happening in the past years in particular since the implementation of the bilateral treaty between Italy and Libya, which has delegated the rescues to the Libyan coast guards, which means that people are intercepted at sea and sent back to Libya, which is not a safe country. And they will likely try again to cross the Mediterranean Sea. So this is actually a policy that is not providing any solution. And the numbers of arrivals these days and updates that you mentioned already are, I mean, a clear indication of that. As a result, Italy has declared a state of emergency yesterday to deal with the increased number of arrivals.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:20:09",
+      "speaker": "VAUSE",
+      "sentences": "You know, right now how many more boats are out there do you think? And what is driving the surge in migrants who are willing to make this dangerous journey?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:20:09",
+      "speaker": "LINARDI",
+      "sentences": "Well, there are different reasons for which people leave their countries it can be war, it can be very -- it's increasingly related to climate change. It can be related to internal conflicts. It's really a variety of reasons. But what we know is that regardless of the reason anyone in distress at sea is it could be a migrant, it could be a banker, a banker, it could be a student, it could be a plumber. The point is any human being in distress at sea should be rescued as soon as possible and brought to say, to save land.Now we have an issue related to the possibility of these people to claim asylum because in Europe, we have the rule of the only chance to ask for asylum in the first country of arrivals. So there is a big issue of lack of shared responsibility at European level, difficult to say how many more people are right now in distress at sea. I can tell you that since Saturday, our Iran (ph) monitoring plane as cited 21 boats in distress for a total of almost 1,500 people.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:20:09",
+      "speaker": "VAUSE",
+      "sentences": "Just very quickly, the first couple of months of this year, the numbers of triple, even quadruple according to some sources. So why that increase that particularly increase compared to last year?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:25:00",
+      "speaker": "VAUSE",
+      "sentences": "Yes, Giorgia, sorry for jumping that, but thank you so much. Yes, it's often difficult to work out why these things are happening. They just tend to happen as they do. So, we appreciate you being with us. Appreciate all your information you're able to give us. Thank you. OK.A 10-day ban now in place preventing non-Muslims from a sacred site in Jerusalem's old city known to Jews as the Temple Mount, and to Muslims is Haram al Sharif. The decision by Israel's government to only allow Muslims into the side comes after an escalation in violence after Israeli police raided the Al-Aqsa mosque twice. The ban will be lifted at the end of the Muslim holy month of Ramadan, which has coincided this year with the Jewish holiday of Passover making for a volatile situation. And Benjamin Netanyahu is far right National Security Minister is among those objecting to this temporary ban. And that really comes as no surprise, yet another example of the Prime Minister's problems controlling his own government from Jerusalem. Here's Hadas Gold with details. (BEGIN VIDEOTAPE) HADAS GOLD, CNN JERUSALEM CORRESPONDENT (voiceover): When Benjamin Netanyahu entered office for his third stint in December, he did so only with the support of far-right parties once considered the fringe of Israeli politics. But when asked by CNN's Jake Tapper about their influence in his government, he brushed them off, but",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:25:00",
+      "speaker": "BENJAMIN NETANYAHU, ISRAELI PRIME MINISTER",
+      "sentences": "I've got my two hands on the wheel and believe me, it's going to be a good direction",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:25:00",
+      "speaker": "GOLD",
+      "sentences": "Even if Netanyahu's hands are on the wheel, people like National Security Minister Itamar Ben-Gvir are making it a bumpy ride.AMIT SEGAL, CHIEF POLITICAL COMMENTATOR CHANNEL 12 NEWS: I think Netanyahu got his hands on the steering wheel, but he has Ben-Gvir smooth rich with the leg on the gas. Netanyahu is the prime minister no doubt. But he's not the leader of this government.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:25:00",
+      "speaker": "GOLD",
+      "sentences": "Now overseeing the Israeli police, who's multiple raids into the Al Aqsa Mosque last week after Palestinians barricaded themselves inside helped spark rocket fire from Lebanon and Gaza. Former Prime Minister Yair Lapid calling on Netanyahu to strip Ben-Gvir of his police powers over the holy sites. YAIR LAPID, HEAD OF YESH ATID (through translator)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:25:00",
+      "speaker": "GOLD",
+      "sentences": "On Monday, Ben-Gvir marching alongside thousands of Israeli settlers to an outpost still deemed illegal under this government, as Palestinians clashed with Israeli security nearby.Last month, protests against Netanyahu's massive judicial overhaul plan exploded into the biggest general strike in Israeli history. For hours, Netanyahu was nowhere to be seen, just to tweet urging protesters to behave responsibly. Instead, the news of a pause to the legislation came in the form of a statement from Ben-Gvir, who seemed to be the final stumbling block before the pullback could be announced. Guaranteed a new National Guard under his ministry in exchange for agreeing to the past, although he promised his supporters that the overhaul will still happen.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:25:00",
+      "speaker": "EHUD BARAK, FORMER ISRAELI PRIME MINISTER",
+      "sentences": "So that's a lunatic type of Netanyahu, which shows to what extent he cannot make a (INAUDIBLE) judgment.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:25:00",
+      "speaker": "GOLD",
+      "sentences": "Now even Netanyahu's own former top lieutenants are questioning his judgment.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:25:00",
+      "speaker": "EFRAIM HALEVY, FORMER MOSSAD HEAD",
+      "sentences": "I believe that Benjamin Netanyahu of today is not the Benjamin Netanyahu that I knew when he appointed me head of Mossad. And I agree for this, but I cannot accept that he could or should continue and lead the country.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:25:00",
+      "speaker": "GOLD",
+      "sentences": "As Israel quickly approaches its 75th Independence Day, Netanyahu driving the country into unknown territory. Hadas Gold, CNN, Jerusalem.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:32:01",
+      "speaker": "VAUSE",
+      "sentences": "Welcome back. I'm John Vause. You're watching CNN NEWSROOM.When Myanmar's military dictators seized power, they promised the emergency measures to restore peace and security would last for two years, would then be followed by a sham election. February was the two-year anniversary of the coup and the security situation across the country is worse than ever. And now it seems the military is increasingly using air strikes on civilians to try and quell the unrest. In the latest strike, at least 100 people were left dead. A warning, the images you're about to see are graphic. These photos show the bodies of the victims as well as destroyed buildings, vehicles and debris. The ousted civilian administration says children and pregnant women are among the dead and wounded. The national unity government calls it a heinous act which constitutes a war crime. Local media reports Myanmar's military dropped two bombs and then fired from a helicopter gunship on the northern village as people were gathering for the opening of a new town office on Tuesday. Reuters reports the junta says it carried out an attack targeting rebels and if civilian casualties it was because they were forced to help quote, \"terrorists\". (BEGIN VIDEO CLIP) ZAW MIN TUN, MYANMAR'S JUNTA SPOKESPERSON, (through translator): Yes. Of course, we had launched the attack on them. We were informed that PEF were killed at that event under the attack. They are opposing our government. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:32:01",
+      "speaker": "VAUSE",
+      "sentences": "Tom Andrews is the U.N. special rapporteur for Myanmar. He is with us this hour from Washington.Tom, thank you for taking time to speak with us. TOM ANDREWS, U.N. SPECIAL RAPPORTEUR FOR MYANMAR: Thank you John.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:32:01",
+      "speaker": "VAUSE",
+      "sentences": "So here's a tweet with a question for the U.N. from the leader of the national shadow government in Myanmar.\"Heartbroken by the latest aerial massacre in Sagaing. The Myanmar Junta continues to commit brutal atrocities, killing at least 50 including children. I implore the U.N. How many more massacres must occur before you take action? How much longer will our people suffer under this?\" So how many more massacres, Tom? Ten, a hundred, 200 -- how many more dead children before anyone notices, before anyone cares?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:34:58",
+      "speaker": "ANDREWS",
+      "sentences": "And unlike the coordinated approach that we've seen with respect to the crisis in Ukraine, the international response in Myanmar has been anything but focused and strategic.That is exactly the kind of response that the people of Myanmar are looking for. But have yet to be seen by the international community.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:34:58",
+      "speaker": "VAUSE",
+      "sentences": "I'm not quite sure they'll be addressed to member states. Because unless the member states act, the U.N. can't do a whole lot.Now, at the time of the coup two years ago, military dictators said they would hold on to power for two years. Emergency measures they said to restore calm and security, not that it needed restoring but that's what they said. They'll probably be holding sham elections by now but the security situation has only gotten worse. So is that why there has been this increase in the use of air power, war planes, helicopter gunships targeting civilians. And does that mean these atrocities are likely to continue and occur more often?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:34:58",
+      "speaker": "ANDREWS",
+      "sentences": "They are likely to continue, John. We've seen a significant uptick in the use of helicopter gunships and these jets, fighter jets that are dropping bombs on villages, IVP (ph) centers and other civilian targets in Myanmar.The problem for the junta is that they expect -- fully expect that they have complete control of the country by now. And that they could run these sham elections. Well, they're losing control of the country, they're losing ground. Things are much more unstable on the ground than they've ever been and they continue to become more and more unstable.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:34:58",
+      "speaker": "VAUSE",
+      "sentences": "You know, Amnesty International had a very practical solution which might have at the least slowed these attacks. Here's a quote, \"The relentless air attacks across Myanmar highlight the urgent need to suspend the import of aviation fuel.\"Amnesty reiterates its call on all states and businesses to stop shipment that may end up in the hands of the Myanmar air force. You know, an embargo on av gas would seem to be the absolute minimum that governments worldwide could do. This is low hanging fruit.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:34:58",
+      "speaker": "ANDREWS",
+      "sentences": "Well, John listen. Whatever we can do to ground those aircraft, that's going to save lives. And if they can't fuel up, they're not going to get into the air.Now, of course, there's all kinds of ways that the junta will find to get around these embargoes but anything we can do to make it more difficult, more expensive for them to put these gunships in the air could kill people to get their hands on weapons, to get their hands on technology that's being used and as weapons. Materials that are being used to produce weapons. Anything that the world can do to stop these materials getting into the hands of the junta, that can save lives. And I think we should be listening to all of those who have any and every suggestion and not just condemn with words these atrocities but actually do something about it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:34:58",
+      "speaker": "VAUSE",
+      "sentences": "Yes. There comes a point where words just are cheap. Actions really matter. And it's the time right now so thank you, sir.Thanks for being with us.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:34:58",
+      "speaker": "ANDREWS",
+      "sentences": "My pleasure John. Thanks for having me.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:34:58",
+      "speaker": "VAUSE",
+      "sentences": "Taiwan's foreign minister has condemned China's simulated strikes around the island over the weekend. In an exclusive interview with CNN's Jim Sciutto, Joseph Wu says it seems Beijing may be preparing to launch a war against Taiwan.Here's part of their conversation. (BEGIN VIDEO CLIP) JIM SCIUTTO, CNN CHIEF U.S. SECURITY CORRESPONDENT: Is Beijing in your view threatening Taiwan with war?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:34:58",
+      "speaker": "JOSEPH WU, TAIWANESE FOREIGN MINISTER",
+      "sentences": "Yes, indeed. Look at the military exercises then also their (INAUDIBLE). They seem to be trying to get ready to launch a war against Taiwan.But if we look at the U.N. charter, the most fundamental (INAUDIBLE) in resolving international disputes should be through peaceful means. And Beijing's way of handling the differences between Taiwan and China is through coercion, military threat and the threat to use force against Taiwan. And these are unacceptable and therefore the Taiwanese government look at the Chinese military threat as something that cannot be accepted and we condemn it.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:34:58",
+      "speaker": "SCIUTTO",
+      "sentences": "Does Taiwan have today what it needs to defend itself.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:40:01",
+      "speaker": "SCIUTTO",
+      "sentences": "These exercises, of course, follow the visit of the Taiwanese president to the U.S. including meetings among them with the House Speaker Kevin McCarthy. Is there any regret on the Taiwanese side about this visit? Is it your view, your concern that the costs are too high?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:40:01",
+      "speaker": "WU",
+      "sentences": "No. The president of Taiwan -- whether it's President Lee, President Chen, President Ma or President Tsai who had been visiting our diplomatic allies in Latin America and with transit through the United States and it's been going on for decades.And therefore, China should not make an exception out of these transits through the United States. China cannot dictate how Taiwan makes friends. And China cannot dictate how our friends want to show support to Taiwan.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:40:01",
+      "speaker": "SCIUTTO",
+      "sentences": "You mentioned outside support for Taiwan's defense. More than once President Biden has said that the U.S. will defend Taiwan militarily if China were to attack. As you know, oftentimes his advisors will then say that the U.S. policy has not changed but then the president will say it again. The U.S. will defend Taiwan militarily.Does Taiwan believe that the U.S. would come to Taiwan's defense militarily if China were to invade?",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:40:01",
+      "speaker": "WU",
+      "sentences": "Well, there are different things the United States can do in an event of a Chinese military attack against Taiwan. But we have also made it very clear, defending Taiwan is our own responsibility. It's our freedom. And it's our democratic way of life and it's our sovereignty.We want to defend ourselves. And what we see is that the United States seem to be more determined than ever in creating a situation that China would know that its military attack against Taiwan is going to be associated with a heavy cost. And we appreciate the United States for having this posture. (END VIDEO CLIP)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:40:01",
+      "speaker": "VAUSE",
+      "sentences": "Taiwan's foreign minister Joseph Wu speaking there to Jim Sciutto.Louisville, Kentucky is mourning as they remember the victims of Monday's deadly mass shooting. This makeshift memorial sits on the steps of the Old National Bank where a gunman killed five people. Meantime police have released dramatic body cam video showing their response to the shooting. It shows the tense moments between officers and the gunman just moments before he's killed. CNN's Adrienne Broaddus takes us through the footage and a warning, what you're about to see may be disturbing to some people. (BEGIN VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:40:01",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "(EXPLETIVE DELETED)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:40:01",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "The shooter has an angle on that officer. We need to get up there. I don't know where he's at. The glass is blocking him.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:40:01",
+      "speaker": "ADRIENNE BROADDUS, CNN CORRESPONDENT",
+      "sentences": "Louisville police just releasing this body camera footage. It shows the tense confrontation with 24- year-old Connor Sturgeon after he fatally shot five of his fellow bank employees.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:40:01",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Stop. Stop right there.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:40:01",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Back up. Back up. Back up.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:40:01",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Stop right there.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:40:01",
+      "speaker": "BROADDUS",
+      "sentences": "The video begins with Officer Nicholas Rope (ph) and his training Officer Cory Galloway (ph) running toward the steps of the bank. That's when more shots are fire at them.This is when both officers are hit. We don't see Officer Wilke (ph) get hit but we do see Officer Galloway fall backward and then down a step of concrete steps. Moments later, more shots are fired between him and the suspect.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:40:01",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "I think I've got him down. I think he's down. (INAUDIBLE).Yank him down the stairs.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:40:01",
+      "speaker": "BROADDUS",
+      "sentences": "That's when the gunman is killed.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:40:01",
+      "speaker": "DEPUTY CHIEF PAUL HUMPHREY, LOUISVILLE METRO POLICE DEPARTMENT",
+      "sentences": "For people to react by staying there, staying in the fire and going back inside the scene, keeping themselves in danger, that's superhuman.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:40:01",
+      "speaker": "BROADDUS",
+      "sentences": "Police also releasing these two still pictures. One showing the suspect inside a bank hallway before the shooting and one of him in the lobby area of the building where he waited for officers.Authorities say it was a targeted attack with an AR-15 style rifle.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:40:01",
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "He's texted a friend, called a friend left a voice mail saying he's going to kill everyone at the bank. Feeling suicidal.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:44:57",
+      "speaker": "BROADDUS",
+      "sentences": "Police say they have executed a search warrant on the gunman's home and determined, he purchased the weapon just six days before the shooting.JACQUELYN GWINN-VILLAROE, LOUISVVILLE METRO POLICE DEPARTMENT: He purchased the weapon legally from one of the local dealerships here in Louisville.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:44:57",
+      "speaker": "BROADDUS",
+      "sentences": "Now, another community tries to wrap its head around devastating gun violence including Dr. Jason Smith.DR. JASON SMITH, CHIEF MEDICAL OFFICER, UNIVERSITY OF LOUISVILLE HEALTH: I'm weary. There's only so many times you can walk into a room and tell someone they're not coming home tomorrow. And it just breaks your heart.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:44:57",
+      "speaker": "BROADDUS",
+      "sentences": "Adrienne Broaddus, CNN -- Louisville, Kentucky.(END VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:44:57",
+      "speaker": "VAUSE",
+      "sentences": "Short break. When we come back, a rare glimpse inside Moscow's notorious Lefortovo Prison where inmates live in isolation and silence, that includes \"Wall Street Journal\" Evan Gershkovich.(COMMERCIAL BREAK)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:44:57",
+      "speaker": "VAUSE",
+      "sentences": "U.S. President Joe Biden has spoken with the parents of Evan Gershkovich, the \"Wall Street Journal\" reporter arrested in Russia last month on spying charges.The president spoke with (INAUDIBLE) Tuesday on the way to Northern Ireland. The White House says it's committed to getting Gershkovich released as well as Paul Whelan, another American who's been held in Russia for years. The family of Gershkovich issued a statement which reads, \"We are encouraged that the State Department has officially designated Evan as wrongfully-detained. We appreciate President Biden's call to us today and showing us that the U.S. government is doing everything in its power to bring him home as quickly as possible. The Moscow prison where Gershkovich is being held has a frightening history and reputation going back to the days of the KGB. It's been described as a fortress where prisoners are alone and isolated in total silence. Here's CNN's Matthew Chance. (BEGIN VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:44:57",
+      "speaker": "MATTHEW CHANCE, CNN SENIOR INTERNATIONAL CORRESPONDENT",
+      "sentences": "It lived under tight security. Near the center of Moscow, the walls of notorious Lefortovo imprison some of Russia's worst criminals and the Kremlin's bitterest critics. And now U.S. reporter Evan Gershkovich too.Evan. Locked away here last month on charges of espionage he denies. U.S. diplomats tell CNN they still had no access to him whatsoever. So we met one of the few people who has. The head of Russia's Prison Observation Committee agreed to speak to CNN even though the Gershkovich case has been designated secret by the Russian state. There are strict limits though to what he could tell us.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:49:56",
+      "speaker": "CHANCE",
+      "sentences": "In fact, Evan Gershkovich appeared calm, he told me. Unlike many who find themselves trapped, cut off from the outside world behind Lefortovo's walls.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:49:56",
+      "speaker": "MELNIKOV",
+      "sentences": "In the case of Gershkovich, I would probably say he was not shocked. You couldn't say that he was happy or that he envisaged this development. He simply took it calmly, that's all.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:49:56",
+      "speaker": "CHANCE",
+      "sentences": "But even a glimpse inside Lefortovo can be unnerving.This was rare access granted to Russian state television more than a decade ago. Even Russians are fascinated with a prison infamous for holding dissidents where the old KGB executed countless Soviet citizens. Officials tell us these facilities have now been renovated but the layout designed to limit contact between detainees remains unchanged as does the same old prison regime.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:49:56",
+      "speaker": "MELNIKOV",
+      "sentences": "Wake up call is at 6This routine will include trips to court if there are any and meetings with lawyers and investigators et cetera. And the walk. The authorities have to let prisoners walk for an hour every day.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:49:56",
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "I want to tell the world that I'm a victim of political kidnapping/ransom.",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:49:56",
+      "speaker": "CHANCE",
+      "sentences": "U.S. citizens have passed through Lefortovo before including former marine Paul Whelan who was held there before being convicted of spying in 2020 and sentenced to 16 years in a penal colony.Another U.S. marine veteran Trevor Reed, released in this prisoner swap last year described Lefortovo as the most sinister of the six Russian jails where he was held. \"I don't even know if I'd yelled out to tell the Wall Street Journal the other prisoners could have heard me.\" And it is that sense of being unheard, of isolation behind these walls that Evan Gershkovich may now be feeling too, even if outside there's a growing clamor to set him free. Matthew Chance, CNN -- Moscow. (END VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:49:56",
+      "speaker": "VAUSE",
+      "sentences": "Still ahead on CNN, flashbacks to the Trump era. U.S. asylum officers say some of Biden's border policies sound more like his predecessor and some considering quitting.(COMMERCIAL BREAK)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:54:47",
+      "speaker": "VAUSE",
+      "sentences": "In the U.S. federal asylum officers have warned enforcing the Biden administration's plan to restrict some migrants from being allowed to apply for asylum might violate U.S. and international law. Others tell CNN they feel disheartened by policy whiplash as the administration considers reviving rules from the Trump era.CNN's Priscilla Alvarez has more now from the White House. (BEGIN VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    },
+    {
+      "timeStamp": "01:54:47",
+      "speaker": "PRISCILLA ALVAREZ, CNN WHITE HOUSE REPORTER",
+      "sentences": "U.S. asylum officers are growing deeply frustrated with the Biden administration and the direction it's moving in asylum with some going so far as to tell me they may quit their jobs over their concerns.Now a major point of contention here is the proposed asylum wall that would largely bar migrants from seeking asylum in the United States if they transited through other countries on their way to the U.S.-Mexico border. Now that would work a departure from decades long protocol which has so far allowed migrants to seek refuge upon reaching U.S. soil And it also has echoes of the Trump administration which released a similar policy that was dubbed \"the transit ban\". Now administration officials reject the comparison saying that their world would have acceptance and that they have simultaneously opened up legal pathways for migrants to come to the United States. But that has done little to quell the concerns of asylum officers who say they will be morally and legally conflicted if this is to take effect next month. Now asylum officers have told me quote, \"at this point I can't tell the difference between Biden immigration policy and Trump immigration policy.\" Another asylum officer told me it quote, \"feels like groundhog day,\" going on to say if this is just going to be repeating over and over, there's so many other things I could be doing. Now the union that represents federal asylum officers also filed a comment to this regulation in which they called the rule draconian and went on to say that it would compel officers to violate U.S. and international law. Now this has been a major concern and the urgency here comes with the end of the COVID-19 border restriction that is set to end on May 11th when the COVID-19 public health emergency ends. Now that authority has allowed officials to turn certain migrants away at the U.S. southern border. When that goes away, the administration is seeking alternatives so that they can try to manage the flow of migration across the western hemisphere. But for many asylum officers, that could also mean putting them in a position they thought they would no longer be in after Biden's predecessor and that for some may lead them to leave their jobs. Priscilla Alvarez, CNN -- the White House. (END VIDEOTAPE)",
+      "isLastSentenceInterrupted": false
+    }
+  ]
+}
